@@ -255,7 +255,10 @@ Return ONLY a JSON array. No prose. Each element: {"sourceId": string, "keep": b
   const user = `Branch: ${branchLabel}\n\nCandidates:\n\n${candidates.map((c, i) => `--- #${i + 1} ---\nsourceId: ${c.sourceId}\n${c.raw}`).join('\n\n')}`
 
   log(`filter ${branchLabel}: ${candidates.length} candidates`)
-  const text = await claude({ system, user, maxTokens: 1500 })
+  // ~80 tokens per verdict line × candidates, + headroom. Each item only
+  // needs sourceId + bool + short reason, so this scales linearly.
+  const filterMaxTokens = Math.max(2000, candidates.length * 100)
+  const text = await claude({ system, user, maxTokens: filterMaxTokens })
   let verdicts
   try { verdicts = extractJSON(text) } catch (e) {
     warn(`filter parse failed for ${branchLabel}; keeping all. err=`, e.message)
