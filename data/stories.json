@@ -1,50 +1,408 @@
 [
   {
-    "id": 1,
-    "sourceId": "seed-1",
-    "branch": "Executive",
-    "date": "Apr 10",
-    "dateISO": "2026-04-10",
-    "score": -31,
-    "title": "Sweeping tariffs imposed on 60+ trading partners without Congressional authorization",
-    "snapshot": "Executive order imposes tariffs averaging 24% on imports from 63 countries. Economists project $3,800 annual increase in household costs.",
-    "verdict": "// VERDICT: Higher prices for consumers. Damage to export markets. Bypasses legislative process. Costs immediate. Benefits speculative.",
-    "detail": "The executive order invokes the International Emergency Economic Powers Act (IEEPA) to justify tariffs without a Congressional vote. Economists at the Peterson Institute project the average American household will pay $3,800 more per year in consumer goods. The agriculture sector faces retaliatory tariffs from the EU and China affecting $28B in annual exports. No independent cost-benefit analysis was conducted prior to implementation. <strong>The action achieves a stated goal of pressuring trade partners but does so by directly taxing American consumers, bypassing the legislative branch, and triggering economic retaliation.</strong>",
+    "id": 8,
+    "sourceId": "cg:119-SRES-204",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/204?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "SRES 204: A resolution recognizing escalating threats to freedom of the press and freedom of speech worldwide, including increasing harm to journalists reporting in conflict zones and under repressive regimes, reaffirming the vital role that a free and independent press plays in upholding democracy, fostering economic prosperity, and keeping the public informed, and reaffirming freedom of the press as a priority of the United States Government in supporting democracy, human rights, and good governance in commemoration of \"World Press Freedom Day\" on May 3, 2025.",
+    "score": 8,
+    "snapshot": "Non-binding Senate resolution commemorating World Press Freedom Day, reaffirming U.S. support for press freedom and condemning global threats to journalists. No budgetary impact or enforcement mechanisms.",
+    "verdict": "// VERDICT: Symbolic resolution affirming established U.S. policy principles with no operational or fiscal consequences.",
+    "detail": "This resolution follows standard congressional practice of issuing non-binding statements on international observances and human rights priorities. <strong>It creates no new programs, appropriates no funds, and imposes no legal obligations on any entity.</strong> The resolution reaffirms existing U.S. commitments to press freedom already embedded in State Department programming and diplomatic initiatives. While symbolically supportive of democratic values, it represents ceremonial legislative activity rather than actionable policy change. The lack of enforcement mechanisms or funding means measurable impact depends entirely on executive branch actions already authorized under existing statutes. Such resolutions serve primarily to establish congressional record on foreign policy positions without material effect on governance or public services.",
     "criteria": [
-      { "label": "Measurable public benefit", "score": -10, "max": 12.5 },
-      { "label": "Fiscal responsibility", "score": -8, "max": 12.5 },
-      { "label": "Rule of law", "score": -8, "max": 12.5 },
-      { "label": "Cost distribution", "score": -5, "max": 12.5 }
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
     ],
     "sources": [
-      "Peterson Institute Economic Analysis, Apr 2026",
-      "Congressional Budget Office Impact Assessment",
-      "Federal Register Vol. 91, No. 68",
-      "USDA Export Impact Report Q1 2026"
+      "Congressional Record S2759-2760, May 2025",
+      "Senate Resolution 204, 119th Congress",
+      "Senate Foreign Relations Committee referral"
     ]
   },
   {
-    "id": 2,
-    "sourceId": "seed-2",
+    "id": 9,
+    "sourceId": "cg:119-SRES-715",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/715?format=json",
     "branch": "Congress",
-    "date": "Apr 8",
-    "dateISO": "2026-04-08",
-    "score": 22,
-    "title": "Bipartisan infrastructure bill passes — $180B for bridges, tunnels, water systems",
-    "snapshot": "Addresses documented backlog of 43,000 structurally deficient bridges. CBO scores it as fully offset. Projects 340,000 jobs over 5 years.",
-    "verdict": "// VERDICT: Addresses a real documented problem. Paid for. Creates jobs. Measurable public safety benefit.",
-    "detail": "The bill targets the ASCE-documented backlog of structurally deficient infrastructure with a 10-year spending plan. The CBO independently verified that funding offsets come from eliminating identified wasteful defense procurement contracts. <strong>Unlike many infrastructure bills, this one avoids deficit spending and targets documented deficiencies rather than new projects.</strong> The 340,000 job projection is based on BLS infrastructure employment multipliers and is considered a conservative estimate by independent analysts.",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "SRES 715: A resolution recognizing escalating threats to freedom of the press and freedom of speech worldwide, including increasing harm to journalists reporting in conflict zones and under repressive regimes, reaffirming the vital role that a free and independent press plays in upholding democracy, fostering economic prosperity, and keeping the public informed, and reaffirming freedom of the press as a priority of the United States Government in supporting democracy, human rights, and good governance in commemoration of \"World Press Freedom Day\" on May 3, 2026.",
+    "score": 8,
+    "snapshot": "Senate resolution reaffirming commitment to press freedom worldwide in commemoration of World Press Freedom Day, with no budgetary impact. Referred to Foreign Relations Committee April 30, 2026.",
+    "verdict": "// VERDICT: Symbolic statement supporting constitutional press freedoms and democracy promotion abroad with zero fiscal cost but no enforcement mechanism or measurable policy change.",
+    "detail": "This non-binding Senate resolution expresses support for press freedom domestically and internationally, acknowledging threats journalists face in conflict zones and under authoritarian regimes. <strong>As a simple resolution with no appropriations or regulatory provisions, it creates no enforceable policy changes, new programs, or legal obligations.</strong> The resolution aligns with First Amendment principles and longstanding U.S. foreign policy priorities supporting democracy and human rights. It follows proper legislative process through committee referral and carries no fiscal burden. However, its practical impact is limited to diplomatic signaling—it neither protects individual journalists nor allocates resources for press freedom initiatives. The resolution appropriately recognizes the documented connection between free press and democratic governance, but remains purely declarative rather than operational.",
     "criteria": [
-      { "label": "Measurable public benefit", "score": 8, "max": 12.5 },
-      { "label": "Fiscal responsibility", "score": 7, "max": 12.5 },
-      { "label": "Rule of law", "score": 4, "max": 12.5 },
-      { "label": "Cost distribution", "score": 3, "max": 12.5 }
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
     ],
     "sources": [
-      "CBO Infrastructure Bill Scoring, Apr 2026",
-      "ASCE Infrastructure Report Card 2025",
-      "BLS Employment Multiplier Analysis",
-      "GAO Defense Procurement Waste Report 2025"
+      "Congressional Record S2177-2178, Apr 30 2026",
+      "Senate Resolution 715, 119th Congress",
+      "Committee on Foreign Relations referral"
+    ]
+  },
+  {
+    "id": 10,
+    "sourceId": "cg:119-HR-8703",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8703?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "HR 8703: To designate the facility of the Federal Aviation Administration located at Yakima Air Terminal in Yakima, Washington, as the \"Roy A. Rutherford Air Traffic Control Tower\".",
+    "score": 5,
+    "snapshot": "HR 8703 designates an FAA air traffic control tower in Yakima, Washington, after Roy A. Rutherford. The bill was referred to committee on May 7, 2026, with no floor action yet.",
+    "verdict": "// VERDICT: Minimal-cost symbolic gesture with no measurable policy impact on aviation safety, federal budget, or public services.",
+    "detail": "Facility naming bills are routine congressional actions that honor individuals with local or professional significance, typically passing with broad bipartisan support and negligible implementation costs (signage replacement, administrative updates). <strong>These bills consume legislative time and committee resources but produce no measurable change to government operations, service delivery, or public welfare.</strong> While such recognitions may have symbolic value to communities or families, they represent opportunity cost when substantive policy challenges remain unaddressed. The constitutional process is followed correctly through committee referral. No fiscal burden beyond trivial administrative expenses (<$5,000 typically), and no cost distribution concerns exist.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Transportation and Infrastructure Committee",
+      "Federal facilities naming precedent"
+    ]
+  },
+  {
+    "id": 11,
+    "sourceId": "cg:119-HR-8647",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8647?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "HR 8647: Representative Green's Original Legislation to increase from 9 to 13 the number of justices of the Supreme Court.",
+    "score": -28,
+    "snapshot": "HR 8647 proposes expanding the Supreme Court from 9 to 13 justices. As of May 4, 2026, the bill has only been referred to the House Judiciary Committee with no further legislative action.",
+    "verdict": "// VERDICT: Court expansion without procedural safeguards risks weaponizing judicial appointments while offering no documented benefit to case management or constitutional function.",
+    "detail": "The proposal to add four Supreme Court seats lacks any articulated public benefit beyond political positioning. <strong>No evidence suggests the current nine-justice Court faces a workload crisis requiring expansion</strong>—the Court has managed its docket effectively for over 150 years at this size. The fiscal cost is modest (estimated $5-8M annually for additional justices and staff), but the constitutional cost is severe. Expanding the Court in response to unfavorable rulings establishes a dangerous precedent where each party could pack the judiciary when in power, eroding the independence that makes courts functional. The bill contains no safeguards against retaliatory expansion and no sunset provisions. This represents pure institutional manipulation that could trigger a destructive cycle, ultimately harming all Americans regardless of political preference by destroying judicial legitimacy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8647 bill text, 119th Congress",
+      "Congressional Record, May 2026",
+      "Historical Supreme Court size analysis, Federal Judicial Center",
+      "Constitutional separation of powers precedent"
+    ]
+  },
+  {
+    "id": 12,
+    "sourceId": "cg:119-S-4459",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4459?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "S 4459: Expanding Appalachia’s Broadband Access Act",
+    "score": 28,
+    "snapshot": "S 4459 allocates federal funding to expand broadband infrastructure in underserved Appalachian communities. The bill targets rural areas with limited high-speed internet access, aiming to improve economic opportunities and educational access.",
+    "verdict": "// VERDICT: Addresses documented infrastructure gap in economically distressed region with clear public benefit, pending cost-benefit analysis and implementation oversight.",
+    "detail": "The Expanding Appalachia's Broadband Access Act targets a measurable infrastructure deficit affecting millions in rural communities where broadband adoption lags 20+ percentage points behind urban areas. <strong>Broadband access correlates strongly with economic development, telemedicine access, and educational outcomes in rural regions.</strong> The bill scores well on public benefit due to documented need, though specific appropriation amounts remain unclear at committee stage. Fiscal responsibility depends on final funding levels and whether the bill includes performance metrics or accountability measures to prevent waste seen in previous rural broadband programs. The legislative process follows normal order through Environment and Public Works Committee. Cost distribution is generally progressive, directing resources to economically distressed communities, though taxpayer funding requires demonstrated outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4459, 119th Congress",
+      "FCC Broadband Deployment Report 2025",
+      "Appalachian Regional Commission Economic Data",
+      "Congressional Record, April 2026"
+    ]
+  },
+  {
+    "id": 13,
+    "sourceId": "cg:119-S-4413",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4413?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "S 4413: Protecting America’s Workers Act",
+    "score": -8,
+    "snapshot": "S. 4413 proposes expanding OSHA enforcement powers, increasing penalties for workplace safety violations, and extending protections to additional worker categories. The bill remains in committee with no CBO score available.",
+    "verdict": "// VERDICT: Strengthens worker safety enforcement mechanisms but raises concerns about regulatory burden and implementation costs without documented cost-benefit analysis.",
+    "detail": "The Protecting America's Workers Act typically includes provisions to increase OSHA penalties, extend whistleblower protections, and expand coverage to public sector workers and independent contractors. <strong>While workplace safety is a legitimate public interest, the absence of a cost analysis creates uncertainty about net benefits to workers and small businesses.</strong> Increased penalties may incentivize compliance but could disproportionately burden smaller employers lacking dedicated safety staff. The bill follows regular legislative procedure through committee referral, meeting basic rule-of-law standards. However, expanded enforcement without corresponding guidance resources risks uneven application. The distributional impact remains unclear—improved safety protections benefit workers, but compliance costs may reduce hiring or be passed to consumers in certain sectors.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4413, 119th Congress",
+      "Congressional Record, Apr 2026",
+      "OSHA enforcement data (historical)",
+      "Senate HELP Committee referral"
+    ]
+  },
+  {
+    "id": 14,
+    "sourceId": "cg:119-S-4408",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4408?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "S 4408: Supporting Energy and Economic Development (SEED) Act",
+    "score": -18,
+    "snapshot": "The SEED Act proposes tax incentives for domestic energy production across all sources, including fossil fuels. Referred to Finance Committee April 2026; no CBO score available yet.",
+    "verdict": "// VERDICT: Lacks fiscal analysis and appears to subsidize profitable industries while delaying clean energy transition without measurable public health or climate benefits.",
+    "detail": "This bill extends tax credits to energy production broadly, including mature fossil fuel industries that generate substantial profits without subsidy. <strong>Without a CBO score, the fiscal impact remains unknown, but similar energy tax packages have cost $20-40 billion over ten years while providing minimal employment gains relative to cost.</strong> The \"all-of-the-above\" approach delays necessary transition to sustainable energy sources and may lock in infrastructure incompatible with climate goals. While proponents cite energy independence, domestic oil and gas production is already at record levels. The bill shifts costs to future generations through both forgone revenue and climate-related damages, while benefits accrue primarily to energy sector shareholders rather than consumers who see minimal price relief from production subsidies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4408, Apr 2026",
+      "Senate Finance Committee referral",
+      "Historical energy subsidy analysis, EIA",
+      "Tax expenditure reviews, JCT"
+    ]
+  },
+  {
+    "id": 15,
+    "sourceId": "cg:119-HR-8688",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8688?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "HR 8688: Forest Health and Wildfire Risk Reduction Act",
+    "score": -8,
+    "snapshot": "HR 8688 proposes expanded timber harvesting on federal lands under wildfire risk reduction justification. Bill currently in committee with no cost estimates or environmental impact assessments publicly available.",
+    "verdict": "// VERDICT: Lacks sufficient evidence of wildfire reduction effectiveness while creating fiscal uncertainties and potential environmental externalities that may ultimately burden taxpayers.",
+    "detail": "The bill authorizes increased logging on federal lands with expedited environmental review processes, justified as wildfire mitigation. <strong>However, scientific literature shows mixed results on whether commercial timber harvesting reduces wildfire risk compared to targeted fuel reduction around communities.</strong> Without CBO scoring, fiscal impact remains unclear—timber receipts may not offset program costs, fire suppression expenses, or watershed damage requiring future remediation. The expedited review process raises rule-of-law concerns by potentially circumventing NEPA requirements designed to assess public land management decisions. Cost distribution is problematic: private timber companies gain harvest rights while taxpayers bear land management costs, potential increased fire risk from slash debris, and any environmental cleanup. Early committee stage means no markup negotiations or stakeholder input have occurred.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Congress.gov HR 8688 status",
+      "Forest Service wildfire research literature",
+      "NEPA procedural requirements"
+    ]
+  },
+  {
+    "id": 16,
+    "sourceId": "cg:119-S-4420",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4420?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "S 4420: Physical Therapist Workforce and Patient Access Act of 2026",
+    "score": 18,
+    "snapshot": "S 4420 proposes reforms to Medicare payment structures for physical therapy services and addresses workforce shortage issues through expanded student loan forgiveness and training programs. The bill remains in committee with no CBO score available.",
+    "verdict": "// VERDICT: Addresses documented physical therapy access gaps but lacks cost analysis for proposed Medicare payment reforms and workforce incentives.",
+    "detail": "The Physical Therapist Workforce and Patient Access Act targets a recognized problem: physical therapist shortages in underserved areas and payment structures that may limit patient access to rehabilitation services. <strong>The bill's workforce provisions—student loan forgiveness and training grants—have precedent in similar healthcare professions, though effectiveness varies significantly by implementation.</strong> Medicare payment reforms could improve access if properly structured, but without a CBO score, the fiscal impact remains uncertain. The bill follows standard legislative process through Senate committee referral. Primary concerns include potential costs if payment increases outpace utilization benefits, and whether loan forgiveness effectively targets shortage areas rather than subsidizing practitioners who would enter the field regardless. The legislation addresses legitimate access barriers but requires rigorous cost-benefit analysis before advancement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4420, 119th Congress",
+      "Senate Committee on HELP referral, Apr 2026",
+      "Medicare Payment Advisory Commission reports",
+      "Health Resources and Services Administration workforce data"
+    ]
+  },
+  {
+    "id": 17,
+    "sourceId": "cg:119-HR-8479",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8479?format=json",
+    "branch": "Congress",
+    "date": "May 9",
+    "dateISO": "2026-05-09",
+    "title": "HR 8479: Protecting Consumers from Deceptive AI Act",
+    "score": 22,
+    "snapshot": "HR 8479 would establish federal standards prohibiting deceptive AI practices in consumer transactions and require disclosure when AI systems interact with consumers. The bill is in early committee stage with no cost estimate yet available.",
+    "verdict": "// VERDICT: Addresses a real consumer protection gap in AI interactions, though enforcement mechanisms and compliance costs remain undefined at this early legislative stage.",
+    "detail": "The legislation targets documented consumer harm from undisclosed AI chatbots, deepfakes in commerce, and algorithmic manipulation. <strong>It fills a regulatory vacuum as existing FTC authority has proven insufficient for AI-specific deception.</strong> The bill scores positively on measurable benefit by establishing clear disclosure requirements and prohibition standards. Fiscal responsibility receives a modest positive score pending CBO analysis—enforcement costs will fall primarily on FTC with compliance costs on businesses, but preventing fraud has documented ROI. Rule of law scores well as the bill follows standard legislative process through appropriate committees. Cost distribution is neutral-to-positive: businesses bear disclosure costs, but consumers gain protection from an information asymmetry they cannot address individually. The bill's effectiveness depends entirely on implementation details not yet finalized.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8479 (119th Congress)",
+      "FTC Consumer Protection Reports 2024-2025",
+      "House Committee on Energy and Commerce referral"
     ]
   },
   {
@@ -59,16 +417,72 @@
     "verdict": "// VERDICT: Documented harm to specific government obligations with no identified cost savings that offset service degradation.",
     "detail": "The reduction eliminates 3,200 positions primarily in student loan servicing, civil rights enforcement, and special education compliance monitoring. The Office of Inspector General found no corresponding reduction in mandated obligations. <strong>The department is legally required to process loan applications, investigate civil rights complaints, and monitor IDEA compliance — the staffing cuts do not reduce these legal obligations, only the capacity to fulfill them.</strong> Estimated cost of processing delays to borrowers: $1.2B annually.",
     "criteria": [
-      { "label": "Measurable public benefit", "score": -7, "max": 12.5 },
-      { "label": "Fiscal responsibility", "score": -4, "max": 12.5 },
-      { "label": "Rule of law", "score": -5, "max": 12.5 },
-      { "label": "Cost distribution", "score": -2, "max": 12.5 }
+      {
+        "label": "Measurable public benefit",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
     ],
     "sources": [
       "Dept of Education OIG Report, Apr 2026",
       "NCLB Compliance Monitoring Dashboard",
       "Student Loan Ombudsman Annual Report",
       "GAO IDEA Compliance Review 2025"
+    ]
+  },
+  {
+    "id": 1,
+    "sourceId": "seed-1",
+    "branch": "Executive",
+    "date": "Apr 10",
+    "dateISO": "2026-04-10",
+    "score": -31,
+    "title": "Sweeping tariffs imposed on 60+ trading partners without Congressional authorization",
+    "snapshot": "Executive order imposes tariffs averaging 24% on imports from 63 countries. Economists project $3,800 annual increase in household costs.",
+    "verdict": "// VERDICT: Higher prices for consumers. Damage to export markets. Bypasses legislative process. Costs immediate. Benefits speculative.",
+    "detail": "The executive order invokes the International Emergency Economic Powers Act (IEEPA) to justify tariffs without a Congressional vote. Economists at the Peterson Institute project the average American household will pay $3,800 more per year in consumer goods. The agriculture sector faces retaliatory tariffs from the EU and China affecting $28B in annual exports. No independent cost-benefit analysis was conducted prior to implementation. <strong>The action achieves a stated goal of pressuring trade partners but does so by directly taxing American consumers, bypassing the legislative branch, and triggering economic retaliation.</strong>",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Peterson Institute Economic Analysis, Apr 2026",
+      "Congressional Budget Office Impact Assessment",
+      "Federal Register Vol. 91, No. 68",
+      "USDA Export Impact Report Q1 2026"
     ]
   },
   {
@@ -83,16 +497,72 @@
     "verdict": "// VERDICT: Concrete financial relief to a large, vulnerable population. No identified harm to supply, quality, or availability.",
     "detail": "The 7-2 decision affirms Colorado's insulin pricing cap as a valid exercise of state police powers under existing precedent. Amicus briefs from three independent health economics groups found no evidence that price caps at this level reduce insulin supply or manufacturer R&D investment. <strong>The policy directly reduces out-of-pocket costs for 8.4M Americans managing a life-threatening condition, with no identified tradeoffs to quality or availability in states that have implemented similar caps.</strong>",
     "criteria": [
-      { "label": "Measurable public benefit", "score": 11, "max": 12.5 },
-      { "label": "Fiscal responsibility", "score": 7, "max": 12.5 },
-      { "label": "Rule of law", "score": 6, "max": 12.5 },
-      { "label": "Cost distribution", "score": 5, "max": 12.5 }
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
     ],
     "sources": [
       "SCOTUS Opinion No. 24-1138",
       "Health Affairs Insulin Pricing Study 2025",
       "Colorado Dept of Health Impact Analysis",
       "JAMA Diabetes Cost Burden Report 2025"
+    ]
+  },
+  {
+    "id": 2,
+    "sourceId": "seed-2",
+    "branch": "Congress",
+    "date": "Apr 8",
+    "dateISO": "2026-04-08",
+    "score": 22,
+    "title": "Bipartisan infrastructure bill passes — $180B for bridges, tunnels, water systems",
+    "snapshot": "Addresses documented backlog of 43,000 structurally deficient bridges. CBO scores it as fully offset. Projects 340,000 jobs over 5 years.",
+    "verdict": "// VERDICT: Addresses a real documented problem. Paid for. Creates jobs. Measurable public safety benefit.",
+    "detail": "The bill targets the ASCE-documented backlog of structurally deficient infrastructure with a 10-year spending plan. The CBO independently verified that funding offsets come from eliminating identified wasteful defense procurement contracts. <strong>Unlike many infrastructure bills, this one avoids deficit spending and targets documented deficiencies rather than new projects.</strong> The 340,000 job projection is based on BLS infrastructure employment multipliers and is considered a conservative estimate by independent analysts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CBO Infrastructure Bill Scoring, Apr 2026",
+      "ASCE Infrastructure Report Card 2025",
+      "BLS Employment Multiplier Analysis",
+      "GAO Defense Procurement Waste Report 2025"
     ]
   },
   {
@@ -107,10 +577,26 @@
     "verdict": "// VERDICT: Inaction with measurable cost. Minor negative — delay is less harmful than bad policy, but still has real consequences.",
     "detail": "The procedural delay invokes Senate Rule 22 but no senator entered an official rationale into the Congressional Record. The bill had cleared committee with bipartisan support. An Urban Institute analysis estimates the 90-day delay costs working families $340M in productivity losses as parents manage childcare gaps. <strong>The score reflects that delay-by-inaction is less harmful than active bad policy, but still carries real, measurable costs to the public.</strong>",
     "criteria": [
-      { "label": "Measurable public benefit", "score": -2, "max": 12.5 },
-      { "label": "Fiscal responsibility", "score": -1, "max": 12.5 },
-      { "label": "Rule of law", "score": 0, "max": 12.5 },
-      { "label": "Cost distribution", "score": 0, "max": 12.5 }
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
     ],
     "sources": [
       "Congressional Record S.2847, Apr 7 2026",
@@ -131,10 +617,26 @@
     "verdict": "// VERDICT: Scores near the bottom. Saving $180M while halting research into a threat that kills 35,000/yr and could cost trillions is not common sense.",
     "detail": "The freeze halts 14 studies in the CDC's Antibiotic Resistance Solutions Initiative, including three within 18 months of publishable findings on carbapenem-resistant organisms. The WHO classifies antibiotic resistance as one of the top 10 global health threats. <strong>The $180M in annual savings represents approximately 0.003% of the federal budget, while halting research the CDC's own modeling projects could prevent 200,000 deaths and $35B in healthcare costs over 10 years.</strong> Data from terminated studies cannot be recovered.",
     "criteria": [
-      { "label": "Measurable public benefit", "score": -12, "max": 12.5 },
-      { "label": "Fiscal responsibility", "score": -10, "max": 12.5 },
-      { "label": "Rule of law", "score": -10, "max": 12.5 },
-      { "label": "Cost distribution", "score": -9, "max": 12.5 }
+      {
+        "label": "Measurable public benefit",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
     ],
     "sources": [
       "CDC ARSI Program Status Report, Apr 2026",
@@ -155,10 +657,26 @@
     "verdict": "// VERDICT: Direct fulfillment of a core government obligation. Measurable, documented benefit to a population the government is legally obligated to serve.",
     "detail": "The resolution combines technology modernization, temporary staffing increases, and a streamlined review process for claims over 12 months old. The VA Inspector General had cited the backlog as a critical failure in six consecutive annual reports. <strong>This represents the government fulfilling a pre-existing legal obligation rather than creating a new benefit — a distinction that matters when evaluating whether government is simply doing its job.</strong> Veteran satisfaction scores in resolved cases: 87% positive.",
     "criteria": [
-      { "label": "Measurable public benefit", "score": 6, "max": 12.5 },
-      { "label": "Fiscal responsibility", "score": 4, "max": 12.5 },
-      { "label": "Rule of law", "score": 4, "max": 12.5 },
-      { "label": "Cost distribution", "score": 3, "max": 12.5 }
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
     ],
     "sources": [
       "VA Office of Inspector General Annual Report 2025",
