@@ -330,15 +330,13 @@ function DonutChart({ story }: { story: Story }) {
 // ─────────────────────────────────────────────
 // STORY CARD
 // ─────────────────────────────────────────────
-function StoryCard({ story }: { story: Story }) {
-  const [open, setOpen] = useState(false)
-
+function StoryCard({ story, open, onToggle }: { story: Story; open: boolean; onToggle: () => void }) {
   const scoreCls = story.score > 5 ? 'b-score-pos' : story.score < -5 ? 'b-score-neg' : 'b-score-neu'
   const branchCls = story.branch === 'Executive' ? 'b-exec' : story.branch === 'Congress' ? 'b-leg' : 'b-jud'
 
   return (
     <div className={`b-card${open ? ' b-open' : ''}`}>
-      <div className="b-card-summary" onClick={() => setOpen(o => !o)}>
+      <div className="b-card-summary" onClick={onToggle}>
         <div className={`b-score-box ${scoreCls}`}>
           <div className="b-score-n">{story.score > 0 ? '+' : ''}{story.score}</div>
           <div className="b-score-d">/ ±50</div>
@@ -419,6 +417,8 @@ function StoryCard({ story }: { story: Story }) {
 // ─────────────────────────────────────────────
 export default function Feed({ stories, stats }: { stories: Story[]; stats: Stats }) {
   const [filter, setFilter] = useState<Filter>('all')
+  // Accordion: only one card open at a time. `null` = all collapsed.
+  const [openId, setOpenId] = useState<number | null>(null)
 
   const tickerDoubled = [...stats.ticker, ...stats.ticker]
   const filtered = filter === 'all' ? stories : stories.filter(s => s.branch.toLowerCase() === filter)
@@ -431,9 +431,9 @@ export default function Feed({ stories, stats }: { stories: Story[]; stats: Stat
       <nav className="b-nav">
         <div className="b-logo">BUREAU_OF_<span>COMMON_SENSE</span></div>
         <div className="b-nav-links">
-          {/* Only nav targets that exist on the page: #all (feed) and #methodology.
-              Branch filtering is handled by the filter bar below the masthead. */}
-          {['All', 'Methodology'].map(l => (
+          {/* Branch filtering lives in the filter bar below the masthead;
+              the only nav anchor needed is Methodology. */}
+          {['Methodology'].map(l => (
             <a key={l} href={`#${l.toLowerCase()}`}>{l}</a>
           ))}
         </div>
@@ -482,7 +482,14 @@ export default function Feed({ stories, stats }: { stories: Story[]; stats: Stat
       </div>
 
       <div className="b-feed" id="all">
-        {filtered.map(story => <StoryCard key={story.id} story={story} />)}
+        {filtered.map(story => (
+          <StoryCard
+            key={story.id}
+            story={story}
+            open={openId === story.id}
+            onToggle={() => setOpenId(prev => (prev === story.id ? null : story.id))}
+          />
+        ))}
       </div>
 
       <div className="b-scale">
