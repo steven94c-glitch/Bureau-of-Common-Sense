@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react'
 import type { Story, Stats, Filter } from '@/lib/types'
+import Analyzer from './Analyzer'
 
 // ─────────────────────────────────────────────
 // CSS
@@ -535,6 +536,8 @@ export default function Feed({ stories, stats }: { stories: Story[]; stats: Stat
           <div className="b-stat-sub">{stats.highestTitle}</div>
         </div>
       </div>
+
+      <Analyzer />
 
       <div className="b-method" id="methodology">
         <div className="b-method-left">
