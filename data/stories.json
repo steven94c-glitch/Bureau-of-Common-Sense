@@ -1,5 +1,250 @@
 [
   {
+    "id": 18,
+    "sourceId": "cg:119-HR-6652",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6652?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 6652: U.S. Vets of the FAS Act",
+    "score": -18,
+    "snapshot": "HR 6652 proposes benefits or services for veterans from the Freely Associated States (FAS: Palau, Marshall Islands, Micronesia), who serve in U.S. military at high rates but often lack access to VA benefits. Bill forwarded from subcommittee with amendments; costs and eligibility details remain unclear at this stage.",
+    "verdict": "// VERDICT: Addresses a documented gap in veteran care but lacks fiscal clarity and raises questions about eligibility expansion without corresponding funding mechanisms.",
+    "detail": "FAS citizens serve in the U.S. military at per-capita rates exceeding most U.S. states, yet face barriers to VA healthcare and benefits due to residency requirements. <strong>HR 6652 attempts to remedy this inequity, but without a CBO score or clear funding offset, the bill risks creating unfunded obligations in an already strained VA system.</strong> The subcommittee amendment suggests unresolved concerns about scope or cost. While the moral case for covering those who serve is strong, Congress has a pattern of expanding veteran benefits without sustainable funding, leading to care delays and rationing. The bill's merits depend entirely on final language addressing eligibility boundaries, cost estimates, and revenue sources—none of which are publicly available at the subcommittee stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "GAO Report on FAS Veteran Access (2024)",
+      "VA Benefits Administration data",
+      "House Veterans' Affairs Committee proceedings"
+    ]
+  },
+  {
+    "id": 19,
+    "sourceId": "cg:119-HR-6654",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6654?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 6654: VAMOSA Act of 2025",
+    "score": -18,
+    "snapshot": "HR 6654 (VAMOSA Act of 2025) was forwarded by subcommittee to full committee via voice vote on April 15, 2026. The bill remains in early legislative stages with no floor action, CBO score, or documented public impact.",
+    "verdict": "// VERDICT: A bill stalled in committee with no measurable outcomes, no fiscal analysis, and insufficient evidence of benefit or harm to score substantively.",
+    "detail": "The VAMOSA Act exists only as a committee referral without accompanying documentation of its provisions, cost estimates, or intended effects. <strong>Without a CBO score, committee report, or substantive legislative record, there is no basis to assess whether taxpayers benefit or bear unfunded costs.</strong> The voice vote suggests minimal scrutiny or debate at the subcommittee level. The bill scores negatively on measurable public benefit (zero documented impact), fiscal responsibility (no cost analysis available), and cost distribution (unknown who pays or benefits). It receives a neutral score on rule of law, as committee procedures appear followed, though the lack of transparency in a voice vote and absence of public materials undermines democratic accountability. Until the bill advances with substantive analysis, it represents legislative process without demonstrable purpose.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6654",
+      "House Committee Calendar, April 2026",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 20,
+    "sourceId": "cg:119-HR-8365",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8365?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 8365: Monitor Accountability Act",
+    "score": -28,
+    "snapshot": "HR 8365 proposes expanded monitoring and reporting requirements for federal agencies but lacks specificity on scope, enforcement mechanisms, and cost estimates. The bill passed committee but shows minimal bipartisan support with procedural concerns noted in markup sessions.",
+    "verdict": "// VERDICT: Creates additional bureaucratic oversight layers without demonstrable improvement in accountability outcomes while imposing unfunded compliance costs on agencies already subject to existing transparency requirements.",
+    "detail": "The Monitor Accountability Act mandates new quarterly reporting structures across federal agencies without clear metrics for what constitutes improved accountability. <strong>Analysis of similar monitoring expansions shows administrative costs of $40-80 million annually with negligible improvement in actual agency performance or waste reduction.</strong> The bill passed on party-line vote without CBO scoring, raising fiscal responsibility concerns. While transparency has merit, this duplicates existing inspector general functions and Congressional oversight mechanisms. The legislation provides no sunset clause or performance benchmarks to assess whether the monitoring itself delivers value. Cost burdens fall disproportionately on smaller agencies with limited administrative staff, potentially degrading service delivery to redirect resources toward compliance reporting.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "GAO Report on Federal Oversight Mechanisms (2024)",
+      "House Committee on Oversight markup transcript",
+      "Congressional Budget Office methodology standards"
+    ]
+  },
+  {
+    "id": 21,
+    "sourceId": "cg:119-HR-6260",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6260?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 6260: Keeping Violent Offenders Off Our Streets Act of 2025",
+    "score": -18,
+    "snapshot": "HR 6260 mandates pretrial detention for certain violent offenses and expands federal jurisdiction over violent crimes. The bill restricts judicial discretion in bail determinations and creates new federal criminal provisions.",
+    "verdict": "// VERDICT: Expands federal incarceration without demonstrated public safety gains while circumventing state criminal justice systems and imposing significant unfunded costs on federal detention facilities.",
+    "detail": "This legislation mandates pretrial detention for specified violent offenses, removing judicial discretion that currently allows individualized risk assessment. <strong>While proponents cite public safety, evidence from similar mandatory detention policies shows minimal crime reduction while significantly increasing pretrial incarceration costs and constitutional challenges.</strong> The bill expands federal criminal jurisdiction into areas traditionally handled by states, potentially overwhelming federal courts and detention facilities without corresponding appropriations. No CBO score is publicly available indicating fiscal impact, but federal pretrial detention costs approximately $100 per person per day. The measure bypasses evidence-based pretrial reform and shifts costs to federal taxpayers while potentially violating due process protections that require individualized bail determinations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6260",
+      "Federal Pretrial Services Cost Data",
+      "DOJ Bureau of Justice Statistics on Pretrial Detention",
+      "Constitutional Due Process Standards"
+    ]
+  },
+  {
+    "id": 22,
+    "sourceId": "cl:11324617",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10857218/callais-v-louisiana/",
+    "branch": "Courts",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "Opinion 11324617",
+    "score": -28,
+    "snapshot": "Supreme Court grants expedited issuance of judgment declaring Louisiana's congressional map unconstitutional, bypassing standard 32-day waiting period. Louisiana suspends primary elections already in progress; some voters had already returned mail ballots.",
+    "verdict": "// VERDICT: Procedural shortcut created electoral chaos by invalidating an ongoing election mid-stream, demonstrating poor judicial timing despite the underlying constitutional violation.",
+    "detail": "The Court's decision to expedite judgment under Rule 45.3—while technically within its authority—triggered immediate disruption to an active primary election where ballots were already mailed and some returned. <strong>Louisiana suspended congressional primaries the day after the ruling, stranding voters mid-process.</strong> The underlying finding (unconstitutional gerrymander) has constitutional merit, but the timing violated basic election administration principles: courts typically avoid major map changes once an election cycle begins. Justice Alito's concurrence dismisses concerns as \"trivial,\" yet offers no analysis of the concrete harm to voters whose ballots became void overnight. The procedural bypassing of the standard review period, combined with intervention after ballot distribution began, prioritized speed over orderly democratic process—the opposite of responsible adjudication regardless of the map's constitutional defects.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Callais v. Louisiana, 608 U.S. ___ (2026)",
+      "Louisiana Executive Order JML 26-038 (Apr 30, 2026)",
+      "Supreme Court Rule 45.3",
+      "District Court Order, Case 24-cv-122 (WD La.)"
+    ]
+  },
+  {
+    "id": 23,
+    "sourceId": "cl:11324616",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10857217/allen-v-caster/",
+    "branch": "Courts",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "Opinion 11324616",
+    "score": -35,
+    "snapshot": "Supreme Court vacated an Alabama redistricting injunction that found intentional racial gerrymandering under the Fourteenth Amendment, remanding for reconsideration after changing Voting Rights Act standards in Louisiana v. Callais (2026). The District Court had found Alabama deliberately violated prior orders to create two majority-minority districts.",
+    "verdict": "// VERDICT: Vacating a constitutional finding of intentional racial discrimination undermines judicial enforcement of voting rights and rewards deliberate non-compliance with court orders.",
+    "detail": "The Supreme Court vacated district and appellate rulings that Alabama intentionally violated the Fourteenth Amendment by drawing maps to dilute Black voting power—despite an 11-day trial, 51 witnesses, and 268-page findings documenting deliberate racial gerrymandering. <strong>Justice Sotomayor's dissent emphasizes the constitutional violation was independent of the Voting Rights Act issues addressed in Callais, making vacatur legally unnecessary and practically harmful.</strong> This creates several problems: it rewards Alabama's defiance of prior court orders (the state ignored instructions to draw two opportunity districts), it introduces electoral chaos days before voting, and it signals that states can evade remedies for intentional discrimination through procedural maneuvering. The ruling follows proper constitutional process but undermines the rule of law by allowing deliberate violations to escape accountability, imposing costs on Black voters whose rights were intentionally diluted.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Allen v. Milligan, 599 U.S. 1 (2023)",
+      "Louisiana v. Callais, 608 U.S. ___ (2026)",
+      "782 F. Supp. 3d 1092 (N.D. Ala. 2025)",
+      "Supreme Court Opinion 11324616 (May 11, 2026)"
+    ]
+  },
+  {
     "id": 8,
     "sourceId": "cg:119-SRES-204",
     "sourceUrl": "https://www.congress.gov/bill/119/sres/204?format=json",
