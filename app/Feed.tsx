@@ -191,6 +191,7 @@ const css = `
 
   .b-footer { background: var(--ink); }
   .b-footer-top { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; border-bottom: 1px solid var(--ink-2); }
+  .b-footer-top-slim { grid-template-columns: 2fr 1fr; }
   .b-fcol { padding: 36px 32px; border-right: 1px solid var(--ink-2); }
   .b-fcol:last-child { border-right: none; }
   .b-f-logo { font-family: 'IBM Plex Mono', monospace; font-size: 12px; font-weight: 700; color: var(--bg); letter-spacing: 0.5px; }
@@ -386,7 +387,9 @@ export default function Feed({ stories, stats }: { stories: Story[]; stats: Stat
       <nav className="b-nav">
         <div className="b-logo">BUREAU_OF_<span>COMMON_SENSE</span></div>
         <div className={`b-nav-links${menuOpen ? ' open' : ''}`}>
-          {['All', 'Executive', 'Congress', 'Courts', 'Methodology'].map(l => (
+          {/* Only nav targets that exist on the page: #all (feed) and #methodology.
+              Branch filtering is handled by the filter bar below the masthead. */}
+          {['All', 'Methodology'].map(l => (
             <a key={l} href={`#${l.toLowerCase()}`} onClick={() => setMenuOpen(false)}>{l}</a>
           ))}
         </div>
@@ -507,25 +510,18 @@ export default function Feed({ stories, stats }: { stories: Story[]; stats: Stat
       </div>
 
       <footer className="b-footer">
-        <div className="b-footer-top">
+        <div className="b-footer-top b-footer-top-slim">
           <div className="b-fcol">
             <div className="b-f-logo">BUREAU_OF_<span>COMMON_SENSE</span></div>
             <p className="b-f-tag">Free. Nonpartisan. Independent. No party funding. No ideology. Just an honest accounting of what your government is doing and whether it makes sense.</p>
           </div>
-          {[
-            { heading: 'Coverage', links: [['All policies', '/all'], ['Executive', '/executive'], ['Congress', '/congress'], ['Courts', '/courts'], ['States', '/states']] },
-            { heading: 'About',    links: [['Methodology', '/methodology'], ['Who we are', '/about'], ['Independence', '/funding'], ['Corrections', '/corrections']] },
-            { heading: 'Data',     links: [['RSS feed', '/rss'], ['Raw data', '/data'], ['API access', '/api'], ['Embed a score', '/embed']] },
-          ].map(col => (
-            <div key={col.heading} className="b-fcol">
-              <h5>{col.heading}</h5>
-              {col.links.map(([label, href]) => <a key={label} href={href}>{label}</a>)}
-            </div>
-          ))}
+          <div className="b-fcol">
+            <h5>About</h5>
+            <a href="#methodology">Methodology</a>
+          </div>
         </div>
         <div className="b-footer-bottom">
           <span>© {stats.asOf.slice(0, 4)} The Bureau of Common Sense — Free to use. Unfunded by anyone with an agenda.</span>
-          <div className="b-f-legal"><a href="/privacy">Privacy</a><a href="/terms">Terms</a></div>
         </div>
       </footer>
     </>
