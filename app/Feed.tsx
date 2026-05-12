@@ -47,9 +47,6 @@ const css = `
   .b-nav-links a:last-child { border-right: 1px solid var(--ink-2); }
   .b-nav-links a:hover { color: var(--bg); background: var(--ink-2); }
   .b-nav-tag { font-family: 'IBM Plex Mono', monospace; font-size: 10px; color: var(--dim); letter-spacing: 1px; }
-  .b-hamburger { display: none; flex-direction: column; gap: 5px; background: none; border: none; padding: 4px; }
-  .b-hamburger span { display: block; width: 20px; height: 1.5px; background: var(--bg); }
-
   .b-masthead {
     background: var(--ink); padding: 48px 48px 40px; border-bottom: 3px solid var(--ink);
     display: grid; grid-template-columns: 1fr auto; gap: 48px; align-items: center;
@@ -214,24 +211,11 @@ const css = `
     .b-detail { grid-template-columns: 1fr; }
   }
   @media (max-width: 768px) {
-    .b-nav { padding: 0 20px; position: relative; }
-
-    /* Hamburger drawer: when .open, the nav links collapse downward as a
-       full-width drop-down stacked under the nav bar. */
-    .b-nav-links {
-      display: none;
-      position: absolute; top: 56px; left: 0; right: 0;
-      background: var(--ink); border-top: 1px solid var(--ink-2);
-      flex-direction: column; z-index: 99;
-    }
-    .b-nav-links.open { display: flex; }
-    .b-nav-links a {
-      height: 44px; padding: 0 20px; width: 100%;
-      border-left: none; border-bottom: 1px solid var(--ink-2);
-    }
-    .b-nav-links a:last-child { border-right: none; border-bottom: none; }
+    /* Keep .b-nav as position: sticky (inherited from the base rule) so it
+       stays pinned at top:0. The filter bar sticks at top:56px just below. */
+    .b-nav { padding: 0 16px; }
+    .b-nav-links a { padding: 0 12px; font-size: 9px; letter-spacing: 1.5px; }
     .b-nav-tag { display: none; }
-    .b-hamburger { display: flex; }
 
     .b-masthead { grid-template-columns: 1fr; padding: 32px 20px; gap: 24px; }
     .b-hero-title { font-size: 32px; }
@@ -435,7 +419,6 @@ function StoryCard({ story }: { story: Story }) {
 // ─────────────────────────────────────────────
 export default function Feed({ stories, stats }: { stories: Story[]; stats: Stats }) {
   const [filter, setFilter] = useState<Filter>('all')
-  const [menuOpen, setMenuOpen] = useState(false)
 
   const tickerDoubled = [...stats.ticker, ...stats.ticker]
   const filtered = filter === 'all' ? stories : stories.filter(s => s.branch.toLowerCase() === filter)
@@ -447,17 +430,14 @@ export default function Feed({ stories, stats }: { stories: Story[]; stats: Stat
 
       <nav className="b-nav">
         <div className="b-logo">BUREAU_OF_<span>COMMON_SENSE</span></div>
-        <div className={`b-nav-links${menuOpen ? ' open' : ''}`}>
+        <div className="b-nav-links">
           {/* Only nav targets that exist on the page: #all (feed) and #methodology.
               Branch filtering is handled by the filter bar below the masthead. */}
           {['All', 'Methodology'].map(l => (
-            <a key={l} href={`#${l.toLowerCase()}`} onClick={() => setMenuOpen(false)}>{l}</a>
+            <a key={l} href={`#${l.toLowerCase()}`}>{l}</a>
           ))}
         </div>
         <div className="b-nav-tag">Free. Nonpartisan. Open.</div>
-        <button className="b-hamburger" onClick={() => setMenuOpen(o => !o)} aria-label="Menu">
-          <span /><span /><span />
-        </button>
       </nav>
 
       <div className="b-masthead">
