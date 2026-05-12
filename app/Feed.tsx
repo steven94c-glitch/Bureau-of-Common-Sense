@@ -214,22 +214,83 @@ const css = `
     .b-detail { grid-template-columns: 1fr; }
   }
   @media (max-width: 768px) {
-    .b-nav { padding: 0 20px; }
-    .b-nav-links { display: none; }
+    .b-nav { padding: 0 20px; position: relative; }
+
+    /* Hamburger drawer: when .open, the nav links collapse downward as a
+       full-width drop-down stacked under the nav bar. */
+    .b-nav-links {
+      display: none;
+      position: absolute; top: 56px; left: 0; right: 0;
+      background: var(--ink); border-top: 1px solid var(--ink-2);
+      flex-direction: column; z-index: 99;
+    }
+    .b-nav-links.open { display: flex; }
+    .b-nav-links a {
+      height: 44px; padding: 0 20px; width: 100%;
+      border-left: none; border-bottom: 1px solid var(--ink-2);
+    }
+    .b-nav-links a:last-child { border-right: none; border-bottom: none; }
+    .b-nav-tag { display: none; }
     .b-hamburger { display: flex; }
-    .b-masthead { grid-template-columns: 1fr; padding: 32px 24px; }
+
+    .b-masthead { grid-template-columns: 1fr; padding: 32px 20px; gap: 24px; }
+    .b-hero-title { font-size: 32px; }
+    .b-hero-sub { font-size: 13px; }
     .b-avg-wrap { border-left: none; padding-left: 0; border-top: 1px solid var(--ink-2); padding-top: 20px; text-align: left; }
-    .b-filter-bar { padding: 12px 20px; }
-    .b-card-summary { padding: 20px; grid-template-columns: auto 1fr; }
+    .b-avg-num { font-size: 56px; }
+
+    .b-ticker-item { font-size: 9px; padding: 0 18px; }
+
+    .b-filter-bar { padding: 12px 20px; top: 56px; }
+    .b-filter-btn { padding: 7px 12px; font-size: 9px; letter-spacing: 1.5px; }
+    .b-sort-label { font-size: 9px; width: 100%; }
+
+    .b-card-summary { padding: 18px 20px; grid-template-columns: auto 1fr; gap: 14px; }
+    .b-score-box { width: 52px; height: 52px; border-width: 2px; }
+    .b-score-n { font-size: 18px; }
+    .b-card-title { font-size: 15px; }
+    .b-card-snap { font-size: 12px; }
+    .b-card-verdict { font-size: 9px; }
     .b-expand-btn { display: none; }
-    .b-detail { padding: 24px 20px; grid-template-columns: 1fr; }
-    .b-scale { grid-template-columns: 1fr; gap: 16px; padding: 24px; }
+
+    .b-detail { padding: 24px 20px; grid-template-columns: 1fr; gap: 28px; }
+    .b-detail-body { font-size: 13px; }
+    .b-crit-bar-wrap { width: 90px; padding: 10px 12px; }
+    .b-crit-lbl { font-size: 9px; padding: 10px 12px; }
+    .b-crit-score { width: 48px; padding: 10px 12px; font-size: 11px; }
+
+    .b-scale { grid-template-columns: 1fr; gap: 16px; padding: 24px 20px; }
+    .b-scale-n { font-size: 22px; }
+
+    .b-stat { padding: 22px 20px; }
+    .b-stat-val { font-size: 28px; }
+
     .b-method { grid-template-columns: 1fr; }
-    .b-method-left { border-right: none; border-bottom: 3px solid var(--ink); }
+    .b-method-left { border-right: none; border-bottom: 3px solid var(--ink); padding: 36px 24px; }
+    .b-method-title { font-size: 24px; }
     .b-crit-grid { grid-template-columns: 1fr; }
-    .b-footer-top { grid-template-columns: 1fr 1fr; }
-    .b-fcol:nth-child(even) { border-right: none; }
-    .b-footer-bottom { flex-direction: column; gap: 10px; }
+    .b-crit { padding: 22px 24px; }
+
+    .b-footer-top, .b-footer-top-slim { grid-template-columns: 1fr; }
+    .b-fcol { border-right: none; border-bottom: 1px solid var(--ink-2); padding: 24px 20px; }
+    .b-fcol:last-child { border-bottom: none; }
+    .b-footer-bottom { flex-direction: column; gap: 10px; padding: 16px 20px; }
+  }
+  @media (max-width: 420px) {
+    /* Phone-sized: maximise content width, smallest-still-legible type. */
+    .b-nav { padding: 0 16px; }
+    .b-masthead { padding: 28px 16px; }
+    .b-hero-title { font-size: 28px; }
+    .b-avg-num { font-size: 48px; }
+    .b-filter-bar { padding: 10px 16px; }
+    .b-card-summary { padding: 16px; gap: 12px; }
+    .b-detail { padding: 20px 16px; }
+    .b-scale { padding: 20px 16px; }
+    .b-stat { padding: 18px 16px; }
+    .b-stats { grid-template-columns: 1fr; }
+    .b-stat { border-right: none; border-bottom: 2px solid var(--ink); }
+    .b-stat:last-child { border-bottom: none; }
+    .b-fcol { padding: 20px 16px; }
   }
 `
 
