@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "score": "node scripts/score.mjs",
+    "score:dry": "DRY_RUN=1 node scripts/score.mjs"
   },
   "dependencies": {
     "next": "16.2.0",

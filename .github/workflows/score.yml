@@ -1,0 +1,53 @@
+name: Daily scoring run
+
+# Fires at 16:00 UTC = 11:00 EST. During Eastern Daylight Time (mid-March
+# through early November) this will fire at 12:00 ET because cron does not
+# observe DST. Edit the schedule below to shift it.
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Fetch + filter only, do not score or commit'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: score
+  cancel-in-progress: false
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run scoring pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
+        run: node scripts/score.mjs
+
+      - name: Commit updated data
+        if: ${{ !inputs.dry_run }}
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No data changes; nothing to commit."
+            exit 0
+          fi
+          git config user.name  "bureau-bot"
+          git config user.email "bureau-bot@users.noreply.github.com"
+          git add data/stories.json data/stats.json
+          git commit -m "data: daily scoring run $(date -u +%Y-%m-%d)"
+          git push

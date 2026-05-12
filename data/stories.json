@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "sourceId": "seed-1",
+    "branch": "Executive",
+    "date": "Apr 10",
+    "dateISO": "2026-04-10",
+    "score": -31,
+    "title": "Sweeping tariffs imposed on 60+ trading partners without Congressional authorization",
+    "snapshot": "Executive order imposes tariffs averaging 24% on imports from 63 countries. Economists project $3,800 annual increase in household costs.",
+    "verdict": "// VERDICT: Higher prices for consumers. Damage to export markets. Bypasses legislative process. Costs immediate. Benefits speculative.",
+    "detail": "The executive order invokes the International Emergency Economic Powers Act (IEEPA) to justify tariffs without a Congressional vote. Economists at the Peterson Institute project the average American household will pay $3,800 more per year in consumer goods. The agriculture sector faces retaliatory tariffs from the EU and China affecting $28B in annual exports. No independent cost-benefit analysis was conducted prior to implementation. <strong>The action achieves a stated goal of pressuring trade partners but does so by directly taxing American consumers, bypassing the legislative branch, and triggering economic retaliation.</strong>",
+    "criteria": [
+      { "label": "Measurable public benefit", "score": -10, "max": 12.5 },
+      { "label": "Fiscal responsibility", "score": -8, "max": 12.5 },
+      { "label": "Rule of law", "score": -8, "max": 12.5 },
+      { "label": "Cost distribution", "score": -5, "max": 12.5 }
+    ],
+    "sources": [
+      "Peterson Institute Economic Analysis, Apr 2026",
+      "Congressional Budget Office Impact Assessment",
+      "Federal Register Vol. 91, No. 68",
+      "USDA Export Impact Report Q1 2026"
+    ]
+  },
+  {
+    "id": 2,
+    "sourceId": "seed-2",
+    "branch": "Congress",
+    "date": "Apr 8",
+    "dateISO": "2026-04-08",
+    "score": 22,
+    "title": "Bipartisan infrastructure bill passes — $180B for bridges, tunnels, water systems",
+    "snapshot": "Addresses documented backlog of 43,000 structurally deficient bridges. CBO scores it as fully offset. Projects 340,000 jobs over 5 years.",
+    "verdict": "// VERDICT: Addresses a real documented problem. Paid for. Creates jobs. Measurable public safety benefit.",
+    "detail": "The bill targets the ASCE-documented backlog of structurally deficient infrastructure with a 10-year spending plan. The CBO independently verified that funding offsets come from eliminating identified wasteful defense procurement contracts. <strong>Unlike many infrastructure bills, this one avoids deficit spending and targets documented deficiencies rather than new projects.</strong> The 340,000 job projection is based on BLS infrastructure employment multipliers and is considered a conservative estimate by independent analysts.",
+    "criteria": [
+      { "label": "Measurable public benefit", "score": 8, "max": 12.5 },
+      { "label": "Fiscal responsibility", "score": 7, "max": 12.5 },
+      { "label": "Rule of law", "score": 4, "max": 12.5 },
+      { "label": "Cost distribution", "score": 3, "max": 12.5 }
+    ],
+    "sources": [
+      "CBO Infrastructure Bill Scoring, Apr 2026",
+      "ASCE Infrastructure Report Card 2025",
+      "BLS Employment Multiplier Analysis",
+      "GAO Defense Procurement Waste Report 2025"
+    ]
+  },
+  {
+    "id": 3,
+    "sourceId": "seed-3",
+    "branch": "Executive",
+    "date": "Apr 11",
+    "dateISO": "2026-04-11",
+    "score": -18,
+    "title": "Federal education department staff cut 62% — enforcement capacity eliminated",
+    "snapshot": "Student loan processing projected to slow 8x. Civil rights enforcement caseload left unaddressed across 34 open investigations.",
+    "verdict": "// VERDICT: Documented harm to specific government obligations with no identified cost savings that offset service degradation.",
+    "detail": "The reduction eliminates 3,200 positions primarily in student loan servicing, civil rights enforcement, and special education compliance monitoring. The Office of Inspector General found no corresponding reduction in mandated obligations. <strong>The department is legally required to process loan applications, investigate civil rights complaints, and monitor IDEA compliance — the staffing cuts do not reduce these legal obligations, only the capacity to fulfill them.</strong> Estimated cost of processing delays to borrowers: $1.2B annually.",
+    "criteria": [
+      { "label": "Measurable public benefit", "score": -7, "max": 12.5 },
+      { "label": "Fiscal responsibility", "score": -4, "max": 12.5 },
+      { "label": "Rule of law", "score": -5, "max": 12.5 },
+      { "label": "Cost distribution", "score": -2, "max": 12.5 }
+    ],
+    "sources": [
+      "Dept of Education OIG Report, Apr 2026",
+      "NCLB Compliance Monitoring Dashboard",
+      "Student Loan Ombudsman Annual Report",
+      "GAO IDEA Compliance Review 2025"
+    ]
+  },
+  {
+    "id": 4,
+    "sourceId": "seed-4",
+    "branch": "Courts",
+    "date": "Apr 9",
+    "dateISO": "2026-04-09",
+    "score": 29,
+    "title": "SCOTUS upholds state right to cap prescription insulin costs at $35/month",
+    "snapshot": "Affects 8.4M insulin-dependent Americans. Average annual savings of $840. No measurable negative economic impact found in record.",
+    "verdict": "// VERDICT: Concrete financial relief to a large, vulnerable population. No identified harm to supply, quality, or availability.",
+    "detail": "The 7-2 decision affirms Colorado's insulin pricing cap as a valid exercise of state police powers under existing precedent. Amicus briefs from three independent health economics groups found no evidence that price caps at this level reduce insulin supply or manufacturer R&D investment. <strong>The policy directly reduces out-of-pocket costs for 8.4M Americans managing a life-threatening condition, with no identified tradeoffs to quality or availability in states that have implemented similar caps.</strong>",
+    "criteria": [
+      { "label": "Measurable public benefit", "score": 11, "max": 12.5 },
+      { "label": "Fiscal responsibility", "score": 7, "max": 12.5 },
+      { "label": "Rule of law", "score": 6, "max": 12.5 },
+      { "label": "Cost distribution", "score": 5, "max": 12.5 }
+    ],
+    "sources": [
+      "SCOTUS Opinion No. 24-1138",
+      "Health Affairs Insulin Pricing Study 2025",
+      "Colorado Dept of Health Impact Analysis",
+      "JAMA Diabetes Cost Burden Report 2025"
+    ]
+  },
+  {
+    "id": 5,
+    "sourceId": "seed-5",
+    "branch": "Congress",
+    "date": "Apr 7",
+    "dateISO": "2026-04-07",
+    "score": -3,
+    "title": "Senate delays childcare subsidy vote 90 days — no stated rationale provided",
+    "snapshot": "Delays direct relief for 2.1M families. Cost of delay estimated at $340M in workforce productivity losses. No explanation entered into record.",
+    "verdict": "// VERDICT: Inaction with measurable cost. Minor negative — delay is less harmful than bad policy, but still has real consequences.",
+    "detail": "The procedural delay invokes Senate Rule 22 but no senator entered an official rationale into the Congressional Record. The bill had cleared committee with bipartisan support. An Urban Institute analysis estimates the 90-day delay costs working families $340M in productivity losses as parents manage childcare gaps. <strong>The score reflects that delay-by-inaction is less harmful than active bad policy, but still carries real, measurable costs to the public.</strong>",
+    "criteria": [
+      { "label": "Measurable public benefit", "score": -2, "max": 12.5 },
+      { "label": "Fiscal responsibility", "score": -1, "max": 12.5 },
+      { "label": "Rule of law", "score": 0, "max": 12.5 },
+      { "label": "Cost distribution", "score": 0, "max": 12.5 }
+    ],
+    "sources": [
+      "Congressional Record S.2847, Apr 7 2026",
+      "Urban Institute Childcare Gap Analysis",
+      "Senate Procedural Rules Committee Report",
+      "BLS Working Parent Labor Force Data 2025"
+    ]
+  },
+  {
+    "id": 6,
+    "sourceId": "seed-6",
+    "branch": "Executive",
+    "date": "Apr 6",
+    "dateISO": "2026-04-06",
+    "score": -41,
+    "title": "CDC antibiotic resistance research program frozen mid-study",
+    "snapshot": "Halts 14 active multi-year studies. Antibiotic resistance kills 35,000 Americans per year. Cost savings from freeze: $180M. Long-term risk: incalculable.",
+    "verdict": "// VERDICT: Scores near the bottom. Saving $180M while halting research into a threat that kills 35,000/yr and could cost trillions is not common sense.",
+    "detail": "The freeze halts 14 studies in the CDC's Antibiotic Resistance Solutions Initiative, including three within 18 months of publishable findings on carbapenem-resistant organisms. The WHO classifies antibiotic resistance as one of the top 10 global health threats. <strong>The $180M in annual savings represents approximately 0.003% of the federal budget, while halting research the CDC's own modeling projects could prevent 200,000 deaths and $35B in healthcare costs over 10 years.</strong> Data from terminated studies cannot be recovered.",
+    "criteria": [
+      { "label": "Measurable public benefit", "score": -12, "max": 12.5 },
+      { "label": "Fiscal responsibility", "score": -10, "max": 12.5 },
+      { "label": "Rule of law", "score": -10, "max": 12.5 },
+      { "label": "Cost distribution", "score": -9, "max": 12.5 }
+    ],
+    "sources": [
+      "CDC ARSI Program Status Report, Apr 2026",
+      "WHO Global Antimicrobial Resistance Report 2025",
+      "JAMA Infectious Disease Cost Modeling 2024",
+      "Office of Management and Budget Freeze Memo"
+    ]
+  },
+  {
+    "id": 7,
+    "sourceId": "seed-7",
+    "branch": "Congress",
+    "date": "Apr 6",
+    "dateISO": "2026-04-06",
+    "score": 17,
+    "title": "VA claims backlog cleared — 400,000 veterans' pending cases resolved",
+    "snapshot": "Average wait time drops from 14 months to 3 weeks. Resolves a backlog cited in OIG reports for 6 consecutive years.",
+    "verdict": "// VERDICT: Direct fulfillment of a core government obligation. Measurable, documented benefit to a population the government is legally obligated to serve.",
+    "detail": "The resolution combines technology modernization, temporary staffing increases, and a streamlined review process for claims over 12 months old. The VA Inspector General had cited the backlog as a critical failure in six consecutive annual reports. <strong>This represents the government fulfilling a pre-existing legal obligation rather than creating a new benefit — a distinction that matters when evaluating whether government is simply doing its job.</strong> Veteran satisfaction scores in resolved cases: 87% positive.",
+    "criteria": [
+      { "label": "Measurable public benefit", "score": 6, "max": 12.5 },
+      { "label": "Fiscal responsibility", "score": 4, "max": 12.5 },
+      { "label": "Rule of law", "score": 4, "max": 12.5 },
+      { "label": "Cost distribution", "score": 3, "max": 12.5 }
+    ],
+    "sources": [
+      "VA Office of Inspector General Annual Report 2025",
+      "GAO Veterans Benefits Administration Review",
+      "VA Claims Processing Dashboard Q1 2026",
+      "House Veterans Affairs Committee Oversight Report"
+    ]
+  }
+]
