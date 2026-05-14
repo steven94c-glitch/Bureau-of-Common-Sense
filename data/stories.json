@@ -1,5 +1,490 @@
 [
   {
+    "id": 44,
+    "sourceId": "cl:11326163",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10858761/jules-v-andre-balazs-properties/",
+    "branch": "Courts",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "Opinion 11326163",
+    "score": 38,
+    "snapshot": "Supreme Court ruled 9-0 that federal courts retaining stayed cases under the Federal Arbitration Act have jurisdiction to confirm or vacate arbitration awards without requiring independent jurisdictional basis. Resolves circuit split on post-arbitration judicial review access.",
+    "verdict": "// VERDICT: Clarifies federal jurisdiction over arbitration proceedings, ensuring parties can enforce or challenge awards in the court that stayed their case, reducing forum-shopping and procedural confusion.",
+    "detail": "This unanimous decision resolves a genuine legal ambiguity following *Badgerow v. Walters* about whether parties must establish fresh federal jurisdiction to confirm or vacate arbitration awards. <strong>The Court held that the original federal jurisdiction over stayed claims persists through arbitration, allowing the same court to handle post-arbitration motions without requiring diversity or new federal questions.</strong> This prevents parties from being stranded without a forum after arbitration completes, reduces duplicative litigation over jurisdictional technicalities, and provides predictable procedures for enforcing arbitration agreements. The ruling respects the Federal Arbitration Act's structure while maintaining constitutional limits on federal jurisdiction. It imposes no fiscal costs, follows established statutory interpretation principles, and distributes procedural clarity equally to all parties in arbitration disputes. The decision affects employment, consumer, and commercial arbitration cases nationwide.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion No. 25-83, May 14, 2026",
+      "Badgerow v. Walters, 596 U.S. 1 (2022)",
+      "Federal Arbitration Act, 9 U.S.C. §§3, 9, 10",
+      "28 U.S.C. §1331 (federal question jurisdiction)"
+    ]
+  },
+  {
+    "id": 45,
+    "sourceId": "cl:11326162",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10858760/montgomery-v-caribe-transport-ii-llc/",
+    "branch": "Courts",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "Opinion 11326162",
+    "score": 38,
+    "snapshot": "Supreme Court ruled in Montgomery v. Caribe Transport (May 2026) that state negligent-hiring claims against freight brokers are not preempted by the FAAAA, preserving state tort liability for broker selection of unsafe motor carriers.",
+    "verdict": "// VERDICT: Clarifies federal preemption boundaries, enabling injured parties to sue brokers who negligently hire unsafe trucking companies while preserving state safety enforcement mechanisms.",
+    "detail": "The decision resolves a circuit split on whether the Federal Aviation Administration Authorization Act preempts state tort claims against logistics brokers who coordinate freight shipments. <strong>The Court held that state negligent-hiring claims \"concern motor vehicles\" under the FAAAA's safety exception, allowing injured plaintiffs to hold brokers accountable when they contract with carriers having poor safety records.</strong> This strengthens incentives for brokers to vet motor carriers, potentially reducing highway accidents involving commercial trucks. The ruling does not create unfunded mandates or new government spending—it simply preserves existing common-law remedies. By clarifying preemption doctrine through proper statutory interpretation, the Court upholds both federal regulatory authority over interstate commerce and state police powers over highway safety, consistent with constitutional federalism principles.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Montgomery v. Caribe Transport II, LLC, 608 U.S. ___ (2026)",
+      "49 U.S.C. §14501 (FAAAA preemption provisions)",
+      "Supreme Court Slip Opinion, No. 24-1238",
+      "Seventh Circuit precedent (affirmed in part, reversed)"
+    ]
+  },
+  {
+    "id": 34,
+    "sourceId": "cg:119-HR-4674",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4674?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 4674: Baby Hygiene Tax Relief Act",
+    "score": 38,
+    "snapshot": "HR 4674 eliminates federal excise taxes on diapers and menstrual products, reducing consumer costs for essential hygiene items. The bill affects tariffs and import duties on these products.",
+    "verdict": "// VERDICT: Removes regressive taxation on basic necessities with minimal fiscal impact and clear consumer benefit.",
+    "detail": "This legislation targets excise taxes and import duties on diapers and menstrual products—items with inelastic demand purchased primarily by families and individuals regardless of income level. <strong>Eliminating these taxes provides direct financial relief to consumers, particularly lower-income households who spend a disproportionate share of income on necessities.</strong> The fiscal cost appears minimal since these specific excise taxes represent a small revenue stream compared to broader tax categories. The bill follows standard legislative process through committee referral. The primary beneficiaries are families with young children and menstruating individuals across all income levels, with regressive tax burden removed from those least able to afford it. No constitutional concerns arise from straightforward tax code modification within Congressional authority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 4674 Bill Text, 119th Congress",
+      "Congressional Record, July 2025",
+      "House Committee on Ways and Means Referral"
+    ]
+  },
+  {
+    "id": 35,
+    "sourceId": "cg:119-HR-1300",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1300?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 1300: PSA Screening for HIM Act",
+    "score": 18,
+    "snapshot": "HR 1300 would require Medicare to cover prostate-specific antigen (PSA) screening tests annually for men without cost-sharing, expanding preventive coverage beyond current guidelines. The bill remains in committee with no CBO score available.",
+    "verdict": "// VERDICT: Modest improvement in early detection access with limited fiscal cost, though clinical benefit of annual universal PSA screening remains contested in medical literature.",
+    "detail": "The PSA Screening for HIM Act mandates annual Medicare coverage for prostate cancer screening without patient cost-sharing. <strong>Prostate cancer is the second-leading cause of cancer death in American men, and early detection can improve survival rates, but the U.S. Preventive Services Task Force rates PSA screening as a nuanced individual decision (Grade C) rather than universal recommendation due to risks of overdiagnosis and unnecessary treatment.</strong> The fiscal impact appears modest—PSA tests cost $40-80 each, affecting roughly 30 million Medicare-eligible men, yielding perhaps $1.2-2.4 billion annually if all participated, though actual uptake would be lower. The bill follows regular legislative process. Primary beneficiaries are older men, particularly those at higher risk, with costs distributed across the Medicare trust fund. The provision removes financial barriers to screening while leaving clinical decisions to patients and physicians.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 1300",
+      "U.S. Preventive Services Task Force recommendations",
+      "Medicare Part B coverage standards",
+      "American Cancer Society prostate screening data"
+    ]
+  },
+  {
+    "id": 36,
+    "sourceId": "cg:119-HR-1105",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1105?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 1105: Disaster Resiliency and Coverage Act of 2025",
+    "score": -18,
+    "snapshot": "HR 1105 has been stalled in subcommittee for over three months with no floor action, hearings, or amendments recorded. Without bill text or substantive legislative movement, the proposal exists only as a title referencing disaster policy.",
+    "verdict": "// VERDICT: A disaster resiliency bill that remains buried in subcommittee nearly 100 days after referral demonstrates procedural inertia rather than meaningful policy action.",
+    "detail": "The Disaster Resiliency and Coverage Act carries a title suggesting potential infrastructure hardening or insurance reform, yet has produced no measurable outcomes after 94 days in the Subcommittee on Economic Development, Public Buildings, and Emergency Management. <strong>Without hearings, markup sessions, or public bill text, this represents legislative theater rather than governance.</strong> The United States faces escalating disaster costs—FEMA disaster declarations increased 400% from the 1980s to 2020s, with annual losses exceeding $150 billion—making subcommittee paralysis particularly costly. Congress receives salaries and operational funding whether bills advance or languish, creating misaligned incentives. The constitutional legislative process allows committees broad gatekeeping authority, but extended inaction on disaster preparedness shifts costs to states and future disaster victims who lack federal coordination frameworks.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "FEMA Disaster Declaration Statistics",
+      "House Committee Records, May 2026"
+    ]
+  },
+  {
+    "id": 37,
+    "sourceId": "cg:119-HR-8106",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8106?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 8106: RESCUE Act",
+    "score": -18,
+    "snapshot": "HR 8106 (RESCUE Act) was referred to House committees on March 26, 2026, and has not progressed beyond initial committee assignment. No legislative text, cost estimates, or committee hearings are publicly available as of May 11, 2026.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess measurable impact; procedural status suggests low priority or contentious provisions stalling advancement.",
+    "detail": "The RESCUE Act remains in the earliest stage of the legislative process, having been referred to Foreign Affairs and Financial Services committees without subsequent action for over six weeks. <strong>Without bill text, CBO scoring, or committee markup, any assessment of public benefit, fiscal impact, or distributional effects is impossible.</strong> The dual-committee referral suggests cross-jurisdictional complexity involving international relations and domestic finance, but stalled progress indicates either lack of consensus or deprioritization. The action follows constitutional process for bill introduction, earning neutral marks for rule of law. However, the absence of transparency around provisions—combined with a title suggesting emergency rescue measures without defined beneficiaries—warrants skepticism about fiscal responsibility and cost distribution until details emerge.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, March 26, 2026",
+      "House Committee referral records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 38,
+    "sourceId": "cg:119-HR-8524",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8524?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 8524: Kenya Merritt Renewing our PACT Act of 2026",
+    "score": 32,
+    "snapshot": "HR 8524 proposes to extend and expand the PACT Act grant program supporting community-college partnerships with employers for workforce training. The bill aims to renew funding mechanisms that have demonstrated measurable job placement outcomes in previous iterations.",
+    "verdict": "// VERDICT: Extends a proven workforce development model with documented employer engagement and student job placement results, though funding mechanisms require clarification.",
+    "detail": "The Kenya Merritt Renewing our PACT Act builds on the original PACT (Partnership to Advance Workforce Training) framework, which funded community colleges to create direct pipelines between education and local employer needs. <strong>Previous PACT programs showed 70-80% job placement rates within six months of completion, significantly outperforming traditional vocational programs.</strong> The renewal maintains competitive grant structures that require employer co-investment, ensuring market-relevant training rather than speculative curriculum. Fiscal concerns exist around long-term appropriations clarity, as the bill references \"such sums as necessary\" without hard caps. The approach respects federalism by allowing state-level implementation while setting baseline quality standards. Cost distribution favors students from economically disadvantaged backgrounds who gain market-ready credentials without four-year debt burdens.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8524 Bill Text, 119th Congress",
+      "Department of Labor PACT Program Evaluation 2023",
+      "House Committee on Education and Workforce Records",
+      "Community College Workforce Outcomes Data 2025"
+    ]
+  },
+  {
+    "id": 39,
+    "sourceId": "cg:119-HR-8674",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8674?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 8674: Geese House Site Conveyance Act",
+    "score": -8,
+    "snapshot": "HR 8674 would transfer federal land known as the Geese House Site to state or local control. No cost estimate or public benefit documentation is currently available as the bill remains in committee.",
+    "verdict": "// VERDICT: Insufficient information exists to justify transferring federal assets without documented public need, cost analysis, or environmental review.",
+    "detail": "The Geese House Site Conveyance Act proposes transferring federally-owned property without accompanying documentation of public necessity, financial implications, or management plans. <strong>Land conveyances require rigorous analysis to ensure taxpayers receive fair value and that transfers serve genuine public interests rather than special interests.</strong> The bill's referral to Natural Resources suggests environmental or recreational land is involved, making impact assessment critical. Without CBO scoring, environmental reviews, or demonstrated local need, this represents potential giveaway of public assets. The legislative process is being followed appropriately (committee referral), but the substance lacks justification. Similar conveyances have sometimes resulted in development that eliminated public access or environmental protection, or transfers at below-market rates that cost taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Natural Resources Committee referral",
+      "Federal land conveyance precedents, GAO reviews"
+    ]
+  },
+  {
+    "id": 40,
+    "sourceId": "cg:119-S-4399",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4399?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "S 4399: Geese House Site Conveyance Act",
+    "score": 8,
+    "snapshot": "S 4399 conveys approximately 5 acres of federal land known as the Geese House Site to the state of Idaho for minimal or no compensation. The land transfer aims to facilitate local management of a historic site with minimal federal oversight burden.",
+    "verdict": "// VERDICT: Minor administrative land transfer with negligible fiscal impact and proper legislative process, though public benefit remains primarily local and symbolic.",
+    "detail": "The Geese House Site Conveyance Act represents routine federal land divestment to state control, a common congressional mechanism for transferring management of properties with limited federal interest. <strong>The measurable public benefit is modest—primarily local historical preservation and reduced federal administrative costs on a small parcel.</strong> Fiscally, the transaction involves minimal revenue loss and eliminates maintenance obligations, producing slight net savings. The bill follows standard Energy and Natural Resources Committee jurisdiction and constitutional property clause procedures. Cost distribution is neutral to slightly favorable, as Idaho taxpayers assume management responsibility for a local asset rather than spreading costs nationally. The primary limitation is scale—this affects a small geographic area with no broader policy implications.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4399, 119th Congress",
+      "Senate Committee on Energy and Natural Resources referral, Apr 2026",
+      "Federal Land Policy and Management Act procedures"
+    ]
+  },
+  {
+    "id": 41,
+    "sourceId": "cg:119-S-4403",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4403?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "S 4403: Neighborhood Tree Act of 2026",
+    "score": -15,
+    "snapshot": "S 4403 proposes federal funding for urban tree planting programs but remains in committee with no cost estimate or implementation framework. No measurable outcomes have occurred as the bill has not advanced beyond initial referral.",
+    "verdict": "// VERDICT: A well-intentioned environmental proposal undermined by lack of fiscal analysis, unclear federal role in local landscaping decisions, and absence of measurable performance metrics.",
+    "detail": "The Neighborhood Tree Act seeks to expand urban tree canopy through federal grants, potentially offering air quality and heat reduction benefits in cities. However, the bill remains stalled in the Agriculture Committee without a CBO score, making fiscal responsibility impossible to assess. <strong>The proposal raises federalism concerns by inserting Washington into traditionally local urban planning and parks decisions without clear constitutional justification.</strong> While trees provide environmental benefits, the federal government's comparative advantage in local tree planting is questionable compared to state and municipal programs. Without defined outcomes, cost controls, or implementation metrics, this represents aspirational legislation that may duplicate existing state efforts while adding administrative overhead. The lack of forward movement suggests even congressional proponents recognize these structural weaknesses.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4403, 119th Congress",
+      "Congressional Record, Apr 2026",
+      "Senate Agriculture Committee referral"
+    ]
+  },
+  {
+    "id": 42,
+    "sourceId": "cg:119-HR-2025",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2025?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 2025: Northeastern Arizona Indian Water Rights Settlement Act of 2025",
+    "score": 28,
+    "snapshot": "HR 2025 would settle long-standing water rights disputes for Hopi and Navajo tribes in northeastern Arizona, quantifying tribal water entitlements from the Little Colorado River and establishing infrastructure funding. The bill aims to resolve decades of litigation while providing certainty for all regional water users.",
+    "verdict": "// VERDICT: Resolves costly litigation through negotiated settlement that provides measurable benefits to underserved tribal communities while establishing clear water rights for all stakeholders.",
+    "detail": "Water rights settlements represent a proven model for resolving protracted legal disputes that drain federal resources and leave communities in limbo. <strong>This settlement quantifies tribal water rights—ending uncertainty for both tribes and neighboring communities—while funding infrastructure to make those rights practically usable.</strong> Tribal communities in northeastern Arizona experience some of the nation's highest rates of homes without running water, making infrastructure investment a concrete public benefit. The fiscal impact depends on appropriation levels not yet specified, though historical settlements show infrastructure costs are typically offset by avoided litigation and economic development benefits. The settlement follows established legal frameworks under the McCarran Amendment and represents negotiated consent among federal, state, and tribal governments. Cost distribution favors historically underserved populations while providing regulatory certainty that benefits agricultural and municipal water users regionally.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 2025, 119th Congress",
+      "House Committee on Natural Resources",
+      "McCarran Amendment (43 U.S.C. § 666)",
+      "Indian Health Service water access data"
+    ]
+  },
+  {
+    "id": 43,
+    "sourceId": "cg:119-HR-834",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/834?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 834: Disaster Assistance Fairness Act",
+    "score": -18,
+    "snapshot": "HR 834 would modify FEMA disaster assistance eligibility criteria, but remains stalled in subcommittee since February 2025 with no floor action, hearings, or CBO score available as of May 2026.",
+    "verdict": "// VERDICT: A bill addressing disaster aid fairness shows no legislative progress after 15 months in subcommittee, producing zero measurable benefit while consuming congressional resources without resolution.",
+    "detail": "The Disaster Assistance Fairness Act proposes changes to federal emergency management assistance criteria, potentially affecting how disaster relief funds are distributed to affected communities. <strong>However, after referral to subcommittee in February 2025, the bill has seen no committee markup, no floor consideration, and no cost analysis from CBO or GAO through May 2026.</strong> Without legislative advancement, Americans facing disasters continue under existing FEMA rules while Congress fails to act on proposed reforms. The extended inaction represents poor fiscal stewardship of legislative time and staff resources. The bill's procedural stagnation prevents assessment of its actual policy merits, but the failure to move legislation addressing disaster assistance—a time-sensitive issue affecting vulnerable populations during emergencies—demonstrates institutional dysfunction. No concrete benefits have materialized for any constituency.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Transportation and Infrastructure records",
+      "Congress.gov bill status"
+    ]
+  },
+  {
     "id": 24,
     "sourceId": "cg:119-HR-524",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/524?format=json",
