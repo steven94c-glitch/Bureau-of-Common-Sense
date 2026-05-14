@@ -246,9 +246,16 @@ async function filterNewsworthy(candidates, branchLabel) {
 
   const system = `You are a triage editor for a nonpartisan civic platform that scores notable government actions. Your only job here is to decide which items are substantive enough to warrant a public policy score.
 
-KEEP an item if it represents a genuine policy decision, vote, or judicial holding with measurable impact on Americans.
+KEEP any item that proposes or enacts a substantive policy change — even if the bill is only at the introduction stage. Newly introduced legislation that addresses real issues (healthcare, defense, taxation, regulation, civil rights, immigration, environment, criminal justice, etc.) IS scoreable. Procedural status (introduced / referred to committee / passed chamber / signed) is NOT a filtering criterion — substance is.
 
-DROP routine procedural noise: ceremonial proclamations (e.g. national-X-month declarations), routine determinations, minor technical corrections, bill introductions with no action, and per-curiam denials of certiorari with no opinion.
+DROP ONLY these categories of pure noise:
+  • Ceremonial proclamations or simple resolutions whose entire content is recognition (e.g. "National X Month", "Day of recognition for...", commemorations of anniversaries).
+  • Post office, facility, or building naming bills.
+  • Minor technical corrections or conforming amendments with no policy substance.
+  • Routine determinations and certifications required by statute.
+  • Per-curiam denials of certiorari with no opinion.
+
+When in doubt, KEEP. Better to score a marginally interesting bill than to drop it.
 
 Return ONLY a JSON array. No prose. Each element: {"sourceId": string, "keep": boolean, "reason": string (under 12 words)}`
 
@@ -399,6 +406,11 @@ async function main() {
   const byBranch = { Executive: [], Congress: [], Courts: [] }
   fresh.forEach(c => byBranch[c.branch]?.push(c))
 
+  // Fallback floor: if the LLM filter wipes out a branch entirely but we
+  // had candidates, keep this many of the most-recently-dated items so the
+  // site isn't silent on busy news days. Env-tunable for dry runs / debug.
+  const MIN_PER_BRANCH_FLOOR = Number(process.env.MIN_PER_BRANCH_FLOOR ?? 3)
+
   const kept = []
   for (const branch of ['Executive', 'Congress', 'Courts']) {
     if (byBranch[branch].length === 0) continue
@@ -414,6 +426,15 @@ async function main() {
         warn(`filter failed for ${branch}; keeping all. err=`, e.message)
         filtered = byBranch[branch]
       }
+    }
+    // Floor: if the filter dropped everything, fall back to the top-N
+    // most-recently-dated candidates so we always post SOMETHING.
+    if (filtered.length === 0 && byBranch[branch].length > 0) {
+      const fallback = [...byBranch[branch]]
+        .sort((a, b) => (b.dateISO || '').localeCompare(a.dateISO || ''))
+        .slice(0, MIN_PER_BRANCH_FLOOR)
+      warn(`${branch}: filter dropped all; falling back to ${fallback.length} most recent`)
+      filtered = fallback
     }
     kept.push(...filtered.slice(0, MAX_PER_BRANCH))
   }
