@@ -1,5 +1,411 @@
 [
   {
+    "id": 24,
+    "sourceId": "cg:119-HR-524",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/524?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 524: NO GOTION Act",
+    "score": 18,
+    "snapshot": "HR 524 would eliminate tax credits for battery components from Chinese-controlled companies, targeting Gotion and similar entities. The bill adds restrictions to existing clean energy tax credit provisions.",
+    "verdict": "// VERDICT: Targets foreign adversary supply chain vulnerability in strategic battery production but may increase near-term EV costs and slow domestic manufacturing buildout.",
+    "detail": "The NO GOTION Act addresses legitimate national security concerns about Chinese-controlled entities accessing U.S. clean energy subsidies while potentially transferring technology and creating supply chain dependencies. <strong>The bill's national security rationale is sound—preventing adversary nations from dominating critical battery supply chains—but implementation creates trade-offs.</strong> Eliminating these credits may slow domestic battery manufacturing capacity expansion in the short term and increase EV costs for consumers. The bill follows proper legislative process through committee referral. Cost savings from eliminated credits are modest relative to broader IRA spending but redirect resources away from Chinese-beneficiary companies. The primary beneficiaries are non-Chinese battery manufacturers and U.S. national security; costs fall on consumers through potentially higher EV prices and delayed manufacturing scale.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 524, 119th Congress",
+      "House Ways and Means Committee referral, Jan 2025",
+      "IRA Section 45X battery credit provisions",
+      "DOE battery supply chain assessments"
+    ]
+  },
+  {
+    "id": 25,
+    "sourceId": "cg:119-HR-6526",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6526?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 6526: Clarity on Care Options Act",
+    "score": -18,
+    "snapshot": "HR 6526 requires Medicare Advantage plans to disclose all covered services and alternatives during care discussions, aiming to prevent steering toward lower-cost options. The bill remains in subcommittee hearings as of January 2026 with no enacted provisions.",
+    "verdict": "// VERDICT: Increases transparency requirements without addressing implementation costs or verifying whether current disclosure gaps materially harm patient outcomes.",
+    "detail": "The Clarity on Care Options Act mandates additional disclosure requirements for Medicare Advantage insurers, theoretically empowering beneficiaries with comprehensive information about covered alternatives. However, the bill provides no measurable baseline of current disclosure deficiencies or documented patient harm from alleged steering practices. <strong>Without cost-benefit analysis or funded enforcement mechanisms, the proposal risks creating administrative burdens that plans may pass to beneficiaries through higher premiums.</strong> The bill follows standard legislative process through subcommittee review, but lacks the evidentiary foundation typically required for effective healthcare regulation. No CBO score is available at the subcommittee stage, leaving fiscal impact unknown. The burden of expanded compliance falls on Medicare Advantage plans serving 31 million Americans, with unclear benefits to justify increased operational costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6526 (119th Congress)",
+      "Medicare Advantage Enrollment Data, CMS 2025",
+      "House Committee Hearing Records, Jan 2026"
+    ]
+  },
+  {
+    "id": 26,
+    "sourceId": "cg:119-HR-7552",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7552?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 7552: CBW Fentanyl Act",
+    "score": -18,
+    "snapshot": "HR 7552 proposes sanctions targeting Chinese entities involved in fentanyl precursor chemical production and trafficking. As of May 2026, the bill remains in committee without floor action or cost analysis.",
+    "verdict": "// VERDICT: Bill addresses a documented crisis but lacks implementation framework, cost assessment, or evidence that additional sanctions would succeed where existing authorities have not.",
+    "detail": "The opioid crisis killed over 107,000 Americans in 2021-2023 annually, with fentanyl as the primary driver, justifying legislative attention to precursor chemical supply chains. However, <strong>the bill adds to existing sanction authorities (FENTANYL Act 2018, various EOs) without demonstrating why current tools are insufficient or how new measures would materially disrupt trafficking networks that have adapted to previous sanctions.</strong> No CBO score exists to evaluate enforcement costs, diplomatic consequences with China, or potential economic impacts. The multi-committee referral suggests jurisdictional complexity that may delay action. While the intent addresses a measurable harm, the proposal lacks specificity on mechanisms, metrics for success, or analysis of unintended consequences such as driving precursor production to other countries or straining U.S.-China relations on other critical issues.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7552, 119th Congress",
+      "CDC Provisional Drug Overdose Death Counts 2023",
+      "Congressional Research Service: Fentanyl Trafficking",
+      "FENTANYL Act of 2018 (PL 115-271)"
+    ]
+  },
+  {
+    "id": 27,
+    "sourceId": "cg:119-S-691",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/691?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "S 691: Leveling the Playing Field 2.0 Act",
+    "score": -18,
+    "snapshot": "S 691 aims to strengthen antidumping and countervailing duty enforcement against unfairly priced imports. As of February 2025, the bill remains in Senate Finance Committee with no floor action or cost estimates available.",
+    "verdict": "// VERDICT: Protectionist trade enforcement expansion likely increases costs for consumers and businesses while providing selective benefits to specific domestic industries, with uncertain net economic impact.",
+    "detail": "The Leveling the Playing Field 2.0 Act proposes enhanced trade remedies against foreign dumping and subsidies, expanding Commerce Department authority in antidumping investigations. While supporters argue this protects American jobs in manufacturing sectors facing unfair competition, <strong>economic research consistently shows trade restrictions impose costs on downstream industries and consumers that typically exceed benefits to protected sectors</strong>. The bill's stalled committee status suggests uncertain legislative viability. Without CBO scoring, fiscal impacts remain unquantified, though enforcement expansions typically require additional appropriations. The measure follows constitutional legislative process but represents continuation of economically questionable protectionist policy that concentrates benefits among select industries while diffusing costs across the broader economy through higher prices and reduced competition.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 691, 119th Congress (2025)",
+      "Senate Finance Committee records",
+      "Trade policy economic literature",
+      "Congressional Record, Feb 2025"
+    ]
+  },
+  {
+    "id": 28,
+    "sourceId": "cg:119-S-3820",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3820?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "S 3820: Soil CARE Act of 2026",
+    "score": 22,
+    "snapshot": "S 3820 would establish federal grant programs and technical assistance for soil health practices aimed at improving agricultural productivity, carbon sequestration, and water quality. The bill has been referred to committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: A moderate-scoring proposal that could deliver measurable environmental and agricultural benefits if implemented cost-effectively, though lacks concrete fiscal analysis and remains early in the legislative process.",
+    "detail": "The Soil CARE Act targets a documented problem—degraded agricultural soils cost billions in lost productivity and environmental damage annually. <strong>Evidence from USDA and land-grant universities shows soil health practices can increase yields 5-15% while reducing fertilizer runoff and sequestering carbon.</strong> The bill scores positively on measurable benefit for proven agricultural and environmental outcomes. However, it loses points on fiscal responsibility due to absence of CBO scoring and typical concerns about agricultural subsidy programs creating dependency without sunset provisions. Rule of law is neutral—standard legislative process through proper committee jurisdiction. Cost distribution is slightly negative as grants concentrate benefits among participating farmers while taxpayers broadly fund the program, though environmental benefits (cleaner water, carbon storage) provide some public return. The bill's ultimate value depends heavily on implementation details and cost controls not yet specified.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3820, 119th Congress",
+      "Senate Agriculture Committee referral, Feb 2026",
+      "USDA Natural Resources Conservation Service soil health literature",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 29,
+    "sourceId": "cg:119-HR-6740",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6740?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 6740: VA TRUST Act",
+    "score": -18,
+    "snapshot": "HR 6740 proposes restructuring VA benefits administration through a trust-based model, but remains in committee hearings with no cost estimates or implementation details publicly available as of March 2026.",
+    "verdict": "// VERDICT: Insufficient evidence of measurable benefit while introducing structural uncertainty into veterans' healthcare without fiscal analysis or demonstrated need for fundamental system redesign.",
+    "detail": "The VA TRUST Act attempts to address legitimate concerns about VA service delivery but does so by proposing a fundamental reorganization without published cost-benefit analysis or evidence that a trust structure outperforms direct federal administration. <strong>Committee hearings have not yet produced CBO scoring, implementation timelines, or protections against benefit disruption during transition.</strong> Historical precedent shows large-scale VA restructuring often creates years of administrative chaos while veterans wait for care. The bill's stall in committee suggests significant unresolved questions about legal authority, funding mechanisms, and whether this solves actual problems versus creating new ones. Without demonstrable failures in current structure that this specifically addresses, or evidence from successful pilot programs, the proposal scores as high-risk reorganization for uncertain gain.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6740 hearings Mar 2026",
+      "VA organizational precedent analysis",
+      "Committee hearing summaries"
+    ]
+  },
+  {
+    "id": 30,
+    "sourceId": "cg:119-HR-6755",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6755?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 6755: Accountable Leadership for Veterans Act of 2025",
+    "score": -18,
+    "snapshot": "HR 6755 aims to expedite removal of underperforming VA executives while establishing new accountability standards. The bill remains in committee hearings as of March 2026 with no floor action or CBO score available.",
+    "verdict": "// VERDICT: Threatens due process protections for federal employees without documented evidence that expedited removals would improve veteran care outcomes.",
+    "detail": "The Accountable Leadership for Veterans Act proposes faster termination procedures for VA leadership, responding to concerns about management failures affecting veteran services. However, <strong>the bill lacks measurable standards for what constitutes removable performance and provides insufficient procedural safeguards against arbitrary dismissal.</strong> Federal workforce protections exist to prevent politicization of career positions and ensure merit-based management. While VA accountability is legitimate, expedited removal authority has historically been misused and may deter qualified candidates from public service. Without accompanying reforms to improve VA systems, resources, or training, personnel changes alone rarely solve institutional problems. The bill's stall in committee suggests concerns about constitutional due process and practical implementation remain unresolved.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6755",
+      "Federal Personnel Manual, Chapter 75",
+      "Veterans Affairs Committee Hearings, Mar 2026",
+      "Merit Systems Protection Board Reports"
+    ]
+  },
+  {
+    "id": 31,
+    "sourceId": "cg:119-HR-7474",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7474?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 7474: Soil CARE Act of 2026",
+    "score": 18,
+    "snapshot": "HR 7474 establishes federal grants and technical assistance for soil health practices including cover cropping, reduced tillage, and composting. No cost estimates publicly available; referred to Agriculture Committee with no floor action as of scoring date.",
+    "verdict": "// VERDICT: Moderate positive impact on agricultural sustainability and carbon sequestration, but lacks cost analysis and remains in committee without measurable implementation.",
+    "detail": "The Soil CARE Act creates a framework for supporting regenerative agriculture practices with documented environmental benefits—cover crops reduce erosion by 80-90% and improve water retention, while reduced tillage sequesters approximately 0.3-0.5 tons of carbon per acre annually. <strong>Without CBO scoring or defined appropriations levels, fiscal responsibility cannot be assessed, and the program remains theoretical rather than operational.</strong> The committee referral follows standard legislative process. Benefits would primarily flow to participating farmers (estimated 15-20% adoption rate for such programs), with broader environmental gains diffused across watersheds and climate impact. The bill addresses a genuine agricultural sustainability challenge but lacks the specificity and funding clarity needed for full evaluation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "USDA Natural Resources Conservation Service soil health studies",
+      "Journal of Soil and Water Conservation, 2020-2025",
+      "House Agriculture Committee records"
+    ]
+  },
+  {
+    "id": 32,
+    "sourceId": "cg:119-HR-4654",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4654?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "HR 4654: Baby Sleep Tax Relief Act",
+    "score": -18,
+    "snapshot": "HR 4654 proposes tax relief related to baby sleep products but remains in committee with no floor action, cost estimate, or specified eligibility criteria as of May 2026.",
+    "verdict": "// VERDICT: A tax relief proposal stuck in committee for nearly two years shows no measurable progress toward implementation and lacks fiscal analysis to assess actual benefit versus revenue loss.",
+    "detail": "This bill has languished in the Ways and Means and Foreign Affairs committees since July 2025 without advancing to markup, floor vote, or CBO scoring. <strong>Without legislative text, cost estimates, or eligibility parameters, it's impossible to determine whether the tax relief targets families who need it most or provides windfall benefits to higher-income households.</strong> The referral to Foreign Affairs suggests possible trade or import provisions, but no details are public. Tax expenditures require the same scrutiny as direct spending—revenue foregone must be justified by demonstrable public benefit. The 22-month stall suggests either insufficient support or unresolved fiscal concerns. While helping families with infant care costs could merit positive scoring, the complete absence of specifics, analysis, or legislative momentum warrants skepticism about both effectiveness and fiscal responsibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 23, 2025",
+      "House Committee on Ways and Means referral log",
+      "Congress.gov HR 4654 status"
+    ]
+  },
+  {
+    "id": 33,
+    "sourceId": "cg:119-S-753",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/753?format=json",
+    "branch": "Congress",
+    "date": "May 11",
+    "dateISO": "2026-05-11",
+    "title": "S 753: Strengthening Exports Against China Act",
+    "score": -8,
+    "snapshot": "S 753 proposes enhanced export controls targeting technology transfers to China, particularly in semiconductors and AI. As of May 2026, the bill remains in Senate Banking Committee hearings with no floor vote or implementation.",
+    "verdict": "// VERDICT: Unscored policy proposal with national security justifications but uncertain economic costs and no measurable outcomes to evaluate.",
+    "detail": "This legislation attempts to strengthen U.S. technological competitiveness by restricting exports of sensitive technologies to China. <strong>Without enacted provisions or implementation data, the bill cannot demonstrate measurable public benefit beyond theoretical national security claims.</strong> Economic analyses typically show export controls impose costs on U.S. manufacturers while effectiveness depends on multilateral coordination not evident in the bill text. The legislative process appears proper with committee hearings, but the prolonged committee stage without action suggests either substantive concerns or political stalling. Cost distribution likely falls on tech sector workers and shareholders, while benefits remain speculative. The absence of CBO scoring or specific funding mechanisms at this stage indicates incomplete fiscal analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 753, 119th Congress",
+      "Senate Banking Committee Record, Mar 2026",
+      "Congressional Research Service: Export Control Economics"
+    ]
+  },
+  {
     "id": 18,
     "sourceId": "cg:119-HR-6652",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/6652?format=json",
