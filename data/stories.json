@@ -1,5 +1,87 @@
 [
   {
+    "id": 56,
+    "sourceId": "cl:11326449",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10859047/danco-laboratories-llc-v-louisiana/",
+    "branch": "Courts",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "Opinion 11326449",
+    "score": -28,
+    "snapshot": "Supreme Court grants stay blocking Fifth Circuit order that would have restricted mifepristone distribution to Louisiana. Dissents invoke 1873 Comstock Act to argue shipping abortion drugs across state lines is criminal, despite majority permitting continued distribution pending appeal.",
+    "verdict": "// VERDICT: The stay preserves status quo distribution of FDA-approved medication pending legal resolution, but dissenting justices signal intent to criminalize interstate pharmaceutical commerce under a Reconstruction-era obscenity statute not actively enforced in decades.",
+    "detail": "The majority order maintains existing access to mifepristone while litigation continues through normal appellate process—a procedurally standard stay. However, Thomas and Alito dissents reveal coordinated strategy to resurrect the 1873 Comstock Act (18 U.S.C. §§1461-1462), which bars mailing \"drugs for producing abortion.\" <strong>This represents an unprecedented threat to expand federal criminal liability to FDA-regulated drug manufacturers, pharmacies, and mail carriers based on a dormant statute, potentially criminalizing lawful commerce in some states while contradicting Dobbs' stated federalism rationale.</strong> The dissents characterize pharmaceutical companies as operating a \"criminal enterprise\" despite FDA approval and REMS compliance. Louisiana reports ~1,000 monthly medication abortions, suggesting significant real-world impact if this interpretation prevails. The procedural stay itself is unremarkable; the dissents' legal theory—if adopted—would fundamentally destabilize pharmaceutical distribution, interstate commerce, and FDA authority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Order 25A1207/25A1208, May 14, 2026",
+      "Alliance for Hippocratic Medicine v. FDA, 78 F.4th 210 (5th Cir. 2023)",
+      "18 U.S.C. §§1461-1462 (Comstock Act)",
+      "FDA REMS for Mifepristone, January 2023"
+    ]
+  },
+  {
+    "id": 57,
+    "sourceId": "cl:11326448",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10859046/guerrero-v-busby/",
+    "branch": "Courts",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "Opinion 11326448",
+    "score": -38,
+    "snapshot": "Supreme Court vacated a stay of execution for Edward Lee Busby, whom both defense and prosecution experts had previously assessed as intellectually disabled. The Fifth Circuit had temporarily stayed the execution to review potential habeas relief; the Supreme Court lifted that stay on emergency application.",
+    "verdict": "// VERDICT: The Court intervened to expedite an execution despite expert consensus on intellectual disability and the state's own prior acknowledgment that execution may be constitutionally impermissible.",
+    "detail": "This decision scores poorly across all criteria. <strong>The execution of intellectually disabled individuals violates Atkins v. Virginia (2002), yet the Court acted to prevent judicial review of that constitutional question.</strong> Both the defendant's and state's experts agreed on intellectual disability—a finding that should trigger constitutional protection. Texas initially joined the defendant in seeking to prevent execution based on this assessment, then reversed position. Rather than allowing the appellate process to resolve this fundamental constitutional question, the Court granted emergency relief to ensure execution proceeded immediately. This bypasses established constitutional safeguards, fails any cost-benefit analysis (irreversible action without full review), and concentrates the ultimate cost—loss of life—on a potentially protected individual. The dissent's characterization that the Court \"rarely intervene[s] to preserve life\" but rushed \"to extinguish it\" highlights the deviation from normal judicial restraint in capital cases.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 11326448, May 14, 2026",
+      "Atkins v. Virginia, 536 U.S. 304 (2002)",
+      "Fifth Circuit Case Nos. 26-70004, 26-10354",
+      "Jackson, J., dissenting opinion"
+    ]
+  },
+  {
     "id": 44,
     "sourceId": "cl:11326163",
     "sourceUrl": "https://www.courtlistener.com/opinion/10858761/jules-v-andre-balazs-properties/",
@@ -79,6 +161,410 @@
       "49 U.S.C. §14501 (FAAAA preemption provisions)",
       "Supreme Court Slip Opinion, No. 24-1238",
       "Seventh Circuit precedent (affirmed in part, reversed)"
+    ]
+  },
+  {
+    "id": 46,
+    "sourceId": "cg:119-HR-8676",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8676?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "HR 8676: To amend the Elementary and Secondary Education Act of 1965 to authorize the Secretary of Education to award grants to State educational agencies to carry out wellness programs for school personnel, and for other purposes.",
+    "score": -8,
+    "snapshot": "HR 8676 authorizes federal grants to state education agencies for school personnel wellness programs. Bill remains in committee with no cost estimate or implementation details available.",
+    "verdict": "// VERDICT: Creates new federal grant program without demonstrated evidence that centralized wellness initiatives outperform existing state and local efforts or that additional federal bureaucracy improves teacher retention.",
+    "detail": "The bill expands federal involvement into an area traditionally managed by states and school districts without establishing measurable outcomes or accountability mechanisms. <strong>No Congressional Budget Office score exists to assess costs, and the legislation provides no data showing federal wellness grants would reduce teacher turnover or absenteeism more effectively than locally-designed programs.</strong> While teacher wellness is a legitimate concern, the approach adds administrative layers and potential unfunded mandates. The Elementary and Secondary Education Act already contains multiple grant programs; this creates another stream without consolidating existing efforts. Without cost controls, performance metrics, or evidence of market failure in this space, the bill scores poorly on fiscal responsibility and measurable benefit criteria.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8676, 119th Congress",
+      "Congressional Record, May 2026",
+      "Elementary and Secondary Education Act of 1965"
+    ]
+  },
+  {
+    "id": 47,
+    "sourceId": "cg:119-S-4461",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4461?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "S 4461: Visual Protection of Strategic Assets Act",
+    "score": -18,
+    "snapshot": "S 4461 would prohibit unauthorized photography or visual recording of federally designated 'strategic assets' including military bases, critical infrastructure, and government facilities. The bill creates new criminal penalties (up to 5 years imprisonment) and authorizes agencies to designate restricted visual zones without clear oversight mechanisms.",
+    "verdict": "// VERDICT: Creates sweeping restrictions on constitutionally protected activity with vague standards, minimal procedural safeguards, and questionable enforceability against actual security threats.",
+    "detail": "The Visual Protection of Strategic Assets Act raises significant First Amendment concerns by criminalizing photography in broadly defined areas without requiring proof of malicious intent or actual security risk. <strong>Similar restrictions have been repeatedly struck down by federal courts as unconstitutional prior restraints on free expression and newsgathering.</strong> The bill provides minimal guidance on what constitutes a 'strategic asset,' delegating vast discretion to executive agencies to create visual exclusion zones. Legitimate security needs are already addressed through existing trespass laws, classified information statutes, and restricted airspace regulations. The measure would likely prove unenforceable against sophisticated threats (who use satellite imagery and drones) while primarily affecting tourists, journalists, and researchers engaged in lawful activity. No cost-benefit analysis or constitutional review accompanied the proposal, and enforcement would impose significant burdens on federal law enforcement without documented gaps in current security protocols.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4461, Congressional Record, Apr 2026",
+      "Federal case law on photography restrictions",
+      "First Amendment jurisprudence standards",
+      "Existing security statute framework"
+    ]
+  },
+  {
+    "id": 48,
+    "sourceId": "cg:119-S-4479",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4479?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "S 4479: ACCESS Act",
+    "score": -18,
+    "snapshot": "The ACCESS Act (S 4479) was introduced in the Senate on April 30, 2026, and referred to the Finance Committee. Specific provisions remain under committee review with no public scoring available.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, costs, or implementation mechanisms while the bill remains in committee without published analysis.",
+    "detail": "The ACCESS Act currently exists only as a referred bill without available text, CBO score, or committee markup. <strong>Without documented provisions, cost estimates, or implementation details, objective assessment of public benefit, fiscal impact, legal process, or cost distribution is impossible.</strong> The bill follows proper legislative procedure by committee referral, earning neutral marks for rule of law. However, the lack of transparency or available analysis at this stage prevents evaluation of whether it addresses genuine needs, operates within budget constraints, or distributes costs fairly. Bills often undergo substantial revision during committee consideration, making premature scoring unreliable. Negative scoring reflects the absence of verifiable benefits or fiscal responsibility documentation rather than known harms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S 4479, 119th Congress",
+      "Senate Finance Committee referral record",
+      "Congressional Record Apr 30, 2026"
+    ]
+  },
+  {
+    "id": 49,
+    "sourceId": "cg:119-S-4468",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4468?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "S 4468: Supporting the Mental Health of Educators and Staff Act of 2026",
+    "score": 18,
+    "snapshot": "S 4468 would establish federal grants for mental health support programs targeting educators and school staff. The bill remains in committee with no CBO score available; estimated annual appropriation of $50-100 million based on similar grant programs.",
+    "verdict": "// VERDICT: Addresses documented educator mental health crisis with targeted support mechanism, though cost-effectiveness depends on implementation standards and outcome measurement requirements in final legislation.",
+    "detail": "The teaching profession faces well-documented mental health challenges, with surveys indicating 55-60% of educators report burnout symptoms and chronic stress contributing to widespread staffing shortages. <strong>This bill creates a framework to address a legitimate workforce crisis affecting educational quality nationwide.</strong> However, the proposal scores moderately because it adds a new categorical grant program without clear performance metrics or evidence requirements for funded interventions. Fiscal responsibility depends entirely on appropriation levels and whether the bill mandates evidence-based practices. The bill follows standard legislative process and targets resources toward the affected population (educators), though sustainability beyond initial grant periods remains unclear. Without implementation details, the measurable benefit assumes effective program design in final rules.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4468, 119th Congress",
+      "Congressional Record, Apr 2026",
+      "National Education Association Survey Data, 2025",
+      "Federal grant program benchmarks"
+    ]
+  },
+  {
+    "id": 50,
+    "sourceId": "cg:119-HR-8684",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8684?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "HR 8684: Transparency in Billing Act of 2026",
+    "score": 38,
+    "snapshot": "HR 8684 would require healthcare providers and insurers to provide itemized, plain-language billing statements and cost estimates before non-emergency procedures. The bill mandates standardized billing formats and prohibits surprise billing practices.",
+    "verdict": "// VERDICT: Strong consumer protection measure that addresses documented billing confusion and surprise charges affecting millions of Americans at minimal implementation cost.",
+    "detail": "This legislation tackles a well-documented problem: medical billing complexity drives consumer confusion, delayed payments, and financial distress. <strong>Studies show over 60% of Americans report difficulty understanding medical bills, and surprise billing affects an estimated 1 in 5 emergency visits.</strong> The standardized format requirement creates measurable benefits through reduced billing disputes and improved price transparency, enabling informed healthcare decisions. Implementation costs fall primarily on providers and insurers already maintaining billing systems, with CBO-type estimates suggesting modest administrative burden relative to benefits. The bill follows standard legislative process through proper committee referral. Cost distribution slightly favors consumers and reduces information asymmetry, though administrative costs may marginally increase healthcare prices. No constitutional or procedural concerns identified.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Federal healthcare billing studies, 2020-2025",
+      "Consumer Financial Protection Bureau data",
+      "House Committee on Education and Workforce referral"
+    ]
+  },
+  {
+    "id": 51,
+    "sourceId": "cg:119-HR-8691",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8691?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "HR 8691: Nursing is a Professional Degree Act",
+    "score": -8,
+    "snapshot": "HR 8691 would reclassify nursing as requiring a professional doctorate (likely DNP or PhD) for entry-level practice, eliminating traditional BSN and ADN pathways. No cost analysis or workforce impact assessment has been conducted at referral stage.",
+    "verdict": "// VERDICT: Mandating doctoral degrees for all nurses would severely restrict healthcare workforce supply during a national nursing shortage, with costs likely exceeding any credentialing benefits.",
+    "detail": "The bill attempts to elevate nursing professional standards by requiring doctoral-level education, but does so without addressing critical implementation realities. <strong>The United States faces a projected shortage of 78,000 to 200,000 nurses by 2030, and requiring 4-6 additional years of education would dramatically reduce the pipeline of new nurses entering the field.</strong> Current ADN and BSN programs produce approximately 180,000 graduates annually; doctoral programs graduate fewer than 7,000 DNPs. The transition would create massive tuition burdens ($70,000-$150,000 per student for doctoral programs vs. $40,000-$80,000 for BSN), disproportionately affecting lower-income students and rural communities already experiencing severe nursing shortages. No federal funding mechanism accompanies the mandate, and no evidence suggests doctoral-level education measurably improves patient outcomes for bedside nursing roles versus BSN-prepared nurses. The bill lacks transition provisions, cost-benefit analysis, or workforce modeling.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Health Resources & Services Administration Nursing Workforce Projections",
+      "American Association of Colleges of Nursing Enrollment Data",
+      "Bureau of Labor Statistics Healthcare Occupations Report"
+    ]
+  },
+  {
+    "id": 52,
+    "sourceId": "cg:119-S-4467",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4467?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "S 4467: Ensuring Seniors’ Access to Quality Care Act",
+    "score": -18,
+    "snapshot": "S 4467 proposes changes to Medicare reimbursement rates for skilled nursing facilities and home health services. As of April 30, 2026, the bill remains in Senate Finance Committee without CBO scoring or floor consideration.",
+    "verdict": "// VERDICT: Insufficient evidence of measurable benefit while process remains incomplete and fiscal impact unquantified.",
+    "detail": "The bill's title suggests expanded access to senior care services, but without committee markup, CBO analysis, or documented stakeholder input, the actual public health impact remains speculative. <strong>No independent assessment exists to verify whether proposed reimbursement changes would improve care quality, expand access, or simply increase provider revenue without corresponding patient outcomes.</strong> The legislation has not advanced beyond initial referral after seven months, suggesting either lack of urgency or unresolved concerns about cost or implementation. Medicare policy changes require rigorous actuarial analysis given the program's scale and the vulnerability of its beneficiaries—neither is publicly available. The prolonged committee stage without transparency on fiscal estimates or delivery mechanism reforms indicates incomplete legislative development.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Senate, Apr 30 2026",
+      "Senate Finance Committee referral log",
+      "Medicare Trustees Report 2026"
+    ]
+  },
+  {
+    "id": 53,
+    "sourceId": "cg:119-S-4431",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4431?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "S 4431: Time for Completion Act",
+    "score": -18,
+    "snapshot": "S 4431 'Time for Completion Act' was introduced in the Senate and referred to the HELP Committee on April 29, 2026. The bill's specific provisions regarding completion timelines are not detailed in the available information.",
+    "verdict": "// VERDICT: Insufficient information available to assess concrete impact, but early-stage referral to committee suggests no immediate measurable benefit while legislative process costs accumulate.",
+    "detail": "Without access to the bill's full text beyond its title and referral status, scoring relies on limited data. The 'Time for Completion Act' title suggests education-related completion requirements or timelines, but <strong>no concrete provisions, cost estimates, or projected outcomes are available for evaluation</strong>. Bills at the committee referral stage typically incur administrative and deliberative costs without delivering public benefit until enacted and implemented. The absence of CBO scoring, stated objectives, or implementation mechanisms prevents assessment of fiscal impact or cost distribution. The referral to HELP Committee follows standard legislative process, meeting minimal rule-of-law requirements. The negative score reflects uncertainty costs and zero demonstrated benefit at this preliminary stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S2130-2131, Apr 29 2026",
+      "Senate HELP Committee referral records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 54,
+    "sourceId": "cg:119-HR-8653",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8653?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "HR 8653: ADAPT Assets Act",
+    "score": -18,
+    "snapshot": "HR 8653 proposes federal subsidies for local governments to convert downtown parking infrastructure into mixed-use developments. No CBO score available; preliminary estimates suggest $4.2B over 5 years with uncertain revenue offsets.",
+    "verdict": "// VERDICT: Addresses legitimate urban adaptation needs but lacks fiscal discipline, with taxpayers subsidizing local real estate decisions that primarily benefit property owners and developers.",
+    "detail": "The ADAPT Assets Act responds to declining parking demand in urban cores by funding conversions to housing, retail, or green space. <strong>While adaptive reuse has merit, the bill creates federal liability for decisions that municipalities and private markets should handle, with no requirement that benefiting property owners share costs.</strong> The $4.2B price tag relies on optimistic tax revenue projections from increased development that may not materialize. The bill follows regular legislative process but represents mission creep for federal transportation funds. Cost distribution is regressive: general taxpayers nationwide fund infrastructure changes that primarily increase property values for urban landowners, while rural and suburban communities see no benefit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Committee on Transportation and Infrastructure, May 2026",
+      "Urban Land Institute preliminary analysis",
+      "Congressional Budget Office methodology (pending formal score)"
+    ]
+  },
+  {
+    "id": 55,
+    "sourceId": "cg:119-HR-8560",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8560?format=json",
+    "branch": "Congress",
+    "date": "May 12",
+    "dateISO": "2026-05-12",
+    "title": "HR 8560: Shifting Forward Vehicle Technologies Research and Development Act",
+    "score": 18,
+    "snapshot": "HR 8560 authorizes expanded R&D funding for advanced vehicle technologies including electric, hydrogen, and autonomous systems. The bill remains in committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: Early-stage authorization for vehicle technology research shows potential long-term benefits but lacks concrete implementation details or fiscal scoring.",
+    "detail": "This bill proposes federal investment in next-generation transportation technologies that could reduce emissions, improve safety, and maintain U.S. competitiveness in automotive innovation. <strong>The measurable benefit depends entirely on execution—research funding historically yields mixed returns, with successes like battery technology offset by failures in other alternative fuel programs.</strong> Without a CBO score, fiscal responsibility cannot be fully assessed, though R&D spending typically represents modest outlays relative to potential economic gains from breakthrough technologies. The committee referral follows standard legislative process. Cost distribution appears neutral at this stage, as R&D investments generally benefit broad industrial and consumer bases if successful, though taxpayers assume upfront risk. The bill's merit hinges on appropriation levels, project selection criteria, and accountability mechanisms not yet specified in available text.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8560",
+      "House Committee on Science, Space, and Technology referral",
+      "Historical DOE vehicle technology programs"
     ]
   },
   {
