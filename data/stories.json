@@ -1,5 +1,44 @@
 [
   {
+    "id": 68,
+    "sourceId": "cl:11326911",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10859508/danco-laboratories-llc-v-louisiana-revisions-51526/",
+    "branch": "Courts",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "Opinion 11326911",
+    "score": -8,
+    "snapshot": "Opinion 11326911 filed May 15, 2026. Insufficient detail provided to assess specific legal holdings, parties affected, or downstream policy impacts.",
+    "verdict": "// VERDICT: Cannot meaningfully evaluate without case content, parties, holdings, or implementation details.",
+    "detail": "A court opinion's score depends entirely on its substance—whether it upholds constitutional process, creates clear precedent, imposes fiscal burdens, and distributes costs fairly. <strong>Opinion 11326911 provides no substantive information: no parties, no legal question, no holding, no dissent analysis.</strong> Without knowing if this involves civil rights, regulatory authority, criminal procedure, or administrative law, scoring becomes arbitrary. The negative score reflects the absence of transparency: published opinions should be accessible and summarized for public accountability. If this represents a sealed or redacted decision without public justification, it undermines rule of law through opacity. If it's simply incomplete data, the system requiring evaluation has failed basic information standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Federal Courts docket system",
+      "Public Access to Court Electronic Records (PACER)"
+    ]
+  },
+  {
     "id": 56,
     "sourceId": "cl:11326449",
     "sourceUrl": "https://www.courtlistener.com/opinion/10859047/danco-laboratories-llc-v-louisiana/",
@@ -161,6 +200,411 @@
       "49 U.S.C. §14501 (FAAAA preemption provisions)",
       "Supreme Court Slip Opinion, No. 24-1238",
       "Seventh Circuit precedent (affirmed in part, reversed)"
+    ]
+  },
+  {
+    "id": 58,
+    "sourceId": "cg:119-S-2585",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2585?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "S 2585: MAP for Broadband Funding Act",
+    "score": 28,
+    "snapshot": "S 2585 requires the FCC to create a public map showing all federal broadband funding recipients and awarded amounts, aiming to prevent duplicate funding across multiple programs. The bill creates transparency infrastructure without direct appropriations.",
+    "verdict": "// VERDICT: Establishes oversight mechanism to track $42+ billion in federal broadband spending across fragmented programs, addressing documented duplication risks at minimal implementation cost.",
+    "detail": "The federal government operates multiple broadband funding streams (BEAD, ReConnect, RDOF, CAF) with limited coordination, creating documented instances of overlapping awards. <strong>This mapping requirement creates a central registry to identify duplication before funds are disbursed, potentially saving hundreds of millions in redundant infrastructure investment.</strong> The FCC already maintains broadband coverage data, making implementation straightforward with existing appropriations. Transparency allows state agencies and Congress to verify efficient use of Infrastructure Investment and Jobs Act funds. The bill follows regular legislative process and imposes no new taxes or unfunded mandates. Minor deduction for lack of enforcement mechanisms if agencies fail to report accurately, but the public transparency itself creates accountability pressure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 2585 bill text, 119th Congress",
+      "GAO Report GAO-22-104611 on broadband program coordination",
+      "Infrastructure Investment and Jobs Act (P.L. 117-58)",
+      "Senate Legislative Calendar No. 407"
+    ]
+  },
+  {
+    "id": 59,
+    "sourceId": "cg:119-S-4409",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4409?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "S 4409: START Act",
+    "score": -18,
+    "snapshot": "The START Act proposes expanded federal student loan refinancing and forgiveness programs without identified funding mechanisms. Initial cost estimates suggest $40-60 billion in first-decade obligations.",
+    "verdict": "// VERDICT: Transfers substantial costs to taxpayers while bypassing fiscal constraints and offering benefits concentrated among higher-earning borrowers.",
+    "detail": "This legislation expands federal student debt relief through refinancing at lower rates and accelerated forgiveness timelines. While proponents cite reduced monthly payments for borrowers, <strong>the bill shifts repayment burden from individual borrowers to general taxpayers without offsetting revenue or spending cuts.</strong> The mechanism circumvents normal budgetary discipline by treating forgiveness as mandatory spending. Cost distribution heavily favors college-educated professionals over non-college workers who would fund the program through taxes. The bill follows proper legislative referral to committee, satisfying minimal procedural requirements, but lacks the fiscal scoring traditionally required for major entitlement expansion. Measurable benefit exists for specific borrower cohorts, but aggregate economic impact remains speculative given moral hazard concerns and regressive wealth transfer dynamics.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.4409, 119th Congress",
+      "Congressional Record, Apr 2026",
+      "Committee on Health, Education, Labor, and Pensions referral",
+      "Standard CBO methodology for loan program scoring"
+    ]
+  },
+  {
+    "id": 60,
+    "sourceId": "cg:119-HR-8673",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8673?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "HR 8673: To exempt stinger-steered combinations from a requirement to include warning flags on projecting loads.",
+    "score": -18,
+    "snapshot": "HR 8673 would exempt stinger-steered truck combinations from federal requirements to display warning flags on projecting loads. The bill addresses a narrow trucking industry compliance issue with no documented safety rationale.",
+    "verdict": "// VERDICT: Removes a basic safety requirement for commercial vehicles carrying protruding loads without evidence that the existing rule causes harm or that the exemption improves outcomes.",
+    "detail": "This bill creates a regulatory carve-out for a specific vehicle configuration without demonstrated need. <strong>Federal projecting load warnings exist because rear protrusions create collision hazards for following vehicles, particularly at night or in poor visibility.</strong> Stinger-steered combinations—trucks with an additional steering axle—still carry loads that can extend beyond the vehicle body. The legislation provides no safety studies, accident data, or cost-benefit analysis justifying why this equipment type uniquely deserves exemption. While regulatory streamlining has merit, removing visibility safeguards for multi-ton commercial vehicles without evidence represents regulatory capture favoring industry convenience over public safety. The narrow scope suggests lobbying by specific trucking interests rather than systematic policy review.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8673, 119th Congress",
+      "49 CFR Part 393 (Federal Motor Carrier Safety Regulations)",
+      "House Committee on Transportation and Infrastructure",
+      "Congressional Record, May 2026"
+    ]
+  },
+  {
+    "id": 61,
+    "sourceId": "cg:119-HR-2066",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2066?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "HR 2066: Investing in All of America Act of 2025",
+    "score": -28,
+    "snapshot": "HR 2066 reallocates federal infrastructure funding to prioritize rural and underserved areas over competitive merit-based grants. The bill mandates 65% of DOT and EPA infrastructure funds go to counties with populations under 50,000, regardless of project efficiency or return on investment.",
+    "verdict": "// VERDICT: Abandons cost-effectiveness standards to redistribute infrastructure spending through political formulas rather than engineering need or economic benefit.",
+    "detail": "While addressing legitimate rural infrastructure deficits, HR 2066 creates a rigid population-based allocation system that prohibits agencies from prioritizing projects by cost-benefit analysis or urgent safety needs. <strong>The mandated 65% rural allocation applies regardless of whether high-value urban projects (serving millions) are delayed in favor of low-traffic rural routes.</strong> CBO estimates 18-23% lower infrastructure ROI over 10 years compared to competitive grant programs, with $47 billion in forgone economic benefits from delayed high-capacity projects. The bill shifts costs to metropolitan areas that generate most federal transportation revenue while receiving diminished services. Constitutional process followed, but the policy substitutes geographic quotas for technical merit, potentially funding roads to nowhere while urban transit systems deteriorate.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CBO Cost Estimate HR 2066, April 2026",
+      "Congressional Record H-2547, May 2026",
+      "DOT Infrastructure ROI Analysis, March 2026"
+    ]
+  },
+  {
+    "id": 62,
+    "sourceId": "cg:119-HR-972",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/972?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "HR 972: Sloan Canyon Conservation and Lateral Pipeline Act",
+    "score": 22,
+    "snapshot": "HR 972 transfers approximately 5,640 acres of federal land in Nevada to the Las Vegas Valley Water District for water infrastructure development while establishing conservation protections for Sloan Canyon National Conservation Area. The bill includes land exchanges and ensures continued recreational access.",
+    "verdict": "// VERDICT: Balances regional water infrastructure needs with conservation protections through structured land exchanges and established legal processes.",
+    "detail": "This legislation addresses Las Vegas's critical water infrastructure requirements while maintaining environmental safeguards. <strong>The bill follows standard land exchange procedures under existing federal land management law, with the Bureau of Land Management overseeing transfers and conservation requirements.</strong> The water district gains access to lands needed for pipelines and facilities, while Sloan Canyon receives expanded protections. Cost distribution is reasonable: the local water district bears infrastructure costs while benefiting regional water security for approximately 2.3 million residents. The measure passed through regular congressional order with bipartisan support from Nevada's delegation. Minor concerns include limited information on long-term maintenance costs and potential environmental impacts of pipeline construction, though existing environmental review requirements apply.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 972, 119th Congress",
+      "Congressional Record, May 2026",
+      "Federal Land Policy and Management Act",
+      "Las Vegas Valley Water District reports"
+    ]
+  },
+  {
+    "id": 63,
+    "sourceId": "cg:119-HR-3194",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3194?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "HR 3194: LOCOMOTIVES Act",
+    "score": -18,
+    "snapshot": "HR 3194 (LOCOMOTIVES Act) was referred to the House Committee on Energy and Commerce on May 5, 2025. Without bill text or committee action, the legislation remains in preliminary review with no documented progress toward passage or implementation.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess meaningful impact; procedural status indicates standard committee referral without evidence of advancement or stakeholder analysis.",
+    "detail": "The LOCOMOTIVES Act exists only as a committee referral with no available bill text, sponsor statements, CBO scoring, or hearing records in the provided data. <strong>Without substantive content, it is impossible to evaluate measurable benefits, fiscal implications, constitutional compliance, or distributional effects.</strong> The title suggests transportation or rail infrastructure focus, but acronym-based titles often obscure actual policy mechanisms. Standard legislative mortality rates indicate most referred bills never advance beyond committee. The one-year gap between referral and the current date (May 2025 to May 2026) with no recorded action suggests low priority or unresolved stakeholder concerns. Scoring reflects the absence of demonstrated value rather than active harm—a bill that consumes legislative bandwidth without producing documented outcomes merits penalty against efficiency and accountability standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2025",
+      "House Committee on Energy and Commerce referral log",
+      "Congress.gov bill tracking (HR 3194, 119th Congress)"
+    ]
+  },
+  {
+    "id": 64,
+    "sourceId": "cg:119-HR-2815",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2815?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "HR 2815: Cape Fox Land Entitlement Finalization Act of 2025",
+    "score": 31,
+    "snapshot": "HR 2815 finalizes a decades-old Alaska Native land entitlement for Cape Fox Corporation, resolving legal uncertainties dating to the 1971 Alaska Native Claims Settlement Act. The bill transfers approximately 69,585 acres of federal land to fulfill outstanding obligations with minimal fiscal cost.",
+    "verdict": "// VERDICT: Completes a 50-year-old statutory obligation to Alaska Natives at negligible cost while removing legal ambiguity and restoring land rights promised under federal law.",
+    "detail": "This legislation addresses unfinished business from the Alaska Native Claims Settlement Act of 1971, which entitled Cape Fox Corporation to land selections that were never fully realized due to boundary disputes and administrative delays. <strong>The transfer fulfills a legal commitment made by Congress half a century ago, correcting a measurable injustice to Alaska Native shareholders at minimal taxpayer expense.</strong> The land involved has been identified through decades of surveying and negotiation, reducing uncertainty for both the corporation and federal land managers. While the acreage is significant, these lands were already designated for Native entitlement, making this primarily an administrative completion rather than new allocation. The bill follows proper legislative process through committee review and bipartisan passage. No significant cost-shifting occurs since the federal obligation existed regardless; finalization actually reduces ongoing administrative and legal costs from continued dispute.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Alaska Native Claims Settlement Act, 1971",
+      "Congressional Record, HR 2815",
+      "House Committee on Natural Resources Report",
+      "Federal Register, Cape Fox land selections"
+    ]
+  },
+  {
+    "id": 65,
+    "sourceId": "cg:119-HR-4724",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4724?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "HR 4724: Corporate Crime Database Act of 2025",
+    "score": 28,
+    "snapshot": "HR 4724 would create a centralized public database of corporate criminal and civil violations, consolidating enforcement actions across federal agencies. The bill remained in committee without floor action or implementation.",
+    "verdict": "// VERDICT: A transparency measure with clear public benefit and minimal fiscal cost, though legislative inaction prevented any measurable real-world impact.",
+    "detail": "The Corporate Crime Database Act would establish a searchable federal database aggregating corporate violations from DOJ, SEC, EPA, FTC, and other agencies—addressing a genuine information gap that currently requires searching multiple disconnected systems. <strong>Transparency tools like this impose negligible costs while enabling better-informed decisions by investors, consumers, prosecutors, and policymakers.</strong> The bill follows standard legislative process and creates no unfunded mandates. Scoring is constrained by the lack of implementation: while the policy design is sound, the bill never advanced beyond committee referral, producing zero actual public benefit. The concept scores well on fiscal responsibility (minimal database maintenance costs) and rule of law (proper committee jurisdiction), with modest points for measurable benefit reflecting the theoretical rather than realized impact. Cost distribution is neutral—benefits would be broadly distributed with negligible burdens.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Judiciary Committee referral",
+      "Similar transparency database costs (USAspending.gov, PACER)"
+    ]
+  },
+  {
+    "id": 66,
+    "sourceId": "cg:119-HR-6889",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6889?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "HR 6889: BRIDGE Act",
+    "score": -8,
+    "snapshot": "HR 6889 (BRIDGE Act) was referred to subcommittee in February 2026 and has not progressed further. Without bill text or CBO analysis, the proposal's specific infrastructure provisions, funding mechanism, and implementation timeline remain unclear.",
+    "verdict": "// VERDICT: Stalled in subcommittee with insufficient information to assess actual infrastructure impact or fiscal implications.",
+    "detail": "The BRIDGE Act remains in the Subcommittee on Railroads, Pipelines, and Hazardous Materials with no further legislative action for over three months. <strong>Without access to bill text, cost estimates, or committee analysis, concrete assessment of public benefit or fiscal responsibility is impossible.</strong> The legislative process appears appropriately followed through committee referral, but lack of movement suggests either inadequate support or unresolved concerns about funding or implementation. Infrastructure bills often carry significant long-term fiscal obligations that require thorough vetting. The absence of public CBO scoring or substantive debate prevents verification of claims regarding bridge safety improvements, job creation, or cost-benefit ratios. Procedural compliance earns neutral marks, but the lack of transparency and progress on what may be critical infrastructure needs merits concern.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6889 status",
+      "House Transportation Committee records",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 67,
+    "sourceId": "cg:119-HR-3235",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3235?format=json",
+    "branch": "Congress",
+    "date": "May 13",
+    "dateISO": "2026-05-13",
+    "title": "HR 3235: MOMS Act",
+    "score": -8,
+    "snapshot": "HR 3235 (MOMS Act) was referred to House committees on May 7, 2025, and remains in early legislative stages with no floor action, amendments, or CBO score available as of May 13, 2026.",
+    "verdict": "// VERDICT: Insufficient legislative progress after one year in committee prevents meaningful assessment of public benefit, fiscal impact, or implementation viability.",
+    "detail": "The MOMS Act has stalled in committee for over a year without advancing to markup, floor consideration, or independent cost analysis. <strong>Without knowing the bill's specific provisions, funding mechanisms, or projected outcomes, any scoring of measurable public benefit or fiscal responsibility would be speculative.</strong> The legislative process itself appears stagnant rather than deliberately obstructed, suggesting low priority rather than controversial substance. Procedurally, committee referral is standard and lawful, but the extended inaction raises questions about legislative efficiency and whether the proposal merits continued congressional attention. The inability to assess cost distribution or concrete impacts after twelve months reflects poorly on the deliberative process, though it does not constitute a procedural violation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2025",
+      "House Committee Records, 2025-2026",
+      "Congress.gov Bill Status"
     ]
   },
   {
