@@ -39,6 +39,412 @@
     ]
   },
   {
+    "id": 69,
+    "sourceId": "cg:119-S-4496",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4496?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "S 4496: A bill to amend the Higher Education Act of 1965 to provide for additional uses of funds for grants to strengthen historically Black colleges and universities, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4496 proposes expanding allowable uses of federal grants to Historically Black Colleges and Universities (HBCUs) under the Higher Education Act of 1965. The bill has been referred to committee with no fiscal analysis yet available.",
+    "verdict": "// VERDICT: Extends existing HBCU grant flexibility without documented cost projections or measurable outcome requirements at this stage.",
+    "detail": "This bill builds on Title III of the Higher Education Act, which provides institutional aid to minority-serving institutions. <strong>Expanding permissible grant uses could strengthen HBCU infrastructure and programming, but without accompanying fiscal estimates or performance metrics, the public benefit remains theoretical.</strong> HBCUs serve approximately 292,000 students (9% of Black undergraduates) and have historically received less per-student funding than comparable institutions. The proposal scores moderately positive on measurable benefit given HBCUs' documented role in social mobility, but loses points on fiscal responsibility due to lack of cost-benefit analysis at referral stage. Rule of law adherence is standard for legislative process. Cost distribution is neutral—benefits targeted population without clear burden shift, though long-term federal expenditure impact is undefined.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4496, 119th Congress",
+      "Higher Education Act of 1965, Title III",
+      "NCES HBCU enrollment data",
+      "Senate Legislative Record, May 2026"
+    ]
+  },
+  {
+    "id": 70,
+    "sourceId": "cg:119-SJRES-188",
+    "sourceUrl": "https://www.congress.gov/bill/119/sjres/188?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "SJRES 188: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units: Final Repeal\".",
+    "score": 22,
+    "snapshot": "Congressional resolution to block EPA's repeal of mercury and air toxics standards for coal and oil power plants. Would preserve regulations estimated to prevent 11,000 premature deaths annually and deliver $37-90 billion in annual health benefits.",
+    "verdict": "// VERDICT: Blocking the repeal preserves measurable public health protections with documented multi-billion dollar benefits exceeding compliance costs, though creates regulatory uncertainty for affected utilities.",
+    "detail": "This Congressional Review Act resolution would nullify EPA's repeal of the Mercury and Air Toxics Standards (MATS), originally established in 2011. <strong>EPA's own analysis estimated MATS prevents approximately 11,000 premature deaths annually, with monetized benefits ranging from $37 billion to $90 billion per year against compliance costs of $9.6 billion annually.</strong> The resolution follows proper legislative process under 5 U.S.C. §801-808, allowing Congress to overturn agency rules within review periods. Disapproving the repeal maintains existing emission limits on mercury, arsenic, and acid gases from power plants. The cost-benefit ratio strongly favors retention of standards, with health benefits concentrated among vulnerable populations (children, asthmatics). Fiscal impact is neutral to federal budget; compliance costs fall on utilities but are offset by reduced healthcare expenditures and productivity losses from pollution-related illness.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "EPA MATS Regulatory Impact Analysis, 2011",
+      "Congressional Review Act, 5 U.S.C. §801-808",
+      "Congressional Record, Senate",
+      "Federal Register MATS Final Rule"
+    ]
+  },
+  {
+    "id": 71,
+    "sourceId": "cg:119-HJRES-182",
+    "sourceUrl": "https://www.congress.gov/bill/119/hjres/182?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "HJRES 182: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Bulletin 2023-01: Unfair Billing and Collection Practices After Bankruptcy Discharges of Certain Student Loan Debts\".",
+    "score": -18,
+    "snapshot": "Congressional resolution to block the CFPB's withdrawal of protections preventing collectors from pursuing discharged student loan debts after bankruptcy. Would restore enforcement guidance protecting bankruptcy filers from unfair collection practices.",
+    "verdict": "// VERDICT: Blocking the withdrawal restores consumer protections for bankrupted borrowers, but adds minimal fiscal cost while creating regulatory uncertainty in an already complex student loan landscape.",
+    "detail": "The CFPB's Bulletin 2023-01 clarified that pursuing certain discharged student loan debts violates fair debt collection laws. The agency's subsequent withdrawal of this bulletin removed these protections. <strong>This resolution would disapprove that withdrawal, effectively reinstating protections for vulnerable borrowers who successfully discharged debts through bankruptcy.</strong> The measurable benefit is modest—protecting a small population of bankruptcy filers from illegal collection attempts. Fiscal impact is negligible, as this is guidance enforcement rather than spending. The procedural use of Congressional Review Act authority is constitutionally proper. However, the cost distribution is somewhat regressive: reinstating protections primarily helps individuals who already navigated bankruptcy, while the underlying student loan system's broader dysfunction remains unaddressed. The resolution addresses a symptom rather than root causes of student debt and bankruptcy interaction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -29,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Review Act, 5 U.S.C. § 801",
+      "CFPB Bulletin 2023-01",
+      "House Committee on Financial Services proceedings",
+      "Fair Debt Collection Practices Act"
+    ]
+  },
+  {
+    "id": 72,
+    "sourceId": "cg:119-S-4486",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4486?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "S 4486: A bill to amend title 3, United States Code, to prescribe a process to authorize certain activities at the Executive Residence at the White House, and for other purposes.",
+    "score": -28,
+    "snapshot": "S 4486 would establish new authorization requirements for activities at the White House Executive Residence. The bill has been placed on the Senate Legislative Calendar but has not yet passed either chamber.",
+    "verdict": "// VERDICT: Creates additional bureaucratic oversight for Executive Residence operations without demonstrated need, potentially interfering with executive function while adding administrative costs.",
+    "detail": "This bill seeks to amend Title 3 to impose a formal authorization process for activities at the White House Executive Residence. <strong>Without evidence of existing abuses or fiscal improprieties, the measure appears to inject legislative micromanagement into executive household operations that have functioned under existing protocols for decades.</strong> The vague phrase \"certain activities\" raises constitutional separation-of-powers concerns, as Congress typically lacks authority to regulate the President's official residence beyond appropriations oversight. The administrative burden of a new authorization regime would consume staff time and taxpayer resources without clear public benefit. While transparency in government spending is legitimate, existing appropriations processes and General Services Administration oversight already provide fiscal accountability for White House operations. The bill's placement on the calendar suggests it may be driven by political messaging rather than substantive governance reform.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar, May 2026",
+      "Title 3, United States Code",
+      "Congressional Record, S 4486",
+      "Executive Residence operational protocols"
+    ]
+  },
+  {
+    "id": 73,
+    "sourceId": "cg:119-HJRES-183",
+    "sourceUrl": "https://www.congress.gov/bill/119/hjres/183?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "HJRES 183: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2023-01: Unlawful Negative Option Marketing Practices\".",
+    "score": -28,
+    "snapshot": "Congressional resolution to block CFPB consumer protection rules on negative option marketing (automatic subscription renewals, hidden fees). Reverses agency action addressing deceptive billing practices that cost consumers billions annually.",
+    "verdict": "// VERDICT: Removes consumer safeguards against deceptive automatic billing without offsetting protections, favoring industry interests over documented consumer harm.",
+    "detail": "The CFPB's Circular 2023-01 addressed negative option marketing—practices where consumers are automatically charged for subscriptions or services without clear consent, often through buried terms or difficult cancellation processes. <strong>Federal Trade Commission data shows these practices generate an estimated $4-5 billion in unwanted charges annually.</strong> This disapproval resolution uses the Congressional Review Act to overturn consumer protections without proposing alternative safeguards. While businesses argue compliance costs, the rule primarily codified existing legal obligations for transparent disclosure and easy cancellation. The resolution scores poorly on measurable benefit (removes documented protections), fiscal responsibility (shifts costs to individual consumers pursuing disputes), and cost distribution (concentrates harm on vulnerable populations less able to monitor subscriptions). It follows proper CRA procedure but weaponizes that process to eliminate substantive protections.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CFPB Consumer Financial Protection Circular 2023-01",
+      "Congressional Review Act, 5 U.S.C. § 801",
+      "FTC Consumer Sentinel Network Data",
+      "House Committee on Financial Services records"
+    ]
+  },
+  {
+    "id": 74,
+    "sourceId": "cg:119-S-4410",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4410?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "S 4410: A bill to amend the Mineral Leasing Act to provide for the payment of bonus payments of certain coal leases issued under that Act.",
+    "score": -18,
+    "snapshot": "S 4410 proposes amending the Mineral Leasing Act to modify bonus payment structures for federal coal leases. The bill was introduced in the Senate and referred to committee in April 2026, with no floor action or analysis available yet.",
+    "verdict": "// VERDICT: Insufficient information exists to assess public benefit, but coal lease modifications historically favor industry over taxpayers and environmental costs are externalized.",
+    "detail": "Without committee hearings, CBO scoring, or regulatory analysis, this bill's fiscal and public health impacts remain speculative. However, <strong>historical coal lease modifications have typically reduced federal revenue while subsidizing extraction industries</strong>, raising concerns about fiscal responsibility and cost distribution. The bill's text and sponsor statements are unavailable, preventing assessment of whether it strengthens or weakens protections for taxpayers and affected communities. Coal extraction carries documented externalities including healthcare costs from air pollution, climate impacts, and land degradation—costs rarely captured in lease structures. The legislative process appears standard thus far, but lack of transparency on payment structure changes merits skepticism. Federal coal leases generated $358 million in 2023 (DOI); any reduction in bonus payments would shift costs to taxpayers while concentrating benefits among lease holders.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S2083, Apr 2026",
+      "DOI Office of Natural Resources Revenue, FY2023",
+      "Mineral Leasing Act, 30 U.S.C. § 181 et seq."
+    ]
+  },
+  {
+    "id": 75,
+    "sourceId": "cg:119-S-4484",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4484?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "S 4484: I–47 Future Interstate Act of 2026",
+    "score": 18,
+    "snapshot": "S 4484 proposes designating portions of I-47 as a future interstate corridor, likely requiring federal planning and coordination for a new highway segment. The bill remains in committee with no CBO score or implementation timeline available.",
+    "verdict": "// VERDICT: Early-stage interstate designation with potential regional economic benefits, but lacks cost estimates and environmental impact analysis needed for full assessment.",
+    "detail": "The I-47 Future Interstate Act represents preliminary congressional intent to develop new interstate infrastructure. <strong>Without accompanying cost estimates, routing details, or environmental assessments at this committee stage, the bill's concrete impact remains speculative.</strong> Interstate designations historically provide economic connectivity benefits and can reduce travel times, supporting moderate positive scoring on public benefit. However, major highway projects typically cost billions and require decades to complete, with significant environmental and community displacement concerns. The procedural approach through Environment and Public Works Committee is appropriate, supporting rule of law scoring. Fiscal responsibility remains neutral pending CBO analysis, while cost distribution depends entirely on final funding mechanisms and affected communities—information not yet available. The bill's early stage limits definitive scoring in either direction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4484, 119th Congress",
+      "Senate Committee on Environment and Public Works",
+      "Congressional Record, May 2026"
+    ]
+  },
+  {
+    "id": 76,
+    "sourceId": "cg:119-S-4487",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4487?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "S 4487: Veterans’ Compensation Cost-of-Living Adjustment Act of 2026",
+    "score": 35,
+    "snapshot": "S 4487 would provide automatic cost-of-living adjustments to veterans' disability compensation and other VA benefits, matching the Social Security COLA formula. The bill applies to approximately 5 million veterans receiving service-connected disability payments.",
+    "verdict": "// VERDICT: A straightforward inflation adjustment that maintains purchasing power for disabled veterans with minimal fiscal impact relative to total VA outlays.",
+    "detail": "This legislation codifies annual COLA increases for veterans' benefits, preventing erosion of purchasing power for disabled service members. <strong>The mechanism ties adjustments to the same CPI-W index used for Social Security, ensuring consistency across federal benefit programs.</strong> Fiscal impact is modest—typically 2-3% annual increases applied to the $100B+ veterans' compensation budget—and represents maintenance of existing commitments rather than new spending. The bill follows standard legislative process through the Veterans' Affairs Committee. Cost distribution is appropriate: benefits flow to veterans with service-connected disabilities, funded through general revenue rather than deficit financing. Minor deduction for lacking specific offset provisions, though COLA adjustments are generally considered mandatory spending updates rather than discretionary expansions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "VA Benefits Administration Annual Report",
+      "Social Security Administration COLA methodology",
+      "CBO baseline projections for veterans' programs"
+    ]
+  },
+  {
+    "id": 77,
+    "sourceId": "cg:119-S-4481",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4481?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "S 4481: IMPACT to Save Moms Act",
+    "score": 28,
+    "snapshot": "The IMPACT to Save Moms Act establishes grants to states for improving maternal mortality review committees and expanding data collection on pregnancy-related deaths. It addresses a documented crisis: U.S. maternal mortality rates (32.9 per 100,000 live births in 2021) exceed those of comparable nations.",
+    "verdict": "// VERDICT: Evidence-based approach to a measurable public health crisis with proven committee models in leading states, though long-term fiscal commitment and outcome metrics require clearer specification.",
+    "detail": "The bill tackles maternal mortality through systematic review infrastructure rather than direct service delivery—a reasonable approach given that <strong>review committees in states like California and Illinois have identified actionable patterns leading to mortality reductions</strong>. Measurable benefit is strong: maternal deaths are trackable, committees produce concrete recommendations, and the problem is well-documented with racial disparities (Black women face 2-3x higher mortality). Fiscal responsibility is moderate; grants to 50+ state/territorial committees represent ongoing costs, but maternal deaths also carry substantial economic burden ($32,000+ per case in preventable costs). The legislative process is proper (committee referral, standard appropriations path). Cost distribution is reasonable: federal funding addresses a state-level implementation gap, with benefits accruing to pregnant women across demographics, though effectiveness depends on state follow-through on committee findings.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC Maternal Mortality data, 2021-2023",
+      "Senate Legislative Record S.4481",
+      "California Maternal Quality Care Collaborative outcomes",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 78,
+    "sourceId": "cg:119-S-4482",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4482?format=json",
+    "branch": "Congress",
+    "date": "May 14",
+    "dateISO": "2026-05-14",
+    "title": "S 4482: WELLS Act",
+    "score": -18,
+    "snapshot": "The WELLS Act (S 4482) was introduced in the Senate on May 11, 2026, and referred to the Finance Committee. Without published text or CBO analysis, the bill's specific provisions, costs, and impacts remain undetermined.",
+    "verdict": "// VERDICT: Insufficient information exists to assess measurable outcomes, fiscal impact, or distribution effects of this legislation still in committee.",
+    "detail": "S 4482 remains in the earliest stage of the legislative process with no available bill text, committee hearings, or independent fiscal analysis. <strong>The absence of substantive information two days after referral prevents meaningful evaluation of public benefit, cost-effectiveness, procedural compliance, or equity considerations.</strong> While committee referral follows proper legislative procedure, the lack of transparency regarding the bill's content—combined with an acronym title that may obscure actual provisions—warrants skepticism until detailed analysis becomes available. The preliminary negative score reflects uncertainty and the historical pattern where hastily-named bills sometimes contain provisions unrelated to their titles or carry hidden fiscal obligations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov Bill Status S.4482",
+      "Senate Finance Committee Referral Record, May 2026"
+    ]
+  },
+  {
     "id": 56,
     "sourceId": "cl:11326449",
     "sourceUrl": "https://www.courtlistener.com/opinion/10859047/danco-laboratories-llc-v-louisiana/",
