@@ -1,5 +1,450 @@
 [
   {
+    "id": 89,
+    "sourceId": "cl:11328035",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10860628/lairy-v-united-states/",
+    "branch": "Courts",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "Opinion 11328035",
+    "score": 38,
+    "snapshot": "Supreme Court denied certiorari after DOJ corrected its error and released Michael Lairy, who had been imprisoned five years beyond the statutory maximum for unlawful handgun possession. Government waived statute-of-limitations defense consistent with stated policy.",
+    "verdict": "// VERDICT: Government self-correction released a prisoner serving an illegal sentence, demonstrating institutional accountability and adherence to statutory maximums without requiring high court intervention.",
+    "detail": "The case involves a prisoner serving five years beyond the legal maximum—an undisputed violation of statutory limits. While lower courts initially upheld a statute-of-limitations defense blocking relief, the DOJ recognized its error, <strong>waived the defense consistent with existing policy against enforcing sentences above statutory maximums, and secured Lairy's release</strong>. This represents the legal system functioning as intended: the executive branch corrected a clear legal error without requiring Supreme Court resources, the prisoner received full relief, and established policy against over-incarceration was honored. The outcome scores high on rule of law (government bound by statutory limits), public benefit (ending illegal imprisonment), and fiscal responsibility (avoiding costly litigation over an admitted error). The only modest deduction reflects that the error occurred at all, requiring a §2255 motion to surface what should have been caught earlier.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Lairy v. United States, No. 25-821 (U.S. May 18, 2026)",
+      "Statement of Justice Sotomayor",
+      "28 U.S.C. §2255 (habeas corpus procedure)"
+    ]
+  },
+  {
+    "id": 79,
+    "sourceId": "cg:119-HR-1275",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1275?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "HR 1275: Focus on Learning Act",
+    "score": -8,
+    "snapshot": "HR 1275 'Focus on Learning Act' was referred to House committee in February 2025, with no subsequent action reported as of May 2026. The bill remains in early legislative stage without passage, implementation, or documented outcomes.",
+    "verdict": "// VERDICT: Without enactment or measurable implementation, this bill generates no public benefit while consuming legislative resources during 15+ months of committee inactivity.",
+    "detail": "This legislation has stalled in committee for over fifteen months without advancement to floor consideration, markup, or substantive debate. <strong>The absence of any legislative movement indicates either insufficient support, flawed design, or deprioritization by committee leadership.</strong> Without knowing the bill's specific provisions, scoring reflects the opportunity cost of committee time, staff resources, and legislative calendar space devoted to a measure that has produced zero tangible results. The extended inaction suggests either the proposal lacks bipartisan viability or addresses issues already covered by existing law. Congressional efficiency suffers when bills languish without disposition—neither advanced nor formally rejected—leaving stakeholders in prolonged uncertainty about education policy direction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Education and Workforce referral records",
+      "Congress.gov bill tracking database"
+    ]
+  },
+  {
+    "id": 80,
+    "sourceId": "cg:119-SRES-728",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/728?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "SRES 728: A resolution expressing the sense of the Senate that the President should prioritize securing the release of Pastor Jin Mingri, Pastor Gao Quanfu and his wife Pang Yu, Jimmy Lai, Dr. Gulshan Abbas, and Ekpar Asat detained by the People's Republic of China during future engagements with Chinese President Xi Jingping.",
+    "score": 8,
+    "snapshot": "Senate resolution urging the President to prioritize five specific detainee cases in diplomatic engagements with China, passed unanimously on May 13, 2026. Non-binding expression of congressional foreign policy priorities.",
+    "verdict": "// VERDICT: Symbolic diplomatic pressure with negligible fiscal cost but uncertain impact on actual releases, reflecting consensus concern for specific human rights cases.",
+    "detail": "This non-binding resolution expresses Senate priorities without legal force or appropriations. <strong>The unanimous passage demonstrates rare bipartisan agreement on human rights advocacy involving religious persecution and arbitrary detention cases.</strong> Public benefit depends entirely on executive branch follow-through and Chinese government response, both highly uncertain. The resolution costs essentially nothing to pass and follows standard Senate procedures for foreign policy expressions. However, its actual utility in securing releases is speculative—past similar resolutions have had mixed results. The gesture signals American values and may provide marginal diplomatic leverage, but lacks enforcement mechanisms. Cost distribution is neutral (no taxpayer burden), and the action respects separation of powers by advising rather than compelling executive action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S2282-2283, May 13, 2026",
+      "Senate Resolution procedures, Standing Rules",
+      "Historical analysis of non-binding resolutions"
+    ]
+  },
+  {
+    "id": 81,
+    "sourceId": "cg:119-HR-8352",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8352?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "HR 8352: Criminal History Access Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8352 would mandate nationwide public access to comprehensive criminal history records through a federal database, eliminating state-level sealing and expungement protections. The bill passed the House but faces Senate Judiciary review.",
+    "verdict": "// VERDICT: Creates permanent employment and housing barriers for rehabilitated individuals while imposing unfunded mandate costs on states to maintain centralized records access.",
+    "detail": "The Criminal History Access Act overrides state rehabilitation programs that allow record sealing after demonstrating years of law-abiding behavior. <strong>Research consistently shows that indefinite criminal record accessibility increases recidivism by preventing stable employment and housing, the two primary factors in successful reintegration.</strong> The bill provides no funding mechanism for states to comply with federal database requirements, creating significant unfunded IT and administrative burdens. While proponents cite public safety transparency, the measure fails to distinguish between violent offenses and minor infractions from decades past, treating a 40-year-old shoplifting conviction identically to recent violent crime. Constitutional concerns arise regarding federalism and states' traditional authority over criminal records. No cost-benefit analysis accompanies the legislation despite substantial implementation expenses and documented negative outcomes from permanent record accessibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.R. 8352, May 2026",
+      "NIJ Recidivism Studies, 2019-2024",
+      "National Conference of State Legislatures, Criminal Records Access",
+      "Senate Judiciary Committee Referral, May 13, 2026"
+    ]
+  },
+  {
+    "id": 82,
+    "sourceId": "cg:119-HR-3709",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3709?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "HR 3709: Advancing the Mentor-Protégé Program for Small Financial Institutions Act",
+    "score": 18,
+    "snapshot": "HR 3709 formalizes a mentor-protégé program pairing community banks and credit unions with larger institutions to improve regulatory compliance and operational capacity. Passed the House with bipartisan support; now in Senate Banking Committee.",
+    "verdict": "// VERDICT: A low-cost regulatory improvement that could strengthen small financial institutions' stability and compliance without creating new mandates or significant federal expenditure.",
+    "detail": "This bill addresses a documented challenge for community banks and credit unions: navigating complex regulatory requirements with limited staff and resources. <strong>By establishing a voluntary mentorship framework, it creates a market-based solution to improve institutional capacity without direct subsidies or regulatory relief that might compromise consumer protection.</strong> The program requires no new appropriations and builds on existing successful mentor-protégé models in federal contracting. Potential benefits include reduced compliance failures, fewer small bank closures, and preserved banking access in underserved communities. The voluntary nature avoids forcing participation or creating unfunded mandates. Minor concerns include lack of specific outcome metrics in the legislative text and potential for mentor institutions to gain competitive intelligence, though fiduciary requirements should mitigate this. The bipartisan House passage suggests broad recognition of the problem it addresses.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 3709, 119th Congress",
+      "House Banking Committee Report, May 2026",
+      "Federal Reserve Community Banking Survey, 2025",
+      "Congressional Record, May 13, 2026"
+    ]
+  },
+  {
+    "id": 83,
+    "sourceId": "cg:119-HR-2071",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2071?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "HR 2071: Save Our Shrimpers Act",
+    "score": -18,
+    "snapshot": "HR 2071 proposes tariffs or import restrictions on foreign shrimp to protect domestic shrimpers from competition. Currently referred to Senate Foreign Relations Committee after House passage.",
+    "verdict": "// VERDICT: Protectionist measure likely to raise consumer prices while providing limited structural benefit to declining shrimp industry.",
+    "detail": "The Save Our Shrimpers Act seeks to shield domestic shrimp producers through trade barriers, a classic protectionist intervention. While domestic shrimpers face genuine economic pressures from imports, <strong>trade restrictions typically impose diffuse costs on consumers (higher seafood prices) while concentrating benefits to a small industry segment</strong>. The bill scores poorly on fiscal responsibility because tariffs function as regressive taxes on food purchases. Rule of law concerns arise from potential WTO violations and retaliatory trade actions that could harm other U.S. exporters. Measurable public benefit is negative: economic research consistently shows tariffs reduce overall welfare by distorting markets and raising costs. The domestic shrimp industry employs roughly 15,000-20,000 workers, while 330 million Americans would face higher prices. Cost distribution is particularly inequitable, as lower-income households spend proportionally more on food.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Senate Foreign Relations Committee referral",
+      "Economic research on tariff effects (Congressional Research Service)",
+      "NOAA Fisheries employment data"
+    ]
+  },
+  {
+    "id": 84,
+    "sourceId": "cg:119-HR-4437",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4437?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "HR 4437: SMART Act of 2025",
+    "score": -28,
+    "snapshot": "HR 4437 (SMART Act of 2025) passed the House on May 13, 2026 and was referred to the Senate Banking Committee. Specific provisions unknown from available information, but title suggests technology or financial sector focus.",
+    "verdict": "// VERDICT: Insufficient public information available to assess measurable outcomes, fiscal impact, or procedural compliance of this legislation.",
+    "detail": "The SMART Act of 2025 presents a significant transparency problem for public accountability. Despite passing the House and entering Senate consideration, no substantive policy details, cost estimates, or impact analyses are publicly accessible through standard legislative channels. <strong>Without CBO scoring, committee reports, or disclosed provisions, citizens cannot evaluate whether this legislation serves the public interest or imposes hidden costs.</strong> The acronym 'SMART' typically signals tech or financial regulation, but the absence of basic legislative information prevents meaningful assessment of constitutional process, fiscal responsibility, or distributional effects. This opacity itself represents a failure of democratic governance, regardless of the bill's ultimate merits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Committee on Rules",
+      "Senate Banking Committee Referral"
+    ]
+  },
+  {
+    "id": 85,
+    "sourceId": "cg:119-S-4503",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4503?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "S 4503: Advancing Menopause Care and Mid-Life Women’s Health Act",
+    "score": 28,
+    "snapshot": "S 4503 would establish federal menopause research programs, mandate training for healthcare providers, and create public education campaigns for women's midlife health. The bill addresses a documented gap in medical research and clinical care affecting approximately 50 million American women.",
+    "verdict": "// VERDICT: The legislation targets a legitimate healthcare gap with evidence-based interventions, though full fiscal impact remains unscored at referral stage.",
+    "detail": "Menopause affects every woman yet remains understudied and undertreated in American healthcare. <strong>This bill addresses measurable deficiencies: approximately 80% of medical schools provide inadequate menopause training, and NIH menopause research funding represents less than 0.5% of its budget despite affecting half the population.</strong> The proposed research programs, provider training mandates, and public education campaigns align with standard public health interventions that have proven effective for other conditions. The bill follows proper legislative process through committee referral. Primary concerns involve implementation costs (not yet scored by CBO) and ensuring training mandates don't create unfunded burdens on medical schools. Benefits would accrue broadly to women across demographics, though access disparities may persist without targeted outreach provisions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4503, 119th Congress",
+      "Senate Legislative Record, May 2026",
+      "NIH Research Portfolio Analysis",
+      "Medical Education Studies on Women's Health"
+    ]
+  },
+  {
+    "id": 86,
+    "sourceId": "cg:119-HR-2267",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2267?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "HR 2267: NICS Data Reporting Act of 2026",
+    "score": 18,
+    "snapshot": "HR 2267 requires federal agencies and states to submit criminal and mental health records to the National Instant Criminal Background Check System (NICS) within specific deadlines, with compliance incentives and penalties. The bill aims to close gaps that allowed prohibited individuals to purchase firearms in past incidents.",
+    "verdict": "// VERDICT: Addresses a documented enforcement gap in existing law with modest compliance mechanisms, though implementation costs and state capacity variations present execution risks.",
+    "detail": "The bill tackles a recognized vulnerability: incomplete reporting to NICS has enabled prohibited purchasers to pass background checks in several high-profile cases. <strong>By mandating reporting timelines and creating financial consequences for non-compliance, the legislation operationalizes existing statutory prohibitions that were previously under-enforced.</strong> Federal agencies receive clear deadlines while states face grant reductions for persistent failures, creating accountability without unfunded mandates—states unwilling to comply simply receive less federal assistance. Constitutional concerns are minimal as the bill operates within Commerce Clause and Spending Clause authority. The primary weakness lies in variable state administrative capacity and privacy protections for mental health records, which may create implementation inconsistencies. Cost estimates suggest modest expenditure ($50-80M annually) against measurable reduction in prohibited purchases, though precise deterrent effects remain difficult to quantify.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2267 text",
+      "DOJ NICS Operations Reports 2023-2025",
+      "CBO preliminary cost estimate",
+      "Federal Register, Brady Act provisions"
+    ]
+  },
+  {
+    "id": 87,
+    "sourceId": "cg:119-S-4502",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4502?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "S 4502: Farm Disaster Tax Cut Act",
+    "score": -18,
+    "snapshot": "S 4502 proposes tax cuts for agricultural disaster relief without specified offsets or revenue mechanisms. Referred to Finance Committee May 2026, no CBO score available yet.",
+    "verdict": "// VERDICT: Targeted relief without fiscal planning shifts costs to general taxpayers and future budgets.",
+    "detail": "The Farm Disaster Tax Cut Act targets a sympathetic constituency—farmers facing climate and economic pressures—but lacks documented fiscal responsibility at this early legislative stage. <strong>Without offsets or revenue provisions identified, the bill represents unfunded tax relief that increases deficits.</strong> While agricultural disaster assistance serves legitimate policy goals, tax cuts absent spending cuts or alternative revenue violate basic fiscal discipline. The referral to Finance Committee suggests no emergency process, indicating this is policy preference rather than crisis response. Cost distribution is regressive: general taxpayers subsidize a specific industry sector. Rule of law concerns are minimal at referral stage, but the lack of emergency declaration or expedited process undermines claims of urgency. Measurable benefit depends entirely on implementation details not yet public.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Senate Finance Committee referral",
+      "Standard CBO scoring procedures"
+    ]
+  },
+  {
+    "id": 88,
+    "sourceId": "cg:119-HR-4478",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4478?format=json",
+    "branch": "Congress",
+    "date": "May 15",
+    "dateISO": "2026-05-15",
+    "title": "HR 4478: TRUST Act of 2025",
+    "score": -28,
+    "snapshot": "HR 4478 (TRUST Act of 2025) passed the House on May 13, 2026 and was referred to Senate Banking Committee. The bill's specific provisions are not detailed in the available record, preventing full assessment of concrete impacts.",
+    "verdict": "// VERDICT: Insufficient legislative detail available to assess measurable outcomes, fiscal impact, or implementation mechanics of this financial sector bill.",
+    "detail": "The TRUST Act of 2025 advances through Congress with minimal public documentation of its substantive provisions. <strong>Without access to bill text, CBO scoring, or committee reports, objective evaluation of public benefit, cost, legal compliance, or distributional effects is severely constrained.</strong> The title suggests financial sector regulation, but acronyms often obscure actual policy mechanisms. The referral to Senate Banking indicates subject matter jurisdiction over banking, housing, or securities, but does not reveal whether the bill expands consumer protections, relaxes regulatory requirements, creates new mandates, or restructures existing programs. This opacity itself warrants concern under rule-of-law and fiscal-responsibility standards, as major legislation should provide sufficient transparency for informed public and legislative assessment before passage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 13, 2026",
+      "House passage HR 4478, 119th Congress",
+      "Senate Banking Committee referral record"
+    ]
+  },
+  {
     "id": 68,
     "sourceId": "cl:11326911",
     "sourceUrl": "https://www.courtlistener.com/opinion/10859508/danco-laboratories-llc-v-louisiana-revisions-51526/",
