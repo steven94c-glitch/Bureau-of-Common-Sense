@@ -1,5 +1,371 @@
 [
   {
+    "id": 102,
+    "sourceId": "cg:119-HR-2138",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2138?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "HR 2138: Veterans’ Compensation Cost-of-Living Adjustment Act of 2025",
+    "score": 38,
+    "snapshot": "HR 2138 mandates annual cost-of-living adjustments for veterans' disability compensation tied to Social Security COLA increases. The bill awaits full committee markup after subcommittee hearings in March 2025.",
+    "verdict": "// VERDICT: Maintains purchasing power for disabled veterans through automatic inflation adjustments with minimal administrative overhead and established funding mechanisms.",
+    "detail": "This legislation codifies what has been standard practice—annual COLA adjustments for veterans' disability benefits—into permanent law rather than requiring annual standalone bills. <strong>The automatic adjustment mechanism reduces legislative burden while ensuring 5+ million disabled veterans maintain benefit purchasing power against inflation.</strong> The Congressional Budget Office historically scores these adjustments as mandatory spending increases of $1–2 billion annually, but this represents maintaining real value rather than expansion. The bill follows established legislative procedure through proper committee consideration. Cost distribution is progressive, as disability compensation targets those who sacrificed earning capacity through military service. The primary limitation is that COLA adjustments merely preserve existing benefit levels rather than addressing adequacy of base compensation rates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2138",
+      "VA Benefits Administration data",
+      "CBO Veterans Benefits baseline projections",
+      "House Veterans Affairs Committee proceedings"
+    ]
+  },
+  {
+    "id": 103,
+    "sourceId": "cg:119-S-2392",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2392?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "S 2392: Veterans’ Compensation Cost-of-Living Adjustment Act of 2025",
+    "score": 38,
+    "snapshot": "Annual COLA increase for veterans' disability compensation and survivors' benefits, matching Social Security adjustments. Became law November 2025, effective December 2025.",
+    "verdict": "// VERDICT: Maintains purchasing power for disabled veterans through inflation adjustment with established precedent and minimal fiscal risk.",
+    "detail": "This bill provides automatic cost-of-living adjustments to veterans' disability compensation, matching the Social Security COLA formula. <strong>The measure protects approximately 5 million disabled veterans and survivors from inflation erosion using a well-established mechanism with predictable costs.</strong> The adjustment follows constitutional appropriations process and reflects bipartisan consensus on earned benefits. Fiscal impact is modest relative to overall VA budget (~$120B annually) and represents fulfillment of existing obligations rather than new spending. Cost distribution appropriately falls on general revenue, as these are earned benefits for service-connected disabilities. The automatic adjustment mechanism reduces administrative burden and ensures timely implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-42, November 2025",
+      "VA Benefits Administration data",
+      "Congressional Budget Office scoring",
+      "Social Security COLA methodology"
+    ]
+  },
+  {
+    "id": 104,
+    "sourceId": "cg:119-HR-8552",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8552?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "HR 8552: Veterans’ Compensation Cost-of-Living Adjustment Act of 2026",
+    "score": 35,
+    "snapshot": "HR 8552 provides an automatic cost-of-living adjustment to veterans' disability compensation and dependency allowances, matching the Social Security COLA formula. The bill applies to approximately 5 million veterans receiving VA disability benefits.",
+    "verdict": "// VERDICT: Maintains purchasing power for disabled veterans through inflation adjustments while following established budget processes and distributing costs across the general taxpayer base.",
+    "detail": "This legislation addresses a recurring administrative need by codifying automatic COLA adjustments for veterans' compensation, eliminating the need for annual standalone bills. <strong>The measure scores positively across all criteria because it protects a vulnerable population from inflation erosion, follows standard legislative procedure, and represents a predictable budgetary commitment with clear beneficiaries.</strong> Fiscal impact is modest relative to overall VA spending (estimated $2-3 billion annually based on recent COLA rates), and the cost is distributed across general revenue rather than concentrated on any particular group. The bill maintains parity with Social Security adjustments, ensuring veterans' purchasing power keeps pace with documented inflation. Congressional Veterans' Affairs committees have jurisdiction, and the referral follows proper constitutional process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "VA Benefits Administration data",
+      "Social Security Administration COLA methodology",
+      "House Committee on Veterans' Affairs"
+    ]
+  },
+  {
+    "id": 105,
+    "sourceId": "cg:119-HR-4899",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4899?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "HR 4899: CANADA Act",
+    "score": -38,
+    "snapshot": "HR 4899 proposes imposing comprehensive tariffs on Canadian imports and potentially authorizing military action regarding territorial acquisition. The bill has been referred to committee with no subsequent legislative action or economic impact analysis.",
+    "verdict": "// VERDICT: Threatens critical trade relationships, lacks fiscal analysis, and proposes extralegal territorial acquisition contrary to international law and constitutional treaty obligations.",
+    "detail": "The CANADA Act represents a severe departure from established trade policy and international norms. <strong>With over $780 billion in annual bilateral trade, tariffs on Canadian goods would devastate integrated supply chains in automotive, energy, and agriculture sectors, raising costs for American consumers and businesses while inviting retaliation.</strong> No Congressional Budget Office score exists to quantify economic damage. The bill's apparent suggestion of territorial acquisition violates the UN Charter, NATO obligations, and constitutional requirements for treaty compliance. Cost distribution is regressive—tariffs function as consumption taxes hitting working families hardest while disrupting industries in border states. The committee referral followed proper procedure, but the substance contradicts rule of law principles governing international relations. This scores as ideologically motivated policy lacking any credible benefit analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4899 referral",
+      "U.S. Census Bureau trade statistics",
+      "UN Charter Article 2(4)",
+      "Congressional Research Service trade analysis"
+    ]
+  },
+  {
+    "id": 106,
+    "sourceId": "cg:119-S-4351",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4351?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "S 4351: Energy Consumer Protection Act of 2026",
+    "score": -18,
+    "snapshot": "S 4351 proposes federal intervention in energy markets to cap consumer prices during supply disruptions. The bill has been referred to committee with no floor action, cost estimates, or implementation framework publicly available.",
+    "verdict": "// VERDICT: Price controls historically create shortages and distort market signals while appearing to help consumers, with uncertain constitutional authority over intrastate energy commerce.",
+    "detail": "The Energy Consumer Protection Act attempts to shield consumers from energy price spikes through federal price caps during declared emergencies. <strong>While superficially consumer-friendly, price controls typically exacerbate shortages by removing incentives for increased production and efficient allocation.</strong> Without accompanying supply-side measures, such interventions create artificial scarcity and black markets. The bill lacks published fiscal analysis, making cost projections speculative. Constitutional questions arise regarding federal authority over traditionally state-regulated retail energy markets under the Commerce Clause. The legislation shifts risk from market participants to taxpayers who may fund compensation mechanisms or bear costs of reduced energy investment. No hearing transcripts or CBO score are available to assess implementation details, enforcement mechanisms, or exemptions that would determine real-world impact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "Senate Committee on Energy and Natural Resources",
+      "Federal energy price control history (1970s)"
+    ]
+  },
+  {
+    "id": 107,
+    "sourceId": "cg:119-HR-2694",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2694?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "HR 2694: Election Results Accountability Act",
+    "score": -28,
+    "snapshot": "HR 2694 proposes federal oversight mechanisms for state election result certification, referred to committee in April 2025 with no further legislative action as of May 2026.",
+    "verdict": "// VERDICT: Proposal creates constitutional friction between federal authority and state election administration without demonstrated need or measurable improvements to election integrity.",
+    "detail": "This bill attempts to impose federal accountability measures on state election certification processes, a domain traditionally under state constitutional authority per the Elections Clause and Tenth Amendment. <strong>No evidence suggests current certification failures justify federal intervention, while the proposal risks politicizing routine administrative processes.</strong> The bill stalled in committee for over a year, suggesting insufficient support even among its sponsors. Without CBO scoring, fiscal impact remains unknown but would likely include federal monitoring infrastructure costs. The constitutional tension inherent in federalizing state election certification undermines rule of law principles regarding enumerated powers. States already have legal mechanisms to address certification disputes through courts and state legislatures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2694",
+      "House Committee on House Administration records",
+      "U.S. Constitution, Article I Section 4",
+      "Tenth Amendment jurisprudence"
+    ]
+  },
+  {
+    "id": 108,
+    "sourceId": "cg:119-HCONRES-86",
+    "sourceUrl": "https://www.congress.gov/bill/119/hconres/86?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "HCONRES 86: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+    "score": -18,
+    "snapshot": "House concurrent resolution directing presidential withdrawal of U.S. Armed Forces from hostilities with Iran under War Powers Resolution. Referred to Foreign Affairs Committee April 2026, no floor action taken.",
+    "verdict": "// VERDICT: Resolution invokes constitutional war powers check but provides no assessment of strategic consequences, regional stability risks, or allied commitments that withdrawal would create.",
+    "detail": "This concurrent resolution exercises Congress's constitutional role in war powers oversight, scoring positively on rule of law grounds. However, it demonstrates three critical weaknesses: <strong>It mandates military withdrawal without any documented analysis of strategic consequences, terrorist group strengthening, or impacts on regional allies.</strong> The measure provides no cost-benefit framework for assessing whether current operations prevent greater future expenditures or casualties. Unilateral withdrawal from active hostilities historically creates power vacuums exploited by hostile actors, potentially requiring more costly future interventions. While checking executive military action is constitutionally sound, doing so without evidence-based assessment of alternatives or exit strategy consequences represents legislative overreach without requisite due diligence. The resolution's silence on transition plans, allied coordination, or force protection during withdrawal raises serious implementation concerns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "War Powers Resolution, 50 U.S.C. §1544(c)",
+      "Congressional Record, H.Con.Res. 86",
+      "House Foreign Affairs Committee referral"
+    ]
+  },
+  {
+    "id": 109,
+    "sourceId": "cg:119-HCONRES-102",
+    "sourceUrl": "https://www.congress.gov/bill/119/hconres/102?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "HCONRES 102: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+    "score": -18,
+    "snapshot": "House resolution directing presidential withdrawal of U.S. forces from hostilities with Iran under War Powers Resolution. Referred to committee May 2026; no floor vote or implementation.",
+    "verdict": "// VERDICT: Congressional attempt to exercise war powers oversight over executive military action faces constitutional ambiguity and likely non-binding status as concurrent resolution.",
+    "detail": "This concurrent resolution invokes Section 5(c) of the 1973 War Powers Resolution to compel withdrawal from Iran hostilities, but faces significant limitations. <strong>Concurrent resolutions lack force of law and cannot bind the executive branch without presidential signature or veto override.</strong> While the War Powers Resolution intended congressional oversight of military deployments, its enforcement mechanism remains constitutionally contested after 50+ years. The resolution scores negatively on measurable benefit (no withdrawal has occurred; committee referral suggests low passage probability), modestly positive on rule of law (appropriate legislative oversight attempt), neutral on fiscal responsibility (no direct costs but ongoing military operations carry substantial expense), and negative on cost distribution (servicemembers and their families bear concentrated risk while policy remains unresolved). Without Senate passage, presidential agreement, or court enforcement, this represents symbolic rather than effective governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HCONRES 102, 119th Congress",
+      "War Powers Resolution, 50 U.S.C. 1544(c)",
+      "Congressional Research Service, War Powers Resolution reports",
+      "House Committee on Foreign Affairs referral, May 2026"
+    ]
+  },
+  {
+    "id": 110,
+    "sourceId": "cg:119-HR-8615",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8615?format=json",
+    "branch": "Congress",
+    "date": "May 18",
+    "dateISO": "2026-05-18",
+    "title": "HR 8615: FLEETS Now Act",
+    "score": -18,
+    "snapshot": "HR 8615 'FLEETS Now Act' referred to House Foreign Affairs Committee on April 30, 2026. No floor votes, hearings, or cost estimates publicly available as of May 18, 2026.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess measurable outcomes; premature referral stage shows no documented fiscal analysis or implementation framework.",
+    "detail": "The FLEETS Now Act remains in committee without substantive action 18 days after referral. <strong>Without bill text, sponsor statements, CBO scoring, or committee markup, no concrete public benefit can be demonstrated.</strong> The title suggests fleet-related provisions (possibly military or transportation), but speculation cannot substitute for documented impact. Fiscal responsibility cannot be evaluated without cost estimates. Rule of law criterion receives neutral scoring as committee referral follows standard process, though no meaningful legislative work has occurred. Cost distribution is unknown. Early-stage bills frequently stall; scoring reflects absence of evidence for taxpayer value rather than inherent defect, but congressional inaction on undefined proposals merits skepticism until substantive development occurs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2026",
+      "House Committee on Foreign Affairs referral log",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
     "id": 100,
     "sourceId": "cl:11328036",
     "sourceUrl": "https://www.courtlistener.com/opinion/10860629/danco-laboratories-llc-v-louisiana-revisions-51526/",
@@ -76,6 +442,47 @@
       "Lairy v. United States, No. 25-821 (U.S. May 18, 2026)",
       "Statement of Justice Sotomayor",
       "28 U.S.C. §2255 (habeas corpus procedure)"
+    ]
+  },
+  {
+    "id": 101,
+    "sourceId": "cg:119-HR-2515",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2515?format=json",
+    "branch": "Congress",
+    "date": "May 17",
+    "dateISO": "2026-05-17",
+    "title": "HR 2515: American Tank Car Modernization Act of 2025",
+    "score": -18,
+    "snapshot": "HR 2515 mandates retrofit or replacement of older tank cars transporting flammable liquids, aiming to reduce derailment fire risks. The bill remains in subcommittee with no floor vote or cost estimate available.",
+    "verdict": "// VERDICT: Addresses legitimate rail safety concerns but imposes unfunded mandates on freight operators without documented cost-benefit analysis or implementation timeline.",
+    "detail": "The American Tank Car Modernization Act targets DOT-111 and older tank cars involved in multiple catastrophic derailments (Lac-Mégantic 2013, East Palestine 2023). <strong>While enhanced tank car standards demonstrably reduce puncture risk in accidents, Congress provides no appropriation for compliance costs estimated in the billions across the rail industry.</strong> The bill shifts financial burden entirely to freight companies and shippers, who will pass costs to consumers through higher shipping rates. No CBO score exists because the measure never advanced beyond subcommittee referral. The safety rationale is sound—legacy tank cars have thinner shells and lack thermal protection—but the execution penalizes industry without federal cost-sharing or phased implementation that accounts for existing voluntary upgrade programs already underway since 2015 DOT regulations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -17.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2515 referral (2025-03-31)",
+      "NTSB derailment investigations (2013-2023)",
+      "Federal Railroad Administration tank car standards",
+      "DOT Hazmat Regulations 49 CFR 179"
     ]
   },
   {
