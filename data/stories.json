@@ -1,5 +1,46 @@
 [
   {
+    "id": 133,
+    "sourceId": "cl:11330194",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10862764/hamm-v-smith/",
+    "branch": "Courts",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "Opinion 11330194",
+    "score": 0,
+    "snapshot": "The Supreme Court dismissed a death penalty case involving intellectual disability after granting certiorari, declining to rule on the underlying question. The per curiam decision provided no reasoning; concurring and dissenting opinions debated evidentiary standards for IQ scores under Eighth Amendment analysis.",
+    "verdict": "// VERDICT: A procedural dismissal that leaves legal uncertainty unresolved while consuming judicial resources and prolonging a capital case.",
+    "detail": "This \"DIG\" (dismissed as improvidently granted) represents the Court's decision to abandon a case after oral argument, typically when justices conclude the case is unsuitable for resolving the legal question presented. The action neither helps nor harms Americans directly—it maintains the status quo while consuming Court resources and leaving lower courts without guidance on intellectual disability determinations in death penalty cases. <strong>The procedural maneuver avoids establishing precedent but also fails to provide clarity on Eighth Amendment protections, perpetuating circuit splits and inconsistent application of constitutional standards.</strong> Neither party receives definitive resolution. The concurrence suggests evidentiary problems made the case a poor vehicle for precedent, while dissent(s) likely sought substantive ruling. From a systemic perspective, this represents judicial efficiency considerations prioritized over immediate resolution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion No. 24-872 (May 21, 2026)",
+      "Atkins v. Virginia, 536 U.S. 304 (2002)",
+      "28 U.S.C. §2254(d)",
+      "Hall v. Florida, 572 U.S. 701 (2014)"
+    ]
+  },
+  {
     "id": 121,
     "sourceId": "cl:11330193",
     "sourceUrl": "https://www.courtlistener.com/opinion/10862763/havana-docks-corp-v-royal-caribbean-cruises-ltd/",
@@ -79,6 +120,414 @@
       "29 U.S.C. §§1391, 1393 (ERISA)",
       "87 Fed. Reg. 62317",
       "Romag Fasteners v. Fossil Group, 590 U.S. 212"
+    ]
+  },
+  {
+    "id": 123,
+    "sourceId": "cg:119-SRES-526",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/526?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "SRES 526: A resolution withholding the pay of Senators if a Government shutdown occurs.",
+    "score": 18,
+    "snapshot": "Senate resolution withholds Senator pay during government shutdowns, passed by voice vote May 2026. Applies only to Senators, not House members or other federal employees.",
+    "verdict": "// VERDICT: Symbolic accountability measure with minimal fiscal impact but establishes precedent that legislators share consequences of budget failures.",
+    "detail": "This resolution creates a direct financial consequence for Senators when they fail to fund the government, aligning their interests with timely budget passage. <strong>The measure scores positively on rule of law and cost distribution by making elected officials share shutdown pain rather than exempting themselves while staff and contractors suffer.</strong> However, measurable public benefit is limited—Senator salaries represent negligible federal spending, and wealthy members may be unaffected by temporary pay loss. Fiscal responsibility gains modest points since it marginally incentivizes budget discipline. The asymmetry (Senate only, not House) and lack of broader shutdown prevention mechanisms limit effectiveness. Still, it's a procedurally sound step toward accountability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S2295, May 14, 2026",
+      "Senate Resolution 526, 119th Congress",
+      "27th Amendment (Congressional Compensation)"
+    ]
+  },
+  {
+    "id": 124,
+    "sourceId": "cg:119-HR-1346",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1346?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "HR 1346: Nationwide Consumer and Fuel Retailer Choice Act of 2025",
+    "score": -18,
+    "snapshot": "HR 1346 prohibits states from banning internal combustion engine vehicle sales or mandating electric vehicle infrastructure at fuel retailers. The bill passed the House on May 14, 2026, and now awaits Senate committee review.",
+    "verdict": "// VERDICT: Federal preemption of state clean air authority with no demonstrated national benefit beyond protecting fossil fuel market share, imposing long-term environmental and health costs.",
+    "detail": "This legislation blocks states from implementing EV mandates or ICE vehicle sales bans, overriding California's waiver authority under the Clean Air Act. <strong>While framed as protecting consumer choice, it prevents states from addressing air quality emergencies and climate commitments already generating measurable health benefits in states like California, where ZEV standards have driven $10+ billion in health savings.</strong> The bill provides no federal alternative to achieve emissions reductions, effectively shifting environmental costs to future generations through continued fossil fuel dependence. Constitutional concerns arise from preempting traditionally state-level vehicle regulation without compelling federal interest. Zero fiscal analysis provided regarding increased healthcare costs from air pollution or climate adaptation expenses, estimated in hundreds of billions annually by EPA assessments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Clean Air Act §209 waiver provisions",
+      "EPA air quality economic assessments",
+      "California Air Resources Board ZEV program data"
+    ]
+  },
+  {
+    "id": 125,
+    "sourceId": "cg:119-S-4511",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4511?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "S 4511: A bill to amend the Internal Revenue Code of 1986 to exclude from gross income charitable distributions from certain employer-sponsored retirement plans, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4511 would allow tax-free charitable distributions from employer-sponsored retirement plans (401(k)s, 403(b)s), mirroring existing IRA rules that permit $100,000 annual qualified charitable distributions for individuals 70½+. Currently referred to Senate Finance Committee.",
+    "verdict": "// VERDICT: Modest tax incentive for charitable giving from workplace retirement accounts with limited revenue impact and administrative simplicity.",
+    "detail": "The bill extends qualified charitable distribution (QCD) treatment—already available for traditional IRAs since 2006—to employer-sponsored plans like 401(k)s and 403(b)s. <strong>This closes an inequity where IRA holders can make tax-advantaged charitable gifts while 401(k) participants cannot, despite similar retirement savings purposes.</strong> Revenue cost is likely modest (Joint Committee on Taxation estimated IRA QCDs at ~$2B annually; employer plan extension would add a fraction given participation patterns). The policy rewards charitable behavior without creating new loopholes, follows existing regulatory framework, and doesn't shift costs to non-participants. Primary beneficiaries are older Americans with workplace retirement savings and qualifying charities. Minor concern: incrementally reduces tax base without offsetting revenue, though scale is manageable within broader tax code.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4511, 119th Congress",
+      "Congressional Record, May 2026",
+      "Joint Committee on Taxation, IRA QCD estimates",
+      "Internal Revenue Code §408(d)(8)"
+    ]
+  },
+  {
+    "id": 126,
+    "sourceId": "cg:119-SRES-732",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/732?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "SRES 732: A resolution expressing the sense of the Senate that over 25 years of real-world evidence and hundreds of peer-reviewed studies proving that mifepristone is safe and effective should be respected, and law and policy governing access to lifesaving, time-sensitive medication abortion care in the United States should be equitable, transparent, and based on the best available peer-reviewed evidence-based science.",
+    "score": -8,
+    "snapshot": "Non-binding Senate resolution affirming support for mifepristone access based on peer-reviewed evidence. Referred to committee; carries no enforcement mechanism or budgetary impact.",
+    "verdict": "// VERDICT: Symbolic statement with zero policy effect that restates one side of ongoing litigation without changing drug approval processes or access.",
+    "detail": "Senate resolutions expressing sense-of-chamber positions carry no legal force and create no appropriations or regulatory change. <strong>This resolution takes a position on mifepristone policy during active federal litigation without altering FDA authority, court decisions, or actual patient access.</strong> The 25-year evidence base for mifepristone safety is documented in medical literature, but the resolution mechanism bypasses substantive legislative process—no hearings on competing evidence, no cost-benefit analysis, no implementation plan. While affirming evidence-based policymaking is defensible in principle, doing so through non-binding resolutions scores poorly on fiscal responsibility (congressional time spent on symbolic votes) and rule of law (attempting to influence judicial matters through legislative theater rather than proper lawmaking). The resolution shifts no costs but creates no benefits either.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Res. 732, 119th Congress",
+      "Congressional Record S2309-2310",
+      "Senate Resolution procedures, Congressional Research Service"
+    ]
+  },
+  {
+    "id": 127,
+    "sourceId": "cg:119-S-4521",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4521?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "S 4521: Army Organic Industrial Base Mineral Partnerships Act of 2026",
+    "score": 22,
+    "snapshot": "S 4521 authorizes the Army to partner with domestic mineral producers to secure critical materials for munitions and defense manufacturing. The bill aims to reduce reliance on foreign supply chains for minerals essential to the organic industrial base.",
+    "verdict": "// VERDICT: Addresses documented supply chain vulnerabilities in defense manufacturing through domestic partnerships, with modest fiscal commitment and clear statutory authority.",
+    "detail": "The legislation responds to identified weaknesses in U.S. defense supply chains, particularly for minerals used in munitions production. <strong>By establishing formal partnerships between Army arsenals and domestic mineral producers, it creates dedicated pathways for materials that have historically been subject to foreign supply disruption.</strong> The approach uses existing procurement authority with incremental budget impact, avoiding large unfunded mandates. Constitutional process is followed through standard committee referral. Primary beneficiaries are defense readiness and domestic mineral producers, with costs distributed through normal defense appropriations. The bill lacks specific cost estimates at this stage, and actual effectiveness depends on implementation and whether partnerships yield reliable supply at competitive prices compared to foreign alternatives.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4521, 119th Congress",
+      "Senate Armed Services Committee referral, May 2026",
+      "DOD Supply Chain Risk Assessment reports",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 128,
+    "sourceId": "cg:119-S-4520",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4520?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "S 4520: LNG Export Security Act",
+    "score": -18,
+    "snapshot": "S 4520 proposes restrictions on liquefied natural gas (LNG) exports, ostensibly for energy security. The bill has been referred to committee with no cost estimates or impact assessments publicly available as of May 2026.",
+    "verdict": "// VERDICT: Protectionist energy policy that likely raises domestic costs while undermining U.S. export commitments and trade relationships without demonstrated security benefit.",
+    "detail": "The LNG Export Security Act represents interventionist trade policy in a sector where the U.S. has become a global leader. <strong>Without published analysis demonstrating actual security threats from current export levels, the bill appears to prioritize domestic price controls over market efficiency and international obligations.</strong> LNG exports generate substantial economic benefits—supporting jobs, trade balances, and geopolitical leverage with European and Asian allies seeking alternatives to Russian energy. Artificial export restrictions typically create deadweight losses, discourage infrastructure investment, and invite retaliation. The bill scores poorly on measurable benefit (no documented security crisis), fiscal responsibility (forgone export revenue, potential trade war costs), and cost distribution (helps some industrial users while harming export-dependent regions and allied nations). It follows legislative process appropriately, earning partial rule-of-law credit, but the policy substance lacks evidentiary foundation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4520, 119th Congress",
+      "Congressional Record, May 2026",
+      "EIA Natural Gas Export Data",
+      "DOE LNG Export Authorization Database"
+    ]
+  },
+  {
+    "id": 129,
+    "sourceId": "cg:119-S-4472",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4472?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "S 4472: Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
+    "score": 38,
+    "snapshot": "Reauthorizes FDA priority review voucher program for ALS therapies, incentivizing drug development for a rare disease affecting ~30,000 Americans with no cure and 2-5 year survival post-diagnosis.",
+    "verdict": "// VERDICT: Modest targeted incentive for rare disease research with established precedent, minimal fiscal impact, and clear public health rationale.",
+    "detail": "The bill extends a proven mechanism that grants pharmaceutical companies tradable priority review vouchers when they develop approved therapies for ALS (amyotrophic lateral sclerosis). <strong>This creates market incentives for research into a devastating disease with limited commercial appeal due to small patient population.</strong> The voucher program costs taxpayers minimally—companies pay FDA fees for expedited reviews—while potentially accelerating development of treatments that could extend lives and reduce long-term disability costs. Similar programs for rare pediatric diseases have yielded multiple drug approvals. The bill follows standard legislative process through Senate committee referral. Primary beneficiaries are ALS patients and families; pharmaceutical companies gain tradable vouchers (valued $80-150M historically) that may modestly increase drug costs system-wide, though impact is diffuse across healthcare spending.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.4472, 119th Congress",
+      "FDA Priority Review Voucher Program data",
+      "ALS Association epidemiology reports",
+      "Congressional Record, Apr 2026"
+    ]
+  },
+  {
+    "id": 130,
+    "sourceId": "cg:119-S-4512",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4512?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "S 4512: Affordable Insulin Now Act of 2026",
+    "score": 38,
+    "snapshot": "S 4512 caps monthly out-of-pocket insulin costs at $35 for insured Americans. The bill is in early committee stage with no enacted provisions or cost estimates yet available.",
+    "verdict": "// VERDICT: Delivers direct financial relief to approximately 8 million insulin-dependent Americans while shifting costs to insurers and potentially premiums, pending fiscal analysis.",
+    "detail": "The Affordable Insulin Now Act addresses a documented crisis where insulin prices tripled between 2002-2022, forcing rationing that leads to preventable hospitalizations and deaths. <strong>Capping costs at $35 monthly provides immediate measurable relief to diabetics who previously paid $300-500 monthly out-of-pocket.</strong> The bill follows standard legislative process through committee review. Primary fiscal concern: without manufacturer price controls, insurers absorb costs likely passed to all premium-payers. Similar 2022 House version (HR 6833) had estimated 10-year cost of $18 billion per CBO, though concentrated benefits justify modest penalty on cost distribution. Lacks enforcement mechanisms for uninsured populations who face continued price gouging. The constitutional process is proper, but comprehensive fiscal scoring remains unavailable at this early stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4512, 119th Congress",
+      "Congressional Record, May 2026",
+      "CBO Cost Estimate, HR 6833 (2022)",
+      "Senate HELP Committee"
+    ]
+  },
+  {
+    "id": 131,
+    "sourceId": "cg:119-S-4506",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4506?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "S 4506: Advancing Water Reuse Act",
+    "score": 28,
+    "snapshot": "S. 4506 would establish federal tax incentives and grant programs to accelerate water reuse infrastructure, targeting water-stressed regions. Bill remains in committee with no CBO score available yet.",
+    "verdict": "// VERDICT: Addresses documented water scarcity through market mechanisms and infrastructure investment, though long-term fiscal impact awaits formal scoring.",
+    "detail": "The Advancing Water Reuse Act tackles a measurable problem—40% of U.S. counties face potential water shortages by 2050 according to USGS projections. <strong>By incentivizing wastewater treatment upgrades and graywater systems through tax credits and competitive grants, the legislation creates infrastructure that reduces freshwater demand while generating new water supplies.</strong> The approach combines public seed funding with private investment, which typically improves cost-effectiveness over pure federal spending. Concerns include unclear total authorization amounts pending committee markup, and potential geographic inequity if grant formulas favor certain states. The bill follows normal legislative process through Senate Finance Committee. Environmental benefits (reduced aquifer depletion, ecosystem preservation) accrue broadly, though upfront costs fall on current taxpayers while benefits extend decades forward.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4506, 119th Congress",
+      "Senate Finance Committee referral, May 2026",
+      "USGS Water Availability Projections",
+      "Congressional Record, May 13, 2026"
+    ]
+  },
+  {
+    "id": 132,
+    "sourceId": "cg:119-S-4510",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4510?format=json",
+    "branch": "Congress",
+    "date": "May 19",
+    "dateISO": "2026-05-19",
+    "title": "S 4510: Relief for Families of the Fallen Act",
+    "score": 38,
+    "snapshot": "S 4510 would provide tax relief and financial support to families of military service members and first responders killed in the line of duty. The bill remains in Senate Finance Committee as of May 13, 2026.",
+    "verdict": "// VERDICT: Targeted tax relief for Gold Star families and fallen first responders addresses a clear injustice with minimal fiscal impact and broad bipartisan precedent.",
+    "detail": "This legislation extends financial protections to families who have made the ultimate sacrifice through public service. <strong>The measure targets a clearly defined, limited population with documented hardship—Gold Star families and survivors of fallen first responders—making benefits administratively straightforward and fiscally contained.</strong> Similar provisions have historically enjoyed bipartisan support and passed with minimal controversy. The bill follows standard legislative process through committee referral. Cost estimates for comparable measures typically range from $50-200 million annually, representing negligible federal budget impact relative to the direct harm these families experience through loss of primary income earners. The targeted nature prevents broad tax avoidance while addressing genuine need. Constitutional authority is clear under Congress's taxation and general welfare powers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4510, 119th Congress",
+      "Senate Legislative Calendar, May 2026",
+      "Congressional Research Service, Military Survivor Benefits",
+      "Committee on Finance Referral"
     ]
   },
   {
