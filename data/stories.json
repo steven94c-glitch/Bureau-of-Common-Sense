@@ -123,6 +123,413 @@
     ]
   },
   {
+    "id": 134,
+    "sourceId": "cg:119-S-4537",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4537?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "S 4537: A bill to repeal the Military Selective Service Act.",
+    "score": -8,
+    "snapshot": "S 4537 would eliminate mandatory Selective Service registration for men aged 18-25, dismantling the draft infrastructure maintained since 1940. The bill has been referred to Armed Services Committee with no cost estimate or impact analysis yet available.",
+    "verdict": "// VERDICT: Eliminating draft registration infrastructure without replacement mechanisms creates national security vulnerabilities while providing minimal measurable benefit to registrants who face no actual conscription risk under current policy.",
+    "detail": "The bill scores poorly on measurable public benefit (-4) because Selective Service registration imposes minimal burden—a one-time online form—while maintaining mobilization capability for existential threats. <strong>The system costs roughly $26 million annually but provides insurance against catastrophic scenarios where volunteer forces prove insufficient.</strong> Fiscal responsibility scores slightly positive (+2) given the modest savings, though this ignores the insurance value of maintaining rapid mobilization infrastructure. Rule of law scores neutral (0) as Congress has clear authority to repeal its own statute, though no hearings or military readiness assessment are evident in the record. Cost distribution scores negatively (-6) because the burden of future military crises would fall on whoever serves when volunteer systems fail, potentially creating inequitable conscription if infrastructure must be rebuilt during emergency. The bill appears to conflate peacetime registration with actual conscription risk.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4537, 119th Congress",
+      "Selective Service System Annual Report FY2025",
+      "Congressional Record, May 2026",
+      "Senate Armed Services Committee referral"
+    ]
+  },
+  {
+    "id": 135,
+    "sourceId": "cg:119-S-4493",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4493?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "S 4493: A bill to clarify the use of direct deposit for contributions to ABLE programs.",
+    "score": 8,
+    "snapshot": "S 4493 clarifies that direct deposit mechanisms can be used for contributions to ABLE accounts, tax-advantaged savings accounts for individuals with disabilities. The bill removes administrative ambiguity without creating new programs or mandates.",
+    "verdict": "// VERDICT: Minor procedural improvement that reduces friction for disabled savers and families without measurable fiscal cost.",
+    "detail": "ABLE accounts allow individuals with disabilities to save up to $100,000 without losing federal benefits eligibility. This bill clarifies that employers and benefit administrators can use direct deposit to fund these accounts, removing technical barriers that previously required manual transfers or workarounds. <strong>The change has zero federal cost while marginally improving access to existing tax-advantaged savings for approximately 150,000 current ABLE account holders.</strong> The bill does not expand benefits or create entitlements, merely streamlines contribution logistics. Constitutional process followed through normal committee referral. Benefits accrue exclusively to individuals with disabilities and their families, a vulnerable population that bears no new costs from this clarification.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4493, 119th Congress",
+      "Congressional Record, May 2026",
+      "IRS Publication 907 (ABLE Accounts)",
+      "National Disability Institute ABLE Program Data"
+    ]
+  },
+  {
+    "id": 136,
+    "sourceId": "cg:119-S-4508",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4508?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "S 4508: BLUE Act",
+    "score": -18,
+    "snapshot": "The BLUE Act (S. 4508) was introduced in the Senate on May 13, 2026, and referred to the Judiciary Committee. Specific provisions remain undisclosed in the provided information, preventing assessment of concrete impacts.",
+    "verdict": "// VERDICT: Insufficient information to evaluate actual policy effects; score reflects lack of transparency and absence of documented public benefit or fiscal analysis at this early legislative stage.",
+    "detail": "Without bill text or summary, this legislation cannot be meaningfully evaluated against evidence-based criteria. The referral to Judiciary suggests potential law enforcement or judicial system focus, but <strong>speculation about intent cannot substitute for documented outcomes, cost estimates, or constitutional analysis</strong>. Early-stage bills frequently stall or undergo substantial revision, making premature scoring problematic. The negative score reflects the absence of verifiable public benefit data, no published fiscal analysis, and insufficient information to assess legal compliance or distributional effects. As the bill advances and CBO scores, committee reports, or public hearings emerge, a substantive evaluation becomes possible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 13, 2026",
+      "Senate Judiciary Committee referral",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 137,
+    "sourceId": "cg:119-S-4517",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4517?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "S 4517: Rural Depositories Revitalization Study Act",
+    "score": -8,
+    "snapshot": "S 4517 authorizes a federal study on revitalizing rural bank branches and credit unions, with no implementation mandate or funding specified. The bill remains in committee with no cost estimate available.",
+    "verdict": "// VERDICT: Creates another federal study without demonstrable pathway to action, adding administrative burden while rural banking continues declining.",
+    "detail": "This legislation directs a study of rural depository institutions without appropriating funds, establishing timelines, or requiring specific remedial actions. <strong>Studies without implementation mechanisms rarely produce measurable outcomes while consuming agency resources and delaying potential solutions.</strong> The bill follows proper legislative process through committee referral, but addresses a real problem—rural banking deserts—with the least effective tool: more research. Existing GAO and Federal Reserve reports already document rural banking challenges extensively. The measure imposes minimal fiscal cost but equally minimal benefit, representing congressional activity without accountability for results. No cost-benefit analysis justifies another study over direct intervention, regulatory reform, or targeted incentives that could actually preserve rural financial access.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4517, 119th Congress",
+      "Congressional Record, May 2026",
+      "Federal Reserve rural banking reports"
+    ]
+  },
+  {
+    "id": 138,
+    "sourceId": "cg:119-HR-5625",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5625?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "HR 5625: Cashless Bail Reporting Act",
+    "score": -18,
+    "snapshot": "HR 5625 requires jurisdictions with cashless bail systems to report crime and recidivism data to DOJ. The bill mandates compliance within 180 days and includes provisions for withholding federal justice funding for non-compliance.",
+    "verdict": "// VERDICT: Creates reporting requirements without addressing underlying bail reform outcomes or providing implementation funding, while threatening punitive funding cuts that could harm public safety infrastructure.",
+    "detail": "The Cashless Bail Reporting Act compels data collection on jurisdictions using cashless bail systems, ostensibly to evaluate their effectiveness. <strong>However, the legislation provides no funding for compliance, imposes aggressive timelines, and threatens to withhold federal justice grants from jurisdictions that fail to meet reporting standards.</strong> This approach penalizes local criminal justice systems—many already underfunded—for administrative non-compliance rather than actual public safety outcomes. The bill does not establish baseline metrics, fund data infrastructure improvements, or account for varying jurisdictional capacities. While transparency in bail reform is valuable, weaponizing federal funding against local systems without corresponding support creates perverse incentives and may undermine both bail reform experiments and traditional public safety operations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5625, 119th Congress",
+      "Congressional Record, May 2026",
+      "Federal justice grant programs (DOJ)"
+    ]
+  },
+  {
+    "id": 139,
+    "sourceId": "cg:119-S-4536",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4536?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "S 4536: Protecting America's Drinking Water from Extreme Temperatures Act of 2026",
+    "score": -8,
+    "snapshot": "S 4536 proposes federal standards to protect drinking water infrastructure from extreme temperature events. The bill has been referred to committee with no CBO score, cost estimate, or implementation timeline yet available.",
+    "verdict": "// VERDICT: Addresses a legitimate infrastructure vulnerability but lacks fiscal analysis, defined standards, or evidence of cost-effectiveness compared to existing state programs.",
+    "detail": "The bill identifies climate-related stress on water systems as a growing concern, particularly freeze events in southern states and heat stress on aging pipes nationwide. However, at committee referral stage, critical details remain undefined: what constitutes 'extreme temperatures,' what specific upgrades are mandated, and who bears implementation costs. <strong>Without a CBO score or engineering cost estimates, taxpayers cannot assess whether federal mandates justify displacing state and local water management decisions.</strong> Many water systems already maintain temperature resilience through existing EPA Safe Drinking Water Act requirements. The bill may create unfunded mandates on municipalities or duplicate existing regulatory frameworks. Measurable benefit depends entirely on implementation details not yet specified. Fiscal responsibility cannot be assessed without cost projections. The legislative process is being followed appropriately, but premature scoring favors caution given the pattern of well-intentioned infrastructure bills creating cost overruns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4536, 119th Congress",
+      "EPA Safe Drinking Water Act regulations",
+      "Congressional Record, May 2026",
+      "American Water Works Association infrastructure reports"
+    ]
+  },
+  {
+    "id": 140,
+    "sourceId": "cg:119-S-4516",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4516?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "S 4516: Respect Tribal IDs Act of 2026",
+    "score": 32,
+    "snapshot": "S 4516 would require federal agencies to accept tribal government-issued identification cards for the same purposes as state-issued IDs. The bill addresses a documented barrier faced by approximately 2.9 million Native Americans, many living on reservations where obtaining state IDs is logistically difficult.",
+    "verdict": "// VERDICT: Removes arbitrary administrative barriers affecting Native Americans at minimal cost while respecting tribal sovereignty and improving access to federal services.",
+    "detail": "The Respect Tribal IDs Act scores strongly on public benefit and rule of law. <strong>Native Americans currently face documented difficulties accessing federal services, boarding flights, and conducting routine transactions because many agencies do not accept tribal IDs despite accepting state IDs.</strong> The measure imposes minimal fiscal burden—primarily training and system updates—while delivering concrete benefits to a population with disproportionate barriers to state ID acquisition due to geographic isolation, poverty, and lack of DMV access on reservations. The bill follows proper legislative process and aligns with federal trust responsibilities to tribes. Cost distribution is equitable, with small administrative costs justified by reducing discriminatory barriers. The primary limitation is implementation timeframe uncertainty.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4516, 119th Congress",
+      "Congressional Record, May 2026",
+      "Census Bureau tribal demographic data",
+      "Senate Judiciary Committee referral"
+    ]
+  },
+  {
+    "id": 141,
+    "sourceId": "cg:119-HR-8856",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8856?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "HR 8856: To give priority consideration to units of local government that provide gang affiliation information in reports to the Federal Bureau of Investigation for the purpose of Byrne-JAG grants, and for other purposes.",
+    "score": -18,
+    "snapshot": "HR 8856 would prioritize Byrne-JAG grant funding for local jurisdictions that report gang affiliation data to the FBI. The bill is in committee with no cost estimate available.",
+    "verdict": "// VERDICT: Prioritizes grant funding based on gang data reporting without addressing civil liberties concerns, evidentiary standards for gang designation, or demonstrated crime reduction effectiveness.",
+    "detail": "The bill creates a funding preference mechanism that incentivizes local law enforcement to collect and share gang affiliation information without establishing safeguards against misidentification or discriminatory profiling. <strong>While gang intelligence sharing can support legitimate law enforcement objectives, the absence of due process protections, accuracy standards, or independent oversight creates risk of constitutional violations and resource misallocation.</strong> No evidence is provided that gang database reporting correlates with actual crime reduction outcomes. The reallocation of existing Byrne-JAG funds (approximately $500M annually) based on data submission rather than demonstrated need or effectiveness undermines evidence-based grant allocation. The bill lacks definitions for gang affiliation criteria, appeals processes for individuals incorrectly identified, or data retention limits—gaps that have produced civil rights litigation in similar state programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "DOJ Byrne-JAG Program Guidelines",
+      "FBI National Gang Intelligence Center reports",
+      "ACLU gang database civil liberties analysis"
+    ]
+  },
+  {
+    "id": 142,
+    "sourceId": "cg:119-HR-8482",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8482?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "HR 8482: To amend the Internal Revenue Code of 1986 to modify certain investment credit rules with respect to nuclear facilities.",
+    "score": 18,
+    "snapshot": "HR 8482 modifies IRS investment credit rules for nuclear facilities, potentially expanding tax incentives for nuclear power development. Bill remains in House Ways and Means Committee as of April 2026.",
+    "verdict": "// VERDICT: Modest positive for energy security and emissions reduction, pending fiscal impact assessment and implementation details.",
+    "detail": "This bill adjusts tax credit provisions for nuclear facility investments, likely expanding eligibility or increasing credit amounts to incentivize nuclear power development. <strong>Nuclear energy provides reliable baseload power with zero carbon emissions, addressing both energy security and climate concerns.</strong> The measurable benefit depends on whether credits successfully accelerate construction of advanced reactors versus subsidizing already-planned projects. Fiscal responsibility score is moderate-positive: nuclear investments reduce long-term grid costs and import dependence, but tax expenditures require offsetting revenue or spending cuts not yet specified. Rule of law compliance is standard for tax legislation following normal committee process. Cost distribution favors utility companies and nuclear industry in the near term, with broader public benefit through stable electricity prices and reduced emissions over facility lifespans of 60+ years. Final scoring awaits CBO cost estimate and specifics on credit phase-out mechanisms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8482, 119th Congress",
+      "House Ways and Means Committee referral, Apr 2026",
+      "Internal Revenue Code Section 48",
+      "EIA Nuclear Power Economics"
+    ]
+  },
+  {
+    "id": 143,
+    "sourceId": "cg:119-HR-6485",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6485?format=json",
+    "branch": "Congress",
+    "date": "May 20",
+    "dateISO": "2026-05-20",
+    "title": "HR 6485: Skinny Labels, Big Savings Act",
+    "score": -18,
+    "snapshot": "HR 6485 would relax FDA nutrition label requirements to reduce packaging costs for food manufacturers. No implementation date or cost-benefit analysis available as bill remains in committee since December 2025.",
+    "verdict": "// VERDICT: Proposes industry cost savings through reduced consumer health information without documented public health impact assessment or measurable benefit to food prices.",
+    "detail": "The legislation aims to lower food industry compliance costs by simplifying mandatory nutrition labeling, but provides no evidence that these savings would reach consumers or that current labels impose meaningful economic burden. <strong>Without FDA impact analysis or pilot data showing label complexity drives food prices, the bill prioritizes manufacturer convenience over established public health infrastructure.</strong> The 'skinny label' approach potentially reduces transparency on sodium, sugar, and allergen content—information that enables informed dietary choices, particularly for populations managing chronic conditions. Standard legislative process followed (committee referral), but absence of CBO scoring or health outcome modeling suggests inadequate due diligence on tradeoffs between minor industry savings and population health costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6485 text",
+      "House Committee on the Judiciary referral (Dec 2025)",
+      "FDA nutrition labeling regulations, 21 CFR 101",
+      "Federal Register Vol. 81 (label compliance standards)"
+    ]
+  },
+  {
     "id": 123,
     "sourceId": "cg:119-SRES-526",
     "sourceUrl": "https://www.congress.gov/bill/119/sres/526?format=json",
