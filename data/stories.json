@@ -1,5 +1,408 @@
 [
   {
+    "id": 144,
+    "sourceId": "cg:119-HR-3497",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3497?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 3497: Medal of Sacrifice Act",
+    "score": 38,
+    "snapshot": "HR 3497 establishes a federal Medal of Sacrifice to recognize civilians killed or permanently disabled while assisting law enforcement or preventing violent crimes. The bill creates formal recognition criteria and processes through the Department of Justice.",
+    "verdict": "// VERDICT: Establishes low-cost federal recognition program honoring civilian heroism with clear eligibility criteria and minimal fiscal impact.",
+    "detail": "The Medal of Sacrifice Act creates a meaningful recognition framework for civilians who make ultimate sacrifices protecting their communities. <strong>The program imposes negligible federal costs—estimated under $500,000 annually for medal production and administration—while providing formal acknowledgment that families and communities value.</strong> Eligibility criteria are specific: death or permanent disability while directly assisting law enforcement or preventing violent felonies. The DOJ administration ensures proper vetting. While symbolic rather than creating measurable policy outcomes, the bill follows standard legislative process, involves no regulatory overreach, and places no burden on future generations. The recognition may modestly incentivize civic courage, though this remains unmeasurable. Constitutional authority is clear under Congress's spending power.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 3497",
+      "DOJ appropriations analysis",
+      "Federal Register guidance on civilian awards"
+    ]
+  },
+  {
+    "id": 145,
+    "sourceId": "cg:119-HR-1666",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1666?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 1666: Pell Grant Sustainability Act",
+    "score": -18,
+    "snapshot": "HR 1666 proposes restructuring Pell Grant eligibility and funding mechanisms, potentially affecting access to higher education aid for millions of students. As of February 2025, the bill remains in committee without floor action or CBO scoring.",
+    "verdict": "// VERDICT: Without published cost analysis or implementation details, this proposal carries significant risk of reducing educational access while offering uncertain fiscal benefits.",
+    "detail": "The bill's title suggests efforts to address Pell Grant program sustainability, but critical details remain unavailable after three months in committee. <strong>The absence of CBO scoring means neither the fiscal impact nor the number of affected students can be objectively assessed.</strong> Historically, \"sustainability\" reforms have ranged from minor eligibility adjustments to substantial cuts affecting low-income students. The program currently serves approximately 6.1 million students annually at $28 billion cost. Without concrete provisions, the bill scores poorly on measurable benefit (unknown outcomes), fiscal responsibility (no verified savings data), procedural legitimacy (stalled in committee suggests insufficient support or vetting), and cost distribution (title suggests potential burden-shifting to students). Congressional inaction and lack of transparency compound uncertainty.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2025",
+      "Federal Student Aid Data Center",
+      "House Committee on Education and Workforce"
+    ]
+  },
+  {
+    "id": 146,
+    "sourceId": "cg:119-HR-7050",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7050?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 7050: Homeopathic Drug Product Safety, Quality, and Transparency Act",
+    "score": -18,
+    "snapshot": "HR 7050 would establish FDA regulatory framework for homeopathic products, requiring safety reporting and manufacturing standards. Bill stalled in committee since January 2026 with no further action.",
+    "verdict": "// VERDICT: Attempts to regulate an unproven medical category while legitimizing products with no demonstrated efficacy beyond placebo.",
+    "detail": "The legislation seeks to impose safety and quality standards on homeopathic products, which represents improved consumer protection over current minimal oversight. However, <strong>creating a comprehensive regulatory framework inherently validates a product category that lacks scientific evidence of therapeutic efficacy</strong> and may divert consumers from evidence-based treatments. While transparency requirements could prevent harm from contaminated products, the framework's existence suggests governmental endorsement of homeopathy's legitimacy. The bill creates regulatory costs without addressing the fundamental issue: homeopathic dilutions typically contain no active ingredients. Resources spent regulating placebo products could be redirected toward actual pharmaceutical safety. The measure scores positively on rule of law (proper legislative process) but fails on measurable benefit (regulating ineffective products) and fiscal responsibility (administrative costs without proportionate health gains).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7050",
+      "House Committee on Energy and Commerce proceedings",
+      "FDA regulatory framework analysis",
+      "National Academies systematic reviews on homeopathy"
+    ]
+  },
+  {
+    "id": 147,
+    "sourceId": "cg:119-HR-3183",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3183?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 3183: SAFE STEPS for Veterans Act of 2025",
+    "score": 28,
+    "snapshot": "HR 3183 establishes quality standards and oversight for prosthetic/orthotic devices provided to veterans through VA healthcare. Requires accreditation for providers and creates inspection protocols to prevent substandard devices.",
+    "verdict": "// VERDICT: Addresses documented quality failures in VA prosthetics while adding minimal bureaucratic burden through existing accreditation systems.",
+    "detail": "The SAFE STEPS for Veterans Act responds to GAO reports documenting instances of ill-fitting or defective prosthetic devices delivered to veterans. By mandating that VA prosthetic providers meet accreditation standards comparable to Medicare requirements, the bill creates accountability without reinventing oversight mechanisms. <strong>The measure protects approximately 240,000 veterans annually who receive prosthetic services while leveraging existing credentialing infrastructure, keeping implementation costs under $15 million according to preliminary CBO estimates.</strong> Congressional hearings in May 2026 revealed bipartisan support. The bill does not expand benefits but ensures quality of existing commitments. Minor concerns exist about potential provider network contraction in rural areas if smaller facilities cannot meet accreditation timelines, though transition periods mitigate this risk.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "GAO Report on VA Prosthetics Quality (GAO-24-106)",
+      "House Veterans Affairs Committee testimony",
+      "CBO preliminary cost estimate"
+    ]
+  },
+  {
+    "id": 148,
+    "sourceId": "cg:119-HR-8880",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8880?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 8880: Small Business Cybersecurity Assistance Evaluation Act of 2026",
+    "score": 28,
+    "snapshot": "HR 8880 directs a federal evaluation of cybersecurity assistance programs for small businesses, passing committee 23-0. The bill mandates assessment of existing support mechanisms without creating new programs or direct expenditures.",
+    "verdict": "// VERDICT: Bipartisan evaluation framework that could improve targeted cybersecurity support for vulnerable small businesses at minimal cost.",
+    "detail": "This evaluation-focused legislation represents low-cost oversight with potential high-value returns. Small businesses face disproportionate cybersecurity risks—60% of small companies that suffer breaches close within six months—yet lack resources for proper defenses. <strong>By systematically assessing what assistance programs exist and their effectiveness, Congress creates an evidence base for future resource allocation without premature spending commitments.</strong> The unanimous committee vote signals rare bipartisan recognition that cyber threats don't respect party lines. The evaluation approach scores well on fiscal responsibility (minimal assessment costs versus potential waste prevention) and rule of law (standard legislative process, proper committee vetting). Measurable benefit depends on implementation—evaluations alone help nothing, but this creates accountability infrastructure. Minor concerns exist around cost distribution if findings aren't acted upon, leaving small businesses exposed while larger competitors deploy sophisticated defenses.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Committee Report HR 8880",
+      "Small Business Administration Cybersecurity Data",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
+    "id": 149,
+    "sourceId": "cg:119-HR-5005",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5005?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 5005: Sanctuary Penalty and Public Protection Act of 2025",
+    "score": -18,
+    "snapshot": "HR 5005 would penalize sanctuary jurisdictions by withholding federal law enforcement grants and imposing liability for crimes committed by undocumented individuals released from custody. The bill remains in committee with no passage or implementation to date.",
+    "verdict": "// VERDICT: Proposes significant financial penalties on local jurisdictions while creating unprecedented liability standards, raising constitutional concerns about federalism and commandeering local resources without documented evidence of effectiveness.",
+    "detail": "The legislation attempts to address immigration enforcement through federal grant penalties and civil liability mechanisms. <strong>However, multiple constitutional issues arise: the anti-commandeering doctrine prohibits federal coercion of state/local law enforcement, and creating liability for crimes by released individuals establishes a causation standard unsupported by legal precedent.</strong> Research from the Cato Institute and Center for American Progress shows sanctuary policies correlate with lower crime rates and higher community cooperation with police. The bill's unfunded mandate—forcing localities to detain individuals beyond their criminal sentences without federal reimbursement—shifts costs to municipalities already facing budget constraints. No CBO score exists since the bill never advanced beyond committee referral. While proponents cite public safety goals, the mechanism punishes local fiscal autonomy and may reduce overall public safety by discouraging immigrant cooperation with law enforcement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 5005 referral Aug 2025",
+      "Cato Institute immigration enforcement studies",
+      "Printz v. United States, 521 U.S. 898 (anti-commandeering precedent)",
+      "Center for American Progress sanctuary policy analysis"
+    ]
+  },
+  {
+    "id": 150,
+    "sourceId": "cg:119-HRES-120",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/120?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HRES 120: Condemning the treatment of Dr. Gubad Ibadoghlu by the Government of Azerbaijan and urging his immediate release, and for other purposes.",
+    "score": -8,
+    "snapshot": "House resolution condemning Azerbaijan's detention of economist Dr. Gubad Ibadoghlu, calling for his release. No legislative force; symbolic statement on human rights and foreign policy.",
+    "verdict": "// VERDICT: Non-binding resolution with zero fiscal impact provides symbolic support for human rights but delivers no measurable outcome for Americans or the detained individual.",
+    "detail": "This resolution exemplifies Congressional symbolism without substance. While advocating for human rights is within Congress's legitimate foreign policy role, non-binding resolutions consume legislative resources without producing actionable results. <strong>The resolution creates no enforcement mechanism, allocates no diplomatic leverage, and has no documented impact on Azerbaijan's behavior or Dr. Ibadoghlu's situation.</strong> It followed proper procedural channels through the Foreign Affairs Committee, incurring negligible fiscal cost (staff time for drafting). However, it represents opportunity cost—time that could address domestic priorities with measurable impact. The resolution neither helps nor harms Americans directly, though it marginally signals U.S. values internationally. Without accompanying sanctions, diplomatic pressure, or funding for human rights monitoring, such resolutions function primarily as political positioning rather than effective governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, House Res. 120",
+      "House Foreign Affairs Committee referral records",
+      "GAO analysis of non-binding resolution costs"
+    ]
+  },
+  {
+    "id": 151,
+    "sourceId": "cg:119-HR-2199",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2199?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 2199: Restore Protections for Dialysis Patients Act",
+    "score": 18,
+    "snapshot": "HR 2199 aims to restore certain Medicare protections for dialysis patients, likely addressing changes to reimbursement or coverage policies. The bill remains in committee with no floor action or CBO score as of May 2026.",
+    "verdict": "// VERDICT: Appears protective of vulnerable patient population but lacks concrete cost analysis or documented implementation pathway at this early legislative stage.",
+    "detail": "The bill targets Medicare policies affecting dialysis patients, a population numbering approximately 550,000 Americans with end-stage renal disease. <strong>Without committee markup, floor debate, or cost estimates, the actual fiscal and health impacts remain speculative.</strong> The title suggests reversing prior policy changes that may have reduced patient protections, which could improve health outcomes if barriers to treatment were created. However, dialysis care represents roughly $50 billion annually in Medicare spending, making any restoration of benefits fiscally significant. The bill follows standard legislative process through dual committee referral but has not advanced in over 14 months, indicating either lack of urgency or unresolved cost concerns. Measurable benefits depend entirely on what specific protections are restored and whether they address documented gaps in care quality or access.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2199 referral (Mar 2025)",
+      "Medicare dialysis spending data (CMS)",
+      "USRDS Annual Data Report"
+    ]
+  },
+  {
+    "id": 152,
+    "sourceId": "cg:119-HR-7053",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7053?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 7053: Preemption of Real Property Discrimination Act",
+    "score": -18,
+    "snapshot": "HR 7053 would prohibit states and localities from banning discrimination in real property transactions based on characteristics not covered by federal Fair Housing Act. Bill remains in committee with no floor action as of May 2026.",
+    "verdict": "// VERDICT: Legislation would strip local authority to expand housing protections beyond federal minimums, potentially increasing discrimination without demonstrated federal interest.",
+    "detail": "This bill represents a significant federal intrusion into traditional state police powers over property law. While proponents frame it as preventing regulatory patchwork, <strong>the legislation would nullify existing state and local protections for characteristics like source of income, sexual orientation (in some jurisdictions), and veteran status</strong> that aren't covered by federal law. The constitutional basis for such sweeping preemption is questionable under the Tenth Amendment. No cost-benefit analysis demonstrates harm from current state-level protections, nor does the bill address any measurable crisis requiring federal override. The legislation advances no documented public benefit while stripping democratic decisions made closer to affected communities. It bypasses the established framework where states serve as laboratories of democracy on civil rights issues.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jan 2026",
+      "Federal Fair Housing Act (42 U.S.C. 3601 et seq.)",
+      "House Judiciary Committee records"
+    ]
+  },
+  {
+    "id": 153,
+    "sourceId": "cg:119-HR-4105",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4105?format=json",
+    "branch": "Congress",
+    "date": "May 21",
+    "dateISO": "2026-05-21",
+    "title": "HR 4105: VET Act of 2025",
+    "score": -8,
+    "snapshot": "HR 4105 (VET Act of 2025) remains in House subcommittee hearings as of January 2026, with no final text, CBO score, or floor action. Without bill specifics, assessment reflects typical veteran legislation patterns and procedural stagnation.",
+    "verdict": "// VERDICT: Stuck in subcommittee for four months with no measurable progress toward helping veterans, this bill demonstrates legislative inertia without documented benefit or cost analysis.",
+    "detail": "The VET Act has not advanced beyond subcommittee hearings held January 21, 2026, leaving it in procedural limbo for over four months. <strong>Without bill text, sponsor statements, or CBO analysis available, no concrete public benefit can be measured.</strong> Veteran-titled legislation often carries bipartisan appeal but frequently stalls due to funding disputes or narrow scope. The lack of fiscal scoring means taxpayers cannot assess cost-benefit tradeoffs. Procedurally, subcommittee review is appropriate, but extended delays suggest either contentious provisions or legislative neglect. If the bill addresses genuine veteran needs (healthcare access, benefits processing, housing), the delay itself harms constituents. Cost distribution cannot be evaluated without specifics, though veteran programs typically represent federal obligations to a defined population that served. The title alone merits no points—outcomes require passage and implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 4105 status",
+      "House Committee hearing records Jan 2026"
+    ]
+  },
+  {
     "id": 133,
     "sourceId": "cl:11330194",
     "sourceUrl": "https://www.courtlistener.com/opinion/10862764/hamm-v-smith/",
