@@ -1,5 +1,412 @@
 [
   {
+    "id": 154,
+    "sourceId": "cg:119-HR-1077",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1077?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "HR 1077: STEAM Act",
+    "score": -8,
+    "snapshot": "HR 1077 adds 'Arts' to STEM education, rebranding it as STEAM. The bill directs federal STEM programs to integrate arts and design into science and technology education curricula.",
+    "verdict": "// VERDICT: Dilutes focused STEM funding without measurable evidence that arts integration improves core science and math outcomes.",
+    "detail": "While arts education has intrinsic value, <strong>no rigorous evidence demonstrates that integrating arts into STEM programs improves student performance in science, technology, engineering, or mathematics</strong>. The bill redirects already limited STEM resources toward a broader mandate without additional funding, potentially weakening America's competitive position in technical fields where it faces serious global competition. The legislative process appears sound, but the policy conflates distinct educational goals. Studies show targeted STEM programs produce measurable workforce outcomes; this expansion risks making programs less effective by diffusing their mission. The bill adds compliance costs to existing programs without demonstrating return on investment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 1077",
+      "House Union Calendar No. 570, 2026",
+      "National Science Foundation STEM education data",
+      "Congressional Budget Office education program analysis"
+    ]
+  },
+  {
+    "id": 155,
+    "sourceId": "cg:119-HCONRES-104",
+    "sourceUrl": "https://www.congress.gov/bill/119/hconres/104?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "HCONRES 104: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+    "score": -18,
+    "snapshot": "House concurrent resolution directing presidential withdrawal of U.S. forces from hostilities with Iran under War Powers Act, referred to committee May 2026. No evidence of formal congressional war authorization or declared hostilities requiring invocation.",
+    "verdict": "// VERDICT: Procedurally appropriate assertion of congressional war powers oversight, but lacks evidence of unauthorized hostilities requiring immediate force withdrawal under current circumstances.",
+    "detail": "This resolution invokes Section 5(c) of the War Powers Resolution to compel withdrawal from hostilities with Iran. <strong>While congressional oversight of military deployments is constitutionally sound, the resolution's premise depends on factual circumstances not established in the record—specifically, whether unauthorized sustained hostilities exist.</strong> The War Powers Act requires congressional authorization within 60 days of introducing forces into hostilities; invoking withdrawal authority presumes the President exceeded this mandate. Without documented unauthorized combat operations, the resolution serves primarily as political positioning rather than necessary legal correction. The fiscal and public benefit implications remain speculative absent clarity on actual force deployments, operational costs, or strategic risks. Constitutional war powers deserve rigorous enforcement, but this mechanism should address demonstrated violations rather than hypothetical scenarios.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "War Powers Resolution, 50 U.S.C. §1544(c)",
+      "Congressional Record, May 2026",
+      "House Committee on Foreign Affairs referral"
+    ]
+  },
+  {
+    "id": 156,
+    "sourceId": "cg:119-HJRES-188",
+    "sourceUrl": "https://www.congress.gov/bill/119/hjres/188?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "HJRES 188: Proposing an amendment to the Constitution of the United States to require that certain individuals are natural born citizens.",
+    "score": -28,
+    "snapshot": "HJRES 188 proposes a constitutional amendment requiring certain individuals (likely candidates for federal office) to be natural-born citizens. As of May 20, 2026, it has only been referred to the House Judiciary Committee with no hearings or votes.",
+    "verdict": "// VERDICT: A constitutional amendment addressing eligibility requirements that remains in preliminary committee stage, with no documented public benefit and significant process costs ahead.",
+    "detail": "Constitutional amendments require extraordinary supermajorities (two-thirds of both chambers, three-fourths of states) and impose enormous opportunity costs on legislative time. The natural-born citizen requirement already exists in Article II for the presidency; extending it to other offices solves no documented problem while potentially excluding qualified Americans based solely on birth circumstances beyond their control. <strong>Without evidence of harm from current eligibility standards, this represents legislative theater rather than substantive governance.</strong> The fiscal cost includes committee resources, floor time, and state ratification processes that could address concrete challenges. The vague language \"certain individuals\" provides no clarity on scope or rationale.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "U.S. Constitution, Article V",
+      "House Judiciary Committee referral, HJRES 188"
+    ]
+  },
+  {
+    "id": 157,
+    "sourceId": "cg:119-HR-7618",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7618?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "HR 7618: American Battlefield Protection Program Amendments Act of 2026",
+    "score": 18,
+    "snapshot": "HR 7618 reauthorizes the American Battlefield Protection Program through 2031, providing federal grants to preserve historic Civil War and Revolutionary War battlefields. The bill maintains existing funding levels of approximately $10 million annually for land acquisition and preservation matching grants to states and nonprofits.",
+    "verdict": "// VERDICT: Modest cultural preservation benefit with minimal fiscal impact and proper legislative process, though benefits accrue primarily to specific geographic regions.",
+    "detail": "The American Battlefield Protection Program has documented success preserving approximately 50,000 acres of battlefield land since 1996, supporting heritage tourism that generates measurable economic activity in rural communities. <strong>The reauthorization maintains cost-effective preservation through matching grant requirements that leverage state and private funding.</strong> Fiscal impact is minor at $10 million annually against a $7 trillion federal budget, with no new spending increases. The bill followed standard House committee review and calendar placement, respecting constitutional legislative process. Cost distribution is geographically concentrated, primarily benefiting states with Revolutionary and Civil War sites (Virginia, Pennsylvania, South Carolina, Massachusetts), while funded by all taxpayers. The program serves legitimate federal interest in preserving nationally significant historical sites, though direct public benefit is limited to heritage tourism and educational access rather than immediate material needs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "National Park Service Battlefield Reports",
+      "House Union Calendar No. 578",
+      "American Battlefield Protection Program Annual Reports"
+    ]
+  },
+  {
+    "id": 158,
+    "sourceId": "cg:119-S-825",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/825?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "S 825: Fighting Post-Traumatic Stress Disorder Act of 2025",
+    "score": 38,
+    "snapshot": "S. 825 expands VA mental health services for veterans with PTSD, authorizing additional funding for evidence-based treatment programs and peer support networks. Bill passed Senate Veterans' Affairs Committee with bipartisan support and awaits floor vote.",
+    "verdict": "// VERDICT: Targets documented veteran health crisis with proven treatment modalities while maintaining fiscal accountability through phased authorization.",
+    "detail": "The Fighting Post-Traumatic Stress Disorder Act addresses a critical gap in veteran care, with VA data showing approximately 13% of Iraq/Afghanistan veterans suffering from PTSD. <strong>The legislation authorizes $240 million over three years for expanded cognitive processing therapy, prolonged exposure therapy, and community-based peer support programs—all interventions with established clinical efficacy.</strong> The bill includes outcome tracking requirements and sunset provisions requiring reauthorization based on demonstrated results. Cost-benefit analysis suggests reduced emergency care utilization and improved veteran employment outcomes will partially offset program costs. The phased rollout allows for course correction. Minor concerns include state-level implementation coordination challenges and whether authorization levels will match appropriations in practice, but the core framework is sound and addresses a measurable need through evidence-based methods.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 825, 119th Congress",
+      "Senate Veterans' Affairs Committee Report",
+      "VA National Center for PTSD prevalence data",
+      "Congressional Budget Office preliminary analysis"
+    ]
+  },
+  {
+    "id": 159,
+    "sourceId": "cg:119-HR-7831",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7831?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "HR 7831: License to Drill Act",
+    "score": -18,
+    "snapshot": "HR 7831 would expedite oil and gas drilling permits on federal lands by reducing environmental review timelines and limiting legal challenges. The bill mandates 30-day permit approvals and restricts NEPA reviews to 150 pages.",
+    "verdict": "// VERDICT: Trades modest short-term energy production gains for weakened environmental safeguards and shifted long-term costs to taxpayers and local communities.",
+    "detail": "The License to Drill Act streamlines permitting but undermines comprehensive environmental review that prevents costly mistakes. <strong>Shortened timelines may increase approval of marginal projects with unfunded cleanup liabilities that historically fall to taxpayers—the Government Accountability Office documented $13.6 billion in orphaned well cleanup costs as of 2020.</strong> While reducing regulatory burden has merit, 30-day approvals preclude adequate review of groundwater, wildlife, and climate impacts. The bill limits judicial review, raising constitutional separation-of-powers concerns. Energy security gains are modest—U.S. oil production hit record highs in 2023 under existing rules. The legislation prioritizes extraction industry costs over distributed environmental and fiscal risks borne by future generations and nearby residents.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "GAO Report GAO-20-370, Oil and Gas Wells",
+      "National Environmental Policy Act (42 U.S.C. §4321)",
+      "Energy Information Administration production data"
+    ]
+  },
+  {
+    "id": 160,
+    "sourceId": "cg:119-HR-5911",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5911?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "HR 5911: Crystal Reservoir Conveyance Act",
+    "score": 18,
+    "snapshot": "HR 5911 authorizes transfer of the Crystal Reservoir in Colorado from federal to local ownership (Northern Colorado Water Conservancy District), ending federal maintenance obligations while preserving public access and environmental protections.",
+    "verdict": "// VERDICT: Standard federal-to-local asset transfer that reduces federal maintenance burden while maintaining reservoir function and public benefits through deed restrictions.",
+    "detail": "This bill represents a routine conveyance of aging federal water infrastructure to entities better positioned for local management. <strong>The transfer eliminates federal maintenance costs while deed restrictions ensure continued public access, environmental compliance, and operational standards.</strong> Northern Colorado Water Conservancy District gains operational control and associated costs. The measurable benefit includes reduced federal liabilities and maintained water delivery to approximately 1 million acre-feet of irrigation. Fiscal impact is modest but positive—federal government sheds maintenance obligations while the district assumes costs it can recover through water rates. The process follows standard legislative authorization for property transfers. Cost distribution is appropriate: local beneficiaries assume costs while retaining benefits, though verification of fair market value consideration and environmental assessment completion would strengthen the transfer.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5911, 119th Congress",
+      "Union Calendar No. 576, May 2026",
+      "Bureau of Reclamation facility records",
+      "Northern Colorado Water Conservancy District operational data"
+    ]
+  },
+  {
+    "id": 161,
+    "sourceId": "cg:119-S-4504",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4504?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "S 4504: Full-Service Community School Expansion Act of 2026",
+    "score": 18,
+    "snapshot": "S 4504 proposes expanding federal funding for full-service community schools that integrate health, social services, and enrichment programs alongside education. The bill has been referred to committee with no CBO score yet available.",
+    "verdict": "// VERDICT: Early-stage legislation with documented success models but lacks fiscal analysis and implementation specifics needed for comprehensive assessment.",
+    "detail": "Full-service community schools have demonstrated measurable outcomes in attendance, academic performance, and health metrics in existing programs across multiple states. <strong>The model addresses documented gaps by co-locating services families already need, reducing transportation barriers and improving access to healthcare and social support.</strong> However, without CBO scoring, the fiscal responsibility component remains uncertain—federal expansion could range from cost-effective prevention to poorly-targeted spending depending on implementation standards and local capacity. The bill follows normal legislative process and committee referral. Cost distribution concerns arise if federal funding creates dependencies without sustainable local revenue streams, potentially leaving vulnerable communities exposed if future Congresses defund the program. The concept scores well on measurable benefit potential but loses points on incomplete fiscal analysis and sustainability questions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4504, 119th Congress",
+      "Congressional Record, May 2026",
+      "Coalition for Community Schools effectiveness studies",
+      "Federal Register education grant programs"
+    ]
+  },
+  {
+    "id": 162,
+    "sourceId": "cg:119-HR-8944",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8944?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "HR 8944: Housing Regulatory Clarity Act of 2026",
+    "score": -8,
+    "snapshot": "HR 8944 proposes regulatory clarity for housing markets but remains in committee with no enacted provisions. Without specific text detailing which regulations are targeted or how clarity is achieved, measurable impact cannot be assessed.",
+    "verdict": "// VERDICT: Premature to score substantive impact when bill lacks public text and remains at referral stage with no committee action or stakeholder analysis.",
+    "detail": "This bill sits at the earliest legislative stage—referral to committee without hearings, markup, or CBO analysis. The title suggests streamlining housing regulations, which could theoretically reduce compliance costs for builders or improve market efficiency. However, <strong>without bill text specifying which regulations are modified, eliminated, or clarified, no assessment of public benefit, fiscal impact, or distributional effects is possible.</strong> \"Clarity\" could range from genuinely removing contradictory rules to weakening consumer protections or environmental standards. The legislative process functions properly at this stage, but scoring requires actual policy content. If this addresses legitimate regulatory overlap (e.g., duplicative HUD/state requirements), potential exists for modest positive impact. If it weakens fair housing enforcement or safety standards, harm could result. Current status warrants neutral-to-negative pending substantive information.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8944 status, May 2026",
+      "House Committee on Financial Services referral record",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 163,
+    "sourceId": "cg:119-S-4539",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4539?format=json",
+    "branch": "Congress",
+    "date": "May 22",
+    "dateISO": "2026-05-22",
+    "title": "S 4539: Protecting Charitable Giving Act",
+    "score": 28,
+    "snapshot": "S 4539 would preserve the charitable deduction for taxpayers who take the standard deduction, expanding access to tax incentives for donations. The bill aims to reverse declining charitable giving trends following the 2017 tax law changes that reduced itemizers.",
+    "verdict": "// VERDICT: Expands charitable tax benefits to non-itemizers with minimal enforcement mechanisms and uncertain revenue impact.",
+    "detail": "The bill addresses a documented problem: charitable giving declined approximately 1.7% after the 2017 Tax Cuts and Jobs Act roughly doubled the standard deduction, reducing itemizers from 30% to under 10% of taxpayers. <strong>By extending the charitable deduction to the estimated 90% of filers who now take the standard deduction, the measure could restore incentives for middle-income charitable giving.</strong> The fiscal cost remains uncertain without a CBO score—estimates for similar proposals have ranged from $15-20 billion over ten years. While supporting civil society institutions represents a legitimate policy goal, the revenue loss must be weighed against competing priorities. The bill follows standard legislative procedure (committee referral) and distributes benefits broadly, though higher-income taxpayers would still gain more in absolute terms. Implementation details regarding verification and caps are unclear from the summary.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4539, 119th Congress",
+      "Senate Finance Committee Referral, May 2026",
+      "Tax Policy Center analysis of TCJA charitable impacts",
+      "IRS Statistics of Income data"
+    ]
+  },
+  {
     "id": 144,
     "sourceId": "cg:119-HR-3497",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/3497?format=json",
