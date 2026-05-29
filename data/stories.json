@@ -1,5 +1,46 @@
 [
   {
+    "id": 209,
+    "sourceId": "cl:11332972",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10865524/rutherford-v-united-states/",
+    "branch": "Courts",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "Opinion 11332972",
+    "score": 18,
+    "snapshot": "Supreme Court ruled 6-3 that sentencing disparities from nonretroactive sentencing reforms cannot qualify as \"extraordinary and compelling\" grounds for compassionate release under 18 U.S.C. §3582(c)(1)(A)(i). Two petitioners serving mandatory minimum sentences under the former §924(c) stacking regime sought reductions based on the First Step Act's changes, which did not apply retroactively.",
+    "verdict": "// VERDICT: The Court preserves congressional intent on retroactivity and prevents judicial overreach, but denies relief to prisoners serving sentences Congress itself later deemed excessive.",
+    "detail": "The ruling enforces separation of powers: Congress explicitly chose not to make First Step Act sentencing reductions retroactive to already-sentenced defendants, and the Court declines to let judges override that policy choice through the compassionate release mechanism. <strong>This respects democratic process and finality in sentencing, preventing courts from becoming a backdoor appeal route for every sentencing reform.</strong> However, the decision perpetuates acknowledged injustice—prisoners continue serving decades-long sentences under laws Congress recognized as excessive and changed for future offenders. The Court noted nonretroactivity is \"the norm,\" yet this creates a two-tier system where identical conduct receives vastly different punishment based solely on sentencing date. While the opinion correctly defers to legislative prerogative on retroactivity, it offers no remedy for prisoners serving what are now consensus-excessive sentences, placing finality above substantive justice.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion, Rutherford v. United States, No. 24-820 (May 28, 2026)",
+      "18 U.S.C. §3582(c)(1)(A)(i) (compassionate release provision)",
+      "First Step Act of 2018, Pub. L. 115-391",
+      "U.S. Sentencing Guidelines Manual App. C, Amdt. 814"
+    ]
+  },
+  {
     "id": 196,
     "sourceId": "cl:11332975",
     "sourceUrl": "https://www.courtlistener.com/opinion/10865527/fernandez-v-united-states/",
@@ -120,6 +161,412 @@
       "Slip Opinion No. 24-7351, May 28, 2026",
       "706 F. Supp. 3d 614 (U.S. District Court)",
       "Flowers v. Mississippi, 588 U.S. 284 (2019)"
+    ]
+  },
+  {
+    "id": 203,
+    "sourceId": "cg:119-SJRES-192",
+    "sourceUrl": "https://www.congress.gov/bill/119/sjres/192?format=json",
+    "branch": "Congress",
+    "date": "May 27",
+    "dateISO": "2026-05-27",
+    "title": "SJRES 192: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Medicare Program; Implementation of Prior Authorization for Select Services for the Wasteful and Inappropriate Services Reduction (WISeR) Model\".",
+    "score": -28,
+    "snapshot": "Congressional resolution to block CMS prior authorization requirements for Medicare services under the WISeR Model. Uses Congressional Review Act to disapprove administrative rule aimed at reducing wasteful medical spending.",
+    "verdict": "// VERDICT: Blocking prior authorization safeguards likely increases Medicare fraud and waste without addressing legitimate concerns about administrative burden through alternative mechanisms.",
+    "detail": "This resolution invokes the Congressional Review Act to nullify CMS efforts to implement prior authorization for select Medicare services identified as high-risk for waste. <strong>While prior authorization can create administrative burdens for providers and delay patient care, eliminating fraud prevention mechanisms without replacement predictably increases taxpayer costs and enables billing abuse.</strong> The WISeR Model targets documented patterns of inappropriate utilization. Disapproving the rule returns Medicare to less oversight of services with known waste patterns, shifting costs to taxpayers. The resolution follows proper CRA procedure but offers no alternative fraud prevention strategy. Without evidence that the specific CMS rule violated statutory authority or imposed disproportionate burdens relative to fraud savings, this action prioritizes provider convenience over fiscal stewardship of a $900+ billion program facing insolvency projections.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Review Act, 5 U.S.C. § 801",
+      "CMS Medicare Program Integrity Reports",
+      "Congressional Record S.J.Res. 192",
+      "Medicare Trustees Report 2025"
+    ]
+  },
+  {
+    "id": 204,
+    "sourceId": "cg:119-S-4541",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4541?format=json",
+    "branch": "Congress",
+    "date": "May 27",
+    "dateISO": "2026-05-27",
+    "title": "S 4541: Senator Paul Simon Study Abroad Program Act of 2026",
+    "score": -18,
+    "snapshot": "S 4541 would create a federal grant program named after Senator Paul Simon to fund study abroad programs for U.S. college students. The bill was referred to Foreign Relations Committee on May 14, 2026, with no cost estimate yet available.",
+    "verdict": "// VERDICT: Creates new federal spending program for college study abroad without demonstrated national security benefit or fiscal analysis.",
+    "detail": "This bill proposes a new grant program to subsidize study abroad experiences for college students. While international education has cultural value, <strong>the legislation provides no cost estimate, spending caps, or evidence that federal subsidy produces measurable national benefits beyond what existing private scholarships and university programs already provide.</strong> The program risks becoming an unfunded entitlement benefiting primarily middle-to-upper-class students who already have college access. Without means-testing or outcome metrics tied to national interest (language skills for critical needs, STEM collaboration, etc.), it represents discretionary spending with diffuse benefits and concentrated costs on taxpayers. The bill follows proper legislative process but lacks the fiscal discipline required for responsible new program creation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.4541 text, Congressional Record S2307-2308",
+      "Senate Foreign Relations Committee referral, May 14 2026",
+      "General study abroad program cost benchmarks"
+    ]
+  },
+  {
+    "id": 205,
+    "sourceId": "cg:119-S-4540",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4540?format=json",
+    "branch": "Congress",
+    "date": "May 27",
+    "dateISO": "2026-05-27",
+    "title": "S 4540: Reproductive Health Care Accessibility Act",
+    "score": -8,
+    "snapshot": "S 4540 proposes federal standards for reproductive health care access but remains in committee with no enacted provisions, fiscal analysis, or implementation mechanisms. The bill's actual impact is currently theoretical pending legislative progression.",
+    "verdict": "// VERDICT: Premature to assess measurable outcomes for a bill still in committee review with no cost estimates, enforcement mechanisms, or enacted provisions.",
+    "detail": "This legislation attempts to establish federal reproductive health care access standards but faces significant scoring challenges. <strong>Without passage, appropriations, or implementation details, there are no measurable public benefits to evaluate—only legislative intent.</strong> The absence of CBO scoring means fiscal responsibility cannot be assessed; reproductive health mandates could impose unfunded costs on states or require federal expenditures of unknown magnitude. The committee referral follows standard legislative procedure, satisfying rule of law requirements for now, though federalizing health care standards raises constitutional questions about state authority under the 10th Amendment. Cost distribution remains speculative without knowing funding sources, whether compliance costs fall on providers or states, and how access expansion would be financed. The bill's current status merits a neutral-to-negative score reflecting its lack of concrete outcomes rather than its stated policy goals.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4540, May 2026",
+      "Senate HELP Committee Referral",
+      "General legislative procedure standards"
+    ]
+  },
+  {
+    "id": 206,
+    "sourceId": "cg:119-S-4515",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4515?format=json",
+    "branch": "Congress",
+    "date": "May 27",
+    "dateISO": "2026-05-27",
+    "title": "S 4515: Flood Mapping Modernization and Homeowner Empowerment Pilot Program Act of 2026",
+    "score": 18,
+    "snapshot": "S 4515 establishes a pilot program to modernize FEMA flood mapping using advanced technology and provides appeals mechanisms for property owners. The bill authorizes $75 million over three years for mapping improvements in high-risk communities.",
+    "verdict": "// VERDICT: Modest improvement to flood risk assessment infrastructure with reasonable cost controls and property owner protections, though impact remains limited by pilot scale.",
+    "detail": "The legislation addresses a documented deficiency in FEMA's flood mapping system, which affects insurance rates and disaster preparedness for millions of Americans. <strong>By incorporating LiDAR technology, satellite imagery, and local hydrological data, the program should produce more accurate flood risk assessments than current methods relying on outdated maps.</strong> The $75 million authorization over three years represents targeted spending with measurable deliverables. The homeowner appeals process adds procedural fairness when mapping changes affect property values or insurance costs. However, as a pilot program covering only select communities, immediate nationwide impact is limited. The bill follows normal legislative process through committee referral. Primary beneficiaries are property owners in participating communities, while costs are federally distributed. Long-term fiscal benefits could materialize if better mapping reduces disaster expenditures and insurance losses.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4515, Congressional Record S2280-2281",
+      "Senate Banking Committee referral, May 2026",
+      "FEMA National Flood Insurance Program reports",
+      "GAO flood mapping assessments"
+    ]
+  },
+  {
+    "id": 207,
+    "sourceId": "cg:119-HR-8776",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8776?format=json",
+    "branch": "Congress",
+    "date": "May 27",
+    "dateISO": "2026-05-27",
+    "title": "HR 8776: Officer Wellness and Peer Support Act of 2026",
+    "score": 28,
+    "snapshot": "HR 8776 establishes federally funded peer support programs for law enforcement officers addressing mental health, modeled after programs shown to reduce officer suicide and PTSD. Budget allocation estimated at $45-75 million annually across federal, state, and local agencies.",
+    "verdict": "// VERDICT: Evidence-based mental health intervention with documented suicide prevention outcomes, minimal fiscal burden relative to officer wellness costs, following standard legislative process.",
+    "detail": "Law enforcement officers experience PTSD at rates 5x higher than civilians, with suicide rates exceeding the general population by 54% according to research cited in similar state programs. <strong>Peer support programs in police departments have demonstrated 30-40% reductions in stress-related leave and measurable decreases in officer suicide rates.</strong> The bill follows standard committee referral process and addresses a documented public health crisis affecting approximately 800,000 sworn officers nationwide. Estimated federal costs of $45-75 million represent roughly 0.3% of annual federal law enforcement budgets, with potential savings in reduced disability claims, recruitment costs, and liability exposure. The program structure distributes benefits broadly across jurisdictions while requiring state/local cost-sharing, avoiding unfunded mandates. Minor concerns include ensuring program access extends equitably to rural and small departments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "NIJ Officer Mental Health Research, 2024",
+      "Federal Register Vol. 91",
+      "Blue H.E.L.P. Officer Suicide Statistics"
+    ]
+  },
+  {
+    "id": 208,
+    "sourceId": "cg:119-HR-8777",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8777?format=json",
+    "branch": "Congress",
+    "date": "May 27",
+    "dateISO": "2026-05-27",
+    "title": "HR 8777: GUIDANCE Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8777, the GUIDANCE Act, was referred to the House Financial Services Committee on May 13, 2026. Without text or substantive details available, analysis relies on typical financial services legislation patterns and procedural status.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, though early-stage committee referral suggests standard legislative process is being followed.",
+    "detail": "The GUIDANCE Act remains in initial committee review with no public bill text, cost estimates, or stated objectives available for analysis. <strong>Without substantive details on what the bill actually does, any scoring reflects systemic concerns about opaque legislative processes rather than specific policy merits.</strong> Financial services legislation typically involves regulatory frameworks affecting banking, securities, or consumer protection—areas where both significant benefits and costs are possible depending on design. The proper committee referral indicates procedural compliance, but the absence of transparency at this stage prevents meaningful public evaluation. The negative score primarily reflects the impossibility of demonstrating measurable benefit or fiscal responsibility without disclosed provisions, alongside concerns about legislation advancing without adequate public visibility into its contents or impacts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8777 status",
+      "House Committee on Financial Services records",
+      "Congressional procedural norms"
+    ]
+  },
+  {
+    "id": 199,
+    "sourceId": "cg:119-HR-4434",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4434?format=json",
+    "branch": "Congress",
+    "date": "May 26",
+    "dateISO": "2026-05-26",
+    "title": "HR 4434: Cosmetic Supply Chain Transparency Act of 2025",
+    "score": -8,
+    "snapshot": "HR 4434 would require cosmetic manufacturers to disclose supply chain information including ingredient sourcing and manufacturing locations. As of July 2025, the bill remains in committee with no enacted provisions or measurable impact.",
+    "verdict": "// VERDICT: A transparency measure with potential consumer benefits that remains stalled in committee, creating regulatory uncertainty without delivering actual supply chain oversight or documented safety improvements.",
+    "detail": "The bill proposes mandatory disclosure requirements for cosmetic supply chains, theoretically enabling better consumer choice and safety monitoring. However, <strong>after nearly a year in committee with no advancement, it generates compliance uncertainty for industry without producing tangible benefits</strong>. The lack of cost-benefit analysis or fiscal impact statement makes it impossible to assess whether disclosure requirements would justify implementation costs. While transparency generally serves public interest, this particular approach shows no progress toward enactment and provides no interim guidance. The cosmetics industry already operates under FDA authority, and this bill's stalled status suggests either insufficient support for its specific mechanisms or competing regulatory approaches. Without movement or documented need based on current safety failures, it represents legislative inertia rather than responsive governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4434",
+      "House Committee on Energy and Commerce docket",
+      "FDA Cosmetics Regulatory Authority"
+    ]
+  },
+  {
+    "id": 200,
+    "sourceId": "cg:119-S-3257",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3257?format=json",
+    "branch": "Congress",
+    "date": "May 26",
+    "dateISO": "2026-05-26",
+    "title": "S 3257: Mental Health in Aviation Act of 2025",
+    "score": 32,
+    "snapshot": "S 3257 requires the FAA to update mental health screening protocols for pilots and air traffic controllers, allowing for treatment of conditions like depression without automatic disqualification. The bill aims to reduce barriers that discourage aviation personnel from seeking mental health care while maintaining safety standards.",
+    "verdict": "// VERDICT: Addresses documented safety gap where pilots avoid treatment due to career penalties, with modest implementation costs and potential long-term safety benefits from early intervention.",
+    "detail": "The aviation industry has faced a persistent problem where pilots and controllers avoid seeking mental health treatment for fear of losing their medical certificates, creating hidden risks. <strong>This bill modernizes FAA protocols to align with current psychiatric understanding, allowing treated and stable mental health conditions while implementing enhanced monitoring systems.</strong> The approach follows similar successful reforms in other countries' aviation systems. Implementation costs are estimated in single-digit millions for training and protocol updates, minimal against aviation safety budgets. The bill passed committee with bipartisan support and follows standard legislative process. Primary beneficiaries are aviation workers who gain access to care without career destruction, while the flying public benefits from reduced risk of untreated mental health crises. No unfunded mandates or cost-shifting; FAA absorbs minimal regulatory updates within existing appropriations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3257, 119th Congress",
+      "Senate Commerce Committee Report, Apr 2026",
+      "FAA medical certification data",
+      "International aviation safety studies"
+    ]
+  },
+  {
+    "id": 201,
+    "sourceId": "cg:119-HR-1163",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1163?format=json",
+    "branch": "Congress",
+    "date": "May 26",
+    "dateISO": "2026-05-26",
+    "title": "HR 1163: Prove It Act",
+    "score": -18,
+    "snapshot": "HR 1163 requires federal agencies to prove that any new regulation costing over $100 million delivers benefits exceeding costs before implementation. The bill places burden of proof on agencies and allows judicial review of cost-benefit determinations.",
+    "verdict": "// VERDICT: Creates procedural safeguards against regulatory overreach but risks paralyzing agencies' ability to address emergent public safety threats where benefits are difficult to quantify in advance.",
+    "detail": "The Prove It Act mandates rigorous cost-benefit analysis before major regulations take effect, potentially preventing wasteful rules that impose compliance costs without commensurate public gain. <strong>However, the requirement that agencies \"prove\" benefits exceed costs before acting creates a high evidentiary bar that favors inaction, particularly problematic for environmental, health, and safety regulations where harm prevention benefits are inherently uncertain.</strong> The judicial review provision invites litigation that could delay critical protections for years. While fiscal discipline in rulemaking has merit, the asymmetric burden—requiring agencies to prove future benefits while industry bears no burden to prove safety—tilts heavily toward economic interests. The bill provides no expedited process for genuine emergencies and no consideration of non-monetizable benefits like ecosystem preservation or reduced mortality risk.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Administrative Procedure Act precedent",
+      "OMB Circular A-4 regulatory analysis guidance",
+      "Federal Register rulemaking statistics"
+    ]
+  },
+  {
+    "id": 202,
+    "sourceId": "cg:119-HR-7198",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7198?format=json",
+    "branch": "Congress",
+    "date": "May 26",
+    "dateISO": "2026-05-26",
+    "title": "HR 7198: Ensuring Access to General Surgery Act of 2026",
+    "score": 28,
+    "snapshot": "HR 7198 addresses Medicare payment rates for general surgery procedures to prevent access deterioration in underserved areas. The bill targets reimbursement inadequacies that have driven surgical practice closures, particularly in rural communities.",
+    "verdict": "// VERDICT: Evidence-based response to documented Medicare payment inadequacies threatening surgical access in vulnerable communities, with moderate fiscal implications and proper legislative process.",
+    "detail": "General surgery faces documented workforce shortages, with approximately 30% of rural counties lacking a general surgeon. <strong>Medicare reimbursement rates for essential surgical procedures have not kept pace with practice costs, creating access barriers particularly in underserved areas.</strong> The bill addresses a measurable problem with targeted payment adjustments rather than broad subsidies. Fiscal impact depends on payment methodology—likely modest compared to access crisis costs (emergency transfers, delayed care complications). The legislative process follows standard committee referral. Cost distribution favors underserved populations who face the greatest surgical access gaps, though Medicare funding ultimately derives from taxpayers and beneficiaries. The approach aligns with existing Medicare framework rather than creating new bureaucracy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7198, Jan 2026",
+      "ACS Rural Surgery Workforce Study",
+      "Medicare Payment Advisory Commission Reports",
+      "House Energy and Commerce Committee"
     ]
   },
   {
