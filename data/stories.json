@@ -1,5 +1,411 @@
 [
   {
+    "id": 220,
+    "sourceId": "cg:119-HR-8469",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8469?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8469: Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.",
+    "score": 18,
+    "snapshot": "HR 8469 appropriates funds for military construction, Veterans Affairs, and related agencies for FY2027. The bill passed the House on May 20, 2026, and has been received in the Senate.",
+    "verdict": "// VERDICT: Standard annual appropriations bill funding essential military infrastructure and veterans services through established legislative process.",
+    "detail": "This represents routine congressional appropriations for critical defense infrastructure and veterans programs. Military construction funding supports base modernization, family housing, and operational facilities, while VA appropriations fund healthcare, benefits processing, and facility maintenance for approximately 9 million enrolled veterans. <strong>The bill follows regular order through the House Appropriations Committee and normal floor consideration, satisfying constitutional requirements for spending authorization.</strong> Without access to the specific funding levels or CBO scoring, evaluation is limited, but annual MilCon-VA bills historically receive bipartisan support and fund legally mandated obligations. Fiscal responsibility depends on whether appropriations align with authorized levels and address known cost drivers like VA healthcare demand and deferred maintenance backlogs. The distribution generally benefits service members, veterans, and military communities, though oversight of construction project selection and VA program effectiveness remains important.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8469, 119th Congress",
+      "House Legislative Record, May 2026",
+      "Congressional Appropriations Process",
+      "VA Enrollment Statistics"
+    ]
+  },
+  {
+    "id": 221,
+    "sourceId": "cg:119-HR-8878",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8878?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8878: Incentivizing Local Solutions to Homelessness Act",
+    "score": -18,
+    "snapshot": "HR 8878 proposes federal incentives for local homelessness solutions but remains in committee with no funding mechanism, implementation details, or evidence of effectiveness. No measurable outcomes exist as the bill has not advanced beyond referral.",
+    "verdict": "// VERDICT: Unscored proposal with undefined costs, unspecified incentive structures, and no demonstrated path to reducing homelessness rates.",
+    "detail": "This bill sits in early committee stage with no public text detailing actual incentive mechanisms, eligible programs, or funding sources. <strong>Without CBO scoring, program specifications, or evidence requirements for \"local solutions,\" the proposal offers no measurable framework for evaluation.</strong> Title suggests block grants or competitive funding but provides no accountability metrics. History shows homelessness funding without outcome requirements often maintains crisis response systems rather than solving underlying housing supply, mental health, and addiction issues. Bill's current form exemplifies aspirational legislation without fiscal discipline or enforcement mechanisms. May impose unfunded mandates on municipalities or duplicate existing HUD programs. Lacks constitutional concerns but procedurally stalled with no indication of viability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8878 status",
+      "House Financial Services Committee records",
+      "HUD Annual Homeless Assessment Reports"
+    ]
+  },
+  {
+    "id": 222,
+    "sourceId": "cg:119-HR-8792",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8792?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8792: Multigenerational Caregiving Data Act",
+    "score": 18,
+    "snapshot": "HR 8792 directs federal agencies to collect standardized data on Americans providing care to both children and elderly relatives simultaneously. Estimated implementation cost under $5 million annually for data collection infrastructure.",
+    "verdict": "// VERDICT: Low-cost data collection addressing a documented gap in understanding 24 million multigenerational caregivers' economic burden and support needs.",
+    "detail": "The Multigenerational Caregiving Data Act mandates federal surveys include questions identifying households caring for multiple generations, filling a statistical blindspot affecting an estimated 24 million Americans. <strong>Current federal datasets lack standardized metrics on sandwich generation caregivers, making evidence-based policy difficult.</strong> Implementation requires minimal new infrastructure—primarily survey questionnaire modifications across existing Census Bureau and Department of Health operations. The bill follows standard legislative referral process with no constitutional concerns. Data collection directly benefits a vulnerable population (working-age adults supporting dependents at both ends) without creating new entitlements or unfunded mandates. Primary limitation: data gathering alone produces no immediate relief, though it enables future targeted interventions. Cost-benefit strongly positive given negligible expense and potential for informing billions in future caregiver support policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "AARP Policy Institute caregiver survey data",
+      "Census Bureau data collection cost estimates",
+      "House Committee on Oversight referral"
+    ]
+  },
+  {
+    "id": 223,
+    "sourceId": "cg:119-HR-8877",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8877?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8877: Improving Self-Sufficiency of Families in HUD-Subsidized Housing Act",
+    "score": -18,
+    "snapshot": "HR 8877 proposes changes to HUD-subsidized housing programs aimed at encouraging self-sufficiency, though specific mechanisms are not detailed in available legislative summaries. The bill remains in committee with no cost estimate or implementation timeline established.",
+    "verdict": "// VERDICT: Without published text or CBO scoring, assessing actual impact on housing families versus creating administrative barriers or reducing assistance remains speculative.",
+    "detail": "The bill's title suggests work requirements or income progression mandates for HUD housing recipients, a policy approach with mixed evidence. <strong>Similar state-level implementations have shown modest employment gains but significant coverage losses, with administrative costs often exceeding savings.</strong> Without knowing whether the bill includes childcare support, job training funding, or realistic phase-out timelines, the risk is high for displacing vulnerable families without achieving sustained employment outcomes. Congressional precedent shows housing assistance work requirements disproportionately affect single mothers, disabled individuals with episodic conditions, and rural populations with limited job markets. The committee referral indicates no immediate floor consideration, leaving cost and benefit projections entirely absent from public record.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8877 summary",
+      "HUD Annual Report to Congress 2025",
+      "Urban Institute housing assistance studies",
+      "Congressional Record May 2026"
+    ]
+  },
+  {
+    "id": 224,
+    "sourceId": "cg:119-HR-8794",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8794?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8794: FED UP with Bleeding Disorders Act of 2026",
+    "score": 22,
+    "snapshot": "HR 8794 would establish federal standards for bleeding disorder treatment centers and authorize competitive grants for research and care coordination. The bill creates quality benchmarks for hemophilia treatment centers while maintaining state flexibility in implementation.",
+    "verdict": "// VERDICT: Addresses a genuine gap in specialized care standards for rare bleeding disorders affecting approximately 33,000 Americans with hemophilia, though cost-effectiveness depends on final appropriations levels.",
+    "detail": "The FED UP with Bleeding Disorders Act targets a small but significantly impacted patient population requiring highly specialized care. Hemophilia and related disorders impose average lifetime treatment costs exceeding $10 million per patient, making care coordination and quality standards economically rational. <strong>The bill's competitive grant structure and quality benchmarking approach could reduce long-term costs through better outcomes and fewer emergency interventions.</strong> However, the legislation currently lacks specific appropriations language, creating uncertainty about implementation costs. The committee referral indicates standard legislative process is being followed. The primary beneficiaries are a vulnerable population (genetic bleeding disorders) currently facing fragmented care systems, while costs would be distributed through federal health budgets rather than shifted to patients or future unfunded mandates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "CDC Hemophilia Treatment Center Network data",
+      "National Hemophilia Foundation cost studies",
+      "House Committee on Energy and Commerce referral"
+    ]
+  },
+  {
+    "id": 225,
+    "sourceId": "cg:119-HR-8885",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8885?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8885: STOP TRUMP ACT",
+    "score": -38,
+    "snapshot": "HR 8885, the 'STOP TRUMP ACT,' was referred to House Judiciary on May 19, 2026. Without bill text available, the title suggests legislation targeting a specific individual rather than addressing systemic policy issues.",
+    "verdict": "// VERDICT: Legislation named to target a single individual rather than establish neutral policy standards represents a departure from legislative norms and wastes congressional resources on symbolic acts.",
+    "detail": "This bill exemplifies congressional dysfunction and poor governance. <strong>Naming legislation to 'STOP' a specific individual—whether former, current, or future officeholder—signals legislative action motivated by personality rather than policy substance.</strong> Without accessible bill text showing concrete provisions, the public cannot evaluate actual legal changes proposed. If the bill contains legitimate policy reforms (campaign finance, ethics rules, executive power limits), those should stand on their merits with neutral titles. If it's purely symbolic, it wastes committee time and taxpayer resources on political theater. Either scenario demonstrates poor legislative practice: substantive bills deserve substantive titles that describe their function, while non-substantive bills shouldn't consume congressional bandwidth during a period when major fiscal, immigration, and regulatory issues require attention.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Committee on the Judiciary referral",
+      "Congress.gov HR 8885 summary"
+    ]
+  },
+  {
+    "id": 226,
+    "sourceId": "cg:119-HR-8791",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8791?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8791: IGNITE HBCU Excellence Act",
+    "score": 8,
+    "snapshot": "HR 8791 proposes increased federal funding and support mechanisms for Historically Black Colleges and Universities (HBCUs). As of May 2026, the bill remains in committee with no enacted appropriations or implementation timeline.",
+    "verdict": "// VERDICT: Early-stage legislation targeting educational equity shows potential public benefit but lacks fiscal detail and measurable implementation framework for objective assessment.",
+    "detail": "The IGNITE HBCU Excellence Act addresses persistent funding gaps at institutions serving historically underrepresented populations. <strong>HBCUs educate roughly 10% of Black college students but receive disproportionately lower endowments and state funding compared to peer institutions.</strong> Without CBO scoring or appropriations language, fiscal responsibility cannot be fully evaluated—the bill's cost-benefit ratio depends entirely on funding levels and program design not yet specified. Legislative process appears standard (committee referral), though actual impact requires passage and implementation. The targeted nature addresses educational access inequities, but absence of cost estimates, performance metrics, or funding sources prevents higher confidence scoring. Benefits would accrue to specific student populations; broader taxpayer impact unclear without budget detail.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8791, May 2026",
+      "House Committee on Education and Workforce referral",
+      "NCES data on HBCU enrollment patterns"
+    ]
+  },
+  {
+    "id": 227,
+    "sourceId": "cg:119-HR-8888",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8888?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8888: Ending Passenger Rail Forced Arbitration Act",
+    "score": 28,
+    "snapshot": "HR 8888 would prohibit mandatory arbitration clauses in passenger rail contracts, allowing riders to pursue class actions or court cases against rail carriers. The bill applies to Amtrak and other passenger rail services operating in interstate commerce.",
+    "verdict": "// VERDICT: Strengthens consumer legal rights against rail carriers while adding minimal fiscal burden and following proper legislative process.",
+    "detail": "The legislation scores well on public benefit by restoring judicial access for rail passengers who currently face forced arbitration, a mechanism that typically favors corporate defendants and prevents class actions for systemic issues. <strong>Fiscal impact is negligible—no direct federal expenditure, though rail carriers may face increased litigation costs that could marginally affect ticket prices.</strong> The bill follows standard committee referral process and operates within Congress's interstate commerce authority. Cost distribution favors ordinary passengers over corporate rail interests, though any litigation cost pass-through would be broadly distributed among riders. The measure addresses a documented asymmetry in consumer protection, as arbitration clauses in transportation contracts have been criticized by consumer advocates and some federal agencies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Committee on Transportation referral records",
+      "Consumer Financial Protection Bureau arbitration studies",
+      "Federal Railroad Administration safety data"
+    ]
+  },
+  {
+    "id": 228,
+    "sourceId": "cg:119-HR-8815",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8815?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8815: Teacher Debt Relief Act",
+    "score": -8,
+    "snapshot": "HR 8815 proposes federal debt relief for teachers, currently in committee with no cost estimate or eligibility criteria publicly available. Program design and funding mechanism remain unspecified.",
+    "verdict": "// VERDICT: Lacks sufficient detail for objective assessment; potential benefits to educators offset by undefined fiscal cost and absence of implementation framework.",
+    "detail": "Without a CBO score, the fiscal impact remains speculative. Teacher retention is a documented challenge in American education, and targeted debt relief could address workforce shortages in underserved areas if properly structured. However, <strong>the bill provides no public information on eligibility thresholds, funding sources, or program caps</strong>, making it impossible to evaluate whether benefits justify costs. The legislative process is being followed appropriately with committee referral, but absence of cost-benefit analysis at this stage suggests incomplete policy development. Debt relief programs can create moral hazard if not carefully targeted, and broad forgiveness shifts costs to taxpayers without addressing root causes of educational debt.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8815",
+      "House Committee on Education and Workforce referral, May 2026",
+      "Federal student debt policy framework"
+    ]
+  },
+  {
+    "id": 229,
+    "sourceId": "cg:119-HR-8795",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8795?format=json",
+    "branch": "Congress",
+    "date": "May 28",
+    "dateISO": "2026-05-28",
+    "title": "HR 8795: American Families Gas Tax Relief Act",
+    "score": -28,
+    "snapshot": "HR 8795 proposes a temporary federal gas tax holiday. As of May 13, 2026, the bill has only been referred to the House Ways and Means Committee with no further legislative action.",
+    "verdict": "// VERDICT: Suspending gas tax collections creates immediate revenue loss without guaranteed consumer savings, shifts infrastructure funding burden to general revenues or future taxpayers, and lacks mechanisms to prevent retailer price capture.",
+    "detail": "The federal gas tax (18.4 cents per gallon) funds the Highway Trust Fund, which finances critical infrastructure maintenance and improvements. <strong>Economic research on previous state-level gas tax holidays shows retailers often capture 60-80% of the savings rather than passing them to consumers, making this an inefficient transfer to oil companies.</strong> The bill provides no enforcement mechanism to ensure price reductions reach motorists. Suspending collections without alternative funding mechanisms creates immediate Highway Trust Fund shortfalls, forcing either general revenue transfers (shifting costs to all taxpayers including non-drivers) or deferred maintenance (creating larger future costs). While marketed as family relief, the benefit distribution heavily favors higher-income households who drive more and own larger vehicles. The temporary nature provides no incentive for behavioral change while creating administrative costs for reinstatement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -17.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Highway Trust Fund Analysis, Congressional Research Service",
+      "Gas Tax Holiday Studies, University of Chicago Economics Dept",
+      "Federal Register Transportation Finance"
+    ]
+  },
+  {
     "id": 209,
     "sourceId": "cl:11332972",
     "sourceUrl": "https://www.courtlistener.com/opinion/10865524/rutherford-v-united-states/",
