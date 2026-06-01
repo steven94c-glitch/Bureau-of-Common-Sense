@@ -1,5 +1,451 @@
 [
   {
+    "id": 240,
+    "sourceId": "cl:11335438",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10867983/whitton-v-dixon/",
+    "branch": "Courts",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "Opinion 11335438",
+    "score": -25,
+    "snapshot": "Supreme Court denied habeas relief for a death row inmate after Florida prosecutors knowingly allowed a jailhouse informant to give false testimony about his criminal history. The 11th Circuit relied partly on post-trial DNA evidence not presented to the original jury when assessing whether the prosecutorial misconduct was harmless.",
+    "verdict": "// VERDICT: Court upholds death sentence despite confirmed prosecutorial misconduct, setting troubling precedent by retroactively importing evidence unavailable to the jury when evaluating constitutional violations.",
+    "detail": "The Court acknowledges the State violated Giglio by knowingly presenting false testimony from informant Jake Ozio about his clean criminal record. <strong>However, rather than grant relief for this constitutional violation, the 11th Circuit considered DNA evidence discovered a decade after trial—evidence the jury never saw—when determining whether the misconduct was harmless.</strong> This approach fundamentally undermines the harmless error analysis, which should assess whether a constitutional violation affected the actual jury's verdict based on what that jury heard. By retroactively strengthening the State's case with post-trial evidence, the decision effectively allows prosecutors to benefit from their own misconduct. The mixing of AEDPA deference standards with consideration of extra-record evidence creates dangerous precedent in capital cases where prosecutorial integrity should be paramount.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Whitton v. Dixon, 608 U.S. ___ (2026)",
+      "Giglio v. United States, 405 U.S. 150 (1972)",
+      "Brecht v. Abrahamson, 507 U.S. 619 (1993)",
+      "28 U.S.C. § 2254(d)(2)"
+    ]
+  },
+  {
+    "id": 230,
+    "sourceId": "cg:119-S-4594",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4594?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4594: Subpoena Abuse Prevention Act",
+    "score": -28,
+    "snapshot": "S 4594 would restrict congressional subpoena authority, requiring judicial pre-approval for certain investigative requests. The bill remains in committee with no cost estimate available.",
+    "verdict": "// VERDICT: Undermines constitutional separation of powers by subjecting legislative oversight to judicial gatekeeping, weakening Congress's investigative function without demonstrated abuse justifying such restriction.",
+    "detail": "The Subpoena Abuse Prevention Act fundamentally alters the constitutional balance by inserting judicial review into Congress's Article I investigative powers. <strong>While protecting individuals from potential overreach sounds reasonable, the Constitution grants Congress broad subpoena authority as essential to its legislative and oversight functions—authority exercised since 1792 without requiring court permission.</strong> No evidence of systematic abuse is presented to justify this structural change. The bill creates procedural obstacles that could paralyze investigations of executive wrongdoing, corporate fraud, or agency failures. Cost to government operations and delayed accountability likely outweigh claimed privacy benefits. The proposal solves a problem not demonstrated to exist while creating genuine separation-of-powers concerns that legal scholars across the spectrum would likely challenge.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4594, 119th Congress",
+      "Congressional Record, May 2026",
+      "McGrain v. Daugherty, 273 U.S. 135 (1927)",
+      "Senate Judiciary Committee referral"
+    ]
+  },
+  {
+    "id": 231,
+    "sourceId": "cg:119-S-4605",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4605?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4605: Geothermal Cost-Recovery Authority Act of 2026",
+    "score": -15,
+    "snapshot": "S 4605 would authorize geothermal energy developers to recover exploration costs through federal loan guarantees and tax incentives. The bill has been referred to committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: Supports renewable energy expansion but lacks fiscal safeguards and cost-benefit documentation at this stage.",
+    "detail": "The Geothermal Cost-Recovery Authority Act aims to stimulate domestic geothermal energy production through federal financial support mechanisms. <strong>Without a CBO score or detailed implementation framework, the bill presents significant fiscal uncertainty regarding loan guarantee exposure and tax revenue impacts.</strong> Geothermal energy offers baseload renewable capacity, but the absence of performance requirements, cost caps, or beneficiary criteria raises concerns about subsidy efficiency and potential corporate welfare. The bill follows regular legislative process through committee referral, though the cost-recovery structure could shift financial risk to taxpayers if projects fail. Early-stage legislation often lacks specificity, but energy subsidies require rigorous fiscal analysis to prevent unfunded liabilities and ensure public benefit justifies expenditure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4605, 119th Congress",
+      "Senate Legislative Record, May 2026",
+      "Committee on Energy and Natural Resources referral"
+    ]
+  },
+  {
+    "id": 232,
+    "sourceId": "cg:119-S-4604",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4604?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4604: Protecting America’s Small Oil and Gas Producers and Rural Jobs Act",
+    "score": -18,
+    "snapshot": "S 4604 proposes tax relief for small oil and gas producers while the bill remains in committee without CBO scoring or floor consideration. No measurable implementation has occurred beyond introduction.",
+    "verdict": "// VERDICT: Legislation stalled in committee phase lacks sufficient detail on revenue impact, job creation claims, or environmental compliance provisions to assess net public benefit.",
+    "detail": "The bill targets tax benefits for small domestic energy producers, framed as rural job protection. Without committee markup or CBO analysis, fiscal impact remains speculative—similar producer tax provisions have historically cost $400M-$2B annually while employment effects prove difficult to isolate from market price fluctuations. <strong>The legislation advances fossil fuel subsidies without corresponding climate mitigation or renewable transition provisions, shifting environmental costs to future taxpayers.</strong> Regular legislative process is being followed (committee referral appropriate), but the narrow beneficiary class and absence of offsetting revenue provisions raise fiscal responsibility concerns. If enacted without amendments, this represents wealth transfer to extraction industries during a period requiring energy diversification.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Senate, May 2026",
+      "Senate Finance Committee referral",
+      "EIA Small Producer Tax Provision Analysis 2023",
+      "Joint Committee on Taxation revenue estimates (historical comparables)"
+    ]
+  },
+  {
+    "id": 233,
+    "sourceId": "cg:119-S-4634",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4634?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4634: CONNECT Act",
+    "score": -18,
+    "snapshot": "S 4634 (CONNECT Act) proposes expanding broadband infrastructure funding but lacks specified funding mechanism or cost estimate at the referral stage. The bill remains in Senate Finance Committee with no floor action or independent fiscal analysis available.",
+    "verdict": "// VERDICT: Expansion of broadband access shows measurable intent but absence of fiscal scoring, implementation timeline, and cost-benefit analysis at this early legislative stage prevents assessment of net public benefit.",
+    "detail": "The CONNECT Act aims to address the documented digital divide affecting rural and underserved communities, a legitimate infrastructure gap. However, at the committee referral stage, critical details remain unspecified: total authorization amounts, funding sources, implementation mechanisms, and administrative costs. <strong>Without CBO scoring or GAO review, the fiscal responsibility of this proposal cannot be determined, and history shows broadband initiatives often exceed projections while delivering inconsistent coverage.</strong> The legislative process is being followed appropriately (referred to Finance Committee for revenue considerations), but premature scoring risks rewarding intentions over outcomes. Cost distribution concerns arise if the bill relies on general revenue rather than user fees or targeted taxes, potentially shifting infrastructure costs to taxpayers who may never benefit from the expanded service.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -14,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Senate Finance Committee Referral",
+      "Federal Communications Commission Rural Access Reports"
+    ]
+  },
+  {
+    "id": 234,
+    "sourceId": "cg:119-S-4600",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4600?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4600: South China Sea Strategy Act of 2026",
+    "score": -8,
+    "snapshot": "S 4600 directs the State Department to develop a comprehensive South China Sea strategy addressing territorial disputes, freedom of navigation, and regional security partnerships. The bill has been referred to committee with no fiscal analysis or implementation timeline yet available.",
+    "verdict": "// VERDICT: Creates strategic planning requirements without demonstrated necessity beyond existing Indo-Pacific frameworks, adding bureaucratic layers while actual enforcement mechanisms and budgetary impacts remain unspecified.",
+    "detail": "The South China Sea Strategy Act mandates another strategic report in a region already covered by multiple existing frameworks including the Indo-Pacific Strategy and annual DoD reports. <strong>Without clear evidence that current coordination mechanisms are failing, the bill risks duplicating efforts across State, Defense, and Commerce departments.</strong> The legislation provides no appropriations estimate, implementation timeline, or metrics for success. While regional security planning has merit, Congress has not demonstrated why existing authorities are inadequate. The bill follows proper legislative procedure but lacks cost-benefit analysis. Freedom of navigation operations already occur under current law, and the proposal offers no concrete tools beyond study requirements. Given China's maritime expansion, strategic clarity matters—but so does avoiding performative legislation that generates reports rather than capabilities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4600, 119th Congress",
+      "Congressional Record, May 2026",
+      "Indo-Pacific Strategy (White House, 2022)",
+      "Senate Foreign Relations Committee referral"
+    ]
+  },
+  {
+    "id": 235,
+    "sourceId": "cg:119-S-4588",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4588?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4588: Taxing Buybacks from Big Oil Windfalls Act",
+    "score": -18,
+    "snapshot": "S 4588 proposes a 4% excise tax on stock buybacks by petroleum companies with annual revenues exceeding $500 million. The bill was introduced in the Senate and referred to the Finance Committee on May 20, 2026.",
+    "verdict": "// VERDICT: The proposal creates a targeted excise tax on a single industry's capital allocation decisions without demonstrated public benefit or clear mechanism for revenue deployment.",
+    "detail": "This bill imposes a sector-specific penalty on stock buybacks—a legal method companies use to return capital to shareholders. While proponents may argue oil companies earn excessive profits warranting special taxation, the approach raises concerns about arbitrary industry targeting and government interference in corporate capital structure decisions. <strong>The tax creates market distortions by penalizing one sector differently than others and one form of shareholder return (buybacks) versus another (dividends), without evidence this improves outcomes for Americans.</strong> No revenue allocation mechanism is specified in available text, making fiscal impact unclear. The constitutional authority for industry-specific excise taxes exists, but selective application undermines tax neutrality principles. Without CBO scoring or specified use of revenues for public benefit, this represents punitive taxation rather than evidence-based fiscal policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4588, 119th Congress",
+      "Senate Legislative Calendar, May 2026",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 236,
+    "sourceId": "cg:119-S-4598",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4598?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4598: Hate Crimes Commission Act of 2026",
+    "score": -18,
+    "snapshot": "S. 4598 proposes establishing a federal commission to study hate crimes and recommend policy changes. The bill has been referred to the Senate Judiciary Committee with no cost estimate or implementation timeline yet available.",
+    "verdict": "// VERDICT: Creates another study commission on a well-documented problem without demonstration that existing federal hate crime data collection and enforcement mechanisms are inadequate.",
+    "detail": "The Hate Crimes Commission Act would establish yet another federal study body in an area where the FBI already maintains the National Incident-Based Reporting System and DOJ regularly publishes hate crime statistics. <strong>While hate crimes remain a serious concern, no evidence suggests that lack of commission studies—rather than enforcement gaps or reporting inconsistencies—is the primary obstacle to prevention.</strong> The bill provides no cost estimate, implementation structure, or explanation of how this commission would differ from existing mechanisms like the DOJ's Community Relations Service. Historical precedent shows federal commissions often produce reports with limited implementation while consuming millions in taxpayer funds. The legislative process is being followed correctly, but the bill represents classic government expansion without clear justification for why current resources are insufficient.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4598, 119th Congress",
+      "FBI Hate Crime Statistics Program",
+      "Congressional Record, May 2026",
+      "DOJ Community Relations Service reports"
+    ]
+  },
+  {
+    "id": 237,
+    "sourceId": "cg:119-S-4599",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4599?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4599: Scratch Cooked Meals for Students Act of 2026",
+    "score": 18,
+    "snapshot": "S 4599 proposes federal grants to schools for kitchen infrastructure enabling scratch-cooked meals, aiming to improve nutrition quality and reduce processed food reliance. Currently in committee with no CBO score or cost estimate available.",
+    "verdict": "// VERDICT: Addresses documented nutrition gaps in school meals but lacks implementation cost analysis and accountability mechanisms for measuring health outcomes.",
+    "detail": "The bill targets a genuine problem—approximately 30 million students rely on school meals daily, with many districts serving heavily processed foods due to infrastructure constraints. <strong>Grant funding for kitchen equipment and training could improve meal quality, but without cost estimates or performance metrics, fiscal responsibility remains unverifiable.</strong> The committee referral follows standard legislative process. Primary concerns include potential unfunded mandates on districts, maintenance costs beyond initial grants, and absence of mechanisms to measure actual nutritional improvements versus expenditure. Benefits would concentrate in under-resourced districts currently unable to afford scratch cooking, though wealthier districts may capture grants disproportionately without proper targeting. The proposal aligns with bipartisan child nutrition concerns but requires substantial detail on implementation, total cost, and outcome measurement before full assessment is possible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4599, 119th Congress",
+      "Senate Committee on Agriculture referral, May 2026",
+      "USDA School Nutrition Programs data",
+      "Congressional Record, May 2026"
+    ]
+  },
+  {
+    "id": 238,
+    "sourceId": "cg:119-S-4597",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4597?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4597: Early Childhood Workforce Advancement Act of 2026",
+    "score": 22,
+    "snapshot": "S 4597 proposes federal funding to increase early childhood educator wages and credentialing, addressing chronic workforce shortages in childcare. Bill remains in committee with no CBO score available.",
+    "verdict": "// VERDICT: Targets documented workforce crisis but lacks cost analysis and implementation details needed to assess fiscal sustainability and actual wage impact.",
+    "detail": "The early childhood education sector experiences 30-40% annual turnover due to median wages near poverty level ($13-14/hour nationally). <strong>Investing in educator compensation and training addresses a market failure where low wages compromise childcare quality and availability, affecting workforce participation of parents.</strong> However, without committee markup or CBO scoring, the bill's appropriation level, funding mechanism, state match requirements, and sunset provisions remain unknown. Previous similar proposals ranged from $500M to $15B annually. The approach could yield public benefit through improved child development outcomes and increased labor force participation, but scoring requires actual cost data and verification that funds reach frontline workers rather than administrative overhead. Constitutional authority appears straightforward under Commerce Clause precedent for education funding.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4597 (119th Congress)",
+      "Bureau of Labor Statistics, Childcare Workers wage data",
+      "Senate HELP Committee referral, May 2026"
+    ]
+  },
+  {
+    "id": 239,
+    "sourceId": "cg:119-S-4581",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4581?format=json",
+    "branch": "Congress",
+    "date": "May 29",
+    "dateISO": "2026-05-29",
+    "title": "S 4581: CCP Sanctions Shot Clock Act",
+    "score": -8,
+    "snapshot": "S 4581 mandates 30-day deadlines for imposing sanctions on Chinese Communist Party officials and entities meeting certain criteria. The bill has been referred to committee with no cost estimate or implementation analysis available.",
+    "verdict": "// VERDICT: Creates rigid timelines for complex foreign policy decisions without demonstrated benefit over existing sanction authorities, risking rushed determinations and diplomatic complications.",
+    "detail": "The CCP Sanctions Shot Clock Act imposes arbitrary 30-day deadlines on sanction decisions regarding Chinese entities, constraining executive branch flexibility in foreign policy without evidence that current timelines harm national interests. <strong>Effective sanctions require thorough intelligence vetting, coordination with allies, and strategic timing—processes that rigid statutory deadlines may undermine.</strong> The bill appears to prioritize symbolic action over strategic effectiveness, potentially forcing premature designations based on incomplete information or poor timing. While congressional oversight of China policy is legitimate, micromanaging sanction timing through statute represents overreach into executive foreign policy authority. No fiscal analysis exists, though implementation would require additional State and Treasury Department resources for accelerated reviews. The measure conflates speed with effectiveness in an area where deliberate, coordinated action typically yields better results.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4581, 119th Congress",
+      "Congressional Record, May 2026",
+      "Treasury OFAC Sanctions Procedures"
+    ]
+  },
+  {
     "id": 220,
     "sourceId": "cg:119-HR-8469",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/8469?format=json",
