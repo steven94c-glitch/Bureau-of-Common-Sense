@@ -41,6 +41,412 @@
     ]
   },
   {
+    "id": 241,
+    "sourceId": "cg:119-S-4602",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4602?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "S 4602: Abolish Super PACs Act",
+    "score": 28,
+    "snapshot": "S 4602 would eliminate super PACs by prohibiting independent expenditure committees from accepting contributions over $5,000 and requiring real-time disclosure of donors. The bill aims to reduce the influence of unlimited money in elections following the Citizens United decision.",
+    "verdict": "// VERDICT: Demonstrably strengthens democratic accountability and transparency in campaign finance while imposing minimal fiscal cost, though implementation challenges and First Amendment litigation risks remain.",
+    "detail": "The legislation directly addresses the post-2010 explosion of dark money in politics by capping contributions to independent expenditure committees and mandating immediate donor disclosure. <strong>This creates measurable benefits for electoral integrity by making influence traceable and reducing billionaire dominance of political messaging.</strong> Fiscal impact is negligible—FEC enforcement costs would be modest compared to the estimated $2+ billion spent through super PACs in recent cycles. The bill operates within constitutional legislative authority, though it will face certain First Amendment challenges given Citizens United precedent. Cost distribution strongly favors ordinary voters and small donors whose voices are currently drowned out, while imposing transparency costs on wealthy political actors. The real-world impact depends on successful defense against legal challenges and robust FEC enforcement, but the structural incentives clearly shift toward broader participation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4602, 119th Congress",
+      "Congressional Record, May 2026",
+      "FEC independent expenditure data",
+      "Citizens United v. FEC, 558 U.S. 310 (2010)"
+    ]
+  },
+  {
+    "id": 242,
+    "sourceId": "cg:119-S-4591",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4591?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "S 4591: NO FAKES Act of 2026",
+    "score": 18,
+    "snapshot": "The NO FAKES Act creates federal liability for unauthorized AI-generated replicas of individuals' voices and likenesses, establishing a 70-year post-mortem property right. The bill provides legal recourse for victims of deepfakes while balancing First Amendment protections for news, parody, and criticism.",
+    "verdict": "// VERDICT: Creates enforceable protections against AI impersonation with significant safeguards for free speech, though the 70-year duration may exceed optimal balance between individual rights and public domain interests.",
+    "detail": "This legislation addresses the growing threat of AI-generated deepfakes by granting individuals property rights over their digital persona and creating federal civil remedies for unauthorized replicas. <strong>The bill includes explicit exemptions for news reporting, commentary, criticism, and parody, attempting to balance personal protection with First Amendment concerns.</strong> The 70-year post-mortem duration mirrors copyright terms but raises questions about whether personality rights should persist this long after death, potentially restricting creative works and historical commentary. The Act provides measurable harm reduction for victims of non-consensual intimate imagery and commercial exploitation, with enforcement mechanisms that don't require new federal spending. The bill follows standard legislative process and addresses a genuine technological threat, though the lengthy protection period may impose future costs on artists, historians, and the public domain that are difficult to quantify at this stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4591, 119th Congress",
+      "Congressional Record, May 2026",
+      "Senate Judiciary Committee referral"
+    ]
+  },
+  {
+    "id": 243,
+    "sourceId": "cg:119-S-4601",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4601?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "S 4601: Chinese CBDC Prohibition Act of 2026",
+    "score": -8,
+    "snapshot": "S 4601 would prohibit U.S. persons and financial institutions from transacting in China's central bank digital currency (e-CBDC). The bill has been referred to committee with no further action as of May 2026.",
+    "verdict": "// VERDICT: Preemptive restriction on hypothetical transactions with limited documented harm, creating enforcement burdens without demonstrated public benefit.",
+    "detail": "The Chinese CBDC Prohibition Act targets a digital currency not yet widely used in international commerce or by U.S. consumers. While concerns about surveillance and financial coercion by China have merit, the bill lacks evidence of current measurable harm to Americans from e-CNY transactions. <strong>Proactive prohibition of a foreign payment system sets precedent for restricting financial technology based on geopolitical concerns rather than documented damage.</strong> Enforcement would require new regulatory infrastructure and compliance costs for financial institutions monitoring exotic payment rails. The rule-of-law score reflects proper legislative process but concerns about First Amendment implications for commercial speech and travel. No fiscal analysis available, but implementation costs likely modest given minimal current e-CNY use in U.S. markets.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4601, 119th Congress",
+      "Congressional Record, May 2026",
+      "Senate Banking Committee referral"
+    ]
+  },
+  {
+    "id": 244,
+    "sourceId": "cg:119-S-4538",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4538?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "S 4538: Washington’s Trail—1753 National Historic Trail Feasibility Study Act of 2026",
+    "score": -8,
+    "snapshot": "S 4538 directs the National Park Service to conduct a feasibility study on designating Washington's 1753 trail as a National Historic Trail. The bill remains in committee with no cost estimate or implementation timeline yet published.",
+    "verdict": "// VERDICT: A low-priority study mandate with uncertain costs and minimal near-term public benefit while federal discretionary spending faces constraints.",
+    "detail": "The bill authorizes another federal feasibility study without documented demand or cost-benefit analysis. While preserving historic routes has educational merit, <strong>the measure adds to administrative overhead during a period when NPS already manages 30 National Historic Trails and faces a $12 billion maintenance backlog across existing sites</strong>. No appropriation language appears in the text, suggesting unfunded mandate risk. The procedural path is proper (committee referral), but the bill advances incremental bureaucratic expansion over addressing critical infrastructure needs or measurable public welfare improvements. Historic preservation serves genuine cultural purposes, yet this study duplicates NPS authority to evaluate trails internally without legislative directive.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4538, 119th Congress",
+      "National Park Service Deferred Maintenance Reports",
+      "Congressional Record, May 2026",
+      "NPS National Trails System Overview"
+    ]
+  },
+  {
+    "id": 245,
+    "sourceId": "cg:119-S-4596",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4596?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "S 4596: TRUST Act",
+    "score": -28,
+    "snapshot": "S 4596 (TRUST Act) proposes creating a fiscal commission to recommend solutions for Social Security and Medicare solvency, with fast-track congressional consideration. The bill has been referred to committee with no floor action as of May 2026.",
+    "verdict": "// VERDICT: Creates an unelected commission to recommend cuts to earned-benefit programs while bypassing normal amendment processes, shifting fiscal burden resolution away from direct democratic accountability.",
+    "detail": "The TRUST Act establishes rescue committees for major trust funds facing insolvency, with recommendations receiving expedited consideration and limited amendments. <strong>While addressing genuine solvency concerns for Social Security and Medicare is necessary, delegating this responsibility to appointed commissions rather than elected representatives weakens democratic accountability for decisions affecting 70+ million beneficiaries.</strong> The fast-track process restricts debate on recommendations that could fundamentally alter retirement security. Fiscal responsibility scores negatively because the mechanism avoids hard choices today while creating procedural shortcuts. Rule of law concerns arise from limiting congressional amendment authority. Cost distribution is heavily penalized as commission structures historically favor benefit reductions over revenue increases, disproportionately affecting current retirees and near-retirees who cannot adjust plans.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4596, 119th Congress",
+      "Congressional Record, May 2026",
+      "Social Security Trustees Report 2025",
+      "Congressional Research Service: Fiscal Commissions"
+    ]
+  },
+  {
+    "id": 246,
+    "sourceId": "cg:119-S-4603",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4603?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "S 4603: Golden Mussel Eradication and Control Act of 2026",
+    "score": 28,
+    "snapshot": "S 4603 authorizes federal funding for golden mussel detection, containment, and eradication programs across U.S. waterways. Golden mussels are an invasive species documented to damage infrastructure and ecosystems in South America, recently detected in Gulf Coast waters.",
+    "verdict": "// VERDICT: Proactive investment in invasive species control that prevents exponentially higher infrastructure and ecological costs if populations establish.",
+    "detail": "Golden mussels represent a significant economic threat—South American experience shows they clog water infrastructure, damage hydroelectric facilities, and outcompete native species. <strong>Early detection and rapid response is dramatically more cost-effective than managing established populations, where annual control costs can reach hundreds of millions.</strong> The bill follows established invasive species frameworks under existing statutes (Lacey Act, Nonindigenous Aquatic Nuisance Prevention Act). Funding appears modest relative to potential infrastructure damage to power plants, water treatment facilities, and commercial shipping. However, the bill lacks specific appropriation amounts in the summary provided, creating fiscal uncertainty. Cost distribution is reasonable—prevents future burdens on utilities, municipalities, and taxpayers from infrastructure damage. Process follows normal legislative procedure with appropriate committee assignment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Bill S 4603, 119th Congress",
+      "Nonindigenous Aquatic Nuisance Prevention and Control Act",
+      "Congressional Record, May 2026",
+      "USGS Invasive Species Program data"
+    ]
+  },
+  {
+    "id": 247,
+    "sourceId": "cg:119-HR-8886",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8886?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "HR 8886: SMART Community Policing Act",
+    "score": -8,
+    "snapshot": "HR 8886 proposes federal grants for community policing programs emphasizing de-escalation training and community engagement. As of May 2026, the bill remains in committee with no CBO score, implementation timeline, or funding mechanism specified.",
+    "verdict": "// VERDICT: Without cost estimates, outcome metrics, or evidence requirements, the proposal risks creating another unfunded grant program with unmeasured effectiveness.",
+    "detail": "The SMART Community Policing Act earns modest points for addressing legitimate public safety concerns through training and engagement rather than punitive measures. However, <strong>the absence of fiscal analysis, performance benchmarks, or accountability mechanisms undermines its viability</strong>. Federal grant programs for local policing have historically shown mixed results, with effectiveness heavily dependent on implementation standards and sustained funding—neither of which are evident in available documentation. The bill follows proper legislative process by committee referral, but provides no framework for measuring whether taxpayer dollars produce safer communities or merely expand bureaucracy. Past community policing initiatives suggest potential benefits, but without baseline metrics, cost controls, or sunset provisions, this represents aspirational spending without demonstrated return on investment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8886 status (May 2026)",
+      "Congressional Record, 119th Congress",
+      "Federal grant program outcome studies"
+    ]
+  },
+  {
+    "id": 248,
+    "sourceId": "cg:119-S-4593",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4593?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "S 4593: Detention Authority Clarification Act",
+    "score": -38,
+    "snapshot": "S 4593 would expand executive detention authority without judicial review for individuals deemed national security threats. The bill has been referred to Senate Judiciary Committee with no hearings scheduled as of May 2026.",
+    "verdict": "// VERDICT: Proposes significant expansion of executive detention powers while bypassing established due process protections, creating constitutional concerns without demonstrable security benefit.",
+    "detail": "This legislation raises fundamental rule-of-law concerns by potentially authorizing indefinite detention with reduced judicial oversight. <strong>The bill fails to demonstrate measurable security improvements over existing authorities while creating substantial constitutional risks.</strong> No cost-benefit analysis or threat assessment accompanies the proposal. Existing detention frameworks already provide mechanisms for national security cases through established legal channels including material support statutes and FISA courts. The proposal shifts costs onto detained individuals and their families while concentrating unchecked power in the executive branch. Without specific threat data, congressional findings, or sunset provisions, the bill appears to solve a problem not documented in the legislative record. Historical precedents of expanded detention authority show mixed security results with documented civil liberties harms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4593, 119th Congress (2026)",
+      "Senate Judiciary Committee records, May 2026",
+      "Congressional Record, Vol. 172",
+      "Constitutional Law Review precedents"
+    ]
+  },
+  {
+    "id": 249,
+    "sourceId": "cg:119-HR-2103",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2103?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "HR 2103: Protect Postal Performance Act",
+    "score": -18,
+    "snapshot": "HR 2103 would impose stricter delivery performance standards on USPS while providing no additional funding mechanism. The bill has been referred to committee but shows no signs of advancement as of May 2026.",
+    "verdict": "// VERDICT: Unfunded mandate that sets performance targets without addressing USPS's $160+ billion in liabilities or providing resources to meet new standards.",
+    "detail": "The Protect Postal Performance Act exemplifies policy symbolism over substance. While Americans deserve reliable mail service, <strong>mandating faster delivery times without funding mechanisms or operational reforms simply transfers costs to an already-struggling agency.</strong> USPS faces massive unfunded pension obligations and declining first-class mail revenue. The bill penalizes performance failures but offers no capital for infrastructure modernization, vehicle replacement, or workforce expansion needed to meet stricter standards. This approach either forces service cuts elsewhere, accelerates postal deficits that taxpayers ultimately cover, or results in unmet mandates. The constitutional authority for postal regulation is sound, but effective reform requires addressing the underlying financial structure, not just imposing new requirements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Mar 2025",
+      "USPS FY2024 Financial Report",
+      "GAO Postal Service Financial Viability Reports",
+      "House Committee on Oversight referral"
+    ]
+  },
+  {
+    "id": 250,
+    "sourceId": "cg:119-HR-8968",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8968?format=json",
+    "branch": "Congress",
+    "date": "May 30",
+    "dateISO": "2026-05-30",
+    "title": "HR 8968: To prohibit the President from filing a civil action against the United States.",
+    "score": -32,
+    "snapshot": "HR 8968 would bar the President from suing the United States in civil court. The bill was referred to House Judiciary on May 21, 2026, with no further action or cost estimates available.",
+    "verdict": "// VERDICT: This bill addresses a narrow procedural question but raises separation-of-powers concerns by potentially limiting executive branch legal remedies without clear public benefit or constitutional analysis.",
+    "detail": "The bill targets an exceedingly rare scenario—a sitting President suing the federal government—without documented evidence this has created actual problems requiring legislative intervention. <strong>While preventing potential conflicts of interest sounds reasonable, the measure could unconstitutionally restrict the executive branch's access to judicial review in legitimate disputes over statutory authority or appropriations.</strong> No fiscal impact is apparent, but the absence of committee hearings, constitutional vetting, or specific triggering incidents suggests this is reactive legislation without established need. The rule-of-law implications cut both ways: preventing self-dealing versus blocking legitimate legal recourse. Cost distribution is negligible as this affects only the executive office, but the broader precedent of Congress preemptively blocking inter-branch litigation is constitutionally questionable.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -20,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Judiciary Committee referral",
+      "Constitutional separation of powers doctrine"
+    ]
+  },
+  {
     "id": 230,
     "sourceId": "cg:119-S-4594",
     "sourceUrl": "https://www.congress.gov/bill/119/s/4594?format=json",
