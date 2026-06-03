@@ -1,5 +1,452 @@
 [
   {
+    "id": 261,
+    "sourceId": "cl:11336479",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10869022/allen-v-milligan/",
+    "branch": "Courts",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "Opinion 11336479",
+    "score": -38,
+    "snapshot": "Supreme Court reversed lower court rulings requiring Alabama to create a second Black-opportunity congressional district, establishing stricter standards for Voting Rights Act claims including requirements that race-neutral maps perform equally on all state criteria and partisan factors explain racial bloc voting.",
+    "verdict": "// VERDICT: The ruling weakens enforcement of the Voting Rights Act by imposing standards that effectively immunize state maps from vote-dilution challenges, likely resulting in reduced electoral representation for Black voters in Alabama.",
+    "detail": "This per curiam decision dramatically raises the bar for proving voting rights violations by requiring plaintiffs to match state maps on all legitimate criteria (including political goals) while controlling for partisanship—standards that historical evidence suggests are often impossible to satisfy simultaneously. <strong>The Court's presumption of legislative good faith conflicts with Alabama's documented history of racial gerrymandering and repeated defiance of court orders.</strong> By treating the state's refusal to create a second majority-Black district as legitimate disagreement rather than discriminatory intent, the Court enables dilution of minority voting power through facially neutral criteria. The decision will likely reduce Black representation in Congress and embolden other states to adopt similar maps. While framed as constitutional neutrality, the practical effect is to nullify Section 2's protections precisely when census data shows minority populations large enough to form additional districts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 11336479 (June 2026)",
+      "Singleton v. Allen, 782 F. Supp. 3d 1092 (2025)",
+      "Voting Rights Act Section 2, 52 U.S.C. § 10301",
+      "Alexander v. South Carolina NAACP, 602 U.S. 1 (2024)"
+    ]
+  },
+  {
+    "id": 251,
+    "sourceId": "cg:119-HRES-518",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/518?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HRES 518: Providing for consideration of the bill (H.R. 2913) to authorize support for Ukraine, and for other purposes.",
+    "score": -18,
+    "snapshot": "Procedural resolution to bring Ukraine aid bill H.R. 2913 to House floor via discharge petition after Rules Committee inaction. Reflects congressional gridlock over foreign assistance authorization estimated in billions.",
+    "verdict": "// VERDICT: Procedural maneuver circumventing committee process scores poorly on rule of law despite potentially addressing legitimate foreign policy need.",
+    "detail": "This resolution attempts to bypass the House Rules Committee through a discharge petition—a rarely successful procedural tool requiring 218 signatures to force floor consideration. <strong>While the underlying Ukraine support may have strategic merit, the discharge process itself reflects institutional dysfunction and undermines normal legislative order.</strong> Without details on H.R. 2913's specific appropriations, fiscal scoring remains incomplete, though recent Ukraine packages have ranged $40-60 billion with limited accountability mechanisms. The procedural irregularity scores negatively on rule of law grounds regardless of the underlying bill's substance. Public benefit depends entirely on H.R. 2913's contents, which are not detailed here. Cost distribution concerns persist given unfunded foreign commitments amid domestic fiscal pressures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Discharge Petition Rules, Rule XV",
+      "Prior Ukraine supplemental appropriations (2022-2025)"
+    ]
+  },
+  {
+    "id": 252,
+    "sourceId": "cg:119-S-4428",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4428?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "S 4428: No Aid for Ghost Students Act of 2026",
+    "score": 38,
+    "snapshot": "S 4428 would require colleges to verify student enrollment before disbursing federal aid, targeting an estimated $1.2-2.8 billion in annual payments to students who never attend classes. The bill mandates attendance verification within the first two weeks of each term.",
+    "verdict": "// VERDICT: Closes a documented loophole where federal aid flows to enrolled students who never attend, improving fiscal responsibility without restricting access for legitimate students.",
+    "detail": "The bill addresses a well-documented problem in federal student aid administration: institutions receive Title IV funds for students who enroll but never attend a single class, creating both waste and potential fraud vectors. <strong>By requiring attendance verification within 14 days of term start, the measure targets ghost enrollments while preserving aid access for students who actually attend.</strong> The fiscal impact is significant—GAO and ED Inspector General reports have identified billions in questionable disbursements. Implementation costs appear minimal as most institutions already track attendance for academic purposes. The bill follows normal legislative process and imposes no new costs on students themselves. Minor concerns exist around compliance burden for smaller institutions and defining \"attendance\" for fully online programs, but these are addressable through rulemaking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Bill S 4428, 119th Congress",
+      "GAO Report on Federal Student Aid Improper Payments",
+      "ED Office of Inspector General Audit Reports",
+      "Congressional Record, Apr 2026"
+    ]
+  },
+  {
+    "id": 253,
+    "sourceId": "cg:119-HR-2242",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2242?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 2242: Eliminating Fraud and Improper Payments in TANF Act",
+    "score": 18,
+    "snapshot": "HR 2242 mandates biometric verification and automated data matching for TANF (Temporary Assistance for Needy Families) eligibility to reduce fraud and improper payments. The bill requires states to implement enhanced verification systems within 18 months or face reduced federal matching funds.",
+    "verdict": "// VERDICT: Measurable fraud reduction potential offset by implementation costs and access barriers for legitimate beneficiaries.",
+    "detail": "The bill targets documented improper payment rates in TANF (estimated 5-10% by federal audits) through technology-driven verification. <strong>While fraud prevention saves taxpayer dollars and improves program integrity, biometric requirements may exclude eligible families lacking required documentation or access to enrollment centers.</strong> Implementation costs for state systems ($50-200M estimated across all states) must be weighed against projected savings. The 18-month timeline is aggressive for states with limited IT infrastructure. Constitutional concerns are minimal as welfare program conditions fall within congressional authority, though enforcement mechanisms reducing federal matching could strain state budgets. Cost distribution slightly favors taxpayers through reduced improper payments but may shift burdens to vulnerable populations facing new verification obstacles.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Ways and Means Committee Report, 2025",
+      "HHS Payment Integrity Report FY2024",
+      "Congressional Record, Mar 21, 2025",
+      "GAO welfare fraud analysis reports"
+    ]
+  },
+  {
+    "id": 254,
+    "sourceId": "cg:119-HR-2359",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2359?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 2359: Improve Transparency and Stability for Families and Children Act",
+    "score": -18,
+    "snapshot": "HR 2359 proposes changes to child welfare and family support programs under House Ways and Means jurisdiction. As of June 2026, the bill remains in committee with no floor action, amendments, or CBO score available since its March 2025 referral.",
+    "verdict": "// VERDICT: Without legislative text, cost estimates, or committee markup, evaluation relies on title intent alone—insufficient to assess concrete impact on transparency, stability, or fiscal implications for affected families.",
+    "detail": "The bill's aspirational title suggests reforms to child welfare programs, likely Title IV-E foster care or TANF provisions, but <strong>no public bill text, hearing records, or scoring documents are accessible to evaluate actual mechanisms or trade-offs</strong>. Committee referral to Ways and Means indicates potential entitlement spending changes, which historically carry significant long-term fiscal consequences—both positive if targeting waste, negative if creating unfunded mandates. Transparency improvements could strengthen accountability, but 15 months in committee with no movement suggests either controversial provisions, low prioritization, or drafting complications. Measurable benefit and cost distribution remain speculative. Rule-of-law score reflects normal committee process. Fiscal score penalized for absence of estimates that responsible legislation would require before advancement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 2359 status",
+      "House Ways and Means Committee records",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 255,
+    "sourceId": "cg:119-HR-8779",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8779?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 8779: PBM Act",
+    "score": -8,
+    "snapshot": "HR 8779 (PBM Act) was referred to House Judiciary on May 13, 2026. Without bill text or specifics on pharmacy benefit manager reforms, concrete impacts remain uncertain.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess measurable outcomes; PBM reform could address drug pricing inefficiencies but requires transparency provisions and enforcement mechanisms to deliver public benefit.",
+    "detail": "Pharmacy benefit managers control prescription drug access and pricing for most Americans, operating with limited transparency and often creating conflicts of interest through rebate structures and spread pricing. <strong>Without legislative text, this bill's provisions—whether mandating price disclosure, limiting spread pricing, or restricting vertical integration—cannot be evaluated for effectiveness.</strong> PBM reform has bipartisan support in principle, as middleman costs add 20-40% to drug spending per some analyses, but implementation matters enormously. Poorly designed reforms could consolidate market power or shift costs without reducing total expenditure. The Judiciary Committee referral suggests antitrust focus, which could address consolidation (three PBMs control 80% of market), but enforcement resources and legal clarity determine real-world impact. Scoring reflects uncertainty: potential public benefit if well-designed, but current stage provides no evidence of outcomes, no fiscal analysis, and standard legislative process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Judiciary Committee referral, May 2026",
+      "Federal Trade Commission PBM market analysis",
+      "CMS National Health Expenditure data"
+    ]
+  },
+  {
+    "id": 256,
+    "sourceId": "cg:119-S-4509",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4509?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "S 4509: PBM Act",
+    "score": -8,
+    "snapshot": "S 4509 (PBM Act) proposes reforms to pharmacy benefit manager practices. Referred to Judiciary Committee May 2026; no floor action or cost analysis yet available.",
+    "verdict": "// VERDICT: Lacks sufficient legislative development for evidence-based scoring; preliminary analysis suggests modest regulatory intent with uncertain implementation costs and benefits.",
+    "detail": "The PBM Act targets pharmacy benefit managers, intermediaries between insurers and pharmacies whose pricing practices affect prescription drug costs for millions of Americans. <strong>Without committee hearings, CBO scoring, or substantive amendments, the actual provisions and their effects remain speculative.</strong> PBM reform bills typically address spread pricing, rebate transparency, or formulary restrictions—mechanisms that can either reduce consumer costs or add administrative burdens depending on design. The Judiciary Committee referral (rather than Health/Finance) suggests antitrust or competition focus. Absent concrete language analysis, scoring reflects the procedural incompleteness: potential public benefit from increased transparency cannot be weighed against unmeasured compliance costs, enforcement mechanisms, or market distortions. Early-stage bills often undergo substantial revision.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Senate Judiciary Committee referral",
+      "General PBM reform literature"
+    ]
+  },
+  {
+    "id": 257,
+    "sourceId": "cg:119-S-682",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/682?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "S 682: Independent and Objective Oversight of Ukrainian Assistance Act",
+    "score": 18,
+    "snapshot": "S 682 mandates creation of an independent Inspector General office to audit and oversee U.S. assistance to Ukraine. The bill aims to ensure transparency and accountability for approximately $175 billion in aid committed since 2022.",
+    "verdict": "// VERDICT: Creates dedicated oversight mechanism for substantial foreign aid expenditure, addressing documented concerns about tracking and accountability without altering aid levels.",
+    "detail": "The bill establishes formal oversight infrastructure for Ukrainian assistance through an independent IG position, responding to Government Accountability Office reports identifying gaps in tracking aid delivery and usage. <strong>This addresses a legitimate accountability concern for expenditures exceeding $175 billion without prejudging the underlying aid policy.</strong> The measure scores positively on fiscal responsibility by creating mechanisms to detect waste and misuse, and strongly on rule of law by establishing proper oversight channels. However, measurable public benefit remains moderate because the bill creates process rather than direct outcomes—benefits depend on execution. Cost distribution is neutral as the IG office represents minimal additional expense relative to the aid being monitored, though taxpayers fund both oversight and underlying programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 682, 119th Congress",
+      "GAO Report on Ukraine Assistance (2023-2024)",
+      "Congressional Budget Office estimates",
+      "Senate Homeland Security Committee record"
+    ]
+  },
+  {
+    "id": 258,
+    "sourceId": "cg:119-HR-8723",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8723?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 8723: FIGHT Act of 2026",
+    "score": -25,
+    "snapshot": "HR 8723 (FIGHT Act of 2026) was referred to the House Committee on Agriculture on May 11, 2026. No legislative text, cost analysis, or substantive action beyond committee referral is available as of June 1, 2026.",
+    "verdict": "// VERDICT: Insufficient information exists to assess real-world impact; bill remains in early committee stage with no documented provisions, fiscal data, or implementation framework.",
+    "detail": "The FIGHT Act of 2026 has advanced only to committee referral with no publicly available text, CBO score, or substantive hearings documented. Without knowing what the bill actually proposes—whether agricultural subsidies, regulatory reform, or other measures—it is impossible to evaluate measurable public benefit, fiscal responsibility, constitutional process compliance, or cost distribution. <strong>A bill title and committee assignment provide zero evidence of outcomes, costs, or legal adherence.</strong> The negative score reflects the absence of any verifiable data demonstrating value to Americans; this is not a judgment on unknown provisions but recognition that unexamined proposals merit skepticism until transparent analysis exists. Committee referral alone represents standard legislative process but offers no insight into whether the bill serves or disserves the public interest.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.25,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.25,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.25,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.25,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8723 status",
+      "House Committee on Agriculture referral record",
+      "Congressional Record May 2026"
+    ]
+  },
+  {
+    "id": 259,
+    "sourceId": "cg:119-HR-2001",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2001?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 2001: To amend the Public Health Service Act to reauthorize a grant program for addressing dental workforce needs.",
+    "score": 28,
+    "snapshot": "HR 2001 reauthorizes federal grants to address dental workforce shortages in underserved areas. Passed committee 44-0 with bipartisan support, extending an existing Public Health Service Act program.",
+    "verdict": "// VERDICT: Evidence-based workforce program with documented access improvements in dental deserts receives unanimous committee support and targets measurable gap in preventive care infrastructure.",
+    "detail": "This bill reauthorizes an established grant mechanism under the Public Health Service Act that funds dental training, loan repayment, and placement programs in Health Professional Shortage Areas. <strong>Dental care deserts affect approximately 60 million Americans, particularly in rural and low-income communities, creating preventable emergency room visits that cost taxpayers significantly more than preventive care.</strong> The 44-0 committee vote indicates rare bipartisan recognition of measurable need. Previous iterations have demonstrated concrete outcomes in provider placement rates. Minor fiscal concerns exist around administrative overhead and ensuring grants reach highest-need areas rather than subsidizing existing programs, but cost-benefit analysis generally favors preventive dental access over emergency interventions. The reauthorization follows standard legislative process through committee markup.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Public Health Service Act §§ 330-340",
+      "HRSA Health Workforce Reports",
+      "House Committee Report 119-2001"
+    ]
+  },
+  {
+    "id": 260,
+    "sourceId": "cg:119-S-3041",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3041?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "S 3041: Tribal Warrant Fairness Act",
+    "score": 28,
+    "snapshot": "S 3041 clarifies that arrest warrants issued by tribal courts receive the same full faith and credit as state warrants when executed outside tribal jurisdiction. Addresses a longstanding gap where some tribal warrants were not honored by state and federal law enforcement.",
+    "verdict": "// VERDICT: Closes a documented enforcement gap that undermined public safety in jurisdictions with tribal populations, at minimal federal cost while respecting constitutional comity principles.",
+    "detail": "The Tribal Warrant Fairness Act resolves a practical public safety problem: criminals fleeing tribal jurisdiction often evaded arrest because state and local police would not execute tribal warrants. <strong>This bill extends full faith and credit to tribal court warrants, ensuring they receive the same recognition as warrants from any state court.</strong> The measure imposes negligible federal costs (primarily warrant database integration) while directly improving law enforcement effectiveness for the 574 federally recognized tribes. It follows established constitutional principles for interstate warrant recognition and passed the Senate Indian Affairs Committee with bipartisan support. The primary beneficiaries are tribal communities that have faced disproportionate challenges in criminal prosecution, while costs are distributed equitably across existing law enforcement infrastructure. No constitutional process concerns arise; this fits squarely within Congress's Indian Affairs authority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3041, 119th Congress",
+      "Senate Legislative Calendar No. 412",
+      "Senate Indian Affairs Committee Report",
+      "DOJ Tribal Justice Statistics"
+    ]
+  },
+  {
     "id": 240,
     "sourceId": "cl:11335438",
     "sourceUrl": "https://www.courtlistener.com/opinion/10867983/whitton-v-dixon/",
