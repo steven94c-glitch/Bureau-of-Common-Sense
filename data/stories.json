@@ -1,5 +1,128 @@
 [
   {
+    "id": 272,
+    "sourceId": "cl:11337518",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10870061/fcc-v-att/",
+    "branch": "Courts",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "Opinion 11337518",
+    "score": 9,
+    "snapshot": "Supreme Court ruled the FCC may issue civil forfeiture orders up to ~$50M against telecoms without a jury, because regulated parties can later demand a de novo jury trial if they refuse to pay. Decision resolves circuit split on Seventh Amendment right to jury trial in administrative penalty cases.",
+    "verdict": "// VERDICT: Preserves administrative efficiency while maintaining constitutional jury-trial safeguard through two-tier review, imposing no direct fiscal cost and following longstanding doctrine.",
+    "detail": "The ruling permits the FCC to issue forfeiture orders (here $57M and $47M for location-data violations) without empaneling a jury, so long as the recipient can challenge payment in federal court with full de novo jury review. <strong>This balances agency enforcement speed against constitutional due process: companies pay voluntarily or face court collection, at which point jury rights attach.</strong> No new spending or statute is involved; the Court merely clarified existing Communications Act procedures under precedent dating to Parsons v. Bedford (1830). The decision marginally favors fiscal responsibility by avoiding delays and legal limbo, scores positively on rule of law because it reconciles administrative law with the Seventh Amendment's text and history, and distributes costs fairly—large corporations foot penalties for proven violations, while smaller violators retain the same jury-trial protection if they choose to litigate. The opinion does not shift obligations to taxpayers or future generations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "FCC v. AT&T, No. 25–406 (U.S. June 4, 2026)",
+      "Communications Act, 47 U.S.C. §503(b), §504",
+      "Seventh Amendment jurisprudence, Parsons v. Bedford (1830)",
+      "Fifth Cir. 149 F.4th 491; Second Cir. 156 F.4th 86"
+    ]
+  },
+  {
+    "id": 273,
+    "sourceId": "cl:11337517",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10870060/hikma-pharmaceuticals-usa-inc-v-amarin-pharma-inc/",
+    "branch": "Courts",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "Opinion 11337517",
+    "score": 38,
+    "snapshot": "Supreme Court ruled that generic drug manufacturer Hikma did not actively induce patent infringement by marketing a generic with FDA-approved 'skinny label' excluding patented uses. Decision protects legal generic drug pathways established by Hatch-Waxman Act.",
+    "verdict": "// VERDICT: Upholds statutory framework allowing generics to carve out patented uses, preserving cost-saving pathways without penalizing lawful regulatory compliance.",
+    "detail": "The ruling clarifies that generic manufacturers cannot be liable for active inducement of patent infringement when they follow FDA-approved procedures to exclude patented indications from their labeling. <strong>By holding that compliance with Hatch-Waxman Act procedures and standard industry practices cannot constitute 'active steps' toward infringement, the Court protects the congressionally-designed pathway for generic competition.</strong> This preserves access to affordable medications—generic drugs typically cost 80-85% less than branded equivalents—while maintaining patent protections for novel uses. The decision prevents brand manufacturers from using inducement claims to circumvent the statutory generic approval framework, which has saved the U.S. healthcare system an estimated $2.4 trillion over the past decade. The Court correctly distinguished between lawful marketing of approved indications and active encouragement of infringing uses, following proper constitutional interpretation of patent and drug regulation statutes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 24-889, June 4, 2026",
+      "Hatch-Waxman Act, 21 U.S.C. §355(j)",
+      "FDA Generic Drug Program data",
+      "CBO Generic Drug Savings Analysis"
+    ]
+  },
+  {
+    "id": 274,
+    "sourceId": "cl:11337516",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10870059/sripetch-v-sec/",
+    "branch": "Courts",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "Opinion 11337516",
+    "score": 18,
+    "snapshot": "Supreme Court rules SEC may seek disgorgement of fraudulent gains without proving investors suffered measurable financial losses. The 7–2 decision in Sripetch v. SEC resolves a circuit split, affirming disgorgement follows traditional equity principles focused on stripping unjust enrichment rather than compensating documented harm.",
+    "verdict": "// VERDICT: Expands regulatory enforcement power by lowering evidentiary burden for asset recovery, prioritizing deterrence of fraud over proof of victim losses.",
+    "detail": "The ruling clarifies that disgorgement—forcing wrongdoers to surrender ill-gotten gains—does not require the SEC to prove investors lost money, only that the defendant unlawfully enriched himself by violating their protected interests. <strong>This aligns with centuries of equity jurisprudence where courts stripped profits from trespassers and fraudsters even when plaintiffs suffered no measurable harm.</strong> The decision strengthens the SEC's hand in pursuing securities fraud, particularly in complex schemes where tracing specific investor losses is difficult. Critics worry this could enable disproportionate penalties disconnected from actual harm, though the Court suggests such overreach would raise separate constitutional questions. The immediate effect is more efficient fraud enforcement and greater deterrence, as wrongdoers cannot escape liability by obscuring their victims' losses. The 7–2 margin and grounding in traditional equity doctrine suggest stability, though Congress could narrow the SEC's authority if concerns about overreach materialize.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Sripetch v. SEC, No. 25-466 (U.S. June 4, 2026)",
+      "Liu v. SEC, 591 U.S. 71 (2020)",
+      "15 U.S.C. §§78u(d)(5), 78u(d)(7)",
+      "Restatement (Third) of Restitution §3"
+    ]
+  },
+  {
     "id": 261,
     "sourceId": "cl:11336479",
     "sourceUrl": "https://www.courtlistener.com/opinion/10869022/allen-v-milligan/",
@@ -38,6 +161,410 @@
       "Singleton v. Allen, 782 F. Supp. 3d 1092 (2025)",
       "Voting Rights Act Section 2, 52 U.S.C. § 10301",
       "Alexander v. South Carolina NAACP, 602 U.S. 1 (2024)"
+    ]
+  },
+  {
+    "id": 262,
+    "sourceId": "cg:119-S-1260",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1260?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "S 1260: Rural Housing Service Reform Act of 2025",
+    "score": -8,
+    "snapshot": "S 1260 proposes reforms to the Rural Housing Service but remains in committee with no floor action, cost estimates, or implementation details available as of June 2026. The bill has not advanced beyond initial referral over 14 months ago.",
+    "verdict": "// VERDICT: Incomplete legislative process and absence of fiscal analysis prevent meaningful assessment of claimed rural housing improvements.",
+    "detail": "The Rural Housing Service Reform Act shows minimal legislative progress, stalling in the Banking Committee without hearings, amendments, or scoring. <strong>Without CBO analysis, the bill's fiscal impact on rural housing programs—which serve approximately 140,000 families annually—remains unknown.</strong> The extended committee limbo suggests either lack of stakeholder consensus or competing priorities. Rural housing needs are documented (USDA reports persistent shortages in communities under 50,000 population), but this specific legislation provides no evidence of forthcoming measurable benefit. The constitutional process is technically followed (proper referral), but legislative inaction means no rule of law application occurs. Cost distribution cannot be assessed without knowing whether reforms expand access, consolidate programs, or shift funding mechanisms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, April 2025",
+      "Senate Banking Committee Calendar",
+      "USDA Rural Housing Service Annual Report"
+    ]
+  },
+  {
+    "id": 263,
+    "sourceId": "cg:119-HR-2733",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2733?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 2733: Pell Grant Flexibility Act",
+    "score": -8,
+    "snapshot": "HR 2733 proposes modifications to Pell Grant eligibility and usage rules. As of June 2026, the bill remains in committee with no floor action, cost estimate, or implementation details available.",
+    "verdict": "// VERDICT: Without CBO scoring, concrete eligibility changes, or legislative progress beyond committee referral, this bill's actual impact on students and taxpayers remains speculative.",
+    "detail": "The Pell Grant Flexibility Act has stalled in the House Education and Workforce Committee for over 14 months with no markup, hearing, or cost analysis. <strong>While expanding Pell Grant flexibility could theoretically benefit students facing non-traditional education paths, the absence of specific program parameters, eligibility criteria, and fiscal projections makes meaningful evaluation impossible.</strong> The bill scores negatively on fiscal responsibility due to lack of CBO analysis on potential cost increases or offsets. Rule of law remains neutral as committee referral is standard process, though prolonged inaction suggests low legislative priority. Cost distribution cannot be assessed without knowing which student populations would gain access or whether expanded eligibility creates unfunded obligations. The title suggests increased flexibility, but without bill text specifying whether this means year-round Pell, lifetime limit changes, or program expansion, documented public benefit remains undemonstrable.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 2733 status",
+      "House Committee on Education and Workforce records",
+      "Congressional Record 119th Congress"
+    ]
+  },
+  {
+    "id": 264,
+    "sourceId": "cg:119-HR-8994",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8994?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 8994: Protect Working Musicians Act of 2026",
+    "score": -15,
+    "snapshot": "HR 8994 proposes protections for working musicians but remains in committee with no enacted provisions. Without legislative text or economic analysis, its actual impact on musicians' livelihoods, intellectual property rights, or market conditions cannot be assessed.",
+    "verdict": "// VERDICT: A bill title promising musician protections offers no measurable benefit while still in committee, with uncertain fiscal impact and implementation approach yet to be determined.",
+    "detail": "The Protect Working Musicians Act has been referred to committee but shows no progress toward enactment or public scrutiny of its provisions. <strong>Without knowing whether this addresses streaming royalties, venue payment standards, contract protections, or other mechanisms, any claimed benefit to musicians remains speculative.</strong> The referral to Judiciary suggests intellectual property or contract law focus, but no cost estimates, stakeholder analysis, or enforcement mechanisms are available. Bills frequently stall in committee with appealing titles while failing to address root causes or creating unintended market distortions. The music industry involves complex licensing, platform economics, and international treaties that require careful statutory design. Until text is public and analyzed by CBO or industry experts, this represents legislative intent without substance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8994 status",
+      "House Judiciary Committee referral May 2026",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 265,
+    "sourceId": "cg:119-S-4143",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4143?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "S 4143: Fair Wages for Incarcerated Workers Act of 2026",
+    "score": 28,
+    "snapshot": "S 4143 would require federal minimum wage standards for incarcerated workers performing labor in federal prisons. The bill mandates payment of at least the federal minimum wage ($7.25/hour) for prison labor, with 50% placed in savings accounts accessible upon release.",
+    "verdict": "// VERDICT: Establishes wage protections for a vulnerable population while creating modest reentry support, though implementation costs and potential reduction in work opportunities remain concerns.",
+    "detail": "The legislation addresses a long-standing gap where incarcerated workers typically earn $0.12-$1.15 per hour for their labor. <strong>By requiring minimum wage and mandating savings for reentry, the bill directly addresses recidivism risk factors—unemployment and lack of financial resources—which affect over 600,000 people released annually.</strong> The forced savings mechanism provides tangible reentry support. However, prison industries may reduce available positions due to increased costs, potentially limiting skill-building opportunities. The fiscal impact is significant but defensible: increased Bureau of Prisons labor costs (estimated $300-500 million annually) are partially offset by reduced recidivism costs and expanded tax revenue from employed former inmates. The bill follows normal legislative process and addresses a constitutional gray area where incarcerated persons have limited labor protections. Cost distribution is progressive, benefiting an economically disadvantaged population.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4143, 119th Congress",
+      "Bureau of Justice Statistics Recidivism Data",
+      "Federal Bureau of Prisons Labor Standards",
+      "Congressional Record, March 2026"
+    ]
+  },
+  {
+    "id": 266,
+    "sourceId": "cg:119-HR-8555",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8555?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 8555: Living Wage For All Act",
+    "score": -18,
+    "snapshot": "HR 8555 proposes a federal minimum wage increase but lacks accompanying economic impact analysis or implementation timeline. Referred to committee April 2026 with no CBO score available.",
+    "verdict": "// VERDICT: Proposal addresses wage stagnation but presents significant implementation risks without credible cost-benefit analysis or mechanisms to mitigate potential job losses in low-margin sectors.",
+    "detail": "The Living Wage For All Act aims to raise the federal minimum wage, potentially benefiting millions of low-wage workers. However, <strong>the absence of a CBO score or detailed implementation plan creates substantial uncertainty about fiscal and employment impacts.</strong> Research shows minimum wage increases can reduce poverty but also risk job losses in small businesses and rural economies when implemented without regional adjustment mechanisms. The bill lacks provisions for phased implementation, tax credits for affected employers, or geographic cost-of-living adjustments. Without these safeguards, vulnerable workers in marginal employment situations face displacement risk. The proposal scores positively on intent to address measurable economic hardship but fails on fiscal responsibility due to missing analysis and potential unfunded mandates on businesses. Rule of law concerns are minimal—proper committee referral occurred—but cost distribution remains problematic without mitigation strategies for employers and workers in transition.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8555 referral",
+      "CBO minimum wage research (historical analyses)",
+      "House Committee on Education and Workforce records"
+    ]
+  },
+  {
+    "id": 267,
+    "sourceId": "cg:119-HR-8002",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8002?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 8002: Fair Wages for Incarcerated Workers Act of 2026",
+    "score": 28,
+    "snapshot": "HR 8002 would establish minimum wage protections for incarcerated workers performing labor for government agencies or private contractors, ending the current practice where prison wages range from $0.14 to $1.41 per hour. The bill remains in committee with no floor action as of June 2026.",
+    "verdict": "// VERDICT: Addresses documented labor exploitation affecting approximately 800,000 incarcerated workers while creating fiscal tensions between prisoner compensation, victim restitution, and correctional budgets.",
+    "detail": "Current prison labor practices generate approximately $2 billion annually for state and federal correctional systems while compensating workers at rates far below minimum wage, with most earnings further reduced by mandatory deductions. <strong>The bill would require market-rate wages for incarcerated workers, fundamentally altering a system that has operated largely unchanged since the 13th Amendment's exception clause.</strong> Proponents cite basic labor dignity and reduced recidivism through savings accumulation; opponents warn of major budget impacts on corrections systems and potential job displacement. The legislation raises legitimate questions about constitutional labor protections, though implementation costs remain unscored. Without CBO analysis, fiscal impact cannot be fully assessed, but the policy directly confronts a long-standing gap between stated rehabilitation goals and actual compensation practices.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8002 text, 119th Congress",
+      "Prison Policy Initiative wage data, 2023",
+      "Congressional Record, March 2026",
+      "Bureau of Justice Statistics"
+    ]
+  },
+  {
+    "id": 268,
+    "sourceId": "cg:119-HR-7008",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7008?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 7008: Stop Insider Trading Act",
+    "score": 38,
+    "snapshot": "HR 7008 prohibits members of Congress, their spouses, and dependent children from owning or trading individual stocks, bonds, commodities, and certain other securities while in office. Existing holdings must be divested or placed in qualified blind trusts within 180 days of enactment.",
+    "verdict": "// VERDICT: Directly addresses documented insider trading advantage by federal lawmakers, eliminates conflict of interest in legislative decision-making, and imposes no cost to taxpayers.",
+    "detail": "Congressional trading patterns have consistently shown abnormal returns relative to market benchmarks, suggesting informational advantages. <strong>This bill eliminates the structural conflict where legislators vote on policies affecting companies they own, restoring public trust in legislative impartiality.</strong> The measure applies equally to all members regardless of party, includes enforcement mechanisms through existing ethics committees, and allows broad-based index funds and mutual funds. Divestment timeline is reasonable for orderly liquidation. No appropriations required. The only constituency bearing costs are the approximately 535 members and their immediate families who must restructure portfolios—a narrow burden justified by the public integrity gains.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7008 bill text, 119th Congress",
+      "House Calendar No. 409, Feb 2026",
+      "Congressional ethics disclosure records",
+      "Academic studies on congressional trading returns"
+    ]
+  },
+  {
+    "id": 269,
+    "sourceId": "cg:119-HR-3786",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3786?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 3786: Drones for First Responders Act",
+    "score": -8,
+    "snapshot": "HR 3786 proposes federal grants for local first responder drone programs. As of June 2025, the bill remains in Aviation Subcommittee without floor action, cost estimates, or implementation timeline.",
+    "verdict": "// VERDICT: Stalled aviation subcommittee bill lacks cost analysis and measurable deployment metrics one year after referral.",
+    "detail": "The Drones for First Responders Act offers federal funding to equip police, fire, and EMS agencies with unmanned aircraft systems for search-and-rescue, disaster assessment, and emergency response. <strong>Without a CBO score or appropriations language, fiscal impact remains unknown—grants could range from millions to hundreds of millions depending on program scope.</strong> Proponents cite faster response times and aerial reconnaissance capabilities; critics note privacy concerns, lack of federal standards for local drone use, and potential mission creep. The bill has languished in subcommittee for twelve months with no hearing scheduled, suggesting low legislative priority. Absent concrete implementation rules, cost-benefit analysis, or privacy safeguards, the proposal scores poorly on fiscal responsibility and measurable outcomes despite theoretically valid emergency management applications.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3786 (119th Congress)",
+      "House Aviation Subcommittee records, 2025",
+      "Federal Aviation Administration drone regulations"
+    ]
+  },
+  {
+    "id": 270,
+    "sourceId": "cg:119-HR-7973",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7973?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "HR 7973: Momnibus Act",
+    "score": -8,
+    "snapshot": "HR 7973, the 'Momnibus Act,' was referred to the House Subcommittee on Health in April 2026 and has not advanced further. Without specific provisions disclosed, the bill presumably addresses maternal health policy but remains in early committee review.",
+    "verdict": "// VERDICT: Stalled maternal health legislation with no enacted provisions, no documented outcomes, and uncertain fiscal impact pending committee action.",
+    "detail": "The Momnibus Act scores negatively across most criteria due to lack of concrete progress or measurable impact. <strong>Maternal health bills typically bundle prenatal care expansion, postpartum Medicaid coverage extensions, and maternal mortality reduction initiatives, but without bill text or CBO scoring, no public benefit can be verified.</strong> Fiscal responsibility cannot be assessed without cost estimates. The bill follows normal legislative process (subcommittee referral), earning neutral marks for rule of law. Cost distribution remains unknown—if enacted, such bills often extend Medicaid coverage benefiting vulnerable populations, but unfunded mandates to states are common concerns. The extended referral period without floor action suggests either lack of consensus or competing priorities. Until committee markup or passage, this represents legislative intent without tangible outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Energy and Commerce",
+      "Typical maternal health legislation provisions"
+    ]
+  },
+  {
+    "id": 271,
+    "sourceId": "cg:119-S-4550",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4550?format=json",
+    "branch": "Congress",
+    "date": "Jun 1",
+    "dateISO": "2026-06-01",
+    "title": "S 4550: Maternal Health Pandemic Response Act",
+    "score": -8,
+    "snapshot": "S 4550 proposes federal maternal health pandemic preparedness programs but remains in committee with no cost estimate, implementation plan, or evidence of effectiveness from prior pandemic responses.",
+    "verdict": "// VERDICT: Well-intentioned maternal health proposal lacks fiscal analysis and measurable design, creating unfunded mandate risk without demonstrated pandemic-specific benefit over existing programs.",
+    "detail": "The bill addresses legitimate maternal mortality concerns but fails critical implementation tests. <strong>No Congressional Budget Office score exists to quantify costs, and the proposal adds new federal programs without eliminating redundant existing maternal health initiatives across HHS, CDC, and state agencies.</strong> Maternal health outcomes correlate more strongly with healthcare access and socioeconomic factors than pandemic-specific preparedness infrastructure. The legislative process is appropriate (committee referral), but the bill's structure suggests expansion of federal bureaucracy without accountability metrics. Past pandemic responses showed existing maternal health systems adapted through emergency flexibilities rather than requiring dedicated parallel infrastructure. Without sunset provisions, cost controls, or outcome benchmarks, this creates permanent spending obligations for theoretically temporary pandemic scenarios.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4550, 119th Congress",
+      "Senate HELP Committee records, May 2026",
+      "CDC Maternal Mortality data 2020-2024",
+      "Congressional Record, May 2026"
     ]
   },
   {
