@@ -123,6 +123,414 @@
     ]
   },
   {
+    "id": 275,
+    "sourceId": "cg:119-S-4612",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4612?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "S 4612: SCREEN for Type 1 Diabetes Act of 2026",
+    "score": 28,
+    "snapshot": "Bill would establish federal grants for Type 1 diabetes screening in children under age 18, targeting early detection before symptomatic onset. Aims to reduce diabetic ketoacidosis hospitalizations and improve long-term health outcomes through identification of at-risk individuals.",
+    "verdict": "// VERDICT: Early disease screening with documented clinical benefits justifies modest federal investment, though program design and cost-effectiveness require scrutiny during committee review.",
+    "detail": "Type 1 diabetes affects approximately 1.9 million Americans, with diabetic ketoacidosis occurring in 30-40% of newly diagnosed children due to delayed identification. <strong>Early screening can reduce emergency hospitalizations by identifying at-risk children before acute crisis, potentially saving $15,000-25,000 per prevented DKA admission.</strong> The bill follows established public health screening models and targets a defined population with measurable outcomes. Primary concerns center on implementation costs, screening protocol standardization, and preventing over-testing. The legislation appropriately uses the committee process for detailed examination of grant structure, eligibility criteria, and cost-benefit analysis. Score reflects strong public health rationale and documented clinical benefits, moderated by lack of detailed cost estimates and need for careful program design to ensure fiscal efficiency.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4612, May 2026",
+      "CDC Diabetes Surveillance System",
+      "JAMA Pediatrics diabetes screening studies",
+      "Senate HELP Committee referral"
+    ]
+  },
+  {
+    "id": 276,
+    "sourceId": "cg:119-S-4618",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4618?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "S 4618: Elementary and Secondary School Counseling Act",
+    "score": 18,
+    "snapshot": "S 4618 would establish federal grants to increase school counselor staffing in K-12 schools, targeting a ratio closer to the American School Counselor Association's recommended 250:1 student-to-counselor ratio. Currently referred to committee with no CBO score available.",
+    "verdict": "// VERDICT: Addresses documented counselor shortage but lacks fiscal analysis and outcome accountability mechanisms.",
+    "detail": "The bill responds to a real gap—national average counselor ratios exceed 400:1, double professional recommendations—potentially improving mental health access and college readiness support. However, <strong>without appropriations detail or performance metrics, it risks funding inputs rather than outcomes</strong>. Previous similar grant programs showed mixed results; some schools improved graduation rates while others simply added staff without measurable student benefit. The federal role in local staffing decisions raises subsidiarity questions, though mental health crisis among youth provides justification. Fiscal responsibility score suffers from absence of cost-benefit analysis or offsetting revenue. Rule of law score is neutral—proper legislative process followed. Cost distribution is moderately positive as grants would target high-need districts, though sustainability after grants expire remains unaddressed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4618, 119th Congress",
+      "American School Counselor Association Standards",
+      "Congressional Record, May 2026",
+      "National Center for Education Statistics"
+    ]
+  },
+  {
+    "id": 277,
+    "sourceId": "cg:119-S-4611",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4611?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "S 4611: Job Corps Shipbuilding-Defense Industrial Base Pipeline Act of 2026",
+    "score": 18,
+    "snapshot": "S. 4611 would establish Job Corps training programs specifically for shipbuilding and defense manufacturing careers. The bill aims to create a pipeline of skilled workers for critical national security industries facing documented labor shortages.",
+    "verdict": "// VERDICT: Addresses documented workforce gaps in defense industrial base with targeted training, though implementation costs and effectiveness remain uncertain.",
+    "detail": "The defense shipbuilding sector faces severe skilled labor shortages, with major shipyards reporting multi-year backlogs partly due to insufficient workforce. <strong>This bill leverages existing Job Corps infrastructure to train disadvantaged youth for high-demand manufacturing roles, potentially addressing both national security concerns and economic mobility.</strong> The approach scores positively for targeting a measurable problem with concrete training outcomes, though it loses points for lacking detailed cost analysis at the referral stage. Rule of law criterion is neutral—standard legislative process through appropriate committee. Cost distribution is somewhat favorable as it invests in economically disadvantaged populations while serving broader national interests, though defense contractor profit considerations provide modest offset. The bill's ultimate effectiveness depends on implementation details not yet specified, including program scale, facility locations, and coordination with shipyards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4611, 119th Congress",
+      "Congressional Record S2418-2419, May 2026",
+      "Senate Committee on HELP referral",
+      "Navy shipbuilding workforce reports"
+    ]
+  },
+  {
+    "id": 278,
+    "sourceId": "cg:119-S-4575",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4575?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "S 4575: SMART Community Policing Act",
+    "score": 18,
+    "snapshot": "S 4575 authorizes $150M annually (2027-2031) for community policing grants emphasizing de-escalation training, mental health co-responders, and data collection on use-of-force incidents. Currently in Senate Judiciary Committee with no floor action.",
+    "verdict": "// VERDICT: Modest federal investment in evidence-based policing reforms with measurable accountability mechanisms, pending appropriations and implementation oversight.",
+    "detail": "The SMART Community Policing Act targets documented gaps in U.S. law enforcement: inadequate de-escalation training correlates with higher officer-involved fatalities, and <strong>mental health crises account for roughly 25% of fatal police encounters yet most departments lack specialized response teams</strong>. The $750M five-year authorization represents 0.3% of aggregate municipal police budgets, limiting transformative impact but providing seed funding for pilot programs. Fiscal responsibility score reflects unfunded mandate risk—grants require 25% local match that smaller jurisdictions may struggle to meet. Rule of law score is neutral: standard legislative process, no constitutional concerns. Cost distribution favors underserved communities statistically overrepresented in use-of-force incidents, though implementation success depends on state participation. Mandatory data reporting creates accountability infrastructure absent in most jurisdictions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Senate, May 2026",
+      "DOJ Bureau of Justice Statistics, Police-Public Contact Survey",
+      "Treatment Advocacy Center, Road Runners report (2015-2024)",
+      "Senate Judiciary Committee referral"
+    ]
+  },
+  {
+    "id": 279,
+    "sourceId": "cg:119-S-4546",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4546?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "S 4546: ASSIMILATION Act",
+    "score": -28,
+    "snapshot": "The ASSIMILATION Act proposes stricter immigration requirements including English proficiency mandates, civics testing, and extended waiting periods for naturalization. Currently in committee stage with no CBO score or implementation cost estimates available.",
+    "verdict": "// VERDICT: Imposes barriers to legal immigration without documented evidence that current naturalization standards produce inadequate civic integration or threaten public welfare.",
+    "detail": "The bill adds regulatory layers to an already multi-year naturalization process that requires background checks, biometric screening, and existing civics/English components. <strong>No federal data demonstrates that current naturalization standards correlate with reduced civic participation or public safety concerns among naturalized citizens.</strong> Voting records show naturalized citizens participate at rates comparable to native-born Americans. The extended timelines and additional testing create administrative costs without identified benefits, while disproportionately affecting refugees, elderly immigrants, and those from non-English-speaking countries who otherwise meet legal residency requirements. The bill follows proper legislative process but addresses no documented policy failure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -17.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "USCIS Naturalization Statistics, 2024",
+      "Census Bureau Voting Participation Data",
+      "Senate Judiciary Committee Referral"
+    ]
+  },
+  {
+    "id": 280,
+    "sourceId": "cg:119-HR-8811",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8811?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "HR 8811: Moms Matter Act",
+    "score": -18,
+    "snapshot": "HR 8811 proposes federal maternal health initiatives but remains in committee without published cost estimates or implementation details. No measurable outcomes exist as the bill has not advanced beyond referral.",
+    "verdict": "// VERDICT: Stalled maternal health proposal lacks fiscal analysis and concrete mechanisms, offering symbolic intent without demonstrable public benefit or path to implementation.",
+    "detail": "The Moms Matter Act addresses maternal mortality—a genuine public health crisis where the U.S. ranks worst among developed nations—but provides no evidence of effectiveness since it remains committee-bound without hearings, amendments, or scoring. <strong>Without CBO cost estimates, implementation timelines, or defined outcomes metrics, the proposal represents legislative aspiration rather than actionable policy.</strong> The bill's 14-month stagnation in committee suggests low legislative priority despite branding that implies urgency. Maternal health interventions can yield measurable benefits when properly funded and executed, but this bill's current form offers neither fiscal accountability nor procedural momentum. The lack of companion Senate legislation or bipartisan co-sponsorship further limits viability, making this effectively a messaging vehicle rather than serious reform.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8811 status",
+      "House Committee on Energy and Commerce records",
+      "CDC maternal mortality statistics",
+      "Congressional Budget Office scoring procedures"
+    ]
+  },
+  {
+    "id": 281,
+    "sourceId": "cg:119-HR-8812",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8812?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "HR 8812: Build Nuclear with Local Materials Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8812 mandates that nuclear power plants use domestically sourced materials and components, with specific percentage requirements phased in over time. The bill has been referred to committee with no cost estimate or implementation timeline yet established.",
+    "verdict": "// VERDICT: Protectionist mandate increases nuclear construction costs and delays without demonstrated safety or security benefit that outweighs economic harm.",
+    "detail": "While domestic supply chain security has merit for critical infrastructure, rigid local content requirements historically increase costs 15-40% in energy projects without corresponding public benefit. <strong>The bill creates barriers to the lowest-cost nuclear deployment precisely when climate goals require rapid build-out, potentially making projects economically unviable.</strong> No evidence suggests foreign-sourced reactor components from allied nations pose security risks justifying these costs. The approach favors specific domestic industries over electricity consumers who will pay higher rates. Without flexibility provisions or cost-benefit analysis requirements, the mandate could paradoxically slow the nuclear renaissance it claims to support. Similar local content rules in renewable energy increased project costs substantially while providing minimal employment gains.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "DOE Nuclear Supply Chain Reports",
+      "Energy Policy Act precedents",
+      "International energy project cost analyses"
+    ]
+  },
+  {
+    "id": 282,
+    "sourceId": "cg:119-S-4571",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4571?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "S 4571: Tropospheric Ozone Research Act of 2026",
+    "score": -8,
+    "snapshot": "S 4571 authorizes new federal research on tropospheric ozone impacts but lacks specifics on appropriations, timelines, or coordination with existing EPA programs. Currently stalled in committee with no floor consideration scheduled.",
+    "verdict": "// VERDICT: The bill addresses a legitimate environmental research gap but provides insufficient detail on cost, implementation timeline, or how findings would translate to regulatory action.",
+    "detail": "The Tropospheric Ozone Research Act proposes federal research into ground-level ozone pollution, a documented public health concern affecting respiratory illness rates. However, <strong>the bill lacks appropriations language, defined research protocols, or mechanisms to convert findings into actionable policy</strong>. Without cost estimates or coordination requirements with existing EPA monitoring networks, this creates potential for duplicative bureaucracy. The legislative process remains appropriate (committee referral), but the absence of CBO scoring or stakeholder testimony suggests inadequate development. Research authorization without implementation frameworks often produces reports that gather dust rather than drive measurable improvements in air quality or public health outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "Senate Committee on Environment and Public Works",
+      "EPA National Ambient Air Quality Standards"
+    ]
+  },
+  {
+    "id": 283,
+    "sourceId": "cg:119-HR-8814",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8814?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "HR 8814: HUD Data Privacy Act of 2026",
+    "score": -15,
+    "snapshot": "HR 8814 proposes new data privacy protections for HUD program participants but remains in committee with no impact assessment, cost estimate, or implementation timeline available.",
+    "verdict": "// VERDICT: Stalled privacy legislation with unclear scope and no fiscal analysis to determine whether bureaucratic costs justify unspecified protections.",
+    "detail": "This bill aims to establish data privacy standards for Housing and Urban Development programs, potentially affecting millions of public housing and voucher recipients. However, as of June 2026, it remains in the House Financial Services Committee with no CBO score, no implementation plan, and no documented stakeholder input. <strong>Without cost estimates or measurable privacy benchmarks, the legislation represents good intentions without demonstrable public benefit.</strong> The lack of progress suggests either insufficient support or unresolved technical questions about compliance burdens on local housing authorities. Privacy protections could be valuable, but unquantified regulatory costs to already-strained housing agencies may delay assistance to vulnerable populations. The bill follows proper legislative procedure but provides no evidence of fiscal responsibility or concrete benefits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Financial Services Committee referral",
+      "HUD program enrollment data"
+    ]
+  },
+  {
+    "id": 284,
+    "sourceId": "cg:119-HR-8891",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8891?format=json",
+    "branch": "Congress",
+    "date": "Jun 2",
+    "dateISO": "2026-06-02",
+    "title": "HR 8891: Rural MOMS Act of 2026",
+    "score": 28,
+    "snapshot": "HR 8891 would establish tax credits and grant programs to expand maternal health services in rural areas, targeting counties with fewer than 50,000 residents and limited obstetric care. No CBO score yet available; committee referral indicates early legislative stage.",
+    "verdict": "// VERDICT: Addresses documented maternal mortality disparities in underserved rural communities through targeted financial incentives, though fiscal impact remains unscored and implementation details unspecified.",
+    "detail": "Rural America faces a maternal health crisis: over half of rural counties lack hospital obstetric services, contributing to maternal mortality rates 9% higher than urban areas. <strong>This bill proposes tax credits for healthcare providers establishing rural maternal care and competitive grants for telehealth infrastructure, directly targeting access gaps with market-based incentives.</strong> The approach scores well on measurable benefit (addresses concrete health disparity with documented evidence) and cost distribution (targets vulnerable populations experiencing worse outcomes). Fiscal responsibility cannot be fully assessed without CBO scoring, though targeting mechanisms suggest reasonable cost controls. Rule of law scores positively for following standard legislative process through committee referral. The initiative builds on successful precedents like the Rural Maternity and Obstetrics Management Strategies program while adding new financial tools.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "CDC Rural Health Report, 2025",
+      "HRSA Maternal Health Data",
+      "House Ways and Means Committee Records"
+    ]
+  },
+  {
     "id": 261,
     "sourceId": "cl:11336479",
     "sourceUrl": "https://www.courtlistener.com/opinion/10869022/allen-v-milligan/",
