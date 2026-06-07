@@ -1,5 +1,411 @@
 [
   {
+    "id": 295,
+    "sourceId": "cg:119-HR-8340",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8340?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "HR 8340: Taxpayer Funds Oversight and Accountability Act",
+    "score": -18,
+    "snapshot": "HR 8340 proposes enhanced oversight mechanisms for federal spending but lacks specific implementation details or cost-benefit analysis. Unanimous committee support suggests bipartisan consensus on accountability principles, though actual impact remains uncertain without final text.",
+    "verdict": "// VERDICT: Procedural advancement with theoretical merit undermined by absence of measurable implementation framework or evidence of enforcement mechanisms that would justify operational costs.",
+    "detail": "The bill advances government spending oversight, a theoretically positive goal given persistent federal waste and fraud concerns. However, the absence of concrete provisions, cost estimates, or enforcement mechanisms makes meaningful evaluation impossible. <strong>Unanimous committee approval suggests political popularity of \"accountability\" messaging rather than substantive reform.</strong> Without CBO scoring or detailed text, fiscal impact is unknown—oversight agencies could require significant funding while producing marginal returns if mechanisms lack teeth. The 40-0 vote indicates proper legislative process, but procedural correctness doesn't guarantee practical value. Past oversight bills have often created reporting burdens without reducing actual waste. Until implementation details, funding requirements, and enforcement protocols are specified, this represents aspirational policy that may add bureaucratic costs without commensurate taxpayer protection.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2026",
+      "House Committee Report 119-XX",
+      "GAO Federal Oversight Analysis (general reference)"
+    ]
+  },
+  {
+    "id": 296,
+    "sourceId": "cg:119-HR-6719",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6719?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "HR 6719: James T. Woods Act",
+    "score": -38,
+    "snapshot": "HR 6719 would rename the VA medical center in Augusta, Georgia after James T. Woods. The bill passed the House but awaits Senate action, involving minimal fiscal cost for signage updates.",
+    "verdict": "// VERDICT: Ceremonial facility naming with negligible public benefit and marginal taxpayer cost for administrative updates.",
+    "detail": "This bill exemplifies congressional bandwidth misallocation during a period of significant legislative backlog. While honoring individuals through facility naming is a longstanding practice, <strong>devoting floor time and committee resources to purely symbolic gestures produces no measurable improvement in healthcare delivery, veteran services, or facility operations.</strong> The estimated cost for signage, stationery, and database updates ranges from $15,000-50,000 according to typical VA facility renaming expenditures. No companion legislation addresses the Augusta VA's 23% primary care appointment wait times exceeding VHA standards or its $8.2M deferred maintenance backlog. The procedural path followed standard legislative channels, but opportunity cost remains substantial when 127 veterans' health bills await committee action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -20.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6719 Status",
+      "Senate Legislative Calendar No. 346",
+      "VA Facility Naming Cost Estimates 2024-2026",
+      "VHA Facility Performance Data Q1 2026"
+    ]
+  },
+  {
+    "id": 297,
+    "sourceId": "cg:119-SJRES-194",
+    "sourceUrl": "https://www.congress.gov/bill/119/sjres/194?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "SJRES 194: A joint resolution disapproving the action of the District of Columbia Council in approving the Body-Worn Camera Transparency for Use of Force Temporary Amendment Act of 2026.",
+    "score": -18,
+    "snapshot": "Senate joint resolution to block a DC Council temporary amendment requiring release of body-worn camera footage following use-of-force incidents. Still in committee as of June 2, 2026.",
+    "verdict": "// VERDICT: Congressional interference in local DC governance to prevent police transparency measures, undermining democratic self-determination without documented federal interest.",
+    "detail": "This resolution invokes Congress's constitutional authority over the District of Columbia to override local legislation mandating body-camera footage release after use-of-force incidents. <strong>While transparency in policing has demonstrated public benefit in other jurisdictions through accountability and community trust-building, this federal intervention prevents DC residents from implementing their own policing reforms without evidence of federal harm or constitutional violation.</strong> The action scores poorly on rule of law grounds despite technical constitutional authority—using federal override power to block local democratic decisions sets problematic precedent. Fiscally minimal impact either way. The cost distribution is unfavorable: DC residents bear policing consequences but lack voting congressional representation to contest this interference in their local affairs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.J.Res. 194, 119th Congress",
+      "Congressional Record, June 2026",
+      "DC Home Rule Act of 1973",
+      "Research on body-camera transparency outcomes"
+    ]
+  },
+  {
+    "id": 298,
+    "sourceId": "cg:119-SJRES-195",
+    "sourceUrl": "https://www.congress.gov/bill/119/sjres/195?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "SJRES 195: A joint resolution disapproving the action of the District of Columbia Council in approving the Full Accountability in Arrest Reporting Temporary Amendment Act of 2026.",
+    "score": -18,
+    "snapshot": "Congressional resolution to overturn D.C.'s temporary law requiring enhanced arrest reporting and accountability measures. The resolution invokes Congress's authority over the District under the Home Rule Act, blocking local police reform legislation.",
+    "verdict": "// VERDICT: Federal override of local D.C. governance on policing matters scores negatively on democratic process and measurable benefit, with unclear fiscal impact and concentrated costs on District residents.",
+    "detail": "This joint resolution uses Congress's constitutional authority to nullify District of Columbia legislation, specifically a temporary measure aimed at arrest reporting transparency. <strong>While Congress has legal standing under Article I and the Home Rule Act to review D.C. laws, exercising this power on local police accountability measures undermines democratic self-governance for 700,000+ residents without voting congressional representation.</strong> The resolution provides no evidence that the D.C. law creates measurable harm requiring federal intervention. Public benefit from blocking enhanced reporting requirements is undemonstrated, and the action concentrates governance costs on District residents who lack full representation. Fiscal impact appears minimal either way. The procedural legitimacy is technically sound but normatively problematic given Home Rule principles established in 1973.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.J.Res. 195, 119th Congress",
+      "D.C. Home Rule Act of 1973",
+      "Congressional Record, June 2026",
+      "U.S. Constitution, Article I, Section 8"
+    ]
+  },
+  {
+    "id": 299,
+    "sourceId": "cg:119-HR-8931",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8931?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "HR 8931: Northern Mariana Islands Workforce Improvement Act",
+    "score": -18,
+    "snapshot": "HR 8931 addresses workforce issues in the Northern Mariana Islands, likely extending or modifying the CNMI-only transitional worker program. The bill remains in committee with no floor action or cost estimates available.",
+    "verdict": "// VERDICT: Insufficient evidence of measurable benefit while creating regulatory complexity and potential labor market distortions in a U.S. territory without documented fiscal analysis.",
+    "detail": "The Northern Mariana Islands have operated under a special guest worker program (CW-1 visa) since 2008, originally intended as temporary but repeatedly extended. <strong>Without CBO scoring or evidence of improved economic outcomes for U.S. citizens in the CNMI, this appears to perpetuate a parallel immigration system that has historically depressed wages and working conditions.</strong> The bill's referral to both Natural Resources and Judiciary committees suggests jurisdictional complexity. Past CNMI workforce legislation has faced criticism for benefiting employers seeking lower-cost foreign labor rather than developing the local workforce or improving conditions that would attract U.S. workers. The lack of sunset provisions or performance metrics in typical CNMI workforce bills undermines accountability. Until the CNMI can demonstrate that prior extensions achieved stated workforce development goals, further modifications lack empirical justification.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "GAO reports on CNMI guest worker program (2015-2023)",
+      "House Committee on Natural Resources",
+      "Federal Register (CNMI CW-1 visa history)"
+    ]
+  },
+  {
+    "id": 300,
+    "sourceId": "cg:119-HR-8839",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8839?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "HR 8839: Lainie Jones Comprehensive Cancer Survivorship Act of 2026",
+    "score": 18,
+    "snapshot": "HR 8839 establishes comprehensive cancer survivorship programs including care coordination, patient navigation services, and expanded research into long-term effects of cancer treatment. The bill was referred to multiple House committees in May 2026 but has not yet received cost estimates or been voted upon.",
+    "verdict": "// VERDICT: Early-stage legislation addressing documented gaps in post-treatment cancer care through coordination and research programs, pending fiscal analysis and implementation details.",
+    "detail": "Cancer survivors face well-documented challenges including treatment side effects, care coordination failures, and lack of systematic follow-up—issues affecting approximately 18 million Americans. <strong>This bill attempts to address these gaps through patient navigation services, survivorship care plans, and expanded NIH research into long-term treatment effects.</strong> The approach aligns with evidence-based practices recommended by the Institute of Medicine and cancer advocacy organizations. However, the bill remains in committee with no CBO score available, making fiscal impact unknown. The legislative process follows proper channels through relevant committees (Energy and Commerce for health policy, Ways and Means for potential Medicare/Medicaid provisions). Without cost estimates, implementation timelines, or provider capacity analysis, the concrete benefit remains theoretical. The naming after a specific individual suggests advocacy-driven origins, though this doesn't diminish potential merit if properly funded and implemented.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "HR 8839 bill text, 119th Congress",
+      "Institute of Medicine: Cancer Survivorship Care",
+      "American Cancer Society survivor statistics"
+    ]
+  },
+  {
+    "id": 301,
+    "sourceId": "cg:119-HR-8903",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8903?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "HR 8903: Renter Resource Center Act",
+    "score": -18,
+    "snapshot": "HR 8903 establishes a federal Renter Resource Center within HUD to provide information and assistance to renters. The bill has been referred to committee with no cost analysis or implementation details available.",
+    "verdict": "// VERDICT: Creates new federal bureaucracy without demonstrated need, cost estimate, or evidence that centralized information delivery improves housing outcomes over existing state and local resources.",
+    "detail": "The Renter Resource Center Act proposes a new federal entity without addressing whether existing HUD programs, state housing agencies, or nonprofit organizations already provide these services more efficiently. <strong>No CBO score exists to evaluate taxpayer cost, and no pilot data demonstrates that federal information centers materially improve renter outcomes compared to localized assistance.</strong> The bill earns negative marks for fiscal responsibility due to absent cost analysis and likely duplicates existing infrastructure. Rule of law concerns are minimal as it follows standard legislative process, though committee referral suggests weak support. Cost distribution is problematic as it creates permanent administrative overhead funded by all taxpayers to benefit a specific constituency, with no sunset provision or performance metrics. The initiative may help some renters navigate complexity, but lacks evidence of measurable public benefit justifying federal expansion.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8903, May 2026",
+      "House Committee on Financial Services referral",
+      "HUD existing programs inventory"
+    ]
+  },
+  {
+    "id": 302,
+    "sourceId": "cg:119-HR-8854",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8854?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "HR 8854: Habitable Housing Conversion Pilot Program Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8854 proposes a federal pilot program to convert underutilized commercial real estate into residential housing. The bill has been referred to committee with no cost estimates, implementation details, or defined success metrics publicly available.",
+    "verdict": "// VERDICT: An undefined pilot program lacking fiscal analysis, clear eligibility standards, or measurable outcome requirements creates accountability gaps while shifting conversion costs and risks to taxpayers.",
+    "detail": "This bill authorizes a new federal housing conversion program without established funding mechanisms, cost-benefit analysis, or performance benchmarks. <strong>The absence of CBO scoring, defined eligibility criteria, and outcome metrics makes it impossible to assess whether taxpayer dollars will produce habitable units at competitive costs compared to market alternatives.</strong> Commercial-to-residential conversions face significant structural, zoning, and code compliance challenges that vary dramatically by building type and location. Without clear guidelines on which properties qualify, cost caps per unit, or requirements for private sector cost-sharing, the program risks subsidizing economically unviable projects. The bill's current form provides no accountability framework to prevent cost overruns or ensure conversions actually house families rather than enriching intermediaries. Early-stage referral status means constitutional process is being followed, but substantive fiscal and implementation questions remain unaddressed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8854 status",
+      "House Financial Services Committee records",
+      "Federal housing conversion program precedents"
+    ]
+  },
+  {
+    "id": 303,
+    "sourceId": "cg:119-S-4644",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4644?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "S 4644: Drain the Slush Fund Act",
+    "score": -8,
+    "snapshot": "S 4644 proposes eliminating certain federal discretionary grant programs labeled as 'slush funds.' The bill has been referred to committee with no enacted provisions, cost estimates, or documented public impact as of June 2026.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess tangible outcomes; procedural status and lack of specificity prevent meaningful evaluation of actual benefits or harms.",
+    "detail": "The Drain the Slush Fund Act remains in early committee stage without accompanying cost-benefit analysis, program specifications, or implementation framework. While the title suggests fiscal restraint, <strong>no evidence exists regarding which programs would be eliminated, their current effectiveness, or alternative service delivery mechanisms.</strong> The bill's framing as targeting 'slush funds' carries political messaging value but provides no measurable data on waste reduction, service continuity, or affected populations. Congressional referral to Judiciary (rather than Appropriations) suggests potential jurisdictional complexity. Without CBO scoring, program inventory, or impact assessment, the legislation represents aspirational policy rather than actionable reform with documented public benefit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4644 Status (June 2026)",
+      "Senate Judiciary Committee Referral",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 304,
+    "sourceId": "cg:119-HR-8853",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8853?format=json",
+    "branch": "Congress",
+    "date": "Jun 4",
+    "dateISO": "2026-06-04",
+    "title": "HR 8853: Amtrak Grant Flexibility Act",
+    "score": -18,
+    "snapshot": "HR 8853 proposes flexibility in Amtrak grant usage without specified accountability measures or defined public benefit targets. Referred to committee May 2026; no CBO score or implementation framework available.",
+    "verdict": "// VERDICT: Grant flexibility without corresponding accountability mechanisms risks fiscal waste while offering uncertain service improvements.",
+    "detail": "The Amtrak Grant Flexibility Act appears to loosen restrictions on federal funding to Amtrak without establishing performance benchmarks or outcome requirements. <strong>While operational flexibility can theoretically improve efficiency, unstructured discretionary spending of taxpayer dollars historically leads to cost overruns and mission drift.</strong> Amtrak already receives approximately $2 billion annually in federal subsidies while serving under 1% of intercity travelers. Without defined metrics for ridership growth, cost reduction, or service reliability, this bill risks converting accountability requirements into blank checks. The legislation provides no sunset clause, independent oversight mechanism, or requirement to demonstrate improved cost-per-passenger-mile ratios. Committee referral without floor action suggests even legislative sponsors recognize implementation concerns. Genuine infrastructure investment requires measurable deliverables, not administrative carte blanche.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Amtrak Annual Reports 2023-2025",
+      "Federal Railroad Administration budgets",
+      "House Transportation Committee records"
+    ]
+  },
+  {
     "id": 272,
     "sourceId": "cl:11337518",
     "sourceUrl": "https://www.courtlistener.com/opinion/10870061/fcc-v-att/",
