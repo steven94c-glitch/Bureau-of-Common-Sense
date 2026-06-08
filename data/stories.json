@@ -1,5 +1,449 @@
 [
   {
+    "id": 315,
+    "sourceId": "cl:11339285",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10871818/clark-v-mississippi/",
+    "branch": "Courts",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "Opinion 11339285",
+    "score": -25,
+    "snapshot": "Mississippi Supreme Court applied a two-part prejudice standard for ineffective assistance claims in Batson proceedings, requiring defendants to prove not only that a properly presented challenge would have succeeded, but also that the trial outcome would have changed. Justice Sotomayor argued this standard misunderstands Batson errors as structural defects.",
+    "verdict": "// VERDICT: The heightened prejudice standard creates a nearly insurmountable barrier to remedying racial discrimination in jury selection, effectively nullifying Sixth Amendment protections in death penalty cases.",
+    "detail": "The Mississippi rule compounds constitutional violations by demanding defendants prove a hypothetical different trial outcome after racially discriminatory jury strikes—a standard Justice Sotomayor characterizes as \"almost certainly wrong.\" <strong>This approach treats Batson violations (structural errors affecting the trial framework itself) as ordinary trial errors subject to harmless-error analysis, contradicting Supreme Court precedent that such defects in jury composition require automatic reversal.</strong> The procedural barrier is particularly severe in capital cases where the state struck Black jurors at five times the rate of white jurors. While the Court denied certiorari (suggesting insufficient grounds for immediate intervention), the framework raises serious rule-of-law concerns by allowing states to effectively immunize racial discrimination through impossible evidentiary standards. The standard primarily harms capital defendants and communities subjected to discriminatory jury practices.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Clark v. Mississippi, 608 U.S. ___ (2026)",
+      "Batson v. Kentucky, 476 U.S. 79 (1986)",
+      "Strickland v. Washington, 466 U.S. 668 (1984)",
+      "Powers v. State, 371 So. 3d 629 (Miss. 2023)"
+    ]
+  },
+  {
+    "id": 305,
+    "sourceId": "cg:119-HR-8849",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8849?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "HR 8849: Promoting Police Leadership Act",
+    "score": -18,
+    "snapshot": "HR 8849 would establish federal funding for police leadership training programs. As of May 2026, the bill remains in committee with no CBO score or detailed cost estimates available.",
+    "verdict": "// VERDICT: Legislation proposes new federal spending on law enforcement training without defined metrics for effectiveness, fiscal analysis, or evidence of gaps in existing state and local programs.",
+    "detail": "The Promoting Police Leadership Act creates another federal grant program for police training when over 18,000 state and local law enforcement agencies already operate training systems. <strong>Without a CBO score or performance benchmarks, the bill represents unfunded mandate expansion with no documented public safety gap it addresses.</strong> The legislation bypasses fiscal responsibility by advancing without cost analysis. While improving police leadership could theoretically benefit communities, no evidence demonstrates federal intervention surpasses existing state POST (Peace Officer Standards and Training) systems. The bill follows normal committee process but lacks the analytical rigor expected for new spending programs. Future taxpayers bear costs for duplicative programs while benefits remain speculative rather than evidence-based.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Judiciary Committee referral",
+      "Bureau of Justice Statistics on law enforcement training systems"
+    ]
+  },
+  {
+    "id": 306,
+    "sourceId": "cg:119-S-4394",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4394?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "S 4394: Promoting Police Leadership Act",
+    "score": -8,
+    "snapshot": "S 4394 would establish a federal grant program for police leadership training and professional development. No CBO score available; estimated costs unknown, implementation details sparse.",
+    "verdict": "// VERDICT: Creates unfunded federal bureaucracy for state/local function with no documented evidence that leadership training addresses core policing challenges or improves public safety outcomes.",
+    "detail": "This bill authorizes a new federal grant program for police leadership development without addressing whether existing programs are inadequate or whether leadership training correlates with reduced use-of-force incidents, improved community relations, or other measurable outcomes. <strong>The legislation provides no cost estimate, no performance metrics, and no sunset provision—classic features of programs that persist regardless of effectiveness.</strong> While professional development has theoretical merit, federal involvement duplicates state POST commissions and private training entities already serving this function. The bill scores positively on procedural compliance (proper committee process, Senate calendar placement) but negatively on fiscal discipline (no pay-for, no CBO analysis) and public benefit measurement (no baseline problem quantification, no success criteria). Cost distribution is regressive: taxpayers fund optional training for a profession where departments already budget for professional development.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4394 bill text, 119th Congress",
+      "Senate Legislative Calendar No. 414",
+      "Congressional Record, May 2026"
+    ]
+  },
+  {
+    "id": 307,
+    "sourceId": "cg:119-HR-7718",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7718?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "HR 7718: Officer John Barnes and Chief Michael Ansbro Public Safety Officers’ Benefits Program Expansion Act of 2026",
+    "score": 38,
+    "snapshot": "HR 7718 expands federal death benefits to public safety officers killed by fentanyl exposure or delayed trauma-related conditions. The bill broadens eligibility criteria for the Public Safety Officers' Benefits (PSOB) program to include line-of-duty deaths from synthetic opioids and cumulative occupational injuries.",
+    "verdict": "// VERDICT: Targeted expansion addresses documented officer fatality gap with modest fiscal impact and clear eligibility standards.",
+    "detail": "The bill responds to rising officer deaths from fentanyl exposure during drug interdictions and delayed-onset conditions like cardiac events linked to cumulative job stress. <strong>By expanding PSOB coverage to these previously excluded deaths, it closes a benefits gap affecting families of officers who die from occupational hazards not recognized under 1976 program rules.</strong> Fiscal cost is incremental—estimated dozens to low hundreds of additional claims annually against the existing PSOB appropriation (roughly $120M/year baseline). The measure follows regular legislative process through Judiciary Committee. Cost distribution is appropriate: federal government assumes risk for federal-standard public safety work. Minor concerns include potential for contested claims over causation in delayed-trauma cases, but bill includes \"line of duty\" language preserving adjudication standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7718, 119th Congress",
+      "Public Safety Officers' Benefits Act, 42 U.S.C. § 3796",
+      "DOJ PSOB Program Data, FY2025",
+      "Congressional Record, Feb 2026"
+    ]
+  },
+  {
+    "id": 308,
+    "sourceId": "cg:119-HR-1360",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1360?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "HR 1360: Officer John Barnes Act",
+    "score": -8,
+    "snapshot": "HR 1360 (Officer John Barnes Act) was referred to House Judiciary in February 2025 with no further action as of June 2026. Without bill text or committee hearings, the specific provisions and fiscal impact remain unknown.",
+    "verdict": "// VERDICT: Insufficient legislative progress after 16 months prevents meaningful assessment of public benefit or cost.",
+    "detail": "Named bills honoring fallen officers typically address law enforcement benefits, liability protections, or memorial designations. However, <strong>after 16 months in committee with no hearings, markups, or CBO score, this bill shows no measurable progress toward enactment or public impact.</strong> The stalled status suggests either low legislative priority, unresolved stakeholder concerns, or procedural obstacles. Without substantive content available for review, scoring defaults to moderate negatives across criteria: no demonstrable public benefit has materialized, fiscal implications remain unanalyzed, and the lack of committee action raises questions about legislative follow-through. If the bill contains meaningful reforms, the failure to advance them represents an opportunity cost for potential beneficiaries.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 1360 status",
+      "House Judiciary Committee records",
+      "Congressional Record 119th Congress"
+    ]
+  },
+  {
+    "id": 309,
+    "sourceId": "cg:119-S-571",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/571?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "S 571: Officer John Barnes Act",
+    "score": -8,
+    "snapshot": "S. 571, the Officer John Barnes Act, remains in Senate Judiciary Committee as of February 2025 with no further legislative action. Without bill text or substantive details about provisions, scoring reflects procedural stall and absence of measurable outcomes.",
+    "verdict": "// VERDICT: Legislation named for fallen officer remains bottlenecked in committee for 16 months with no documented progress toward enactment or public benefit.",
+    "detail": "Named legislation honoring law enforcement typically addresses officer safety, benefits, or related criminal justice reforms, but without bill text or committee movement, no concrete public benefit exists. <strong>The 16-month committee stall represents standard congressional dysfunction—91% of introduced bills die in committee without votes.</strong> Naming bills after victims often generates initial attention but rarely correlates with passage rates. No fiscal impact can be assessed without text. Procedural scoring reflects legitimate committee referral but penalizes extended inaction. Cost distribution scoring is neutral absent specifics. The bill's proponents and Officer Barnes's family receive no tangible outcome from symbolic introduction alone.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.571 status (119th Congress)",
+      "Senate Judiciary Committee records",
+      "Congressional bill passage statistics"
+    ]
+  },
+  {
+    "id": 310,
+    "sourceId": "cg:119-HR-8958",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8958?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "HR 8958: To grant to Crook County, Oregon, a right-of-way for the construction of a new road in Juniper Canyon, and for other purposes.",
+    "score": 8,
+    "snapshot": "HR 8958 grants Crook County, Oregon, a right-of-way through federal land in Juniper Canyon for road construction. The bill remains in committee with no cost estimate or environmental review publicly available.",
+    "verdict": "// VERDICT: A localized infrastructure authorization with minimal fiscal impact, pending environmental compliance and proper process through committee review.",
+    "detail": "This bill addresses a specific county-level infrastructure need by facilitating road construction across federal lands. <strong>Without a CBO score or environmental impact statement, the measurable benefits and costs remain uncertain, though similar right-of-way grants typically involve minimal federal expenditure.</strong> The rule of law score reflects proper legislative process through committee referral, though final passage and executive review are pending. Public benefit appears geographically limited to improved local transportation access. Fiscal responsibility cannot be fully assessed without cost data, but federal land right-of-way grants generally impose negligible direct costs. Cost distribution is neutral as local taxpayers would fund construction while federal land management agencies retain oversight responsibilities. The bill's narrow scope and early legislative stage limit definitive scoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8958, 119th Congress",
+      "House Committee on Natural Resources referral, May 2026",
+      "Federal Land Policy and Management Act procedures"
+    ]
+  },
+  {
+    "id": 311,
+    "sourceId": "cg:119-S-254",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/254?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "S 254: ARTIST Act",
+    "score": 18,
+    "snapshot": "The ARTIST Act establishes federal protections against unauthorized AI replication of individuals' voices and likenesses, creating a new property right enforceable through civil action. Passed Senate June 2026 with bipartisan support.",
+    "verdict": "// VERDICT: Creates enforceable personal property rights in voice and likeness while addressing AI impersonation risks, though implementation costs and scope of protection remain uncertain.",
+    "detail": "The legislation fills a recognized gap in intellectual property law as generative AI enables realistic impersonation without consent. <strong>It grants individuals control over commercial use of their voice and visual likeness while including exceptions for news, parody, and criticism.</strong> Measurable benefit exists through deterrence of fraud and protection of individual autonomy, though quantified impact on victims awaits enforcement. Fiscal cost appears modest—primarily judicial system burden from civil litigation, no direct federal spending identified. The bill followed standard legislative process through committee and floor votes. Primary concern centers on cost distribution: enforcement relies on individual civil suits, advantaging those who can afford litigation while leaving average citizens vulnerable to impersonation they cannot afford to prosecute. Balancing provisions attempt fairness, but access to justice remains unequal.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "S. 254, 119th Congress",
+      "Senate floor proceedings, June 3, 2026"
+    ]
+  },
+  {
+    "id": 312,
+    "sourceId": "cg:119-HR-8833",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8833?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "HR 8833: Sister City Transparency Act",
+    "score": -8,
+    "snapshot": "HR 8833 requires local governments to disclose details of sister city partnerships with Chinese entities and report on foreign gifts. Creates new federal reporting mandates on municipal relationships without documented national security benefit.",
+    "verdict": "// VERDICT: Imposes unfunded compliance burdens on thousands of localities to address speculative risks, with minimal evidence that sister city cultural exchanges pose security threats warranting federal intervention.",
+    "detail": "The Sister City Transparency Act mandates that U.S. cities report details of partnerships with Chinese municipalities to the Secretary of State, targeting cultural and educational exchanges that have operated for decades without documented security incidents. <strong>While transparency in foreign relationships has merit, the bill creates bureaucratic overhead for approximately 500+ sister city partnerships without congressional findings demonstrating actual threats from these largely ceremonial relationships.</strong> The legislation represents federal micromanagement of local diplomatic and cultural activities, requiring resource-strapped municipalities to compile reports on exchanges that typically involve student programs and cultural festivals. No funding mechanism accompanies these mandates, effectively imposing costs on local taxpayers while providing questionable federal benefit. The measure bypasses nuanced assessment of which partnerships might warrant scrutiny versus blanket reporting requirements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8833 text, 119th Congress",
+      "Congressional Record, May 2026",
+      "Sister Cities International registry data"
+    ]
+  },
+  {
+    "id": 313,
+    "sourceId": "cg:119-HR-8836",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8836?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "HR 8836: Know Your American Customer Act",
+    "score": -28,
+    "snapshot": "HR 8836 would require financial institutions to verify U.S. citizenship or legal residency status for all account holders, adding documentation requirements beyond existing anti-money laundering rules. Sponsors cite fraud prevention; critics warn of increased compliance costs and potential banking access barriers for legal residents.",
+    "verdict": "// VERDICT: Imposes substantial compliance costs on financial institutions while creating documentation barriers that could exclude legal immigrants and citizens lacking standard proof documents, with minimal demonstrated benefit beyond existing KYC requirements.",
+    "detail": "The bill mandates citizenship verification for all bank accounts, duplicating existing Know Your Customer (KYC) and Bank Secrecy Act requirements that already verify identity and legal status. <strong>Financial institutions would face significant new compliance costs estimated in hundreds of millions annually, passed to consumers through fees, while millions of legal immigrants, naturalized citizens, and Americans without passports or birth certificates could face account access difficulties.</strong> The legislation provides no evidence that current identity verification fails to catch fraud or illicit activity at rates justifying this expansion. Rural Americans, elderly citizens, and low-income populations disproportionately lack the specific documentation required. The administrative burden diverts resources from actual financial crime detection while potentially pushing vulnerable populations toward unregulated financial services.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.R. 8836 (May 2026)",
+      "Bank Secrecy Act existing requirements",
+      "FDIC unbanked household surveys",
+      "Financial Services Committee referral"
+    ]
+  },
+  {
+    "id": 314,
+    "sourceId": "cg:119-HR-8957",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8957?format=json",
+    "branch": "Congress",
+    "date": "Jun 5",
+    "dateISO": "2026-06-05",
+    "title": "HR 8957: American Reserve Modernization Act of 2026",
+    "score": -28,
+    "snapshot": "HR 8957 proposes restructuring Federal Reserve operations and governance, currently in committee review. No CBO score available; fiscal and implementation impacts remain unquantified.",
+    "verdict": "// VERDICT: Legislation attempts systemic monetary policy reform without published cost-benefit analysis or demonstrated crisis necessitating immediate restructuring.",
+    "detail": "The American Reserve Modernization Act targets Federal Reserve structure during stable monetary conditions, raising concerns about solutions seeking problems. <strong>Without CBO scoring or GAO analysis, the fiscal implications of reorganizing the nation's central banking system remain speculative.</strong> Historical evidence shows Fed independence correlates with price stability; major structural changes typically follow demonstrated failures rather than preemptive theory. The bill's committee referral without emergency designation suggests non-urgent status. Monetary policy changes affect all Americans through interest rates, employment, and inflation—yet no published impact assessment exists. Constitutional authority for Congress to restructure the Fed is clear, but best practices require rigorous analysis before dismantling established institutions. The absence of quantified public benefit projections or transition cost estimates undermines the case for action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -18.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Federal Reserve Act (12 USC Ch. 3)",
+      "House Committee on Financial Services",
+      "Historical Federal Reserve performance data"
+    ]
+  },
+  {
     "id": 295,
     "sourceId": "cg:119-HR-8340",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/8340?format=json",
