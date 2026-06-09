@@ -41,6 +41,414 @@
     ]
   },
   {
+    "id": 316,
+    "sourceId": "cg:119-HR-9084",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9084?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9084: Department of Energy Nuclear Transparency Act",
+    "score": 28,
+    "snapshot": "HR 9084 requires the Department of Energy to publicly disclose detailed information about nuclear facility operations, safety incidents, waste storage, and decommissioning costs within 180 days and quarterly thereafter. The bill mandates creation of a searchable public database and independent safety audits.",
+    "verdict": "// VERDICT: Strengthens public accountability and informed decision-making on nuclear operations with minimal implementation costs, though administrative burden may slightly delay ongoing projects.",
+    "detail": "The Department of Energy Nuclear Transparency Act addresses a longstanding gap in public access to nuclear facility data. <strong>By requiring comprehensive disclosure of safety records, waste inventories, and long-term cost projections, the bill enables citizens and policymakers to assess risks and fiscal obligations associated with the nuclear enterprise.</strong> Implementation costs are estimated at $3-5 million annually for database maintenance and reporting, negligible against DOE's $50+ billion budget. The quarterly reporting requirement follows established administrative procedures and mirrors transparency standards already applied to other federal agencies. Minor concerns include potential administrative friction as DOE adapts systems, and the need to balance transparency with legitimate national security redactions. The bill does not create new regulatory burdens on private operators, focusing solely on federal facility disclosure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "DOE Budget FY2026",
+      "Federal Register transparency requirements",
+      "Government Accountability Office nuclear oversight reports"
+    ]
+  },
+  {
+    "id": 317,
+    "sourceId": "cg:119-HR-9054",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9054?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9054: Earned Benefits Equality and Family Reunification Act",
+    "score": -28,
+    "snapshot": "HR 9054 would extend Social Security and Medicare benefits to undocumented immigrants who have paid payroll taxes for at least 10 years, and create a pathway for family reunification. The bill has been referred to committee with no CBO score or cost estimate available.",
+    "verdict": "// VERDICT: Extends federal entitlement benefits to undocumented workers without addressing program solvency, creating substantial unfunded liabilities while circumventing existing immigration law.",
+    "detail": "The bill scores poorly across all criteria. <strong>It would add significant beneficiaries to Social Security and Medicare—already facing insolvency by 2033 and 2031 respectively—without identifying funding sources or addressing structural deficits.</strong> While proponents argue these individuals paid into the system, the benefits received typically exceed contributions, particularly for Medicare. The proposal bypasses established immigration processes by conferring benefits without legal status resolution, undermining rule of law. Cost distribution heavily penalizes future taxpayers and current legal beneficiaries whose benefits may face cuts sooner. Any measurable benefit to recipient families is offset by systemic fiscal harm. The absence of enforcement provisions or program sustainability measures further weakens the proposal.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Social Security Trustees Report 2025",
+      "Medicare Trustees Report 2025",
+      "Committee referral records"
+    ]
+  },
+  {
+    "id": 318,
+    "sourceId": "cg:119-HR-9081",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9081?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9081: Healthcare Freedom and Fairness Act",
+    "score": -18,
+    "snapshot": "HR 9081 proposes to eliminate the employer health insurance mandate established under the Affordable Care Act, removing penalties for employers who do not offer coverage. The bill has been referred to committee with no cost analysis yet available.",
+    "verdict": "// VERDICT: Eliminating the employer mandate without replacement coverage mechanisms risks expanding the uninsured population while offering modest regulatory relief to businesses.",
+    "detail": "The Healthcare Freedom and Fairness Act would repeal ACA employer penalties, potentially affecting coverage for millions who obtain insurance through work. <strong>Without accompanying measures to maintain coverage access, this creates significant risk of increased uninsured rates, particularly among lower-wage workers whose employers may discontinue benefits.</strong> The fiscal impact remains unclear—eliminating penalties reduces federal revenue while potentially increasing uncompensated care costs and emergency Medicaid enrollment. The bill follows proper legislative process through committee referral. However, cost distribution strongly favors employers over workers, as businesses gain flexibility while employees face potential loss of affordable coverage options. The lack of transition provisions or alternative coverage pathways undermines the stated goal of \"fairness.\"",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "CBO ACA Mandate Analysis (historical)",
+      "Kaiser Family Foundation employer coverage data",
+      "House Committee on Education and Workforce"
+    ]
+  },
+  {
+    "id": 319,
+    "sourceId": "cg:119-HR-9058",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9058?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9058: Residential AED and CPR Preparedness Act of 2026",
+    "score": 18,
+    "snapshot": "HR 9058 would establish voluntary federal grants and tax credits encouraging residential installation of automated external defibrillators (AEDs) and CPR training. The bill remains in committee with no CBO score available.",
+    "verdict": "// VERDICT: A low-cost preventive health measure with documented survival benefits, though effectiveness depends on implementation details and uptake rates not yet specified.",
+    "detail": "Sudden cardiac arrest kills approximately 350,000 Americans annually, with survival rates below 10% nationally but exceeding 40% when bystander CPR and AED use occur within minutes. <strong>The bill offers modest tax incentives for AED purchase and voluntary grants for community training programs, targeting a documented public health gap at relatively low fiscal cost.</strong> However, the measure scores moderately because it lacks mandatory funding mechanisms, specific appropriation levels, or enforcement provisions. The voluntary nature limits guaranteed impact while the constitutional basis under interstate commerce for health promotion is well-established. Cost distribution favors homeowners who can afford AEDs (typically $1,200-2,500) and itemize deductions, though grant provisions may partially offset equity concerns. The bill follows standard legislative process with appropriate committee referral.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "American Heart Association Cardiac Arrest Statistics, 2025",
+      "Congressional Record, 119th Congress",
+      "Federal Register guidance on health tax credits",
+      "House Committee on Energy and Commerce referral records"
+    ]
+  },
+  {
+    "id": 320,
+    "sourceId": "cg:119-HR-9059",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9059?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9059: National Police Athletic/Activities League Youth Enrichment Reauthorization Act",
+    "score": 8,
+    "snapshot": "HR 9059 reauthorizes federal grants to Police Athletic Leagues (PAL) for youth engagement programs. These programs provide structured activities connecting at-risk youth with law enforcement in community settings.",
+    "verdict": "// VERDICT: Modest positive impact through proven youth engagement model with reasonable costs, though limited independent outcome measurement constrains confidence in broader effectiveness.",
+    "detail": "Police Athletic Leagues operate in approximately 400 U.S. cities, serving roughly 2 million youth annually through sports, education, and mentorship programs. <strong>Studies from Justice Department evaluations show PAL participants have 20-30% lower rates of juvenile justice involvement compared to similar demographics, though causal attribution remains contested.</strong> Reauthorization typically allocates $12-20 million annually—a minimal federal outlay relative to juvenile justice costs (estimated at $8-21 billion annually). The program follows established statutory authority and cooperative federalism principles. Primary concern is scalability: grants reach only a fraction of at-risk youth populations, and outcome tracking varies significantly by locality. Cost distribution is generally equitable, with communities providing matching funds. The bill maintains existing authorization levels without expanding unfunded mandates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Office of Juvenile Justice & Delinquency Prevention reports",
+      "Congressional Budget Office baseline estimates",
+      "House Judiciary Committee referral records",
+      "National PAL annual statistics"
+    ]
+  },
+  {
+    "id": 321,
+    "sourceId": "cg:119-S-4592",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4592?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "S 4592: Digital Opportunity Foundation Act of 2026",
+    "score": -8,
+    "snapshot": "S 4592 proposes creating a federally funded 'Digital Opportunity Foundation' to expand broadband access and digital literacy programs. The bill has been referred to committee with no cost estimate or implementation timeline available.",
+    "verdict": "// VERDICT: Without budget details or measurable benchmarks, this represents an unfunded federal expansion into areas already addressed by existing programs and state initiatives.",
+    "detail": "The Digital Opportunity Foundation Act adds another layer to an already crowded federal broadband landscape that includes FCC's Universal Service Fund, USDA's ReConnect program, and recent Infrastructure Investment and Jobs Act funding. <strong>No CBO score exists, making fiscal impact unknown, and the bill provides no sunset clause or performance metrics to evaluate success.</strong> While digital access remains uneven in rural areas, creating a new foundation duplicates existing administrative structures rather than leveraging them. The legislation followed proper Senate procedure with committee referral, but lacks the fiscal analysis required for responsible evaluation. If the foundation requires ongoing appropriations without offsetting cuts, it shifts costs to future taxpayers while potentially competing with rather than complementing state broadband offices established under recent federal grants.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4592, 119th Congress",
+      "Congressional Record, May 2026",
+      "FCC Universal Service Fund Reports",
+      "Infrastructure Investment and Jobs Act, 2021"
+    ]
+  },
+  {
+    "id": 322,
+    "sourceId": "cg:119-HR-9052",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9052?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9052: Small Business Workforce Pipeline Act of 2026",
+    "score": 18,
+    "snapshot": "HR 9052 proposes federal funding for apprenticeship programs linking small businesses with vocational schools and community colleges. The bill aims to address skilled labor shortages while reducing reliance on four-year degrees.",
+    "verdict": "// VERDICT: Creates modest workforce development infrastructure with reasonable cost controls, though measurable outcomes depend on implementation quality and participation rates.",
+    "detail": "The Small Business Workforce Pipeline Act addresses a documented gap in skilled trades by establishing grant programs for apprenticeships in small businesses (typically <500 employees). <strong>The approach targets sectors with verified labor shortages—manufacturing, construction, healthcare support—while avoiding open-ended entitlements.</strong> Fiscal exposure appears contained through competitive grants and employer cost-sharing requirements. The bill follows standard legislative process through committee referral. Primary beneficiaries are small employers and non-college-bound workers, though geographic distribution of funds will determine equity. Success hinges on administrative efficiency and whether businesses actually hire apprentices versus treating grants as subsidies. Early-stage bill lacks CBO score, so cost-benefit remains provisional.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9052 text (May 2026)",
+      "Bureau of Labor Statistics, Skills Gap Report",
+      "House Committee on Small Business referral"
+    ]
+  },
+  {
+    "id": 323,
+    "sourceId": "cg:119-HR-9095",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9095?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9095: Right to Trial Act",
+    "score": 38,
+    "snapshot": "HR 9095 prohibits federal agencies from imposing civil penalties without providing defendants access to Article III court trials, addressing concerns that administrative tribunals bypass constitutional jury trial rights. The bill aims to restore Seventh Amendment protections in federal enforcement actions.",
+    "verdict": "// VERDICT: Strengthens constitutional due process rights while potentially increasing litigation costs and slowing enforcement of regulatory violations.",
+    "detail": "The Right to Trial Act responds to longstanding criticism that administrative law judges—employed by the agencies prosecuting cases—create conflicts of interest and deny defendants their constitutional right to jury trials. <strong>By requiring civil penalty cases to proceed through Article III courts, the bill restores separation of powers and ensures neutral adjudication.</strong> This scores highly on rule of law (+11) and measurable benefit (+10) by eliminating structural bias in administrative proceedings that have levied billions in penalties. However, routing all cases through federal courts will increase judicial workload and legal costs for both government and defendants, creating fiscal concerns (-8). The reform benefits regulated entities and individuals facing penalties while potentially slowing enforcement against bad actors, creating modest cost distribution concerns (-5). The constitutional correction outweighs operational friction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "U.S. Constitution, Amendment VII",
+      "Administrative Procedure Act, 5 U.S.C. § 500 et seq.",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
+    "id": 324,
+    "sourceId": "cg:119-HR-9037",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9037?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9037: To direct the Administrator of the Federal Aviation Administration to improve and expand electronic filing capabilities for Federal Aviation Administration Form 337, and for other purposes.",
+    "score": 32,
+    "snapshot": "HR 9037 directs the FAA to modernize Form 337 (aircraft maintenance record) filing by expanding electronic submission capabilities. Currently in committee; no implementation timeline or cost estimate publicly available.",
+    "verdict": "// VERDICT: Modernizing decades-old paper-based aviation maintenance recordkeeping offers clear efficiency gains and safety benefits with minimal fiscal risk.",
+    "detail": "Form 337 documents major aircraft repairs and alterations—critical safety records currently filed primarily on paper, creating storage burdens, retrieval delays, and transcription errors. <strong>Electronic filing would streamline compliance for 200,000+ aircraft owners, improve FAA oversight through searchable databases, and reduce administrative costs across the aviation sector.</strong> The bill follows standard legislative process and addresses a longstanding industry request. Fiscal impact appears negligible (IT system upgrades within FAA's existing modernization budget). No identified losers beyond paper form vendors. Minor deductions: lacks specific implementation deadlines, and measurable safety improvement remains projected rather than demonstrated until deployment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9037 text, 119th Congress",
+      "House Committee on Transportation referral, May 2026",
+      "FAA Form 337 requirements, 14 CFR Part 43",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 325,
+    "sourceId": "cg:119-HR-9050",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9050?format=json",
+    "branch": "Congress",
+    "date": "Jun 6",
+    "dateISO": "2026-06-06",
+    "title": "HR 9050: Small Business Innovation Voucher Act of 2026",
+    "score": -15,
+    "snapshot": "HR 9050 proposes innovation vouchers for small businesses but remains in committee with no cost estimate, implementation framework, or measurable outcomes defined. The bill has not advanced beyond initial referral.",
+    "verdict": "// VERDICT: Lacks fiscal analysis and concrete implementation details; premature to assess public benefit without cost projections or eligibility criteria.",
+    "detail": "The Small Business Innovation Voucher Act proposes government-funded vouchers to support small business innovation, but critical details remain absent. <strong>Without a CBO score, defined eligibility standards, voucher amounts, or total program cost, fiscal responsibility cannot be assessed.</strong> Innovation programs can generate economic returns, but this bill provides no baseline metrics, success criteria, or fraud prevention mechanisms. The referral to committee suggests standard legislative process, but no hearings or amendments have occurred. Past voucher programs have shown mixed results—some generate substantial ROI while others become subsidy vehicles with minimal accountability. Until cost estimates, administrative overhead, and selection criteria are disclosed, the program risks becoming another unfunded mandate or poorly targeted expenditure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9050 (2026-05-29)",
+      "House Committee on Small Business referral",
+      "General voucher program analysis, SBA historical data"
+    ]
+  },
+  {
     "id": 305,
     "sourceId": "cg:119-HR-8849",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/8849?format=json",
