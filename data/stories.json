@@ -1,5 +1,411 @@
 [
   {
+    "id": 326,
+    "sourceId": "cg:119-S-445",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/445?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "S 445: Carried Interest Fairness Act of 2025",
+    "score": 28,
+    "snapshot": "S.445 would tax carried interest (the profit share earned by private equity and hedge fund managers) as ordinary income rather than capital gains, closing a longstanding tax preference. The bill remains in committee with no enacted fiscal impact as of June 2026.",
+    "verdict": "// VERDICT: Closing the carried interest loophole would generate billions in revenue from high earners while eliminating a tax preference lacking economic justification, though the bill has not advanced beyond committee referral.",
+    "detail": "The Carried Interest Fairness Act addresses a tax treatment that allows investment fund managers to pay capital gains rates (typically 20%) on performance fees rather than ordinary income rates (up to 37%). <strong>The Joint Committee on Taxation has estimated similar proposals would raise $14-18 billion over ten years, revenue that comes entirely from high-income earners who benefit from this preferential treatment.</strong> The economic argument for capital gains treatment—rewarding long-term investment risk—is weak here since fund managers are compensated for labor services, not investing their own capital at risk. The bill follows standard legislative procedure through Senate Finance Committee. However, it has not progressed in over 16 months, and no offsetting spending is proposed. The revenue would accrue to general funds, potentially reducing deficits or funding other priorities, with zero burden on middle-class taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.445, 119th Congress",
+      "Joint Committee on Taxation revenue estimates",
+      "Senate Finance Committee records",
+      "Congressional Budget Office tax expenditure analysis"
+    ]
+  },
+  {
+    "id": 327,
+    "sourceId": "cg:119-HR-9107",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9107?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "HR 9107: Patient Choice and Access Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9107 would allow healthcare providers to refuse treatment based on personal moral or religious objections without requiring referrals. The bill provides broad liability protections but lacks patient safeguards in emergency or rural settings.",
+    "verdict": "// VERDICT: Expands provider discretion at measurable cost to patient access, particularly in underserved areas, without fiscal analysis or adequate balancing mechanisms.",
+    "detail": "The Patient Choice and Access Act creates asymmetric liberty—expanding provider autonomy while constraining patient options, especially in healthcare deserts where alternatives are limited. <strong>No CBO score exists, yet the bill could impose substantial costs through delayed care, emergency interventions, and litigation over scope of refusal rights.</strong> The measure bypasses nuanced state frameworks that balance conscience protections with continuity-of-care requirements. While religious liberty merits protection, the absence of emergency care exceptions, referral obligations, or geographic access provisions shifts costs to vulnerable populations. The bill follows regular legislative process but raises constitutional questions about equal protection when refusals concentrate in specific demographics or conditions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Federal Register conscience rule precedents",
+      "AMA Journal of Ethics, healthcare refusal studies",
+      "Rural Health Research Gateway data"
+    ]
+  },
+  {
+    "id": 328,
+    "sourceId": "cg:119-HR-9109",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9109?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "HR 9109: Stop ANTIFA Act of 2026",
+    "score": -38,
+    "snapshot": "HR 9109 proposes designating 'ANTIFA' as a domestic terrorist organization with associated criminal penalties and financial sanctions. The bill has been referred to multiple committees but has not yet received hearings or analysis.",
+    "verdict": "// VERDICT: Legislation targeting a decentralized ideological movement rather than specific criminal acts raises severe constitutional concerns while offering no measurable framework for implementation or public safety improvement.",
+    "detail": "This bill attempts to criminalize association with an undefined, non-hierarchical political label rather than prosecuting specific illegal acts already covered by existing statutes. <strong>Federal law enforcement agencies, including the FBI, have repeatedly testified that 'ANTIFA' is not an organization but a movement, making the bill's legal framework fundamentally unworkable.</strong> The legislation risks criminalizing First Amendment-protected speech and assembly based on ideological labels rather than criminal conduct. Existing federal and state laws already comprehensively address violence, property destruction, and conspiracy. The bill provides no cost estimates, implementation mechanism, or criteria for designation beyond political affiliation. It bypasses established legal processes for criminal prosecution by creating a status-based offense, violating core due process principles. No comparable democracies criminalize membership in decentralized ideological movements without specific criminal acts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "FBI Congressional Testimony, 2020-2025",
+      "First Amendment case law (Brandenburg v. Ohio, 1969)",
+      "House Judiciary Committee referral"
+    ]
+  },
+  {
+    "id": 329,
+    "sourceId": "cg:119-HR-8965",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8965?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "HR 8965: SAFE for Survivors Act of 2026",
+    "score": -15,
+    "snapshot": "HR 8965, the SAFE for Survivors Act, was referred to seven House committees in May 2026 for consideration of provisions within their respective jurisdictions. No floor action, cost estimate, or implementation details are publicly available as of June 2026.",
+    "verdict": "// VERDICT: Insufficient legislative progress and absence of cost analysis prevent meaningful assessment of a multi-committee bill with broad jurisdictional scope.",
+    "detail": "The bill remains in the committee referral stage with no reported markup, hearing, or CBO score after initial introduction. <strong>The assignment to seven different committees—Education and Workforce, Financial Services, Ways and Means, Judiciary, House Administration, Oversight, and Energy Commerce—signals either comprehensive policy ambitions or potential jurisdictional complexity that could delay progress.</strong> Without bill text, sponsor statements, or fiscal analysis, evaluation against concrete benefit, cost responsibility, procedural compliance, or distributional impact is speculative. The \"SAFE for Survivors\" title suggests victim-related protections, but scope and mechanisms remain undefined. Committee referral follows standard House rules, satisfying baseline procedural requirements, though multi-committee bills historically face coordination challenges that reduce enactment probability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 330,
+    "sourceId": "cg:119-S-4632",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4632?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "S 4632: Prevent Government Shutdowns Act of 2026",
+    "score": 32,
+    "snapshot": "S.4632 would establish automatic continuing resolutions at 98% of prior year funding levels when appropriations bills fail passage, eliminating government shutdown threats. The 2% reduction incentivizes timely budget completion while maintaining essential services.",
+    "verdict": "// VERDICT: Reduces fiscal brinkmanship and operational disruptions while creating modest pressure for congressional action through targeted funding cuts.",
+    "detail": "The Prevent Government Shutdowns Act addresses a recurring dysfunction that has cost taxpayers billions in economic disruption, federal employee back pay, and administrative chaos. <strong>By defaulting to 98% funding rather than zero, it preserves continuity for Social Security, Medicare, border security, and military operations while imposing a tangible cost on congressional inaction.</strong> The 2% haircut affects all discretionary accounts equally, creating bipartisan incentive to pass full appropriations. Historical shutdowns (2013: $2-6B cost; 2018-19: $3-11B cost per CBO) demonstrate the current system's failure. The mechanism respects appropriations authority while removing the hostage-taking dynamic. Minor concerns include potential normalization of CR governance and reduced urgency for difficult budget negotiations, though the funding reduction mitigates this risk.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CBO Shutdown Cost Estimates, 2013-2019",
+      "Congressional Calendar No. 424, 119th Congress",
+      "OMB Guidance on Continuing Resolutions",
+      "GAO Report on Shutdown Impacts"
+    ]
+  },
+  {
+    "id": 331,
+    "sourceId": "cg:119-HR-9138",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9138?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "HR 9138: To require the Secretary of the Interior to transfer to the Secretary of the Navy administrative jurisdiction of certain land located on Adak Island, Alaska, and for other purposes.",
+    "score": 18,
+    "snapshot": "HR 9138 transfers administrative jurisdiction of federal land on Adak Island, Alaska from Interior to Navy. The bill addresses military readiness needs in the strategically important Aleutian Islands while involving existing federal property.",
+    "verdict": "// VERDICT: Modest positive for national security positioning with minimal fiscal impact, though public benefit depends on Navy's utilization plans not yet specified.",
+    "detail": "The legislation facilitates military use of already-federal land on Adak Island, located in the Aleutian chain approximately 1,200 miles from mainland Alaska and closer to Russia than to Anchorage. <strong>Transferring jurisdiction between federal agencies involves negligible direct costs while potentially enhancing naval operations in an increasingly contested Arctic region.</strong> The bill scores positively on fiscal responsibility since it involves no land acquisition costs and minimal administrative expense. Rule of law compliance is standard for inter-agency transfers following committee review. Cost distribution is neutral as it affects federal assets without imposing new burdens on taxpayers or local populations. The primary limitation is that measurable public benefit remains contingent on Navy's actual deployment plans and operational improvements, which are not detailed in the legislative text currently under committee consideration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9138, 119th Congress",
+      "House Committee referral records, June 2026",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 332,
+    "sourceId": "cg:114-HR-685",
+    "sourceUrl": "https://www.congress.gov/bill/114/hr/685?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "HR 685: Mortgage Choice Act of 2015",
+    "score": -18,
+    "snapshot": "HR 685 would have repealed the 2013 'Qualified Mortgage' rule requiring lenders to verify borrowers' ability to repay mortgages. The bill died in committee in 2015 and saw no further action.",
+    "verdict": "// VERDICT: Repealing ability-to-repay standards would have reintroduced pre-2008 lending risks without measurable consumer benefit.",
+    "detail": "The Mortgage Choice Act sought to eliminate the Qualified Mortgage rule established under Dodd-Frank, which requires lenders to document income, assets, and debt before issuing mortgages. <strong>Proponents argued the rule restricted credit access, but the bill provided no replacement consumer protections or verification standards.</strong> The 2008 financial crisis was precipitated largely by no-doc and low-doc loans issued without ability-to-repay verification, costing taxpayers over $500 billion in bailouts and millions of Americans their homes. While QM rules may impose compliance costs on lenders, documented mortgage default rates declined significantly post-2013. The bill followed proper legislative process but died in committee, suggesting bipartisan recognition of the risks. Removing borrower protections without alternative safeguards would have disproportionately harmed low-income families most vulnerable to predatory lending.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Hrg. 114-49 (Senate Banking Committee, 2015)",
+      "Dodd-Frank Act § 1411, 12 U.S.C. § 5301",
+      "Federal Reserve QM Rule Analysis",
+      "Congressional Budget Office financial crisis costs"
+    ]
+  },
+  {
+    "id": 333,
+    "sourceId": "cg:119-HR-9111",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9111?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "HR 9111: Stopping Abusive Student Loan Collection Practices in Bankruptcy Act of 2026",
+    "score": 28,
+    "snapshot": "HR 9111 would restore pre-2005 bankruptcy discharge rules for federal student loans, allowing borrowers to discharge these debts under standard bankruptcy proceedings rather than requiring 'undue hardship' proof. The bill addresses the approximately 43 million federal student loan borrowers, particularly targeting collection practices that persist through bankruptcy.",
+    "verdict": "// VERDICT: Restoring standard bankruptcy protections for student loans corrects a procedural anomaly while providing measurable relief to financially distressed borrowers, though fiscal impact on federal loan programs requires careful monitoring.",
+    "detail": "The bill would repeal the 'undue hardship' standard that uniquely applies to student loans in bankruptcy, treating them like most other unsecured consumer debt. <strong>This addresses a longstanding legal asymmetry where student debt became nearly impossible to discharge even in genuine financial catastrophe, unlike credit card debt or medical bills.</strong> Measurable benefit includes potential relief for bankrupt borrowers (approximately 400,000-500,000 consumer bankruptcies filed annually) and reduced collection costs. Fiscal responsibility concerns are moderate: federal loans discharged in bankruptcy represent losses, but these borrowers were already in default with low recovery rates. The rule of law score is high as this corrects a 2005 bankruptcy reform criticized for procedural unfairness. Cost distribution improves as current system perpetuates debt collection from those least able to pay while subsidizing for-profit collection industries.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Bankruptcy Abuse Prevention and Consumer Protection Act of 2005",
+      "Department of Education Federal Student Aid Data",
+      "Administrative Office of the U.S. Courts Bankruptcy Statistics"
+    ]
+  },
+  {
+    "id": 334,
+    "sourceId": "cg:119-HR-9088",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9088?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "HR 9088: Polar Express Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9088 proposes federal subsidies for a high-speed rail line connecting Alaska to the continental U.S. through Canada. No cost-benefit analysis, environmental impact study, or feasibility assessment has been completed at referral stage.",
+    "verdict": "// VERDICT: An aspirational infrastructure proposal lacking basic fiscal analysis, engineering feasibility studies, or demonstrated demand justification before requesting taxpayer commitment.",
+    "detail": "The Polar Express Act seeks to fund a rail connection through some of the world's most challenging terrain without establishing projected ridership, construction costs, or operational sustainability. <strong>While improved Alaska connectivity has merit, the absence of preliminary engineering studies or economic models before legislative introduction suggests inadequate due diligence.</strong> The proposal fails to address international coordination requirements with Canada, permafrost construction challenges, or comparison with existing air and marine freight alternatives. Without baseline feasibility data, Congress cannot responsibly evaluate whether this represents sound investment of federal resources. The bill's referral to committee without supporting documentation indicates premature advancement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee on Transportation and Infrastructure referral",
+      "HR 9088 bill text"
+    ]
+  },
+  {
+    "id": 335,
+    "sourceId": "cg:119-HR-9093",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9093?format=json",
+    "branch": "Congress",
+    "date": "Jun 8",
+    "dateISO": "2026-06-08",
+    "title": "HR 9093: BRIDGE Act",
+    "score": -18,
+    "snapshot": "HR 9093 (BRIDGE Act) was introduced in the House on June 2, 2026, and referred to the House Committee on Foreign Affairs. No substantive legislative action, hearing, or vote has occurred as of June 8, 2026.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess measurable impact; bill remains in committee without public hearings, cost estimates, or implementation framework.",
+    "detail": "The BRIDGE Act exists only as a referred bill with no committee markup, public testimony, CBO score, or floor consideration. <strong>Without substantive content, procedural advancement, or fiscal analysis, any assessment of public benefit, cost-effectiveness, or distributional impact remains purely speculative.</strong> The legislative process is functioning normally—committee referral is standard procedure—but the absence of hearings or amendments means stakeholders, agencies, and the public have not weighed in. The bill's title suggests foreign affairs focus, but specific provisions, appropriations, and implementation mechanisms are unavailable in the public record. Scoring reflects the reality that early-stage legislative proposals cannot demonstrate measurable outcomes, fiscal discipline, or concrete benefits until they advance through deliberative processes that generate data, testimony, and independent analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2, 2026",
+      "House Committee on Foreign Affairs referral records",
+      "Congress.gov bill tracking system"
+    ]
+  },
+  {
     "id": 315,
     "sourceId": "cl:11339285",
     "sourceUrl": "https://www.courtlistener.com/opinion/10871818/clark-v-mississippi/",
