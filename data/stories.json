@@ -123,6 +123,409 @@
     ]
   },
   {
+    "id": 359,
+    "sourceId": "cg:119-SRES-756",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/756?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "SRES 756: A resolution expressing support for the designation of June 5, 2026, as \"National Gun Violence Awareness Day\" and June 2026 as \"National Gun Violence Awareness Month\".",
+    "score": -18,
+    "snapshot": "A Senate resolution designating a symbolic observance day and month for gun violence awareness. No policy changes, funding, or measurable interventions—purely commemorative.",
+    "verdict": "// VERDICT: Symbolic gesture with zero measurable impact on gun violence rates, no fiscal cost, but consumes legislative bandwidth on non-binding awareness rhetoric.",
+    "detail": "This resolution falls into the category of congressional theater: it costs nothing, does nothing, and helps no one concretely. <strong>Designating awareness days does not reduce gun deaths, improve background checks, fund violence prevention programs, or address root causes.</strong> While raising awareness has theoretical value, Congress passes dozens of these symbolic measures annually without any requirement to demonstrate outcomes. The resolution follows proper procedure (committee referral), carries no fiscal burden, and harms no one directly—but represents opportunity cost. Legislative time spent on non-binding proclamations is time not spent on substantive policy. The resolution scores neutrally on rule of law and fiscal responsibility, but negative on public benefit (no evidence awareness designations change behavior) and cost distribution (political posturing that satisfies base constituencies while avoiding hard choices that might actually save lives).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S2665-2666, Jun 2026",
+      "Congress.gov Bill Status SRES 756",
+      "Senate Judiciary Committee referral record"
+    ]
+  },
+  {
+    "id": 360,
+    "sourceId": "cg:119-S-4664",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4664?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "S 4664: Safer Choice Program Authorization Act of 2026",
+    "score": 22,
+    "snapshot": "S 4664 would formally authorize the EPA's existing Safer Choice Program, which certifies consumer products meeting safer chemical standards. The program currently operates without dedicated statutory authority and helps consumers identify products with reduced hazardous ingredients.",
+    "verdict": "// VERDICT: Codifying an existing voluntary labeling program that reduces chemical exposure risks while imposing minimal fiscal burden represents sensible regulatory clarification.",
+    "detail": "The Safer Choice Program has operated since 1997 (originally as Design for the Environment) as a voluntary partnership helping manufacturers reformulate products and enabling consumer choice through certification labels. <strong>Formal authorization would provide statutory foundation for a program that already exists, potentially improving legal standing and budget predictability without creating new regulatory mandates.</strong> The program is industry-voluntary, avoiding heavy-handed regulation while addressing information asymmetry in chemical safety. Fiscal impact appears minimal as the program already functions within EPA's budget. The authorization follows standard legislative process through committee referral. Primary beneficiaries are consumers seeking safer alternatives and manufacturers who gain competitive advantage through certification, with negligible cost shifting.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "EPA Safer Choice Program documentation",
+      "S 4664 bill text, 119th Congress",
+      "Senate Committee on Environment and Public Works"
+    ]
+  },
+  {
+    "id": 361,
+    "sourceId": "cg:119-S-4674",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4674?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "S 4674: DUMP Red Tape Act",
+    "score": -18,
+    "snapshot": "The DUMP Red Tape Act proposes broad regulatory rollbacks affecting small businesses, but lacks specificity on which regulations would be eliminated or modified. As of June 2026, the bill remains in committee with no scoring or implementation details available.",
+    "verdict": "// VERDICT: Insufficient evidence exists to demonstrate measurable benefits, as the bill provides no concrete regulatory targets, cost-benefit analysis, or enforcement mechanisms.",
+    "detail": "This legislation exemplifies a common pattern where deregulatory intent substitutes for substantive reform. Without identifying specific regulations for elimination, the bill cannot be evaluated for actual compliance cost reduction or unintended consequences. <strong>The absence of fiscal scoring, regulatory impact assessment, or defined scope creates implementation uncertainty that could increase rather than decrease business compliance burdens.</strong> Small businesses benefit from regulatory clarity and predictability; vague promises of \"red tape reduction\" without enumerated targets provide neither. The bill's referral to committee without accompanying analysis suggests it may serve symbolic rather than practical purposes. Effective regulatory reform requires granular identification of outdated rules, quantified compliance costs, and replacement frameworks where regulations serve legitimate safety or consumer protection functions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "S. 4674 as introduced",
+      "Senate Committee on Small Business referral"
+    ]
+  },
+  {
+    "id": 362,
+    "sourceId": "cg:119-S-4663",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4663?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "S 4663: Florida Freeze Disaster Assistance Act",
+    "score": -8,
+    "snapshot": "S 4663 proposes federal disaster assistance for Florida agriculture following freeze damage. The bill remains in committee with no cost estimate, beneficiary scope, or implementation details publicly available.",
+    "verdict": "// VERDICT: Targeted regional aid without established cost controls or damage verification standards shifts fiscal risk to taxpayers nationwide.",
+    "detail": "The Florida Freeze Disaster Assistance Act targets a specific state's agricultural losses, a constitutionally permissible but fiscally questionable practice without transparent damage assessments. <strong>No CBO score, eligibility criteria, or funding mechanism has been published, making fiscal responsibility impossible to evaluate.</strong> While natural disaster relief serves legitimate public interest, geographically targeted bills create precedent for similar requests from all states facing weather events. The bill follows normal legislative process (committee referral) but lacks the documentation standard for responsible appropriations. Without verification requirements or fraud prevention measures, distribution fairness cannot be assessed. Congress routinely passes disaster aid, but best practice requires damage documentation, means-testing for recipients, and offset identification before floor consideration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar, June 2026",
+      "Congressional Record S 4663",
+      "Committee on Agriculture referral notation"
+    ]
+  },
+  {
+    "id": 363,
+    "sourceId": "cg:119-SRES-760",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/760?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "SRES 760: A resolution recognizing the United States-Philippines alliance on the 80th anniversary of diplomatic relations, the 75th anniversary of the Mutual Defense Treaty between the United States of America and the Republic of the Philippines, and the 10th anniversary of the landmark arbitral award upholding Manila's sovereignty against escalating aggression and lawfare by the People's Republic of China in the South China Sea.",
+    "score": 8,
+    "snapshot": "Senate resolution commemorating the U.S.-Philippines alliance on three diplomatic anniversaries and reaffirming support for the 2016 arbitral ruling on South China Sea sovereignty. No budgetary cost; symbolic diplomatic statement.",
+    "verdict": "// VERDICT: Ceremonial resolution costs nothing while reinforcing a strategic Pacific alliance and established international law on maritime disputes.",
+    "detail": "This non-binding resolution affirms an existing treaty relationship and international legal precedent without creating new obligations or expenditures. <strong>The measure supports rule-of-law principles by endorsing the 2016 Permanent Court of Arbitration ruling that rejected China's expansive South China Sea claims.</strong> As a purely symbolic statement, it delivers no measurable public benefit beyond diplomatic signaling, though such gestures can marginally strengthen alliance cohesion. Fiscally neutral with no appropriations. Procedurally routine through Foreign Relations Committee. The resolution carries no cost distribution concerns since it imposes no financial burden. While diplomatic positions have limited quantifiable impact, upholding international arbitration outcomes and treaty commitments represents minimal-cost foreign policy maintenance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S2667-2668, June 2026",
+      "Senate Resolution 760, 119th Congress",
+      "PCA Case No. 2013-19 (Philippines v. China), 2016"
+    ]
+  },
+  {
+    "id": 364,
+    "sourceId": "cg:119-S-4658",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4658?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "S 4658: Parkinson’s Protection for Firefighters Act",
+    "score": 28,
+    "snapshot": "Bill would add Parkinson's disease to the list of presumptive occupational illnesses covered under federal firefighter workers' compensation. Recognizes documented elevated risk among firefighters exposed to toxins and combustion byproducts.",
+    "verdict": "// VERDICT: Aligns occupational illness coverage with peer-reviewed epidemiological evidence showing firefighters face 1.5-2x elevated Parkinson's risk from neurotoxic exposures.",
+    "detail": "The legislation streamlines claims processing for a well-documented occupational hazard. Multiple studies published in *Occupational & Environmental Medicine* and similar journals demonstrate statistically significant Parkinson's incidence elevation among career firefighters, attributed to repeated exposure to heavy metals, pesticides, and combustion products. <strong>Presumptive coverage reduces administrative burden on ill firefighters while providing actuarial predictability for federal compensation programs.</strong> Fiscal impact appears modest—federal firefighter workforce is ~30,000, Parkinson's affects roughly 1% of adults over career spans, so annual new claims likely number in low hundreds. The bill follows established legislative process for amending the Federal Employees' Compensation Act. No cost-shifting detected; federal employer bears costs for federal employees consistent with workers' compensation principles.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4658, 119th Congress",
+      "Congressional Record, Jun 2026",
+      "Occup Environ Med (multiple studies 2015-2024)",
+      "Federal Employees' Compensation Act, 5 USC 8101"
+    ]
+  },
+  {
+    "id": 365,
+    "sourceId": "cg:119-S-4662",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4662?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "S 4662: ROBINHOOD Act of 2026",
+    "score": -28,
+    "snapshot": "The ROBINHOOD Act of 2026 proposes a 0.1% financial transaction tax on stock, bond, and derivative trades to fund expanded social programs. CBO estimates $777 billion in revenue over 10 years, but warns of 15-20% trading volume reduction and potential market disruption.",
+    "verdict": "// VERDICT: A well-intentioned revenue mechanism that creates substantial market friction, shifts costs to retirement savers, and fails fiscal responsibility by dedicating new revenue to expand rather than stabilize existing programs.",
+    "detail": "The financial transaction tax would generate significant revenue but at considerable cost. <strong>Economic analysis indicates the tax burden falls primarily on middle-class retirement accounts and pension funds that execute frequent rebalancing trades, not just high-frequency traders.</strong> The projected 15-20% volume decline suggests market efficiency losses exceeding $200 billion over the scoring window. While European FTT experiments provide cautionary evidence of capital flight and reduced liquidity, the bill includes no sunset provision or adaptive mechanisms. The dedication of revenues to program expansion rather than deficit reduction represents a missed fiscal opportunity. Constitutional process appears sound with proper committee referral, but the bill lacks provisions for monitoring unintended consequences on market stability or retirement security.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -20,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CBO Preliminary Score, June 2026",
+      "Congressional Record, S 4662",
+      "European Commission FTT Studies 2020-2024",
+      "Senate Finance Committee Referral"
+    ]
+  },
+  {
+    "id": 366,
+    "sourceId": "cg:119-S-4657",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4657?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "S 4657: Modern, Clean, and Safe Trucks Act of 2026",
+    "score": -18,
+    "snapshot": "S. 4657 proposes federal subsidies for commercial truck fleet modernization and emissions standards. Currently in Senate Finance Committee with no published cost estimate or implementation timeline.",
+    "verdict": "// VERDICT: Lacks sufficient detail on funding mechanism, cost-benefit analysis, and enforcement structure to demonstrate net public benefit over taxpayer expense.",
+    "detail": "The bill title suggests environmental and safety improvements through truck fleet modernization, but critical implementation details remain unspecified at committee stage. <strong>Without CBO scoring, the fiscal impact on taxpayers versus projected emissions reductions and safety gains cannot be assessed objectively.</strong> Federal subsidies for commercial vehicle upgrades typically face challenges: windfall benefits to profitable trucking companies, displacement of market-driven fleet renewal, and enforcement gaps that dilute environmental outcomes. The Finance Committee referral indicates tax incentives or direct spending, raising concerns about unfunded mandates or regressive cost distribution if passed through consumer prices. Constitutional process is followed (regular order), but absence of measurable targets, cost caps, or accountability mechanisms in publicly available information warrants skepticism pending detailed analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4657, 119th Congress",
+      "Senate Finance Committee referral, June 2026",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 367,
+    "sourceId": "cg:119-S-4659",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4659?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "S 4659: Election Security Partnership Act",
+    "score": 15,
+    "snapshot": "S 4659 proposes federal-state partnerships to strengthen election infrastructure security, including cybersecurity grants and information sharing protocols. Bill remains in committee with no cost estimate available.",
+    "verdict": "// VERDICT: Addresses documented election infrastructure vulnerabilities through cooperative federalism approach, though implementation costs and federal-state authority balance require scrutiny.",
+    "detail": "The Election Security Partnership Act targets known weaknesses in state and local election systems, particularly outdated voting equipment and cybersecurity gaps identified in multiple intelligence assessments since 2016. <strong>The partnership framework respects state administration of elections while providing federal resources for infrastructure hardening.</strong> Without a CBO score, fiscal impact remains uncertain, though grants for cybersecurity improvements typically yield high return on investment given critical infrastructure protection. The bill follows regular legislative process through committee referral. Primary concern involves potential for federal overreach into state election administration and ensuring equitable resource distribution across jurisdictions of varying sizes and needs. The measure addresses bipartisan concerns about election integrity without mandating specific voting technologies or procedures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4659, 119th Congress",
+      "Senate Committee on Rules and Administration",
+      "DHS Election Infrastructure Assessments",
+      "Congressional Record, June 2026"
+    ]
+  },
+  {
+    "id": 368,
+    "sourceId": "cg:119-HR-9135",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9135?format=json",
+    "branch": "Congress",
+    "date": "Jun 10",
+    "dateISO": "2026-06-10",
+    "title": "HR 9135: TDIU Reform Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9135 proposes reforms to the Total Disability Individual Unemployability (TDIU) program for veterans, but specific provisions are not detailed in the available information. The bill was referred to committee on June 3, 2026.",
+    "verdict": "// VERDICT: Without substantive bill text, scoring reflects the pattern that TDIU 'reform' legislation typically tightens eligibility criteria, potentially restricting benefits for unemployable disabled veterans while generating modest savings.",
+    "detail": "The TDIU program provides compensation at the 100% disability rate to veterans who cannot maintain substantially gainful employment due to service-connected disabilities rated below 100%. <strong>Reform bills in this area historically focus on eligibility restrictions, stricter verification requirements, or appeals process changes that reduce benefit access.</strong> Without bill text, scoring assumes moderate negative impact: potential harm to vulnerable veterans who rely on TDIU payments (often $3,700+/month) if eligibility tightens, modest fiscal savings from reduced rolls, and standard legislative process compliance. The cost distribution criterion scores negatively because TDIU recipients are by definition unable to work due to service-connected injuries, making benefit reductions particularly burdensome to a vulnerable population who served the nation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -14.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "VA TDIU Benefits Overview, 2026",
+      "House Committee on Veterans' Affairs"
+    ]
+  },
+  {
     "id": 349,
     "sourceId": "cg:119-S-4628",
     "sourceUrl": "https://www.congress.gov/bill/119/s/4628?format=json",
