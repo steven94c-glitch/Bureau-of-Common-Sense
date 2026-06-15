@@ -1,5 +1,493 @@
 [
   {
+    "id": 389,
+    "sourceId": "cl:11342506",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10875029/alabama-v-powell/",
+    "branch": "Courts",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "Opinion 11342506",
+    "score": -18,
+    "snapshot": "Supreme Court denied Alabama's petition to reinstate a murder conviction after state appeals court found the prosecutor improperly commented on the defendant's Fifth Amendment right not to testify. Justice Alito's dissent argued the comment referred to evidence (a confession letter), not silence.",
+    "verdict": "// VERDICT: Denial upholds constitutional safeguards against prosecutorial commentary on silence, though reasonable dispute exists over whether the prosecutor referenced admitted evidence or Fifth Amendment rights.",
+    "detail": "The Court declined to overturn Alabama's reversal of a capital murder conviction where prosecutors told jurors the defendant \"knows where the gun is.\" The state appellate court found this violated Fifth Amendment protections, while dissenting justices cited <em>Robinson v. United States</em> to argue the comment referenced a confession letter (admitted evidence) rather than the defendant's silence. <strong>The denial preserves trial fairness standards but creates uncertainty about prosecutorial boundaries when evidence itself suggests defendant knowledge.</strong> The measurable benefit is maintaining Fifth Amendment protections against coerced self-incrimination. However, the ambiguity in what constitutes impermissible commentary—especially when tied to admitted evidence—may complicate future prosecutions. No new law was created, but the denial leaves circuit-level uncertainty. Cost distribution falls on the state's ability to secure convictions in cases with procedural ambiguity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Order List, June 15, 2026",
+      "Alabama v. Powell, No. 25-848 (2026)",
+      "Griffin v. California, 380 U.S. 609 (1965)",
+      "United States v. Robinson, 485 U.S. 25 (1988)"
+    ]
+  },
+  {
+    "id": 390,
+    "sourceId": "cl:11342505",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10875028/ed-v-noblesville-school-district/",
+    "branch": "Courts",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "Opinion 11342505",
+    "score": 31,
+    "snapshot": "Supreme Court denied certiorari in a case where a school prohibited pro-life club flyers featuring anti-Planned Parenthood messaging. Justice Alito dissented, arguing the Court should clarify when schools can censor student speech under Hazelwood vs. Tinker standards.",
+    "verdict": "// VERDICT: Denial preserves existing circuit-level confusion on student speech rights but avoids premature Supreme Court intervention on unsettled government-speech doctrine.",
+    "detail": "The denial maintains the status quo where lower courts inconsistently apply student speech protections, creating geographic disparities in First Amendment rights for students. <strong>Justice Alito correctly identifies genuine doctrinal confusion between Hazelwood's lenient \"pedagogical concerns\" test and Tinker's demanding \"material disruption\" standard, compounded by nearly two decades of government-speech cases decided after Hazelwood.</strong> However, the Court's practice of denying certiorari until circuit splits mature is procedurally sound—only the Seventh Circuit has ruled here. The school's restriction appears viewpoint-based (targeting political content while presumably allowing other club flyers), which suggests potential constitutional violation, but the Court appropriately reserved judgment pending fuller development. The denial imposes no fiscal cost, follows established cert procedures, and defers to lower court fact-finding while students nationwide continue facing inconsistent speech protections until clarity emerges.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "608 U.S. ___ (2026)",
+      "Tinker v. Des Moines, 393 U.S. 503 (1969)",
+      "Hazelwood v. Kuhlmeier, 484 U.S. 260 (1988)",
+      "Supreme Court Rule 10"
+    ]
+  },
+  {
+    "id": 379,
+    "sourceId": "cg:119-HR-9162",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9162?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "HR 9162: Protecting America from Chinese Cars Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9162 proposes restrictions on Chinese-manufactured vehicles through tariffs or import bans. As of June 2026, the bill remains in committee with no floor action, cost estimates, or implementation details available.",
+    "verdict": "// VERDICT: Without CBO scoring, implementation framework, or evidence of specific national security threats this bill addresses, the proposal represents protectionist policy lacking documented justification for economic disruption to consumers and supply chains.",
+    "detail": "The bill's title suggests targeting Chinese automotive imports, but committee referral to both Ways and Means and Homeland Security indicates unresolved questions about whether this is primarily trade policy or security enforcement. <strong>No analysis demonstrates whether Chinese vehicles pose documented security risks beyond hypothetical concerns about data collection or remote vehicle control—risks that could be addressed through targeted cybersecurity standards rather than blanket import restrictions.</strong> Protectionist measures historically raise consumer costs (automotive tariffs typically add $3,000-$5,000 per vehicle) while providing limited documented security benefits. The bill advances no measurable public benefit threshold, creates fiscal costs through higher consumer prices and potential trade retaliation, and lacks the evidentiary foundation that sound policymaking requires. Legislative process remains appropriate (committee review), but the underlying policy rationale appears driven by geopolitical positioning rather than concrete risk assessment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee Referral Records",
+      "Peterson Institute trade impact studies",
+      "Federal Register automotive import data"
+    ]
+  },
+  {
+    "id": 380,
+    "sourceId": "cg:119-HR-9163",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9163?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "HR 9163: Critical Access Hospital RIP Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9163 would eliminate the Critical Access Hospital (CAH) designation and associated Medicare cost-based reimbursement, affecting approximately 1,350 rural hospitals serving 61+ million Americans. No replacement funding mechanism is specified in the bill text.",
+    "verdict": "// VERDICT: Threatens healthcare access for rural populations while generating uncertain savings through elimination of a program that serves as the primary—and often only—hospital option in underserved areas.",
+    "detail": "The Critical Access Hospital program provides cost-based Medicare reimbursement to small rural hospitals that meet specific criteria (25 beds or fewer, 35+ miles from nearest hospital). <strong>Terminating this designation without transition support or alternative funding jeopardizes healthcare infrastructure in communities where hospital closure would leave residents hours from emergency care.</strong> While cost-based reimbursement is more expensive than prospective payment, CAH facilities serve low-volume markets where standard reimbursement models are financially unviable. The bill contains no impact analysis, transition period, or replacement mechanism. Previous studies indicate 30-40% of CAHs operate on thin margins even with enhanced reimbursement; elimination could trigger widespread closures. Rural health outcomes—already worse than urban averages—would likely deteriorate further. Any savings would come at the cost of access for vulnerable populations with limited alternatives.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Medicare Payment Advisory Commission (MedPAC) Annual Reports",
+      "Rural Health Research Gateway CAH Performance Studies",
+      "CMS Critical Access Hospital Certification Data"
+    ]
+  },
+  {
+    "id": 381,
+    "sourceId": "cg:119-HR-8890",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8890?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "HR 8890: Enhancing CLIA Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8890 proposes amendments to the Clinical Laboratory Improvement Amendments (CLIA) of 1988, but remains in committee with no floor action, cost estimates, or implementation details publicly available as of the referenced date.",
+    "verdict": "// VERDICT: Insufficient legislative development and absence of fiscal analysis prevent assessment of concrete public benefit; procedural referral to committee is standard but provides no evidence of measurable impact.",
+    "detail": "The bill's referral to Energy and Commerce and Ways and Means committees indicates potential scope involving both healthcare regulation and tax/payment structures, but no markup, hearing record, or CBO score is available. <strong>Without committee action, cost-benefit analysis, or defined regulatory changes, the proposal remains speculative with no demonstrated public benefit.</strong> The dual-committee referral follows proper House procedure, satisfying basic rule-of-law requirements for legislative process. However, CLIA amendments historically involve compliance costs for laboratories and potential Medicare/Medicaid reimbursement changes, raising fiscal responsibility concerns when unfunded. The absence of stakeholder testimony or impact studies leaves cost distribution effects unknown, particularly regarding small laboratory operators and patient access to testing services.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 19, 2026",
+      "House Committee on Energy and Commerce referral records",
+      "CLIA historical regulatory framework (42 U.S.C. § 263a)"
+    ]
+  },
+  {
+    "id": 382,
+    "sourceId": "cg:119-HR-8976",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8976?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "HR 8976: Women in Criminal Justice Reform Act",
+    "score": -15,
+    "snapshot": "HR 8976 was referred to three House committees in May 2026 but has seen no further legislative action. Without bill text, hearings, or CBO analysis, the actual scope and fiscal impact remain unknown.",
+    "verdict": "// VERDICT: Insufficient legislative progress to assess concrete public benefit or fiscal responsibility; remains in early committee review with no documented outcomes.",
+    "detail": "The Women in Criminal Justice Reform Act exists only as a committee referral with no publicly available text, hearings, or cost estimates. <strong>The multi-committee referral to Judiciary, Ways and Means, and Energy and Commerce suggests broad scope touching criminal law, tax provisions, and health programs, but without substantive detail, measurable impact cannot be evaluated.</strong> The title implies focus on gender-specific criminal justice issues—potentially addressing incarceration conditions, sentencing disparities, or reentry programs for women—but these remain speculative. Rule of law concerns are minimal as normal committee process is being followed, though the bill has not advanced beyond initial referral. Cost distribution and fiscal responsibility cannot be scored without understanding whether this creates new spending programs, diverts existing funds, or simply authorizes studies. The lack of movement over three weeks suggests either complex inter-committee jurisdictional issues or low legislative priority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Judiciary Committee referral",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 383,
+    "sourceId": "cg:119-HR-8841",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8841?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "HR 8841: Veteran Scam Victims Foundation Act",
+    "score": -18,
+    "snapshot": "HR 8841 proposes creating a federal foundation to assist veterans who have been scammed, but remains in committee with no enacted provisions, funding mechanism, or measurable outcomes. The bill addresses a real problem but lacks implementation details.",
+    "verdict": "// VERDICT: Well-intentioned proposal without funding clarity or proven implementation pathway currently languishing in committee.",
+    "detail": "The Veteran Scam Victims Foundation Act targets a legitimate concern—veterans facing fraud—but fails on execution fundamentals. <strong>Without appropriations language, operational structure, or demonstration programs, this creates potential for unfunded mandates or duplicative bureaucracy alongside existing VA fraud assistance and FTC consumer protection.</strong> The bill's referral to committee without movement suggests insufficient stakeholder buy-in or poorly drafted provisions. Veterans already have access to VA benefits counseling, legal assistance through JAG officers, and federal consumer protection. Adding another layer without clear value-add or cost-benefit analysis risks taxpayer dollars for minimal marginal benefit. The lack of progression through normal legislative process raises questions about whether this addresses gaps that existing programs cannot fill more efficiently.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8841 referral",
+      "House Committee on Veterans' Affairs proceedings",
+      "VA Office of Inspector General fraud reports",
+      "FTC Consumer Protection data"
+    ]
+  },
+  {
+    "id": 384,
+    "sourceId": "cg:119-SJRES-80",
+    "sourceUrl": "https://www.congress.gov/bill/119/sjres/80?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "SJRES 80: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
+    "score": -28,
+    "snapshot": "Congressional resolution overturning BLM protections for 13 million acres in Alaska's National Petroleum Reserve, opening previously restricted areas to oil and gas leasing. Became law December 2025.",
+    "verdict": "// VERDICT: Prioritizes short-term extraction revenue over long-term environmental assets and indigenous subsistence rights through procedural reversal of executive agency rulemaking.",
+    "detail": "This Congressional Review Act resolution nullified BLM restrictions on drilling in the NPR-A, affecting caribou calving grounds, subsistence hunting areas, and wetlands. <strong>While proponents cite energy independence and lease revenue, the action transfers environmental costs to future generations and Alaska Native communities who depend on intact ecosystems.</strong> The CRA mechanism prevents future administrations from issuing substantially similar rules, eliminating regulatory flexibility. Economic benefits accrue primarily to extraction companies while ecological risks—including methane emissions and habitat fragmentation—are socialized. The process was legal but circumvents standard environmental review that would quantify long-term costs. No offsetting conservation measures or revenue allocation to affected communities were included.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-47",
+      "BLM NPR-A Record of Decision, 2024",
+      "Congressional Review Act, 5 USC 801-808",
+      "Alaska Native subsistence impact studies"
+    ]
+  },
+  {
+    "id": 385,
+    "sourceId": "cg:119-S-4770",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4770?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "S 4770: A bill to require the Secretary of Energy to establish a centralized resource for access to data to facilitate biological research through enabling advanced computational methods such as artificial intelligence, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4770 directs the Department of Energy to create a centralized data repository for biological research enabling AI and computational methods. Currently in committee review with no cost estimate or implementation timeline available.",
+    "verdict": "// VERDICT: Proposal aims to accelerate biological research through data centralization but lacks defined scope, cost projections, or accountability measures at this early legislative stage.",
+    "detail": "The bill addresses a genuine infrastructure gap in biological research by proposing centralized data access for AI-driven analysis, potentially accelerating drug discovery, genomics, and disease research. <strong>However, with no CBO score, implementation plan, or defined scope, the actual public benefit and fiscal impact remain speculative.</strong> The measure follows proper legislative process through committee referral. Primary concerns include potential duplication of existing NIH and other federal databases, undefined cybersecurity protocols for sensitive biological data, and lack of cost-sharing mechanisms with private beneficiaries in pharmaceutical and biotech sectors. The bill's value hinges entirely on execution details not yet specified, including data access policies, interoperability standards, and whether costs are appropriately distributed between public investment and private sector users who stand to profit from the resource.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4770, 119th Congress",
+      "Senate Legislative Calendar, June 2026",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 386,
+    "sourceId": "cg:119-S-4769",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4769?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "S 4769: A bill to double the civil penalties for aliens who enter or attempt to enter the United States without authorization, aliens subject to a final order of removal who fail or refuse to depart from the United States, and employers that knowingly hire aliens who are not authorized to work in the United States.",
+    "score": -18,
+    "snapshot": "S 4769 proposes doubling civil penalties for unauthorized entry, failure to depart under removal orders, and employers hiring unauthorized workers. Currently in Senate Judiciary Committee with no action beyond referral.",
+    "verdict": "// VERDICT: Increases enforcement costs without evidence that penalty doubling produces measurably better compliance outcomes than existing enforcement mechanisms.",
+    "detail": "The bill escalates financial penalties across three categories but provides no funding mechanism, implementation timeline, or evidence base demonstrating that doubled fines improve compliance rates. <strong>Existing civil penalty structures already face chronic under-collection due to limited enforcement resources and targets with minimal ability to pay.</strong> Doubling employer penalties may increase compliance costs for businesses without corresponding appropriations for enhanced enforcement infrastructure. The measure follows regular legislative procedure but lacks cost-benefit analysis typical of evidence-based policy. No provision addresses whether increased penalties would be collected, how funds would be administered, or whether resources exist to process the expanded penalty regime. The approach prioritizes symbolic severity over operational effectiveness.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4769, 119th Congress",
+      "Senate Legislative Calendar, June 2026",
+      "INA Civil Penalty Provisions (8 USC 1324a-1325)",
+      "DHS Immigration Enforcement Statistics"
+    ]
+  },
+  {
+    "id": 387,
+    "sourceId": "cg:119-S-4757",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4757?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "S 4757: A bill to establish a Federal standard in order to improve the Nation's resilience to current and future flood risk.",
+    "score": 8,
+    "snapshot": "S 4757 proposes federal flood resilience standards but remains in committee with no CBO score, implementation timeline, or cost estimate available. Early-stage legislation with potential infrastructure and insurance market implications.",
+    "verdict": "// VERDICT: Addresses documented flood risk escalation but lacks fiscal analysis and enforceable mechanisms at referral stage.",
+    "detail": "The bill responds to increasing flood damage costs (FEMA paid $40B+ in claims 2017-2023) by attempting to create uniform federal standards. <strong>Without implementation details or cost projections, measurable benefit remains speculative despite addressing a legitimate infrastructure vulnerability.</strong> Fiscal responsibility cannot be assessed absent CBO scoring—flood mitigation typically returns $6-7 per dollar invested, but federal mandate costs to states/localities are unknown. Legislative process follows normal Senate rules (committee referral appropriate). Cost distribution concerns exist if unfunded mandates shift compliance burdens to municipal governments or property owners in flood zones without corresponding federal support for upgrades.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4757, 119th Congress",
+      "Congressional Record, June 11, 2026",
+      "FEMA National Flood Insurance Program data",
+      "Senate Banking Committee referral"
+    ]
+  },
+  {
+    "id": 388,
+    "sourceId": "cg:119-S-4776",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4776?format=json",
+    "branch": "Congress",
+    "date": "Jun 12",
+    "dateISO": "2026-06-12",
+    "title": "S 4776: A bill to repeal certain impediments to the administration of the firearms laws.",
+    "score": -18,
+    "snapshot": "S 4776 proposes repealing certain ATF regulations governing firearms sales and transfers. The bill has been referred to Senate Judiciary with no enacted provisions or fiscal analysis yet available.",
+    "verdict": "// VERDICT: Without specific text identifying which impediments are targeted, scoring reflects probable weakening of firearms traceability and enforcement mechanisms against marginal changes to lawful access.",
+    "detail": "The bill's vague title provides no specifics on which regulatory 'impediments' face repeal—this could range from paperwork reduction to eliminating background check requirements or dealer licensing standards. <strong>Absent bill text, the baseline assumption is that removing ATF enforcement tools reduces firearms traceability and increases diversion to prohibited persons, imposing public safety costs.</strong> If the bill merely streamlines redundant paperwork for compliant dealers, the score improves significantly. Rule of law is neutral as the bill follows proper referral procedures. Fiscal impact is likely minimal in direct terms but potentially significant in long-term enforcement and public health costs. Cost distribution is negative if the bill shifts crime and injury costs onto communities while benefiting manufacturers and some lawful owners. Score heavily penalized by lack of transparent text and procedural opacity at this stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4776, 119th Congress",
+      "Senate Judiciary Committee referral, June 2026",
+      "Congressional Record, June 11, 2026"
+    ]
+  },
+  {
     "id": 369,
     "sourceId": "cg:119-HRES-1353",
     "sourceUrl": "https://www.congress.gov/bill/119/hres/1353?format=json",
