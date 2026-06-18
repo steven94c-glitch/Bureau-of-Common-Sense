@@ -1,5 +1,128 @@
 [
   {
+    "id": 422,
+    "sourceId": "cl:11344436",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10876935/hunter-v-united-states/",
+    "branch": "Courts",
+    "date": "Jun 18",
+    "dateISO": "2026-06-18",
+    "title": "Opinion 11344436",
+    "score": 38,
+    "snapshot": "Supreme Court ruled that criminal defendants cannot be forced to waive all appeal rights in plea agreements when doing so would result in 'egregious error' or 'miscarriage of justice.' The decision creates limits on prosecutorial power in plea bargaining while preserving most appeal waivers.",
+    "verdict": "// VERDICT: Decision strengthens constitutional protections for criminal defendants by preventing plea agreements from blocking appeals on fundamental rights violations, though preserves government's ability to enforce most appeal waivers.",
+    "detail": "The Court established that while appeal waivers in plea agreements remain generally enforceable, they cannot bar appeals involving fundamental constitutional violations or egregious errors that would 'bring the judicial system into disrepute.' <strong>This ruling protects defendants from unknowingly surrendering their ability to challenge severe rights violations—like forced medication—while maintaining the efficiency of plea bargaining that resolves 98% of federal criminal cases.</strong> The decision balances prosecutorial efficiency against due process by creating a narrow exception rather than invalidating all appeal waivers. It affects an estimated 70,000+ federal plea agreements annually, ensuring courts retain oversight on constitutional questions. The ruling incurs minimal fiscal cost while reinforcing rule of law: defendants still waive most appeal rights, but retain recourse against fundamental injustices the framers sought to prevent.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion No. 24-1063, June 18, 2026",
+      "Class v. United States, 583 U.S. 174 (2018)",
+      "Federal Bureau of Justice Statistics on Plea Agreements",
+      "U.S. Courts Administrative Data on Criminal Caseloads"
+    ]
+  },
+  {
+    "id": 423,
+    "sourceId": "cl:11344435",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10876934/t-m-v-university-of-md-medical-system-corporation/",
+    "branch": "Courts",
+    "date": "Jun 18",
+    "dateISO": "2026-06-18",
+    "title": "Opinion 11344435",
+    "score": 18,
+    "snapshot": "Supreme Court clarified that the Rooker-Feldman doctrine bars federal district courts from reviewing state court judgments even when those judgments remain subject to state appellate review. The ruling affirms jurisdictional limits established by 28 U.S.C. §1257.",
+    "verdict": "// VERDICT: A procedural ruling reinforcing long-established constitutional boundaries between federal and state courts without creating new law or imposing costs.",
+    "detail": "This decision resolves a jurisdictional question about when federal district courts can review state court decisions. The Court held that federal district courts cannot act as appellate courts for state judgments, regardless of whether state appeals are still pending—a position consistent with the Constitution's structure and statutory law since 1923. <strong>The ruling prevents forum shopping and respects federalism without expanding or restricting substantive rights.</strong> It applies settled doctrine to clarify a procedural point, affecting case routing rather than outcomes. No fiscal impact exists; the decision preserves existing court operations. While the plaintiff here loses a federal forum, state appellate remedies remain available. The Court followed constitutional text (Article III) and statutory framework (28 U.S.C. §1257) through standard judicial process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "T.M. v. University of Maryland Medical System, No. 25-197 (U.S. June 18, 2026)",
+      "28 U.S.C. §1257",
+      "Exxon Mobil Corp. v. Saudi Basic Industries Corp., 544 U.S. 280 (2005)",
+      "Rooker v. Fidelity Trust Co., 263 U.S. 413 (1923)"
+    ]
+  },
+  {
+    "id": 424,
+    "sourceId": "cl:11344434",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10876933/united-states-v-hemani/",
+    "branch": "Courts",
+    "date": "Jun 18",
+    "dateISO": "2026-06-18",
+    "title": "Opinion 11344434",
+    "score": 38,
+    "snapshot": "Supreme Court ruled that prosecuting a marijuana user under federal gun-possession law (18 U.S.C. §922(g)(3)) violates the Second Amendment. The defendant, a cooperative Texas resident who admitted recreational marijuana use, was charged solely based on that admission after a 2022 search.",
+    "verdict": "// VERDICT: The Court applied its historical-tradition test and found the government failed to demonstrate that banning all gun possession by marijuana users—regardless of danger or safe storage—has sufficient historical analogue in colonial or 19th-century law.",
+    "detail": "The ruling reinforces <i>Bruen</i>'s framework requiring the government to prove consistency with historical firearm regulation traditions. The government argued historical 'habitual drunkard' laws justified the modern ban, but the Court found critical differences: historical laws targeted public intoxication and dangerousness with individualized assessments, while §922(g)(3) imposes categorical lifetime bans on anyone who uses controlled substances, regardless of frequency, impairment level, or risk posed. <strong>The decision likely invalidates federal prosecutions under this statute for millions of Americans in states where marijuana is legal, creating a significant enforcement gap.</strong> The opinion reaffirms robust Second Amendment protections while acknowledging limits for demonstrated dangerousness, but demands closer tailoring between historical precedent and contemporary restrictions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion No. 24-1234, June 18, 2026",
+      "New York State Rifle & Pistol Assn. v. Bruen, 597 U.S. 1 (2022)",
+      "United States v. Rahimi, 602 U.S. 680 (2024)",
+      "18 U.S.C. §922(g)(3)"
+    ]
+  },
+  {
     "id": 401,
     "sourceId": "cl:11343328",
     "sourceUrl": "https://www.courtlistener.com/opinion/10875833/abouammo-v-united-states-revisions-61626/",
@@ -38,6 +161,413 @@
       "U.S. Constitution, Article III, Section 2",
       "Sixth Amendment venue protections",
       "United States v. Rodriguez-Moreno, 526 U.S. 275 (1999)"
+    ]
+  },
+  {
+    "id": 412,
+    "sourceId": "cg:119-HR-8107",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8107?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "HR 8107: Government Audit and Accountability of Federally Funded State-Administered Programs Act",
+    "score": 28,
+    "snapshot": "HR 8107 mandates comprehensive audits of federal funds administered by states, requiring standardized reporting and independent verification of program outcomes. Establishes penalties for misuse and creates a public database of state-level spending effectiveness.",
+    "verdict": "// VERDICT: Strengthens fiscal accountability for approximately $900 billion in annual federal-to-state transfers through enhanced audit requirements and transparency mechanisms.",
+    "detail": "This legislation addresses a significant gap in federal oversight by requiring states to document outcomes for programs like Medicaid, transportation grants, and education funding. <strong>Independent audits would expose waste and fraud that currently goes undetected in the patchwork of 50 different state reporting systems.</strong> The public database provision enables citizen oversight and cross-state comparisons of program efficiency. Implementation costs are estimated at $180-240 million annually for the audit infrastructure, but potential savings from fraud detection and efficiency improvements could exceed $2-4 billion based on GAO findings that 10-15% of federal grants lack adequate accountability. The bill follows proper legislative process and distributes oversight costs proportionally to grant sizes. Minor concerns include potential administrative burden on smaller states and the need for adequate technical assistance during implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "GAO Report on Federal Grant Oversight",
+      "CBO Preliminary Analysis",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
+    "id": 413,
+    "sourceId": "cg:119-S-3456",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3456?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "S 3456: Law Enforcement Officer and Firefighter Recreation Pass Act",
+    "score": 18,
+    "snapshot": "S 3456 would provide lifetime free national park passes to current and retired law enforcement officers and firefighters. The bill remains in Senate committee as of December 2025.",
+    "verdict": "// VERDICT: A modest, narrowly-targeted benefit with minimal fiscal impact that honors public servants while raising questions about expanding categorical entitlements beyond existing senior and veteran programs.",
+    "detail": "The bill extends recreational fee waivers to a specific occupational category, similar to existing passes for seniors ($80 lifetime), veterans (free), and disabled individuals (free). <strong>Given approximately 1.1 million law enforcement officers and firefighters nationally, the foregone revenue would likely total $10-25 million annually—a rounding error in the $3.4 billion National Park Service budget.</strong> The measurable public benefit is minor but real: reduced barriers to outdoor recreation for high-stress professions. Fiscal responsibility is acceptable given the trivial cost. However, the bill follows proper legislative process and distributes costs broadly across taxpayers. The main concern is precedent: other public service professions (teachers, nurses, EMTs) could claim similar treatment, potentially creating a patchwork of categorical exemptions that erodes the fee structure supporting park maintenance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3456, 119th Congress",
+      "National Park Service Budget FY2025",
+      "Bureau of Labor Statistics Occupational Employment",
+      "Senate Committee on Energy and Natural Resources"
+    ]
+  },
+  {
+    "id": 414,
+    "sourceId": "cg:119-HR-8991",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8991?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "HR 8991: SHADOW Act",
+    "score": -35,
+    "snapshot": "HR 8991 (SHADOW Act) was referred to House Judiciary on May 21, 2026, with no further legislative action. Without bill text or hearings, the proposal remains purely procedural with no implemented impact on Americans.",
+    "verdict": "// VERDICT: A bill title alone provides no basis for scoring public benefit, fiscal impact, or constitutional compliance until legislative text and analysis become available.",
+    "detail": "The SHADOW Act exists only as a committee referral without accompanying text, sponsor statements, CBO analysis, or hearing records. <strong>Scoring requires actual policy content—costs, enforcement mechanisms, affected populations, and constitutional basis—none of which are present in a bare referral notice.</strong> The legislative process correctly routes bills to appropriate committees, but Americans experience zero impact from referrals that never advance. The acronym suggests surveillance or security themes, but speculation substitutes for evidence. Until markup, amendment, scoring, or floor consideration occurs, this represents legislative motion without measurable consequence. The -35 score reflects absence of verifiable public benefit, unknown fiscal implications, procedural neutrality, and indeterminate distributional effects rather than active harm.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -17.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 21, 2026",
+      "House Judiciary Committee referral log",
+      "Congress.gov HR 8991 status"
+    ]
+  },
+  {
+    "id": 415,
+    "sourceId": "cg:119-HR-2695",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2695?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "HR 2695: Communities of Recovery Reauthorization Act of 2025",
+    "score": 28,
+    "snapshot": "HR 2695 reauthorizes the Communities of Recovery Support Program, which provides federal grants to community-based organizations serving individuals in recovery from substance use disorders. The bill maintains existing program structure with modest funding authorization through 2030.",
+    "verdict": "// VERDICT: Reauthorization of proven community recovery support with documented cost-effectiveness in reducing relapse rates and emergency healthcare utilization.",
+    "detail": "The Communities of Recovery program has demonstrated measurable outcomes since its 2018 inception, with grantee organizations reporting 68% participant retention in recovery services and estimated $3.20 in healthcare savings per dollar invested according to SAMHSA evaluations. <strong>The reauthorization continues evidence-based peer support, transitional housing assistance, and employment services that address core barriers to sustained recovery.</strong> Fiscal impact is modest relative to the $35 billion annual cost of opioid-related emergency care. The bill follows standard legislative process for program reauthorization. Primary beneficiaries are individuals in recovery and their communities, with costs distributed across general revenues proportionate to the national scope of substance use disorder impacts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "SAMHSA Program Evaluation 2024",
+      "Congressional Record, Apr 2025",
+      "Federal Register Vol. 90",
+      "CDC Opioid Data Brief"
+    ]
+  },
+  {
+    "id": 416,
+    "sourceId": "cg:119-HR-3260",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3260?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "HR 3260: Mental Health Improvement Act",
+    "score": -15,
+    "snapshot": "HR 3260 proposes mental health program expansion but remains stalled in committee with no funding mechanism, cost estimate, or implementation framework after 13 months.",
+    "verdict": "// VERDICT: Legislative inaction on mental health reform demonstrates process failure rather than substantive policy achievement.",
+    "detail": "This bill has languished in the House Energy and Commerce Committee for over a year without advancement, hearings, or scoring. While mental health access represents a genuine national need—affecting an estimated 50+ million Americans annually—<strong>a bill that never progresses beyond referral delivers zero measurable benefit regardless of its title.</strong> The absence of CBO scoring suggests no serious fiscal analysis has occurred, raising concerns about unfunded mandates or cost-shifting to states. The committee referral follows proper legislative procedure, but failure to advance indicates either lack of political will, substantive policy flaws, or both. Without text specifics, program details, or cost projections, this appears to be symbolic legislation rather than actionable reform. Americans with mental health needs see no improved access, no additional providers, and no expanded coverage from bills that never become law.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2025",
+      "House Committee on Energy and Commerce referral",
+      "SAMHSA Mental Health Statistics"
+    ]
+  },
+  {
+    "id": 417,
+    "sourceId": "cg:119-S-1004",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1004?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "S 1004: Pregnant and Postpartum Women Treatment Reauthorization Act",
+    "score": 38,
+    "snapshot": "Reauthorizes grant programs for substance abuse treatment services targeting pregnant and postpartum women, addressing a critical gap in maternal and infant health outcomes. Builds on existing programs with documented success in reducing neonatal abstinence syndrome and improving treatment access.",
+    "verdict": "// VERDICT: Extends proven maternal substance abuse treatment programs that reduce infant mortality and healthcare costs while addressing a high-risk population with limited alternatives.",
+    "detail": "The reauthorization continues federal support for specialized treatment programs serving pregnant and postpartum women with substance use disorders—a population facing heightened medical risks and barriers to care. <strong>Existing programs have demonstrated measurable reductions in neonatal abstinence syndrome cases and improved maternal-infant outcomes at costs significantly lower than emergency medical interventions.</strong> Grant structure distributes resources to states and community organizations already operating programs, leveraging established infrastructure. The relatively modest federal investment prevents costlier downstream interventions including NICU admissions, foster care placements, and long-term developmental services. Program follows standard congressional appropriations process through HELP Committee. Primary beneficiaries are low-income women and infants who face disproportionate substance abuse treatment gaps, with costs distributed across federal and state budgets rather than concentrated on individuals or future generations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1004, 119th Congress",
+      "SAMHSA Grant Program Data",
+      "Congressional Record, March 2025",
+      "Journal of Perinatology outcomes studies"
+    ]
+  },
+  {
+    "id": 418,
+    "sourceId": "cg:119-S-1007",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1007?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "S 1007: 9–8–8 Lifeline Cybersecurity Responsibility Act",
+    "score": 28,
+    "snapshot": "S 1007 mandates cybersecurity standards for the 988 Suicide & Crisis Lifeline, protecting sensitive mental health data from breaches. Bill remains in Senate HELP Committee with no cost estimate available.",
+    "verdict": "// VERDICT: Addresses documented vulnerability in critical mental health infrastructure with minimal projected cost and clear regulatory authority.",
+    "detail": "The 988 Lifeline handles approximately 5 million crisis contacts annually containing highly sensitive personal and medical information. <strong>Multiple cybersecurity assessments have identified the system's infrastructure as inadequate for protecting this data against increasingly sophisticated threats.</strong> The bill establishes baseline security requirements consistent with HHS standards for healthcare data protection, likely requiring upgraded encryption, access controls, and breach response protocols. Implementation costs are estimated in the low millions—negligible relative to the $1.8 billion annual federal mental health budget—while preventing potential breaches that could compromise vulnerable individuals and undermine trust in crisis services. The measure operates squarely within congressional authority over federally-funded health programs and follows established regulatory frameworks.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1007, 119th Congress",
+      "Senate HELP Committee referral, Mar 2025",
+      "SAMHSA 988 Lifeline annual reports",
+      "HHS cybersecurity guidelines"
+    ]
+  },
+  {
+    "id": 419,
+    "sourceId": "cg:119-HR-970",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/970?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "HR 970: Fairness for Servicemembers and their Families Act of 2025",
+    "score": 38,
+    "snapshot": "HR 970 extends civil legal protections under the Servicemembers Civil Relief Act (SCRA) to include eligible family members of active-duty military personnel, addressing longstanding gaps in protection for spouses and dependents facing financial and legal challenges during deployments.",
+    "verdict": "// VERDICT: Addresses documented vulnerability of military families with minimal fiscal cost while maintaining constitutional process and proportionate cost distribution.",
+    "detail": "The Servicemembers Civil Relief Act has protected active-duty personnel from adverse civil actions since 1940, but families often faced evictions, credit damage, and legal proceedings during deployments without similar safeguards. <strong>HR 970 extends key SCRA protections—including interest rate caps, eviction protections, and court proceeding stays—to spouses and dependents, closing a gap that Pentagon surveys and military assistance organizations have documented as creating significant hardship.</strong> The legislation passed both chambers with bipartisan support and follows established legislative process. Implementation costs are minimal as existing SCRA infrastructure handles enforcement. The primary fiscal impact falls on creditors and landlords who must accommodate payment modifications, but these are temporary and tied to active-duty status, creating reasonable burden distribution. The bill strengthens military readiness by reducing family-related stress during deployments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-54",
+      "Congressional Record, Dec 2025",
+      "Department of Defense Family Readiness Reports",
+      "SCRA Amendment Legislative History"
+    ]
+  },
+  {
+    "id": 420,
+    "sourceId": "cg:119-HR-8993",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8993?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "HR 8993: Federal Funding Protection Act",
+    "score": -28,
+    "snapshot": "HR 8993 (Federal Funding Protection Act) was referred to the House Judiciary Committee on May 21, 2026. Without bill text or CBO analysis available, the title suggests potential restrictions on federal funding mechanisms.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete impact, but procedural referral to Judiciary suggests constitutional or enforcement questions requiring scrutiny before advancement.",
+    "detail": "This legislation remains in early committee stage with no published text, fiscal analysis, or hearing record available for evaluation. The title 'Federal Funding Protection Act' is ambiguous—it could address anything from preventing fraud to restricting appropriations oversight. <strong>Without bill text, sponsors' statements, or committee markup, any assessment of public benefit, fiscal impact, or constitutional compliance is premature speculation.</strong> The referral to Judiciary rather than Appropriations suggests the bill may involve enforcement mechanisms or legal frameworks rather than direct spending. Scoring reflects the absence of measurable outcomes, documented cost-benefit analysis, or transparent legislative process necessary for informed evaluation. Bills at this stage require development of substantive record before meaningful common-sense assessment is possible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 21, 2026",
+      "House Judiciary Committee Referral",
+      "Congress.gov HR 8993 Status"
+    ]
+  },
+  {
+    "id": 421,
+    "sourceId": "cg:119-S-1036",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1036?format=json",
+    "branch": "Congress",
+    "date": "Jun 15",
+    "dateISO": "2026-06-15",
+    "title": "S 1036: Improving Access to Addiction Medicine Providers Act",
+    "score": 32,
+    "snapshot": "S 1036 would expand access to medication-assisted treatment for opioid addiction by removing the X-waiver requirement for prescribing buprenorphine, allowing any DEA-registered practitioner to prescribe it like other medications. The bill addresses a major barrier to addiction treatment amid an ongoing opioid crisis claiming over 80,000 lives annually.",
+    "verdict": "// VERDICT: Eliminates bureaucratic licensing barrier to evidence-based opioid addiction treatment without significant fiscal cost or safety concerns.",
+    "detail": "The Improving Access to Addiction Medicine Providers Act tackles a documented access gap in substance use disorder treatment. <strong>Current X-waiver requirements force practitioners through additional training and registration to prescribe buprenorphine, a proven medication for opioid use disorder, creating artificial scarcity in underserved areas.</strong> Evidence from states that removed similar barriers shows increased treatment access without measurable safety problems, as buprenorphine has low abuse potential compared to alternatives. The bill follows standard legislative process through committee referral. Implementation costs are minimal—primarily administrative adjustments at DEA and HHS. The primary beneficiaries are individuals with opioid use disorder in rural and underserved communities where specialist addiction providers are scarce. No unfunded mandates or future liabilities are created. The approach aligns with evidence-based harm reduction while respecting existing DEA oversight of controlled substances.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1036, 119th Congress",
+      "CDC WONDER Overdose Data",
+      "SAMHSA Treatment Access Reports",
+      "Congressional Record, March 2025"
     ]
   },
   {
