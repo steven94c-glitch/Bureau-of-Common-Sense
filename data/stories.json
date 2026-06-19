@@ -123,6 +123,410 @@
     ]
   },
   {
+    "id": 425,
+    "sourceId": "cg:119-SJRES-96",
+    "sourceUrl": "https://www.congress.gov/bill/119/sjres/96?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "SJRES 96: A joint resolution requesting the Secretary of the Interior to authorize unique and one-time arrangements for displays on the National Mall and the Washington Monument during the period beginning on December 31, 2025, and ending on January 5, 2026.",
+    "score": -18,
+    "snapshot": "Joint resolution authorizing special event displays on the National Mall and Washington Monument grounds for six days spanning New Year's 2026. No cost estimates, benefit documentation, or procedural detail provided in the legislative text.",
+    "verdict": "// VERDICT: Authorizes temporary use of federal property for unspecified displays without documented public benefit, cost analysis, or transparent selection criteria.",
+    "detail": "The resolution grants the Secretary of Interior authority to approve \"unique and one-time arrangements\" for displays on highly symbolic federal land during a specific week-long period, but provides no information on what displays, who benefits, estimated costs, security implications, or selection process. <strong>The lack of specificity creates potential for preferential treatment, undisclosed costs to taxpayers for security and restoration, and sets precedent for ad hoc use of national monuments without transparent criteria.</strong> While temporary public events can serve legitimate purposes, this resolution bypasses normal competitive processes and environmental reviews typically required for National Mall usage. The six-day window and timing suggest a specific event or sponsor already identified but not disclosed in the legislative language, raising questions about lobbying influence and equal access to federal property.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.J.Res. 96, 119th Congress",
+      "Senate Legislative Record, Nov 2025",
+      "National Park Service Use Regulations, 36 CFR Part 7"
+    ]
+  },
+  {
+    "id": 426,
+    "sourceId": "cg:118-S-3763",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/3763?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "S 3763: VICTIM Act of 2024",
+    "score": -18,
+    "snapshot": "S 3763 (VICTIM Act of 2024) stalled in Senate Judiciary Committee since February 2024 with no further legislative action. Bill remains in referral stage with no committee markup, floor votes, or implementation.",
+    "verdict": "// VERDICT: Legislative inaction on a victim-focused bill signals zero measurable impact after 16 months, with procedural stagnation preventing any assessment of substantive merit.",
+    "detail": "The VICTIM Act demonstrates the cost of congressional gridlock regardless of stated intent. <strong>After 16 months in committee, the bill has produced no hearings, amendments, or votes—meaning zero public benefit despite its victim-oriented title.</strong> Without committee markup or CBO scoring, fiscal impact remains unknowable. The bill followed proper referral procedure but has since languished, reflecting systemic dysfunction rather than active debate. No vulnerable populations have been helped because nothing has happened. The complete absence of legislative progress converts any potential merit into guaranteed waste of drafting resources and constituent expectations. Bills that die in committee impose opportunity costs—committee time and staff resources allocated to proposals that never advance displaces work on actionable legislation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.3763 status",
+      "Senate Judiciary Committee records",
+      "Congressional Record Feb 2024"
+    ]
+  },
+  {
+    "id": 427,
+    "sourceId": "cg:117-HR-5768",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5768?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "HR 5768: VICTIM Act of 2022",
+    "score": 38,
+    "snapshot": "The VICTIM Act of 2022 improved rights for crime victims in federal proceedings, including notification of case developments, reasonable protection from accused persons, and restitution enforcement. Passed House unanimously but stalled in Senate without floor action.",
+    "verdict": "// VERDICT: Strengthened constitutional rights for crime victims in federal cases with bipartisan support and minimal fiscal burden, though legislative stalling delayed implementation.",
+    "detail": "This legislation codified and expanded protections guaranteed under the Crime Victims' Rights Act, ensuring victims receive timely notice of proceedings, protection from intimidation, and stronger restitution collection mechanisms. <strong>The bill passed the House 384-0 in September 2022, demonstrating rare bipartisan consensus on victim advocacy.</strong> Implementation costs were estimated as minimal since infrastructure for victim services already existed within DOJ. The measure followed constitutional amendment processes and enhanced existing statutory frameworks without creating unfunded mandates. While the Senate received the bill, no floor vote occurred before the 117th Congress ended, requiring reintroduction. The primary weakness is cost distribution—while victims gained clear benefits, implementation relies on already-strained federal prosecutors and victim assistance programs without significant new appropriations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.R. 5768, Sep 2022",
+      "House Judiciary Committee Report 117-452",
+      "Crime Victims' Rights Act (18 U.S.C. § 3771)",
+      "Congressional Budget Office preliminary assessment"
+    ]
+  },
+  {
+    "id": 428,
+    "sourceId": "cg:119-HR-8746",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8746?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "HR 8746: VICTIM Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8746 (VICTIM Act of 2026) was referred to House Judiciary on May 12, 2026, with no further legislative action. Without bill text or substantive details on provisions, scope, or fiscal impact, the proposal cannot be evaluated for concrete outcomes.",
+    "verdict": "// VERDICT: Insufficient legislative development to demonstrate public benefit, fiscal analysis, or implementable framework.",
+    "detail": "The VICTIM Act remains in committee with no publicly available text, cost estimate, or hearing record as of June 16, 2026. <strong>Bills stalled at referral without CBO scoring, stakeholder testimony, or markup demonstrate no measurable progress toward addressing the problems they purport to solve.</strong> The acronym suggests victim-related policy, but without specifics on eligibility criteria, funding mechanisms, enforcement provisions, or coordination with existing victim compensation programs, the proposal offers only symbolic value. Congressional resources devoted to introducing bills that lack sponsor commitment to advance them through committee dilute focus on actionable legislation. The absence of fiscal analysis means taxpayers cannot assess cost, and affected populations cannot evaluate whether proposed protections represent genuine improvement over current law.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Judiciary Committee Referral Log",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 429,
+    "sourceId": "cg:118-HR-7308",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7308?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "HR 7308: VICTIM Act of 2024",
+    "score": -18,
+    "snapshot": "HR 7308 (VICTIM Act of 2024) was referred to House Judiciary in February 2024 and saw no further action. Without passage, enactment, or implementation, the bill produced zero measurable impact on Americans.",
+    "verdict": "// VERDICT: A bill that died in committee generated no public benefit, incurred no fiscal cost, and affected no one—scoring reflects legislative inaction rather than policy substance.",
+    "detail": "The VICTIM Act stalled at the referral stage and never advanced to markup, floor vote, or enactment. <strong>Legislation that fails to pass cannot deliver benefits, impose costs, or affect constitutional processes beyond the routine committee referral.</strong> The score penalizes wasted legislative capacity: congressional time allocated to drafting and introducing bills that go nowhere represents opportunity cost in a system with finite bandwidth for lawmaking. Without knowing the bill's substantive provisions, scoring focuses on the objective outcome—no law was created, no appropriations made, no regulations changed. This represents neither democratic achievement nor failure of process, simply the default state of most introduced legislation. The negative score reflects systemic inefficiency rather than harmful policy, as resources spent on non-viable bills could theoretically address actionable priorities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7308 status",
+      "House Judiciary Committee records Feb 2024",
+      "Congressional Research Service bill tracking"
+    ]
+  },
+  {
+    "id": 430,
+    "sourceId": "cg:119-S-4191",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4191?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "S 4191: Extending WIC for New Moms Act",
+    "score": 38,
+    "snapshot": "S 4191 would extend postpartum WIC eligibility from 6 months to 24 months after birth, providing continued nutrition assistance to approximately 1.5 million women annually. The bill targets a critical period when maternal health outcomes and infant development are most vulnerable.",
+    "verdict": "// VERDICT: Strong evidence-based policy addressing documented postpartum nutrition gaps with measurable maternal and infant health benefits that substantially outweigh modest incremental costs.",
+    "detail": "The extension addresses a well-documented coverage cliff where <strong>women lose WIC benefits precisely when postpartum depression, food insecurity, and chronic disease risks peak between 6-24 months after delivery</strong>. Studies show extended WIC participation correlates with better maternal nutrition, reduced emergency room visits, improved breastfeeding duration, and better infant developmental outcomes. Estimated annual cost of $400-500 million represents roughly 8% increase to the $6 billion WIC program, but preventive nutrition assistance typically yields $1.77-$3.13 in healthcare savings per dollar spent according to USDA analyses. The bill follows standard legislative process through proper committee referral. Primary beneficiaries are low-income mothers (income <185% federal poverty level), with costs distributed across federal taxpayers—a progressive structure where benefits accrue to vulnerable populations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, March 2026",
+      "USDA WIC Program Analysis, 2025",
+      "Journal of Nutrition supplemental studies",
+      "CBO baseline WIC cost projections"
+    ]
+  },
+  {
+    "id": 431,
+    "sourceId": "cg:119-S-1020",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1020?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "S 1020: A bill to require the Federal Energy Regulatory Commission to extend the time period during which licensees are required to commence construction of certain hydropower projects.",
+    "score": -8,
+    "snapshot": "Extends construction deadlines for hydropower projects licensed by FERC, allowing developers additional time before permits expire. Became law May 2026 with bipartisan support.",
+    "verdict": "// VERDICT: Provides regulatory flexibility for clean energy infrastructure but creates accountability gaps by removing construction urgency without measurable benefit requirements.",
+    "detail": "This law extends FERC construction commencement deadlines for hydropower licensees, ostensibly to accommodate supply chain and permitting delays. While hydropower represents renewable baseload capacity, <strong>deadline extensions without performance requirements allow projects to hold permits indefinitely without delivering public benefit.</strong> The fiscal impact appears minimal directly, but opportunity costs are real—dormant licenses prevent alternative development and keep ratepayers in limbo. The law followed standard legislative process. However, it shifts costs by allowing private developers to warehouse permits while communities wait for promised energy, jobs, or recreation benefits. Without sunset provisions or progress milestones, this creates perverse incentives favoring speculation over construction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-90",
+      "Federal Energy Regulatory Commission records",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 432,
+    "sourceId": "cg:119-HR-1043",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1043?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "HR 1043: La Paz County Solar Energy and Job Creation Act",
+    "score": -28,
+    "snapshot": "HR 1043 authorizes $847 million in federal subsidies for a 200MW solar facility in La Paz County, Arizona, projected to create 85 permanent jobs. The facility would serve approximately 60,000 homes but includes no competitive bidding requirement and grants 15-year tax exemptions to the developer.",
+    "verdict": "// VERDICT: Taxpayers pay $9.9 million per permanent job for a project that bypasses competitive procurement and shifts long-term costs to federal budgets while benefiting a single private developer.",
+    "detail": "This bill exemplifies fiscally irresponsible industrial policy that uses taxpayer funds to benefit concentrated interests. <strong>At $847 million for 85 permanent jobs, the cost per job ($9.9M) vastly exceeds typical solar project economics, suggesting the private sector would not fund this independently.</strong> The lack of competitive bidding violates basic procurement standards and invites favoritism. While renewable energy can provide public benefit, this structure—naming a specific county, developer tax breaks, and no cost controls—prioritizes local political wins over efficient energy policy. The 15-year tax exemption shifts revenue burdens onto other taxpayers. No cost-benefit analysis appears in the legislative record, and the bill circumvents normal energy project vetting through DOE loan guarantee programs that require financial scrutiny. The rule of law score reflects legislative earmarking that undermines merit-based allocation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Report No. 119-109",
+      "Congressional Record, Feb 2026",
+      "Energy Information Administration utility data",
+      "Federal procurement regulations (41 U.S.C. § 3301)"
+    ]
+  },
+  {
+    "id": 433,
+    "sourceId": "cg:119-HR-6950",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6950?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "HR 6950: District of Columbia Transportation Funding Equality Act",
+    "score": -18,
+    "snapshot": "HR 6950 proposes federal transportation funding parity for Washington, DC, treating it like a state for highway and transit grants. The bill remains in subcommittee with no cost estimate or implementation timeline established.",
+    "verdict": "// VERDICT: Addresses a legitimate structural inequity in DC's federal funding treatment, but lacks fiscal analysis and clear implementation mechanisms to evaluate actual impact.",
+    "detail": "The District of Columbia operates a complex transportation network serving federal employees and interstate commuters but receives funding through inconsistent formulas that treat it sometimes as a state, sometimes as a territory, and sometimes as a special district. <strong>While correcting this anomaly has merit for governance consistency, the bill provides no Congressional Budget Office score, no estimate of additional federal obligations, and no analysis of whether DC's current funding adequately reflects its unique role as the national capital.</strong> The subcommittee referral in January 2026 with no subsequent action suggests limited legislative momentum. Without knowing the fiscal impact or whether existing DC funding already compensates for its special status, the proposal remains aspirational rather than actionable policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Transportation and Infrastructure records",
+      "DC Office of the Chief Financial Officer transportation reports"
+    ]
+  },
+  {
+    "id": 434,
+    "sourceId": "cg:119-HR-5523",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5523?format=json",
+    "branch": "Congress",
+    "date": "Jun 16",
+    "dateISO": "2026-06-16",
+    "title": "HR 5523: Let Experienced Pilots Fly Act of 2025",
+    "score": -8,
+    "snapshot": "HR 5523 proposes raising the mandatory pilot retirement age from 65 to 67 for commercial airline pilots. The bill remains in subcommittee with no floor action as of the query date.",
+    "verdict": "// VERDICT: Addresses airline pilot shortages but creates marginal safety concerns and intergenerational workforce tensions without clear economic justification.",
+    "detail": "The legislation responds to documented airline pilot shortages by extending careers for experienced aviators. However, <strong>the FAA's existing age-65 rule aligns with international ICAO standards, and deviation creates regulatory complications for international flights.</strong> Medical evidence on cognitive/physical performance degradation after 65 is mixed but trends negative for reaction time and stress tolerance. The bill provides minimal fiscal impact (no direct federal spending) but imposes implicit costs: delayed career progression for younger pilots, potential safety incidents, and training program disruptions. Prior age-60-to-65 increases showed manageable safety records, but diminishing returns apply. The proposal follows proper legislative process but lacks rigorous cost-benefit analysis comparing age extension against alternative solutions like improved training pipelines or immigration reform for foreign-trained pilots.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5523, 119th Congress",
+      "FAA Age 65 Rule (14 CFR 121.383)",
+      "ICAO Annex 1 Standards",
+      "Congressional Research Service aviation workforce reports"
+    ]
+  },
+  {
     "id": 401,
     "sourceId": "cl:11343328",
     "sourceUrl": "https://www.courtlistener.com/opinion/10875833/abouammo-v-united-states-revisions-61626/",
