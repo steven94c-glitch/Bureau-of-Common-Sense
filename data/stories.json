@@ -1,5 +1,86 @@
 [
   {
+    "id": 445,
+    "sourceId": "cl:11345156",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10877643/t-m-v-university-of-md-medical-system-corporation-revisions-61926/",
+    "branch": "Courts",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "Opinion 11345156",
+    "score": -18,
+    "snapshot": "Supreme Court ruling bars federal district courts from reviewing state court judgments even when those judgments remain under state appeal, applying Rooker-Feldman doctrine to a consent order in an involuntary commitment case.",
+    "verdict": "// VERDICT: Clarifies longstanding jurisdictional doctrine without creating new law, but arguably restricts access to federal review for individuals challenging coerced agreements in civil commitment proceedings.",
+    "detail": "This decision extends the Rooker-Feldman doctrine—which prevents federal district courts from acting as appellate courts over state judgments—to non-final state court orders still subject to state appeal. <strong>While the ruling maintains established separation between state and federal court systems, it narrows the pathway for individuals like T.M. to challenge allegedly coerced consent orders in federal court, even when those orders may have been signed under duress during involuntary psychiatric commitment.</strong> The opinion preserves judicial efficiency and federalism principles by preventing parallel litigation, but creates potential gaps in due process protection for vulnerable individuals who sign settlement agreements while detained. The procedural clarification serves institutional interests but may disadvantage parties with limited resources to pursue state appellate remedies, particularly in time-sensitive civil rights contexts involving involuntary detention and forced medication.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "T.M. v. University of Maryland Medical System Corp., No. 25-197 (U.S. June 18, 2026)",
+      "28 U.S.C. §1257",
+      "Exxon Mobil Corp. v. Saudi Basic Industries Corp., 544 U.S. 280 (2005)",
+      "Rooker v. Fidelity Trust Co., 263 U.S. 413 (1923)"
+    ]
+  },
+  {
+    "id": 446,
+    "sourceId": "cl:11345144",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10877631/hunter-v-united-states-revisions-61926/",
+    "branch": "Courts",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "Opinion 11345144",
+    "score": 18,
+    "snapshot": "Supreme Court ruling clarifies that plea agreement appeal waivers remain enforceable even when trial courts mistate appeal rights, but establishes a 'miscarriage of justice' exception for egregious constitutional errors. Applies to defendant challenging mandatory mental-health medication condition.",
+    "verdict": "// VERDICT: Modestly strengthens legal clarity around plea bargaining while preserving judicial review for fundamental rights violations.",
+    "detail": "This Supreme Court decision resolves a circuit split by establishing consistent nationwide standards for when appeal waivers in plea agreements can be enforced. <strong>The ruling provides measurable public benefit by preventing defendants from exploiting procedural confusion while maintaining access to appellate review for serious constitutional violations.</strong> The decision enhances judicial efficiency by reducing frivolous appeals, though its fiscal impact is modest. The Court followed proper constitutional process through certiorari review. The cost distribution appears balanced: prosecutors gain enforcement predictability, defendants retain protection against egregious errors, and the criminal justice system benefits from clearer rules. The 'miscarriage of justice' standard prevents fundamental rights violations while honoring voluntary plea agreements, though the vague standard may require future clarification through litigation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion, Hunter v. United States, No. 24-1063 (June 18, 2026)",
+      "Class v. United States, 583 U.S. 174",
+      "Federal Rules of Criminal Procedure"
+    ]
+  },
+  {
     "id": 422,
     "sourceId": "cl:11344436",
     "sourceUrl": "https://www.courtlistener.com/opinion/10876935/hunter-v-united-states/",
@@ -120,6 +201,411 @@
       "New York State Rifle & Pistol Assn. v. Bruen, 597 U.S. 1 (2022)",
       "United States v. Rahimi, 602 U.S. 680 (2024)",
       "18 U.S.C. §922(g)(3)"
+    ]
+  },
+  {
+    "id": 435,
+    "sourceId": "cg:119-S-1003",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1003?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 1003: Lulu’s Law",
+    "score": -18,
+    "snapshot": "S 1003 ('Lulu's Law') passed both chambers and awaits presidential signature as of June 15, 2026. Without access to bill text, specific provisions and fiscal impact cannot be determined from procedural records alone.",
+    "verdict": "// VERDICT: Insufficient information available to assess concrete public benefit, costs, or implementation mechanics of this legislation.",
+    "detail": "The bill's advancement through Congress follows standard legislative procedure, satisfying basic rule-of-law requirements for passage. However, the absence of accessible bill text, CBO scoring, committee reports, or substantive debate summaries prevents objective evaluation of its actual provisions. <strong>Legislative titles often bear little relationship to content, and scoring based on a name alone ('Lulu's Law') would constitute speculation rather than evidence-based analysis.</strong> The measure's fiscal responsibility cannot be assessed without cost estimates. Public benefit and cost distribution remain unknown without understanding what the bill actually does. Responsible scoring requires treating information gaps as neutral-to-negative rather than assuming unstated benefits, as unexamined legislation historically produces unintended consequences and hidden costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Senate Legislative Calendar 119th Congress"
+    ]
+  },
+  {
+    "id": 436,
+    "sourceId": "cg:119-S-4794",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4794?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4794: A bill to require the Secretary of Agriculture and the Secretary of Homeland Security to submit to Congress a report regarding cybersecurity in precision agriculture technologies, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4794 mandates a cybersecurity report on precision agriculture technologies from USDA and DHS. The bill has been referred to committee with no further action as of June 2026.",
+    "verdict": "// VERDICT: A low-cost information-gathering measure addressing a legitimate emerging threat to food security and critical infrastructure.",
+    "detail": "Precision agriculture technologies—GPS-guided tractors, automated irrigation, networked sensors—are increasingly vulnerable to cyberattacks that could disrupt food production. <strong>Requiring federal agencies to assess these vulnerabilities is a reasonable first step before potential threats materialize.</strong> The bill imposes minimal fiscal burden (likely under $500K for report preparation) while addressing a gap in agricultural infrastructure security that neither farmers nor manufacturers have systematically evaluated. It follows proper legislative process and creates no unfunded mandates. However, it's purely diagnostic—no action is required based on findings, limiting immediate public benefit. The report requirement distributes minimal costs across taxpayers while potentially benefiting the agricultural sector and food supply chain broadly.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4794, 119th Congress",
+      "Senate Committee on Agriculture referral, June 2026",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 437,
+    "sourceId": "cg:119-S-4798",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4798?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4798: A bill to require that Federal Government equity stakes in private companies be liquidated to pay down the debt, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4798 would mandate liquidation of federal equity holdings in private companies (e.g., GM, AIG warrants from 2008-09 crisis) to reduce national debt. Bill referred to committee; no CBO score yet available.",
+    "verdict": "// VERDICT: Mandating sale of crisis-era equity stakes could realize taxpayer returns and reduce debt, though timing flexibility and market conditions affect actual fiscal benefit.",
+    "detail": "The federal government retains equity positions from financial crisis interventions, some of which have appreciated. <strong>Forcing liquidation converts these holdings to debt reduction, potentially recovering taxpayer funds while eliminating ongoing government ownership in private enterprise.</strong> Measurable benefit depends on asset values at forced sale—premature liquidation could sacrifice gains, while delayed sales risk value erosion. Fiscal impact is modest relative to $35+ trillion debt but directionally positive if executed near fair value. The bill follows proper legislative process. Primary cost falls on taxpayers if fire-sale pricing occurs; benefit accrues to future generations through marginal debt reduction. Without implementation details on timing mechanisms or market-condition exemptions, scoring remains cautiously positive.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4798, 119th Congress",
+      "Congressional Record, June 2026",
+      "Treasury TARP reports, 2008-2023",
+      "GAO financial crisis intervention reviews"
+    ]
+  },
+  {
+    "id": 438,
+    "sourceId": "cg:119-S-4793",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4793?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4793: A bill to clarify provisions of the United States-Mexico-Canada Agreement Implementation Act and the Foreign Trade Zones Act with respect to the appropriate tariff treatment of merchandise in a United States foreign-trade zone, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4793 seeks to clarify tariff treatment rules for merchandise in U.S. foreign-trade zones under USMCA and existing trade law. The bill was introduced in the Senate and referred to the Finance Committee on June 16, 2026.",
+    "verdict": "// VERDICT: Technical trade legislation that addresses operational clarity for foreign-trade zones without significant budgetary impact or policy change.",
+    "detail": "This bill represents routine legislative maintenance of U.S. trade zone regulations. Foreign-trade zones allow companies to defer tariffs on imported goods until they enter U.S. commerce, providing flexibility for manufacturers and distributors. <strong>Clarifying tariff treatment rules reduces compliance costs and legal uncertainty for businesses operating in these zones, potentially improving efficiency without creating new programs or expenditures.</strong> The bill scores positively on measurable benefit through reduced regulatory ambiguity and fiscal responsibility given its minimal cost. It follows standard legislative process through Finance Committee referral. Cost distribution is neutral as it affects commercial entities uniformly. The limited scope prevents a higher score—this is technical housekeeping rather than transformative policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4793",
+      "USMCA Implementation Act (19 USC 4501 et seq.)",
+      "Foreign Trade Zones Act (19 USC 81a-81u)",
+      "Senate Finance Committee Referral, June 2026"
+    ]
+  },
+  {
+    "id": 439,
+    "sourceId": "cg:119-S-4797",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4797?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4797: A bill to require States to consider legal issues affecting youth as part of case planning and to provide States with the option to use funds from the John H. Chafee Foster Care Program for successful Transition to Adulthood to support access to legal services and counseling.",
+    "score": 28,
+    "snapshot": "S 4797 requires states to address legal issues in foster care case planning and allows use of Chafee Program funds for legal services to aging-out youth. Bill referred to Finance Committee; no enacted cost estimates available.",
+    "verdict": "// VERDICT: Modest expansion of existing program infrastructure to provide legal support for vulnerable foster youth transitioning to adulthood, with limited fiscal impact through reallocation of existing funds.",
+    "detail": "The bill addresses a documented gap in foster care services by mandating legal issue consideration in case planning and permitting—not requiring—states to redirect existing Chafee Program appropriations toward legal services. <strong>This targets a population with disproportionately high rates of homelessness, incarceration, and unemployment upon aging out of care.</strong> The approach relies on existing federal allocations rather than new appropriations, limiting fiscal exposure while providing states flexibility. Constitutional process followed through standard Senate referral. Primary beneficiaries are approximately 20,000 annual foster youth aging out nationally, with negligible burden shift since funding comes from existing program dollars. Effectiveness depends on state uptake and implementation quality, which remain uncertain at referral stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4797, 119th Congress",
+      "Congressional Record, June 2026",
+      "Administration for Children and Families, Chafee Program data",
+      "Senate Finance Committee referral"
+    ]
+  },
+  {
+    "id": 440,
+    "sourceId": "cg:119-S-4799",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4799?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4799: A bill to cap the amount authorized to be appropriated for the national defense budget for fiscal year 2027 at $750,000,000,000.",
+    "score": -28,
+    "snapshot": "S 4799 proposes capping the FY2027 defense budget at $750 billion, representing a roughly 10% reduction from projected FY2026 levels of approximately $850 billion. The bill has been referred to Armed Services Committee with no hearings scheduled.",
+    "verdict": "// VERDICT: A $100+ billion defense cut without specified reductions in military commitments or strategic reassessment creates unfunded operational gaps and risks national security degradation.",
+    "detail": "While fiscal discipline merits consideration, this proposal fails fundamental tests of responsible governance. <strong>The bill mandates a massive spending reduction without identifying which weapons programs, troop levels, or strategic commitments would be eliminated to accommodate the cap.</strong> Historical defense drawdowns (post-Cold War, post-Iraq) that lacked strategic planning resulted in readiness crises within 5-8 years. The proposal provides no analysis of impacts on existing obligations to NATO, Indo-Pacific commitments, or ongoing operations. It bypasses the normal NDAA process where tradeoffs are debated and force structure matched to strategy. From a fiscal perspective, arbitrary caps without program-specific cuts simply defer decisions and create budget chaos. The cost distribution is particularly problematic: service members and defense communities bear immediate impact while unfunded strategic risks accumulate for future administrations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4799, 119th Congress",
+      "Congressional Record, June 2026",
+      "DOD Budget Request FY2026",
+      "GAO Defense Readiness Reports"
+    ]
+  },
+  {
+    "id": 441,
+    "sourceId": "cg:119-S-4800",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4800?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4800: A bill to protect free speech by repealing the ground for deportability under section 237(a)(4)(C) of the Immigration and Nationality Act relating to aliens whose presence or activities in the United States are reasonably believed to have serious adverse foreign policy consequences.",
+    "score": -18,
+    "snapshot": "S 4800 would repeal the INA provision allowing deportation of non-citizens whose presence is believed to have serious adverse foreign policy consequences. The bill remains in committee with no hearings scheduled.",
+    "verdict": "// VERDICT: Removes an established national security mechanism without proposing alternative safeguards for foreign policy threats, weakening executive tools to address hostile foreign actors while providing minimal documented benefit to legitimate speech interests.",
+    "detail": "The bill targets INA §237(a)(4)(C), a rarely-invoked provision that allows deportation based on foreign policy harm rather than criminal activity. Proponents frame this as protecting free speech, but the provision already requires \"serious adverse\" consequences and applies only to non-citizens—not a First Amendment context. <strong>The repeal eliminates a tool for removing foreign agents or those whose activities demonstrably harm U.S. interests (espionage coordination, incitement for hostile powers) without establishing any replacement framework.</strong> No documented cases of abuse are cited in the bill text. The fiscal impact is negligible, but the security cost is real: removing this authority limits responses to evolving foreign influence operations. The bill follows proper legislative process but creates a gap in national security law without evidence the current provision chills legitimate speech or has been systematically misused.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4800, 119th Congress",
+      "Immigration and Nationality Act §237(a)(4)(C)",
+      "Congressional Record, June 2026",
+      "Senate Judiciary Committee referral"
+    ]
+  },
+  {
+    "id": 442,
+    "sourceId": "cg:119-S-4792",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4792?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4792: A bill to prohibit civil liability actions from being brought or continued against manufacturers and sellers of stone slab products for damages, injunctive, or other relief resulting from the misuse of their products by others.",
+    "score": -38,
+    "snapshot": "S 4792 would grant stone slab manufacturers blanket immunity from civil liability for silicosis and other harms caused by their products, even when products lack adequate warnings or safety features. The bill prevents both new and ongoing lawsuits related to product misuse.",
+    "verdict": "// VERDICT: This legislation eliminates legal accountability for an industry linked to widespread silicosis cases among workers cutting engineered stone, shifting medical and economic costs to workers, families, and taxpayers.",
+    "detail": "The bill immunizes stone slab manufacturers from civil liability for damages caused by \"misuse\" of their products—a term that could encompass normal occupational exposure without proper respirators or ventilation. <strong>Thousands of countertop fabrication workers have developed silicosis from cutting engineered stone slabs containing up to 95% crystalline silica, with documented cases of severe lung disease and premature death.</strong> Rather than incentivizing manufacturers to improve warnings, reduce silica content, or develop safer formulations, this bill eliminates their liability exposure entirely. It circumvents established product liability law and state tort systems, retroactively affecting pending cases. Workers bear the full medical costs while manufacturers retain profits. The legislation provides no worker protections, safety standards, or compensation mechanisms to replace the civil justice system it dismantles.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4792, 119th Congress",
+      "OSHA Silica Standards (29 CFR 1926.1153)",
+      "CDC/NIOSH Silicosis Reports 2019-2025",
+      "State Product Liability Statutes"
+    ]
+  },
+  {
+    "id": 443,
+    "sourceId": "cg:119-S-4801",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4801?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4801: A bill to amend laws relating to duty performed by members of the reserve components of the Armed Forces, and for other purposes.",
+    "score": -8,
+    "snapshot": "S 4801 proposes amendments to laws governing reserve component duty but provides no specifics on scope, cost, or impact. Referred to Armed Services Committee with no public details on what changes are being made to reserve duty requirements or compensation.",
+    "verdict": "// VERDICT: Insufficient information to assess impact; generic bill title and lack of text prevent evaluation of actual effects on reservists or taxpayers.",
+    "detail": "This legislation remains a placeholder without published bill text or supporting materials. Reserve component laws govern millions of part-time servicemembers and involve significant federal expenditures for training, benefits, and activation costs. <strong>Without knowing whether this expands duty requirements, changes compensation structures, or modifies deployment authorities, no meaningful assessment of public benefit, fiscal impact, or fairness is possible.</strong> The phrase \"and for other purposes\" is legislative boilerplate that could conceal provisions ranging from minor technical corrections to major policy shifts. Congressional procedure allows referral before full text release, but scoring requires actual content. The bill may address legitimate reserve force readiness issues or create unfunded mandates—currently unknowable.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar, Jun 2026",
+      "Congressional Record, 119th Congress",
+      "Armed Services Committee Referral"
+    ]
+  },
+  {
+    "id": 444,
+    "sourceId": "cg:119-S-4762",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4762?format=json",
+    "branch": "Congress",
+    "date": "Jun 17",
+    "dateISO": "2026-06-17",
+    "title": "S 4762: A bill to require the Secretary of Homeland Security to conduct annual assessments on threats to the United States posed by the use of generative artificial intelligence for terrorism, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4762 mandates annual DHS assessments of generative AI terrorism threats. Currently in committee; no implementation costs or enforcement mechanisms yet defined.",
+    "verdict": "// VERDICT: Establishes systematic threat monitoring with minimal fiscal burden, though operational impact depends on resource allocation and interagency coordination during implementation.",
+    "detail": "The bill addresses a legitimate emerging security concern by requiring structured annual assessments of how generative AI could enable terrorism—from deepfakes to automated planning tools. <strong>The mandate creates institutional accountability for tracking a rapidly evolving threat landscape without creating new agencies or major expenditures.</strong> However, at the referral stage, crucial details remain undefined: assessment methodology, classification protocols, resource requirements, and whether findings will inform actionable policy. The framework respects congressional oversight authority and follows standard legislative process. Primary risk is creating reporting obligations that duplicate existing intelligence community work or produce shelf reports without operational integration. Cost distribution appears neutral—assessment burden falls on DHS operational budgets with benefits accruing broadly to national security infrastructure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4762, 119th Congress",
+      "Senate Legislative Calendar, Jun 2026",
+      "DHS Appropriations baseline"
     ]
   },
   {
