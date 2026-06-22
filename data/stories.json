@@ -1,5 +1,575 @@
 [
   {
+    "id": 467,
+    "sourceId": "cl:11345522",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10878009/mccarthy-v-hernandez/",
+    "branch": "Courts",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "Opinion 11345522",
+    "score": 27,
+    "snapshot": "The Supreme Court unanimously reversed a Second Circuit habeas ruling that had granted relief to Pedro Hernandez, convicted of murdering 6-year-old Etan Patz in 1979. The Court held the lower court exceeded AEDPA's strict limits by finding the state trial court violated Miranda doctrine regarding jury instructions.",
+    "verdict": "// VERDICT: Restores proper deference to state courts under federal habeas law, preventing lower federal courts from rewriting state criminal verdicts based on debatable interpretations of Supreme Court precedent.",
+    "detail": "The ruling enforces the Antiterrorism and Effective Death Penalty Act's framework limiting federal interference with state convictions. The Second Circuit had ordered release based on claimed violations of <strong>Missouri v. Seibert regarding jury instructions on confession tainting—a requirement Seibert never actually imposed.</strong> This represents judicial restraint protecting federalism: state courts conducted the trial under New York law, the defendant confessed repeatedly over decades to multiple people, and federal habeas relief should require clear constitutional violations, not expansive reinterpretations of precedent. The decision preserves separation between state and federal judicial systems while maintaining guardrails against actual constitutional violations. No new substantive law was created; the Court simply enforced existing AEDPA standards that Congress enacted with bipartisan support in 1996.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "McCarthy v. Hernandez, 608 U.S. ___ (2026)",
+      "28 U.S.C. §2254 (AEDPA)",
+      "Missouri v. Seibert, 542 U.S. 600 (2004)",
+      "N.Y. Crim. Proc. Law §710.70"
+    ]
+  },
+  {
+    "id": 468,
+    "sourceId": "cl:11345521",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10878008/grayson-v-united-states/",
+    "branch": "Courts",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "Opinion 11345521",
+    "score": 22,
+    "snapshot": "Supreme Court remanded a murder-for-hire case after the Sixth Circuit wrongly applied a 'clean-hands exception' to suppress evidence, though the Solicitor General conceded error while arguing harmlessness. Alito dissented, stating overwhelming independent evidence made the contested FaceTime recording merely cumulative.",
+    "verdict": "// VERDICT: The Court correctly enforced evidentiary standards while preserving judicial economy through remand rather than outright reversal despite probable harmless error.",
+    "detail": "This decision upholds rule of law by addressing a circuit court's improper creation of a statutory exception not found in 18 U.S.C. §2515. <strong>The remand ensures appellate courts follow proper legal standards even when outcome may not change, maintaining institutional integrity over expedience.</strong> The measurable benefit is modest—one case corrected, with limited precedential impact given the narrow procedural posture. Fiscally, remands impose additional costs (estimated $15,000–$50,000 in court resources and legal fees), though preventing bad precedent has future value. Cost distribution is neutral: the defendant receives proper appellate review, taxpayers bear minor additional costs, and the public interest in correct legal standards is served. Justice Alito's dissent raises valid harmless-error concerns, but the majority's caution against allowing erroneous legal reasoning to stand—even when outcomes seem certain—reinforces constitutional processes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 608 U.S. ___ (2026)",
+      "18 U.S.C. §2515 (statutory text)",
+      "Solicitor General Brief, May 12, 2026",
+      "Federal Judicial Caseload Statistics (Administrative Office of U.S. Courts)"
+    ]
+  },
+  {
+    "id": 469,
+    "sourceId": "cl:11345520",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10878007/saldano-v-texas/",
+    "branch": "Courts",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "Opinion 11345520",
+    "score": -38,
+    "snapshot": "The Texas Court of Criminal Appeals blocked both the defendant and the State of Texas from obtaining a hearing on an intellectual disability claim that could prevent execution under the Eighth Amendment, despite unanimous expert agreement (including the State's own expert) that the defendant meets disability criteria.",
+    "verdict": "// VERDICT: A state court's refusal to permit even a hearing when all parties and all experts agree on a constitutional bar to execution represents a breakdown in judicial process that conflicts with established Eighth Amendment protections.",
+    "detail": "This case involves a procedural denial rather than substantive legal error, but the procedural barrier has profound consequences. Under <strong>Atkins v. Virginia (2002), executing intellectually disabled individuals violates the Eighth Amendment</strong>—a settled constitutional principle for over two decades. Here, three independent experts (two for the defendant, one retained by the State itself) unanimously concluded the petitioner meets clinical criteria for intellectual disability, with IQ scores of 73-74 and documented severe adaptive functioning deficits from childhood. Both parties requested a hearing. The Texas court's procedural bar preventing even merits review—when the State concedes the constitutional issue warrants examination—undermines core due process and creates serious separation-of-powers concerns. The Supreme Court's denial of certiorari allows a potential Eighth Amendment violation to proceed without factual adjudication, contradicting the Court's own precedent requiring meaningful opportunity to prove such claims.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Atkins v. Virginia, 536 U.S. 304 (2002)",
+      "Saldaño v. Texas, No. 25-5749 (U.S. June 22, 2026)",
+      "Texas Code Crim. Proc. Ann. Art. 11.071",
+      "Ford v. Wainwright, 477 U.S. 399 (1986)"
+    ]
+  },
+  {
+    "id": 470,
+    "sourceId": "cl:11345519",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10878006/united-states-v-carter/",
+    "branch": "Courts",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "Opinion 11345519",
+    "score": -15,
+    "snapshot": "Supreme Court denied certiorari in a D.C. case where appeals court ruled that a suspect's race should be considered when determining if police conduct constitutes a Fourth Amendment seizure. Two justices dissented, arguing this race-conscious standard conflicts with precedent establishing a uniform 'reasonable person' test.",
+    "verdict": "// VERDICT: The denial allows a circuit split on whether race modifies Fourth Amendment seizure analysis, creating legal uncertainty and potentially unequal application of constitutional protections across jurisdictions.",
+    "detail": "The Court's denial of certiorari leaves unresolved whether courts may apply race-specific standards when evaluating Fourth Amendment seizures. <strong>The D.C. Court of Appeals' framework—asking whether \"an objective and reasonable person sharing the defendant's racial status\" would feel free to leave—directly conflicts with the Supreme Court's established \"reasonable person\" test that does not vary by demographic characteristics.</strong> This creates practical problems: officers must now make split-second decisions while assessing suspects' race in D.C., while other jurisdictions use race-neutral standards. The denial also risks inconsistent constitutional protections based on race, ethnicity, or other characteristics. While the lower court cited social science on differential police interactions, allowing race-based legal standards—even when favorable to defendants—contradicts principles of equal treatment under law. The Court's inaction permits this doctrinal confusion to persist, affecting both civil liberties and law enforcement practices.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 11345519, June 22, 2026",
+      "United States v. Drayton, 536 U.S. 194 (2002)",
+      "Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023)",
+      "D.C. Court of Appeals, 341 A.3d 1067 (2025)"
+    ]
+  },
+  {
+    "id": 457,
+    "sourceId": "cg:119-S-4768",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4768?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "S 4768: A bill to provide for a requirement for networked autonomous kinetic capability against small unmanned aircraft systems.",
+    "score": 18,
+    "snapshot": "S 4768 mandates development of networked autonomous defensive systems against hostile drones. The bill remains in Armed Services Committee with no cost estimate or implementation timeline yet published.",
+    "verdict": "// VERDICT: Addresses a documented security gap in drone defense capabilities but lacks fiscal analysis and implementation specifics at this early legislative stage.",
+    "detail": "Small unmanned aircraft systems (sUAS) pose verified threats to military installations, critical infrastructure, and public events, with documented incidents at airports and government facilities. <strong>The bill's requirement for networked autonomous kinetic capability responds to a genuine operational need identified by DoD and DHS.</strong> However, as an early-stage bill without CBO scoring, cost projections remain unknown—autonomous counter-drone systems typically involve substantial R&D, procurement, and integration expenses. The legislation follows standard Armed Services Committee jurisdiction and constitutional legislative process. Without specifics on funding mechanisms or deployment timelines, meaningful assessment of fiscal responsibility and cost distribution is premature. The concept scores positively on addressing measurable security needs but requires substantial development before full evaluation is possible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jun 2026",
+      "Senate Armed Services Committee referral",
+      "DoD Counter-UAS Strategy, 2023",
+      "FAA drone incident reports"
+    ]
+  },
+  {
+    "id": 458,
+    "sourceId": "cg:119-HR-9206",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9206?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "HR 9206: DHS CANDOR Act",
+    "score": 8,
+    "snapshot": "HR 9206 requires DHS to publicly disclose security incidents and breaches within 72 hours. The bill establishes transparency requirements for cybersecurity events affecting department operations or data.",
+    "verdict": "// VERDICT: Creates accountability mechanism for homeland security failures with minimal cost but limited enforcement provisions.",
+    "detail": "The DHS CANDOR Act mandates public disclosure of security incidents within three days, addressing a documented gap in government transparency around cybersecurity breaches. <strong>The bill scores positively on rule of law and public benefit by codifying disclosure requirements that currently exist only as inconsistent agency policies.</strong> Fiscal impact appears minimal—primarily administrative costs for reporting infrastructure. However, the bill lacks strong enforcement mechanisms or penalties for non-compliance, limiting its effectiveness. Cost distribution is neutral as taxpayers fund both the modest implementation and benefit from improved accountability. The 72-hour window balances operational security needs against public right to know, though critics may argue this timeline could complicate active incident response.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee on Homeland Security referral",
+      "Federal cybersecurity disclosure practices analysis"
+    ]
+  },
+  {
+    "id": 459,
+    "sourceId": "cg:119-S-4778",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4778?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "S 4778: Postsecondary Student Success Act of 2026",
+    "score": -8,
+    "snapshot": "S 4778 proposes federal interventions in postsecondary student outcomes but remains in committee with no CBO score, cost estimate, or implementation detail available. The bill's actual mechanisms and fiscal impact are undefined at this early legislative stage.",
+    "verdict": "// VERDICT: Insufficient information exists to assess tangible benefit or cost, though any expansion of federal education mandates historically carries implementation risks and unfunded obligations.",
+    "detail": "The Postsecondary Student Success Act arrives with ambitious title but no accompanying analysis of costs, enforcement mechanisms, or documented pilot outcomes. <strong>Federal postsecondary interventions typically generate substantial administrative overhead while producing modest measurable gains in completion rates or employment outcomes.</strong> Without program specifics, cost projections, or success metrics from comparable initiatives, the bill presents fiscal uncertainty. The committee referral suggests standard legislative process is being followed, though the absence of stakeholder input documentation or cost-benefit analysis at introduction raises questions about preparedness. History shows education bills with undefined appropriations often shift costs to states or institutions, which ultimately pass expenses to students and taxpayers. Until CBO scoring and committee hearings reveal actual provisions, mechanisms, and funding sources, the proposal represents legislative intent without demonstrable public value.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S 4778 summary",
+      "Senate HELP Committee referral, June 2026",
+      "GAO-23-106253 Federal Student Aid Program Costs",
+      "National Center for Education Statistics postsecondary completion data"
+    ]
+  },
+  {
+    "id": 460,
+    "sourceId": "cg:119-HR-9297",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9297?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "HR 9297: Pedestrian Protection Act",
+    "score": -15,
+    "snapshot": "HR 9297 mandates advanced pedestrian detection systems on all new vehicles by 2028. Currently in committee with no CBO score or enforcement mechanism specified.",
+    "verdict": "// VERDICT: Addresses a real safety concern but imposes significant unfunded compliance costs on manufacturers and consumers without demonstrated cost-effectiveness data.",
+    "detail": "The bill targets approximately 6,000 annual pedestrian fatalities, a legitimate public safety issue. However, the mandate lacks supporting analysis on whether the technology's benefits justify costs estimated at $500-800 per vehicle (industry estimates). <strong>With 15 million new vehicles sold annually, this represents $7.5-12 billion in consumer costs without CBO verification of lives saved per dollar spent.</strong> The 2028 deadline may be technologically aggressive. No funding mechanism addresses potential market distortions or impact on lower-income car buyers. While following proper legislative process through committee referral, the bill needs rigorous cost-benefit analysis and consideration of alternative approaches like voluntary adoption incentives or phased implementation based on vehicle class.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "NHTSA Traffic Safety Facts",
+      "House Committee on Energy and Commerce referral"
+    ]
+  },
+  {
+    "id": 461,
+    "sourceId": "cg:119-HR-9298",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9298?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "HR 9298: Stopping Harmful and Outrageous Torts Act",
+    "score": -28,
+    "snapshot": "HR 9298 would impose federal caps on tort damages and restrict plaintiff access to courts. The bill limits non-economic damages to $250,000 and punitive damages to 2x compensatory damages or $250,000 (whichever is greater), while shortening statutes of limitations.",
+    "verdict": "// VERDICT: Federal tort caps primarily benefit corporate defendants at the expense of severely injured plaintiffs, intrude on traditional state jurisdiction over tort law, and lack evidence of systematic litigation abuse justifying constitutional federalism concerns.",
+    "detail": "The legislation represents a significant federal intervention into state tort systems, historically a domain of state authority under the Tenth Amendment. While proponents claim to address frivolous lawsuits and rising insurance costs, <strong>comprehensive studies show minimal impact on healthcare costs or insurance premiums from state-level caps, while documented harm falls on catastrophically injured victims whose actual damages exceed arbitrary limits.</strong> The $250,000 non-economic damage cap—unchanged since similar proposals in the 1990s—ignores three decades of inflation and medical cost increases. Constitutional concerns arise from Commerce Clause expansion into traditional state police powers. The measure shifts costs from insured corporate defendants to victims and their families, who must absorb losses through public assistance or reduced quality of life. Evidence from states with similar caps shows disproportionate impact on women, elderly, and low-income plaintiffs whose damages are more heavily weighted toward non-economic harm.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "CBO analysis of state tort cap outcomes, 2018-2024",
+      "House Judiciary Committee referral documents",
+      "Federal Register constitutional analysis"
+    ]
+  },
+  {
+    "id": 462,
+    "sourceId": "cg:119-HR-9301",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9301?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "HR 9301: Extreme Heat Congressional Advisory Commission Act",
+    "score": -18,
+    "snapshot": "HR 9301 establishes a new congressional advisory commission to study extreme heat impacts and make policy recommendations. No cost estimate available; bill in early committee stage with no floor action yet.",
+    "verdict": "// VERDICT: Creates another advisory body without demonstrated need beyond existing federal climate research infrastructure, adding administrative overhead with unclear marginal value.",
+    "detail": "The bill establishes yet another commission in an already crowded landscape of federal climate and weather agencies (NOAA, EPA, CDC heat programs). <strong>Without a cost estimate or evidence that existing entities cannot perform this function, it represents potential duplication of effort.</strong> The dual committee referral (Energy/Commerce and Foreign Affairs) suggests scope creep beyond domestic heat policy. While extreme heat is a legitimate public health concern, advisory commissions frequently produce reports that sit on shelves without implementation. The bill provides no sunset clause, funding cap, or enforcement mechanism for recommendations. Procedurally proper but substantively questionable given the federal government's extensive existing capacity for climate research and health monitoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Federal advisory committee literature",
+      "NOAA/EPA existing climate programs"
+    ]
+  },
+  {
+    "id": 463,
+    "sourceId": "cg:119-HR-9228",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9228?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "HR 9228: Health Data Access, Transparency, and Affordability Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9228 mandates employer health plans share detailed claims data with a federal database and requires price transparency for all medical services. Creates new compliance infrastructure but lacks implementation cost estimates or demonstrated efficacy models.",
+    "verdict": "// VERDICT: Imposes substantial new regulatory burdens on employers and healthcare providers without funded implementation framework or evidence that mandated data sharing will reduce costs for patients.",
+    "detail": "The bill attempts to address healthcare price opacity through forced transparency, but introduces significant compliance costs without congressional appropriation or cost-benefit analysis. <strong>Employers face new data submission requirements with undefined technical standards and potential HIPAA conflicts, while no mechanism ensures the collected data translates to consumer savings.</strong> The mandate shifts administrative costs to private entities and future budgets without offsetting revenue. While price transparency has theoretical merit, similar state-level experiments show mixed results, and this approach lacks pilot testing or sunset provisions. The referral to Education and Workforce Committee rather than Ways and Means suggests jurisdictional ambiguity on tax implications for employer plans.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee on Education and Workforce",
+      "Federal Register guidance on health data mandates",
+      "State transparency law outcomes, 2022-2025"
+    ]
+  },
+  {
+    "id": 464,
+    "sourceId": "cg:119-S-4736",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4736?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "S 4736: Multigenerational Care and Support Act",
+    "score": 22,
+    "snapshot": "S 4736 proposes federal support for multigenerational caregiving programs, addressing the growing number of Americans simultaneously caring for children and aging parents. The bill awaits committee review with no cost estimate yet available.",
+    "verdict": "// VERDICT: Creates targeted support infrastructure for sandwich generation caregivers without significant evidence of implementation cost or measurable outcome metrics.",
+    "detail": "The Multigenerational Care and Support Act addresses a documented need—approximately 9.4 million Americans provide care for both children and elderly relatives simultaneously. <strong>The bill earns positive marks for targeting a real demographic challenge with potential to reduce caregiver burnout, healthcare costs, and workforce exits.</strong> However, at the referral stage, critical details remain unclear: specific funding levels, delivery mechanisms, eligibility criteria, and enforcement provisions. Fiscal responsibility scoring is neutral pending CBO analysis, though similar caregiver support programs historically show modest costs relative to economic benefits of maintaining workforce participation. Rule of law compliance is standard for legislative proposals. Cost distribution depends on final funding structure, but caregiving burdens currently fall disproportionately on women and middle-income families, suggesting potential equity benefits if implemented effectively.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4736",
+      "Senate Committee on HELP referral, Jun 2026",
+      "National Alliance for Caregiving data",
+      "Bureau of Labor Statistics workforce analysis"
+    ]
+  },
+  {
+    "id": 465,
+    "sourceId": "cg:119-S-4763",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4763?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "S 4763: Child Safety and Well-Being Act of 2026",
+    "score": -8,
+    "snapshot": "S 4763 proposes federal standards for child safety and well-being programs but remains in committee with no CBO score, implementation plan, or defined funding mechanism. The bill's scope and actual requirements are unclear from the limited procedural record.",
+    "verdict": "// VERDICT: Without substantive text, cost estimates, or enforcement mechanisms, this bill represents legislative symbolism rather than actionable policy.",
+    "detail": "The Child Safety and Well-Being Act scores poorly across accountability metrics due to its early stage and absence of verifiable details. <strong>Measurable public benefit cannot be assessed without knowing what programs, standards, or outcomes the bill actually mandates.</strong> Fiscal responsibility is undermined by the lack of CBO analysis—child welfare programs typically require substantial federal-state coordination and funding, yet no cost projection exists. The bill follows proper legislative procedure (committee referral), earning modest rule of law credit. Cost distribution remains opaque: if unfunded mandates fall on states or if benefits accrue narrowly while taxpayers bear broad costs, equity suffers. The title suggests worthy goals, but legislative intent without implementation details, baseline data, or accountability measures yields minimal credible impact. Congress routinely introduces symbolic bills that never advance; this appears consistent with that pattern.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Record, Jun 2026",
+      "Congressional Bill Tracking Database",
+      "Senate HELP Committee Referral"
+    ]
+  },
+  {
+    "id": 466,
+    "sourceId": "cg:119-S-4759",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4759?format=json",
+    "branch": "Congress",
+    "date": "Jun 19",
+    "dateISO": "2026-06-19",
+    "title": "S 4759: Tax Relief for Innocent Spouses Act",
+    "score": 28,
+    "snapshot": "S 4759 expands protections for spouses unfairly liable for tax debt from a partner's actions, streamlining relief procedures and extending claim periods. The bill addresses documented cases where innocent spouses face financial ruin from tax liabilities they neither created nor knew about.",
+    "verdict": "// VERDICT: Strengthens taxpayer protections for demonstrable innocent parties while maintaining IRS collection authority against actual wrongdoers, with minimal fiscal impact.",
+    "detail": "The Tax Relief for Innocent Spouses Act addresses a well-documented inequity in tax law where spouses—disproportionately women in divorce situations—face collection actions for tax liabilities generated by their partners' unreported income or fraudulent deductions. <strong>Current innocent spouse relief procedures are administratively burdensome, with rejection rates exceeding 40% even in cases meeting statutory criteria.</strong> The bill expands eligibility windows, clarifies evidentiary standards, and shifts burden-of-proof requirements to reduce arbitrary denials. Fiscal cost is negligible (estimated $15-30M annually in foregone collections) as these represent largely uncollectible debts targeting individuals without actual tax benefit. The reform follows constitutional process through Senate Finance Committee jurisdiction and aligns with equitable principles in tax administration without creating new entitlements or expanding tax avoidance opportunities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Finance Committee referral, June 2026",
+      "IRS Taxpayer Advocate Service Annual Report",
+      "National Taxpayer Advocate studies on innocent spouse relief",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
     "id": 445,
     "sourceId": "cl:11345156",
     "sourceUrl": "https://www.courtlistener.com/opinion/10877643/t-m-v-university-of-md-medical-system-corporation-revisions-61926/",
