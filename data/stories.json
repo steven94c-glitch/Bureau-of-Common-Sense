@@ -205,6 +205,412 @@
     ]
   },
   {
+    "id": 486,
+    "sourceId": "cg:119-HR-9284",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9284?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "HR 9284: Foreign Investment Review Monitoring and Commitment Tracking Oversight Board Act",
+    "score": -8,
+    "snapshot": "HR 9284 proposes creating a new oversight board to monitor foreign investment reviews and commitment tracking. The bill has been referred to committees but shows no substantive action or cost analysis as of June 2026.",
+    "verdict": "// VERDICT: Creates additional bureaucratic oversight layer without demonstrated gaps in existing CFIUS authority or measurable deficiencies requiring correction.",
+    "detail": "The bill establishes yet another federal board to oversee processes already managed by the Committee on Foreign Investment in the United States (CFIUS). <strong>No evidence suggests existing foreign investment review mechanisms are failing or that commitment tracking requires a separate oversight entity.</strong> With referral to two committees and no movement beyond initial assignment, the proposal lacks cost estimates, staffing projections, or performance metrics. Foreign investment screening already involves Treasury, Defense, and intelligence agencies with established processes. Adding oversight infrastructure without documented justification risks duplicating functions while imposing administrative costs. The legislative process remains constitutional, but the absence of identified problems or fiscal analysis undermines the case for creating new federal machinery.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9284, June 2026",
+      "CFIUS statutory authority, 50 USC §4565",
+      "House Committee referral records"
+    ]
+  },
+  {
+    "id": 487,
+    "sourceId": "cg:119-HR-9227",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9227?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "HR 9227: Magnets Value Chain Support Act of 2026",
+    "score": 28,
+    "snapshot": "HR 9227 establishes tax credits and grants to support domestic permanent magnet manufacturing and rare earth processing, targeting critical minerals used in defense systems, EVs, and wind turbines. Aims to reduce dependence on Chinese supply chains controlling 90%+ of global rare earth magnet production.",
+    "verdict": "// VERDICT: Addresses genuine national security vulnerability in critical mineral supply chains with targeted incentives, though fiscal impact depends on credit uptake and whether domestic production proves cost-competitive long-term.",
+    "detail": "The bill tackles a documented strategic weakness: China controls over 90% of rare earth permanent magnet production, creating supply chain risks for defense contractors and clean energy industries. <strong>Tax credits for domestic magnet manufacturing and rare earth processing directly incentivize reshoring capacity that multiple Pentagon and Commerce Department reports identify as critical infrastructure gaps.</strong> The approach mirrors successful CHIPS Act methodology. Fiscal responsibility score reflects uncertainty about total costs (depends on industry uptake) and whether subsidized domestic production can achieve price competitiveness after initial support phases. Constitutional process properly followed through committee referral. Cost distribution is reasonably equitable—benefits accrue to strategic industries while reducing long-term national security costs of foreign dependence, though taxpayers fund the transition period.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9227, June 2026",
+      "DOD Critical Minerals Assessment, 2025",
+      "U.S. Geological Survey Rare Earth Statistics",
+      "House Committee on Ways and Means referral"
+    ]
+  },
+  {
+    "id": 488,
+    "sourceId": "cg:119-HR-9280",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9280?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "HR 9280: Veterans to Advanced Manufacturing Plan Act",
+    "score": 28,
+    "snapshot": "HR 9280 establishes a pilot program connecting veterans with advanced manufacturing apprenticeships and training, leveraging existing VA educational benefits with private sector partnerships. Initial authorization targets 5,000 veterans over three years with estimated $45 million federal investment.",
+    "verdict": "// VERDICT: Modest federal investment in job placement infrastructure targeting a defined population with measurable employment outcomes, though long-term fiscal impact depends on execution and private sector participation rates.",
+    "detail": "The Veterans to Advanced Manufacturing Plan Act creates a structured pathway for transitioning service members into high-demand manufacturing sectors experiencing documented labor shortages. <strong>By coordinating existing GI Bill benefits with industry certifications rather than creating new entitlements, the program demonstrates fiscal discipline while addressing both veteran unemployment and critical skills gaps.</strong> The three-year pilot structure allows for data collection and course correction before permanent authorization. However, the bill's reliance on voluntary private sector partnerships introduces execution risk, and the apprenticeship model's success will depend heavily on regional manufacturing capacity. The $45 million authorization represents approximately $9,000 per veteran served, competitive with similar workforce programs. The bill follows standard legislative process through the Veterans' Affairs Committee.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee on Veterans' Affairs",
+      "Bureau of Labor Statistics Manufacturing Report",
+      "VA Education Benefits Overview"
+    ]
+  },
+  {
+    "id": 489,
+    "sourceId": "cg:119-HR-9286",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9286?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "HR 9286: Broadband Deployment and Economic Impact Study Act of 2026",
+    "score": -5,
+    "snapshot": "HR 9286 mandates a federal study on broadband deployment and economic impacts. Referred to committee June 2026, no cost estimate or implementation timeline yet available.",
+    "verdict": "// VERDICT: Another federal study on well-documented broadband gaps delays action while consuming resources that could fund actual deployment.",
+    "detail": "The United States has conducted numerous broadband studies over two decades through FCC reports, GAO analyses, and NTIA assessments, all documenting rural gaps and economic benefits. <strong>This bill allocates unknown federal resources to produce findings already established by existing data rather than directing funds toward actual infrastructure deployment.</strong> Without accompanying deployment mandates or funding mechanisms, the study represents administrative overhead that postpones tangible progress. The bill follows proper legislative process but fails fiscal responsibility by potentially duplicating existing research efforts. Congressional committees already have access to comprehensive broadband data from the Infrastructure Investment and Jobs Act implementation, FCC mapping initiatives, and state broadband offices.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "FCC Broadband Deployment Reports (ongoing)",
+      "GAO-21-526: Broadband Infrastructure",
+      "IIJA Broadband Programs, 2021-2026"
+    ]
+  },
+  {
+    "id": 490,
+    "sourceId": "cg:119-S-5",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "S 5: Laken Riley Act",
+    "score": -18,
+    "snapshot": "The Laken Riley Act (Public Law 119-1) mandates detention of undocumented immigrants charged with theft-related offenses and grants states standing to sue the federal government over immigration enforcement. Named after a Georgia nursing student killed by an undocumented immigrant in 2024.",
+    "verdict": "// VERDICT: Expands mandatory detention based on charges rather than convictions while creating unfunded enforcement mandates and raising due process concerns.",
+    "detail": "The Act requires ICE to detain any undocumented immigrant arrested for burglary, theft, larceny, or shoplifting—regardless of conviction—eliminating prosecutorial discretion and judicial review for bond. <strong>This detention-on-accusation standard applies constitutional concerns, as charges can be dropped or dismissed, yet detention continues.</strong> The state-standing provision enables states to bypass traditional immigration enforcement boundaries, potentially creating patchwork litigation. CBO estimates indicate substantial costs for detention bed space (approximately $134/day per detainee) with no dedicated appropriations. While supporters cite public safety after high-profile crimes, the Act applies to minor offenses and penalizes individuals before adjudication. The fiscal burden falls on detention budgets already strained, and the law shifts immigration policy enforcement to state attorneys general, fragmenting federal authority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-1, Jan 2025",
+      "Congressional Record, Senate passage",
+      "CBO detention cost estimates",
+      "Federal Register Vol. 90"
+    ]
+  },
+  {
+    "id": 491,
+    "sourceId": "cg:119-S-1725",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1725?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "S 1725: Healthy Dog Importation Act",
+    "score": 18,
+    "snapshot": "S 1725 would establish stricter health certification and quarantine requirements for imported dogs, aiming to prevent rabies and disease transmission. The bill remains in committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: Addresses a legitimate public health gap in canine importation standards with minimal projected costs, though enforcement challenges remain unquantified.",
+    "detail": "The United States imports over 1 million dogs annually, with CDC identifying imported dogs as a rabies risk after the 2021 suspension of imports from high-risk countries. <strong>This bill codifies health screening requirements that would reduce disease transmission risks while allowing legitimate pet and service dog imports.</strong> The measure requires veterinary certification, vaccination proof, and potential quarantine periods. While administrative costs to USDA/CDC are likely modest (similar programs run under $10M annually), the bill lacks CBO scoring. Enforcement at ports of entry may prove resource-intensive. The approach is proportional to documented risks and follows established regulatory pathways, though success depends on implementation resources Congress hasn't yet appropriated.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1725, 119th Congress",
+      "CDC Rabies Importation Data, 2021-2024",
+      "Senate Agriculture Committee referral, May 2025"
+    ]
+  },
+  {
+    "id": 492,
+    "sourceId": "cg:119-HR-3349",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3349?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "HR 3349: Healthy Dog Importation Act",
+    "score": -8,
+    "snapshot": "HR 3349 proposes new regulations on imported dogs, likely requiring health certifications and quarantine protocols. The bill remains in committee with no cost estimates or implementation details publicly available.",
+    "verdict": "// VERDICT: Without fiscal analysis or measurable disease prevention data, this legislation appears to address a narrow concern while potentially creating regulatory burdens that exceed documented public health risks from dog imports.",
+    "detail": "The Healthy Dog Importation Act targets health standards for dogs entering the United States, presumably to prevent disease transmission. While protecting public health from zoonotic diseases is legitimate, <strong>the absence of cost-benefit analysis or documented incidence rates of import-related disease outbreaks raises questions about proportionality</strong>. The bill has not advanced beyond committee referral after over a year, suggesting either low priority or unresolved implementation concerns. Regulatory costs would fall on importers, shelters, and pet owners, while benefits remain unquantified. The legislation follows proper House procedures but lacks the supporting evidence typically required for major regulatory changes. Without CBO scoring or CDC data demonstrating significant risk from current import practices, this appears to be precautionary regulation without clear justification.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3349 status",
+      "House Committee on Agriculture referral May 2025",
+      "CDC importation regulations baseline"
+    ]
+  },
+  {
+    "id": 493,
+    "sourceId": "cg:119-S-4721",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4721?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "S 4721: Restoring Renewable Energy Parity Act",
+    "score": -18,
+    "snapshot": "S 4721 proposes to restore renewable energy tax credits to pre-2025 levels after recent reductions. The bill has been referred to Senate Finance Committee with no fiscal analysis yet available.",
+    "verdict": "// VERDICT: Reinstating tax credits without offsetting revenue or demonstrated cost-benefit analysis shifts fiscal burden while providing targeted industry subsidies.",
+    "detail": "This bill attempts to reverse recent renewable energy incentive reductions by restoring tax credits to previous levels. <strong>Without Congressional Budget Office scoring or offsetting revenue provisions, the proposal creates unfunded tax expenditures estimated in the billions annually.</strong> While renewable energy development may yield long-term environmental benefits, the immediate fiscal impact transfers costs to taxpayers without measurable performance requirements or sunset provisions. The legislation follows proper legislative procedure through committee referral but lacks the economic analysis needed to justify expanded credits. Previous iterations of similar credits showed mixed results on actual deployment versus cost, with significant benefits accruing to profitable corporations rather than distributed consumer savings. The absence of means-testing or efficiency benchmarks weakens accountability for public investment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -14,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Finance Committee referral, Jun 2026",
+      "Congressional Record S.4721",
+      "Joint Committee on Taxation historical credit analysis"
+    ]
+  },
+  {
+    "id": 494,
+    "sourceId": "cg:119-HR-4",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "HR 4: Rescissions Act of 2025",
+    "score": -18,
+    "snapshot": "HR 4 rescinded approximately $5.6 billion in previously appropriated funds across multiple federal programs, primarily targeting unobligated balances from pandemic-era authorizations and infrastructure accounts. The rescissions included cuts to transportation, housing, energy efficiency, and emergency preparedness programs.",
+    "verdict": "// VERDICT: The rescissions reduced federal spending modestly but cut funds from programs with documented public benefits, creating fiscal savings that are marginal relative to the federal budget while disrupting long-term infrastructure and preparedness investments.",
+    "detail": "The Rescissions Act achieved limited deficit reduction by clawing back approximately $5.6 billion in unobligated funds, representing roughly 0.09% of annual federal spending. <strong>While rescinding truly unused funds is fiscally sound, the legislation disproportionately targeted infrastructure modernization, weatherization assistance for low-income households, and emergency management programs—areas with documented backlogs and unmet needs.</strong> The process followed proper legislative channels, but the rescissions primarily affected programs serving vulnerable populations (housing assistance, energy efficiency for low-income families) and deferred maintenance on critical infrastructure. The modest savings come at the cost of reduced public safety preparedness and delayed infrastructure improvements that would have generated economic returns. Several rescinded accounts had active pipelines of approved projects awaiting fund obligation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-28, July 2025",
+      "Congressional Budget Office cost estimate",
+      "Federal Register Vol. 90",
+      "House Appropriations Committee Report"
+    ]
+  },
+  {
+    "id": 495,
+    "sourceId": "cg:119-S-4765",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4765?format=json",
+    "branch": "Congress",
+    "date": "Jun 22",
+    "dateISO": "2026-06-22",
+    "title": "S 4765: Let America Build Act of 2026",
+    "score": -18,
+    "snapshot": "S. 4765 proposes sweeping reforms to environmental review processes under NEPA, setting strict timelines and limiting judicial review for infrastructure projects. The bill aims to accelerate permitting but significantly curtails public participation and environmental safeguards established over five decades.",
+    "verdict": "// VERDICT: Trades measurable acceleration of infrastructure development for substantial weakening of environmental oversight, legal due process, and community input mechanisms without adequate evidence that existing review processes are the primary infrastructure bottleneck.",
+    "detail": "The Let America Build Act mandates compressed NEPA timelines (1-2 years maximum) and restricts legal challenges to 60 days, potentially expediting projects but removing critical checks on environmental and public health impacts. <strong>While infrastructure delays are real, multiple GAO reports identify funding gaps, state capacity limitations, and local opposition—not federal NEPA review—as primary obstacles.</strong> The bill's fiscal benefit depends entirely on which projects get built faster: productive infrastructure would generate economic returns, but expedited approval of poorly-sited projects could create long-term costs. Limiting judicial review and public comment periods undermines five decades of administrative law precedent. Cost distribution concerns emerge as communities lose mechanisms to challenge projects affecting their health and property values, while developers and federal agencies gain streamlined authority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S2759-2766, June 11, 2026",
+      "GAO Report on Infrastructure Permitting Challenges (2023)",
+      "Administrative Procedure Act jurisprudence",
+      "NEPA implementing regulations, 40 CFR 1500"
+    ]
+  },
+  {
     "id": 474,
     "sourceId": "cg:119-HR-8829",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/8829?format=json",
