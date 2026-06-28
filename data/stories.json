@@ -1,5 +1,408 @@
 [
   {
+    "id": 531,
+    "sourceId": "cg:119-HR-1181",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1181?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "HR 1181: Protecting Privacy in Purchases Act",
+    "score": -18,
+    "snapshot": "HR 1181 'Protecting Privacy in Purchases Act' reported to House floor under closed rule for consideration. Bill details on privacy protections and implementation mechanisms not specified in available legislative text.",
+    "verdict": "// VERDICT: Insufficient information to assess substantive impact; procedural restrictions via closed rule limit deliberative process without documented justification for urgency.",
+    "detail": "The bill advances through a closed rule (H. Res. 1377), preventing floor amendments and constraining democratic deliberation. Without access to the bill's substantive text, core questions remain unanswered: <strong>What specific privacy protections does it mandate, what compliance costs does it impose on businesses, and does it preempt stronger state laws?</strong> Privacy legislation can range from genuine consumer protection to industry-friendly preemption that weakens existing safeguards. The closed rule format is typically reserved for urgent or highly technical measures where amendments could undermine carefully balanced provisions, but no such justification appears in the record. The one-hour debate allowance and single motion to recommit provide minimal opportunity for substantive scrutiny of a policy area with significant constitutional and economic implications.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "H. Res. 1377, Congressional Record, Jun 2026",
+      "House Rules Committee Report",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 532,
+    "sourceId": "cg:119-S-4791",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4791?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "S 4791: A bill to abolish the Anti-Weaponization Fund, and for other purposes.",
+    "score": -18,
+    "snapshot": "S 4791 proposes to abolish the Anti-Weaponization Fund, a recently established mechanism intended to provide legal support for individuals targeted by government investigations. The bill offers no replacement framework or alternative protections.",
+    "verdict": "// VERDICT: Eliminates legal protections without addressing underlying concerns about investigative overreach or providing alternative safeguards.",
+    "detail": "The Anti-Weaponization Fund was established to assist individuals facing what proponents characterized as politically motivated federal investigations. <strong>This bill's abolition removes a protection mechanism without proposing reforms to address the investigative practices that prompted its creation.</strong> While the fund's necessity and effectiveness remain debated, eliminating it entirely without replacement or procedural reforms leaves a gap in protections for citizens facing federal scrutiny. The bill provides no cost savings analysis, no alternative framework, and no evidence that the fund itself caused harm. The approach reflects reactive rather than constructive policymaking—removing a controversial program without addressing the underlying institutional concerns that led to its creation or ensuring due process protections remain adequate.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4791 bill text, Congressional Record S2820-2821",
+      "Senate Judiciary Committee referral, June 2026",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 533,
+    "sourceId": "cg:119-S-1133",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1133?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "S 1133: Sunshine in the Courtroom Act of 2025",
+    "score": 22,
+    "snapshot": "S 1133 would authorize federal appellate and district courts to permit televised coverage of proceedings, with trial judge discretion and protections for witnesses and parties who object. No federal funding required; implementation voluntary.",
+    "verdict": "// VERDICT: Increases government transparency and public access to judicial proceedings while preserving judicial discretion and witness protections, at negligible cost.",
+    "detail": "The Sunshine in the Courtroom Act addresses a long-standing gap in federal court transparency by permitting cameras in courtrooms where state courts have allowed them for decades. <strong>The legislation balances public accountability with fair trial concerns by requiring presiding judges to approve coverage and allowing witnesses to opt out.</strong> Measurable benefits include enhanced civic education, deterrence of judicial misconduct, and reduced misinformation about court proceedings. Fiscal impact is minimal since courts would use existing technology infrastructure. The bill follows standard legislative process and respects separation of powers by leaving implementation decisions to the judiciary. Cost distribution is equitable—taxpayers bear virtually no expense while all citizens gain access. Minor concerns exist around potential witness intimidation or grandstanding, but judicial discretion mitigates these risks.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1133, 119th Congress",
+      "Senate Legislative Calendar No. 444",
+      "Federal Judicial Center studies on courtroom technology",
+      "State court camera access programs (C-SPAN archives)"
+    ]
+  },
+  {
+    "id": 534,
+    "sourceId": "cg:119-S-3799",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3799?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "S 3799: Healthy Start Reauthorization Act of 2026",
+    "score": 28,
+    "snapshot": "Reauthorizes the Healthy Start program providing maternal and infant health services to high-risk communities through 2031. Authorizes $152M annually for evidence-based interventions targeting infant mortality and maternal health disparities.",
+    "verdict": "// VERDICT: Extends proven program reducing infant mortality in underserved areas with modest cost and established implementation framework.",
+    "detail": "The Healthy Start program has operated since 1991 targeting communities with infant mortality rates at least 1.5 times the national average. <strong>Independent evaluations show participating communities experienced 12-15% reductions in infant mortality and improved prenatal care access compared to similar non-participating areas.</strong> The five-year reauthorization at approximately $152M annually represents 0.002% of federal spending while addressing documented health disparities. The program uses competitive grants with performance metrics and community-based delivery models. Authorization follows standard legislative process through Senate HELP Committee. Cost-benefit analysis favorable given prevention focus reduces downstream Medicaid expenditures for neonatal intensive care. Primary beneficiaries are low-income families in 100+ communities with historically high infant mortality, with broader societal benefits from reduced preventable deaths.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate HELP Committee Report 2026",
+      "HHS Healthy Start Program Evaluation 2024",
+      "Congressional Budget Office preliminary estimate",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
+    "id": 535,
+    "sourceId": "cg:119-S-4807",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4807?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "S 4807: Honor Gold Star Families Act",
+    "score": 32,
+    "snapshot": "S 4807 proposes expanded benefits or recognition for Gold Star families (families of service members who died in military service). The bill was introduced in the Senate and referred to Armed Services Committee in June 2026.",
+    "verdict": "// VERDICT: Honors families of fallen service members with likely modest fiscal impact and clear constitutional authority, though specific benefit details and cost analysis await committee review.",
+    "detail": "The Honor Gold Star Families Act addresses recognition and support for families who lost service members in the line of duty. <strong>Congress has clear constitutional authority over military benefits under Article I, and Gold Star family support programs historically command bipartisan backing.</strong> Without the bill text, precise benefits and costs remain unknown, but similar legislation typically involves memorial access, healthcare extensions, or educational assistance with annual costs in the tens of millions rather than billions. Measured public benefit scores positively as these families bear extraordinary sacrifice, though outcomes depend on implementation specifics. Fiscal responsibility assumes modest cost against defense budgets exceeding $800 billion. Rule of law is straightforward—normal legislative process through Armed Services. Cost distribution is generally appropriate as beneficiaries are those who paid the ultimate family cost for national service.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4807, 119th Congress",
+      "Senate Armed Services Committee referral, June 2026",
+      "Congressional Record, June 2026"
+    ]
+  },
+  {
+    "id": 536,
+    "sourceId": "cg:119-HR-8840",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8840?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "HR 8840: Fair Care Act of 2026",
+    "score": -5,
+    "snapshot": "HR 8840 remains in committee referral with no recorded votes, hearings, or cost estimates as of June 2026. Without bill text or substantive legislative action, measurable impact cannot be determined.",
+    "verdict": "// VERDICT: Insufficient legislative progress to assess concrete outcomes; multi-committee referral suggests complex jurisdictional scope but no documented advancement toward implementation.",
+    "detail": "The Fair Care Act has been referred to eight House committees simultaneously, indicating sweeping provisions likely touching healthcare delivery, taxation, labor standards, and government operations. <strong>However, one month after referral, no committee has scheduled hearings, markups, or released cost analyses.</strong> The title suggests healthcare reform intent, but without bill text, CBO scoring, or stakeholder testimony in the record, we cannot verify whether proposed mechanisms would expand access, control costs, or shift burdens. Multi-committee jurisdiction often signals either comprehensive reform or legislative complexity that stalls progress. The \"Fair Care\" label carries no inherent policy content. Scoring reflects absence of measurable evidence rather than endorsement or condemnation of unstated provisions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 14, 2026",
+      "House Committee Referral Log",
+      "Congress.gov Bill Status HR 8840"
+    ]
+  },
+  {
+    "id": 537,
+    "sourceId": "cg:119-S-4834",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4834?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "S 4834: Prioritizing American Talent Act",
+    "score": -18,
+    "snapshot": "S. 4834 proposes restricting H-1B visa programs to prioritize domestic workers. As of June 2026, the bill has only been referred to committee with no floor action, CBO score, or enacted provisions.",
+    "verdict": "// VERDICT: Legislative proposal still in early committee stage with no implemented impact, cost analysis, or documented effects on employment outcomes.",
+    "detail": "The Prioritizing American Talent Act represents an immigration reform proposal that has not progressed beyond initial committee referral. Without legislative text, CBO analysis, or hearing records, the actual mechanisms and impacts remain speculative. <strong>Historical H-1B restriction attempts have shown mixed employment effects, with some sectors experiencing talent shortages while displacement of American workers in certain fields has been documented.</strong> The bill scores poorly on measurable benefit (-7.5) due to lack of implementation or data. Fiscal impact cannot be assessed without specifics (-5). It follows proper legislative process (+8.5), earning points for constitutional procedure. Cost distribution (-14) is penalized heavily because visa restrictions often shift costs to high-growth sectors, potentially slowing innovation while uncertain benefits to American workers remain unquantified at this stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -14,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Senate Committee on the Judiciary referral",
+      "Historical H-1B policy literature"
+    ]
+  },
+  {
+    "id": 538,
+    "sourceId": "cg:119-S-4726",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4726?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "S 4726: PEACE in Sudan Act",
+    "score": 22,
+    "snapshot": "S 4726 authorizes targeted sanctions, humanitarian aid coordination, and diplomatic measures to address the ongoing conflict in Sudan. The bill passed committee with bipartisan support and requires no direct appropriations beyond existing State Department budgets.",
+    "verdict": "// VERDICT: Applies established foreign policy tools to a humanitarian crisis with minimal fiscal cost and clear constitutional authority.",
+    "detail": "The PEACE in Sudan Act employs standard congressional foreign policy mechanisms—sanctions authorities, humanitarian coordination mandates, and reporting requirements—to address documented atrocities in Sudan's civil conflict. <strong>The bill scores well on rule of law (proper committee process, within Congress's foreign affairs powers) and cost distribution (negligible new spending, leverages existing diplomatic infrastructure).</strong> Measurable benefit is moderate: sanctions and coordination can pressure belligerents and improve aid delivery, though historical effectiveness varies. Fiscal responsibility is strong given the minimal budget impact. The bill avoids unfunded mandates and maintains oversight through required State Department reports. Primary limitation: diplomatic tools alone rarely resolve active conflicts without complementary military or economic leverage from regional actors.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4726, 119th Congress",
+      "Senate Foreign Relations Committee Report, Jun 2026",
+      "State Department Sudan Crisis Updates",
+      "Congressional Research Service, Foreign Sanctions Authority"
+    ]
+  },
+  {
+    "id": 539,
+    "sourceId": "cg:119-S-4844",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4844?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "S 4844: PFAS Alternatives Act",
+    "score": 18,
+    "snapshot": "S 4844 would fund research into alternatives to PFAS (per- and polyfluoroalkyl substances), persistent chemicals linked to health risks. The bill has been referred to committee with no cost estimate or implementation details yet available.",
+    "verdict": "// VERDICT: Addresses a documented public health concern but lacks fiscal details and remains in early legislative stages with uncertain implementation pathway.",
+    "detail": "PFAS contamination affects drinking water for millions of Americans, with EPA documentation linking exposure to cancer, liver damage, and immune system effects. <strong>Funding alternatives research represents a preventive approach to a problem with estimated cleanup costs exceeding $40 billion nationally.</strong> However, the bill provides no appropriation amount, timeline, or coordination mechanism with existing EPA PFAS programs. Without CBO scoring, fiscal responsibility cannot be fully assessed. The legislative process follows standard Senate procedure through committee referral. Cost distribution depends entirely on未appropriated funding levels and whether research translates to practical alternatives that industry adopts. Early-stage legislation with sound rationale but insufficient detail for full evaluation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "EPA PFAS Strategic Roadmap",
+      "Senate HELP Committee referral"
+    ]
+  },
+  {
+    "id": 540,
+    "sourceId": "cg:119-S-4783",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4783?format=json",
+    "branch": "Congress",
+    "date": "Jun 25",
+    "dateISO": "2026-06-25",
+    "title": "S 4783: COMPASS Act",
+    "score": -18,
+    "snapshot": "S. 4783, the COMPASS Act, was introduced in the Senate on June 15, 2026, and referred to Armed Services. The bill's specific provisions are not detailed in the available information, limiting concrete impact assessment.",
+    "verdict": "// VERDICT: Insufficient legislative detail prevents objective scoring of public benefit or fiscal impact; referral to committee represents standard procedural baseline with no immediate measurable effect.",
+    "detail": "The COMPASS Act remains in early legislative stage with committee referral only. Without amendment text, cost estimates, or stated objectives, assessment relies on procedural benchmarks alone. <strong>The bill receives negative scoring primarily due to absence of transparency—legislation affecting armed services typically carries significant fiscal implications and public interest, yet no CBO score, summary, or substantive detail is publicly available at this stage.</strong> Standard committee process is followed (neutral on rule of law), but lack of accessible information about defense spending proposals harms public accountability. Measurable benefit cannot be assessed without knowing what the bill actually does. The negative score reflects informational deficit rather than confirmed harm, with the understanding that defense bills often involve substantial costs that should be disclosed early in the process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 15, 2026",
+      "Senate Armed Services Committee referral",
+      "Congress.gov bill status"
+    ]
+  },
+  {
     "id": 506,
     "sourceId": "cl:11347763",
     "sourceUrl": "https://www.courtlistener.com/opinion/10880244/monsanto-v-durnell/",
@@ -19888,410 +20291,6 @@
       "Congressional Record, 119th Congress",
       "FEMA Disaster Declaration Statistics",
       "House Committee Records, May 2026"
-    ]
-  },
-  {
-    "id": 37,
-    "sourceId": "cg:119-HR-8106",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8106?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 8106: RESCUE Act",
-    "score": -18,
-    "snapshot": "HR 8106 (RESCUE Act) was referred to House committees on March 26, 2026, and has not progressed beyond initial committee assignment. No legislative text, cost estimates, or committee hearings are publicly available as of May 11, 2026.",
-    "verdict": "// VERDICT: Insufficient legislative development to assess measurable impact; procedural status suggests low priority or contentious provisions stalling advancement.",
-    "detail": "The RESCUE Act remains in the earliest stage of the legislative process, having been referred to Foreign Affairs and Financial Services committees without subsequent action for over six weeks. <strong>Without bill text, CBO scoring, or committee markup, any assessment of public benefit, fiscal impact, or distributional effects is impossible.</strong> The dual-committee referral suggests cross-jurisdictional complexity involving international relations and domestic finance, but stalled progress indicates either lack of consensus or deprioritization. The action follows constitutional process for bill introduction, earning neutral marks for rule of law. However, the absence of transparency around provisions—combined with a title suggesting emergency rescue measures without defined beneficiaries—warrants skepticism about fiscal responsibility and cost distribution until details emerge.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, March 26, 2026",
-      "House Committee referral records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 38,
-    "sourceId": "cg:119-HR-8524",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8524?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 8524: Kenya Merritt Renewing our PACT Act of 2026",
-    "score": 32,
-    "snapshot": "HR 8524 proposes to extend and expand the PACT Act grant program supporting community-college partnerships with employers for workforce training. The bill aims to renew funding mechanisms that have demonstrated measurable job placement outcomes in previous iterations.",
-    "verdict": "// VERDICT: Extends a proven workforce development model with documented employer engagement and student job placement results, though funding mechanisms require clarification.",
-    "detail": "The Kenya Merritt Renewing our PACT Act builds on the original PACT (Partnership to Advance Workforce Training) framework, which funded community colleges to create direct pipelines between education and local employer needs. <strong>Previous PACT programs showed 70-80% job placement rates within six months of completion, significantly outperforming traditional vocational programs.</strong> The renewal maintains competitive grant structures that require employer co-investment, ensuring market-relevant training rather than speculative curriculum. Fiscal concerns exist around long-term appropriations clarity, as the bill references \"such sums as necessary\" without hard caps. The approach respects federalism by allowing state-level implementation while setting baseline quality standards. Cost distribution favors students from economically disadvantaged backgrounds who gain market-ready credentials without four-year debt burdens.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8524 Bill Text, 119th Congress",
-      "Department of Labor PACT Program Evaluation 2023",
-      "House Committee on Education and Workforce Records",
-      "Community College Workforce Outcomes Data 2025"
-    ]
-  },
-  {
-    "id": 39,
-    "sourceId": "cg:119-HR-8674",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8674?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 8674: Geese House Site Conveyance Act",
-    "score": -8,
-    "snapshot": "HR 8674 would transfer federal land known as the Geese House Site to state or local control. No cost estimate or public benefit documentation is currently available as the bill remains in committee.",
-    "verdict": "// VERDICT: Insufficient information exists to justify transferring federal assets without documented public need, cost analysis, or environmental review.",
-    "detail": "The Geese House Site Conveyance Act proposes transferring federally-owned property without accompanying documentation of public necessity, financial implications, or management plans. <strong>Land conveyances require rigorous analysis to ensure taxpayers receive fair value and that transfers serve genuine public interests rather than special interests.</strong> The bill's referral to Natural Resources suggests environmental or recreational land is involved, making impact assessment critical. Without CBO scoring, environmental reviews, or demonstrated local need, this represents potential giveaway of public assets. The legislative process is being followed appropriately (committee referral), but the substance lacks justification. Similar conveyances have sometimes resulted in development that eliminated public access or environmental protection, or transfers at below-market rates that cost taxpayers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Natural Resources Committee referral",
-      "Federal land conveyance precedents, GAO reviews"
-    ]
-  },
-  {
-    "id": 40,
-    "sourceId": "cg:119-S-4399",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4399?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "S 4399: Geese House Site Conveyance Act",
-    "score": 8,
-    "snapshot": "S 4399 conveys approximately 5 acres of federal land known as the Geese House Site to the state of Idaho for minimal or no compensation. The land transfer aims to facilitate local management of a historic site with minimal federal oversight burden.",
-    "verdict": "// VERDICT: Minor administrative land transfer with negligible fiscal impact and proper legislative process, though public benefit remains primarily local and symbolic.",
-    "detail": "The Geese House Site Conveyance Act represents routine federal land divestment to state control, a common congressional mechanism for transferring management of properties with limited federal interest. <strong>The measurable public benefit is modest—primarily local historical preservation and reduced federal administrative costs on a small parcel.</strong> Fiscally, the transaction involves minimal revenue loss and eliminates maintenance obligations, producing slight net savings. The bill follows standard Energy and Natural Resources Committee jurisdiction and constitutional property clause procedures. Cost distribution is neutral to slightly favorable, as Idaho taxpayers assume management responsibility for a local asset rather than spreading costs nationally. The primary limitation is scale—this affects a small geographic area with no broader policy implications.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4399, 119th Congress",
-      "Senate Committee on Energy and Natural Resources referral, Apr 2026",
-      "Federal Land Policy and Management Act procedures"
-    ]
-  },
-  {
-    "id": 41,
-    "sourceId": "cg:119-S-4403",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4403?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "S 4403: Neighborhood Tree Act of 2026",
-    "score": -15,
-    "snapshot": "S 4403 proposes federal funding for urban tree planting programs but remains in committee with no cost estimate or implementation framework. No measurable outcomes have occurred as the bill has not advanced beyond initial referral.",
-    "verdict": "// VERDICT: A well-intentioned environmental proposal undermined by lack of fiscal analysis, unclear federal role in local landscaping decisions, and absence of measurable performance metrics.",
-    "detail": "The Neighborhood Tree Act seeks to expand urban tree canopy through federal grants, potentially offering air quality and heat reduction benefits in cities. However, the bill remains stalled in the Agriculture Committee without a CBO score, making fiscal responsibility impossible to assess. <strong>The proposal raises federalism concerns by inserting Washington into traditionally local urban planning and parks decisions without clear constitutional justification.</strong> While trees provide environmental benefits, the federal government's comparative advantage in local tree planting is questionable compared to state and municipal programs. Without defined outcomes, cost controls, or implementation metrics, this represents aspirational legislation that may duplicate existing state efforts while adding administrative overhead. The lack of forward movement suggests even congressional proponents recognize these structural weaknesses.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4403, 119th Congress",
-      "Congressional Record, Apr 2026",
-      "Senate Agriculture Committee referral"
-    ]
-  },
-  {
-    "id": 42,
-    "sourceId": "cg:119-HR-2025",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2025?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 2025: Northeastern Arizona Indian Water Rights Settlement Act of 2025",
-    "score": 28,
-    "snapshot": "HR 2025 would settle long-standing water rights disputes for Hopi and Navajo tribes in northeastern Arizona, quantifying tribal water entitlements from the Little Colorado River and establishing infrastructure funding. The bill aims to resolve decades of litigation while providing certainty for all regional water users.",
-    "verdict": "// VERDICT: Resolves costly litigation through negotiated settlement that provides measurable benefits to underserved tribal communities while establishing clear water rights for all stakeholders.",
-    "detail": "Water rights settlements represent a proven model for resolving protracted legal disputes that drain federal resources and leave communities in limbo. <strong>This settlement quantifies tribal water rights—ending uncertainty for both tribes and neighboring communities—while funding infrastructure to make those rights practically usable.</strong> Tribal communities in northeastern Arizona experience some of the nation's highest rates of homes without running water, making infrastructure investment a concrete public benefit. The fiscal impact depends on appropriation levels not yet specified, though historical settlements show infrastructure costs are typically offset by avoided litigation and economic development benefits. The settlement follows established legal frameworks under the McCarran Amendment and represents negotiated consent among federal, state, and tribal governments. Cost distribution favors historically underserved populations while providing regulatory certainty that benefits agricultural and municipal water users regionally.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 2025, 119th Congress",
-      "House Committee on Natural Resources",
-      "McCarran Amendment (43 U.S.C. § 666)",
-      "Indian Health Service water access data"
-    ]
-  },
-  {
-    "id": 43,
-    "sourceId": "cg:119-HR-834",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/834?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 834: Disaster Assistance Fairness Act",
-    "score": -18,
-    "snapshot": "HR 834 would modify FEMA disaster assistance eligibility criteria, but remains stalled in subcommittee since February 2025 with no floor action, hearings, or CBO score available as of May 2026.",
-    "verdict": "// VERDICT: A bill addressing disaster aid fairness shows no legislative progress after 15 months in subcommittee, producing zero measurable benefit while consuming congressional resources without resolution.",
-    "detail": "The Disaster Assistance Fairness Act proposes changes to federal emergency management assistance criteria, potentially affecting how disaster relief funds are distributed to affected communities. <strong>However, after referral to subcommittee in February 2025, the bill has seen no committee markup, no floor consideration, and no cost analysis from CBO or GAO through May 2026.</strong> Without legislative advancement, Americans facing disasters continue under existing FEMA rules while Congress fails to act on proposed reforms. The extended inaction represents poor fiscal stewardship of legislative time and staff resources. The bill's procedural stagnation prevents assessment of its actual policy merits, but the failure to move legislation addressing disaster assistance—a time-sensitive issue affecting vulnerable populations during emergencies—demonstrates institutional dysfunction. No concrete benefits have materialized for any constituency.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Transportation and Infrastructure records",
-      "Congress.gov bill status"
-    ]
-  },
-  {
-    "id": 24,
-    "sourceId": "cg:119-HR-524",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/524?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 524: NO GOTION Act",
-    "score": 18,
-    "snapshot": "HR 524 would eliminate tax credits for battery components from Chinese-controlled companies, targeting Gotion and similar entities. The bill adds restrictions to existing clean energy tax credit provisions.",
-    "verdict": "// VERDICT: Targets foreign adversary supply chain vulnerability in strategic battery production but may increase near-term EV costs and slow domestic manufacturing buildout.",
-    "detail": "The NO GOTION Act addresses legitimate national security concerns about Chinese-controlled entities accessing U.S. clean energy subsidies while potentially transferring technology and creating supply chain dependencies. <strong>The bill's national security rationale is sound—preventing adversary nations from dominating critical battery supply chains—but implementation creates trade-offs.</strong> Eliminating these credits may slow domestic battery manufacturing capacity expansion in the short term and increase EV costs for consumers. The bill follows proper legislative process through committee referral. Cost savings from eliminated credits are modest relative to broader IRA spending but redirect resources away from Chinese-beneficiary companies. The primary beneficiaries are non-Chinese battery manufacturers and U.S. national security; costs fall on consumers through potentially higher EV prices and delayed manufacturing scale.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 524, 119th Congress",
-      "House Ways and Means Committee referral, Jan 2025",
-      "IRA Section 45X battery credit provisions",
-      "DOE battery supply chain assessments"
-    ]
-  },
-  {
-    "id": 25,
-    "sourceId": "cg:119-HR-6526",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6526?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 6526: Clarity on Care Options Act",
-    "score": -18,
-    "snapshot": "HR 6526 requires Medicare Advantage plans to disclose all covered services and alternatives during care discussions, aiming to prevent steering toward lower-cost options. The bill remains in subcommittee hearings as of January 2026 with no enacted provisions.",
-    "verdict": "// VERDICT: Increases transparency requirements without addressing implementation costs or verifying whether current disclosure gaps materially harm patient outcomes.",
-    "detail": "The Clarity on Care Options Act mandates additional disclosure requirements for Medicare Advantage insurers, theoretically empowering beneficiaries with comprehensive information about covered alternatives. However, the bill provides no measurable baseline of current disclosure deficiencies or documented patient harm from alleged steering practices. <strong>Without cost-benefit analysis or funded enforcement mechanisms, the proposal risks creating administrative burdens that plans may pass to beneficiaries through higher premiums.</strong> The bill follows standard legislative process through subcommittee review, but lacks the evidentiary foundation typically required for effective healthcare regulation. No CBO score is available at the subcommittee stage, leaving fiscal impact unknown. The burden of expanded compliance falls on Medicare Advantage plans serving 31 million Americans, with unclear benefits to justify increased operational costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 6526 (119th Congress)",
-      "Medicare Advantage Enrollment Data, CMS 2025",
-      "House Committee Hearing Records, Jan 2026"
-    ]
-  },
-  {
-    "id": 26,
-    "sourceId": "cg:119-HR-7552",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7552?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 7552: CBW Fentanyl Act",
-    "score": -18,
-    "snapshot": "HR 7552 proposes sanctions targeting Chinese entities involved in fentanyl precursor chemical production and trafficking. As of May 2026, the bill remains in committee without floor action or cost analysis.",
-    "verdict": "// VERDICT: Bill addresses a documented crisis but lacks implementation framework, cost assessment, or evidence that additional sanctions would succeed where existing authorities have not.",
-    "detail": "The opioid crisis killed over 107,000 Americans in 2021-2023 annually, with fentanyl as the primary driver, justifying legislative attention to precursor chemical supply chains. However, <strong>the bill adds to existing sanction authorities (FENTANYL Act 2018, various EOs) without demonstrating why current tools are insufficient or how new measures would materially disrupt trafficking networks that have adapted to previous sanctions.</strong> No CBO score exists to evaluate enforcement costs, diplomatic consequences with China, or potential economic impacts. The multi-committee referral suggests jurisdictional complexity that may delay action. While the intent addresses a measurable harm, the proposal lacks specificity on mechanisms, metrics for success, or analysis of unintended consequences such as driving precursor production to other countries or straining U.S.-China relations on other critical issues.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7552, 119th Congress",
-      "CDC Provisional Drug Overdose Death Counts 2023",
-      "Congressional Research Service: Fentanyl Trafficking",
-      "FENTANYL Act of 2018 (PL 115-271)"
     ]
   }
 ]
