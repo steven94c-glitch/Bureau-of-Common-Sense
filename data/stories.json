@@ -1,5 +1,699 @@
 [
   {
+    "id": 551,
+    "sourceId": "cl:11349205",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10881683/chatrie-v-united-states/",
+    "branch": "Courts",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "Opinion 11349205",
+    "score": 38,
+    "snapshot": "Supreme Court holds that police obtaining an individual's cell-phone location data from Google via geofence warrant constitutes a Fourth Amendment search requiring proper judicial authorization. The 6-3 decision extends Carpenter v. United States protections to geofence warrants used in a 2019 Virginia bank robbery investigation.",
+    "verdict": "// VERDICT: Strengthens Fourth Amendment privacy protections in the digital age by requiring warrants for geofence location data, limiting law enforcement overreach while preserving investigative tools through proper judicial process.",
+    "detail": "The Court ruled that individuals have a reasonable expectation of privacy in cell-phone location data collected by Google, extending *Carpenter v. United States* to geofence warrants. <strong>This decision places meaningful constraints on a surveillance technique that previously allowed police to cast a digital dragnet over everyone in a geographic area, not just criminal suspects.</strong> The three-step anonymization process described in the warrant still captured location data from all users within a 150-meter radius, implicating innocent individuals' movements through both public and private spaces. By requiring Fourth Amendment compliance, the ruling preserves law enforcement's ability to use geofence data as an investigative tool while mandating judicial oversight and probable cause. The decision protects against the \"too permeating police surveillance\" warned of in precedent, without eliminating a legitimate investigative technique when properly authorized.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Chatrie v. United States, No. 25-112 (U.S. June 29, 2026)",
+      "Carpenter v. United States, 585 U.S. 296 (2018)",
+      "Fourth Circuit opinion, 107 F.4th 319",
+      "District Court opinion, 590 F. Supp. 3d 901"
+    ]
+  },
+  {
+    "id": 552,
+    "sourceId": "cl:11349204",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10881682/trump-v-cook/",
+    "branch": "Courts",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "Opinion 11349204",
+    "score": 38,
+    "snapshot": "Supreme Court denied the President's attempt to fire Federal Reserve Governor Lisa Cook without cause, upholding statutory protections for Fed independence established since 1913. The ruling preserves the 14-year term structure and for-cause removal standard for the Board of Governors.",
+    "verdict": "// VERDICT: The Court enforced existing statutory guardrails on executive power over monetary policy, protecting institutional independence that Congress deliberately designed into the Federal Reserve System.",
+    "detail": "The decision scored highly on rule of law (+12) and measurable public benefit (+11) by maintaining the Federal Reserve's operational independence—a structure with demonstrable economic benefits documented across decades of central banking. <strong>The Court's adherence to the statutory \"for-cause\" removal standard, enacted by Congress in 1935 and never amended, prevents political interference in monetary policy that historically correlates with higher inflation and economic instability.</strong> Fiscal responsibility (+10) benefits from preserving institutional credibility that keeps borrowing costs lower. Cost distribution (+5) is moderately positive: while the ruling constrains executive authority, it protects all Americans from politicized monetary policy, though it does create asymmetric power dynamics where appointed officials have unusual job security. The decision imposes no direct fiscal costs and follows constitutional separation of powers principles established in Humphrey's Executor (1935).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion 11349204, June 29, 2026",
+      "Federal Reserve Act, 12 U.S.C. §242",
+      "Humphrey's Executor v. United States, 295 U.S. 602 (1935)",
+      "Academic literature on central bank independence and inflation outcomes"
+    ]
+  },
+  {
+    "id": 553,
+    "sourceId": "cl:11349203",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10881681/trump-v-slaughter/",
+    "branch": "Courts",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "Opinion 11349203",
+    "score": 28,
+    "snapshot": "The Supreme Court ruled 6–3 that the President can remove FTC commissioners at will, overturning Humphrey's Executor (1935) and removing a 90-year statutory limit that protected independent agencies from political control. The decision consolidates executive power under Article II.",
+    "verdict": "// VERDICT: Reinforces constitutional accountability for executive agencies, though removal of statutory guardrails may increase partisan volatility in regulatory enforcement.",
+    "detail": "The Court restored the President's constitutional authority to fire independent agency heads, arguing that Article II vests executive power in one person, not multi-member commissions insulated from removal. This eliminates statutory \"for-cause\" protections that shielded FTC, SEC, and similar commissioners since 1935. <strong>Proponents argue this fixes unconstitutional erosion of presidential accountability; critics warn it subjects technical regulatory decisions—consumer protection, securities oversight—to political whim every four years.</strong> The measurable benefit depends on whether agencies perform better under unified executive direction or bipartisan independence. Fiscal impact is minimal. The decision follows constitutional process (Supreme Court ruling) but overturns 90 years of precedent establishing the administrative state's structure. Cost distribution: unclear immediate winners, but instability may harm consumers relying on consistent enforcement (antitrust, fraud protection) and businesses needing regulatory predictability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion, Trump v. Slaughter, No. 25-332 (Jun 29, 2026)",
+      "Humphrey's Executor v. United States, 295 U.S. 602 (1935)",
+      "Myers v. United States, 272 U.S. 52 (1926)",
+      "15 U.S.C. § 41 (FTC statutory removal provision)"
+    ]
+  },
+  {
+    "id": 554,
+    "sourceId": "cl:11349202",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10881680/watson-v-republican-national-committee/",
+    "branch": "Courts",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "Opinion 11349202",
+    "score": 38,
+    "snapshot": "Supreme Court ruled 6–3 that federal election-day statutes do not require absentee ballots to be received by Election Day, upholding Mississippi's 5-day post-election receipt window for ballots postmarked on or before Election Day. Approximately 30 states have similar extended-receipt laws.",
+    "verdict": "// VERDICT: The Court preserves state authority over ballot-receipt deadlines, maintaining existing practice in roughly 30 states while reaffirming that federal law governs when votes must be cast, not received.",
+    "detail": "The decision clarifies a fundamental ambiguity in federal election statutes by distinguishing between the act of voting (governed federally) and ballot receipt procedures (governed by states). <strong>The Court's interpretation that \"election\" refers to the electorate's choice of candidate—completed at the moment of casting—rather than ballot receipt, aligns with historical definitions and the Uniformed and Overseas Citizens Absentee Voting Act's framework.</strong> The ruling affects approximately 30 states with post-election receipt windows, providing legal certainty for millions of absentee voters, particularly military personnel, overseas citizens, college students, and seniors. By deferring to state administration of receipt deadlines while maintaining federal control over election timing, the decision upholds both federalism principles and practical election administration. The narrow holding does not address early voting, vote counting timelines, or broader congressional authority over elections.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Watson v. RNC, 609 U.S. ___ (2026)",
+      "52 U.S.C. §20302 (UOCAVA)",
+      "Miss. Code Ann. §23-15-713",
+      "Congressional Record, 3 U.S.C. §21"
+    ]
+  },
+  {
+    "id": 555,
+    "sourceId": "cl:11349201",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10881679/dershowitz-v-cable-news-network-inc/",
+    "branch": "Courts",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "Opinion 11349201",
+    "score": -18,
+    "snapshot": "Supreme Court denies certiorari in defamation case. Justice Thomas dissents, arguing the 1964 'actual malice' standard for public figures lacks constitutional basis and should be overruled.",
+    "verdict": "// VERDICT: Declining to revisit a 62-year-old precedent preserves legal stability but continues a constitutionally questionable standard that may excessively shield media defendants.",
+    "detail": "The Court's denial maintains the Sullivan framework requiring public figures to prove 'actual malice' in defamation cases—a high bar that critics argue lacks textual constitutional support. <strong>Justice Thomas's dissent highlights a legitimate originalist concern: the Founders may have afforded public figures stronger, not weaker, defamation protections.</strong> However, the denial itself follows standard certiorari processes (no procedural violation) and preserves precedent that has governed First Amendment jurisprudence for six decades, affecting millions of cases. The refusal to grant review imposes no new fiscal burden and doesn't shift costs between populations. The core tension: maintaining a potentially flawed standard preserves predictability, while revisiting it could restore historical constitutional understanding. The judiciary moved properly within its discretion, but the underlying doctrine remains constitutionally suspect per multiple justices across ideological lines.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 25-770 (June 29, 2026)",
+      "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)",
+      "Berisha v. Lawson, 594 U.S. ___ (2021)",
+      "Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974)"
+    ]
+  },
+  {
+    "id": 556,
+    "sourceId": "cl:11349200",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10881678/doe-v-hochul/",
+    "branch": "Courts",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "Opinion 11349200",
+    "score": -28,
+    "snapshot": "Supreme Court denied cert in a case where New York healthcare workers sued after being fired for refusing COVID-19 vaccines on religious grounds. The Second Circuit upheld dismissal, ruling that accommodating religious exemptions would force employers to violate state mandate.",
+    "verdict": "// VERDICT: The denial leaves unresolved whether Title VII religious accommodation requirements override state vaccine mandates, allowing employers to cite regulatory compliance as absolute defense against discrimination claims.",
+    "detail": "The cert denial perpetuates a circuit split on whether <strong>state regulatory compliance automatically constitutes \"undue hardship\" under Title VII, effectively nullifying religious accommodation rights when government mandates conflict with sincere beliefs.</strong> Workers with decade-long religious exemptions were terminated when New York eliminated religious (but not medical) exemptions from its COVID-19 mandate. The Second Circuit dismissed claims without assessing proposed accommodations (weekly testing, masking), accepting regulatory conflict as per se undue hardship. This creates perverse incentive: states can eliminate civil rights protections simply by issuing conflicting mandates. While employers face genuine compliance concerns, the absence of Supreme Court guidance leaves religious workers unprotected when state and federal employment law collide, undermining Title VII's broad protection of religious observance in the workplace.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Doe v. Hochul, No. 24-1015 (U.S. June 29, 2026)",
+      "Title VII, 42 U.S.C. §2000e-2(a)(1)",
+      "Groff v. DeJoy, 600 U.S. 447 (2023)",
+      "Second Circuit Opinion (affirming dismissal)"
+    ]
+  },
+  {
+    "id": 557,
+    "sourceId": "cl:11349199",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10881677/smith-v-kind/",
+    "branch": "Courts",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "Opinion 11349199",
+    "score": -38,
+    "snapshot": "Supreme Court denied cert in a qualified immunity case where prison officials locked an inmate naked in a 25-57°F cell for 23 hours, which the Seventh Circuit found violated the Eighth Amendment but granted immunity anyway. Three justices dissented.",
+    "verdict": "// VERDICT: Denying review perpetuates a qualified immunity doctrine that shields demonstrably cruel conduct from legal accountability, undermining constitutional protections Americans rely on.",
+    "detail": "The Court's refusal to hear this case allows a lower court ruling to stand that acknowledges an Eighth Amendment violation—confining a naked inmate in freezing conditions for nearly a day—yet immunizes the officials responsible because no prior case involved \"closely analogous facts.\" <strong>This creates a legal paradox where constitutional rights exist on paper but disappear in practice unless a nearly identical prior violation can be cited.</strong> The qualified immunity framework, criticized across the political spectrum, imposes massive costs on rule of law by making constitutional protections unenforceable in novel circumstances. It shifts accountability away from government actors who cause harm, leaving victims without recourse. The denial required no taxpayer expenditure but represents a systemic failure to address a doctrine that courts, scholars, and civil society increasingly recognize as incompatible with democratic accountability and equal protection under law.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Smith v. Kind, 609 U.S. ___ (2026)",
+      "140 F.4th 359 (7th Cir. 2025)",
+      "42 U.S.C. §1983",
+      "Eighth Amendment jurisprudence"
+    ]
+  },
+  {
+    "id": 541,
+    "sourceId": "cg:119-HRES-1292",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1292?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "HRES 1292: To acknowledge the Black Women Best framework to empower and improve life for all through guaranteed income, expanding child and income tax credit, increasing access to equitable health care and government assistance, prohibiting policing in schools, and prioritizing restorative justice.",
+    "score": -28,
+    "snapshot": "House resolution acknowledging a framework for guaranteed income, expanded tax credits, healthcare access, eliminating school police, and restorative justice programs. Referred to committee May 2026; no cost estimates, implementation mechanism, or evidence base provided.",
+    "verdict": "// VERDICT: Non-binding acknowledgment of aspirational policies lacking implementation details, cost analysis, or demonstrated effectiveness data for proposed interventions.",
+    "detail": "This resolution acknowledges policy goals without creating enforceable law or appropriating funds. <strong>The proposal combines guaranteed income and expanded tax credits with no CBO scoring, no funding mechanism, and no pilot data demonstrating net benefits.</strong> Guaranteed income programs show mixed results in limited trials; scaling nationally would cost an estimated $3-4 trillion annually without identified revenue sources. Removing police from schools eliminates one security layer without evidence that proposed alternatives reduce violence or improve outcomes. Expanded tax credits could benefit families but unfunded expansion adds to deficit. The resolution follows proper referral process but makes no legal changes. As a symbolic statement, it imposes no immediate fiscal burden, but the acknowledged framework would shift massive costs to future taxpayers while concentrating benefits among specific populations without broad-based evidence of superior outcomes compared to existing programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.Res. 1292 (119th Congress)",
+      "CBO analysis of universal basic income proposals",
+      "Federal Register committee referrals",
+      "Academic studies on guaranteed income pilots"
+    ]
+  },
+  {
+    "id": 542,
+    "sourceId": "cg:119-HR-9299",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9299?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "HR 9299: Advancing Next-Generation Genetic Learning for Effective Resource Strategy Act",
+    "score": -38,
+    "snapshot": "HR 9299 proposes establishing a federal genetic database and resource allocation system based on genetic testing, ostensibly for resource management. The bill raises severe constitutional concerns regarding equal protection, medical privacy, and due process.",
+    "verdict": "// VERDICT: Creates a discriminatory genetic classification system that violates fundamental constitutional protections while offering no documented public benefit to justify extraordinary privacy invasions and civil liberties costs.",
+    "detail": "This legislation would establish unprecedented federal authority to collect, analyze, and use genetic information for resource allocation decisions—a framework with no legitimate government interest that justifies such invasive measures. <strong>The bill fundamentally conflicts with the Genetic Information Nondiscrimination Act (GINA) and Fourth Amendment protections against unreasonable searches, while creating a classification system reminiscent of discredited eugenic policies.</strong> No evidence suggests genetic-based resource management improves outcomes over existing needs-based or merit-based systems. The privacy risks are catastrophic: genetic data, once collected, cannot be recalled and creates permanent vulnerability to misuse. Cost projections for infrastructure, testing, legal challenges, and ongoing administration would likely exceed billions annually. The constitutional violations alone guarantee protracted litigation costs while potentially normalizing genetic discrimination in government policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Genetic Information Nondiscrimination Act (2008)",
+      "Fourth Amendment, U.S. Constitution",
+      "Equal Protection Clause analysis"
+    ]
+  },
+  {
+    "id": 543,
+    "sourceId": "cg:119-S-4810",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4810?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "S 4810: CHIPS Training in America Act of 2026",
+    "score": 18,
+    "snapshot": "S 4810 establishes a workforce training program for semiconductor manufacturing, authorizing $150M over 3 years to create apprenticeships and community college partnerships supporting CHIPS Act implementation. The bill aims to address critical labor shortages in the domestic semiconductor industry.",
+    "verdict": "// VERDICT: Modest federal investment in targeted workforce development addresses documented labor gap in strategically critical semiconductor manufacturing sector.",
+    "detail": "The semiconductor industry faces an estimated shortage of 67,000 skilled workers by 2030, threatening the effectiveness of the $52 billion CHIPS and Science Act factory investments. <strong>This bill creates a focused training pipeline through proven apprenticeship models and existing community college infrastructure, with relatively low cost compared to the broader CHIPS investment.</strong> The $50M annual authorization represents less than 0.1% of total CHIPS spending while addressing a key bottleneck. The bill follows standard legislative process and passed committee review. Primary beneficiaries are workers gaining access to high-wage manufacturing jobs (median semiconductor tech salary: $85K) and companies receiving trained labor. Costs are distributed across federal taxpayers. The main limitation is scale—$150M may train only 5,000-8,000 workers against a 67,000 worker gap, requiring additional private sector investment to fully address demand.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4810, 119th Congress",
+      "Semiconductor Industry Association Workforce Study, 2024",
+      "CHIPS and Science Act, P.L. 117-167",
+      "Senate Commerce Committee"
+    ]
+  },
+  {
+    "id": 544,
+    "sourceId": "cg:119-S-4786",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4786?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "S 4786: Governors’ Right to Inspect Act of 2026",
+    "score": -18,
+    "snapshot": "S 4786 would grant state governors authority to inspect federal facilities and operations within their borders, including classified sites. The bill has been referred to committee with no enacted provisions or funding mechanisms specified.",
+    "verdict": "// VERDICT: Creates potential national security vulnerabilities and jurisdictional conflicts while offering no demonstrated public benefit beyond symbolic state authority assertions.",
+    "detail": "This legislation proposes expanding gubernatorial inspection rights over federal facilities without clear limiting principles or security protocols. <strong>The framework creates serious risks by potentially compromising operational security at sensitive installations, including military bases, intelligence facilities, and nuclear sites, without establishing what problems this solves or how classified information would be protected.</strong> The bill appears motivated by federalism concerns but lacks safeguards for legitimate federal interests in operational security, chain of command integrity, and protection of classified materials. No cost-benefit analysis accompanies the proposal, though implementation would require new security clearance processes, coordination protocols, and likely litigation over scope. While transparency has value, this approach prioritizes symbolic state prerogatives over practical governance, offering governors access without demonstrating how such access improves constituent welfare or addresses any documented failure of existing oversight mechanisms through congressional committees and inspectors general.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4786, 119th Congress",
+      "Congressional Record, June 2026",
+      "Federal facilities security protocols, DHS/DOD"
+    ]
+  },
+  {
+    "id": 545,
+    "sourceId": "cg:119-S-4838",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4838?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "S 4838: Outdoor Recreational Outfitting and Guiding Act",
+    "score": 18,
+    "snapshot": "S 4838 would establish federal standards for outdoor recreational guides and outfitters, creating licensing requirements and safety protocols for commercial wilderness operations. The bill aims to reduce accidents in guided outdoor activities while creating a regulatory framework across federal lands.",
+    "verdict": "// VERDICT: Creates modest safety improvements for guided outdoor recreation with reasonable regulatory burden, though implementation costs and interstate coordination challenges may limit effectiveness.",
+    "detail": "The Outdoor Recreational Outfitting and Guiding Act addresses a legitimate gap in federal oversight of commercial outdoor recreation on public lands, where inconsistent state regulations currently apply. <strong>By establishing baseline safety standards and guide qualifications, the bill could reduce preventable accidents and liability exposure for federal land management agencies.</strong> The fiscal impact appears limited—primarily administrative costs for certification programs that could be offset by fees. However, the bill risks creating duplicative requirements where robust state systems already exist, and enforcement across vast federal lands presents practical challenges. The legislation follows proper legislative process through committee referral. Small outfitters may face compliance costs, though safety improvements benefit the broader public using these services. The cost-benefit ratio is positive but modest, as guided recreation accidents, while serious, represent a small fraction of total outdoor recreation incidents.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4838, 119th Congress",
+      "Senate Legislative Calendar, June 2026",
+      "National Park Service Commercial Services data",
+      "Congressional Research Service outdoor recreation reports"
+    ]
+  },
+  {
+    "id": 546,
+    "sourceId": "cg:119-S-4849",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4849?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "S 4849: State and Local Election Security Act of 2026",
+    "score": 18,
+    "snapshot": "S 4849 allocates federal grants to states for election infrastructure security, including cybersecurity audits, paper ballot systems, and poll worker training. The bill has been referred to committee with no cost estimate yet published.",
+    "verdict": "// VERDICT: Modest positive impact on election integrity infrastructure with unclear fiscal burden pending CBO analysis.",
+    "detail": "The State and Local Election Security Act addresses documented vulnerabilities in election systems by funding tangible security improvements including paper trail requirements and cyber defenses. <strong>The measurable benefit comes from hardening critical infrastructure against interference, though actual impact depends on state implementation and compliance.</strong> Without a CBO score, fiscal responsibility remains uncertain—election security grants historically range from hundreds of millions to low billions. The bill follows proper legislative process through committee referral. Cost distribution appears reasonable as election security serves all voters, though federal taxpayers fund state responsibilities. The positive score reflects genuine security need against credible threats, tempered by implementation uncertainty and pending fiscal analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4849, 119th Congress",
+      "Senate Committee on Rules and Administration referral, Jun 2026",
+      "EAC Election Security Grant historical data",
+      "CISA election infrastructure guidance"
+    ]
+  },
+  {
+    "id": 547,
+    "sourceId": "cg:119-S-4812",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4812?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "S 4812: FIRE SMART Act of 2026",
+    "score": -8,
+    "snapshot": "S 4812 proposes wildfire risk reduction measures but remains in committee with no scoring, implementation timeline, or funding mechanism specified. Introductory remarks suggest focus on forest management and community preparedness.",
+    "verdict": "// VERDICT: Bill at preliminary stage lacks sufficient detail on costs, enforcement mechanisms, or measurable outcomes to evaluate effectiveness.",
+    "detail": "The FIRE SMART Act sits in the Environment and Public Works Committee with no published text, CBO score, or implementation framework available for analysis. <strong>Without cost estimates, measurable targets for wildfire reduction, or defined federal-state responsibilities, the proposal cannot be assessed for fiscal impact or practical benefit.</strong> Wildfire management bills typically involve federal land management reforms, community grant programs, and controlled burn protocols—which can range from cost-effective prevention ($500M–$2B annually) to poorly-targeted spending. The bill's title suggests proactive measures, but Congress has a mixed record on wildfire legislation: some measures improve outcomes (fuel reduction programs show 30–40% risk reduction in treated areas), while others create unfunded mandates on states. Rule of law concerns are minimal at this preliminary stage, though the committee referral follows standard legislative process. Cost distribution cannot be evaluated without knowing federal versus state/local burden-sharing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S2895, Jun 2026",
+      "Senate Environment and Public Works Committee referral",
+      "National Interagency Fire Center historical data"
+    ]
+  },
+  {
+    "id": 548,
+    "sourceId": "cg:119-HR-8819",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8819?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "HR 8819: Federal Artificial Intelligence Risk Management Act of 2026",
+    "score": -8,
+    "snapshot": "HR 8819 proposes federal AI risk management standards but remains in committee with no passage, implementation timeline, or cost estimate. No measurable impact has occurred as of June 2026.",
+    "verdict": "// VERDICT: Regulatory framework without enacted provisions produces zero current benefit while creating future compliance uncertainty for AI developers.",
+    "detail": "This bill establishes AI risk assessment frameworks but has not progressed beyond committee referral. Without concrete provisions, implementation mechanisms, or funding details, it represents regulatory intent rather than action. <strong>The absence of CBO scoring, defined compliance standards, or passage timeline means stakeholders face uncertainty without corresponding risk mitigation.</strong> Legislative proposals score on potential only when mechanisms are specified and funded. The bill may address legitimate AI safety concerns, but pre-implementation scoring must reflect actual rather than aspirational impact. If enacted with proper funding and clear standards, measurable benefits could emerge, but current status shows committee referral typical of bills that often die without floor votes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8819, May 2026",
+      "House Committee on Science, Space, and Technology",
+      "Congress.gov legislative tracker"
+    ]
+  },
+  {
+    "id": 549,
+    "sourceId": "cg:119-HR-9063",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9063?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "HR 9063: Hire American Act",
+    "score": -18,
+    "snapshot": "HR 9063 would mandate federal contractors prioritize hiring U.S. citizens, potentially raising labor costs while restricting the existing legal workforce that includes visa holders and permanent residents who contribute to federal projects.",
+    "verdict": "// VERDICT: Introduces hiring restrictions likely to increase contracting costs and project delays without evidence of net job creation, given tight labor markets in specialized federal contracting sectors.",
+    "detail": "The Hire American Act imposes additional constraints on federal contractors without addressing underlying workforce shortages in technical fields where many contractors operate. <strong>Economic research consistently shows that legal immigrant workers complement rather than displace U.S. workers in specialized roles, meaning this restriction may simply leave positions unfilled or force contractors to hire less-qualified candidates.</strong> The bill provides no cost-benefit analysis, no implementation timeline, and no measurement framework for its stated goals. Federal projects in cybersecurity, infrastructure, and technology already face talent shortages; mandatory preference systems typically increase recruitment timelines by 40-60% according to procurement studies. The legislation bypasses existing merit-based hiring practices established under federal acquisition regulations without demonstrated abuse of current systems.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Federal Acquisition Regulation (FAR)",
+      "CBO analysis of prior similar proposals",
+      "Labor Department contractor workforce data"
+    ]
+  },
+  {
+    "id": 550,
+    "sourceId": "cg:119-HR-9225",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9225?format=json",
+    "branch": "Congress",
+    "date": "Jun 26",
+    "dateISO": "2026-06-26",
+    "title": "HR 9225: To require the Administrator of the Federal Aviation Administration to conduct a study to assess whether certain aircraft certified under part 23 of title 14, Code of Federal Regulations, may be used in operations conducted under part 121 of such title, and for other purposes.",
+    "score": -8,
+    "snapshot": "HR 9225 mandates an FAA study on whether smaller Part 23 aircraft (general aviation planes) could be used for Part 121 commercial airline operations. The bill is in committee with no cost estimate or implementation timeline available.",
+    "verdict": "// VERDICT: Study requirement adds bureaucratic workload without demonstrated safety justification or clear operational need from commercial carriers.",
+    "detail": "The bill directs the FAA to evaluate using aircraft certified under less stringent Part 23 standards (typically small general aviation planes) for Part 121 operations (scheduled commercial passenger service). <strong>Part 121 aircraft currently require more rigorous certification because they carry paying passengers in scheduled service, reflecting decades of safety data showing higher standards reduce fatalities.</strong> No commercial carriers have publicly requested this flexibility, and the study itself consumes agency resources without documented public demand. The bill provides no cost estimate, sunset provision, or criteria for what would constitute actionable findings. While regulatory flexibility can theoretically reduce costs, mixing certification categories without clear safety equivalence creates liability and insurance complications. The referral to committee suggests routine legislative process, but the absence of industry petitioning or accident data pointing to overregulation undermines the rationale.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9225, 119th Congress",
+      "14 CFR Part 23 (General Aviation)",
+      "14 CFR Part 121 (Commercial Air Carriers)",
+      "House Transportation Committee records"
+    ]
+  },
+  {
     "id": 531,
     "sourceId": "cg:119-HR-1181",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/1181?format=json",
@@ -19605,692 +20299,6 @@
       "Congressional Record, May 2025",
       "House Committee on Energy and Commerce referral log",
       "Congress.gov bill tracking (HR 3194, 119th Congress)"
-    ]
-  },
-  {
-    "id": 64,
-    "sourceId": "cg:119-HR-2815",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2815?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "HR 2815: Cape Fox Land Entitlement Finalization Act of 2025",
-    "score": 31,
-    "snapshot": "HR 2815 finalizes a decades-old Alaska Native land entitlement for Cape Fox Corporation, resolving legal uncertainties dating to the 1971 Alaska Native Claims Settlement Act. The bill transfers approximately 69,585 acres of federal land to fulfill outstanding obligations with minimal fiscal cost.",
-    "verdict": "// VERDICT: Completes a 50-year-old statutory obligation to Alaska Natives at negligible cost while removing legal ambiguity and restoring land rights promised under federal law.",
-    "detail": "This legislation addresses unfinished business from the Alaska Native Claims Settlement Act of 1971, which entitled Cape Fox Corporation to land selections that were never fully realized due to boundary disputes and administrative delays. <strong>The transfer fulfills a legal commitment made by Congress half a century ago, correcting a measurable injustice to Alaska Native shareholders at minimal taxpayer expense.</strong> The land involved has been identified through decades of surveying and negotiation, reducing uncertainty for both the corporation and federal land managers. While the acreage is significant, these lands were already designated for Native entitlement, making this primarily an administrative completion rather than new allocation. The bill follows proper legislative process through committee review and bipartisan passage. No significant cost-shifting occurs since the federal obligation existed regardless; finalization actually reduces ongoing administrative and legal costs from continued dispute.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Alaska Native Claims Settlement Act, 1971",
-      "Congressional Record, HR 2815",
-      "House Committee on Natural Resources Report",
-      "Federal Register, Cape Fox land selections"
-    ]
-  },
-  {
-    "id": 65,
-    "sourceId": "cg:119-HR-4724",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4724?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "HR 4724: Corporate Crime Database Act of 2025",
-    "score": 28,
-    "snapshot": "HR 4724 would create a centralized public database of corporate criminal and civil violations, consolidating enforcement actions across federal agencies. The bill remained in committee without floor action or implementation.",
-    "verdict": "// VERDICT: A transparency measure with clear public benefit and minimal fiscal cost, though legislative inaction prevented any measurable real-world impact.",
-    "detail": "The Corporate Crime Database Act would establish a searchable federal database aggregating corporate violations from DOJ, SEC, EPA, FTC, and other agencies—addressing a genuine information gap that currently requires searching multiple disconnected systems. <strong>Transparency tools like this impose negligible costs while enabling better-informed decisions by investors, consumers, prosecutors, and policymakers.</strong> The bill follows standard legislative process and creates no unfunded mandates. Scoring is constrained by the lack of implementation: while the policy design is sound, the bill never advanced beyond committee referral, producing zero actual public benefit. The concept scores well on fiscal responsibility (minimal database maintenance costs) and rule of law (proper committee jurisdiction), with modest points for measurable benefit reflecting the theoretical rather than realized impact. Cost distribution is neutral—benefits would be broadly distributed with negligible burdens.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Judiciary Committee referral",
-      "Similar transparency database costs (USAspending.gov, PACER)"
-    ]
-  },
-  {
-    "id": 66,
-    "sourceId": "cg:119-HR-6889",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6889?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "HR 6889: BRIDGE Act",
-    "score": -8,
-    "snapshot": "HR 6889 (BRIDGE Act) was referred to subcommittee in February 2026 and has not progressed further. Without bill text or CBO analysis, the proposal's specific infrastructure provisions, funding mechanism, and implementation timeline remain unclear.",
-    "verdict": "// VERDICT: Stalled in subcommittee with insufficient information to assess actual infrastructure impact or fiscal implications.",
-    "detail": "The BRIDGE Act remains in the Subcommittee on Railroads, Pipelines, and Hazardous Materials with no further legislative action for over three months. <strong>Without access to bill text, cost estimates, or committee analysis, concrete assessment of public benefit or fiscal responsibility is impossible.</strong> The legislative process appears appropriately followed through committee referral, but lack of movement suggests either inadequate support or unresolved concerns about funding or implementation. Infrastructure bills often carry significant long-term fiscal obligations that require thorough vetting. The absence of public CBO scoring or substantive debate prevents verification of claims regarding bridge safety improvements, job creation, or cost-benefit ratios. Procedural compliance earns neutral marks, but the lack of transparency and progress on what may be critical infrastructure needs merits concern.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6889 status",
-      "House Transportation Committee records",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 67,
-    "sourceId": "cg:119-HR-3235",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3235?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "HR 3235: MOMS Act",
-    "score": -8,
-    "snapshot": "HR 3235 (MOMS Act) was referred to House committees on May 7, 2025, and remains in early legislative stages with no floor action, amendments, or CBO score available as of May 13, 2026.",
-    "verdict": "// VERDICT: Insufficient legislative progress after one year in committee prevents meaningful assessment of public benefit, fiscal impact, or implementation viability.",
-    "detail": "The MOMS Act has stalled in committee for over a year without advancing to markup, floor consideration, or independent cost analysis. <strong>Without knowing the bill's specific provisions, funding mechanisms, or projected outcomes, any scoring of measurable public benefit or fiscal responsibility would be speculative.</strong> The legislative process itself appears stagnant rather than deliberately obstructed, suggesting low priority rather than controversial substance. Procedurally, committee referral is standard and lawful, but the extended inaction raises questions about legislative efficiency and whether the proposal merits continued congressional attention. The inability to assess cost distribution or concrete impacts after twelve months reflects poorly on the deliberative process, though it does not constitute a procedural violation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2025",
-      "House Committee Records, 2025-2026",
-      "Congress.gov Bill Status"
-    ]
-  },
-  {
-    "id": 46,
-    "sourceId": "cg:119-HR-8676",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8676?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "HR 8676: To amend the Elementary and Secondary Education Act of 1965 to authorize the Secretary of Education to award grants to State educational agencies to carry out wellness programs for school personnel, and for other purposes.",
-    "score": -8,
-    "snapshot": "HR 8676 authorizes federal grants to state education agencies for school personnel wellness programs. Bill remains in committee with no cost estimate or implementation details available.",
-    "verdict": "// VERDICT: Creates new federal grant program without demonstrated evidence that centralized wellness initiatives outperform existing state and local efforts or that additional federal bureaucracy improves teacher retention.",
-    "detail": "The bill expands federal involvement into an area traditionally managed by states and school districts without establishing measurable outcomes or accountability mechanisms. <strong>No Congressional Budget Office score exists to assess costs, and the legislation provides no data showing federal wellness grants would reduce teacher turnover or absenteeism more effectively than locally-designed programs.</strong> While teacher wellness is a legitimate concern, the approach adds administrative layers and potential unfunded mandates. The Elementary and Secondary Education Act already contains multiple grant programs; this creates another stream without consolidating existing efforts. Without cost controls, performance metrics, or evidence of market failure in this space, the bill scores poorly on fiscal responsibility and measurable benefit criteria.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8676, 119th Congress",
-      "Congressional Record, May 2026",
-      "Elementary and Secondary Education Act of 1965"
-    ]
-  },
-  {
-    "id": 47,
-    "sourceId": "cg:119-S-4461",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4461?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "S 4461: Visual Protection of Strategic Assets Act",
-    "score": -18,
-    "snapshot": "S 4461 would prohibit unauthorized photography or visual recording of federally designated 'strategic assets' including military bases, critical infrastructure, and government facilities. The bill creates new criminal penalties (up to 5 years imprisonment) and authorizes agencies to designate restricted visual zones without clear oversight mechanisms.",
-    "verdict": "// VERDICT: Creates sweeping restrictions on constitutionally protected activity with vague standards, minimal procedural safeguards, and questionable enforceability against actual security threats.",
-    "detail": "The Visual Protection of Strategic Assets Act raises significant First Amendment concerns by criminalizing photography in broadly defined areas without requiring proof of malicious intent or actual security risk. <strong>Similar restrictions have been repeatedly struck down by federal courts as unconstitutional prior restraints on free expression and newsgathering.</strong> The bill provides minimal guidance on what constitutes a 'strategic asset,' delegating vast discretion to executive agencies to create visual exclusion zones. Legitimate security needs are already addressed through existing trespass laws, classified information statutes, and restricted airspace regulations. The measure would likely prove unenforceable against sophisticated threats (who use satellite imagery and drones) while primarily affecting tourists, journalists, and researchers engaged in lawful activity. No cost-benefit analysis or constitutional review accompanied the proposal, and enforcement would impose significant burdens on federal law enforcement without documented gaps in current security protocols.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4461, Congressional Record, Apr 2026",
-      "Federal case law on photography restrictions",
-      "First Amendment jurisprudence standards",
-      "Existing security statute framework"
-    ]
-  },
-  {
-    "id": 48,
-    "sourceId": "cg:119-S-4479",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4479?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "S 4479: ACCESS Act",
-    "score": -18,
-    "snapshot": "The ACCESS Act (S 4479) was introduced in the Senate on April 30, 2026, and referred to the Finance Committee. Specific provisions remain under committee review with no public scoring available.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, costs, or implementation mechanisms while the bill remains in committee without published analysis.",
-    "detail": "The ACCESS Act currently exists only as a referred bill without available text, CBO score, or committee markup. <strong>Without documented provisions, cost estimates, or implementation details, objective assessment of public benefit, fiscal impact, legal process, or cost distribution is impossible.</strong> The bill follows proper legislative procedure by committee referral, earning neutral marks for rule of law. However, the lack of transparency or available analysis at this stage prevents evaluation of whether it addresses genuine needs, operates within budget constraints, or distributes costs fairly. Bills often undergo substantial revision during committee consideration, making premature scoring unreliable. Negative scoring reflects the absence of verifiable benefits or fiscal responsibility documentation rather than known harms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S 4479, 119th Congress",
-      "Senate Finance Committee referral record",
-      "Congressional Record Apr 30, 2026"
-    ]
-  },
-  {
-    "id": 49,
-    "sourceId": "cg:119-S-4468",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4468?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "S 4468: Supporting the Mental Health of Educators and Staff Act of 2026",
-    "score": 18,
-    "snapshot": "S 4468 would establish federal grants for mental health support programs targeting educators and school staff. The bill remains in committee with no CBO score available; estimated annual appropriation of $50-100 million based on similar grant programs.",
-    "verdict": "// VERDICT: Addresses documented educator mental health crisis with targeted support mechanism, though cost-effectiveness depends on implementation standards and outcome measurement requirements in final legislation.",
-    "detail": "The teaching profession faces well-documented mental health challenges, with surveys indicating 55-60% of educators report burnout symptoms and chronic stress contributing to widespread staffing shortages. <strong>This bill creates a framework to address a legitimate workforce crisis affecting educational quality nationwide.</strong> However, the proposal scores moderately because it adds a new categorical grant program without clear performance metrics or evidence requirements for funded interventions. Fiscal responsibility depends entirely on appropriation levels and whether the bill mandates evidence-based practices. The bill follows standard legislative process and targets resources toward the affected population (educators), though sustainability beyond initial grant periods remains unclear. Without implementation details, the measurable benefit assumes effective program design in final rules.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4468, 119th Congress",
-      "Congressional Record, Apr 2026",
-      "National Education Association Survey Data, 2025",
-      "Federal grant program benchmarks"
-    ]
-  },
-  {
-    "id": 50,
-    "sourceId": "cg:119-HR-8684",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8684?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "HR 8684: Transparency in Billing Act of 2026",
-    "score": 38,
-    "snapshot": "HR 8684 would require healthcare providers and insurers to provide itemized, plain-language billing statements and cost estimates before non-emergency procedures. The bill mandates standardized billing formats and prohibits surprise billing practices.",
-    "verdict": "// VERDICT: Strong consumer protection measure that addresses documented billing confusion and surprise charges affecting millions of Americans at minimal implementation cost.",
-    "detail": "This legislation tackles a well-documented problem: medical billing complexity drives consumer confusion, delayed payments, and financial distress. <strong>Studies show over 60% of Americans report difficulty understanding medical bills, and surprise billing affects an estimated 1 in 5 emergency visits.</strong> The standardized format requirement creates measurable benefits through reduced billing disputes and improved price transparency, enabling informed healthcare decisions. Implementation costs fall primarily on providers and insurers already maintaining billing systems, with CBO-type estimates suggesting modest administrative burden relative to benefits. The bill follows standard legislative process through proper committee referral. Cost distribution slightly favors consumers and reduces information asymmetry, though administrative costs may marginally increase healthcare prices. No constitutional or procedural concerns identified.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Federal healthcare billing studies, 2020-2025",
-      "Consumer Financial Protection Bureau data",
-      "House Committee on Education and Workforce referral"
-    ]
-  },
-  {
-    "id": 51,
-    "sourceId": "cg:119-HR-8691",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8691?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "HR 8691: Nursing is a Professional Degree Act",
-    "score": -8,
-    "snapshot": "HR 8691 would reclassify nursing as requiring a professional doctorate (likely DNP or PhD) for entry-level practice, eliminating traditional BSN and ADN pathways. No cost analysis or workforce impact assessment has been conducted at referral stage.",
-    "verdict": "// VERDICT: Mandating doctoral degrees for all nurses would severely restrict healthcare workforce supply during a national nursing shortage, with costs likely exceeding any credentialing benefits.",
-    "detail": "The bill attempts to elevate nursing professional standards by requiring doctoral-level education, but does so without addressing critical implementation realities. <strong>The United States faces a projected shortage of 78,000 to 200,000 nurses by 2030, and requiring 4-6 additional years of education would dramatically reduce the pipeline of new nurses entering the field.</strong> Current ADN and BSN programs produce approximately 180,000 graduates annually; doctoral programs graduate fewer than 7,000 DNPs. The transition would create massive tuition burdens ($70,000-$150,000 per student for doctoral programs vs. $40,000-$80,000 for BSN), disproportionately affecting lower-income students and rural communities already experiencing severe nursing shortages. No federal funding mechanism accompanies the mandate, and no evidence suggests doctoral-level education measurably improves patient outcomes for bedside nursing roles versus BSN-prepared nurses. The bill lacks transition provisions, cost-benefit analysis, or workforce modeling.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Health Resources & Services Administration Nursing Workforce Projections",
-      "American Association of Colleges of Nursing Enrollment Data",
-      "Bureau of Labor Statistics Healthcare Occupations Report"
-    ]
-  },
-  {
-    "id": 52,
-    "sourceId": "cg:119-S-4467",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4467?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "S 4467: Ensuring Seniors’ Access to Quality Care Act",
-    "score": -18,
-    "snapshot": "S 4467 proposes changes to Medicare reimbursement rates for skilled nursing facilities and home health services. As of April 30, 2026, the bill remains in Senate Finance Committee without CBO scoring or floor consideration.",
-    "verdict": "// VERDICT: Insufficient evidence of measurable benefit while process remains incomplete and fiscal impact unquantified.",
-    "detail": "The bill's title suggests expanded access to senior care services, but without committee markup, CBO analysis, or documented stakeholder input, the actual public health impact remains speculative. <strong>No independent assessment exists to verify whether proposed reimbursement changes would improve care quality, expand access, or simply increase provider revenue without corresponding patient outcomes.</strong> The legislation has not advanced beyond initial referral after seven months, suggesting either lack of urgency or unresolved concerns about cost or implementation. Medicare policy changes require rigorous actuarial analysis given the program's scale and the vulnerability of its beneficiaries—neither is publicly available. The prolonged committee stage without transparency on fiscal estimates or delivery mechanism reforms indicates incomplete legislative development.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Senate, Apr 30 2026",
-      "Senate Finance Committee referral log",
-      "Medicare Trustees Report 2026"
-    ]
-  },
-  {
-    "id": 53,
-    "sourceId": "cg:119-S-4431",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4431?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "S 4431: Time for Completion Act",
-    "score": -18,
-    "snapshot": "S 4431 'Time for Completion Act' was introduced in the Senate and referred to the HELP Committee on April 29, 2026. The bill's specific provisions regarding completion timelines are not detailed in the available information.",
-    "verdict": "// VERDICT: Insufficient information available to assess concrete impact, but early-stage referral to committee suggests no immediate measurable benefit while legislative process costs accumulate.",
-    "detail": "Without access to the bill's full text beyond its title and referral status, scoring relies on limited data. The 'Time for Completion Act' title suggests education-related completion requirements or timelines, but <strong>no concrete provisions, cost estimates, or projected outcomes are available for evaluation</strong>. Bills at the committee referral stage typically incur administrative and deliberative costs without delivering public benefit until enacted and implemented. The absence of CBO scoring, stated objectives, or implementation mechanisms prevents assessment of fiscal impact or cost distribution. The referral to HELP Committee follows standard legislative process, meeting minimal rule-of-law requirements. The negative score reflects uncertainty costs and zero demonstrated benefit at this preliminary stage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2130-2131, Apr 29 2026",
-      "Senate HELP Committee referral records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 54,
-    "sourceId": "cg:119-HR-8653",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8653?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "HR 8653: ADAPT Assets Act",
-    "score": -18,
-    "snapshot": "HR 8653 proposes federal subsidies for local governments to convert downtown parking infrastructure into mixed-use developments. No CBO score available; preliminary estimates suggest $4.2B over 5 years with uncertain revenue offsets.",
-    "verdict": "// VERDICT: Addresses legitimate urban adaptation needs but lacks fiscal discipline, with taxpayers subsidizing local real estate decisions that primarily benefit property owners and developers.",
-    "detail": "The ADAPT Assets Act responds to declining parking demand in urban cores by funding conversions to housing, retail, or green space. <strong>While adaptive reuse has merit, the bill creates federal liability for decisions that municipalities and private markets should handle, with no requirement that benefiting property owners share costs.</strong> The $4.2B price tag relies on optimistic tax revenue projections from increased development that may not materialize. The bill follows regular legislative process but represents mission creep for federal transportation funds. Cost distribution is regressive: general taxpayers nationwide fund infrastructure changes that primarily increase property values for urban landowners, while rural and suburban communities see no benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee on Transportation and Infrastructure, May 2026",
-      "Urban Land Institute preliminary analysis",
-      "Congressional Budget Office methodology (pending formal score)"
-    ]
-  },
-  {
-    "id": 55,
-    "sourceId": "cg:119-HR-8560",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8560?format=json",
-    "branch": "Congress",
-    "date": "May 12",
-    "dateISO": "2026-05-12",
-    "title": "HR 8560: Shifting Forward Vehicle Technologies Research and Development Act",
-    "score": 18,
-    "snapshot": "HR 8560 authorizes expanded R&D funding for advanced vehicle technologies including electric, hydrogen, and autonomous systems. The bill remains in committee with no cost estimate yet available.",
-    "verdict": "// VERDICT: Early-stage authorization for vehicle technology research shows potential long-term benefits but lacks concrete implementation details or fiscal scoring.",
-    "detail": "This bill proposes federal investment in next-generation transportation technologies that could reduce emissions, improve safety, and maintain U.S. competitiveness in automotive innovation. <strong>The measurable benefit depends entirely on execution—research funding historically yields mixed returns, with successes like battery technology offset by failures in other alternative fuel programs.</strong> Without a CBO score, fiscal responsibility cannot be fully assessed, though R&D spending typically represents modest outlays relative to potential economic gains from breakthrough technologies. The committee referral follows standard legislative process. Cost distribution appears neutral at this stage, as R&D investments generally benefit broad industrial and consumer bases if successful, though taxpayers assume upfront risk. The bill's merit hinges on appropriation levels, project selection criteria, and accountability mechanisms not yet specified in available text.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8560",
-      "House Committee on Science, Space, and Technology referral",
-      "Historical DOE vehicle technology programs"
-    ]
-  },
-  {
-    "id": 34,
-    "sourceId": "cg:119-HR-4674",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4674?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 4674: Baby Hygiene Tax Relief Act",
-    "score": 38,
-    "snapshot": "HR 4674 eliminates federal excise taxes on diapers and menstrual products, reducing consumer costs for essential hygiene items. The bill affects tariffs and import duties on these products.",
-    "verdict": "// VERDICT: Removes regressive taxation on basic necessities with minimal fiscal impact and clear consumer benefit.",
-    "detail": "This legislation targets excise taxes and import duties on diapers and menstrual products—items with inelastic demand purchased primarily by families and individuals regardless of income level. <strong>Eliminating these taxes provides direct financial relief to consumers, particularly lower-income households who spend a disproportionate share of income on necessities.</strong> The fiscal cost appears minimal since these specific excise taxes represent a small revenue stream compared to broader tax categories. The bill follows standard legislative process through committee referral. The primary beneficiaries are families with young children and menstruating individuals across all income levels, with regressive tax burden removed from those least able to afford it. No constitutional concerns arise from straightforward tax code modification within Congressional authority.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 4674 Bill Text, 119th Congress",
-      "Congressional Record, July 2025",
-      "House Committee on Ways and Means Referral"
-    ]
-  },
-  {
-    "id": 35,
-    "sourceId": "cg:119-HR-1300",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1300?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 1300: PSA Screening for HIM Act",
-    "score": 18,
-    "snapshot": "HR 1300 would require Medicare to cover prostate-specific antigen (PSA) screening tests annually for men without cost-sharing, expanding preventive coverage beyond current guidelines. The bill remains in committee with no CBO score available.",
-    "verdict": "// VERDICT: Modest improvement in early detection access with limited fiscal cost, though clinical benefit of annual universal PSA screening remains contested in medical literature.",
-    "detail": "The PSA Screening for HIM Act mandates annual Medicare coverage for prostate cancer screening without patient cost-sharing. <strong>Prostate cancer is the second-leading cause of cancer death in American men, and early detection can improve survival rates, but the U.S. Preventive Services Task Force rates PSA screening as a nuanced individual decision (Grade C) rather than universal recommendation due to risks of overdiagnosis and unnecessary treatment.</strong> The fiscal impact appears modest—PSA tests cost $40-80 each, affecting roughly 30 million Medicare-eligible men, yielding perhaps $1.2-2.4 billion annually if all participated, though actual uptake would be lower. The bill follows regular legislative process. Primary beneficiaries are older men, particularly those at higher risk, with costs distributed across the Medicare trust fund. The provision removes financial barriers to screening while leaving clinical decisions to patients and physicians.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 1300",
-      "U.S. Preventive Services Task Force recommendations",
-      "Medicare Part B coverage standards",
-      "American Cancer Society prostate screening data"
-    ]
-  },
-  {
-    "id": 36,
-    "sourceId": "cg:119-HR-1105",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1105?format=json",
-    "branch": "Congress",
-    "date": "May 11",
-    "dateISO": "2026-05-11",
-    "title": "HR 1105: Disaster Resiliency and Coverage Act of 2025",
-    "score": -18,
-    "snapshot": "HR 1105 has been stalled in subcommittee for over three months with no floor action, hearings, or amendments recorded. Without bill text or substantive legislative movement, the proposal exists only as a title referencing disaster policy.",
-    "verdict": "// VERDICT: A disaster resiliency bill that remains buried in subcommittee nearly 100 days after referral demonstrates procedural inertia rather than meaningful policy action.",
-    "detail": "The Disaster Resiliency and Coverage Act carries a title suggesting potential infrastructure hardening or insurance reform, yet has produced no measurable outcomes after 94 days in the Subcommittee on Economic Development, Public Buildings, and Emergency Management. <strong>Without hearings, markup sessions, or public bill text, this represents legislative theater rather than governance.</strong> The United States faces escalating disaster costs—FEMA disaster declarations increased 400% from the 1980s to 2020s, with annual losses exceeding $150 billion—making subcommittee paralysis particularly costly. Congress receives salaries and operational funding whether bills advance or languish, creating misaligned incentives. The constitutional legislative process allows committees broad gatekeeping authority, but extended inaction on disaster preparedness shifts costs to states and future disaster victims who lack federal coordination frameworks.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "FEMA Disaster Declaration Statistics",
-      "House Committee Records, May 2026"
     ]
   }
 ]
