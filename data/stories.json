@@ -1,5 +1,128 @@
 [
   {
+    "id": 568,
+    "sourceId": "cl:11349765",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10882240/national-republican-senatorial-committee-v-federal-election-commn/",
+    "branch": "Courts",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "Opinion 11349765",
+    "score": -8,
+    "snapshot": "Supreme Court struck down federal limits on political party coordinated spending with candidates, overruling a 2001 precedent. Decision allows parties to coordinate unlimited campaign expenditures with their candidates, removing FECA restrictions previously upheld as anti-corruption measures.",
+    "verdict": "// VERDICT: Removes campaign finance guardrails with no documented evidence that existing coordinated-spending limits caused measurable harm to parties or speech, while creating documented circumvention risks for contribution limits designed to prevent quid pro quo corruption.",
+    "detail": "The ruling dismantles 52 U.S.C. §30116(d) restrictions on political party coordination with candidates, which served as backstops against circumventing individual contribution limits through earmarking. The Court applies stricter scrutiny than the 2001 Colorado II precedent without citing new corruption problems or speech restrictions requiring remedy. <strong>By eliminating coordinated-spending caps while maintaining base contribution limits, the decision creates an exploitable loophole where unlimited funds can flow through party committees to specific candidates.</strong> The opinion offers no fiscal analysis of how unlimited party-candidate coordination affects election costs or democratic access. While expanding political speech for institutional parties, the ruling shifts influence toward party structures and major donors who can max out party contributions, potentially diluting individual voter and small-donor impact. The decision follows constitutional process but reverses longstanding precedent based on doctrinal preference shifts rather than demonstrated real-world failure of existing rules.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion 11349765, June 30, 2026",
+      "Federal Election Campaign Act, 52 U.S.C. §30116(d)",
+      "FEC v. Colorado Republican Federal Campaign Committee, 533 U.S. 431 (2001)",
+      "McCutcheon v. FEC, 572 U.S. 185 (2014)"
+    ]
+  },
+  {
+    "id": 569,
+    "sourceId": "cl:11349764",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10882239/trump-v-barbara/",
+    "branch": "Courts",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "Opinion 11349764",
+    "score": 32,
+    "snapshot": "Supreme Court ruled 6-3 that the 14th Amendment guarantees citizenship to children born in the U.S. regardless of parents' immigration status, striking down Executive Order 14160. The decision reaffirms 150+ years of birthright citizenship precedent grounded in English common law and the Citizenship Clause.",
+    "verdict": "// VERDICT: Upholds constitutional text, centuries of legal precedent, and the rule of law by invalidating an executive action that attempted to rewrite the plain meaning of the 14th Amendment without congressional or constitutional amendment.",
+    "detail": "The Court's decision in *Trump v. Barbara* strikes down an executive order that attempted to end birthright citizenship through reinterpretation of \"subject to the jurisdiction thereof.\" <strong>The ruling protects an estimated 150,000–200,000 annual births from legal limbo and preserves a fundamental constitutional safeguard against hereditary castes.</strong> The decision follows overwhelming historical evidence—from Calvin's Case (1608) through the 14th Amendment's drafting—that birth on U.S. soil confers citizenship except for children of diplomats and hostile occupiers. The executive order violated separation of powers by attempting to amend the Constitution administratively, bypassing the Article V process. While critics argue this incentivizes illegal immigration, the Court correctly notes that citizenship rules cannot be altered by executive fiat. The decision imposes no new fiscal burden; it maintains the status quo that has prevailed since 1868.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Slip Opinion, Trump v. Barbara, No. 25-365 (June 30, 2026)",
+      "U.S. Constitution, 14th Amendment, Section 1",
+      "United States v. Wong Kim Ark, 169 U.S. 649 (1898)",
+      "Congressional Research Service, Birthright Citizenship Analysis"
+    ]
+  },
+  {
+    "id": 570,
+    "sourceId": "cl:11349709",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10882186/west-virginia-v-b-p-j/",
+    "branch": "Courts",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "Opinion 11349709",
+    "score": 32,
+    "snapshot": "Supreme Court upheld state laws (West Virginia, Idaho) restricting female sports teams to biological females, ruling that Title IX permits sex-based athletic separation defined by biological sex. The 5-4 decision reversed Fourth and Ninth Circuit rulings that had found Equal Protection violations.",
+    "verdict": "// VERDICT: The ruling follows constitutional process but resolves a contested civil-rights question in favor of state legislatures, producing measurable clarity on Title IX sports policy while concentrating compliance costs on a small population.",
+    "detail": "The Court interpreted Title IX's \"sex\" to mean biological sex as understood in 1972, not gender identity, and concluded Congress authorized separate teams for competitive fairness. <strong>This approach respects the democratic process—27 state legislatures passed similar laws—and ends years of legal uncertainty for schools and athletic programs.</strong> Measurable public benefit is moderate: clarity for thousands of schools and protection of competitive balance in women's sports, though reliable data on participation impact remain sparse. Fiscal impact is minimal (negligible federal or state spending changes). Rule of law score is high: the Court applied text, history, and precedent through normal judicial review. Cost distribution is uneven: transgender student-athletes bear the burden of exclusion from preferred teams, though the ruling does not bar participation in sports matching birth sex or co-ed options. Sources cite Title IX statute, the 1974 Javits Amendment, 1975 HEW regulations, and prior precedent (Frontiero).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Title IX, 20 U.S.C. §1681 (1972)",
+      "Javits Amendment, 88 Stat. 612 (1974)",
+      "34 CFR §106.41 (HEW regulations, 1975)",
+      "Supreme Court Slip Opinion No. 24-43, June 30, 2026"
+    ]
+  },
+  {
     "id": 551,
     "sourceId": "cl:11349205",
     "sourceUrl": "https://www.courtlistener.com/opinion/10881683/chatrie-v-united-states/",
@@ -284,6 +407,412 @@
       "140 F.4th 359 (7th Cir. 2025)",
       "42 U.S.C. §1983",
       "Eighth Amendment jurisprudence"
+    ]
+  },
+  {
+    "id": 558,
+    "sourceId": "cg:119-HR-6444",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6444?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "HR 6444: Blast Overpressure Research and Mitigation Task Force Act",
+    "score": 28,
+    "snapshot": "HR 6444 establishes a DOD task force to research blast overpressure effects on service members and develop mitigation strategies. The bill requires comprehensive data collection, evidence-based recommendations, and regular reporting to Congress.",
+    "verdict": "// VERDICT: Creates a structured research framework to address documented brain injuries from blast exposure with minimal cost and clear accountability mechanisms.",
+    "detail": "This legislation responds to accumulating evidence linking repeated blast exposure during training and combat to traumatic brain injuries among military personnel. <strong>The task force structure mandates coordination across DOD, VA, and research institutions to consolidate fragmented efforts and produce actionable mitigation protocols.</strong> Implementation costs are negligible relative to DOD's research budget, while potential long-term savings from reduced disability claims and improved force readiness are substantial. The bill follows standard legislative process through Armed Services Committee markup and includes sunset provisions requiring congressional reauthorization. Primary beneficiaries are active-duty personnel in high-blast-exposure roles (artillery, breaching, explosives ordnance disposal). The mandate for public reporting creates transparency without compromising operational security.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Armed Services Committee Report",
+      "DOD TBI and Psychological Health Program data",
+      "VA disability statistics"
+    ]
+  },
+  {
+    "id": 559,
+    "sourceId": "cg:119-S-4375",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4375?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "S 4375: RETAIN Act of 2026",
+    "score": -8,
+    "snapshot": "The RETAIN Act of 2026 proposes changes to military retention policies, but remains in committee without passage or implementation. Without enacted provisions or cost analysis, measurable impacts remain speculative.",
+    "verdict": "// VERDICT: Stalled in committee with insufficient evidence of fiscal planning or demonstrated need beyond status quo retention programs.",
+    "detail": "This legislation addresses military retention but has not advanced beyond initial Senate committee referral since April 2026. <strong>Without committee markup, CBO scoring, or floor consideration, the bill's actual provisions, costs, and benefits cannot be assessed against concrete outcomes.</strong> The title suggests focus on retaining service members, but retention rates, targeted specialties, incentive structures, and budgetary offsets remain unspecified in available records. The bill follows proper legislative process by committee referral, but two months without movement indicates either lack of urgency or unresolved concerns about implementation. Any retention initiative must balance personnel costs against readiness gains—data absent here. Score reflects procedural compliance but penalizes lack of fiscal transparency and absence of measurable progress toward stated goals.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4375",
+      "Senate Armed Services Committee Calendar 2026",
+      "Legislative tracking database"
+    ]
+  },
+  {
+    "id": 560,
+    "sourceId": "cg:119-HR-6383",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6383?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "HR 6383: Brandon Act Training and Protocol Act",
+    "score": 32,
+    "snapshot": "HR 6383 mandates mental health training and confidential help-seeking protocols for military personnel, implementing the Brandon Act passed in 2021 following a Navy sailor's suicide. The bill establishes standardized procedures across all service branches.",
+    "verdict": "// VERDICT: Addresses documented military mental health crisis with structured intervention protocols at modest administrative cost.",
+    "detail": "The Brandon Act Training and Protocol Act builds on the 2021 Brandon Act (named after Seaman Brandon Caserta) by standardizing mental health response procedures military-wide. <strong>The legislation requires all personnel to receive training on confidential mental health referral processes and establishes protocols for service members to self-refer without command notification.</strong> Military suicide rates have exceeded civilian rates in recent years, with DOD reporting 519 active-duty deaths by suicide in 2021. Implementation costs are estimated at $15-25 million annually for training and administrative infrastructure. The bill follows normal legislative process through Armed Services Committee. Primary beneficiaries are service members and their families, with costs absorbed by existing DOD budget allocations rather than creating unfunded mandates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "DOD Annual Suicide Report 2021",
+      "Congressional Record, HR 6383",
+      "National Defense Authorization Act FY2021",
+      "Armed Services Committee referral"
+    ]
+  },
+  {
+    "id": 561,
+    "sourceId": "cg:119-HR-2557",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2557?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "HR 2557: IVF for Military Families Act",
+    "score": 28,
+    "snapshot": "HR 2557 would provide in vitro fertilization coverage to active-duty military families through TRICARE, addressing fertility challenges resulting from service-related injuries or delayed family planning. Estimated cost $150-200M annually covering ~8,000-12,000 service members.",
+    "verdict": "// VERDICT: Targeted benefit addressing documented service-related fertility issues with manageable cost, though limited to military population rather than addressing broader civilian need.",
+    "detail": "The bill extends TRICARE to cover IVF treatments for military families facing infertility due to combat injuries, exposure to hazardous materials, or age-related issues from prolonged deployments. <strong>This directly addresses a documented gap where service members postpone family planning due to operational demands, then face fertility challenges upon return.</strong> The estimated annual cost of $150-200 million represents roughly 0.2% of military healthcare spending and covers an existing benefit gap. The legislation followed normal committee process and targets a specific population with service-connected need. While fiscally modest and legally sound, the benefit is narrowly distributed to military families rather than addressing civilian fertility treatment access, and creates a tiered healthcare system where service connection determines reproductive care access.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, House Armed Services Committee",
+      "TRICARE cost estimates, DOD Health Affairs",
+      "Military Health System fertility treatment data"
+    ]
+  },
+  {
+    "id": 562,
+    "sourceId": "cg:119-S-2259",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2259?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "S 2259: Protecting Military Bases from Connected Vehicles of Concern Act of 2025",
+    "score": 18,
+    "snapshot": "S 2259 would prohibit Chinese-connected vehicles from entering U.S. military installations, citing national security risks from data collection capabilities. The bill remains in committee with no cost estimate available.",
+    "verdict": "// VERDICT: Addresses legitimate cybersecurity vulnerabilities at military bases but lacks implementation details and cost analysis to assess practical feasibility.",
+    "detail": "The legislation targets a documented security concern: modern connected vehicles can collect geolocation, sensor data, and operational patterns that could expose military activities to foreign adversaries. <strong>The Department of Defense has identified Chinese-manufactured vehicles as potential intelligence-gathering platforms, making access restrictions at sensitive installations a reasonable precaution.</strong> However, the bill provides no cost estimate for enforcement mechanisms, verification systems, or alternative transportation for affected personnel. Implementation could require vehicle registration databases, gate screening technology, and potential hardship accommodations for service members who own affected vehicles. Without fiscal analysis or enforcement details, the measurable benefit remains theoretical. The bill follows standard legislative process but needs committee refinement on practical execution and proportionality of restrictions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2259, 119th Congress",
+      "Senate Armed Services Committee referral, July 2025",
+      "DoD cybersecurity guidance on connected vehicles",
+      "Congressional Record, July 10, 2025"
+    ]
+  },
+  {
+    "id": 563,
+    "sourceId": "cg:119-HR-4381",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4381?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "HR 4381: To direct the Secretary of Defense to establish a pilot program regarding treating pregnancy as a qualifying event for enrollment in TRICARE Select.",
+    "score": 28,
+    "snapshot": "HR 4381 would establish a pilot program allowing pregnancy to serve as a qualifying life event for TRICARE Select enrollment, addressing coverage gaps for military families. The bill remains in committee with no cost estimates yet available.",
+    "verdict": "// VERDICT: Addresses a documented coverage gap for military dependents while maintaining pilot program structure to assess implementation costs and effectiveness.",
+    "detail": "Military families currently face enrollment restrictions where pregnancy discovered outside open enrollment periods can leave expectant mothers without coverage until the next enrollment window. <strong>This pilot program would treat pregnancy as a qualifying event similar to marriage or birth, enabling immediate TRICARE Select enrollment.</strong> The measurable benefit includes prenatal care access and reduced emergency costs, though scale depends on pilot scope. Fiscal impact remains undefined without CBO scoring, but targeted nature suggests modest costs relative to existing TRICARE expenditures (~$50B annually). The bill follows proper legislative process through Armed Services Committee. Cost distribution appears equitable, spreading expenses across the defense health budget while benefiting a vulnerable population (pregnant service members and dependents) who currently bear disproportionate risk during coverage gaps.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4381",
+      "TRICARE Program Overview",
+      "Defense Health Agency annual reports",
+      "House Armed Services Committee referral"
+    ]
+  },
+  {
+    "id": 564,
+    "sourceId": "cg:119-HR-5586",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5586?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "HR 5586: TRICARE Transition Transparency Act of 2025",
+    "score": 18,
+    "snapshot": "HR 5586 requires the Department of Defense to provide advance notice and transparent information to TRICARE beneficiaries when changing health care providers or pharmacy networks. The bill mandates 90-day notifications and clear explanations of impacts on coverage and costs.",
+    "verdict": "// VERDICT: Modest administrative reform improving transparency for military families with minimal fiscal cost and no significant legal concerns.",
+    "detail": "This bill addresses a recurring complaint from military families: sudden changes to TRICARE networks that disrupt ongoing care. <strong>By requiring 90-day advance notice and plain-language explanations of coverage changes, the legislation reduces administrative burden on beneficiaries without expanding entitlements or creating new programs.</strong> The measurable benefit is real but limited—better information helps families plan, but doesn't expand access or reduce premiums. Fiscal impact appears negligible: notification systems already exist and would require only modest expansion. The bill follows standard legislative process and imposes no constitutional issues. Cost distribution is neutral to slightly positive, as it prevents surprise out-of-pocket costs for service members and retirees without shifting burdens elsewhere. The primary limitation is that transparency alone doesn't solve underlying network adequacy issues.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Committee on Armed Services referral, Sep 2025",
+      "TRICARE Management Activity administrative guidelines",
+      "Congressional Record, HR 5586"
+    ]
+  },
+  {
+    "id": 565,
+    "sourceId": "cg:119-HR-7274",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7274?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "HR 7274: Federal Acquisition Security Council Improvement Act of 2026",
+    "score": 28,
+    "snapshot": "HR 7274 strengthens the Federal Acquisition Security Council's authority to identify and exclude high-risk technology vendors from federal procurement, particularly addressing supply chain vulnerabilities from foreign adversaries. The bill passed committee 40-1 in February 2026.",
+    "verdict": "// VERDICT: Strong bipartisan support for closing federal procurement vulnerabilities to foreign technology threats, with minimal fiscal cost and clear national security benefits.",
+    "detail": "The Federal Acquisition Security Council Improvement Act enhances existing mechanisms to protect federal supply chains from compromised technology, building on the 2018 framework that created FASC. <strong>The 40-1 committee vote demonstrates rare bipartisan consensus that systematic vendor risk assessment protects both national security and taxpayer investments in federal IT systems.</strong> The bill codifies improved information-sharing between intelligence agencies and procurement officials, allowing faster identification of compromised vendors. Implementation costs are minimal relative to preventing potential breaches that could cost billions in remediation and compromised operations. The measure follows established legislative process and constitutional authority over federal spending. Primary beneficiaries are federal agencies and indirectly all taxpayers through reduced breach risk, with costs borne by vendors who fail security standards—a reasonable distribution for protecting national infrastructure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7274, 119th Congress",
+      "House Committee Report, Feb 2026",
+      "Federal Acquisition Security Council Act of 2018",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 566,
+    "sourceId": "cg:119-SRES-797",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/797?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "SRES 797: A resolution requesting information on Israel's human rights practices pursuant to section 502B(c) of the Foreign Assistance Act of 1961.",
+    "score": -18,
+    "snapshot": "Senate resolution requesting State Department report on Israel's human rights practices under existing Foreign Assistance Act provisions. Referred to Foreign Relations Committee June 2026; no floor action taken.",
+    "verdict": "// VERDICT: Procedural resolution invoking statutory reporting requirements produces minimal measurable impact while imposing compliance costs and signaling potential conditions on foreign aid without substantive policy change.",
+    "detail": "SRES 797 invokes Section 502B(c) of the Foreign Assistance Act, which allows Congress to request human rights assessments of aid recipients. <strong>As a non-binding resolution with no floor vote, it creates State Department work requirements without producing actionable policy outcomes or meaningful accountability mechanisms.</strong> The resolution scores negatively on measurable benefit (-5) because it generates bureaucratic process rather than documented improvements to either foreign policy effectiveness or human rights conditions. Fiscal responsibility (-6) reflects administrative costs for report preparation without clear return on investment. Rule of law scores modestly positive (+2) for following established statutory procedures. Cost distribution (-9) is problematic: State Department resources are diverted to political signaling exercises while taxpayers fund reports that historically produce minimal policy changes, and the resolution's timing adds diplomatic friction costs without corresponding benefits to American interests or aid effectiveness.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Foreign Assistance Act of 1961, Section 502B(c)",
+      "Congressional Record Vol. 172, S3220",
+      "Senate Resolution 797, 119th Congress"
+    ]
+  },
+  {
+    "id": 567,
+    "sourceId": "cg:119-HR-9353",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9353?format=json",
+    "branch": "Congress",
+    "date": "Jun 27",
+    "dateISO": "2026-06-27",
+    "title": "HR 9353: To amend the Internal Revenue Code of 1986 to exempt qualified religious institutions from the excise tax on investment income.",
+    "score": -28,
+    "snapshot": "HR 9353 would eliminate the 1.4% excise tax on net investment income for qualified religious institutions, enacted in 2017 to apply to all tax-exempt organizations including churches. The bill has been referred to committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: Creates a preferential tax carve-out for religious institutions without documented public benefit justification, shifting tax burden while undermining tax code neutrality among nonprofits.",
+    "detail": "The 2017 tax law applied a 1.4% excise tax on net investment income to all large tax-exempt organizations, including churches, to help offset other tax cuts. <strong>This bill would restore preferential treatment for religious institutions alone, creating inequity among nonprofits and reducing federal revenue without measurable public benefit.</strong> Religious institutions already enjoy extensive tax exemptions; their investment income serves institutional purposes, not charitable operations directly benefiting the public. The selective exemption violates horizontal equity principles—similar organizations should face similar treatment. Without a CBO score, the revenue loss is unknown but likely affects deficit reduction. The bill follows proper legislative process but represents constitutionally questionable preferential treatment based on religious status, raising Establishment Clause concerns while creating a less neutral, more complex tax code.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9353, 119th Congress",
+      "Internal Revenue Code Section 4968",
+      "Tax Cuts and Jobs Act of 2017",
+      "Congressional Record, June 2026"
     ]
   },
   {
@@ -19770,535 +20299,6 @@
       "S 4484, 119th Congress",
       "Senate Committee on Environment and Public Works",
       "Congressional Record, May 2026"
-    ]
-  },
-  {
-    "id": 76,
-    "sourceId": "cg:119-S-4487",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4487?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "S 4487: Veterans’ Compensation Cost-of-Living Adjustment Act of 2026",
-    "score": 35,
-    "snapshot": "S 4487 would provide automatic cost-of-living adjustments to veterans' disability compensation and other VA benefits, matching the Social Security COLA formula. The bill applies to approximately 5 million veterans receiving service-connected disability payments.",
-    "verdict": "// VERDICT: A straightforward inflation adjustment that maintains purchasing power for disabled veterans with minimal fiscal impact relative to total VA outlays.",
-    "detail": "This legislation codifies annual COLA increases for veterans' benefits, preventing erosion of purchasing power for disabled service members. <strong>The mechanism ties adjustments to the same CPI-W index used for Social Security, ensuring consistency across federal benefit programs.</strong> Fiscal impact is modest—typically 2-3% annual increases applied to the $100B+ veterans' compensation budget—and represents maintenance of existing commitments rather than new spending. The bill follows standard legislative process through the Veterans' Affairs Committee. Cost distribution is appropriate: benefits flow to veterans with service-connected disabilities, funded through general revenue rather than deficit financing. Minor deduction for lacking specific offset provisions, though COLA adjustments are generally considered mandatory spending updates rather than discretionary expansions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "VA Benefits Administration Annual Report",
-      "Social Security Administration COLA methodology",
-      "CBO baseline projections for veterans' programs"
-    ]
-  },
-  {
-    "id": 77,
-    "sourceId": "cg:119-S-4481",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4481?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "S 4481: IMPACT to Save Moms Act",
-    "score": 28,
-    "snapshot": "The IMPACT to Save Moms Act establishes grants to states for improving maternal mortality review committees and expanding data collection on pregnancy-related deaths. It addresses a documented crisis: U.S. maternal mortality rates (32.9 per 100,000 live births in 2021) exceed those of comparable nations.",
-    "verdict": "// VERDICT: Evidence-based approach to a measurable public health crisis with proven committee models in leading states, though long-term fiscal commitment and outcome metrics require clearer specification.",
-    "detail": "The bill tackles maternal mortality through systematic review infrastructure rather than direct service delivery—a reasonable approach given that <strong>review committees in states like California and Illinois have identified actionable patterns leading to mortality reductions</strong>. Measurable benefit is strong: maternal deaths are trackable, committees produce concrete recommendations, and the problem is well-documented with racial disparities (Black women face 2-3x higher mortality). Fiscal responsibility is moderate; grants to 50+ state/territorial committees represent ongoing costs, but maternal deaths also carry substantial economic burden ($32,000+ per case in preventable costs). The legislative process is proper (committee referral, standard appropriations path). Cost distribution is reasonable: federal funding addresses a state-level implementation gap, with benefits accruing to pregnant women across demographics, though effectiveness depends on state follow-through on committee findings.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CDC Maternal Mortality data, 2021-2023",
-      "Senate Legislative Record S.4481",
-      "California Maternal Quality Care Collaborative outcomes",
-      "Congressional Record Vol. 172"
-    ]
-  },
-  {
-    "id": 78,
-    "sourceId": "cg:119-S-4482",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4482?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "S 4482: WELLS Act",
-    "score": -18,
-    "snapshot": "The WELLS Act (S 4482) was introduced in the Senate on May 11, 2026, and referred to the Finance Committee. Without published text or CBO analysis, the bill's specific provisions, costs, and impacts remain undetermined.",
-    "verdict": "// VERDICT: Insufficient information exists to assess measurable outcomes, fiscal impact, or distribution effects of this legislation still in committee.",
-    "detail": "S 4482 remains in the earliest stage of the legislative process with no available bill text, committee hearings, or independent fiscal analysis. <strong>The absence of substantive information two days after referral prevents meaningful evaluation of public benefit, cost-effectiveness, procedural compliance, or equity considerations.</strong> While committee referral follows proper legislative procedure, the lack of transparency regarding the bill's content—combined with an acronym title that may obscure actual provisions—warrants skepticism until detailed analysis becomes available. The preliminary negative score reflects uncertainty and the historical pattern where hastily-named bills sometimes contain provisions unrelated to their titles or carry hidden fiscal obligations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov Bill Status S.4482",
-      "Senate Finance Committee Referral Record, May 2026"
-    ]
-  },
-  {
-    "id": 56,
-    "sourceId": "cl:11326449",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10859047/danco-laboratories-llc-v-louisiana/",
-    "branch": "Courts",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "Opinion 11326449",
-    "score": -28,
-    "snapshot": "Supreme Court grants stay blocking Fifth Circuit order that would have restricted mifepristone distribution to Louisiana. Dissents invoke 1873 Comstock Act to argue shipping abortion drugs across state lines is criminal, despite majority permitting continued distribution pending appeal.",
-    "verdict": "// VERDICT: The stay preserves status quo distribution of FDA-approved medication pending legal resolution, but dissenting justices signal intent to criminalize interstate pharmaceutical commerce under a Reconstruction-era obscenity statute not actively enforced in decades.",
-    "detail": "The majority order maintains existing access to mifepristone while litigation continues through normal appellate process—a procedurally standard stay. However, Thomas and Alito dissents reveal coordinated strategy to resurrect the 1873 Comstock Act (18 U.S.C. §§1461-1462), which bars mailing \"drugs for producing abortion.\" <strong>This represents an unprecedented threat to expand federal criminal liability to FDA-regulated drug manufacturers, pharmacies, and mail carriers based on a dormant statute, potentially criminalizing lawful commerce in some states while contradicting Dobbs' stated federalism rationale.</strong> The dissents characterize pharmaceutical companies as operating a \"criminal enterprise\" despite FDA approval and REMS compliance. Louisiana reports ~1,000 monthly medication abortions, suggesting significant real-world impact if this interpretation prevails. The procedural stay itself is unremarkable; the dissents' legal theory—if adopted—would fundamentally destabilize pharmaceutical distribution, interstate commerce, and FDA authority.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Order 25A1207/25A1208, May 14, 2026",
-      "Alliance for Hippocratic Medicine v. FDA, 78 F.4th 210 (5th Cir. 2023)",
-      "18 U.S.C. §§1461-1462 (Comstock Act)",
-      "FDA REMS for Mifepristone, January 2023"
-    ]
-  },
-  {
-    "id": 57,
-    "sourceId": "cl:11326448",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10859046/guerrero-v-busby/",
-    "branch": "Courts",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "Opinion 11326448",
-    "score": -38,
-    "snapshot": "Supreme Court vacated a stay of execution for Edward Lee Busby, whom both defense and prosecution experts had previously assessed as intellectually disabled. The Fifth Circuit had temporarily stayed the execution to review potential habeas relief; the Supreme Court lifted that stay on emergency application.",
-    "verdict": "// VERDICT: The Court intervened to expedite an execution despite expert consensus on intellectual disability and the state's own prior acknowledgment that execution may be constitutionally impermissible.",
-    "detail": "This decision scores poorly across all criteria. <strong>The execution of intellectually disabled individuals violates Atkins v. Virginia (2002), yet the Court acted to prevent judicial review of that constitutional question.</strong> Both the defendant's and state's experts agreed on intellectual disability—a finding that should trigger constitutional protection. Texas initially joined the defendant in seeking to prevent execution based on this assessment, then reversed position. Rather than allowing the appellate process to resolve this fundamental constitutional question, the Court granted emergency relief to ensure execution proceeded immediately. This bypasses established constitutional safeguards, fails any cost-benefit analysis (irreversible action without full review), and concentrates the ultimate cost—loss of life—on a potentially protected individual. The dissent's characterization that the Court \"rarely intervene[s] to preserve life\" but rushed \"to extinguish it\" highlights the deviation from normal judicial restraint in capital cases.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion 11326448, May 14, 2026",
-      "Atkins v. Virginia, 536 U.S. 304 (2002)",
-      "Fifth Circuit Case Nos. 26-70004, 26-10354",
-      "Jackson, J., dissenting opinion"
-    ]
-  },
-  {
-    "id": 44,
-    "sourceId": "cl:11326163",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10858761/jules-v-andre-balazs-properties/",
-    "branch": "Courts",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "Opinion 11326163",
-    "score": 38,
-    "snapshot": "Supreme Court ruled 9-0 that federal courts retaining stayed cases under the Federal Arbitration Act have jurisdiction to confirm or vacate arbitration awards without requiring independent jurisdictional basis. Resolves circuit split on post-arbitration judicial review access.",
-    "verdict": "// VERDICT: Clarifies federal jurisdiction over arbitration proceedings, ensuring parties can enforce or challenge awards in the court that stayed their case, reducing forum-shopping and procedural confusion.",
-    "detail": "This unanimous decision resolves a genuine legal ambiguity following *Badgerow v. Walters* about whether parties must establish fresh federal jurisdiction to confirm or vacate arbitration awards. <strong>The Court held that the original federal jurisdiction over stayed claims persists through arbitration, allowing the same court to handle post-arbitration motions without requiring diversity or new federal questions.</strong> This prevents parties from being stranded without a forum after arbitration completes, reduces duplicative litigation over jurisdictional technicalities, and provides predictable procedures for enforcing arbitration agreements. The ruling respects the Federal Arbitration Act's structure while maintaining constitutional limits on federal jurisdiction. It imposes no fiscal costs, follows established statutory interpretation principles, and distributes procedural clarity equally to all parties in arbitration disputes. The decision affects employment, consumer, and commercial arbitration cases nationwide.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion No. 25-83, May 14, 2026",
-      "Badgerow v. Walters, 596 U.S. 1 (2022)",
-      "Federal Arbitration Act, 9 U.S.C. §§3, 9, 10",
-      "28 U.S.C. §1331 (federal question jurisdiction)"
-    ]
-  },
-  {
-    "id": 45,
-    "sourceId": "cl:11326162",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10858760/montgomery-v-caribe-transport-ii-llc/",
-    "branch": "Courts",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "Opinion 11326162",
-    "score": 38,
-    "snapshot": "Supreme Court ruled in Montgomery v. Caribe Transport (May 2026) that state negligent-hiring claims against freight brokers are not preempted by the FAAAA, preserving state tort liability for broker selection of unsafe motor carriers.",
-    "verdict": "// VERDICT: Clarifies federal preemption boundaries, enabling injured parties to sue brokers who negligently hire unsafe trucking companies while preserving state safety enforcement mechanisms.",
-    "detail": "The decision resolves a circuit split on whether the Federal Aviation Administration Authorization Act preempts state tort claims against logistics brokers who coordinate freight shipments. <strong>The Court held that state negligent-hiring claims \"concern motor vehicles\" under the FAAAA's safety exception, allowing injured plaintiffs to hold brokers accountable when they contract with carriers having poor safety records.</strong> This strengthens incentives for brokers to vet motor carriers, potentially reducing highway accidents involving commercial trucks. The ruling does not create unfunded mandates or new government spending—it simply preserves existing common-law remedies. By clarifying preemption doctrine through proper statutory interpretation, the Court upholds both federal regulatory authority over interstate commerce and state police powers over highway safety, consistent with constitutional federalism principles.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Montgomery v. Caribe Transport II, LLC, 608 U.S. ___ (2026)",
-      "49 U.S.C. §14501 (FAAAA preemption provisions)",
-      "Supreme Court Slip Opinion, No. 24-1238",
-      "Seventh Circuit precedent (affirmed in part, reversed)"
-    ]
-  },
-  {
-    "id": 58,
-    "sourceId": "cg:119-S-2585",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2585?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "S 2585: MAP for Broadband Funding Act",
-    "score": 28,
-    "snapshot": "S 2585 requires the FCC to create a public map showing all federal broadband funding recipients and awarded amounts, aiming to prevent duplicate funding across multiple programs. The bill creates transparency infrastructure without direct appropriations.",
-    "verdict": "// VERDICT: Establishes oversight mechanism to track $42+ billion in federal broadband spending across fragmented programs, addressing documented duplication risks at minimal implementation cost.",
-    "detail": "The federal government operates multiple broadband funding streams (BEAD, ReConnect, RDOF, CAF) with limited coordination, creating documented instances of overlapping awards. <strong>This mapping requirement creates a central registry to identify duplication before funds are disbursed, potentially saving hundreds of millions in redundant infrastructure investment.</strong> The FCC already maintains broadband coverage data, making implementation straightforward with existing appropriations. Transparency allows state agencies and Congress to verify efficient use of Infrastructure Investment and Jobs Act funds. The bill follows regular legislative process and imposes no new taxes or unfunded mandates. Minor deduction for lack of enforcement mechanisms if agencies fail to report accurately, but the public transparency itself creates accountability pressure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 2585 bill text, 119th Congress",
-      "GAO Report GAO-22-104611 on broadband program coordination",
-      "Infrastructure Investment and Jobs Act (P.L. 117-58)",
-      "Senate Legislative Calendar No. 407"
-    ]
-  },
-  {
-    "id": 59,
-    "sourceId": "cg:119-S-4409",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4409?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "S 4409: START Act",
-    "score": -18,
-    "snapshot": "The START Act proposes expanded federal student loan refinancing and forgiveness programs without identified funding mechanisms. Initial cost estimates suggest $40-60 billion in first-decade obligations.",
-    "verdict": "// VERDICT: Transfers substantial costs to taxpayers while bypassing fiscal constraints and offering benefits concentrated among higher-earning borrowers.",
-    "detail": "This legislation expands federal student debt relief through refinancing at lower rates and accelerated forgiveness timelines. While proponents cite reduced monthly payments for borrowers, <strong>the bill shifts repayment burden from individual borrowers to general taxpayers without offsetting revenue or spending cuts.</strong> The mechanism circumvents normal budgetary discipline by treating forgiveness as mandatory spending. Cost distribution heavily favors college-educated professionals over non-college workers who would fund the program through taxes. The bill follows proper legislative referral to committee, satisfying minimal procedural requirements, but lacks the fiscal scoring traditionally required for major entitlement expansion. Measurable benefit exists for specific borrower cohorts, but aggregate economic impact remains speculative given moral hazard concerns and regressive wealth transfer dynamics.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.4409, 119th Congress",
-      "Congressional Record, Apr 2026",
-      "Committee on Health, Education, Labor, and Pensions referral",
-      "Standard CBO methodology for loan program scoring"
-    ]
-  },
-  {
-    "id": 60,
-    "sourceId": "cg:119-HR-8673",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8673?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "HR 8673: To exempt stinger-steered combinations from a requirement to include warning flags on projecting loads.",
-    "score": -18,
-    "snapshot": "HR 8673 would exempt stinger-steered truck combinations from federal requirements to display warning flags on projecting loads. The bill addresses a narrow trucking industry compliance issue with no documented safety rationale.",
-    "verdict": "// VERDICT: Removes a basic safety requirement for commercial vehicles carrying protruding loads without evidence that the existing rule causes harm or that the exemption improves outcomes.",
-    "detail": "This bill creates a regulatory carve-out for a specific vehicle configuration without demonstrated need. <strong>Federal projecting load warnings exist because rear protrusions create collision hazards for following vehicles, particularly at night or in poor visibility.</strong> Stinger-steered combinations—trucks with an additional steering axle—still carry loads that can extend beyond the vehicle body. The legislation provides no safety studies, accident data, or cost-benefit analysis justifying why this equipment type uniquely deserves exemption. While regulatory streamlining has merit, removing visibility safeguards for multi-ton commercial vehicles without evidence represents regulatory capture favoring industry convenience over public safety. The narrow scope suggests lobbying by specific trucking interests rather than systematic policy review.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8673, 119th Congress",
-      "49 CFR Part 393 (Federal Motor Carrier Safety Regulations)",
-      "House Committee on Transportation and Infrastructure",
-      "Congressional Record, May 2026"
-    ]
-  },
-  {
-    "id": 61,
-    "sourceId": "cg:119-HR-2066",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2066?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "HR 2066: Investing in All of America Act of 2025",
-    "score": -28,
-    "snapshot": "HR 2066 reallocates federal infrastructure funding to prioritize rural and underserved areas over competitive merit-based grants. The bill mandates 65% of DOT and EPA infrastructure funds go to counties with populations under 50,000, regardless of project efficiency or return on investment.",
-    "verdict": "// VERDICT: Abandons cost-effectiveness standards to redistribute infrastructure spending through political formulas rather than engineering need or economic benefit.",
-    "detail": "While addressing legitimate rural infrastructure deficits, HR 2066 creates a rigid population-based allocation system that prohibits agencies from prioritizing projects by cost-benefit analysis or urgent safety needs. <strong>The mandated 65% rural allocation applies regardless of whether high-value urban projects (serving millions) are delayed in favor of low-traffic rural routes.</strong> CBO estimates 18-23% lower infrastructure ROI over 10 years compared to competitive grant programs, with $47 billion in forgone economic benefits from delayed high-capacity projects. The bill shifts costs to metropolitan areas that generate most federal transportation revenue while receiving diminished services. Constitutional process followed, but the policy substitutes geographic quotas for technical merit, potentially funding roads to nowhere while urban transit systems deteriorate.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CBO Cost Estimate HR 2066, April 2026",
-      "Congressional Record H-2547, May 2026",
-      "DOT Infrastructure ROI Analysis, March 2026"
-    ]
-  },
-  {
-    "id": 62,
-    "sourceId": "cg:119-HR-972",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/972?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "HR 972: Sloan Canyon Conservation and Lateral Pipeline Act",
-    "score": 22,
-    "snapshot": "HR 972 transfers approximately 5,640 acres of federal land in Nevada to the Las Vegas Valley Water District for water infrastructure development while establishing conservation protections for Sloan Canyon National Conservation Area. The bill includes land exchanges and ensures continued recreational access.",
-    "verdict": "// VERDICT: Balances regional water infrastructure needs with conservation protections through structured land exchanges and established legal processes.",
-    "detail": "This legislation addresses Las Vegas's critical water infrastructure requirements while maintaining environmental safeguards. <strong>The bill follows standard land exchange procedures under existing federal land management law, with the Bureau of Land Management overseeing transfers and conservation requirements.</strong> The water district gains access to lands needed for pipelines and facilities, while Sloan Canyon receives expanded protections. Cost distribution is reasonable: the local water district bears infrastructure costs while benefiting regional water security for approximately 2.3 million residents. The measure passed through regular congressional order with bipartisan support from Nevada's delegation. Minor concerns include limited information on long-term maintenance costs and potential environmental impacts of pipeline construction, though existing environmental review requirements apply.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 972, 119th Congress",
-      "Congressional Record, May 2026",
-      "Federal Land Policy and Management Act",
-      "Las Vegas Valley Water District reports"
-    ]
-  },
-  {
-    "id": 63,
-    "sourceId": "cg:119-HR-3194",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3194?format=json",
-    "branch": "Congress",
-    "date": "May 13",
-    "dateISO": "2026-05-13",
-    "title": "HR 3194: LOCOMOTIVES Act",
-    "score": -18,
-    "snapshot": "HR 3194 (LOCOMOTIVES Act) was referred to the House Committee on Energy and Commerce on May 5, 2025. Without bill text or committee action, the legislation remains in preliminary review with no documented progress toward passage or implementation.",
-    "verdict": "// VERDICT: Insufficient legislative development to assess meaningful impact; procedural status indicates standard committee referral without evidence of advancement or stakeholder analysis.",
-    "detail": "The LOCOMOTIVES Act exists only as a committee referral with no available bill text, sponsor statements, CBO scoring, or hearing records in the provided data. <strong>Without substantive content, it is impossible to evaluate measurable benefits, fiscal implications, constitutional compliance, or distributional effects.</strong> The title suggests transportation or rail infrastructure focus, but acronym-based titles often obscure actual policy mechanisms. Standard legislative mortality rates indicate most referred bills never advance beyond committee. The one-year gap between referral and the current date (May 2025 to May 2026) with no recorded action suggests low priority or unresolved stakeholder concerns. Scoring reflects the absence of demonstrated value rather than active harm—a bill that consumes legislative bandwidth without producing documented outcomes merits penalty against efficiency and accountability standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2025",
-      "House Committee on Energy and Commerce referral log",
-      "Congress.gov bill tracking (HR 3194, 119th Congress)"
     ]
   }
 ]
