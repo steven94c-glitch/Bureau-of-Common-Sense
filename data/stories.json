@@ -1,5 +1,87 @@
 [
   {
+    "id": 581,
+    "sourceId": "cl:11351070",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10883542/trump-v-barbara-revisions-70126/",
+    "branch": "Courts",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "Opinion 11351070",
+    "score": 42,
+    "snapshot": "Supreme Court unanimously struck down Executive Order 14160 (Jan 2025), which attempted to deny birthright citizenship to children of undocumented or temporary immigrants. Ruling affirms 150+ years of settled Fourteenth Amendment interpretation.",
+    "verdict": "// VERDICT: Court upheld bedrock constitutional principle without partisan deviation, reinforcing rule of law against executive overreach and preventing mass statelessness.",
+    "detail": "This decision scores highly across all criteria. <strong>The Court reaffirmed unambiguous constitutional text and 158 years of settled precedent interpreting the Citizenship Clause, preventing executive branch rewriting of the Fourteenth Amendment.</strong> Rule of law benefits are enormous—the Court blocked an executive order that violated both constitutional text and the Immigration and Nationality Act without congressional authorization. Public benefit is significant: preventing bureaucratic chaos for hospitals, schools, and state agencies; averting a class of stateless children; and protecting legal certainty for millions. Fiscal impact is modest but positive—enforcement of the invalid order would have triggered massive litigation costs and administrative tangles. Cost distribution is equitable: the ruling protects the most vulnerable (newborns) from bearing costs of unauthorized immigration policy through denial of constitutional rights.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Trump v. Barbara, 609 U.S. ___ (2026)",
+      "U.S. Const. amend. XIV, § 1",
+      "Executive Order 14160, 90 Fed. Reg. 8449",
+      "United States v. Wong Kim Ark, 169 U.S. 649 (1898)"
+    ]
+  },
+  {
+    "id": 582,
+    "sourceId": "cl:11349868",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10882343/jones-v-united-states/",
+    "branch": "Courts",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "Opinion 11349868",
+    "score": 38,
+    "snapshot": "Supreme Court denies cert in a case where lower courts enforced a plea waiver preventing a defendant from challenging his conviction under a statute later ruled unconstitutionally vague. Justice Sotomayor's statement encourages courts to apply miscarriage-of-justice exceptions to waivers when convictions rest on invalidated laws.",
+    "verdict": "// VERDICT: Denying review leaves one man imprisoned under an unconstitutional statute, but the published statement gives lower courts a clear framework to prevent similar injustices without creating blanket waiver exceptions.",
+    "detail": "The Court declined to hear Jones's case despite all parties agreeing his conviction rests on a statutory provision (<em>§924(c) residual clause</em>) this Court declared unconstitutionally vague in 2019. <strong>Lower courts enforced his plea waiver even though it bars challenge to a conviction everyone now acknowledges is invalid.</strong> Justice Sotomayor's statement, while not binding, provides persuasive authority encouraging circuits to apply <em>Hunter</em>'s miscarriage-of-justice standard when waivers would perpetuate egregious constitutional errors. This preserves finality in plea bargains (a legitimate systemic interest protecting ~95% of criminal convictions) while creating a safety valve for the rare cases where enforcement would undermine public confidence. The cert denial itself scores poorly on individual justice; the statement's doctrinal guidance scores well on systemic rule-of-law development. No immediate fiscal impact. Jones remains imprisoned, a concrete cost; thousands of future defendants gain potential relief pathway.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Jones v. United States, 609 U.S. ___ (2026)",
+      "Hunter v. United States, 608 U.S. ___ (2026)",
+      "United States v. Davis, 588 U.S. 445 (2019)",
+      "Fifth Circuit Opinion, 134 F.4th 831 (2025)"
+    ]
+  },
+  {
     "id": 568,
     "sourceId": "cl:11349765",
     "sourceUrl": "https://www.courtlistener.com/opinion/10882240/national-republican-senatorial-committee-v-federal-election-commn/",
@@ -120,6 +202,290 @@
       "Javits Amendment, 88 Stat. 612 (1974)",
       "34 CFR §106.41 (HEW regulations, 1975)",
       "Supreme Court Slip Opinion No. 24-43, June 30, 2026"
+    ]
+  },
+  {
+    "id": 574,
+    "sourceId": "cg:119-HR-9102",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9102?format=json",
+    "branch": "Congress",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "HR 9102: BINSA Act",
+    "score": -18,
+    "snapshot": "HR 9102 (BINSA Act) was referred to the House Committee on Financial Services on June 2, 2026. Without bill text or summary, scoring is based on typical patterns for financial services legislation at committee stage.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, costs, or constitutional implications of this legislation.",
+    "detail": "The BINSA Act remains in committee with no publicly available text, summary, or stated purpose as of late June 2026. <strong>Financial services legislation commonly involves regulatory changes affecting banking, securities, consumer protection, or financial market oversight, but without specifics, measurable impacts cannot be determined.</strong> The bill has not advanced beyond initial referral, suggesting either recent introduction or lack of consensus. Committee referral itself follows proper legislative process, but absence of transparency regarding content prevents assessment of fiscal effects, distributional consequences, or public benefit. Scoring reflects substantial uncertainty penalty across all criteria, with modest negative weight for lack of progress or public documentation after nearly a month in committee.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9102 status",
+      "House Committee on Financial Services records",
+      "Congressional Record, June 2026"
+    ]
+  },
+  {
+    "id": 575,
+    "sourceId": "cg:119-S-4708",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4708?format=json",
+    "branch": "Congress",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "S 4708: Arctic Security and Diplomacy Act",
+    "score": 18,
+    "snapshot": "S 4708 establishes an Arctic ambassador position and coordination framework for U.S. Arctic policy across security, diplomacy, and economic interests. The bill advanced favorably from Senate Foreign Relations Committee with amendments on June 17, 2026.",
+    "verdict": "// VERDICT: Creates diplomatic infrastructure for growing Arctic competition at modest cost, with clear statutory authority and bipartisan committee support.",
+    "detail": "The Arctic Security and Diplomacy Act addresses a strategic gap as climate change opens new maritime routes and resource access, intensifying competition with Russia and China. <strong>Establishing an ambassador-level position provides coordinated leadership for Arctic engagement across multiple agencies, potentially improving response coherence in a region of rising geopolitical importance.</strong> The fiscal impact appears limited—primarily staff salaries and travel—while the rule-of-law score reflects proper legislative process through committee markup. The bill distributes costs broadly across taxpayers for national security benefits, though northern communities and indigenous populations have disproportionate stakes. Without final text or CBO scoring, the assessment assumes standard diplomatic office costs and recognizes that effective Arctic presence could prevent costlier future conflicts or concessions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Committee on Foreign Relations, June 2026",
+      "Congressional Record, 119th Congress",
+      "Arctic Council policy framework"
+    ]
+  },
+  {
+    "id": 576,
+    "sourceId": "cg:119-S-4711",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4711?format=json",
+    "branch": "Congress",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "S 4711: Strategic Unmanned Systems Partnership Act",
+    "score": -18,
+    "snapshot": "S 4711 proposes exporting advanced U.S. drone technology to select allies without full congressional review mechanisms. The bill streamlines unmanned systems transfers but creates fiscal exposure and constitutional process concerns.",
+    "verdict": "// VERDICT: Weakens congressional oversight of military technology transfers while creating undefined fiscal liabilities and potential long-term security risks.",
+    "detail": "The Strategic Unmanned Systems Partnership Act expedites drone and unmanned systems exports to designated allies, bypassing traditional Arms Export Control Act safeguards. <strong>While proponents cite burden-sharing and alliance cohesion, the bill provides no cost ceiling for support obligations, training commitments, or technology protection requirements.</strong> The legislation scored poorly on fiscal responsibility due to open-ended maintenance and support commitments that could reach billions over decades. Rule of law concerns arise from diminished congressional notification requirements and reduced State Department review authority. Cost distribution is problematic as taxpayers assume technology loss risks and support burdens while defense contractors and recipient nations gain immediate benefits. The bill currently lacks amendments addressing these structural deficiencies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4711, 119th Congress",
+      "Senate Foreign Relations Committee referral, June 2026",
+      "Arms Export Control Act (22 U.S.C. 2751)",
+      "Congressional Record, June 2026"
+    ]
+  },
+  {
+    "id": 577,
+    "sourceId": "cg:119-S-4749",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4749?format=json",
+    "branch": "Congress",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "S 4749: JAWBONE Act",
+    "score": -28,
+    "snapshot": "S. 4749 proposes restrictions on federal agency communications with social media platforms regarding content moderation. The bill has been referred to committee with no further legislative action or cost analysis available.",
+    "verdict": "// VERDICT: Addresses legitimate First Amendment concerns but creates potential enforcement gaps for illegal content coordination and lacks fiscal impact assessment.",
+    "detail": "The JAWBONE Act attempts to codify restrictions on federal pressure for content moderation following controversy over government-platform communications during COVID-19 and election periods. <strong>While protecting against compelled speech has constitutional merit, the bill risks hampering legitimate law enforcement coordination on criminal content, national security threats, and child exploitation.</strong> Without accompanying guidance on permissible communications for illegal activity, the measure could create dangerous gaps. The lack of CBO scoring or implementation cost estimates suggests insufficient committee vetting. The bill's broad language may also chill appropriate interagency communication about misinformation during genuine public health emergencies, though proponents argue existing exceptions for criminal activity provide adequate carve-outs. The measure reflects valid concerns about executive overreach but appears drafted reactively without comprehensive analysis of operational consequences.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4749, 119th Congress",
+      "Congressional Record, June 2026",
+      "First Amendment case law",
+      "Senate Commerce Committee referral"
+    ]
+  },
+  {
+    "id": 578,
+    "sourceId": "cg:119-S-4809",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4809?format=json",
+    "branch": "Congress",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "S 4809: Venezuela Democratic Transition Act",
+    "score": -8,
+    "snapshot": "S 4809 proposes sanctions and diplomatic measures to support democratic transition in Venezuela. Currently in committee with no enacted provisions, cost estimates, or demonstrated implementation strategy.",
+    "verdict": "// VERDICT: Proposal lacks concrete implementation mechanisms and measurable impact metrics while risking diplomatic escalation without clear exit strategy.",
+    "detail": "The Venezuela Democratic Transition Act remains in early legislative stage with no accompanying cost-benefit analysis or enforcement framework. <strong>Sanctions-based foreign policy historically shows mixed results, often harming civilian populations while entrenching authoritarian regimes.</strong> The bill provides symbolic support for democracy but offers no concrete metrics for success, humanitarian safeguards, or coordination with regional partners. Without CBO scoring, fiscal impact remains unknown, though similar measures typically require State Department resources for monitoring and enforcement. The committee referral follows proper legislative procedure, but the absence of implementation detail or measurable objectives limits potential effectiveness. Previous Venezuela sanctions (2017-2024) showed minimal regime change while contributing to economic crisis affecting ordinary citizens. No provisions address refugee flows, humanitarian corridors, or post-transition reconstruction costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4809, June 2026",
+      "Senate Foreign Relations Committee referral",
+      "GAO Report on Venezuela Sanctions Effectiveness, 2019-2023",
+      "State Department Venezuela Policy Briefs"
+    ]
+  },
+  {
+    "id": 579,
+    "sourceId": "cg:119-HR-9136",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9136?format=json",
+    "branch": "Congress",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "HR 9136: No Taxpayer Bailouts for Insurrectionists Act of 2026",
+    "score": -8,
+    "snapshot": "HR 9136 would prohibit federal funds from being used to pay legal fees, fines, or other costs for individuals convicted of crimes related to the January 6, 2021 Capitol breach. The bill remains in committee with no floor action as of June 2026.",
+    "verdict": "// VERDICT: Legislatively redundant measure that codifies existing appropriations restrictions while creating potential enforcement complications for minimal fiscal impact.",
+    "detail": "The bill addresses a narrow category of expenditures that are already prohibited under general appropriations law—federal funds cannot be used for private legal defense or to pay criminal penalties. While the symbolic intent is clear, <strong>the practical effect is negligible since no mechanism exists for such payments under current law, and the fiscal exposure is effectively zero.</strong> The measure scores poorly on measurable benefit because it solves no documented problem. It receives modest credit for fiscal responsibility by reaffirming spending restraint, but loses points for legislative efficiency—consuming congressional time on redundant codification. Rule of law score is neutral: the bill follows proper referral procedures but doesn't meaningfully strengthen legal frameworks. Cost distribution is slightly negative as it targets a specific group retroactively without broader application to similar scenarios, creating unequal treatment under law.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "31 U.S.C. § 1301 (Appropriations law)",
+      "House Judiciary Committee referral HR 9136"
+    ]
+  },
+  {
+    "id": 580,
+    "sourceId": "cg:119-HR-9148",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9148?format=json",
+    "branch": "Congress",
+    "date": "Jun 29",
+    "dateISO": "2026-06-29",
+    "title": "HR 9148: Scipio Jones House Assessment Act",
+    "score": 8,
+    "snapshot": "HR 9148 authorizes a special resource study of the Scipio Jones House in Arkansas to assess its suitability for inclusion in the National Park System. The bill requires the Secretary of the Interior to complete the study within three years and report findings to Congress.",
+    "verdict": "// VERDICT: A procedurally sound, low-cost assessment that preserves historically significant civil rights heritage with minimal fiscal impact and clear public educational benefit.",
+    "detail": "This bill follows standard National Park Service procedures for evaluating potential historic sites, requiring no immediate appropriations beyond routine study costs (typically $100,000-$300,000). <strong>Scipio Jones was a pioneering African American attorney who defended the Elaine Twelve in 1919, securing their release from wrongful death sentences in one of Arkansas's most significant civil rights cases.</strong> The legislation properly authorizes assessment rather than immediate designation, allowing evidence-based decision-making. It adheres to established National Park Service Special Resource Study protocols under the National Parks Omnibus Management Act. The study cost is negligible relative to federal budgets, with no ongoing obligations until designation occurs. The bill advances historical preservation and educational objectives without imposing unfunded mandates or constitutional concerns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9148, 119th Congress",
+      "Congressional Record, June 2026",
+      "National Parks Omnibus Management Act of 1998",
+      "NPS Special Resource Study Guidelines"
     ]
   },
   {
@@ -407,6 +773,129 @@
       "140 F.4th 359 (7th Cir. 2025)",
       "42 U.S.C. §1983",
       "Eighth Amendment jurisprudence"
+    ]
+  },
+  {
+    "id": 571,
+    "sourceId": "cg:119-S-233",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/233?format=json",
+    "branch": "Congress",
+    "date": "Jun 28",
+    "dateISO": "2026-06-28",
+    "title": "S 233: Restoring Confidence in the World Anti-Doping Agency Act of 2025",
+    "score": -18,
+    "snapshot": "S. 233 withholds U.S. contributions to the World Anti-Doping Agency (WADA) pending reforms, citing governance concerns and allegations of unequal enforcement. The bill conditions funding on certification of specific organizational changes.",
+    "verdict": "// VERDICT: Withholds international anti-doping funding without clear alternative enforcement mechanism, risking U.S. athlete eligibility while addressing legitimate but unquantified governance concerns.",
+    "detail": "The legislation responds to documented concerns about WADA's handling of Chinese doping cases and governance transparency, but employs a funding cutoff that could exclude U.S. athletes from international competition without resolving underlying problems. <strong>The bill provides no cost-benefit analysis of withdrawal versus reform engagement, nor does it establish alternative anti-doping infrastructure for American athletes.</strong> While WADA's annual U.S. contribution (~$3.6 million) is modest, the broader economic impact on Olympic participation and sports diplomacy remains unassessed. The certification requirements are policy-driven rather than outcome-focused, potentially creating indefinite funding suspension. Congressional authority to condition treaty organization funding is established, but the approach prioritizes symbolic accountability over measurable improvement in anti-doping effectiveness.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 233, 119th Congress",
+      "Senate Legislative Calendar No. 340",
+      "WADA Financial Reports 2024-2025",
+      "Congressional Record, Feb 2026"
+    ]
+  },
+  {
+    "id": 572,
+    "sourceId": "cg:119-S-1441",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1441?format=json",
+    "branch": "Congress",
+    "date": "Jun 28",
+    "dateISO": "2026-06-28",
+    "title": "S 1441: SAVES Act of 2025",
+    "score": -18,
+    "snapshot": "The SAVES Act would require proof of U.S. citizenship to register to vote in federal elections, mandating documentary evidence beyond current sworn attestation requirements. Proponents argue it prevents noncitizen voting; critics cite lack of evidence for widespread fraud and potential disenfranchisement of citizens lacking immediate documentation.",
+    "verdict": "// VERDICT: Creates barriers to voter registration for documented problem affecting fewer than 0.0001% of votes while imposing costs on states and potentially disenfranchising eligible citizens without readily available citizenship documents.",
+    "detail": "The SAVES Act addresses noncitizen voting, which comprehensive studies show occurs at statistically negligible rates—the Brennan Center documented 30 suspected cases among 23.5 million votes examined. <strong>The bill would require documentary proof (passport, birth certificate, naturalization papers) that an estimated 7-9% of eligible citizens do not possess in immediately accessible form, disproportionately affecting elderly, poor, and minority voters.</strong> States would bear implementation costs for new verification systems without federal funding mechanisms identified in the bill text. While following regular legislative process, the solution is disproportionate to the documented problem scope. The bill does not include provisions for provisional ballots or grace periods for citizens to obtain documentation, creating a compliance burden that falls hardest on vulnerable populations who vote at lower rates and have fewer resources to navigate bureaucratic requirements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1441 - 119th Congress",
+      "Brennan Center voter fraud studies",
+      "GAO Report on Voter ID Requirements (2014)",
+      "Senate Legislative Calendar No. 342"
+    ]
+  },
+  {
+    "id": 573,
+    "sourceId": "cg:119-S-861",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/861?format=json",
+    "branch": "Congress",
+    "date": "Jun 28",
+    "dateISO": "2026-06-28",
+    "title": "S 861: Disaster Assistance Simplification Act",
+    "score": 28,
+    "snapshot": "S 861 proposes streamlining federal disaster assistance by consolidating application processes across FEMA, SBA, and USDA programs. The bill aims to reduce duplicative paperwork and accelerate aid delivery to disaster victims through unified digital portals.",
+    "verdict": "// VERDICT: Reduces administrative burden on disaster victims and agencies without significant costs, though implementation effectiveness remains to be demonstrated.",
+    "detail": "The Disaster Assistance Simplification Act addresses a legitimate inefficiency where survivors must navigate separate applications for FEMA grants, SBA loans, and agricultural assistance after disasters. <strong>By creating unified intake systems and shared eligibility determinations, the bill could measurably reduce processing time and administrative overhead.</strong> The fiscal impact appears minimal—primarily IT modernization costs offset by reduced duplication across three agencies. The bill follows normal legislative process and was approved by the Senate Homeland Security Committee. Cost distribution is equitable, as it benefits all disaster-affected Americans regardless of income while generating modest savings for taxpayers. The primary uncertainty is execution risk: past federal IT consolidation efforts have faced delays, though the scope here is narrower than failed larger projects.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 861 bill text, Congress.gov",
+      "Senate Homeland Security Committee Report",
+      "GAO report on disaster assistance fragmentation (GAO-20-503)",
+      "Congressional Record, Dec 2025"
     ]
   },
   {
@@ -19813,492 +20302,6 @@
       "Congressional Record, May 2026",
       "House Committee on Rules",
       "Senate Banking Committee Referral"
-    ]
-  },
-  {
-    "id": 85,
-    "sourceId": "cg:119-S-4503",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4503?format=json",
-    "branch": "Congress",
-    "date": "May 15",
-    "dateISO": "2026-05-15",
-    "title": "S 4503: Advancing Menopause Care and Mid-Life Women’s Health Act",
-    "score": 28,
-    "snapshot": "S 4503 would establish federal menopause research programs, mandate training for healthcare providers, and create public education campaigns for women's midlife health. The bill addresses a documented gap in medical research and clinical care affecting approximately 50 million American women.",
-    "verdict": "// VERDICT: The legislation targets a legitimate healthcare gap with evidence-based interventions, though full fiscal impact remains unscored at referral stage.",
-    "detail": "Menopause affects every woman yet remains understudied and undertreated in American healthcare. <strong>This bill addresses measurable deficiencies: approximately 80% of medical schools provide inadequate menopause training, and NIH menopause research funding represents less than 0.5% of its budget despite affecting half the population.</strong> The proposed research programs, provider training mandates, and public education campaigns align with standard public health interventions that have proven effective for other conditions. The bill follows proper legislative process through committee referral. Primary concerns involve implementation costs (not yet scored by CBO) and ensuring training mandates don't create unfunded burdens on medical schools. Benefits would accrue broadly to women across demographics, though access disparities may persist without targeted outreach provisions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4503, 119th Congress",
-      "Senate Legislative Record, May 2026",
-      "NIH Research Portfolio Analysis",
-      "Medical Education Studies on Women's Health"
-    ]
-  },
-  {
-    "id": 86,
-    "sourceId": "cg:119-HR-2267",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2267?format=json",
-    "branch": "Congress",
-    "date": "May 15",
-    "dateISO": "2026-05-15",
-    "title": "HR 2267: NICS Data Reporting Act of 2026",
-    "score": 18,
-    "snapshot": "HR 2267 requires federal agencies and states to submit criminal and mental health records to the National Instant Criminal Background Check System (NICS) within specific deadlines, with compliance incentives and penalties. The bill aims to close gaps that allowed prohibited individuals to purchase firearms in past incidents.",
-    "verdict": "// VERDICT: Addresses a documented enforcement gap in existing law with modest compliance mechanisms, though implementation costs and state capacity variations present execution risks.",
-    "detail": "The bill tackles a recognized vulnerability: incomplete reporting to NICS has enabled prohibited purchasers to pass background checks in several high-profile cases. <strong>By mandating reporting timelines and creating financial consequences for non-compliance, the legislation operationalizes existing statutory prohibitions that were previously under-enforced.</strong> Federal agencies receive clear deadlines while states face grant reductions for persistent failures, creating accountability without unfunded mandates—states unwilling to comply simply receive less federal assistance. Constitutional concerns are minimal as the bill operates within Commerce Clause and Spending Clause authority. The primary weakness lies in variable state administrative capacity and privacy protections for mental health records, which may create implementation inconsistencies. Cost estimates suggest modest expenditure ($50-80M annually) against measurable reduction in prohibited purchases, though precise deterrent effects remain difficult to quantify.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 2267 text",
-      "DOJ NICS Operations Reports 2023-2025",
-      "CBO preliminary cost estimate",
-      "Federal Register, Brady Act provisions"
-    ]
-  },
-  {
-    "id": 87,
-    "sourceId": "cg:119-S-4502",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4502?format=json",
-    "branch": "Congress",
-    "date": "May 15",
-    "dateISO": "2026-05-15",
-    "title": "S 4502: Farm Disaster Tax Cut Act",
-    "score": -18,
-    "snapshot": "S 4502 proposes tax cuts for agricultural disaster relief without specified offsets or revenue mechanisms. Referred to Finance Committee May 2026, no CBO score available yet.",
-    "verdict": "// VERDICT: Targeted relief without fiscal planning shifts costs to general taxpayers and future budgets.",
-    "detail": "The Farm Disaster Tax Cut Act targets a sympathetic constituency—farmers facing climate and economic pressures—but lacks documented fiscal responsibility at this early legislative stage. <strong>Without offsets or revenue provisions identified, the bill represents unfunded tax relief that increases deficits.</strong> While agricultural disaster assistance serves legitimate policy goals, tax cuts absent spending cuts or alternative revenue violate basic fiscal discipline. The referral to Finance Committee suggests no emergency process, indicating this is policy preference rather than crisis response. Cost distribution is regressive: general taxpayers subsidize a specific industry sector. Rule of law concerns are minimal at referral stage, but the lack of emergency declaration or expedited process undermines claims of urgency. Measurable benefit depends entirely on implementation details not yet public.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Senate Finance Committee referral",
-      "Standard CBO scoring procedures"
-    ]
-  },
-  {
-    "id": 88,
-    "sourceId": "cg:119-HR-4478",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4478?format=json",
-    "branch": "Congress",
-    "date": "May 15",
-    "dateISO": "2026-05-15",
-    "title": "HR 4478: TRUST Act of 2025",
-    "score": -28,
-    "snapshot": "HR 4478 (TRUST Act of 2025) passed the House on May 13, 2026 and was referred to Senate Banking Committee. The bill's specific provisions are not detailed in the available record, preventing full assessment of concrete impacts.",
-    "verdict": "// VERDICT: Insufficient legislative detail available to assess measurable outcomes, fiscal impact, or implementation mechanics of this financial sector bill.",
-    "detail": "The TRUST Act of 2025 advances through Congress with minimal public documentation of its substantive provisions. <strong>Without access to bill text, CBO scoring, or committee reports, objective evaluation of public benefit, cost, legal compliance, or distributional effects is severely constrained.</strong> The title suggests financial sector regulation, but acronyms often obscure actual policy mechanisms. The referral to Senate Banking indicates subject matter jurisdiction over banking, housing, or securities, but does not reveal whether the bill expands consumer protections, relaxes regulatory requirements, creates new mandates, or restructures existing programs. This opacity itself warrants concern under rule-of-law and fiscal-responsibility standards, as major legislation should provide sufficient transparency for informed public and legislative assessment before passage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 13, 2026",
-      "House passage HR 4478, 119th Congress",
-      "Senate Banking Committee referral record"
-    ]
-  },
-  {
-    "id": 68,
-    "sourceId": "cl:11326911",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10859508/danco-laboratories-llc-v-louisiana-revisions-51526/",
-    "branch": "Courts",
-    "date": "May 15",
-    "dateISO": "2026-05-15",
-    "title": "Opinion 11326911",
-    "score": -8,
-    "snapshot": "Opinion 11326911 filed May 15, 2026. Insufficient detail provided to assess specific legal holdings, parties affected, or downstream policy impacts.",
-    "verdict": "// VERDICT: Cannot meaningfully evaluate without case content, parties, holdings, or implementation details.",
-    "detail": "A court opinion's score depends entirely on its substance—whether it upholds constitutional process, creates clear precedent, imposes fiscal burdens, and distributes costs fairly. <strong>Opinion 11326911 provides no substantive information: no parties, no legal question, no holding, no dissent analysis.</strong> Without knowing if this involves civil rights, regulatory authority, criminal procedure, or administrative law, scoring becomes arbitrary. The negative score reflects the absence of transparency: published opinions should be accessible and summarized for public accountability. If this represents a sealed or redacted decision without public justification, it undermines rule of law through opacity. If it's simply incomplete data, the system requiring evaluation has failed basic information standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Federal Courts docket system",
-      "Public Access to Court Electronic Records (PACER)"
-    ]
-  },
-  {
-    "id": 69,
-    "sourceId": "cg:119-S-4496",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4496?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "S 4496: A bill to amend the Higher Education Act of 1965 to provide for additional uses of funds for grants to strengthen historically Black colleges and universities, and for other purposes.",
-    "score": 18,
-    "snapshot": "S 4496 proposes expanding allowable uses of federal grants to Historically Black Colleges and Universities (HBCUs) under the Higher Education Act of 1965. The bill has been referred to committee with no fiscal analysis yet available.",
-    "verdict": "// VERDICT: Extends existing HBCU grant flexibility without documented cost projections or measurable outcome requirements at this stage.",
-    "detail": "This bill builds on Title III of the Higher Education Act, which provides institutional aid to minority-serving institutions. <strong>Expanding permissible grant uses could strengthen HBCU infrastructure and programming, but without accompanying fiscal estimates or performance metrics, the public benefit remains theoretical.</strong> HBCUs serve approximately 292,000 students (9% of Black undergraduates) and have historically received less per-student funding than comparable institutions. The proposal scores moderately positive on measurable benefit given HBCUs' documented role in social mobility, but loses points on fiscal responsibility due to lack of cost-benefit analysis at referral stage. Rule of law adherence is standard for legislative process. Cost distribution is neutral—benefits targeted population without clear burden shift, though long-term federal expenditure impact is undefined.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4496, 119th Congress",
-      "Higher Education Act of 1965, Title III",
-      "NCES HBCU enrollment data",
-      "Senate Legislative Record, May 2026"
-    ]
-  },
-  {
-    "id": 70,
-    "sourceId": "cg:119-SJRES-188",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/188?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "SJRES 188: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units: Final Repeal\".",
-    "score": 22,
-    "snapshot": "Congressional resolution to block EPA's repeal of mercury and air toxics standards for coal and oil power plants. Would preserve regulations estimated to prevent 11,000 premature deaths annually and deliver $37-90 billion in annual health benefits.",
-    "verdict": "// VERDICT: Blocking the repeal preserves measurable public health protections with documented multi-billion dollar benefits exceeding compliance costs, though creates regulatory uncertainty for affected utilities.",
-    "detail": "This Congressional Review Act resolution would nullify EPA's repeal of the Mercury and Air Toxics Standards (MATS), originally established in 2011. <strong>EPA's own analysis estimated MATS prevents approximately 11,000 premature deaths annually, with monetized benefits ranging from $37 billion to $90 billion per year against compliance costs of $9.6 billion annually.</strong> The resolution follows proper legislative process under 5 U.S.C. §801-808, allowing Congress to overturn agency rules within review periods. Disapproving the repeal maintains existing emission limits on mercury, arsenic, and acid gases from power plants. The cost-benefit ratio strongly favors retention of standards, with health benefits concentrated among vulnerable populations (children, asthmatics). Fiscal impact is neutral to federal budget; compliance costs fall on utilities but are offset by reduced healthcare expenditures and productivity losses from pollution-related illness.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "EPA MATS Regulatory Impact Analysis, 2011",
-      "Congressional Review Act, 5 U.S.C. §801-808",
-      "Congressional Record, Senate",
-      "Federal Register MATS Final Rule"
-    ]
-  },
-  {
-    "id": 71,
-    "sourceId": "cg:119-HJRES-182",
-    "sourceUrl": "https://www.congress.gov/bill/119/hjres/182?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "HJRES 182: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Bulletin 2023-01: Unfair Billing and Collection Practices After Bankruptcy Discharges of Certain Student Loan Debts\".",
-    "score": -18,
-    "snapshot": "Congressional resolution to block the CFPB's withdrawal of protections preventing collectors from pursuing discharged student loan debts after bankruptcy. Would restore enforcement guidance protecting bankruptcy filers from unfair collection practices.",
-    "verdict": "// VERDICT: Blocking the withdrawal restores consumer protections for bankrupted borrowers, but adds minimal fiscal cost while creating regulatory uncertainty in an already complex student loan landscape.",
-    "detail": "The CFPB's Bulletin 2023-01 clarified that pursuing certain discharged student loan debts violates fair debt collection laws. The agency's subsequent withdrawal of this bulletin removed these protections. <strong>This resolution would disapprove that withdrawal, effectively reinstating protections for vulnerable borrowers who successfully discharged debts through bankruptcy.</strong> The measurable benefit is modest—protecting a small population of bankruptcy filers from illegal collection attempts. Fiscal impact is negligible, as this is guidance enforcement rather than spending. The procedural use of Congressional Review Act authority is constitutionally proper. However, the cost distribution is somewhat regressive: reinstating protections primarily helps individuals who already navigated bankruptcy, while the underlying student loan system's broader dysfunction remains unaddressed. The resolution addresses a symptom rather than root causes of student debt and bankruptcy interaction.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -29,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Review Act, 5 U.S.C. § 801",
-      "CFPB Bulletin 2023-01",
-      "House Committee on Financial Services proceedings",
-      "Fair Debt Collection Practices Act"
-    ]
-  },
-  {
-    "id": 72,
-    "sourceId": "cg:119-S-4486",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4486?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "S 4486: A bill to amend title 3, United States Code, to prescribe a process to authorize certain activities at the Executive Residence at the White House, and for other purposes.",
-    "score": -28,
-    "snapshot": "S 4486 would establish new authorization requirements for activities at the White House Executive Residence. The bill has been placed on the Senate Legislative Calendar but has not yet passed either chamber.",
-    "verdict": "// VERDICT: Creates additional bureaucratic oversight for Executive Residence operations without demonstrated need, potentially interfering with executive function while adding administrative costs.",
-    "detail": "This bill seeks to amend Title 3 to impose a formal authorization process for activities at the White House Executive Residence. <strong>Without evidence of existing abuses or fiscal improprieties, the measure appears to inject legislative micromanagement into executive household operations that have functioned under existing protocols for decades.</strong> The vague phrase \"certain activities\" raises constitutional separation-of-powers concerns, as Congress typically lacks authority to regulate the President's official residence beyond appropriations oversight. The administrative burden of a new authorization regime would consume staff time and taxpayer resources without clear public benefit. While transparency in government spending is legitimate, existing appropriations processes and General Services Administration oversight already provide fiscal accountability for White House operations. The bill's placement on the calendar suggests it may be driven by political messaging rather than substantive governance reform.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar, May 2026",
-      "Title 3, United States Code",
-      "Congressional Record, S 4486",
-      "Executive Residence operational protocols"
-    ]
-  },
-  {
-    "id": 73,
-    "sourceId": "cg:119-HJRES-183",
-    "sourceUrl": "https://www.congress.gov/bill/119/hjres/183?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "HJRES 183: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2023-01: Unlawful Negative Option Marketing Practices\".",
-    "score": -28,
-    "snapshot": "Congressional resolution to block CFPB consumer protection rules on negative option marketing (automatic subscription renewals, hidden fees). Reverses agency action addressing deceptive billing practices that cost consumers billions annually.",
-    "verdict": "// VERDICT: Removes consumer safeguards against deceptive automatic billing without offsetting protections, favoring industry interests over documented consumer harm.",
-    "detail": "The CFPB's Circular 2023-01 addressed negative option marketing—practices where consumers are automatically charged for subscriptions or services without clear consent, often through buried terms or difficult cancellation processes. <strong>Federal Trade Commission data shows these practices generate an estimated $4-5 billion in unwanted charges annually.</strong> This disapproval resolution uses the Congressional Review Act to overturn consumer protections without proposing alternative safeguards. While businesses argue compliance costs, the rule primarily codified existing legal obligations for transparent disclosure and easy cancellation. The resolution scores poorly on measurable benefit (removes documented protections), fiscal responsibility (shifts costs to individual consumers pursuing disputes), and cost distribution (concentrates harm on vulnerable populations less able to monitor subscriptions). It follows proper CRA procedure but weaponizes that process to eliminate substantive protections.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CFPB Consumer Financial Protection Circular 2023-01",
-      "Congressional Review Act, 5 U.S.C. § 801",
-      "FTC Consumer Sentinel Network Data",
-      "House Committee on Financial Services records"
-    ]
-  },
-  {
-    "id": 74,
-    "sourceId": "cg:119-S-4410",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4410?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "S 4410: A bill to amend the Mineral Leasing Act to provide for the payment of bonus payments of certain coal leases issued under that Act.",
-    "score": -18,
-    "snapshot": "S 4410 proposes amending the Mineral Leasing Act to modify bonus payment structures for federal coal leases. The bill was introduced in the Senate and referred to committee in April 2026, with no floor action or analysis available yet.",
-    "verdict": "// VERDICT: Insufficient information exists to assess public benefit, but coal lease modifications historically favor industry over taxpayers and environmental costs are externalized.",
-    "detail": "Without committee hearings, CBO scoring, or regulatory analysis, this bill's fiscal and public health impacts remain speculative. However, <strong>historical coal lease modifications have typically reduced federal revenue while subsidizing extraction industries</strong>, raising concerns about fiscal responsibility and cost distribution. The bill's text and sponsor statements are unavailable, preventing assessment of whether it strengthens or weakens protections for taxpayers and affected communities. Coal extraction carries documented externalities including healthcare costs from air pollution, climate impacts, and land degradation—costs rarely captured in lease structures. The legislative process appears standard thus far, but lack of transparency on payment structure changes merits skepticism. Federal coal leases generated $358 million in 2023 (DOI); any reduction in bonus payments would shift costs to taxpayers while concentrating benefits among lease holders.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2083, Apr 2026",
-      "DOI Office of Natural Resources Revenue, FY2023",
-      "Mineral Leasing Act, 30 U.S.C. § 181 et seq."
-    ]
-  },
-  {
-    "id": 75,
-    "sourceId": "cg:119-S-4484",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4484?format=json",
-    "branch": "Congress",
-    "date": "May 14",
-    "dateISO": "2026-05-14",
-    "title": "S 4484: I–47 Future Interstate Act of 2026",
-    "score": 18,
-    "snapshot": "S 4484 proposes designating portions of I-47 as a future interstate corridor, likely requiring federal planning and coordination for a new highway segment. The bill remains in committee with no CBO score or implementation timeline available.",
-    "verdict": "// VERDICT: Early-stage interstate designation with potential regional economic benefits, but lacks cost estimates and environmental impact analysis needed for full assessment.",
-    "detail": "The I-47 Future Interstate Act represents preliminary congressional intent to develop new interstate infrastructure. <strong>Without accompanying cost estimates, routing details, or environmental assessments at this committee stage, the bill's concrete impact remains speculative.</strong> Interstate designations historically provide economic connectivity benefits and can reduce travel times, supporting moderate positive scoring on public benefit. However, major highway projects typically cost billions and require decades to complete, with significant environmental and community displacement concerns. The procedural approach through Environment and Public Works Committee is appropriate, supporting rule of law scoring. Fiscal responsibility remains neutral pending CBO analysis, while cost distribution depends entirely on final funding mechanisms and affected communities—information not yet available. The bill's early stage limits definitive scoring in either direction.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4484, 119th Congress",
-      "Senate Committee on Environment and Public Works",
-      "Congressional Record, May 2026"
     ]
   }
 ]
