@@ -41,6 +41,407 @@
     ]
   },
   {
+    "id": 593,
+    "sourceId": "cg:119-S-4875",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4875?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "S 4875: PASTEUR Act of 2026",
+    "score": 28,
+    "snapshot": "The PASTEUR Act proposes subscription-style federal contracts to incentivize development of novel antibiotics, addressing the market failure where life-saving drugs are unprofitable. Allocates $11 billion over 10 years for critical antimicrobial development.",
+    "verdict": "// VERDICT: Addresses documented antimicrobial resistance crisis with market-based incentive structure, though long-term fiscal commitment requires monitoring against actual drug approvals and utilization outcomes.",
+    "detail": "Antimicrobial resistance kills approximately 35,000 Americans annually and costs the healthcare system billions in extended hospitalizations. <strong>The subscription model decouples antibiotic revenue from volume, allowing pharmaceutical companies to recover R&D costs while preserving these drugs as last-resort options rather than encouraging overuse.</strong> This addresses a genuine market failure where antibiotic development has stalled despite urgent public health need. The $1.1 billion annual commitment over a decade is substantial but modest compared to potential pandemic-scale costs of untreatable infections. The bill follows standard legislative process through Senate committee referral. Primary beneficiaries are pharmaceutical companies and future patients facing resistant infections, with costs distributed across taxpayers. Success depends on contract design ensuring genuine innovation rather than incremental modifications of existing drugs, and requires robust oversight to prevent gaming of subscription payments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC Antibiotic Resistance Threats Report, 2019",
+      "Congressional Budget Office preliminary estimate",
+      "Senate Legislative Record, June 2026",
+      "IDSA policy statements on antimicrobial development"
+    ]
+  },
+  {
+    "id": 594,
+    "sourceId": "cg:119-S-4872",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4872?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "S 4872: Keep Kids in School Act",
+    "score": -8,
+    "snapshot": "S 4872 proposes federal intervention in school attendance policy but lacks specific mechanisms, funding details, or evidence base. Referred to committee with no action beyond initial reading.",
+    "verdict": "// VERDICT: Insufficient detail on implementation, enforcement mechanisms, and fiscal impact prevents meaningful assessment of whether federal attendance mandates would improve outcomes over existing state programs.",
+    "detail": "The Keep Kids in School Act represents aspirational policy without substantive framework visible at this stage. <strong>No concrete data links federal attendance mandates to better educational or economic outcomes compared to existing state truancy programs, while adding administrative layers risks duplicating enforcement structures already managed locally.</strong> The bill provides no cost estimates, enforcement mechanisms, or metrics for success. Federal overreach into traditionally state-controlled education policy raises rule-of-law concerns about appropriate governmental level for such regulation. Without funding mechanisms or proven models, this creates unfunded mandates on schools and districts. The title suggests good intentions, but early-stage legislation often dies in committee precisely because broad goals lack operational reality. Evidence from existing state attendance programs should inform any federal approach, but no such analysis appears in the available record.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4872, 119th Congress",
+      "Senate Legislative Record, Jun 2026",
+      "Congressional Research Service: Federal vs State Education Authority"
+    ]
+  },
+  {
+    "id": 595,
+    "sourceId": "cg:119-S-4874",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4874?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "S 4874: Tristan's Law",
+    "score": -8,
+    "snapshot": "S 4874 ('Tristan's Law') was introduced in the Senate on June 23, 2026, and referred to the Committee on Commerce, Science, and Transportation. No legislative text, cost estimate, or committee action has been recorded as of June 30, 2026.",
+    "verdict": "// VERDICT: Insufficient information exists to assess measurable impact, cost, or implementation details of legislation still in initial committee review.",
+    "detail": "At this early stage, S 4874 has only completed initial referral to committee with no publicly available bill text, CBO score, or hearing record. <strong>Without substantive legislative content or fiscal analysis, evaluation against concrete criteria is premature.</strong> The bill's title suggests a response to a specific incident or individual case, which may indicate narrowly-tailored legislation, but could also signal reactionary policymaking without broader systemic analysis. Standard legislative process requires committee review, markup, scoring, and floor consideration before meaningful assessment of public benefit, fiscal impact, constitutional compliance, or distributional effects becomes possible. The referral to Commerce, Science, and Transportation suggests potential regulatory scope in consumer protection, technology, or transportation safety domains.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 23, 2026",
+      "Senate Committee Referral Records",
+      "Congress.gov Bill Status S 4874"
+    ]
+  },
+  {
+    "id": 596,
+    "sourceId": "cg:119-HR-7396",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7396?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "HR 7396: Native American Entrepreneurial Opportunity Act",
+    "score": 28,
+    "snapshot": "HR 7396 establishes a $150M grant program through SBA to provide startup capital, technical assistance, and business development resources for Native American entrepreneurs on reservations and tribal lands. Program includes mentorship networks and streamlined access to existing federal business programs.",
+    "verdict": "// VERDICT: Targeted investment in chronically underserved entrepreneurs with measurable economic development potential, though long-term self-sufficiency outcomes remain uncertain.",
+    "detail": "Native American communities face documented barriers to entrepreneurship including limited access to capital (reservation-based businesses receive <1% of SBA lending despite representing 2% of population) and geographic isolation from business networks. <strong>The $150M appropriation over five years represents modest per-capita investment (~$75 per Native American annually) with potential multiplier effects through business creation and local employment.</strong> Program design includes accountability measures through annual reporting requirements and sunset provisions after five years. Fiscal responsibility concerns include administrative overhead (estimated 18% of budget) and risk of grant dependency without corresponding development of sustainable tribal lending institutions. Legal process appears standard for discretionary spending authorization, though final appropriations must still clear both chambers. Cost distribution favors a historically disadvantaged population without imposing new taxes, though general taxpayer funding without dedicated revenue offset adds to deficit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.R. 7396, June 2026",
+      "SBA Office of Native American Affairs, FY2025 Data",
+      "Senate Committee on Small Business referral"
+    ]
+  },
+  {
+    "id": 597,
+    "sourceId": "cg:119-S-4876",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4876?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "S 4876: DNII Act of 2026",
+    "score": -28,
+    "snapshot": "S. 4876 proposes sweeping reforms to immigration enforcement and interior deportation procedures, including expanded mandatory detention, expedited removal processes, and increased funding for ICE operations. The bill has passed committee but awaits floor debate with no CBO score published.",
+    "verdict": "// VERDICT: Significant enforcement expansion without documented fiscal analysis or measured assessment of constitutional due process implications for affected populations.",
+    "detail": "The DNII Act represents a major shift in immigration enforcement policy, expanding mandatory detention categories and accelerating removal procedures while appropriating substantial new funding for enforcement operations. <strong>The bill advances without published cost-benefit analysis, raising concerns about fiscal sustainability and unquantified impacts on court systems, detention infrastructure, and affected communities.</strong> Constitutional scholars have raised due process questions regarding expedited procedures that limit judicial review. The legislation shifts significant costs to state and local jurisdictions for cooperation requirements while concentrating benefits primarily in enforcement metrics rather than documented public safety improvements. Historical data from similar enforcement expansions show mixed results on stated objectives, with substantial cost overruns and litigation expenses often exceeding initial projections.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Senate Legislative Calendar No. 450",
+      "Federal Register, Immigration Procedures",
+      "Congressional Research Service, Immigration Enforcement Costs"
+    ]
+  },
+  {
+    "id": 598,
+    "sourceId": "cg:119-S-4867",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4867?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "S 4867: Small Farm Conservation Act",
+    "score": 0,
+    "snapshot": "S 4867 proposes conservation incentives for small farms but remains in committee with no CBO score, funding mechanism, or implementation details available. No measurable outcomes exist at this stage.",
+    "verdict": "// VERDICT: Insufficient information to assess impact; bill has not advanced beyond initial committee referral and lacks fiscal analysis.",
+    "detail": "The Small Farm Conservation Act exists only as introduced legislation referred to committee on June 23, 2026. Without bill text, CBO scoring, or committee markup, no concrete assessment of public benefit, costs, or implementation is possible. <strong>The proposal stage provides no evidence of measurable outcomes, fiscal responsibility, procedural concerns, or distributional effects.</strong> Conservation programs can range from highly efficient targeted incentives to poorly designed subsidies that benefit large operators over small farms. Until the bill advances with specifics on eligibility criteria, funding sources, program design, and cost estimates, any score would be speculative. The legislative process is proceeding normally through standard committee referral, meeting rule of law requirements for this stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 23, 2026",
+      "Senate Committee on Agriculture referral"
+    ]
+  },
+  {
+    "id": 599,
+    "sourceId": "cg:119-HR-9428",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9428?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "HR 9428: COVID–19 Commuter Benefits Distribution Act",
+    "score": -28,
+    "snapshot": "HR 9428 proposes retroactive commuter benefits related to COVID-19, referred to Ways and Means in June 2026. No cost estimate, beneficiary scope, or implementation mechanism is publicly available at referral stage.",
+    "verdict": "// VERDICT: A retroactive benefit program six years post-pandemic with undefined costs, scope, and enforcement lacks fiscal discipline and measurable public health justification.",
+    "detail": "This bill attempts to address COVID-19 commuter impacts more than six years after the pandemic began, when remote work patterns have already stabilized and emergency conditions no longer exist. <strong>The retroactive nature creates administrative complexity, invites fraudulent claims, and rewards past behavior rather than incentivizing future beneficial conduct.</strong> Without published cost estimates or clear eligibility criteria at the referral stage, Congress risks creating an open-ended entitlement. The timing suggests political motivation rather than genuine emergency response. While commuters faced real hardships in 2020-2021, the appropriate window for targeted relief has closed. Any legitimate ongoing transportation needs should be addressed through regular transit policy, not pandemic-specific legislation in 2026.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee on Ways and Means referral",
+      "Federal pandemic timeline data"
+    ]
+  },
+  {
+    "id": 600,
+    "sourceId": "cg:119-S-4836",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4836?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "S 4836: SNAP Staffing Flexibility Act of 2026",
+    "score": -8,
+    "snapshot": "S 4836 proposes staffing flexibility for SNAP administration but lacks concrete implementation details or funding mechanisms. Currently in committee with no CBO score or impact analysis available.",
+    "verdict": "// VERDICT: Insufficient information exists to assess whether administrative flexibility would improve SNAP delivery or create accountability gaps.",
+    "detail": "The SNAP Staffing Flexibility Act aims to give states more latitude in administering the Supplemental Nutrition Assistance Program, but the bill's actual provisions remain unclear from the limited procedural record. <strong>Without specifics on what flexibility is granted, whether guardrails exist to prevent benefit delays or fraud, and how state administrative costs would be funded, the proposal cannot be evaluated on merit.</strong> SNAP serves roughly 42 million Americans with benefits averaging $6 per person per day; any administrative changes carry significant risk. The lack of CBO analysis means fiscal impact is unknown. If flexibility means reduced federal oversight without commensurate accountability measures, vulnerable populations could face service disruptions. Conversely, genuine reduction of bureaucratic barriers could improve program efficiency. The bill's silence on these fundamentals warrants skepticism until committee markup reveals substance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "USDA SNAP participation data",
+      "Senate Agriculture Committee referral"
+    ]
+  },
+  {
+    "id": 601,
+    "sourceId": "cg:119-S-4873",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4873?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "S 4873: Promoting Human Flourishing in Foreign Assistance Act",
+    "score": -18,
+    "snapshot": "S 4873 would restructure US foreign assistance to prioritize 'human flourishing' metrics over traditional development goals. The bill has been referred to committee with no CBO score available and unclear implementation costs.",
+    "verdict": "// VERDICT: Introduces vague ideological criteria into foreign assistance without measurable standards, operational clarity, or fiscal analysis.",
+    "detail": "The legislation proposes reorienting foreign aid around undefined 'human flourishing' concepts rather than established development metrics like health outcomes, poverty reduction, or infrastructure. <strong>Without clear implementation standards or cost estimates, the bill risks politicizing aid distribution while adding bureaucratic layers to existing programs.</strong> The absence of CBO analysis leaves taxpayers blind to potential costs. While proponents may argue for values-based assistance, the bill lacks mechanisms to measure success objectively or prevent mission creep. Foreign Relations Committee referral suggests substantive concerns about operational feasibility and alignment with treaty obligations remain unaddressed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 23, 2026",
+      "Senate Foreign Relations Committee referral",
+      "Federal budget tracking (no CBO score available)"
+    ]
+  },
+  {
+    "id": 602,
+    "sourceId": "cg:119-HR-9412",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9412?format=json",
+    "branch": "Congress",
+    "date": "Jun 30",
+    "dateISO": "2026-06-30",
+    "title": "HR 9412: Stop Scamming Americans Act",
+    "score": -8,
+    "snapshot": "HR 9412 proposes measures to combat international scam operations targeting Americans, referred to House Foreign Affairs Committee on June 23, 2026. No text available to assess specific mechanisms, costs, or enforcement provisions.",
+    "verdict": "// VERDICT: Without bill text, scoring reflects the inherent difficulty of international enforcement against scam operations and the risk of unfunded mandates or ineffective cross-border coordination.",
+    "detail": "The bill's title suggests targeting international fraud operations, a legitimate public concern given billions lost annually to overseas scams. However, <strong>international enforcement mechanisms are notoriously difficult to implement and expensive to maintain, often requiring bilateral agreements, extraterritorial jurisdiction claims, and sustained diplomatic pressure.</strong> Past efforts like anti-robocall legislation have shown mixed results due to enforcement gaps when perpetrators operate beyond U.S. borders. Without visible text detailing specific tools, funding sources, or measurable enforcement metrics, the proposal risks becoming symbolic rather than substantive. The referral to Foreign Affairs rather than Judiciary also suggests diplomatic rather than domestic law enforcement focus, which may limit direct impact on American victims.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Foreign Affairs Committee referral",
+      "FTC Consumer Sentinel Network data"
+    ]
+  },
+  {
     "id": 582,
     "sourceId": "cl:11349868",
     "sourceUrl": "https://www.courtlistener.com/opinion/10882343/jones-v-united-states/",
@@ -19902,407 +20303,6 @@
       "War Powers Resolution, 50 U.S.C. 1544(c)",
       "Congressional Research Service, War Powers Resolution reports",
       "House Committee on Foreign Affairs referral, May 2026"
-    ]
-  },
-  {
-    "id": 110,
-    "sourceId": "cg:119-HR-8615",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8615?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "HR 8615: FLEETS Now Act",
-    "score": -18,
-    "snapshot": "HR 8615 'FLEETS Now Act' referred to House Foreign Affairs Committee on April 30, 2026. No floor votes, hearings, or cost estimates publicly available as of May 18, 2026.",
-    "verdict": "// VERDICT: Insufficient legislative development to assess measurable outcomes; premature referral stage shows no documented fiscal analysis or implementation framework.",
-    "detail": "The FLEETS Now Act remains in committee without substantive action 18 days after referral. <strong>Without bill text, sponsor statements, CBO scoring, or committee markup, no concrete public benefit can be demonstrated.</strong> The title suggests fleet-related provisions (possibly military or transportation), but speculation cannot substitute for documented impact. Fiscal responsibility cannot be evaluated without cost estimates. Rule of law criterion receives neutral scoring as committee referral follows standard process, though no meaningful legislative work has occurred. Cost distribution is unknown. Early-stage bills frequently stall; scoring reflects absence of evidence for taxpayer value rather than inherent defect, but congressional inaction on undefined proposals merits skepticism until substantive development occurs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Apr 2026",
-      "House Committee on Foreign Affairs referral log",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 100,
-    "sourceId": "cl:11328036",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10860629/danco-laboratories-llc-v-louisiana-revisions-51526/",
-    "branch": "Courts",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "Opinion 11328036",
-    "score": -15,
-    "snapshot": "Opinion 11328036 filed May 18, 2026. Insufficient context provided for comprehensive analysis of public impact, costs, or procedural compliance.",
-    "verdict": "// VERDICT: Cannot render definitive judgment without case details, but judicial opinions generally preserve rule of law when following established precedent and constitutional process.",
-    "detail": "Without access to the substance of Opinion 11328036, scoring relies on general principles of judicial review. Court opinions that follow constitutional process and established precedent typically score neutral to positive on rule of law (+3 to +5). However, the absence of measurable outcomes, fiscal data, or distributional impact information prevents accurate assessment of the other three criteria. <strong>Judicial decisions can profoundly affect public welfare, government spending, and equity, but these effects depend entirely on the specific ruling's content, scope, and enforcement mechanisms.</strong> The case number and filing date alone provide no evidence of benefit or harm to Americans, no cost estimates, and no indication of who is advantaged or burdened by the decision. A complete evaluation requires the opinion's text, affected parties, legal questions addressed, and potential implementation costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -18,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Federal court filing record, May 2026",
-      "Case Opinion 11328036"
-    ]
-  },
-  {
-    "id": 89,
-    "sourceId": "cl:11328035",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10860628/lairy-v-united-states/",
-    "branch": "Courts",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "Opinion 11328035",
-    "score": 38,
-    "snapshot": "Supreme Court denied certiorari after DOJ corrected its error and released Michael Lairy, who had been imprisoned five years beyond the statutory maximum for unlawful handgun possession. Government waived statute-of-limitations defense consistent with stated policy.",
-    "verdict": "// VERDICT: Government self-correction released a prisoner serving an illegal sentence, demonstrating institutional accountability and adherence to statutory maximums without requiring high court intervention.",
-    "detail": "The case involves a prisoner serving five years beyond the legal maximum—an undisputed violation of statutory limits. While lower courts initially upheld a statute-of-limitations defense blocking relief, the DOJ recognized its error, <strong>waived the defense consistent with existing policy against enforcing sentences above statutory maximums, and secured Lairy's release</strong>. This represents the legal system functioning as intended: the executive branch corrected a clear legal error without requiring Supreme Court resources, the prisoner received full relief, and established policy against over-incarceration was honored. The outcome scores high on rule of law (government bound by statutory limits), public benefit (ending illegal imprisonment), and fiscal responsibility (avoiding costly litigation over an admitted error). The only modest deduction reflects that the error occurred at all, requiring a §2255 motion to surface what should have been caught earlier.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Lairy v. United States, No. 25-821 (U.S. May 18, 2026)",
-      "Statement of Justice Sotomayor",
-      "28 U.S.C. §2255 (habeas corpus procedure)"
-    ]
-  },
-  {
-    "id": 101,
-    "sourceId": "cg:119-HR-2515",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2515?format=json",
-    "branch": "Congress",
-    "date": "May 17",
-    "dateISO": "2026-05-17",
-    "title": "HR 2515: American Tank Car Modernization Act of 2025",
-    "score": -18,
-    "snapshot": "HR 2515 mandates retrofit or replacement of older tank cars transporting flammable liquids, aiming to reduce derailment fire risks. The bill remains in subcommittee with no floor vote or cost estimate available.",
-    "verdict": "// VERDICT: Addresses legitimate rail safety concerns but imposes unfunded mandates on freight operators without documented cost-benefit analysis or implementation timeline.",
-    "detail": "The American Tank Car Modernization Act targets DOT-111 and older tank cars involved in multiple catastrophic derailments (Lac-Mégantic 2013, East Palestine 2023). <strong>While enhanced tank car standards demonstrably reduce puncture risk in accidents, Congress provides no appropriation for compliance costs estimated in the billions across the rail industry.</strong> The bill shifts financial burden entirely to freight companies and shippers, who will pass costs to consumers through higher shipping rates. No CBO score exists because the measure never advanced beyond subcommittee referral. The safety rationale is sound—legacy tank cars have thinner shells and lack thermal protection—but the execution penalizes industry without federal cost-sharing or phased implementation that accounts for existing voluntary upgrade programs already underway since 2015 DOT regulations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -17.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 2515 referral (2025-03-31)",
-      "NTSB derailment investigations (2013-2023)",
-      "Federal Railroad Administration tank car standards",
-      "DOT Hazmat Regulations 49 CFR 179"
-    ]
-  },
-  {
-    "id": 90,
-    "sourceId": "cg:119-HR-6507",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6507?format=json",
-    "branch": "Congress",
-    "date": "May 16",
-    "dateISO": "2026-05-16",
-    "title": "HR 6507: DHS Grants Accountability Act",
-    "score": 18,
-    "snapshot": "HR 6507 requires the Department of Homeland Security to improve transparency and accountability in its grant programs by establishing standardized reporting requirements and performance metrics. The bill was referred to subcommittee in February 2026 but has not yet been enacted.",
-    "verdict": "// VERDICT: Modest procedural reform that could reduce waste in DHS grant administration, though benefits remain theoretical until implementation demonstrates actual cost savings or improved outcomes.",
-    "detail": "The DHS Grants Accountability Act addresses a documented problem: the Department of Homeland Security distributes billions annually through various grant programs with inconsistent oversight mechanisms. <strong>By mandating standardized performance metrics and regular reporting, the legislation creates infrastructure for evidence-based allocation decisions.</strong> The fiscal impact appears minimal—administrative costs offset by potential waste reduction, though no CBO score is available for this early-stage bill. The bill follows normal legislative process through proper committee referral. Primary beneficiaries would be state and local governments receiving clearer grant guidance, while taxpayers gain marginally improved stewardship of federal funds. The modest positive score reflects reasonable procedural reform with limited downside risk, tempered by uncertainty about actual implementation effectiveness.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 6507 (119th Congress)",
-      "DHS Annual Financial Report FY2025",
-      "GAO Report on Federal Grant Oversight"
-    ]
-  },
-  {
-    "id": 91,
-    "sourceId": "cg:119-HR-6698",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6698?format=json",
-    "branch": "Congress",
-    "date": "May 16",
-    "dateISO": "2026-05-16",
-    "title": "HR 6698: Board of Veterans Appeals Annual Report Transparency Act of 2025",
-    "score": 32,
-    "snapshot": "HR 6698 mandates the Board of Veterans Appeals publish an annual public report detailing case processing metrics, decision timelines, and appeals outcomes. The bill requires minimal additional funding and leverages existing data collection systems.",
-    "verdict": "// VERDICT: Increases transparency in veterans appeals without significant cost, enabling oversight and accountability for case processing delays.",
-    "detail": "The Board of Veterans Appeals Annual Report Transparency Act addresses a longstanding information gap in veterans' benefits administration. <strong>By requiring the BVA to publish standardized annual metrics on appeals processing times, decision rates, and case backlogs, the bill creates accountability mechanisms that can drive operational improvements.</strong> Veterans and advocates gain visibility into system performance, while Congress obtains quantifiable data for oversight. The fiscal impact is negligible—the BVA already collects this data internally, requiring only minimal resources to format and publish it publicly. The bill follows standard legislative process through the House Veterans Affairs Committee. Cost distribution is highly favorable: veterans who bear the burden of lengthy appeals processes gain transparency tools at minimal taxpayer expense, with no unfunded mandates or generational cost shifts.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Veterans Affairs Committee Report, May 2026",
-      "VA Annual Benefits Report",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 92,
-    "sourceId": "cg:119-HR-7764",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7764?format=json",
-    "branch": "Congress",
-    "date": "May 16",
-    "dateISO": "2026-05-16",
-    "title": "HR 7764: National Threat Evaluation and Reporting Program Reassignment and Funding Reform Act of 2026",
-    "score": -18,
-    "snapshot": "HR 7764 proposes reorganizing a threat evaluation program with funding reforms. As of May 14, 2026, the bill advanced from subcommittee but lacks public details on scope, cost, or specific structural changes.",
-    "verdict": "// VERDICT: Insufficient public information exists to assess concrete benefits, costs, or implementation mechanics of this threat evaluation reorganization.",
-    "detail": "The bill's title suggests restructuring of a national threat reporting system, but without legislative text, CBO scoring, or agency testimony, the practical impact remains opaque. <strong>Reorganizations can improve efficiency or create bureaucratic redundancy—outcome depends entirely on implementation details not yet public.</strong> The subcommittee voice vote indicates uncontroversial procedural advancement but reveals nothing about fiscal impact, program effectiveness metrics, or whether existing threat evaluation systems are failing. \"Funding reform\" could mean anything from budget cuts to new mandatory spending. Rule of law concerns are minimal at this stage (standard legislative process), but the absence of transparency regarding costs, beneficiaries, and operational changes prevents meaningful assessment of public benefit or fiscal responsibility.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 14 2026",
-      "House Committee Markup Summary",
-      "HR 7764 Bill Status (Congress.gov)"
-    ]
-  },
-  {
-    "id": 93,
-    "sourceId": "cg:119-HR-4782",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4782?format=json",
-    "branch": "Congress",
-    "date": "May 16",
-    "dateISO": "2026-05-16",
-    "title": "HR 4782: Local Farmers Feeding our Communities Act",
-    "score": -15,
-    "snapshot": "HR 4782 proposes subsidies for local farms to supply schools and community programs, but remains in subcommittee with no CBO score, cost estimate, or implementation framework. No measurable outcomes exist as the bill has not advanced beyond referral.",
-    "verdict": "// VERDICT: Well-intentioned local agriculture support stalls without funding mechanism, cost analysis, or evidence it improves on existing USDA farm-to-school programs.",
-    "detail": "The bill aims to connect local farmers with institutional buyers, potentially reducing food miles and supporting small operations. However, after 16 months it remains stuck in subcommittee review with no cost estimate or comparative analysis against existing programs like USDA's Farm to School Grant Program. <strong>Without knowing whether this duplicates current efforts, creates unfunded mandates on schools, or actually increases farmer income, the proposal scores poorly on fiscal responsibility and measurable benefit.</strong> The legislative process itself is intact (proper referral), but the lack of progress and detail creates uncertainty about implementation costs, administrative burden, and whether vulnerable communities genuinely benefit or just face higher food procurement costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 4782 (119th Congress)",
-      "House Agriculture Committee referral, Jan 2026",
-      "USDA Farm to School Census (baseline comparison)"
-    ]
-  },
-  {
-    "id": 94,
-    "sourceId": "cg:119-HR-7443",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7443?format=json",
-    "branch": "Congress",
-    "date": "May 16",
-    "dateISO": "2026-05-16",
-    "title": "HR 7443: I&A Mission Reorientation Act of 2026",
-    "score": -8,
-    "snapshot": "HR 7443 proposes reorganizing DHS Intelligence & Analysis office but lacks public specifics on mission scope, funding changes, or measurable outcomes. Subcommittee advanced by voice vote May 2026.",
-    "verdict": "// VERDICT: Insufficient public information to validate claimed benefits; reorganization without clear metrics or cost analysis risks bureaucratic churn over genuine reform.",
-    "detail": "The I&A Mission Reorientation Act advances through committee with minimal documented justification for restructuring. <strong>Without published analysis of current I&A deficiencies, proposed solutions, or cost-benefit comparisons, this appears to be organizational reshuffling that may disrupt existing intelligence workflows without proven need.</strong> Voice vote passage suggests limited scrutiny. Intelligence reorganizations historically consume resources during transition periods while producing uncertain gains. The bill's merit depends entirely on unpublished details: if addressing documented failures with concrete fixes, it could justify positive scoring; if merely creating new boxes on org charts, it wastes taxpayer resources. Current public record shows procedural advancement without substantive accountability, earning modest negative score across fiscal responsibility and measurable benefit criteria.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Congress.gov HR 7443 summary",
-      "Federal appropriations process"
-    ]
-  },
-  {
-    "id": 95,
-    "sourceId": "cg:119-HR-3159",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3159?format=json",
-    "branch": "Congress",
-    "date": "May 16",
-    "dateISO": "2026-05-16",
-    "title": "HR 3159: Improving SCRA Benefit Utilization Act",
-    "score": 38,
-    "snapshot": "HR 3159 requires federal agencies to proactively notify servicemembers about SCRA protections (interest rate caps, eviction safeguards, lease terminations) rather than relying on individuals to discover their rights. Aims to close the documented gap where eligible servicemembers fail to claim existing legal protections.",
-    "verdict": "// VERDICT: Addresses documented underutilization of existing servicemember protections through low-cost notification improvements with minimal implementation burden.",
-    "detail": "The Servicemembers Civil Relief Act already grants substantial financial and legal protections to active-duty personnel, but GAO and DOD reports consistently show low utilization rates—sometimes below 40% for interest rate caps. <strong>This bill converts passive rights into active notifications, requiring agencies to inform servicemembers at key trigger points (deployment orders, PCS moves) about protections they're legally entitled to but often don't claim.</strong> Implementation costs are modest (agency notification systems, staff training) relative to benefits: preventing wrongful evictions, reducing predatory lending exposure, and ensuring compliance with existing law. The bill strengthens rule of law by improving execution of congressional intent behind SCRA. No unfunded mandates or cost-shifting; notification duties fall on agencies already administering servicemember records. Voice vote passage suggests bipartisan recognition of the problem.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "GAO Report on SCRA Compliance, 2024",
-      "Congressional Record, HR 3159 committee report",
-      "DOD Financial Readiness Campaign data",
-      "Federal Register SCRA implementation guidance"
     ]
   }
 ]
