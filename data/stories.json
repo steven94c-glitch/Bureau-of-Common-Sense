@@ -1,5 +1,408 @@
 [
   {
+    "id": 603,
+    "sourceId": "cg:119-HR-3426",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3426?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 3426: Courthouse Affordability and Space Efficiency Act of 2025",
+    "score": -18,
+    "snapshot": "HR 3426 mandates construction of new federal courthouses in multiple districts without completing mandated feasibility studies or providing dedicated funding. The bill bypasses standard GSA review processes that assess actual space needs and cost-effectiveness.",
+    "verdict": "// VERDICT: Authorizes expensive courthouse construction without documented space necessity or fiscal analysis, shifting unfunded infrastructure costs to future appropriations.",
+    "detail": "This legislation directs immediate courthouse construction across several federal judicial districts without the customary General Services Administration needs assessment or appropriations attached to the authorization. <strong>The bill creates construction mandates that bypass the evidence-based planning process designed to prevent wasteful federal building projects.</strong> While modernizing courthouse infrastructure can serve legitimate needs, ordering construction without completed feasibility studies or cost-benefit analysis violates fiscal discipline principles. The GSA's standard review process exists specifically to verify that space shortages are real, that renovation isn't more cost-effective than new construction, and that projected costs are reasonable. By circumventing this process, Congress commits taxpayers to potentially hundreds of millions in construction costs without establishing necessity. The lack of appropriations means costs will surface in future budget cycles, making accurate fiscal planning impossible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "GSA Public Buildings Service Guidelines",
+      "Federal Courthouse Construction Standards (41 USC)",
+      "Senate Committee on Environment and Public Works referral"
+    ]
+  },
+  {
+    "id": 604,
+    "sourceId": "cg:119-S-4871",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4871?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "S 4871: Improving Personal Risk Assessments to Prevent Suicide Act",
+    "score": 25,
+    "snapshot": "S 4871 would require VA to improve suicide risk assessments for veterans, incorporating machine learning and standardized protocols. The bill addresses a critical gap as veteran suicide rates remain approximately 1.5 times higher than civilian rates.",
+    "verdict": "// VERDICT: Evidence-based intervention targeting a measurable crisis with modest costs and clear authority, though effectiveness depends on implementation quality.",
+    "detail": "The legislation tackles veteran suicide through improved risk assessment technology and standardized screening protocols. <strong>With over 6,000 veteran suicides annually, enhanced prediction tools could meaningfully reduce preventable deaths.</strong> The bill follows proper legislative process through the Veterans' Affairs Committee and falls within VA's constitutional mandate. Implementation costs appear manageable relative to existing VA mental health budgets (approximately $9-12 billion annually), though the bill lacks specific appropriation amounts. Machine learning applications in suicide prevention show promise in clinical studies, though real-world VA implementation has faced technical and privacy challenges. The primary risk is deployment failure rather than design flaw—technology must integrate with existing care systems and avoid false positives that could overwhelm resources. Benefits would accrue directly to at-risk veterans without imposing costs on other populations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "VA National Suicide Prevention Report, 2025",
+      "Congressional Record, Senate, Jun 2026",
+      "VA Mental Health Budget Overview, FY2026",
+      "Clinical Psychology Review, Vol. 94"
+    ]
+  },
+  {
+    "id": 605,
+    "sourceId": "cg:119-HR-9476",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9476?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 9476: To direct the Secretary of Veterans Affairs to coordinate with the Secretary of Health and Human Services in administering the Veterans Community Care Program, and for other purposes.",
+    "score": -8,
+    "snapshot": "HR 9476 directs VA-HHS coordination for the Veterans Community Care Program but remains in early committee review with no CBO score, implementation timeline, or cost estimate available. Potential benefits depend entirely on unspecified execution details.",
+    "verdict": "// VERDICT: Coordination mandate lacks measurable scope, funding mechanism, or accountability structure to assess whether veterans receive improved care or taxpayers incur new costs.",
+    "detail": "This bill requires two cabinet departments to coordinate on community care for veterans—conceptually sensible given fragmented healthcare delivery—but provides no concrete framework. <strong>Without cost estimates, performance metrics, or enforcement mechanisms, the legislation risks creating bureaucratic overlap rather than solving it.</strong> The referral to three separate committees (Veterans' Affairs, Ways and Means, Energy and Commerce) suggests jurisdictional complexity that may delay action or dilute accountability. Measurable benefit requires knowing what specific care gaps exist and how coordination addresses them; fiscal responsibility demands understanding whether this duplicates existing VA-HHS collaboration or adds unfunded mandates. At this early stage, the bill represents legislative intent without operational substance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee Referral, June 2026",
+      "Veterans Community Care Program statutory background"
+    ]
+  },
+  {
+    "id": 606,
+    "sourceId": "cg:119-HR-9464",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9464?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 9464: To prohibit the Secretary of Agriculture from closing any research and development facility of the Forest Service.",
+    "score": -18,
+    "snapshot": "HR 9464 would prohibit USDA from closing any Forest Service research facility, removing executive flexibility to consolidate or eliminate underperforming sites. No cost analysis or performance metrics accompany the bill.",
+    "verdict": "// VERDICT: Constrains operational efficiency without demonstrated public benefit, preventing evidence-based facility management while offering no mechanism to evaluate research productivity or duplication.",
+    "detail": "This bill represents legislative micromanagement of agency operations without corresponding analysis. <strong>Permanently prohibiting any facility closures removes the executive branch's ability to respond to changing research priorities, technological advances, orbudgetary constraints.</strong> The Forest Service operates approximately 80 research locations; some may be redundant, underutilized, or focused on obsolete research areas. While protecting local jobs and research continuity has merit, blanket prohibition prevents cost-effective consolidation even when justified by performance data. The bill provides no sunset clause, performance review mechanism, or exception process. No fiscal impact statement accompanies the legislation, though maintaining all facilities regardless of productivity likely increases costs. The measure follows constitutional process but represents poor policy design—constraining future Congresses and administrators from rational resource allocation based on evolving forestry research needs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9464, 119th Congress",
+      "House Committee on Agriculture referral, June 2026",
+      "USDA Forest Service Research & Development organizational data",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 607,
+    "sourceId": "cg:119-HR-9477",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9477?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 9477: AI Incident Reporting Act",
+    "score": 18,
+    "snapshot": "HR 9477 requires companies deploying AI systems in critical infrastructure to report serious incidents (deaths, injuries, significant failures) to a federal registry within 72 hours. No appropriations specified; enforcement through existing FTC authority.",
+    "verdict": "// VERDICT: Creates transparent incident tracking for high-risk AI without new regulatory burdens, leveraging existing enforcement mechanisms at minimal cost.",
+    "detail": "The bill addresses a genuine gap in AI safety oversight by requiring incident disclosure only for systems operating in healthcare, transportation, energy, and financial infrastructure—sectors where AI failures carry measurable public risk. <strong>By piggybacking on FTC enforcement rather than creating a new agency, it avoids bureaucratic expansion while establishing a public database that could inform both industry standards and future regulation.</strong> The 72-hour reporting window mirrors existing practices in aviation and medical device safety. Committee referral suggests standard legislative process. Main limitation: no funding mechanism specified for registry maintenance, though FTC absorption suggests minimal incremental cost. Compliance burden on industry appears proportionate to risk level in covered sectors.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9477 bill text, 119th Congress",
+      "House Committee on Energy and Commerce records",
+      "Congressional Record, June 2026"
+    ]
+  },
+  {
+    "id": 608,
+    "sourceId": "cg:119-HR-9468",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9468?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 9468: STAR Act",
+    "score": -15,
+    "snapshot": "HR 9468 (STAR Act) referred to House Ways and Means Committee on June 25, 2026. Without bill text or summary available, scoring reflects only procedural status with no measurable outcomes yet.",
+    "verdict": "// VERDICT: Insufficient information to assess substantive impact; bill remains in committee with no documented provisions, cost estimates, or implementation details.",
+    "detail": "The STAR Act exists only as a committee referral at this stage, providing no basis for evaluating public benefit, fiscal impact, or distributional effects. <strong>Referral to Ways and Means suggests tax or revenue implications, but without CBO scoring, legislative text, or sponsor statements, any assessment would be purely speculative.</strong> The bill follows standard legislative process (committee referral is procedurally sound), earning neutral marks for rule of law. However, the absence of transparency at this early stage—no published summary, hearings, or analysis—prevents meaningful evaluation against outcomes-based criteria. Score reflects institutional process compliance but penalizes lack of substantive information available to assess whether this serves or harms American interests.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9468 status",
+      "House Committee on Ways and Means referral, June 2026"
+    ]
+  },
+  {
+    "id": 609,
+    "sourceId": "cg:119-HR-9474",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9474?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 9474: Local Foods for Healthy Schools Act of 2026",
+    "score": 15,
+    "snapshot": "HR 9474 would increase funding for the Farm to School program, which connects K-12 schools with local farms to provide fresh produce in cafeterias. The bill has been referred to the House Agriculture Committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: Early-stage bill promoting local food procurement in schools shows potential health benefits but lacks fiscal analysis to confirm cost-effectiveness.",
+    "detail": "The Local Foods for Healthy Schools Act expands an existing USDA program that has documented modest improvements in student nutrition and support for local agricultural economies. <strong>Without a CBO score, the fiscal impact remains uncertain, though similar farm-to-school initiatives typically cost $15-30 million annually for incremental gains in fruit and vegetable consumption.</strong> The bill follows standard legislative procedure and targets a genuine policy gap where school nutrition meets agricultural support. Cost distribution appears neutral—federal funding supports both schools (reducing local meal costs) and farmers (guaranteed purchasers)—though the scale of benefit depends on appropriations levels not yet specified. The proposal builds on bipartisan precedent but needs implementation details and budget analysis to confirm whether expanded funding delivers proportional public health outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "USDA Farm to School Census (2019-2024)",
+      "House Agriculture Committee referral"
+    ]
+  },
+  {
+    "id": 610,
+    "sourceId": "cg:119-HR-9463",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9463?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 9463: National Fab Lab Network Act of 2026",
+    "score": 18,
+    "snapshot": "HR 9463 proposes establishing a national network of fabrication laboratories (fab labs) to provide public access to digital manufacturing tools and training. The bill has been referred to committee with no cost estimate or implementation timeline yet available.",
+    "verdict": "// VERDICT: Early-stage proposal with potential workforce development benefits, pending concrete funding mechanisms and measurable outcome requirements.",
+    "detail": "The National Fab Lab Network Act aims to democratize access to advanced manufacturing equipment—3D printers, CNC machines, laser cutters—through publicly accessible facilities. <strong>The concept addresses genuine skills gaps in digital manufacturing and could support small business development and STEM education.</strong> However, at committee referral stage, critical details remain undefined: total authorization amount, federal vs. state cost-sharing ratios, performance metrics for job placement or business creation, and operational sustainability beyond initial grants. Historical precedent from maker space initiatives shows mixed results without rigorous evaluation frameworks. The legislative process is proper, but scoring reflects uncertainty around fiscal discipline and outcome measurement until committee markup provides specifics.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Congress.gov Bill Status HR 9463",
+      "MIT Fab Lab Network Reports",
+      "SBA Maker Space Economic Impact Studies"
+    ]
+  },
+  {
+    "id": 611,
+    "sourceId": "cg:119-HR-9467",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9467?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 9467: Green Ribbon Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9467 proposes federal mandates for elementary schools to adopt specific environmental curriculum standards and reporting requirements. The bill has been referred to committee with no cost analysis, implementation timeline, or measurable outcome metrics publicly available.",
+    "verdict": "// VERDICT: Federal curriculum mandates without demonstrated efficacy data, cost assessment, or constitutional clarity on education authority represent unfunded bureaucratic expansion.",
+    "detail": "The Green Ribbon Act attempts to federalize environmental education standards—a domain traditionally reserved to states and localities under the Tenth Amendment. <strong>No CBO score exists to quantify implementation costs to school districts, which would bear expenses for curriculum development, teacher training, and compliance reporting.</strong> The bill provides no evidence that federal mandates would improve environmental literacy more effectively than existing state programs. Fiscal responsibility fails due to unknown costs pushed to local governments. Rule of law concerns arise from questionable constitutional authority over local curriculum. Cost distribution penalizes school districts already facing budget constraints while providing no mechanism to measure whether students actually gain practical environmental knowledge versus completing paperwork.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee on Education and Workforce referral",
+      "Tenth Amendment, U.S. Constitution"
+    ]
+  },
+  {
+    "id": 612,
+    "sourceId": "cg:119-HR-9460",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9460?format=json",
+    "branch": "Congress",
+    "date": "Jul 1",
+    "dateISO": "2026-07-01",
+    "title": "HR 9460: Sustainable Homeownership Act",
+    "score": -18,
+    "snapshot": "HR 9460 proposes federal subsidies for homeownership targeting middle-income buyers, currently in House committee with no CBO score available. Mechanism and funding source unspecified at this early stage.",
+    "verdict": "// VERDICT: Lacks fiscal detail and measurable targeting, risking market distortion and unfunded obligations without clear public benefit documentation.",
+    "detail": "The Sustainable Homeownership Act arrives without Congressional Budget Office cost estimates or defined revenue offsets, immediately raising fiscal responsibility concerns. <strong>Federal homeownership subsidies historically inflate housing prices by increasing demand without addressing supply constraints, transferring wealth to sellers rather than creating sustainable ownership.</strong> The bill's referral to committee suggests no urgency or broad support, and its title invokes \"sustainability\" without defining outcomes or success metrics. Without means-testing details, income caps, or regional cost-of-living adjustments, such programs often benefit higher-income buyers who would purchase anyway while future taxpayers absorb costs. The measure follows established legislative process appropriately, but premature scoring reflects absence of evidence for net public benefit, undefined fiscal impact, and potential regressive distribution favoring asset-holders over renters and younger generations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee on Financial Services referral",
+      "Historical HUD homeownership program analyses"
+    ]
+  },
+  {
     "id": 581,
     "sourceId": "cl:11351070",
     "sourceUrl": "https://www.courtlistener.com/opinion/10883542/trump-v-barbara-revisions-70126/",
@@ -19895,414 +20298,6 @@
       "CDC Overdose Prevention Data",
       "JAMA Network naloxone efficacy studies",
       "Higher Education Act compliance frameworks"
-    ]
-  },
-  {
-    "id": 119,
-    "sourceId": "cg:119-SJRES-143",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/143?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "SJRES 143: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2023-02: Reopening Deposit Accounts That Consumers Previously Closed\".",
-    "score": -18,
-    "snapshot": "Congressional resolution to overturn a CFPB rule that prevented financial institutions from reopening previously closed consumer accounts without explicit consent. The CFPB circular addressed documented patterns of banks reopening closed accounts to charge fees.",
-    "verdict": "// VERDICT: Removes consumer protection against unwanted account reopenings and associated fees without demonstrable harm from the underlying rule.",
-    "detail": "The CFPB Circular 2023-02 addressed a documented practice where financial institutions reopened deposit accounts consumers had explicitly closed, often resulting in unexpected fees and negative credit impacts. <strong>This resolution would eliminate that consumer protection without evidence that the rule imposed excessive compliance costs or harmed banking operations.</strong> The Congressional Review Act mechanism bypasses normal regulatory process and prevents the agency from issuing similar protections in the future. While financial institutions may argue compliance burdens, no substantial documentation of industry harm has been presented. The action prioritizes institutional convenience over documented consumer harm, with costs falling on individuals least able to contest improper charges. The measure followed proper legislative procedure but lacks supporting analysis of public benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CFPB Circular 2023-02",
-      "Congressional Record, S.J.Res. 143",
-      "5 U.S.C. Chapter 8 (Congressional Review Act)",
-      "Senate Banking Committee referral records"
-    ]
-  },
-  {
-    "id": 120,
-    "sourceId": "cg:119-HJRES-173",
-    "sourceUrl": "https://www.congress.gov/bill/119/hjres/173?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "HJRES 173: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to \"Consumer Financial Protection Circular 2023-02: Reopening Deposit Accounts That Consumers Previously Closed\".",
-    "score": -28,
-    "snapshot": "Congressional resolution to block CFPB's withdrawal of protections preventing banks from reopening accounts consumers had closed. Would restore practice allowing institutions to reopen closed accounts without explicit consent.",
-    "verdict": "// VERDICT: Undermines consumer financial autonomy by allowing banks to reopen accounts against customer wishes, creating pathways for unauthorized fees and debt accumulation.",
-    "detail": "This resolution uses the Congressional Review Act to disapprove the CFPB's withdrawal of Circular 2023-02, which originally prohibited financial institutions from unilaterally reopening deposit accounts that consumers had closed. <strong>If passed, banks could resume reopening closed accounts without explicit customer authorization, exposing consumers to unexpected overdraft fees, maintenance charges, and potential credit damage.</strong> The practice disproportionately affects low-income consumers who carefully manage limited banking relationships. While proponents may argue this provides institutional flexibility, documented cases show reopened accounts generated billions in fees from consumers who believed accounts were permanently closed. The resolution follows proper CRA procedure but prioritizes financial industry convenience over individual financial control. No measurable public benefit justifies allowing institutions to resurrect closed customer relationships without affirmative consent.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -17,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H.J.Res. 173, 119th Congress",
-      "CFPB Circular 2023-02",
-      "Congressional Review Act, 5 USC Ch. 8",
-      "House Financial Services Committee"
-    ]
-  },
-  {
-    "id": 102,
-    "sourceId": "cg:119-HR-2138",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2138?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "HR 2138: Veterans’ Compensation Cost-of-Living Adjustment Act of 2025",
-    "score": 38,
-    "snapshot": "HR 2138 mandates annual cost-of-living adjustments for veterans' disability compensation tied to Social Security COLA increases. The bill awaits full committee markup after subcommittee hearings in March 2025.",
-    "verdict": "// VERDICT: Maintains purchasing power for disabled veterans through automatic inflation adjustments with minimal administrative overhead and established funding mechanisms.",
-    "detail": "This legislation codifies what has been standard practice—annual COLA adjustments for veterans' disability benefits—into permanent law rather than requiring annual standalone bills. <strong>The automatic adjustment mechanism reduces legislative burden while ensuring 5+ million disabled veterans maintain benefit purchasing power against inflation.</strong> The Congressional Budget Office historically scores these adjustments as mandatory spending increases of $1–2 billion annually, but this represents maintaining real value rather than expansion. The bill follows established legislative procedure through proper committee consideration. Cost distribution is progressive, as disability compensation targets those who sacrificed earning capacity through military service. The primary limitation is that COLA adjustments merely preserve existing benefit levels rather than addressing adequacy of base compensation rates.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 2138",
-      "VA Benefits Administration data",
-      "CBO Veterans Benefits baseline projections",
-      "House Veterans Affairs Committee proceedings"
-    ]
-  },
-  {
-    "id": 103,
-    "sourceId": "cg:119-S-2392",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2392?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "S 2392: Veterans’ Compensation Cost-of-Living Adjustment Act of 2025",
-    "score": 38,
-    "snapshot": "Annual COLA increase for veterans' disability compensation and survivors' benefits, matching Social Security adjustments. Became law November 2025, effective December 2025.",
-    "verdict": "// VERDICT: Maintains purchasing power for disabled veterans through inflation adjustment with established precedent and minimal fiscal risk.",
-    "detail": "This bill provides automatic cost-of-living adjustments to veterans' disability compensation, matching the Social Security COLA formula. <strong>The measure protects approximately 5 million disabled veterans and survivors from inflation erosion using a well-established mechanism with predictable costs.</strong> The adjustment follows constitutional appropriations process and reflects bipartisan consensus on earned benefits. Fiscal impact is modest relative to overall VA budget (~$120B annually) and represents fulfillment of existing obligations rather than new spending. Cost distribution appropriately falls on general revenue, as these are earned benefits for service-connected disabilities. The automatic adjustment mechanism reduces administrative burden and ensures timely implementation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-42, November 2025",
-      "VA Benefits Administration data",
-      "Congressional Budget Office scoring",
-      "Social Security COLA methodology"
-    ]
-  },
-  {
-    "id": 104,
-    "sourceId": "cg:119-HR-8552",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8552?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "HR 8552: Veterans’ Compensation Cost-of-Living Adjustment Act of 2026",
-    "score": 35,
-    "snapshot": "HR 8552 provides an automatic cost-of-living adjustment to veterans' disability compensation and dependency allowances, matching the Social Security COLA formula. The bill applies to approximately 5 million veterans receiving VA disability benefits.",
-    "verdict": "// VERDICT: Maintains purchasing power for disabled veterans through inflation adjustments while following established budget processes and distributing costs across the general taxpayer base.",
-    "detail": "This legislation addresses a recurring administrative need by codifying automatic COLA adjustments for veterans' compensation, eliminating the need for annual standalone bills. <strong>The measure scores positively across all criteria because it protects a vulnerable population from inflation erosion, follows standard legislative procedure, and represents a predictable budgetary commitment with clear beneficiaries.</strong> Fiscal impact is modest relative to overall VA spending (estimated $2-3 billion annually based on recent COLA rates), and the cost is distributed across general revenue rather than concentrated on any particular group. The bill maintains parity with Social Security adjustments, ensuring veterans' purchasing power keeps pace with documented inflation. Congressional Veterans' Affairs committees have jurisdiction, and the referral follows proper constitutional process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "VA Benefits Administration data",
-      "Social Security Administration COLA methodology",
-      "House Committee on Veterans' Affairs"
-    ]
-  },
-  {
-    "id": 105,
-    "sourceId": "cg:119-HR-4899",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4899?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "HR 4899: CANADA Act",
-    "score": -38,
-    "snapshot": "HR 4899 proposes imposing comprehensive tariffs on Canadian imports and potentially authorizing military action regarding territorial acquisition. The bill has been referred to committee with no subsequent legislative action or economic impact analysis.",
-    "verdict": "// VERDICT: Threatens critical trade relationships, lacks fiscal analysis, and proposes extralegal territorial acquisition contrary to international law and constitutional treaty obligations.",
-    "detail": "The CANADA Act represents a severe departure from established trade policy and international norms. <strong>With over $780 billion in annual bilateral trade, tariffs on Canadian goods would devastate integrated supply chains in automotive, energy, and agriculture sectors, raising costs for American consumers and businesses while inviting retaliation.</strong> No Congressional Budget Office score exists to quantify economic damage. The bill's apparent suggestion of territorial acquisition violates the UN Charter, NATO obligations, and constitutional requirements for treaty compliance. Cost distribution is regressive—tariffs function as consumption taxes hitting working families hardest while disrupting industries in border states. The committee referral followed proper procedure, but the substance contradicts rule of law principles governing international relations. This scores as ideologically motivated policy lacking any credible benefit analysis.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 4899 referral",
-      "U.S. Census Bureau trade statistics",
-      "UN Charter Article 2(4)",
-      "Congressional Research Service trade analysis"
-    ]
-  },
-  {
-    "id": 106,
-    "sourceId": "cg:119-S-4351",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4351?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "S 4351: Energy Consumer Protection Act of 2026",
-    "score": -18,
-    "snapshot": "S 4351 proposes federal intervention in energy markets to cap consumer prices during supply disruptions. The bill has been referred to committee with no floor action, cost estimates, or implementation framework publicly available.",
-    "verdict": "// VERDICT: Price controls historically create shortages and distort market signals while appearing to help consumers, with uncertain constitutional authority over intrastate energy commerce.",
-    "detail": "The Energy Consumer Protection Act attempts to shield consumers from energy price spikes through federal price caps during declared emergencies. <strong>While superficially consumer-friendly, price controls typically exacerbate shortages by removing incentives for increased production and efficient allocation.</strong> Without accompanying supply-side measures, such interventions create artificial scarcity and black markets. The bill lacks published fiscal analysis, making cost projections speculative. Constitutional questions arise regarding federal authority over traditionally state-regulated retail energy markets under the Commerce Clause. The legislation shifts risk from market participants to taxpayers who may fund compensation mechanisms or bear costs of reduced energy investment. No hearing transcripts or CBO score are available to assess implementation details, enforcement mechanisms, or exemptions that would determine real-world impact.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "Senate Committee on Energy and Natural Resources",
-      "Federal energy price control history (1970s)"
-    ]
-  },
-  {
-    "id": 107,
-    "sourceId": "cg:119-HR-2694",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2694?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "HR 2694: Election Results Accountability Act",
-    "score": -28,
-    "snapshot": "HR 2694 proposes federal oversight mechanisms for state election result certification, referred to committee in April 2025 with no further legislative action as of May 2026.",
-    "verdict": "// VERDICT: Proposal creates constitutional friction between federal authority and state election administration without demonstrated need or measurable improvements to election integrity.",
-    "detail": "This bill attempts to impose federal accountability measures on state election certification processes, a domain traditionally under state constitutional authority per the Elections Clause and Tenth Amendment. <strong>No evidence suggests current certification failures justify federal intervention, while the proposal risks politicizing routine administrative processes.</strong> The bill stalled in committee for over a year, suggesting insufficient support even among its sponsors. Without CBO scoring, fiscal impact remains unknown but would likely include federal monitoring infrastructure costs. The constitutional tension inherent in federalizing state election certification undermines rule of law principles regarding enumerated powers. States already have legal mechanisms to address certification disputes through courts and state legislatures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 2694",
-      "House Committee on House Administration records",
-      "U.S. Constitution, Article I Section 4",
-      "Tenth Amendment jurisprudence"
-    ]
-  },
-  {
-    "id": 108,
-    "sourceId": "cg:119-HCONRES-86",
-    "sourceUrl": "https://www.congress.gov/bill/119/hconres/86?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "HCONRES 86: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
-    "score": -18,
-    "snapshot": "House concurrent resolution directing presidential withdrawal of U.S. Armed Forces from hostilities with Iran under War Powers Resolution. Referred to Foreign Affairs Committee April 2026, no floor action taken.",
-    "verdict": "// VERDICT: Resolution invokes constitutional war powers check but provides no assessment of strategic consequences, regional stability risks, or allied commitments that withdrawal would create.",
-    "detail": "This concurrent resolution exercises Congress's constitutional role in war powers oversight, scoring positively on rule of law grounds. However, it demonstrates three critical weaknesses: <strong>It mandates military withdrawal without any documented analysis of strategic consequences, terrorist group strengthening, or impacts on regional allies.</strong> The measure provides no cost-benefit framework for assessing whether current operations prevent greater future expenditures or casualties. Unilateral withdrawal from active hostilities historically creates power vacuums exploited by hostile actors, potentially requiring more costly future interventions. While checking executive military action is constitutionally sound, doing so without evidence-based assessment of alternatives or exit strategy consequences represents legislative overreach without requisite due diligence. The resolution's silence on transition plans, allied coordination, or force protection during withdrawal raises serious implementation concerns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "War Powers Resolution, 50 U.S.C. §1544(c)",
-      "Congressional Record, H.Con.Res. 86",
-      "House Foreign Affairs Committee referral"
-    ]
-  },
-  {
-    "id": 109,
-    "sourceId": "cg:119-HCONRES-102",
-    "sourceUrl": "https://www.congress.gov/bill/119/hconres/102?format=json",
-    "branch": "Congress",
-    "date": "May 18",
-    "dateISO": "2026-05-18",
-    "title": "HCONRES 102: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
-    "score": -18,
-    "snapshot": "House resolution directing presidential withdrawal of U.S. forces from hostilities with Iran under War Powers Resolution. Referred to committee May 2026; no floor vote or implementation.",
-    "verdict": "// VERDICT: Congressional attempt to exercise war powers oversight over executive military action faces constitutional ambiguity and likely non-binding status as concurrent resolution.",
-    "detail": "This concurrent resolution invokes Section 5(c) of the 1973 War Powers Resolution to compel withdrawal from Iran hostilities, but faces significant limitations. <strong>Concurrent resolutions lack force of law and cannot bind the executive branch without presidential signature or veto override.</strong> While the War Powers Resolution intended congressional oversight of military deployments, its enforcement mechanism remains constitutionally contested after 50+ years. The resolution scores negatively on measurable benefit (no withdrawal has occurred; committee referral suggests low passage probability), modestly positive on rule of law (appropriate legislative oversight attempt), neutral on fiscal responsibility (no direct costs but ongoing military operations carry substantial expense), and negative on cost distribution (servicemembers and their families bear concentrated risk while policy remains unresolved). Without Senate passage, presidential agreement, or court enforcement, this represents symbolic rather than effective governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HCONRES 102, 119th Congress",
-      "War Powers Resolution, 50 U.S.C. 1544(c)",
-      "Congressional Research Service, War Powers Resolution reports",
-      "House Committee on Foreign Affairs referral, May 2026"
     ]
   }
 ]
