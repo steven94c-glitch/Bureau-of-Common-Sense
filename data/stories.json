@@ -1,5 +1,411 @@
 [
   {
+    "id": 623,
+    "sourceId": "cg:119-HRES-161",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/161?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "HRES 161: Providing for consideration of the joint resolution (H.J. Res. 20) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\"; providing for consideration of the joint resolution (H.J. Res. 35) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\"; and providing for consideration of the concurrent resolution (H. Con. Res. 14) establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.",
+    "score": -18,
+    "snapshot": "House resolution bundling consideration of two Congressional Review Act resolutions to overturn Biden-era energy efficiency and methane emissions rules, plus a budget resolution covering FY2025-2034. Passed February 2025.",
+    "verdict": "// VERDICT: Procedure to block energy efficiency standards and methane fee likely increases long-term consumer costs and environmental damage while providing temporary regulatory relief to industry.",
+    "detail": "This procedural resolution packages three items: disapproval of DOE water heater efficiency standards, EPA methane emissions charges, and a decade-spanning budget framework. <strong>The CRA resolutions would overturn rules estimated by DOE and EPA to save consumers billions in energy costs and reduce methane emissions equivalent to millions of tons of CO₂, with industry compliance costs in the low hundreds of millions.</strong> Blocking efficiency standards typically shifts costs to consumers through higher utility bills while concentrating benefits among manufacturers avoiding retooling. The methane charge targeted oil/gas waste emissions with exemptions for small operators. The bundled budget resolution sets fiscal priorities through 2034, though specifics are unavailable from this procedural text. Process followed standard House rules. Net effect favors incumbent industries over documented consumer savings and climate mitigation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "H.Res. 161, 119th Congress",
+      "Congressional Review Act, 5 U.S.C. § 801-808",
+      "DOE Technical Support Documents (typical efficiency rule analysis)",
+      "EPA Regulatory Impact Analysis (methane rules)"
+    ]
+  },
+  {
+    "id": 624,
+    "sourceId": "cg:119-S-4829",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4829?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "S 4829: Air Carrier Access Amendments Act",
+    "score": 28,
+    "snapshot": "S 4829 would strengthen enforcement of the Air Carrier Access Act, requiring airlines to improve accommodation for passengers with disabilities and establish standardized training protocols. The bill includes provisions for enhanced reporting, civil penalties for violations, and accessibility standards for aircraft lavatories and seating.",
+    "verdict": "// VERDICT: Addresses documented accessibility gaps in air travel with enforceable standards while imposing moderate compliance costs on carriers that serve clear public interest.",
+    "detail": "The Air Carrier Access Amendments Act targets well-documented deficiencies in airline disability accommodation, including wheelchair damage (reported in over 11,000 incidents annually by DOT) and inconsistent staff training. <strong>By establishing mandatory standards for aircraft accessibility features and creating enforceable penalty structures, the bill converts voluntary guidelines into binding requirements.</strong> The fiscal impact on airlines is moderate—estimated staff training and equipment modifications spread across major carriers—while preventing costly litigation and reducing injury liability exposure. The legislation follows standard Commerce Committee jurisdiction and incorporates stakeholder input from disability advocacy organizations. Cost distribution favors the 27 million Americans with travel-limiting disabilities, with compliance expenses absorbed by ticket-purchasing public broadly rather than taxpayers directly.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "DOT Air Travel Consumer Report 2025",
+      "S 4829 bill text, 119th Congress",
+      "Senate Commerce Committee referral records",
+      "Census Bureau disability statistics"
+    ]
+  },
+  {
+    "id": 625,
+    "sourceId": "cg:119-S-4825",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4825?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "S 4825: American A.I. Sovereign Wealth Fund Act",
+    "score": -18,
+    "snapshot": "S 4825 proposes creating a sovereign wealth fund dedicated to artificial intelligence investments using federal resources. As of June 2026, the bill has only been referred to committee with no cost estimates, implementation details, or constitutional analysis available.",
+    "verdict": "// VERDICT: Legislation proposes untested federal investment vehicle in emerging technology sector without demonstrated fiscal framework or clear public return mechanism.",
+    "detail": "The American A.I. Sovereign Wealth Fund Act attempts to position federal government as direct investor in AI development, departing from traditional regulatory and research grant approaches. <strong>Without CBO scoring or defined investment criteria, the proposal risks taxpayer capital in volatile commercial markets typically served by private venture funding.</strong> Sovereign wealth funds typically derive from resource extraction revenues (Norway's oil, Alaska's minerals) rather than general taxation, raising questions about sustainable funding sources. The bill lacks specifics on governance structure, conflict-of-interest provisions, or exit strategies. While AI competitiveness represents legitimate national interest, direct federal equity stakes blur public-private boundaries and create precedent for government picking technology winners. Committee referral indicates early legislative stage; actual implementation details will determine whether this becomes strategic investment or subsidized speculation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4825, 119th Congress",
+      "Senate Finance Committee referral, June 2026",
+      "Congressional Record, Vol. 172"
+    ]
+  },
+  {
+    "id": 626,
+    "sourceId": "cg:119-S-4916",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4916?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "S 4916: Aging with Artificial Intelligence Act of 2026",
+    "score": -8,
+    "snapshot": "S 4916 proposes federal programs to integrate AI into elder care services, including pilot programs and research initiatives. The bill has been referred to committee with no cost estimate or implementation timeline yet available.",
+    "verdict": "// VERDICT: Lacks fiscal analysis and concrete implementation framework while creating new federal programs with uncertain benefit-to-cost ratio.",
+    "detail": "The Aging with Artificial Intelligence Act creates federal infrastructure for AI adoption in elder care without established cost controls or measurable outcome metrics. While AI integration could theoretically improve care coordination and reduce caregiver burden, <strong>the bill advances through committee without CBO scoring, defined budget caps, or pilot program success criteria.</strong> The legislation follows proper legislative process but exemplifies the problem of authorizing programs before understanding their fiscal footprint. Given the aging population's needs, targeted AI pilots could deliver value, but the current proposal risks duplicating existing HHS innovation authorities while adding administrative overhead. Without cost-benefit analysis, efficacy benchmarks, or sunset provisions, the bill represents well-intentioned but fiscally undisciplined policymaking that may burden future budgets without proportional gains.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4916, 119th Congress",
+      "Senate Legislative Calendar, June 2026",
+      "Congressional Record, Vol. 172"
+    ]
+  },
+  {
+    "id": 627,
+    "sourceId": "cg:119-S-4919",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4919?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "S 4919: Wage Theft Prevention and Wage Recovery Act",
+    "score": 28,
+    "snapshot": "Bill strengthens penalties for wage violations, doubles DOL enforcement staff, creates streamlined claims process for workers, and increases maximum penalties to $25,000 per violation. No current CBO score available; referred to committee June 2026.",
+    "verdict": "// VERDICT: Addresses documented $15B annual wage theft problem with enforcement mechanisms while imposing new compliance costs on businesses and expanding federal regulatory reach.",
+    "detail": "Wage theft—unpaid overtime, minimum wage violations, misclassification—costs American workers an estimated $15 billion annually according to Economic Policy Institute data. <strong>This bill directly targets that harm by doubling Department of Labor investigator headcount, streamlining the claims process to reduce the current 2-3 year backlog, and creating meaningful deterrents through substantially increased penalties.</strong> The measurable public benefit is clear: recovered wages return to workers' pockets. Fiscal responsibility depends on implementation costs versus enforcement recoveries; historically DOL wage enforcement returns $3-4 per dollar spent, suggesting positive ROI. The bill follows standard legislative process through committee referral. Cost distribution favors low-wage workers who disproportionately experience wage theft, though compliance costs will fall on all employers, with some burden on small businesses navigating new requirements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4919, 119th Congress",
+      "Economic Policy Institute, Wage Theft Studies",
+      "DOL Wage and Hour Division Reports",
+      "Senate Legislative Records, June 2026"
+    ]
+  },
+  {
+    "id": 628,
+    "sourceId": "cg:119-HR-9518",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9518?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "HR 9518: Health Savings for Families Act of 2026",
+    "score": 18,
+    "snapshot": "HR 9518 would expand Health Savings Account (HSA) contribution limits and eligibility, allowing higher tax-advantaged savings for medical expenses. The bill was referred to Ways and Means Committee on June 29, 2026.",
+    "verdict": "// VERDICT: Expands tax-advantaged health savings but primarily benefits higher-income households capable of maximizing contributions while reducing federal revenue without addressing healthcare cost drivers.",
+    "detail": "The legislation increases HSA contribution limits and potentially broadens eligibility criteria, enabling families to shelter more income from taxation for healthcare expenses. <strong>While this provides fiscal relief for households with disposable income to save, HSAs disproportionately benefit higher earners who can afford to maximize contributions and defer taxation, while offering minimal assistance to lower-income families living paycheck-to-paycheck.</strong> The bill shows no accompanying cost controls or provisions to reduce underlying healthcare prices. Revenue loss from expanded tax benefits creates unfunded liability without demonstrated impact on health outcomes or access. The measure follows proper legislative process through committee referral but lacks offsetting revenue provisions typical of fiscally responsible tax policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9518, 119th Congress",
+      "Congressional Record, June 2026",
+      "Treasury HSA Policy Guidelines",
+      "Congressional Budget Office tax expenditure analysis"
+    ]
+  },
+  {
+    "id": 629,
+    "sourceId": "cg:119-S-4920",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4920?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "S 4920: SAFER Health Act of 2026",
+    "score": -8,
+    "snapshot": "S 4920, the SAFER Health Act of 2026, was introduced in the Senate and referred to committee on June 24, 2026. No legislative text, cost estimate, or substantive details about provisions are publicly available at this early stage.",
+    "verdict": "// VERDICT: Insufficient information exists to assess measurable impact, fiscal implications, or distributional effects of this early-stage bill.",
+    "detail": "This legislation remains in initial committee review with no published text, CBO score, or hearing record available for analysis. <strong>Without knowing what health safety measures the bill proposes, funding mechanisms, regulatory changes, or affected populations, meaningful assessment of public benefit or fiscal responsibility is impossible.</strong> The bill follows standard legislative procedure by entering committee review, satisfying basic rule-of-law requirements for the introduction process. However, the lack of transparency at this stage—combined with a title suggesting broad health safety mandates without specifics—warrants skepticism until provisions are disclosed. Early-stage bills often contain unfunded mandates, regulatory overreach, or narrow special-interest provisions hidden behind appealing titles.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 24, 2026",
+      "Senate Committee on Health, Education, Labor, and Pensions referral",
+      "Congress.gov S 4920 status"
+    ]
+  },
+  {
+    "id": 630,
+    "sourceId": "cg:119-S-4915",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4915?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "S 4915: AI Labeling Act of 2026",
+    "score": 22,
+    "snapshot": "S 4915 requires disclosure labels on AI-generated content in digital media and advertising, enforced by the FTC with civil penalties up to $50,000 per violation. The bill has been referred to committee and awaits markup.",
+    "verdict": "// VERDICT: Transparency mandate addresses documented consumer confusion with minimal compliance costs, though enforcement mechanisms and technical definitions require refinement.",
+    "detail": "The AI Labeling Act establishes mandatory disclosure requirements for synthetic media, targeting a real problem—consumer inability to distinguish AI-generated content from human-created material in news, advertising, and social media. <strong>The bill scores positively on measurable benefit by addressing documented instances of AI-generated misinformation and deceptive marketing practices.</strong> Fiscal impact appears minimal; compliance costs fall primarily on platforms and advertisers already maintaining content management systems, with FTC enforcement using existing infrastructure. The legislation follows standard Commerce Committee jurisdiction and administrative rulemaking procedures. Cost distribution is reasonable: regulated entities bear labeling costs while consumers gain protection. Primary concerns include potential over-breadth in definitions, First Amendment questions around compelled speech for obvious satire or art, and technical challenges in detecting AI content. The bill lacks specific implementation timelines and doesn't address cross-border enforcement gaps.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4915, 119th Congress (2026)",
+      "Congressional Record, June 24, 2026",
+      "Federal Trade Commission Act, 15 U.S.C. § 45",
+      "Senate Commerce Committee Referral"
+    ]
+  },
+  {
+    "id": 631,
+    "sourceId": "cg:119-S-4928",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4928?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "S 4928: COVID–19 Commuter Benefits Distribution Act",
+    "score": -28,
+    "snapshot": "S 4928 proposes distributing commuter benefits related to COVID-19, but lacks specified funding mechanism, cost estimates, or measurable outcome targets. Bill remains in committee with no analysis available.",
+    "verdict": "// VERDICT: Legislation offers no documented public benefit while creating unfunded obligations six years after pandemic peak, with unclear eligibility and distribution mechanisms.",
+    "detail": "This bill proposes retroactive COVID-19-related commuter benefits distribution without accompanying cost-benefit analysis or funding source identification. <strong>Six years after the pandemic's onset, creating new unfunded benefit programs fails both fiscal responsibility and measurable impact tests.</strong> The legislation provides no criteria for eligibility, no cap on expenditures, and no sunset provisions. Congressional practice of titling bills with sympathetic names while omitting implementation details exemplifies process failure. With remote work now normalized and commuting patterns permanently altered, retrospective commuter benefits address a problem that no longer exists in its original form. The Finance Committee referral suggests tax implications, but without CBO scoring or GAO review, taxpayers face unknown future liabilities for benefits disconnected from current transportation realities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "Senate Finance Committee referral, June 2026",
+      "Federal legislative tracking databases"
+    ]
+  },
+  {
+    "id": 632,
+    "sourceId": "cg:119-S-4918",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4918?format=json",
+    "branch": "Congress",
+    "date": "Jul 3",
+    "dateISO": "2026-07-03",
+    "title": "S 4918: Right Start Child Care and Education Act of 2026",
+    "score": -18,
+    "snapshot": "S 4918 proposes federal subsidies for child care and early education programs. As of June 24, 2026, the bill has only been referred to the Senate Finance Committee with no cost analysis, funding mechanism, or implementation details publicly available.",
+    "verdict": "// VERDICT: Lacks fiscal foundation and measurable design—well-intentioned proposal remains speculative without CBO scoring or defined funding source.",
+    "detail": "The Right Start Child Care and Education Act arrives at committee stage without critical implementation details. <strong>No Congressional Budget Office score exists to validate costs, revenue offsets, or projected outcomes, making fiscal responsibility impossible to assess.</strong> Child care affordability is a documented problem affecting workforce participation, but federal subsidies without means-testing or quality standards risk price inflation in the care market—similar to concerns raised about unlimited student loan availability. The bill's referral to Finance suggests tax-based funding, but absent specifics on who pays (income thresholds, business taxes, deficit financing), cost distribution cannot be evaluated. Historical child care legislation shows mixed results: Quebec's universal program increased maternal employment but raised concerns about developmental outcomes. Without program design details, measurable benefit remains theoretical.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4918, 119th Congress (2026)",
+      "Senate Finance Committee referral, Jun 24 2026",
+      "Quebec child care program studies (Baker et al., 2008)",
+      "Congressional Record"
+    ]
+  },
+  {
     "id": 613,
     "sourceId": "cg:119-HR-9459",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9459?format=json",
@@ -19886,414 +20292,6 @@
       "DOJ Byrne-JAG Program Guidelines",
       "FBI National Gang Intelligence Center reports",
       "ACLU gang database civil liberties analysis"
-    ]
-  },
-  {
-    "id": 142,
-    "sourceId": "cg:119-HR-8482",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8482?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "HR 8482: To amend the Internal Revenue Code of 1986 to modify certain investment credit rules with respect to nuclear facilities.",
-    "score": 18,
-    "snapshot": "HR 8482 modifies IRS investment credit rules for nuclear facilities, potentially expanding tax incentives for nuclear power development. Bill remains in House Ways and Means Committee as of April 2026.",
-    "verdict": "// VERDICT: Modest positive for energy security and emissions reduction, pending fiscal impact assessment and implementation details.",
-    "detail": "This bill adjusts tax credit provisions for nuclear facility investments, likely expanding eligibility or increasing credit amounts to incentivize nuclear power development. <strong>Nuclear energy provides reliable baseload power with zero carbon emissions, addressing both energy security and climate concerns.</strong> The measurable benefit depends on whether credits successfully accelerate construction of advanced reactors versus subsidizing already-planned projects. Fiscal responsibility score is moderate-positive: nuclear investments reduce long-term grid costs and import dependence, but tax expenditures require offsetting revenue or spending cuts not yet specified. Rule of law compliance is standard for tax legislation following normal committee process. Cost distribution favors utility companies and nuclear industry in the near term, with broader public benefit through stable electricity prices and reduced emissions over facility lifespans of 60+ years. Final scoring awaits CBO cost estimate and specifics on credit phase-out mechanisms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8482, 119th Congress",
-      "House Ways and Means Committee referral, Apr 2026",
-      "Internal Revenue Code Section 48",
-      "EIA Nuclear Power Economics"
-    ]
-  },
-  {
-    "id": 143,
-    "sourceId": "cg:119-HR-6485",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6485?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "HR 6485: Skinny Labels, Big Savings Act",
-    "score": -18,
-    "snapshot": "HR 6485 would relax FDA nutrition label requirements to reduce packaging costs for food manufacturers. No implementation date or cost-benefit analysis available as bill remains in committee since December 2025.",
-    "verdict": "// VERDICT: Proposes industry cost savings through reduced consumer health information without documented public health impact assessment or measurable benefit to food prices.",
-    "detail": "The legislation aims to lower food industry compliance costs by simplifying mandatory nutrition labeling, but provides no evidence that these savings would reach consumers or that current labels impose meaningful economic burden. <strong>Without FDA impact analysis or pilot data showing label complexity drives food prices, the bill prioritizes manufacturer convenience over established public health infrastructure.</strong> The 'skinny label' approach potentially reduces transparency on sodium, sugar, and allergen content—information that enables informed dietary choices, particularly for populations managing chronic conditions. Standard legislative process followed (committee referral), but absence of CBO scoring or health outcome modeling suggests inadequate due diligence on tradeoffs between minor industry savings and population health costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 6485 text",
-      "House Committee on the Judiciary referral (Dec 2025)",
-      "FDA nutrition labeling regulations, 21 CFR 101",
-      "Federal Register Vol. 81 (label compliance standards)"
-    ]
-  },
-  {
-    "id": 123,
-    "sourceId": "cg:119-SRES-526",
-    "sourceUrl": "https://www.congress.gov/bill/119/sres/526?format=json",
-    "branch": "Congress",
-    "date": "May 19",
-    "dateISO": "2026-05-19",
-    "title": "SRES 526: A resolution withholding the pay of Senators if a Government shutdown occurs.",
-    "score": 18,
-    "snapshot": "Senate resolution withholds Senator pay during government shutdowns, passed by voice vote May 2026. Applies only to Senators, not House members or other federal employees.",
-    "verdict": "// VERDICT: Symbolic accountability measure with minimal fiscal impact but establishes precedent that legislators share consequences of budget failures.",
-    "detail": "This resolution creates a direct financial consequence for Senators when they fail to fund the government, aligning their interests with timely budget passage. <strong>The measure scores positively on rule of law and cost distribution by making elected officials share shutdown pain rather than exempting themselves while staff and contractors suffer.</strong> However, measurable public benefit is limited—Senator salaries represent negligible federal spending, and wealthy members may be unaffected by temporary pay loss. Fiscal responsibility gains modest points since it marginally incentivizes budget discipline. The asymmetry (Senate only, not House) and lack of broader shutdown prevention mechanisms limit effectiveness. Still, it's a procedurally sound step toward accountability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2295, May 14, 2026",
-      "Senate Resolution 526, 119th Congress",
-      "27th Amendment (Congressional Compensation)"
-    ]
-  },
-  {
-    "id": 124,
-    "sourceId": "cg:119-HR-1346",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1346?format=json",
-    "branch": "Congress",
-    "date": "May 19",
-    "dateISO": "2026-05-19",
-    "title": "HR 1346: Nationwide Consumer and Fuel Retailer Choice Act of 2025",
-    "score": -18,
-    "snapshot": "HR 1346 prohibits states from banning internal combustion engine vehicle sales or mandating electric vehicle infrastructure at fuel retailers. The bill passed the House on May 14, 2026, and now awaits Senate committee review.",
-    "verdict": "// VERDICT: Federal preemption of state clean air authority with no demonstrated national benefit beyond protecting fossil fuel market share, imposing long-term environmental and health costs.",
-    "detail": "This legislation blocks states from implementing EV mandates or ICE vehicle sales bans, overriding California's waiver authority under the Clean Air Act. <strong>While framed as protecting consumer choice, it prevents states from addressing air quality emergencies and climate commitments already generating measurable health benefits in states like California, where ZEV standards have driven $10+ billion in health savings.</strong> The bill provides no federal alternative to achieve emissions reductions, effectively shifting environmental costs to future generations through continued fossil fuel dependence. Constitutional concerns arise from preempting traditionally state-level vehicle regulation without compelling federal interest. Zero fiscal analysis provided regarding increased healthcare costs from air pollution or climate adaptation expenses, estimated in hundreds of billions annually by EPA assessments.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Clean Air Act §209 waiver provisions",
-      "EPA air quality economic assessments",
-      "California Air Resources Board ZEV program data"
-    ]
-  },
-  {
-    "id": 125,
-    "sourceId": "cg:119-S-4511",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4511?format=json",
-    "branch": "Congress",
-    "date": "May 19",
-    "dateISO": "2026-05-19",
-    "title": "S 4511: A bill to amend the Internal Revenue Code of 1986 to exclude from gross income charitable distributions from certain employer-sponsored retirement plans, and for other purposes.",
-    "score": 18,
-    "snapshot": "S 4511 would allow tax-free charitable distributions from employer-sponsored retirement plans (401(k)s, 403(b)s), mirroring existing IRA rules that permit $100,000 annual qualified charitable distributions for individuals 70½+. Currently referred to Senate Finance Committee.",
-    "verdict": "// VERDICT: Modest tax incentive for charitable giving from workplace retirement accounts with limited revenue impact and administrative simplicity.",
-    "detail": "The bill extends qualified charitable distribution (QCD) treatment—already available for traditional IRAs since 2006—to employer-sponsored plans like 401(k)s and 403(b)s. <strong>This closes an inequity where IRA holders can make tax-advantaged charitable gifts while 401(k) participants cannot, despite similar retirement savings purposes.</strong> Revenue cost is likely modest (Joint Committee on Taxation estimated IRA QCDs at ~$2B annually; employer plan extension would add a fraction given participation patterns). The policy rewards charitable behavior without creating new loopholes, follows existing regulatory framework, and doesn't shift costs to non-participants. Primary beneficiaries are older Americans with workplace retirement savings and qualifying charities. Minor concern: incrementally reduces tax base without offsetting revenue, though scale is manageable within broader tax code.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4511, 119th Congress",
-      "Congressional Record, May 2026",
-      "Joint Committee on Taxation, IRA QCD estimates",
-      "Internal Revenue Code §408(d)(8)"
-    ]
-  },
-  {
-    "id": 126,
-    "sourceId": "cg:119-SRES-732",
-    "sourceUrl": "https://www.congress.gov/bill/119/sres/732?format=json",
-    "branch": "Congress",
-    "date": "May 19",
-    "dateISO": "2026-05-19",
-    "title": "SRES 732: A resolution expressing the sense of the Senate that over 25 years of real-world evidence and hundreds of peer-reviewed studies proving that mifepristone is safe and effective should be respected, and law and policy governing access to lifesaving, time-sensitive medication abortion care in the United States should be equitable, transparent, and based on the best available peer-reviewed evidence-based science.",
-    "score": -8,
-    "snapshot": "Non-binding Senate resolution affirming support for mifepristone access based on peer-reviewed evidence. Referred to committee; carries no enforcement mechanism or budgetary impact.",
-    "verdict": "// VERDICT: Symbolic statement with zero policy effect that restates one side of ongoing litigation without changing drug approval processes or access.",
-    "detail": "Senate resolutions expressing sense-of-chamber positions carry no legal force and create no appropriations or regulatory change. <strong>This resolution takes a position on mifepristone policy during active federal litigation without altering FDA authority, court decisions, or actual patient access.</strong> The 25-year evidence base for mifepristone safety is documented in medical literature, but the resolution mechanism bypasses substantive legislative process—no hearings on competing evidence, no cost-benefit analysis, no implementation plan. While affirming evidence-based policymaking is defensible in principle, doing so through non-binding resolutions scores poorly on fiscal responsibility (congressional time spent on symbolic votes) and rule of law (attempting to influence judicial matters through legislative theater rather than proper lawmaking). The resolution shifts no costs but creates no benefits either.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.Res. 732, 119th Congress",
-      "Congressional Record S2309-2310",
-      "Senate Resolution procedures, Congressional Research Service"
-    ]
-  },
-  {
-    "id": 127,
-    "sourceId": "cg:119-S-4521",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4521?format=json",
-    "branch": "Congress",
-    "date": "May 19",
-    "dateISO": "2026-05-19",
-    "title": "S 4521: Army Organic Industrial Base Mineral Partnerships Act of 2026",
-    "score": 22,
-    "snapshot": "S 4521 authorizes the Army to partner with domestic mineral producers to secure critical materials for munitions and defense manufacturing. The bill aims to reduce reliance on foreign supply chains for minerals essential to the organic industrial base.",
-    "verdict": "// VERDICT: Addresses documented supply chain vulnerabilities in defense manufacturing through domestic partnerships, with modest fiscal commitment and clear statutory authority.",
-    "detail": "The legislation responds to identified weaknesses in U.S. defense supply chains, particularly for minerals used in munitions production. <strong>By establishing formal partnerships between Army arsenals and domestic mineral producers, it creates dedicated pathways for materials that have historically been subject to foreign supply disruption.</strong> The approach uses existing procurement authority with incremental budget impact, avoiding large unfunded mandates. Constitutional process is followed through standard committee referral. Primary beneficiaries are defense readiness and domestic mineral producers, with costs distributed through normal defense appropriations. The bill lacks specific cost estimates at this stage, and actual effectiveness depends on implementation and whether partnerships yield reliable supply at competitive prices compared to foreign alternatives.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4521, 119th Congress",
-      "Senate Armed Services Committee referral, May 2026",
-      "DOD Supply Chain Risk Assessment reports",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 128,
-    "sourceId": "cg:119-S-4520",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4520?format=json",
-    "branch": "Congress",
-    "date": "May 19",
-    "dateISO": "2026-05-19",
-    "title": "S 4520: LNG Export Security Act",
-    "score": -18,
-    "snapshot": "S 4520 proposes restrictions on liquefied natural gas (LNG) exports, ostensibly for energy security. The bill has been referred to committee with no cost estimates or impact assessments publicly available as of May 2026.",
-    "verdict": "// VERDICT: Protectionist energy policy that likely raises domestic costs while undermining U.S. export commitments and trade relationships without demonstrated security benefit.",
-    "detail": "The LNG Export Security Act represents interventionist trade policy in a sector where the U.S. has become a global leader. <strong>Without published analysis demonstrating actual security threats from current export levels, the bill appears to prioritize domestic price controls over market efficiency and international obligations.</strong> LNG exports generate substantial economic benefits—supporting jobs, trade balances, and geopolitical leverage with European and Asian allies seeking alternatives to Russian energy. Artificial export restrictions typically create deadweight losses, discourage infrastructure investment, and invite retaliation. The bill scores poorly on measurable benefit (no documented security crisis), fiscal responsibility (forgone export revenue, potential trade war costs), and cost distribution (helps some industrial users while harming export-dependent regions and allied nations). It follows legislative process appropriately, earning partial rule-of-law credit, but the policy substance lacks evidentiary foundation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4520, 119th Congress",
-      "Congressional Record, May 2026",
-      "EIA Natural Gas Export Data",
-      "DOE LNG Export Authorization Database"
-    ]
-  },
-  {
-    "id": 129,
-    "sourceId": "cg:119-S-4472",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4472?format=json",
-    "branch": "Congress",
-    "date": "May 19",
-    "dateISO": "2026-05-19",
-    "title": "S 4472: Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026",
-    "score": 38,
-    "snapshot": "Reauthorizes FDA priority review voucher program for ALS therapies, incentivizing drug development for a rare disease affecting ~30,000 Americans with no cure and 2-5 year survival post-diagnosis.",
-    "verdict": "// VERDICT: Modest targeted incentive for rare disease research with established precedent, minimal fiscal impact, and clear public health rationale.",
-    "detail": "The bill extends a proven mechanism that grants pharmaceutical companies tradable priority review vouchers when they develop approved therapies for ALS (amyotrophic lateral sclerosis). <strong>This creates market incentives for research into a devastating disease with limited commercial appeal due to small patient population.</strong> The voucher program costs taxpayers minimally—companies pay FDA fees for expedited reviews—while potentially accelerating development of treatments that could extend lives and reduce long-term disability costs. Similar programs for rare pediatric diseases have yielded multiple drug approvals. The bill follows standard legislative process through Senate committee referral. Primary beneficiaries are ALS patients and families; pharmaceutical companies gain tradable vouchers (valued $80-150M historically) that may modestly increase drug costs system-wide, though impact is diffuse across healthcare spending.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.4472, 119th Congress",
-      "FDA Priority Review Voucher Program data",
-      "ALS Association epidemiology reports",
-      "Congressional Record, Apr 2026"
-    ]
-  },
-  {
-    "id": 130,
-    "sourceId": "cg:119-S-4512",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4512?format=json",
-    "branch": "Congress",
-    "date": "May 19",
-    "dateISO": "2026-05-19",
-    "title": "S 4512: Affordable Insulin Now Act of 2026",
-    "score": 38,
-    "snapshot": "S 4512 caps monthly out-of-pocket insulin costs at $35 for insured Americans. The bill is in early committee stage with no enacted provisions or cost estimates yet available.",
-    "verdict": "// VERDICT: Delivers direct financial relief to approximately 8 million insulin-dependent Americans while shifting costs to insurers and potentially premiums, pending fiscal analysis.",
-    "detail": "The Affordable Insulin Now Act addresses a documented crisis where insulin prices tripled between 2002-2022, forcing rationing that leads to preventable hospitalizations and deaths. <strong>Capping costs at $35 monthly provides immediate measurable relief to diabetics who previously paid $300-500 monthly out-of-pocket.</strong> The bill follows standard legislative process through committee review. Primary fiscal concern: without manufacturer price controls, insurers absorb costs likely passed to all premium-payers. Similar 2022 House version (HR 6833) had estimated 10-year cost of $18 billion per CBO, though concentrated benefits justify modest penalty on cost distribution. Lacks enforcement mechanisms for uninsured populations who face continued price gouging. The constitutional process is proper, but comprehensive fiscal scoring remains unavailable at this early stage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4512, 119th Congress",
-      "Congressional Record, May 2026",
-      "CBO Cost Estimate, HR 6833 (2022)",
-      "Senate HELP Committee"
     ]
   }
 ]
