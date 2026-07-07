@@ -1,5 +1,408 @@
 [
   {
+    "id": 639,
+    "sourceId": "cg:119-S-4784",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4784?format=json",
+    "branch": "Congress",
+    "date": "Jul 6",
+    "dateISO": "2026-07-06",
+    "title": "S 4784: An original bill to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+    "score": 18,
+    "snapshot": "The FY2027 National Defense Authorization Act authorizes military appropriations, personnel levels, and defense activities. As of June 24, 2026, the Senate has filed cloture on the motion to proceed, indicating the bill is in early procedural stages with final provisions not yet determined.",
+    "verdict": "// VERDICT: Authorization framework follows established annual defense budgeting process, but concrete scoring requires final appropriation levels, specific programs funded, and cost-benefit documentation unavailable at this procedural stage.",
+    "detail": "Annual defense authorization bills are constitutionally mandated processes that fund military readiness, personnel compensation, and national security infrastructure. <strong>Without final bill text showing specific appropriation levels, equipment procurement details, or amendments addressing waste reduction, this scoring reflects the procedural legitimacy of the authorization process rather than substantive policy outcomes.</strong> Historically, NDAAs score positively on rule of law (following Article I budget authority) and moderately on fiscal responsibility when they include oversight provisions and competitive contracting requirements. Public benefit depends heavily on whether funds prioritize documented threats versus legacy systems, and cost distribution hinges on whether the bill addresses long-term procurement liabilities versus immediate operational needs. Typical NDAAs in the $850B-$900B range face scrutiny over sustainment costs transferred to future taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4784, 119th Congress",
+      "Congressional Record S3193 (June 24, 2026)",
+      "Congressional Budget Office historical NDAA analyses",
+      "Article I Section 8, U.S. Constitution"
+    ]
+  },
+  {
+    "id": 640,
+    "sourceId": "cg:119-HRES-1415",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1415?format=json",
+    "branch": "Congress",
+    "date": "Jul 6",
+    "dateISO": "2026-07-06",
+    "title": "HRES 1415: Celebrating the country's history of church-state separation and recognizing the 250th anniversary of the founding of the United States.",
+    "score": -8,
+    "snapshot": "House resolution commemorating church-state separation on the nation's 250th anniversary. Referred to committee; no fiscal impact as symbolic resolution.",
+    "verdict": "// VERDICT: Ceremonial resolution with no policy effect or measurable impact on Americans' lives, representing committee time allocation without substantive governance outcomes.",
+    "detail": "HRES 1415 is a non-binding House resolution celebrating historical church-state separation principles during the semiquincentennial. <strong>Such resolutions carry zero legal force, create no programs, and impose no requirements on any entity.</strong> The measure scores negatively primarily on measurable benefit (no concrete policy change) and opportunity cost (congressional time on symbolic matters during a session where substantive fiscal and governance challenges require attention). It follows proper legislative process for resolutions and has negligible fiscal impact beyond staff hours. The resolution neither advances nor undermines constitutional principles; it simply commemorates them without effect. While historically appropriate for an anniversary year, it produces no documentable improvement in health, safety, finances, or freedoms for any American.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Rules on Resolutions",
+      "Congressional Research Service: Legislative Process"
+    ]
+  },
+  {
+    "id": 641,
+    "sourceId": "cg:119-HRES-1414",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1414?format=json",
+    "branch": "Congress",
+    "date": "Jul 6",
+    "dateISO": "2026-07-06",
+    "title": "HRES 1414: Providing for consideration of the bill (H.R. 1589) to authorize the cancellation of removal and adjustment of status of certain aliens, and for other purposes.",
+    "score": -15,
+    "snapshot": "House Resolution 1414 sets procedural rules for floor debate on H.R. 1589, which would authorize cancellation of deportation and status adjustment for certain undocumented immigrants. The resolution itself determines debate time and amendment processes but does not enact substantive policy.",
+    "verdict": "// VERDICT: A procedural vehicle that enables floor consideration of immigration relief; scoring reflects underlying policy's uncertain fiscal impact, incomplete rule-of-law framework, and lack of concrete implementation metrics.",
+    "detail": "This resolution is a procedural rule that governs debate on substantive immigration legislation. While the underlying bill (H.R. 1589) addresses a humanitarian concern—providing legal status pathways for certain aliens—the resolution itself merits evaluation based on what it enables. <strong>Without CBO scoring, benefit-cost quantification, or clear eligibility criteria visible in the resolution text, measurable public benefit remains speculative.</strong> Fiscal responsibility is penalized due to unknown costs of status adjustments, potential increased federal benefit eligibility, and absent offsetting revenue. Rule of law receives mixed scoring: following proper House procedure earns points, but circumventing comprehensive immigration reform through piecemeal authorization raises constitutional concerns about executive vs. legislative authority. Cost distribution is negative because expanded legal status typically shifts enforcement and benefit costs to federal/state budgets without identified funding, while concentrated benefits accrue to specific alien populations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jul 2026",
+      "House Rules Committee referral",
+      "H.R. 1589 bill text (119th Congress)"
+    ]
+  },
+  {
+    "id": 642,
+    "sourceId": "cg:119-HRES-1416",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1416?format=json",
+    "branch": "Congress",
+    "date": "Jul 6",
+    "dateISO": "2026-07-06",
+    "title": "HRES 1416: Reaffirming the consent of the governed as the United States marks 250 years of independence.",
+    "score": -8,
+    "snapshot": "Ceremonial resolution marking America's 250th anniversary by reaffirming principles of consent of the governed. No policy changes, appropriations, or enforcement mechanisms.",
+    "verdict": "// VERDICT: Symbolic legislative action with zero measurable impact on citizen welfare, consuming congressional resources without producing tangible outcomes.",
+    "detail": "Congressional resolutions like HRES 1416 represent legislative theater—formal statements that express sentiments without legal force or practical consequence. While commemorating national milestones serves cultural purposes, <strong>dedicating committee time and taxpayer-funded staff resources to non-binding declarations diverts capacity from substantive legislation</strong>. The referral to Natural Resources committee appears procedurially arbitrary for a historical commemoration. No Americans become safer, wealthier, or freer through this action. The resolution follows proper House procedures but exemplifies opportunity cost in governance: hours spent drafting, reviewing, and processing symbolic text that could address concrete policy challenges. Zero fiscal impact beyond marginal administrative costs, but also zero public benefit beyond rhetorical satisfaction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Rules and Manual, 119th Congress",
+      "Congressional Research Service: Legislative Resolutions"
+    ]
+  },
+  {
+    "id": 636,
+    "sourceId": "cg:119-HR-5709",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5709?format=json",
+    "branch": "Congress",
+    "date": "Jul 5",
+    "dateISO": "2026-07-05",
+    "title": "HR 5709: TAAP Act",
+    "score": -18,
+    "snapshot": "HR 5709 (TAAP Act) was referred to the House Committee on Natural Resources in October 2025 and has not progressed further. Without enacted provisions or measurable implementation, the bill remains in preliminary legislative stage with no documented public impact.",
+    "verdict": "// VERDICT: Incomplete legislative action prevents assessment of concrete outcomes; scored on procedural stagnation and absence of documented benefits or costs.",
+    "detail": "The TAAP Act remains stalled in committee nine months after referral, demonstrating legislative inaction rather than tangible policy impact. <strong>Without bill text, CBO scoring, or enacted provisions, no measurable public benefit can be documented.</strong> The lengthy committee hold suggests either controversial provisions requiring negotiation or low legislative priority. Fiscal responsibility cannot be evaluated absent cost estimates. The bill follows standard legislative process (committee referral), but the extended delay without floor action or amendment activity indicates potential procedural obstacles. No cost distribution analysis is possible given the lack of implementation details or affected populations identification.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2025",
+      "House Committee on Natural Resources referral log",
+      "Congress.gov HR 5709 status"
+    ]
+  },
+  {
+    "id": 637,
+    "sourceId": "cg:119-S-4846",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4846?format=json",
+    "branch": "Congress",
+    "date": "Jul 5",
+    "dateISO": "2026-07-05",
+    "title": "S 4846: TAAP Act",
+    "score": -18,
+    "snapshot": "The TAAP Act (S 4846) was introduced in the Senate on June 22, 2026, and referred to the Committee on Energy and Natural Resources. No text, cost estimate, or substantive details are publicly available as the bill remains in early committee review.",
+    "verdict": "// VERDICT: Insufficient information exists to evaluate measurable impacts, costs, or benefits; penalized for lack of transparency at this stage of the legislative process.",
+    "detail": "S 4846 has not advanced beyond initial committee referral, meaning no CBO score, markup, or detailed provisions are available for analysis. <strong>Without bill text or supporting documentation, it is impossible to assess whether the proposal delivers measurable public benefit, adheres to fiscal responsibility, follows proper constitutional process beyond referral, or distributes costs fairly.</strong> The score reflects this opacity: moderate penalties across all criteria for lack of substantive evidence. Bills at this stage often serve as placeholders for negotiations, but transparency requires timely publication of objectives and anticipated impacts. Until text and analysis emerge, this legislation cannot be scored favorably on any objective metric.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Information System, Jun 2026",
+      "Committee on Energy and Natural Resources referral record",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 638,
+    "sourceId": "cg:119-HR-9372",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9372?format=json",
+    "branch": "Congress",
+    "date": "Jul 5",
+    "dateISO": "2026-07-05",
+    "title": "HR 9372: Data Infrastructure Energy Measurement and Standards Act",
+    "score": -8,
+    "snapshot": "HR 9372 requires federal data centers and large private AI facilities to measure and publicly report energy consumption using standardized metrics. The bill mandates DOE development of measurement standards within 18 months and applies transparency requirements to facilities using over 10 megawatts.",
+    "verdict": "// VERDICT: Creates regulatory overhead and compliance costs while providing limited actionable public benefit, as energy transparency alone does not reduce consumption or address grid capacity constraints.",
+    "detail": "The bill establishes a framework for energy measurement without mechanisms to actually constrain or optimize data center energy use. <strong>While transparency can inform policy, the mandatory reporting infrastructure imposes costs on private operators and federal agencies without demonstrated efficiency gains or environmental outcomes.</strong> The 10-megawatt threshold captures major facilities but creates competitive disadvantages for domestic operators versus international competitors facing no similar requirements. The 18-month DOE timeline for standards development adds bureaucratic process costs. No funding mechanism is specified for federal compliance, risking unfunded mandate dynamics. The bill scores positively on rule of law for following standard legislative process but fails fiscal responsibility due to compliance costs exceeding likely benefits, and cost distribution concerns as smaller operators may face proportionally higher burdens.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record H4134, June 2026",
+      "DOE Data Center Energy Standards (existing framework)",
+      "Federal Register reporting requirements"
+    ]
+  },
+  {
+    "id": 633,
+    "sourceId": "cg:119-HR-7148",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7148?format=json",
+    "branch": "Congress",
+    "date": "Jul 4",
+    "dateISO": "2026-07-04",
+    "title": "HR 7148: Consolidated Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "HR 7148 is a massive omnibus spending bill funding federal operations for FY2026. Passed with bipartisan support but contained numerous unrelated provisions, earmarks, and last-minute additions with limited review time.",
+    "verdict": "// VERDICT: The bill maintained government operations but perpetuated deficit spending patterns, with process shortcuts undermining legislative transparency and fiscal discipline.",
+    "detail": "The Consolidated Appropriations Act represents Congress's standard omnibus approach—bundling all twelve appropriations bills into one massive package. While preventing a government shutdown qualifies as basic functionality, the process exhibited significant flaws. <strong>Members received the 2,000+ page text mere hours before votes, making informed review impossible.</strong> The bill increased discretionary spending by approximately 3% over FY2025 levels without corresponding revenue increases, adding to federal deficits projected to exceed $1.8 trillion annually. It included hundreds of earmarks and policy riders unrelated to appropriations, bypassing normal committee deliberation. The measure scores positively for maintaining essential government services and avoiding shutdown costs, but loses substantial points for fiscal irresponsibility (no offset for new spending), degraded legislative process (inadequate review time), and intergenerational cost-shifting (deficit financing).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-75",
+      "Congressional Record, Feb 2026",
+      "CBO Budget Outlook FY2026",
+      "House Appropriations Committee"
+    ]
+  },
+  {
+    "id": 634,
+    "sourceId": "cg:119-HRES-1175",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1175?format=json",
+    "branch": "Congress",
+    "date": "Jul 4",
+    "dateISO": "2026-07-04",
+    "title": "HRES 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through October 20, 2027, and for other purposes.",
+    "score": -18,
+    "snapshot": "House resolution enabling floor consideration of H.R. 8035, which extends FISA Section 702 surveillance authorities through October 2027. The procedural rule passed, allowing debate on warrantless electronic surveillance powers.",
+    "verdict": "// VERDICT: Extends controversial surveillance authority without requiring warrants for Americans' communications swept up in foreign intelligence collection, perpetuating documented Fourth Amendment concerns.",
+    "detail": "This procedural resolution cleared the path for extending Section 702 of FISA, which permits warrantless collection of communications involving foreign targets but routinely captures Americans' data. <strong>Civil liberties groups and Inspector General reports have documented thousands of improper FBI queries of this database, accessing Americans' communications without judicial oversight.</strong> While proponents cite terrorism prevention value, the extension occurred without meaningful reform to require warrants when searching for U.S. persons' data. The 16-month extension to October 2027 suggests legislative punt rather than substantive deliberation on balancing security needs against constitutional protections. The procedural nature of this resolution facilitated continuation of a program with documented abuses affecting citizens' privacy rights.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2026",
+      "FISA Amendments Act of 2008",
+      "DOJ Inspector General FISA Reports",
+      "Privacy and Civil Liberties Oversight Board"
+    ]
+  },
+  {
+    "id": 635,
+    "sourceId": "cg:119-HR-7972",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7972?format=json",
+    "branch": "Congress",
+    "date": "Jul 4",
+    "dateISO": "2026-07-04",
+    "title": "HR 7972: Taxpayer Workforce Modernization Act",
+    "score": -18,
+    "snapshot": "HR 7972 advances IRS workforce modernization with technology upgrades and hiring authority expansions. Ordered reported from committee on party-line 24-16 vote as of July 1, 2026.",
+    "verdict": "// VERDICT: Modernization goal reasonable but party-line passage and uncertain cost-benefit ratio suggest implementation risks outweigh documented benefits at this stage.",
+    "detail": "The bill authorizes IRS workforce expansion and technology investments without clear budgetary constraints or performance metrics visible in available legislative text. <strong>While modernizing tax administration could improve efficiency and close compliance gaps, the 24-16 committee vote along party lines and lack of CBO scoring at this stage raises fiscal responsibility concerns.</strong> The \"substitute\" nature suggests significant amendments from original text, complicating assessment of actual provisions. Historical IRS modernization efforts have shown mixed results, with technology projects frequently over budget. Without documented cost estimates, projected revenue gains, or safeguards against mission creep, the bill scores negatively on fiscal discipline and measurable outcomes despite potentially valid policy objectives. Constitutional process appears followed through regular committee procedure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Committee Report HR 7972",
+      "GAO reports on IRS modernization (2020-2025)"
+    ]
+  },
+  {
     "id": 623,
     "sourceId": "cg:119-HRES-161",
     "sourceUrl": "https://www.congress.gov/bill/119/hres/161?format=json",
@@ -19885,413 +20288,6 @@
       "Atkins v. Virginia, 536 U.S. 304 (2002)",
       "28 U.S.C. §2254(d)",
       "Hall v. Florida, 572 U.S. 701 (2014)"
-    ]
-  },
-  {
-    "id": 121,
-    "sourceId": "cl:11330193",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10862763/havana-docks-corp-v-royal-caribbean-cruises-ltd/",
-    "branch": "Courts",
-    "date": "May 21",
-    "dateISO": "2026-05-21",
-    "title": "Opinion 11330193",
-    "score": 18,
-    "snapshot": "Supreme Court rules 8–1 that foreign cruise lines using Cuban docks built by an expropriated U.S. company from 2016–2019 are liable under Title III of the 1996 Cuban Liberty Act. Havana Docks Corp. awarded over $100M per cruise line.",
-    "verdict": "// VERDICT: The decision enforces property rights established by statute and allows partial compensation for a 1959 expropriation, but creates diplomatic friction and may disincentivize commercial normalization with Cuba.",
-    "detail": "Title III of the Cuban Liberty and Democratic Solidarity Act (1996) allows U.S. nationals to sue entities that knowingly traffic in property confiscated by Cuba after 1959. The statute was suspended until 2019. <strong>The Court's interpretation that \"property confiscated\" includes physical assets—not just the original legal interest—extends liability decades beyond the 2004 expiration of Havana Docks' concession.</strong> This ruling provides partial restitution for certified losses but complicates future U.S.-Cuba relations and may discourage third-party commerce with Cuban ports. The legal process was followed, but the practical effect may inhibit diplomatic progress and impose costs on cruise customers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion 11330193, May 21, 2026",
-      "Cuban Liberty and Democratic Solidarity Act (22 U.S.C. §6021 et seq.)",
-      "Foreign Claims Settlement Commission certified losses, 1960s",
-      "Banco Nacional de Cuba v. Sabbatino, 376 U.S. 398 (1963)"
-    ]
-  },
-  {
-    "id": 122,
-    "sourceId": "cl:11330192",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10862762/m-k-employee-solutions-inc-v-trustees-of-iam-nat-pension/",
-    "branch": "Courts",
-    "date": "May 21",
-    "dateISO": "2026-05-21",
-    "title": "Opinion 11330192",
-    "score": 38,
-    "snapshot": "Supreme Court ruled that ERISA does not require actuarial assumptions for pension withdrawal liability to be selected by the measurement date. The decision allows plan administrators to use more current data when calculating what withdrawing employers owe to underfunded pension plans.",
-    "verdict": "// VERDICT: This ruling advances fiscal accuracy in pension funding by allowing actuaries to use best available data, reducing errors in calculating employer obligations while following established statutory interpretation.",
-    "detail": "The Court resolved a circuit split on timing rules for pension liability calculations under ERISA. By permitting actuaries to select discount rates and other assumptions after the statutory measurement date, the decision enables more accurate valuations of unfunded pension obligations. <strong>The ruling prevents administrators from being locked into outdated assumptions that could either overcharge or undercharge withdrawing employers, improving the financial integrity of multiemployer pension systems.</strong> The decision follows standard canons of statutory construction—Congress set explicit deadlines elsewhere in ERISA but omitted them here, and the statute's \"best estimate\" language supports using current data. No new costs are imposed on taxpayers or plan participants. The ruling clarifies a technical but important procedural question within existing law, reducing litigation uncertainty for thousands of multiemployer pension plans covering millions of workers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion 23-1209, May 21, 2026",
-      "29 U.S.C. §§1391, 1393 (ERISA)",
-      "87 Fed. Reg. 62317",
-      "Romag Fasteners v. Fossil Group, 590 U.S. 212"
-    ]
-  },
-  {
-    "id": 134,
-    "sourceId": "cg:119-S-4537",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4537?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "S 4537: A bill to repeal the Military Selective Service Act.",
-    "score": -8,
-    "snapshot": "S 4537 would eliminate mandatory Selective Service registration for men aged 18-25, dismantling the draft infrastructure maintained since 1940. The bill has been referred to Armed Services Committee with no cost estimate or impact analysis yet available.",
-    "verdict": "// VERDICT: Eliminating draft registration infrastructure without replacement mechanisms creates national security vulnerabilities while providing minimal measurable benefit to registrants who face no actual conscription risk under current policy.",
-    "detail": "The bill scores poorly on measurable public benefit (-4) because Selective Service registration imposes minimal burden—a one-time online form—while maintaining mobilization capability for existential threats. <strong>The system costs roughly $26 million annually but provides insurance against catastrophic scenarios where volunteer forces prove insufficient.</strong> Fiscal responsibility scores slightly positive (+2) given the modest savings, though this ignores the insurance value of maintaining rapid mobilization infrastructure. Rule of law scores neutral (0) as Congress has clear authority to repeal its own statute, though no hearings or military readiness assessment are evident in the record. Cost distribution scores negatively (-6) because the burden of future military crises would fall on whoever serves when volunteer systems fail, potentially creating inequitable conscription if infrastructure must be rebuilt during emergency. The bill appears to conflate peacetime registration with actual conscription risk.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4537, 119th Congress",
-      "Selective Service System Annual Report FY2025",
-      "Congressional Record, May 2026",
-      "Senate Armed Services Committee referral"
-    ]
-  },
-  {
-    "id": 135,
-    "sourceId": "cg:119-S-4493",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4493?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "S 4493: A bill to clarify the use of direct deposit for contributions to ABLE programs.",
-    "score": 8,
-    "snapshot": "S 4493 clarifies that direct deposit mechanisms can be used for contributions to ABLE accounts, tax-advantaged savings accounts for individuals with disabilities. The bill removes administrative ambiguity without creating new programs or mandates.",
-    "verdict": "// VERDICT: Minor procedural improvement that reduces friction for disabled savers and families without measurable fiscal cost.",
-    "detail": "ABLE accounts allow individuals with disabilities to save up to $100,000 without losing federal benefits eligibility. This bill clarifies that employers and benefit administrators can use direct deposit to fund these accounts, removing technical barriers that previously required manual transfers or workarounds. <strong>The change has zero federal cost while marginally improving access to existing tax-advantaged savings for approximately 150,000 current ABLE account holders.</strong> The bill does not expand benefits or create entitlements, merely streamlines contribution logistics. Constitutional process followed through normal committee referral. Benefits accrue exclusively to individuals with disabilities and their families, a vulnerable population that bears no new costs from this clarification.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4493, 119th Congress",
-      "Congressional Record, May 2026",
-      "IRS Publication 907 (ABLE Accounts)",
-      "National Disability Institute ABLE Program Data"
-    ]
-  },
-  {
-    "id": 136,
-    "sourceId": "cg:119-S-4508",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4508?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "S 4508: BLUE Act",
-    "score": -18,
-    "snapshot": "The BLUE Act (S. 4508) was introduced in the Senate on May 13, 2026, and referred to the Judiciary Committee. Specific provisions remain undisclosed in the provided information, preventing assessment of concrete impacts.",
-    "verdict": "// VERDICT: Insufficient information to evaluate actual policy effects; score reflects lack of transparency and absence of documented public benefit or fiscal analysis at this early legislative stage.",
-    "detail": "Without bill text or summary, this legislation cannot be meaningfully evaluated against evidence-based criteria. The referral to Judiciary suggests potential law enforcement or judicial system focus, but <strong>speculation about intent cannot substitute for documented outcomes, cost estimates, or constitutional analysis</strong>. Early-stage bills frequently stall or undergo substantial revision, making premature scoring problematic. The negative score reflects the absence of verifiable public benefit data, no published fiscal analysis, and insufficient information to assess legal compliance or distributional effects. As the bill advances and CBO scores, committee reports, or public hearings emerge, a substantive evaluation becomes possible.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 13, 2026",
-      "Senate Judiciary Committee referral",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 137,
-    "sourceId": "cg:119-S-4517",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4517?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "S 4517: Rural Depositories Revitalization Study Act",
-    "score": -8,
-    "snapshot": "S 4517 authorizes a federal study on revitalizing rural bank branches and credit unions, with no implementation mandate or funding specified. The bill remains in committee with no cost estimate available.",
-    "verdict": "// VERDICT: Creates another federal study without demonstrable pathway to action, adding administrative burden while rural banking continues declining.",
-    "detail": "This legislation directs a study of rural depository institutions without appropriating funds, establishing timelines, or requiring specific remedial actions. <strong>Studies without implementation mechanisms rarely produce measurable outcomes while consuming agency resources and delaying potential solutions.</strong> The bill follows proper legislative process through committee referral, but addresses a real problem—rural banking deserts—with the least effective tool: more research. Existing GAO and Federal Reserve reports already document rural banking challenges extensively. The measure imposes minimal fiscal cost but equally minimal benefit, representing congressional activity without accountability for results. No cost-benefit analysis justifies another study over direct intervention, regulatory reform, or targeted incentives that could actually preserve rural financial access.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4517, 119th Congress",
-      "Congressional Record, May 2026",
-      "Federal Reserve rural banking reports"
-    ]
-  },
-  {
-    "id": 138,
-    "sourceId": "cg:119-HR-5625",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5625?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "HR 5625: Cashless Bail Reporting Act",
-    "score": -18,
-    "snapshot": "HR 5625 requires jurisdictions with cashless bail systems to report crime and recidivism data to DOJ. The bill mandates compliance within 180 days and includes provisions for withholding federal justice funding for non-compliance.",
-    "verdict": "// VERDICT: Creates reporting requirements without addressing underlying bail reform outcomes or providing implementation funding, while threatening punitive funding cuts that could harm public safety infrastructure.",
-    "detail": "The Cashless Bail Reporting Act compels data collection on jurisdictions using cashless bail systems, ostensibly to evaluate their effectiveness. <strong>However, the legislation provides no funding for compliance, imposes aggressive timelines, and threatens to withhold federal justice grants from jurisdictions that fail to meet reporting standards.</strong> This approach penalizes local criminal justice systems—many already underfunded—for administrative non-compliance rather than actual public safety outcomes. The bill does not establish baseline metrics, fund data infrastructure improvements, or account for varying jurisdictional capacities. While transparency in bail reform is valuable, weaponizing federal funding against local systems without corresponding support creates perverse incentives and may undermine both bail reform experiments and traditional public safety operations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 5625, 119th Congress",
-      "Congressional Record, May 2026",
-      "Federal justice grant programs (DOJ)"
-    ]
-  },
-  {
-    "id": 139,
-    "sourceId": "cg:119-S-4536",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4536?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "S 4536: Protecting America's Drinking Water from Extreme Temperatures Act of 2026",
-    "score": -8,
-    "snapshot": "S 4536 proposes federal standards to protect drinking water infrastructure from extreme temperature events. The bill has been referred to committee with no CBO score, cost estimate, or implementation timeline yet available.",
-    "verdict": "// VERDICT: Addresses a legitimate infrastructure vulnerability but lacks fiscal analysis, defined standards, or evidence of cost-effectiveness compared to existing state programs.",
-    "detail": "The bill identifies climate-related stress on water systems as a growing concern, particularly freeze events in southern states and heat stress on aging pipes nationwide. However, at committee referral stage, critical details remain undefined: what constitutes 'extreme temperatures,' what specific upgrades are mandated, and who bears implementation costs. <strong>Without a CBO score or engineering cost estimates, taxpayers cannot assess whether federal mandates justify displacing state and local water management decisions.</strong> Many water systems already maintain temperature resilience through existing EPA Safe Drinking Water Act requirements. The bill may create unfunded mandates on municipalities or duplicate existing regulatory frameworks. Measurable benefit depends entirely on implementation details not yet specified. Fiscal responsibility cannot be assessed without cost projections. The legislative process is being followed appropriately, but premature scoring favors caution given the pattern of well-intentioned infrastructure bills creating cost overruns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4536, 119th Congress",
-      "EPA Safe Drinking Water Act regulations",
-      "Congressional Record, May 2026",
-      "American Water Works Association infrastructure reports"
-    ]
-  },
-  {
-    "id": 140,
-    "sourceId": "cg:119-S-4516",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4516?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "S 4516: Respect Tribal IDs Act of 2026",
-    "score": 32,
-    "snapshot": "S 4516 would require federal agencies to accept tribal government-issued identification cards for the same purposes as state-issued IDs. The bill addresses a documented barrier faced by approximately 2.9 million Native Americans, many living on reservations where obtaining state IDs is logistically difficult.",
-    "verdict": "// VERDICT: Removes arbitrary administrative barriers affecting Native Americans at minimal cost while respecting tribal sovereignty and improving access to federal services.",
-    "detail": "The Respect Tribal IDs Act scores strongly on public benefit and rule of law. <strong>Native Americans currently face documented difficulties accessing federal services, boarding flights, and conducting routine transactions because many agencies do not accept tribal IDs despite accepting state IDs.</strong> The measure imposes minimal fiscal burden—primarily training and system updates—while delivering concrete benefits to a population with disproportionate barriers to state ID acquisition due to geographic isolation, poverty, and lack of DMV access on reservations. The bill follows proper legislative process and aligns with federal trust responsibilities to tribes. Cost distribution is equitable, with small administrative costs justified by reducing discriminatory barriers. The primary limitation is implementation timeframe uncertainty.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4516, 119th Congress",
-      "Congressional Record, May 2026",
-      "Census Bureau tribal demographic data",
-      "Senate Judiciary Committee referral"
-    ]
-  },
-  {
-    "id": 141,
-    "sourceId": "cg:119-HR-8856",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8856?format=json",
-    "branch": "Congress",
-    "date": "May 20",
-    "dateISO": "2026-05-20",
-    "title": "HR 8856: To give priority consideration to units of local government that provide gang affiliation information in reports to the Federal Bureau of Investigation for the purpose of Byrne-JAG grants, and for other purposes.",
-    "score": -18,
-    "snapshot": "HR 8856 would prioritize Byrne-JAG grant funding for local jurisdictions that report gang affiliation data to the FBI. The bill is in committee with no cost estimate available.",
-    "verdict": "// VERDICT: Prioritizes grant funding based on gang data reporting without addressing civil liberties concerns, evidentiary standards for gang designation, or demonstrated crime reduction effectiveness.",
-    "detail": "The bill creates a funding preference mechanism that incentivizes local law enforcement to collect and share gang affiliation information without establishing safeguards against misidentification or discriminatory profiling. <strong>While gang intelligence sharing can support legitimate law enforcement objectives, the absence of due process protections, accuracy standards, or independent oversight creates risk of constitutional violations and resource misallocation.</strong> No evidence is provided that gang database reporting correlates with actual crime reduction outcomes. The reallocation of existing Byrne-JAG funds (approximately $500M annually) based on data submission rather than demonstrated need or effectiveness undermines evidence-based grant allocation. The bill lacks definitions for gang affiliation criteria, appeals processes for individuals incorrectly identified, or data retention limits—gaps that have produced civil rights litigation in similar state programs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "DOJ Byrne-JAG Program Guidelines",
-      "FBI National Gang Intelligence Center reports",
-      "ACLU gang database civil liberties analysis"
     ]
   }
 ]
