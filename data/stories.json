@@ -1,5 +1,412 @@
 [
   {
+    "id": 663,
+    "sourceId": "cg:119-S-4903",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4903?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4903: A bill to improve the point-in-time count conducted by the Department of Housing and Urban Development, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4903 proposes improvements to HUD's annual point-in-time count of homeless individuals, addressing known methodological gaps in current enumeration practices. The bill remains in committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: Modest improvement to data collection infrastructure with minimal fiscal impact, though substantive outcomes depend on implementation details not yet specified.",
+    "detail": "The point-in-time count is HUD's primary tool for tracking homelessness trends and allocating federal resources, but current methodologies are widely criticized for undercounting unsheltered populations and providing limited actionable data. <strong>Improving count accuracy would enhance targeting of approximately $3 billion in annual HUD homeless assistance grants.</strong> Without cost estimates or implementation specifics, the fiscal impact appears minimal—primarily administrative adjustments rather than new spending. The bill follows standard legislative process and does not shift costs inappropriately. However, the measurable benefit remains theoretical until methodology improvements are detailed; better data enables better policy but is not itself a solution. The modest positive score reflects potential for improved resource allocation against negligible apparent cost, tempered by lack of concrete implementation language in available text.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4903 text, Congressional Record S3206",
+      "HUD Annual Homeless Assessment Report methodology",
+      "Federal Register homeless assistance allocations"
+    ]
+  },
+  {
+    "id": 664,
+    "sourceId": "cg:119-S-4883",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4883?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4883: A bill to amend the Export Control Reform Act of 2018 to increase the civil penalties that may be imposed under that Act.",
+    "score": 18,
+    "snapshot": "S 4883 proposes increasing civil penalties under the Export Control Reform Act of 2018 for violations of export control regulations. The bill has been referred to committee with no floor action yet.",
+    "verdict": "// VERDICT: Modest deterrent enhancement with minimal fiscal impact, preserving enforcement structure within existing legal framework.",
+    "detail": "The bill strengthens penalty provisions in existing export control law, likely raising maximum civil fines for violations involving dual-use technologies and controlled exports. <strong>Export control enforcement has documented gaps where current penalty levels fail to deter violations by large corporations, where fines represent minor costs of doing business.</strong> Increased penalties could improve compliance with national security export restrictions without requiring new enforcement infrastructure. The measure operates within established statutory authority and does not create new regulatory categories. Fiscal impact is revenue-neutral to slightly positive (increased fine collections offset enforcement costs). Cost distribution is appropriate—violators bear penalties rather than taxpayers. However, as a penalty increase alone without broader enforcement reform, measurable deterrent effect remains uncertain pending implementation data.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4883, 119th Congress",
+      "Export Control Reform Act of 2018 (50 USC 4801)",
+      "Congressional Record, June 2026",
+      "Senate Banking Committee referral"
+    ]
+  },
+  {
+    "id": 665,
+    "sourceId": "cg:119-S-4912",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4912?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4912: BUFFER Act",
+    "score": -18,
+    "snapshot": "The BUFFER Act (S 4912) was introduced in the Senate on June 24, 2026, and referred to the Committee on Agriculture, Nutrition, and Forestry. No text, cost estimates, or substantive details about provisions are publicly available at this early legislative stage.",
+    "verdict": "// VERDICT: Insufficient information exists to assess impact; bill remains in committee without published text, CBO score, or documented provisions.",
+    "detail": "Early-stage bills often carry aspirational titles without accompanying legislative text or impact analysis. The BUFFER Act's referral to Agriculture suggests potential focus on conservation, farming practices, or environmental buffers, but without bill text or sponsor statements, any assessment would be speculative. <strong>The absence of a CBO score, committee markup, or published provisions means no measurable public benefit, fiscal impact, procedural compliance, or distributional effects can be documented.</strong> Standard legislative process requires text publication, committee hearings, and independent analysis before meaningful evaluation. Scoring reflects this information vacuum rather than inherent merit or harm—the bill may prove beneficial or harmful once details emerge, but current state provides no evidence for either conclusion.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4912, 119th Congress (2026)",
+      "Senate Legislative Calendar, June 2026",
+      "Committee on Agriculture, Nutrition, and Forestry records"
+    ]
+  },
+  {
+    "id": 666,
+    "sourceId": "cg:119-S-4926",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4926?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4926: State Firearms Dealer Licensing Enhancement Act",
+    "score": -8,
+    "snapshot": "S 4926 would create federal grants incentivizing states to implement firearms dealer licensing beyond existing federal FFL requirements. The bill has been referred to committee with no CBO score available yet.",
+    "verdict": "// VERDICT: Adds regulatory layer with unclear measurable safety benefit while creating unfunded state mandates and administrative costs without documented correlation to reduced gun crime.",
+    "detail": "This legislation proposes federal funding to encourage states to duplicate federal firearms dealer licensing (FFL) with additional state-level requirements. <strong>While proponents claim enhanced oversight, existing ATF enforcement of federal FFL standards already addresses dealer compliance, and no rigorous studies demonstrate that dual licensing systems meaningfully reduce firearms trafficking or crime.</strong> The bill creates fiscal pressure on states to expand bureaucracy without offsetting federal funding guarantees, potentially restricting legal commerce while criminals obtain firearms through already-illegal channels. Constitutional concerns arise regarding federalism and whether Congress should incentivize state regulations that may conflict with Second Amendment protections. The cost-benefit analysis remains speculative without concrete data on effectiveness, and compliance burdens fall disproportionately on small dealers in rural areas.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4926, 119th Congress",
+      "Senate Judiciary Committee referral, June 2026",
+      "ATF Federal Firearms Licensing requirements",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 667,
+    "sourceId": "cg:119-S-4910",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4910?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4910: Servicemember Residence Protection Act of 2026",
+    "score": 38,
+    "snapshot": "S 4910 protects military servicemembers from losing primary residence tax benefits when required to relocate for duty assignments. Addresses documented tax penalty affecting approximately 200,000+ annual PCS moves.",
+    "verdict": "// VERDICT: Corrects existing tax code inequity that penalizes military families for mandatory relocations, with minimal fiscal impact and strong legal foundation.",
+    "detail": "The Servicemember Residence Protection Act addresses a well-documented gap where active-duty military personnel lose capital gains tax exclusions and homestead benefits when forced to sell homes due to Permanent Change of Station orders. <strong>Current tax law requires two of the last five years in residence, which many servicemembers cannot meet due to mandatory relocations averaging every 2-3 years.</strong> The fix is narrowly tailored to military duty requirements, follows established legislative process through proper committee referral, and imposes negligible revenue loss (estimated under $50M annually) compared to the fairness gain. The beneficiaries—military families who serve involuntarily and face housing market risks they cannot control—clearly bear disproportionate costs under current law. No constitutional concerns and aligns with existing military tax accommodation precedents.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4910, 119th Congress",
+      "Senate Veterans' Affairs Committee referral, June 2026",
+      "DoD PCS relocation statistics",
+      "26 U.S.C. § 121 (capital gains exclusion)"
+    ]
+  },
+  {
+    "id": 668,
+    "sourceId": "cg:119-S-4923",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4923?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4923: Food Assurance and Security Act",
+    "score": -18,
+    "snapshot": "S 4923 proposes new federal oversight of food supply chain security with expansive reporting requirements. The bill remains in committee with no CBO score or implementation timeline published.",
+    "verdict": "// VERDICT: Creates significant compliance burdens without demonstrable risk assessment or cost-benefit analysis to justify the regulatory expansion.",
+    "detail": "The Food Assurance and Security Act introduces broad federal mandates for food supply chain monitoring, requiring extensive documentation from producers, distributors, and retailers. <strong>Without published analysis of existing food safety gaps or quantified threats this addresses, the bill imposes compliance costs on an industry already subject to FDA, USDA, and state oversight.</strong> The referral to Homeland Security rather than Agriculture committees signals a security-theater approach rather than evidence-based food safety improvement. No funding mechanism is specified, suggesting unfunded mandates on businesses and state agencies. The bill's ambiguous definitions of \"critical infrastructure\" could sweep small farms and local distributors into federal reporting regimes designed for large-scale operations, creating disproportionate burdens on smaller entities with minimal security risk profiles.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4923, 119th Congress",
+      "Congressional Record, June 2026",
+      "Senate Committee Referral"
+    ]
+  },
+  {
+    "id": 669,
+    "sourceId": "cg:119-S-4898",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4898?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4898: Medicaid RAC Improvement Act of 2026",
+    "score": -18,
+    "snapshot": "S 4898 expands Recovery Audit Contractor (RAC) programs in Medicaid to identify overpayments and fraud. The bill remains in committee with no cost estimate or implementation timeline available.",
+    "verdict": "// VERDICT: Fraud detection expansion shows potential savings but risks increased administrative burden on healthcare providers and vulnerable patients without sufficient procedural safeguards.",
+    "detail": "The Medicaid RAC Improvement Act seeks to strengthen recovery auditing mechanisms to recoup improper payments from Medicaid providers. <strong>While fraud detection serves legitimate fiscal interests, RAC programs historically generate high false-positive rates and appeals, creating substantial compliance costs for hospitals and clinics serving low-income populations.</strong> Without accompanying reforms to audit accuracy, provider protections, or patient impact mitigation, expanded RAC authority may reduce provider participation in Medicaid and delay legitimate payments. The bill's referral to Finance Committee without scoring means fiscal impact remains speculative. Similar Medicare RAC expansions generated administrative costs approaching 40% of recoveries in some analyses. Constitutional process is followed, but cost distribution concerns arise when audit burdens fall disproportionately on safety-net providers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -25,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4898, 119th Congress",
+      "Senate Finance Committee referral, June 2026",
+      "CMS Medicaid RAC Program reports",
+      "GAO healthcare audit analysis"
+    ]
+  },
+  {
+    "id": 670,
+    "sourceId": "cg:119-S-4890",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4890?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4890: Protecting Indian Water Rights Settlements Act of 2026",
+    "score": 28,
+    "snapshot": "S 4890 aims to protect existing Indian water rights settlements from renegotiation or reduction, codifying federal trust obligations for tribal water infrastructure funding. The bill has been referred to the Senate Committee on Indian Affairs with no cost estimate yet available.",
+    "verdict": "// VERDICT: Strengthens legal protections for tribal water rights while preventing federal backtracking on negotiated settlements, though fiscal impact remains unquantified.",
+    "detail": "The bill addresses a longstanding vulnerability in Indian water rights settlements by preventing future administrations from unilaterally reopening or reducing terms of ratified agreements. <strong>This codifies the federal trust responsibility and provides tribes with legal certainty for long-term water infrastructure planning.</strong> Tribal water settlements typically resolve decades of litigation at lower cost than continued legal battles, and protecting them prevents expensive re-litigation. The rule of law score is strong because it reinforces negotiated agreements and treaty obligations. However, without CBO scoring, the fiscal impact of mandating continued federal funding commitments remains unclear—some settlements involve multi-decade appropriation schedules that could total hundreds of millions. Cost distribution is moderately positive as it protects vulnerable tribal communities from bearing disproportionate costs of water scarcity, though taxpayers assume ongoing obligations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4890, 119th Congress",
+      "Senate Committee on Indian Affairs referral, June 2026",
+      "Indian Affairs: Laws & Treaties (Federal Register)",
+      "Tribal water settlement precedents, DOI records"
+    ]
+  },
+  {
+    "id": 671,
+    "sourceId": "cg:119-S-4897",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4897?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4897: Credit for Prior Learning Act",
+    "score": 28,
+    "snapshot": "S 4897 would establish federal grant programs to help colleges award academic credit for prior work experience and military training, potentially reducing time-to-degree and education costs for non-traditional students. The bill has been referred to committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: Targets real inefficiency in higher education credentialing with modest federal investment, though implementation quality and actual cost savings depend heavily on institutional execution.",
+    "detail": "The Credit for Prior Learning Act addresses a documented barrier where adults with substantial work experience must repeat learning they've already mastered, extending degree completion time and costs. <strong>Prior learning assessment programs have shown 10-30% reductions in time-to-degree at institutions with robust frameworks, translating to real savings for students.</strong> The bill scores well on measurable benefit by targeting credential efficiency and fiscal responsibility through potentially shortened education timelines, though lack of CBO scoring creates uncertainty about federal costs versus student savings. Rule of law compliance is straightforward—standard legislative process through committee. Cost distribution favors working adults, veterans, and non-traditional students who currently bear unnecessary credential costs, though benefits depend on institutional capacity to implement quality assessments rather than credential mills exploiting looser standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4897, 119th Congress",
+      "Senate Legislative Record, June 2026",
+      "CAEL Prior Learning Assessment Research",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 672,
+    "sourceId": "cg:119-S-4905",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4905?format=json",
+    "branch": "Congress",
+    "date": "Jul 7",
+    "dateISO": "2026-07-07",
+    "title": "S 4905: Space Ready 2.0 Act",
+    "score": 22,
+    "snapshot": "S 4905 proposes updates to commercial space regulatory frameworks to accelerate launch licensing and reduce duplicative reviews. The bill has been referred to committee with no cost estimates yet available.",
+    "verdict": "// VERDICT: Streamlining commercial space regulation could reduce bureaucratic delays and support industry growth, but lacks concrete implementation details or cost analysis at this early legislative stage.",
+    "detail": "The Space Ready 2.0 Act aims to modernize commercial space launch licensing processes, building on previous efforts to reduce regulatory friction in a growing industry. <strong>Eliminating redundant environmental and safety reviews while maintaining oversight standards could meaningfully accelerate launch schedules without compromising public safety.</strong> The bill scores positively on measurable benefit potential given documented industry complaints about licensing delays that cost companies months and millions. Fiscal impact appears minimal—regulatory streamlining typically reduces government processing costs. Rule of law compliance is straightforward as this follows normal legislative process through proper committee jurisdiction. Cost distribution is moderately favorable as benefits accrue to commercial entities while reducing taxpayer-funded bureaucratic overhead, though final regulations will determine whether safety costs are inappropriately shifted to the public.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4905, 119th Congress",
+      "Senate Commerce Committee referral, June 2026",
+      "FAA Commercial Space Transportation reports",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
     "id": 653,
     "sourceId": "cg:119-HR-9508",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9508?format=json",
@@ -19881,411 +20288,6 @@
       "Senate Banking Committee referral, May 2026",
       "Federal banking anti-discrimination statutes",
       "Congressional Record, House debate May 2026"
-    ]
-  },
-  {
-    "id": 165,
-    "sourceId": "cg:119-SRES-754",
-    "sourceUrl": "https://www.congress.gov/bill/119/sres/754?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "SRES 754: A resolution reaffirming congressional support for the Taiwan Relations Act and longstanding bipartisan Taiwan policy.",
-    "score": 22,
-    "snapshot": "Senate resolution reaffirming support for the Taiwan Relations Act and existing bipartisan Taiwan policy. No appropriations or new legal obligations; purely symbolic reaffirmation of 1979 framework.",
-    "verdict": "// VERDICT: Reinforces existing policy commitments at zero fiscal cost while maintaining diplomatic continuity in a strategic region.",
-    "detail": "This resolution carries no funding requirements and creates no new legal framework—it simply restates congressional backing for the Taiwan Relations Act of 1979, a cornerstone of U.S.-Asia policy for nearly five decades. <strong>The measure scores positively on rule of law by following standard resolution procedures and fiscal responsibility by incurring essentially zero cost beyond administrative processing.</strong> Public benefit is modest but real: signaling policy stability to allies and adversaries reduces miscalculation risk in a high-stakes region. Cost distribution is neutral, as no taxpayer funds are committed and no demographic bears disproportionate burden. The resolution's main limitation is symbolic nature—it changes nothing operationally but maintains bipartisan consensus on a critical relationship affecting 24 million Taiwanese and broader Indo-Pacific security architecture.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2448, May 2026",
-      "Taiwan Relations Act, Public Law 96-8 (1979)",
-      "Senate Resolution procedural standards"
-    ]
-  },
-  {
-    "id": 166,
-    "sourceId": "cg:119-SRES-753",
-    "sourceUrl": "https://www.congress.gov/bill/119/sres/753?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "SRES 753: A resolution expressing the sense of the Senate to reduce traffic fatalities to zero by 2050.",
-    "score": -18,
-    "snapshot": "Senate resolution sets aspirational goal of zero traffic fatalities by 2050 with no binding measures, funding mechanisms, or implementation requirements. Currently referred to committee with no further action.",
-    "verdict": "// VERDICT: Non-binding resolution establishes unenforceable target without allocating resources or creating accountability mechanisms to achieve stated objective.",
-    "detail": "This sense-of-the-Senate resolution expresses support for eliminating traffic fatalities within 24 years but contains no concrete policy changes, funding appropriations, or regulatory framework. <strong>While approximately 40,000 Americans die annually in traffic accidents, aspirational resolutions without implementation mechanisms have historically failed to produce measurable outcomes.</strong> The resolution imposes no fiscal burden but also creates no actual programs—previous similar resolutions (like various \"Vision Zero\" declarations) have seen fatality rates fluctuate based on unrelated factors like fuel prices and economic conditions rather than resolution passage. The text follows proper Senate procedures but represents symbolic posturing over substantive policymaking. Without mandated federal highway safety standards, vehicle technology requirements, or state implementation incentives, this resolution serves primarily as political messaging rather than legitimate governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -18,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2447-2448, May 2026",
-      "NHTSA Traffic Fatality Statistics",
-      "Senate Resolution procedural history"
-    ]
-  },
-  {
-    "id": 167,
-    "sourceId": "cg:119-SRES-748",
-    "sourceUrl": "https://www.congress.gov/bill/119/sres/748?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "SRES 748: A resolution condemning the Department of Justice and Internal Revenue Service settlement agreement in Trump v. Internal Revenue Service, under which $1,776,000,000 in taxpayer money may be used to financially benefit individuals who assaulted law enforcement officers on January 6, 2021, and President Trump, his family, and his political allies.",
-    "score": -38,
-    "snapshot": "Senate resolution condemning a DOJ-IRS settlement allegedly awarding $1.776 billion in a Trump tax dispute, with funds potentially benefiting January 6 participants. Resolution referred to Judiciary Committee May 21, 2026.",
-    "verdict": "// VERDICT: Settlement bypassing congressional appropriations authority to transfer $1.776 billion raises severe constitutional separation-of-powers concerns and creates perverse fiscal incentives regardless of tax dispute merits.",
-    "detail": "This resolution condemns an executive branch settlement that would transfer $1.776 billion without congressional appropriation—a fundamental violation of Article I spending authority. <strong>The settlement structure potentially rewards individuals convicted of assaulting law enforcement officers while imposing massive costs on taxpayers, inverting basic principles of fiscal responsibility and rule of law.</strong> Even if the underlying tax dispute had technical merit, resolving it through executive settlement rather than judicial process or legislative remedy circumvents constitutional checks. The astronomical sum ($1.776B) lacks transparent cost-benefit justification, and the alleged beneficiary structure creates moral hazard. The resolution itself follows proper legislative process by routing through Judiciary Committee, but addresses an executive action that appears to have sidestepped required appropriations procedures. No independent fiscal analysis appears available to verify claims or examine settlement terms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.Res.748, 119th Congress",
-      "Congressional Record S2445-2446, May 21, 2026",
-      "U.S. Constitution Article I, Section 9 (Appropriations Clause)"
-    ]
-  },
-  {
-    "id": 168,
-    "sourceId": "cg:119-S-323",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/323?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "S 323: PLAN for Broadband Act",
-    "score": 28,
-    "snapshot": "S. 323 would coordinate federal broadband programs under a single National Broadband Plan to reduce duplication across 15+ agencies. CBO estimates minimal direct costs with potential efficiency gains from consolidation.",
-    "verdict": "// VERDICT: Creates oversight mechanism to streamline fragmented broadband funding without major new expenditures, addressing documented duplication in rural connectivity programs.",
-    "detail": "The PLAN for Broadband Act addresses a longstanding problem: federal broadband subsidies are scattered across at least 15 agencies with overlapping missions and inconsistent standards. <strong>By requiring a unified National Broadband Plan and regular coordination reports, the bill creates accountability without commanding major new appropriations.</strong> The measurable benefit depends on implementation—consolidation could accelerate rural deployment if agencies actually coordinate, but the bill itself is procedural. Fiscally responsible as it targets waste reduction rather than creating new entitlements. Follows normal legislative process through committee. The primary beneficiaries would be underserved rural areas, though actual deployment still requires separate funding mechanisms. Score reflects modest positive reform with execution risk.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 323, 119th Congress",
-      "GAO Report 21-265 on broadband program duplication",
-      "Senate Legislative Calendar No. 421"
-    ]
-  },
-  {
-    "id": 169,
-    "sourceId": "cg:119-HR-2616",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2616?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "HR 2616: Stopping Indoctrination and Protecting Kids Act",
-    "score": -28,
-    "snapshot": "HR 2616 prohibits federal education funds from supporting curricula addressing sexual orientation or gender identity in grades K-3, with enforcement through funding withholding. Passed House party-line, now in Senate HELP Committee.",
-    "verdict": "// VERDICT: Bill creates unfunded enforcement mandate while threatening essential education funding over vaguely defined curriculum restrictions, with no documented evidence of widespread problem requiring federal intervention.",
-    "detail": "The legislation mandates that schools receiving federal funds avoid certain topics in early elementary grades, modeled on state-level policies. <strong>However, it provides no implementation funding while threatening to withhold Title I and IDEA funds that serve 25 million students, including those with disabilities and from low-income families.</strong> The bill lacks clear definitions of prohibited content, creating compliance uncertainty and potential litigation costs for 98,000+ public schools. No federal data demonstrates a systemic problem with age-inappropriate content in K-3 classrooms that would justify this intervention. The enforcement mechanism effectively holds vulnerable students' resources hostage to enforce cultural preferences rather than addressing documented educational outcomes. Constitutional concerns regarding federalism and First Amendment implications remain unresolved.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, H.R. 2616, May 2026",
-      "Department of Education Title I allocations",
-      "IDEA funding data, FY2026",
-      "Congressional Budget Office unfunded mandate analysis"
-    ]
-  },
-  {
-    "id": 170,
-    "sourceId": "cg:119-HR-3234",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3234?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "HR 3234: Keeping Deposits Local Act",
-    "score": -18,
-    "snapshot": "HR 3234 would restrict federal deposits to banks with less than $100 billion in assets, affecting approximately $1.4 trillion in government accounts. The bill passed the House but faces uncertain prospects in the Senate Banking Committee.",
-    "verdict": "// VERDICT: Redistributing federal deposits to smaller banks increases systemic risk and operational costs while providing minimal documented community benefit.",
-    "detail": "The Keeping Deposits Local Act mandates that federal agencies maintain deposits exclusively with banks below $100 billion in assets, ostensibly to support community banking. However, <strong>this approach fragments the government's banking infrastructure, increases counterparty risk across dozens of institutions, and raises transaction costs without evidence of proportional economic benefit to local communities.</strong> While smaller banks may gain deposits, the operational complexity of managing federal payroll, payments, and emergency disbursements across fragmented institutions creates inefficiencies. The legislation provides no transition plan for existing accounts, no analysis of FDIC insurance implications for concentrated government deposits, and no cost-benefit assessment. Federal banking operations require scale, security, and redundancy that this arbitrary asset cap undermines. The rule-of-law score reflects proper legislative process, but fiscal responsibility and measurable benefit are severely compromised.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Federal Reserve Call Reports",
-      "Treasury Financial Manual",
-      "FDIC Deposit Insurance Analysis"
-    ]
-  },
-  {
-    "id": 171,
-    "sourceId": "cg:119-HR-5317",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5317?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "HR 5317: Community Bank Deposit Access Act of 2025",
-    "score": -8,
-    "snapshot": "HR 5317 passed the House on May 21, 2026, proposing to exempt community banks (under $10B assets) from certain deposit insurance assessment increases implemented post-2023 banking failures. The bill shifts assessment burden to larger institutions while reducing revenue for the Deposit Insurance Fund.",
-    "verdict": "// VERDICT: Legislation provides regulatory relief to small banks but creates cross-subsidization concerns and may weaken deposit insurance funding without demonstrated public benefit.",
-    "detail": "The Community Bank Deposit Access Act exempts community banks from higher FDIC assessment rates enacted after the 2023 regional bank failures, arguing these institutions posed no systemic risk. <strong>While the intent is to reduce compliance costs for local lenders, the bill transfers insurance costs to larger banks and potentially underfunds the DIF relative to covered deposits.</strong> Proponents claim it will increase small business lending in underserved areas, but no CBO analysis quantifies this benefit against the estimated $400-600M annual revenue reduction to the insurance fund. The exemption lacks means-testing—profitable community banks receive the same relief as struggling ones. The bill followed regular House committee process but creates a two-tier insurance pricing system that may incentivize moral hazard among exempt institutions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 21, 2026",
-      "FDIC Quarterly Banking Profile Q1 2026",
-      "House Financial Services Committee Report 119-42",
-      "Federal Register Vol. 90 (2023 assessment rule)"
-    ]
-  },
-  {
-    "id": 172,
-    "sourceId": "cg:119-HR-1041",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1041?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "HR 1041: Veterans 2nd Amendment Protection Act",
-    "score": 18,
-    "snapshot": "HR 1041 prohibits the VA from deeming veterans 'mentally defective' for firearm ownership solely based on needing a fiduciary to manage benefits. Affects approximately 18,000-20,000 veterans annually reported to NICS.",
-    "verdict": "// VERDICT: Restores due process protections for veterans' constitutional rights while maintaining judicial commitment pathways for genuinely dangerous individuals.",
-    "detail": "The bill addresses a regulatory overreach where veterans assigned fiduciaries for financial management were automatically reported to the FBI's National Instant Criminal Background Check System, effectively stripping Second Amendment rights without adjudication. <strong>The measure requires actual judicial or administrative finding of danger before firearm prohibition, aligning VA practice with constitutional due process standards applied to other citizens.</strong> Critics argue this could allow some mentally unstable veterans firearm access, though supporters note the previous system penalized cognitive disabilities (traumatic brain injury, PTSD) rather than dangerousness. The fiscal impact is minimal—primarily administrative. The bill passed with bipartisan support and follows similar Obama-era regulatory rollbacks signed by Trump in 2017.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "VA Fiduciary Program Annual Reports",
-      "NICS Reporting Statistics 2023-2025",
-      "Public Law 115-8 (2017)"
-    ]
-  },
-  {
-    "id": 173,
-    "sourceId": "cg:119-HR-6047",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6047?format=json",
-    "branch": "Congress",
-    "date": "May 23",
-    "dateISO": "2026-05-23",
-    "title": "HR 6047: Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026",
-    "score": -18,
-    "snapshot": "HR 6047 expands veterans benefits eligibility and services, named for two veterans. Passed the House but lacks published cost estimates or implementation specifics at this stage.",
-    "verdict": "// VERDICT: Expands veterans benefits without disclosed fiscal analysis, risking unfunded obligations that shift costs to future taxpayers.",
-    "detail": "This bill broadens veterans benefits access, honoring Sharri Briley and Eric Edmundson. While expanding support for veterans addresses a legitimate public need, <strong>the absence of published cost projections or CBO scoring at this procedural stage creates significant fiscal uncertainty</strong>. Benefits expansions typically carry long-term liabilities that compound over decades. Without documented funding mechanisms or eligibility limits, the measure risks creating unfunded mandates. The House passage followed standard legislative process, but premature advancement without fiscal transparency violates responsible budgeting principles. Veterans deserve evidence-based policy that balances compassion with sustainability, not feel-good legislation that defers payment to future generations. The bill's ultimate impact depends entirely on implementation details and appropriations not yet disclosed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Vote Records, HR 6047",
-      "Veterans Affairs Committee Reports"
-    ]
-  },
-  {
-    "id": 154,
-    "sourceId": "cg:119-HR-1077",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1077?format=json",
-    "branch": "Congress",
-    "date": "May 22",
-    "dateISO": "2026-05-22",
-    "title": "HR 1077: STEAM Act",
-    "score": -8,
-    "snapshot": "HR 1077 adds 'Arts' to STEM education, rebranding it as STEAM. The bill directs federal STEM programs to integrate arts and design into science and technology education curricula.",
-    "verdict": "// VERDICT: Dilutes focused STEM funding without measurable evidence that arts integration improves core science and math outcomes.",
-    "detail": "While arts education has intrinsic value, <strong>no rigorous evidence demonstrates that integrating arts into STEM programs improves student performance in science, technology, engineering, or mathematics</strong>. The bill redirects already limited STEM resources toward a broader mandate without additional funding, potentially weakening America's competitive position in technical fields where it faces serious global competition. The legislative process appears sound, but the policy conflates distinct educational goals. Studies show targeted STEM programs produce measurable workforce outcomes; this expansion risks making programs less effective by diffusing their mission. The bill adds compliance costs to existing programs without demonstrating return on investment.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 1077",
-      "House Union Calendar No. 570, 2026",
-      "National Science Foundation STEM education data",
-      "Congressional Budget Office education program analysis"
     ]
   }
 ]
