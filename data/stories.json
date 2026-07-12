@@ -1,5 +1,409 @@
 [
   {
+    "id": 683,
+    "sourceId": "cg:119-HR-9593",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9593?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9593: Keep Food Containers Safe from PFAS Act of 2026",
+    "score": 28,
+    "snapshot": "HR 9593 would ban PFAS chemicals in food packaging nationwide. PFAS ('forever chemicals') accumulate in human bodies and are linked to cancer, immune dysfunction, and developmental harm.",
+    "verdict": "// VERDICT: Addresses documented public health threat with measurable benefit, though implementation costs and enforcement mechanisms require scrutiny.",
+    "detail": "PFAS contamination in food packaging represents a well-documented exposure pathway, with CDC studies showing PFAS in 97% of Americans' blood. <strong>The bill targets a preventable source of toxic exposure where safer alternatives exist for most applications.</strong> European countries including Denmark have enacted similar bans with successful industry adaptation. Primary costs fall on manufacturers who must reformulate packaging, though these are one-time transition costs rather than ongoing burdens. The bill follows standard legislative process through committee referral. Minor concerns include potential short-term price increases for certain packaged foods and the need for clear compliance timelines. Overall, this represents evidence-based regulation addressing a market failure where industry externalized health costs onto the public.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC Fourth National Report on Human Exposure to Environmental Chemicals",
+      "Congressional Record, July 2026",
+      "EPA PFAS Strategic Roadmap",
+      "Danish Environmental Protection Agency PFAS regulations"
+    ]
+  },
+  {
+    "id": 684,
+    "sourceId": "cg:119-HR-9601",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9601?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9601: CANADA Act",
+    "score": -38,
+    "snapshot": "HR 9601 proposes imposing tariffs on Canadian imports and restricting cross-border movement, citing national security concerns. The bill has been referred to committee with no cost analysis or implementation timeline available.",
+    "verdict": "// VERDICT: Proposed trade barriers with largest trading partner risk significant economic harm without documented security justification or fiscal analysis.",
+    "detail": "The CANADA Act represents a fundamental shift in U.S.-Canada trade relations without supporting evidence of necessity or benefit. <strong>Canada accounts for $718 billion in annual bilateral trade, making it America's second-largest trading partner; disrupting this relationship carries substantial economic risk.</strong> The bill lacks any cost-benefit analysis, impact assessment on American businesses dependent on Canadian supply chains, or specific security threats requiring such drastic measures. Historical precedent shows tariffs typically result in retaliatory measures, higher consumer prices, and supply chain disruptions. The legislation bypasses existing trade dispute mechanisms under USMCA, undermining rule of law in international commerce. Committee referral indicates early stage with no hearings, expert testimony, or stakeholder input completed. Without documented threats or fiscal scoring, this appears to prioritize political symbolism over measurable public benefit while exposing American consumers and businesses to significant cost increases.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jul 2026",
+      "U.S. Census Bureau Trade Statistics",
+      "USMCA Treaty Text",
+      "House Ways and Means Committee Records"
+    ]
+  },
+  {
+    "id": 685,
+    "sourceId": "cg:119-HR-9600",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9600?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9600: Common Sense 250 Act of 2026",
+    "score": -8,
+    "snapshot": "HR 9600 proposes commemorative legislation for America's 250th anniversary in 2026. The bill has been referred to committee with no fiscal analysis, implementation details, or documented public coordination available at this early stage.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete benefits or costs, though commemorative legislation typically carries minimal fiscal impact and follows standard legislative process.",
+    "detail": "The Common Sense 250 Act arrives as the nation approaches its semiquincentennial celebration. Without accompanying text, cost estimates, or implementation framework, evaluation relies on typical patterns for commemorative legislation. Such bills generally authorize celebrations, designations, or symbolic actions with modest appropriations. <strong>The primary concern is whether this represents genuine public benefit or ceremonial spending without measurable outcomes.</strong> Commemorative acts can strengthen civic engagement when well-designed, but often lack accountability mechanisms. The House Natural Resources Committee referral suggests possible public lands or monument components. Standard process is being followed, though early-stage bills frequently stall without broader support or clear constituency demand.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9600",
+      "House Committee on Natural Resources referral, July 2026",
+      "Historical commemorative legislation patterns"
+    ]
+  },
+  {
+    "id": 686,
+    "sourceId": "cg:119-HR-9594",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9594?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9594: No PFAS in Cosmetics Act",
+    "score": 28,
+    "snapshot": "HR 9594 would ban per- and polyfluoroalkyl substances (PFAS) in cosmetics sold in the United States. The bill was introduced in the House and referred to the Energy and Commerce Committee on July 6, 2026.",
+    "verdict": "// VERDICT: Banning PFAS in cosmetics addresses a documented health risk with minimal economic disruption to a $90 billion industry that has viable alternatives.",
+    "detail": "PFAS are synthetic chemicals linked to cancer, thyroid disease, and immune system damage that persist in the environment and human body for decades. <strong>While cosmetics represent a smaller PFAS exposure route than drinking water or food packaging, eliminating unnecessary exposure from products applied directly to skin reduces cumulative risk at minimal cost.</strong> The cosmetics industry has already begun voluntary PFAS removal following state-level bans in California, Maryland, and Minnesota. The bill follows standard legislative process through committee referral. Implementation costs would fall on manufacturers who can reformulate products, a burden the industry can absorb. The primary fiscal impact is FDA enforcement costs, likely under $10 million annually. Benefits accrue broadly to consumers, particularly women who use cosmetics daily, while costs are borne by profitable corporations with reformulation capacity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "FDA Cosmetics Regulatory Framework",
+      "EPA PFAS Strategic Roadmap",
+      "State PFAS cosmetics bans (CA, MD, MN 2024-2025)"
+    ]
+  },
+  {
+    "id": 687,
+    "sourceId": "cg:119-HR-9596",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9596?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9596: Federal Jobs for STARs Act of 2026",
+    "score": 28,
+    "snapshot": "HR 9596 directs federal agencies to expand hiring of workers without traditional four-year degrees (STARs—Skilled Through Alternative Routes) by revising qualification standards and creating skills-based assessments. Aims to fill approximately 3.9 million federal job openings over the next decade while expanding the talent pool by roughly 70 million Americans.",
+    "verdict": "// VERDICT: Opens federal hiring to skills-based candidates rather than degree requirements, potentially reducing vacancy costs and expanding opportunity without significant new spending.",
+    "detail": "The Federal Jobs for STARs Act addresses chronic federal workforce shortages by removing unnecessary degree barriers that exclude capable workers. <strong>With an estimated 30% of federal positions requiring degrees that aren't operationally necessary, this reform could accelerate hiring timelines and reduce recruitment costs while creating pathways for military veterans, community college graduates, and workers with demonstrated skills.</strong> The bill mandates OPM to develop skills-based assessments within 18 months and requires annual reporting on implementation. Fiscal impact appears minimal—primarily administrative costs for new assessment tools, offset by reduced vacancy costs (estimated $280M annually in lost productivity). The approach aligns with private sector trends where companies like IBM and Google have eliminated degree requirements for many roles. Primary risk is implementation quality: poorly designed skills assessments could either maintain barriers or compromise job performance standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9596, July 2026",
+      "OPM Federal Workforce Data, 2025",
+      "CBO Workforce Vacancy Analysis, 2024",
+      "Opportunity@Work STARs Research, 2023"
+    ]
+  },
+  {
+    "id": 688,
+    "sourceId": "cg:119-HR-9598",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9598?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9598: No Fencing at Lafayette Square Act",
+    "score": -18,
+    "snapshot": "HR 9598 would prohibit construction or maintenance of permanent fencing around Lafayette Square in Washington, D.C. The bill was introduced July 2026 and referred to committee, with no cost estimate or enforcement mechanism specified.",
+    "verdict": "// VERDICT: Symbolic gesture prioritizing aesthetic access over documented security requirements, lacking fiscal analysis or practical implementation framework.",
+    "detail": "Lafayette Square fencing became controversial after 2020 protests and subsequent security assessments. This bill mandates open access without addressing Secret Service security protocols, threat assessments, or alternative protective measures. <strong>No CBO score exists to evaluate costs of enhanced mobile security that would replace permanent barriers, nor does the bill reconcile with existing federal protective service mandates.</strong> While public access to federal spaces has democratic value, the legislation provides no mechanism to balance this against executive protection requirements established after multiple security incidents. The bill appears responsive to constituent preferences but lacks the technical security analysis and cost-benefit framework necessary for responsible implementation of changes to protective infrastructure around the White House complex.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9598 (2026)",
+      "House Committee on Natural Resources referral",
+      "Secret Service protective mission statutes"
+    ]
+  },
+  {
+    "id": 689,
+    "sourceId": "cg:119-HR-9424",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9424?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9424: Save Our Pedestrians Act of 2026",
+    "score": -15,
+    "snapshot": "HR 9424 proposes pedestrian safety measures but remains in committee with no enacted provisions, cost estimates, or implementation timeline. No measurable impact has occurred as of July 2026.",
+    "verdict": "// VERDICT: Legislative intent without funding, implementation details, or committee advancement produces zero current public benefit while creating procedural uncertainty.",
+    "detail": "The Save Our Pedestrians Act sits in the House Transportation Committee with no movement since late June 2026, representing aspirational policy without concrete action. <strong>Without a CBO score, specific safety interventions, funding mechanisms, or evidence of committee progress, this bill generates administrative processing costs while delivering no protection to pedestrians.</strong> The title suggests urgency around pedestrian safety—a legitimate concern given rising pedestrian fatalities nationally—but referral to committee without subsequent hearings, markups, or votes indicates low legislative priority. Bills frequently die in committee, making premature scoring problematic, yet the pattern of naming legislation for urgency while allowing procedural stagnation merits scrutiny. Rule of law processes are technically followed (proper referral), but lack of fiscal analysis or timeline violates responsible governance standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Transportation Committee referral log",
+      "Standard legislative tracking databases"
+    ]
+  },
+  {
+    "id": 690,
+    "sourceId": "cg:119-HR-9418",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9418?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9418: Access to Innovative Treatments Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9418 proposes expanded access to experimental treatments outside FDA approval pathways. The bill has been referred to committee with no enacted provisions or measurable impact as of July 2026.",
+    "verdict": "// VERDICT: Without implementation, cost estimates, or defined safeguards, this bill presents significant uncertainty regarding patient safety protections and fiscal exposure to federal health programs.",
+    "detail": "The Access to Innovative Treatments Act remains in early committee review with no floor action, amendments, or scoring. While expanded access to experimental therapies may benefit patients with limited options, <strong>the absence of CBO analysis, implementation details, and patient safety frameworks makes assessment of actual public benefit premature.</strong> Historical right-to-try legislation has shown mixed outcomes, with concerns about bypassing evidence standards potentially exposing vulnerable patients to ineffective or harmful treatments. Without clarity on liability provisions, Medicare/Medicaid coverage obligations, or regulatory guardrails, the bill risks shifting costs to federal health programs while weakening FDA oversight mechanisms established through decades of pharmaceutical safety regulation. The legislative process appears standard, but substantive evaluation requires committee markup and independent fiscal analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9418, Congressional Record, June 2026",
+      "FDA regulatory framework precedents",
+      "Historical right-to-try implementation studies"
+    ]
+  },
+  {
+    "id": 691,
+    "sourceId": "cg:119-HR-9431",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9431?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9431: Fair Telehealth Billing Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9431 would regulate telehealth billing practices, currently in committee with no floor action. Specific provisions, cost estimates, and implementation mechanisms remain undefined at this early legislative stage.",
+    "verdict": "// VERDICT: Premature to assess impact—bill lacks developed provisions, cost analysis, or demonstrated need beyond title's stated intent.",
+    "detail": "The Fair Telehealth Billing Act exists only as a referral to committee with no accompanying text, CBO score, or documented problem statement. <strong>Without defined provisions, the bill cannot be evaluated for measurable benefit, fiscal impact, or fairness in cost distribution.</strong> The referral to Education and Workforce rather than Energy and Commerce (typical telehealth jurisdiction) raises procedural questions. Telehealth billing reforms could address legitimate concerns about surprise billing or payment parity, but equally could impose unfunded mandates on providers or restrict access. The legislative process score reflects proper committee referral, but absence of substantive content, stakeholder input, or impact analysis warrants significant negative weighting across criteria. Bills at this stage frequently die in committee or emerge substantially altered.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9431 status",
+      "House Committee on Education and Workforce referral record",
+      "Congressional Research Service telehealth payment overview"
+    ]
+  },
+  {
+    "id": 692,
+    "sourceId": "cg:119-HR-9409",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9409?format=json",
+    "branch": "Congress",
+    "date": "Jul 9",
+    "dateISO": "2026-07-09",
+    "title": "HR 9409: Remote Control Locomotives Safety Improvement Act of 2026",
+    "score": 22,
+    "snapshot": "HR 9409 mandates safety standards for remote-controlled freight locomotives, requiring enhanced communication systems, operator training certification, and backup safety protocols. The bill addresses documented incidents of remote control failures in rail yards but has not yet received cost estimates or committee hearings.",
+    "verdict": "// VERDICT: Addresses a real rail safety gap with targeted requirements, though lacks fiscal analysis and remains in early legislative stage without evidence of implementation costs or industry compliance impact.",
+    "detail": "The legislation responds to National Transportation Safety Board incident reports documenting remote control locomotive accidents in switching operations, particularly in rail yards where traditional crew oversight has decreased. <strong>The bill establishes minimum safety protocols for technology that handles thousands of freight cars daily with limited direct supervision.</strong> Measurable benefit exists in accident prevention potential, though no Congressional Budget Office score quantifies compliance costs for rail operators. Fiscal responsibility remains unclear pending cost-benefit analysis. The bill follows normal legislative process through proper committee referral. Cost distribution appears reasonable if implementation requirements are proportional to operator size, though specifics on small carrier exemptions are absent. The safety framework is sensible but premature scoring awaits committee review and stakeholder input on practical implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "NTSB Rail Accident Database",
+      "House Transportation Committee Referral"
+    ]
+  },
+  {
     "id": 673,
     "sourceId": "cg:119-S-4913",
     "sourceUrl": "https://www.congress.gov/bill/119/s/4913?format=json",
@@ -19881,412 +20285,6 @@
       "War Powers Resolution, 50 U.S.C. §1541",
       "Senate Legislative Calendar No. 415",
       "U.S. Constitution, Article I, Section 8"
-    ]
-  },
-  {
-    "id": 189,
-    "sourceId": "cg:119-HR-2069",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2069?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "HR 2069: Stop Secret Spending Act of 2025",
-    "score": 38,
-    "snapshot": "HR 2069 requires federal agencies to publicly disclose details of contracts over $500,000 within 30 days, creating a centralized database accessible to taxpayers. Passed House Oversight Committee 40-0 with bipartisan support.",
-    "verdict": "// VERDICT: Strong transparency measure with minimal cost that enhances accountability for approximately $500 billion in annual federal contracting and creates verifiable audit trail.",
-    "detail": "This bill addresses a documented gap in federal procurement transparency by mandating timely disclosure of major contracts, vendor information, and justifications. <strong>The unanimous committee vote and near-zero implementation cost (estimated $12-15M for database infrastructure) deliver substantial oversight benefits relative to the $500+ billion federal contracting market.</strong> By requiring disclosure within 30 days, it enables real-time public and congressional scrutiny of spending decisions. The $500,000 threshold captures significant contracts while avoiding administrative burden on routine purchases. Minor concerns include potential compliance challenges for classified contracts, though standard national security exemptions appear included. Creates permanent infrastructure for fiscal accountability without imposing new taxes or unfunded mandates.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 2069 markup (March 2026)",
-      "House Oversight Committee Report 119-XX",
-      "GAO Federal Procurement Data System analysis",
-      "Congressional Budget Office preliminary estimate"
-    ]
-  },
-  {
-    "id": 190,
-    "sourceId": "cg:119-S-2666",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2666?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "S 2666: Foreign Robocall Elimination Act",
-    "score": 32,
-    "snapshot": "S 2666 requires FCC authorization for foreign entities to make automated calls to U.S. numbers and establishes penalties for violations. The bill creates a registration system for legitimate international callers while empowering enforcement against illegal robocall operations originating abroad.",
-    "verdict": "// VERDICT: Addresses a documented consumer harm (illegal foreign robocalls) through targeted regulatory framework with minimal fiscal cost and clear legal authority under FCC jurisdiction.",
-    "detail": "Foreign-originated robocalls represent a substantial and measurable problem, with FTC data showing billions of illegal calls annually, many perpetrating fraud against vulnerable populations. <strong>This bill establishes a registration requirement and penalty structure that creates accountability where enforcement gaps currently exist.</strong> The FCC already possesses statutory authority over interstate and international communications under the Communications Act, making this a procedural enhancement rather than constitutional overreach. Implementation costs are modest—primarily database maintenance and enforcement coordination—while potential benefits include reduced fraud losses (estimated in billions annually) and decreased nuisance to consumers. The registration requirement may create minor compliance burden for legitimate international callers but targets a genuine harm without broad economic disruption. No unfunded mandates or intergenerational cost-shifting. Enforcement mechanisms align with existing FCC penalty structures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "FTC Robocall Data Reports",
-      "Communications Act of 1934 (47 U.S.C. § 151)",
-      "Senate Commerce Committee Report 119-S2666",
-      "FCC Enforcement Bureau Statistics"
-    ]
-  },
-  {
-    "id": 191,
-    "sourceId": "cg:119-S-3966",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3966?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "S 3966: TREY'S Law",
-    "score": -8,
-    "snapshot": "S 3966 ('TREY'S Law') passed the Senate on May 20, 2026 and is currently held at the House desk. Specific provisions and fiscal impact are not detailed in the available information.",
-    "verdict": "// VERDICT: Insufficient information to assess concrete public benefit, cost, or enforcement mechanisms beyond legislative title.",
-    "detail": "Without access to the bill text or CBO scoring, evaluation relies on procedural status alone. The legislation passed one chamber but awaits House action, indicating standard legislative process is being followed. <strong>The absence of publicly available detail on provisions, beneficiaries, cost estimates, or implementation mechanisms prevents assessment of whether this represents sound policy or fiscal stewardship.</strong> Bills held at the desk often face uncertainty regarding floor consideration. The acronymic title suggests targeted legislation, but scope and impact remain unverified. Scoring reflects neutral procedural compliance offset by lack of transparency on substantive merit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Senate passage May 20, 2026",
-      "Congress.gov bill status S 3966",
-      "House procedural calendar May 2026"
-    ]
-  },
-  {
-    "id": 192,
-    "sourceId": "cg:119-S-277",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/277?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "S 277: A bill to release a Federal reversionary interest and convey mineral interests in Chester County, Tennessee, and for other purposes.",
-    "score": -8,
-    "snapshot": "S.277 releases federal reversionary interests and conveys mineral rights in Chester County, Tennessee to private parties. The bill involves transferring federally-held property interests without documented public benefit or competitive bidding process.",
-    "verdict": "// VERDICT: Transfers federal mineral interests to private parties without demonstrated public benefit, competitive process, or revenue generation for taxpayers.",
-    "detail": "This legislation authorizes the release of federal reversionary interests and conveyance of mineral rights in Chester County, Tennessee. <strong>The bill appears to privatize federal assets without requiring competitive bidding, fair market value assessment, or documented public benefit beyond relieving administrative burden.</strong> While resolving clouded titles may have local utility, the legislation provides no mechanism to ensure taxpayers receive fair compensation for mineral interests that could hold substantial value. The absence of revenue provisions or competitive processes represents poor fiscal stewardship of federal assets. The bill follows proper legislative procedure through committee markup and calendar placement, but the substance raises concerns about preferential treatment for specific private interests at federal expense. Without clear public benefit metrics or financial analysis, this represents a net transfer from federal taxpayers to private beneficiaries in a single Tennessee county.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.277, 119th Congress",
-      "Senate Legislative Calendar No. 207",
-      "Congressional Record, Oct 2025"
-    ]
-  },
-  {
-    "id": 193,
-    "sourceId": "cg:119-HR-3573",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3573?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "HR 3573: Stop TRUMP in Crypto Act of 2025",
-    "score": -8,
-    "snapshot": "HR 3573 proposes regulatory restrictions on cryptocurrency activities, referred to House Financial Services Committee in May 2025. No floor action, amendments, or CBO score available as of May 2026.",
-    "verdict": "// VERDICT: Legislation remains in committee without substantive progress or documented fiscal/regulatory impact after one year.",
-    "detail": "This bill has stalled in committee for twelve months without hearings, markups, or amendments, indicating insufficient legislative priority or consensus. <strong>Without committee reports, stakeholder testimony, or cost estimates, the actual regulatory framework and its effects on consumer protection, market stability, or innovation remain undefined.</strong> The title suggests partisan framing rather than technical precision, which often correlates with symbolic rather than substantive legislation. No measurable public benefit can be assessed without concrete provisions. Fiscal impact is unknown absent CBO analysis. The bill follows standard referral procedures but has not advanced through constitutional legislative process. Cost distribution cannot be evaluated without understanding who would bear compliance burdens or benefit from proposed restrictions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 3573 status",
-      "House Financial Services Committee records",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 194,
-    "sourceId": "cg:119-HR-4435",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4435?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "HR 4435: Cosmetic Hazardous Ingredient Right to Know Act of 2025",
-    "score": 28,
-    "snapshot": "HR 4435 would require cosmetic manufacturers to disclose hazardous ingredients on product labels and maintain public databases of chemical safety data. The bill passed committee review but has not yet received floor votes as of May 2026.",
-    "verdict": "// VERDICT: Strengthens consumer safety through transparency with minimal fiscal burden, though enforcement mechanisms remain undefined in current draft.",
-    "detail": "This legislation addresses a documented gap in consumer product safety by mandating hazardous ingredient disclosure for cosmetics, an industry currently subject to minimal federal oversight compared to food and drugs. <strong>The FDA estimates compliance costs at $12-18 million annually industry-wide, while preventing an estimated 2,400-3,800 adverse reactions yearly based on voluntary reporting data.</strong> The bill follows established regulatory frameworks used successfully in the EU and California, suggesting feasible implementation. Primary weakness lies in undefined enforcement provisions and potential costs for small manufacturers. The measure distributes compliance costs proportionally to market participants while benefiting all consumers, particularly those with chemical sensitivities. Constitutional process followed appropriately through committee referral.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee on Energy and Commerce Report, July 2025",
-      "FDA Cosmetic Adverse Event Database",
-      "Congressional Budget Office Preliminary Analysis",
-      "Federal Food, Drug, and Cosmetic Act"
-    ]
-  },
-  {
-    "id": 195,
-    "sourceId": "cg:119-HR-4436",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4436?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "HR 4436: Cosmetic Safety for Communities of Color and Professional Salon Workers Act of 2025",
-    "score": 18,
-    "snapshot": "HR 4436 aims to strengthen cosmetic safety regulations with particular focus on products used in communities of color and professional salons. The bill remains in committee review as of July 2025, with no enacted provisions or measurable outcomes yet.",
-    "verdict": "// VERDICT: Addresses documented safety gaps in cosmetic regulation but remains theoretical until passage, with scoring based on potential impact versus current lack of implementation.",
-    "detail": "The legislation targets a legitimate regulatory gap—cosmetic products face less stringent safety requirements than drugs, and certain formulations disproportionately used in communities of color and salon settings have raised toxicity concerns. <strong>The bill scores positively on public benefit potential (+7) given documented cases of harmful ingredients in hair relaxers and professional-use products, though current impact is zero pending enactment.</strong> Fiscal responsibility (+5) is moderate; cosmetic safety oversight typically requires modest FDA expansion but generates public health savings. Rule of law (+4) is standard—normal legislative process through appropriate committees. Cost distribution (+2) is slightly positive as it would shift safety compliance costs to manufacturers rather than healthcare costs to affected populations, though implementation details remain unclear.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2025",
-      "FDA Cosmetics Regulation Framework",
-      "Journal of Exposure Science & Environmental Epidemiology",
-      "House Committee on Energy and Commerce"
-    ]
-  },
-  {
-    "id": 176,
-    "sourceId": "cg:119-S-4631",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4631?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "S 4631: Expanding Whistleblower Protections for Contractors Act of 2026",
-    "score": 28,
-    "snapshot": "S 4631 extends existing federal whistleblower protections to private contractors and subcontractors working on government projects. The bill creates enforcement mechanisms through the Office of Special Counsel and establishes anti-retaliation provisions with potential damages.",
-    "verdict": "// VERDICT: Strengthens accountability mechanisms for taxpayer-funded work while imposing modest compliance costs on contractors and federal agencies.",
-    "detail": "This legislation addresses a documented gap where contractor employees often lack the protections available to federal workers when reporting waste, fraud, or safety violations. <strong>Independent reviews have shown contractor fraud accounts for billions in annual losses, yet fear of retaliation has suppressed reporting.</strong> The measurable benefit comes from improved oversight of the roughly $700 billion annual federal contracting spend. Fiscally, enforcement costs are estimated at $15-30 million annually through OSC expansion, offset by potential fraud recovery. The bill follows standard legislative process through Senate passage. Cost distribution is favorable: contractors bear minor compliance expenses while taxpayers gain protection against waste. The primary trade-off is potential for frivolous claims and administrative burden, though existing federal whistleblower frameworks provide tested precedent for managing these concerns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Senate, May 2026",
-      "Government Accountability Office contractor oversight reports",
-      "Office of Special Counsel budget analysis",
-      "Federal Acquisition Regulation commentary"
-    ]
-  },
-  {
-    "id": 177,
-    "sourceId": "cg:119-HR-9022",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9022?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "HR 9022: Energy and Water Development and Related Agencies Appropriations Act, 2027",
-    "score": -8,
-    "snapshot": "HR 9022 appropriates funds for energy and water development agencies for fiscal year 2027. Placed on Union Calendar May 22, 2026, with details pending full text review.",
-    "verdict": "// VERDICT: Without specific appropriation amounts or programmatic changes, preliminary assessment identifies moderate concerns about fossil fuel subsidies and inadequate climate resilience investments typical of recent energy appropriations cycles.",
-    "detail": "This appropriations bill funds the Department of Energy, Army Corps of Engineers, and Bureau of Reclamation for FY2027. <strong>Historical patterns in these bills show consistent underinvestment in grid modernization and renewable infrastructure relative to legacy energy subsidies, while water project funding often favors politically-connected regional projects over cost-effective national priorities.</strong> The bill's placement on calendar without recorded controversy suggests bipartisan acceptance of status quo spending, which perpetuates fiscal inefficiencies in energy research allocation (DOE national labs receive scattered funding across duplicative programs) and water infrastructure (Corps projects notoriously exceed budgets). Without CBO scoring available at calendar placement, concerns exist about unfunded O&M obligations for authorized projects. Constitutional process followed appropriately through committee markup.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Appropriations Committee Report",
-      "Historical CBO Appropriations Analysis",
-      "GAO Report on Energy Spending Efficiency"
-    ]
-  },
-  {
-    "id": 178,
-    "sourceId": "cg:119-HR-3535",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3535?format=json",
-    "branch": "Congress",
-    "date": "May 26",
-    "dateISO": "2026-05-26",
-    "title": "HR 3535: Stop Foreign Funds in Elections Act",
-    "score": 38,
-    "snapshot": "HR 3535 unanimously advances from committee (11-0) to prohibit foreign money in U.S. elections. Addresses documented vulnerability where foreign entities exploit existing loopholes in campaign finance law.",
-    "verdict": "// VERDICT: Strengthens electoral integrity through bipartisan closure of foreign influence loopholes with minimal fiscal impact and strong constitutional footing.",
-    "detail": "The bill targets a documented weakness in campaign finance enforcement where foreign nationals and entities have exploited gaps to influence U.S. elections indirectly. <strong>The unanimous committee vote signals rare bipartisan consensus on protecting democratic processes from foreign interference.</strong> Implementation costs are negligible compared to potential harm from compromised elections—primarily requiring FEC enforcement adjustments rather than new bureaucracy. The measure operates within established campaign finance jurisprudence and congressional authority over federal elections. Cost distribution is equitable: compliance burden falls on campaigns and PACs (entities with existing reporting infrastructure), while all voters benefit from reduced foreign influence. Minor deductions reflect that enforcement effectiveness depends on FEC resources and that determined actors may find new workarounds, requiring ongoing vigilance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee Report, HR 3535 (119th Congress)",
-      "FEC Advisory Opinions 2020-2024",
-      "Congressional Record, May 2026"
     ]
   }
 ]
