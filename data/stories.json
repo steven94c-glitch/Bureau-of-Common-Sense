@@ -1,5 +1,406 @@
 [
   {
+    "id": 703,
+    "sourceId": "cg:117-HR-6946",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6946?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 6946: SAFE Act of 2022",
+    "score": -8,
+    "snapshot": "HR 6946 (SAFE Act of 2022) was referred to subcommittee in November 2022 and saw no further legislative action. The bill died in committee without floor votes, hearings, or implementation.",
+    "verdict": "// VERDICT: A bill that failed to advance beyond subcommittee referral produced zero measurable impact on public safety, fiscal outcomes, or legal frameworks.",
+    "detail": "The SAFE Act of 2022 represents legislative inaction rather than action—referred to the Subcommittee on Crime, Terrorism, and Homeland Security in November 2022, it never received hearings, markup, or floor consideration before the 117th Congress ended. <strong>Without passage or implementation, no public safety benefits materialized, no funds were appropriated or spent, and no legal changes occurred.</strong> The score reflects modest penalties: no measurable benefit (0), neutral fiscal impact since nothing was funded (0), minor procedural penalty for consuming legislative bandwidth without advancing (-3), and small cost distribution penalty (-5) for time diverted from actionable legislation. The constitutional process was technically followed through proper referral, preventing deeper negative scoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6946 legislative history",
+      "House Judiciary Committee records, 117th Congress",
+      "Congressional Record, Nov 2022"
+    ]
+  },
+  {
+    "id": 704,
+    "sourceId": "cg:119-HR-830",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/830?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 830: SAFE Act",
+    "score": -18,
+    "snapshot": "HR 830 (SAFE Act) was referred to House committees in January 2025 and remains there as of July 2026 with no further legislative action. Without passage or implementation, the bill has produced no measurable outcomes for Americans.",
+    "verdict": "// VERDICT: A bill stalled in committee for 18 months delivers zero public benefit regardless of its stated intentions.",
+    "detail": "The SAFE Act has languished in the House Energy and Commerce and Judiciary Committees since January 2025 without advancing to markup, floor consideration, or vote. <strong>Congressional inaction—particularly on legislation with a title suggesting safety concerns—represents a failure of basic governmental function.</strong> The bill scores negatively across all criteria: no measurable benefit has materialized because nothing has been implemented; fiscal responsibility cannot be assessed but the legislative process itself wastes taxpayer-funded staff time; the democratic process is technically followed but dysfunction in moving legislation forward undermines representative government; and constituents who might benefit or be protected remain in limbo. Committee referral without subsequent action is a common fate for most bills, but extended stagnation on matters framed as safety-related merits scrutiny.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jan 2025",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status HR 830"
+    ]
+  },
+  {
+    "id": 705,
+    "sourceId": "cg:119-HR-5304",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5304?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 5304: Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2026",
+    "score": -18,
+    "snapshot": "HR 5304 appropriates funding for Labor, HHS, and Education departments for FY2026. As of September 2025, the bill was placed on the Union Calendar but has not been enacted, making its actual impact speculative.",
+    "verdict": "// VERDICT: Calendar placement without enactment means no measurable public benefit has occurred; scoring reflects typical appropriations process concerns including insufficient detail on cost-benefit analysis and potential fiscal pressures.",
+    "detail": "This appropriations bill represents standard annual funding legislation for major social welfare departments. Without enactment or specific appropriation figures, the evaluation relies on structural patterns: appropriations bills typically maintain existing programs with incremental changes, creating predictable public services but limited innovation. <strong>The nine-month delay between committee action and the action date suggests potential political gridlock or continuing resolution dependency, which creates planning uncertainty for agencies and beneficiaries.</strong> Fiscal responsibility cannot be fully assessed without CBO scoring showing offsets or deficit impact. The constitutional appropriations process is being followed procedurally, though calendar placement alone indicates incomplete legislative work. Cost distribution depends entirely on final appropriation levels and any policy riders attached, which remain unknown from this action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Union Calendar No. 227",
+      "Standard appropriations process documentation"
+    ]
+  },
+  {
+    "id": 706,
+    "sourceId": "cg:119-HR-5166",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5166?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 5166: Financial Services and General Government Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "HR 5166 appropriates funding for financial services agencies, the judiciary, IRS, and general government operations for FY2026. The bill was placed on the Union Calendar in September 2025 but has seen no floor action as of July 2026.",
+    "verdict": "// VERDICT: A standard appropriations bill stalled for ten months creates funding uncertainty for core government functions including tax collection and financial regulation.",
+    "detail": "This appropriations bill covers essential government operations including the IRS, Treasury Department, federal courts, and independent agencies. <strong>The ten-month delay between calendar placement and the query date (well past the October 2025 fiscal year start) suggests either a continuing resolution scenario or significant dysfunction in the appropriations process.</strong> Without specific funding levels or accompanying analysis, measurable impacts remain unclear. The delay itself imposes costs through planning uncertainty for affected agencies. Standard appropriations bills score near neutral when timely and responsibly crafted, but procedural delays that disrupt normal government funding cycles warrant modest penalties. The lack of floor action suggests either controversial provisions or broader legislative gridlock affecting fiscal responsibility and democratic process norms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Calendar No. 193",
+      "Federal appropriations process timeline"
+    ]
+  },
+  {
+    "id": 707,
+    "sourceId": "cg:119-HR-4779",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4779?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 4779: National Security, Department of State, and Related Programs Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "HR 4779 appropriates funding for State Department, foreign operations, and related agencies for FY2026. As of July 2025, the bill was placed on the Union Calendar but has not passed either chamber, creating potential funding gaps for diplomatic operations.",
+    "verdict": "// VERDICT: Incomplete legislative process 13 months past calendar placement suggests dysfunction in funding critical diplomatic and national security functions, risking operational gaps and undermining fiscal planning.",
+    "detail": "This appropriations bill addresses essential State Department and foreign operations funding but remains stalled in the legislative process. <strong>The 12-month gap between calendar placement (July 2025) and the current date (July 2026) indicates significant Congressional gridlock on routine funding measures.</strong> Without enacted appropriations, these agencies likely operate under continuing resolutions, which prevent new initiatives, create planning uncertainty, and may cost more due to inefficiencies. The bill's content merits vary by specific allocations, but the procedural failure represents measurable harm: diplomatic posts face staffing constraints, security assistance programs experience delays, and strategic planning becomes impossible. While the bill itself may contain reasonable provisions, the failure to advance appropriations through normal order penalizes fiscal responsibility and rule-of-law adherence. This dysfunction particularly harms career diplomatic staff and foreign partners who depend on predictable U.S. engagement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Union Calendar No. 177",
+      "Government Accountability Office continuing resolution reports"
+    ]
+  },
+  {
+    "id": 708,
+    "sourceId": "cg:119-HR-4754",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4754?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 4754: Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026",
+    "score": -18,
+    "snapshot": "HR 4754 appropriates funding for the Department of the Interior, EPA, and related agencies for fiscal year 2026. The bill was placed on the House calendar in July 2025 but shows no subsequent legislative action as of July 2026.",
+    "verdict": "// VERDICT: A stalled appropriations bill creating funding uncertainty for environmental and land management agencies a full year after calendar placement, threatening operational continuity without clear fiscal justification for the delay.",
+    "detail": "This appropriations bill addresses funding for critical agencies managing public lands, environmental protection, and related functions. <strong>The most concerning aspect is the apparent legislative gridlock—the bill has sat on the calendar for a full year without floor action, forcing agencies to operate under continuing resolutions or creating budget uncertainty.</strong> While appropriations bills inherently involve fiscal trade-offs, the complete stall prevents any assessment of whether the funding levels represent responsible stewardship. The lack of movement suggests either controversial provisions or broader congressional dysfunction. Without bill text or action, it's impossible to evaluate specific spending priorities, but prolonged appropriations delays harm agency planning, contract execution, and long-term project management. The constitutional appropriations process is being followed in form but not function, as calendar placement without votes undermines fiscal governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 4754 Status",
+      "House Calendar No. 175",
+      "Congressional appropriations procedures"
+    ]
+  },
+  {
+    "id": 709,
+    "sourceId": "cg:119-HR-4552",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4552?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 4552: Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "HR 4552 appropriates funds for Transportation, HUD, and related agencies for FY2026. As of July 2025, the bill was placed on the House calendar but has not been enacted, meaning no actual funding has been allocated or spent.",
+    "verdict": "// VERDICT: Calendar placement without enactment means no measurable impact on Americans; scoring reflects procedural delay and absence of transparent funding details in the provided record.",
+    "detail": "This appropriations bill remains in legislative limbo as of the scoring date (July 2026), having been calendared in July 2025 but not passed. Without enactment, no transportation infrastructure projects, housing assistance, or agency operations receive the proposed funding. <strong>The year-long delay between calendar placement and the current date suggests either partisan gridlock or unresolved fiscal disputes, leaving critical services potentially underfunded.</strong> Rule of law scoring is neutral since the bill follows standard appropriations procedures, but fiscal responsibility suffers from the failure to provide timely budget authority. Measurable benefit is negative due to uncertainty and operational disruption. Cost distribution cannot be assessed without knowing final funding levels or amendments, though appropriations bills typically maintain existing payment structures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Calendar No. 172, July 2025",
+      "Federal appropriations process standards"
+    ]
+  },
+  {
+    "id": 710,
+    "sourceId": "cg:119-HR-4213",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4213?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 4213: Department of Homeland Security Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "HR 4213 appropriates funding for the Department of Homeland Security for fiscal year 2026. The bill was placed on the Union Calendar in June 2025, indicating House committee approval but no final passage as of the July 2026 date provided.",
+    "verdict": "// VERDICT: Appropriations bill advancing through normal legislative process with unclear final fiscal impact and provisions pending floor consideration.",
+    "detail": "This DHS appropriations bill follows standard budget procedures, having cleared committee review and awaiting floor action. Without access to the specific funding levels, policy riders, or CBO scoring, a complete assessment is limited. <strong>The bill's placement on calendar without passage suggests potential contentious provisions or negotiations over funding levels for border security, immigration enforcement, disaster relief, and cybersecurity programs.</strong> DHS appropriations typically face debates over immigration policy riders that can complicate passage. The procedural status indicates proper legislative process is being followed, though the timeline shows significant lag between committee action (June 2025) and the reference date (July 2026), suggesting either legislative gridlock or that this represents placeholder status. Scoring reflects procedural appropriateness but uncertainty on fiscal responsibility and public benefit without specific appropriation amounts or policy provisions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4213",
+      "House Union Calendar No. 139",
+      "DHS Appropriations Historical Data"
+    ]
+  },
+  {
+    "id": 711,
+    "sourceId": "cg:119-HR-4249",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4249?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 4249: Legislative Branch Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "HR 4249 funds congressional operations for fiscal year 2026, covering salaries, office expenses, and support agencies like the Capitol Police and Government Accountability Office. Specific appropriation levels not detailed in available summary.",
+    "verdict": "// VERDICT: Standard appropriations bill maintains legislative operations but lacks transparency on cost controls or efficiency improvements in available documentation.",
+    "detail": "The Legislative Branch Appropriations Act represents necessary annual funding for Congress and its support agencies. Without access to the full appropriation amounts or comparison to prior years, assessment relies on process concerns. <strong>The bill appears to follow regular order through committee markup and calendar placement, satisfying basic constitutional requirements for appropriations.</strong> However, legislative branch appropriations historically increase above inflation without corresponding productivity metrics or public-facing justification. The lack of readily available cost-benefit analysis or efficiency benchmarks in congressional self-funding creates accountability gaps. While essential for democratic function, these appropriations warrant scrutiny for potential waste given Congress exempts itself from many transparency standards applied to executive agencies. Calendar placement in June for October 1 start suggests reasonable timeline adherence.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2025",
+      "House Calendar No. 144",
+      "CRS Report on Legislative Appropriations",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
+    "id": 712,
+    "sourceId": "cg:119-HR-4121",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4121?format=json",
+    "branch": "Congress",
+    "date": "Jul 11",
+    "dateISO": "2026-07-11",
+    "title": "HR 4121: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "HR 4121 appropriates funding for USDA, FDA, and rural development programs for fiscal year 2026. The bill was placed on the House Union Calendar in June 2025 but has seen no floor action as of July 2026.",
+    "verdict": "// VERDICT: A standard appropriations bill stalled for over a year creates budget uncertainty for agriculture programs and delays implementation of food safety and rural development initiatives.",
+    "detail": "This annual appropriations measure funds critical agencies including the Department of Agriculture, Food and Drug Administration, and rural development programs. <strong>The 13-month delay between calendar placement and the scoring date suggests congressional dysfunction that prevents timely budget execution.</strong> Without appropriations bills passing, agencies typically operate under continuing resolutions that maintain prior year funding levels and prohibit new initiatives. This creates planning uncertainty for farmers relying on USDA programs, delays FDA modernization efforts, and stalls rural broadband and infrastructure projects. The procedural failure imposes real costs: grant cycles are disrupted, seasonal agricultural programs miss planting deadlines, and rural communities cannot access capital for approved projects. While the bill's substantive provisions may be sound, the process failure alone merits penalty under rule of law and measurable benefit criteria.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Union Calendar No. 138",
+      "Congressional Budget Office appropriations tracking"
+    ]
+  },
+  {
     "id": 693,
     "sourceId": "cg:119-HR-9441",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9441?format=json",
@@ -19877,411 +20278,6 @@
       "Congressional Record, HR 9021 referral (May 2026)",
       "CDC climate and health data",
       "House committee jurisdictional procedures"
-    ]
-  },
-  {
-    "id": 213,
-    "sourceId": "cg:119-HR-9014",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9014?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9014: To increase the supply of, and lower rents for, affordable housing and to assess calculations of area median income for purposes of Federal low-income housing assistance, and for other purposes.",
-    "score": 18,
-    "snapshot": "HR 9014 aims to increase affordable housing supply and lower rents by revising area median income calculations used for federal housing assistance eligibility. Referred to committee May 2026; no floor action or cost estimates yet available.",
-    "verdict": "// VERDICT: Promising direction on a critical shortage, but lacks implementation details and fiscal analysis to assess real-world impact.",
-    "detail": "The bill addresses a genuine crisis—affordable housing shortages affect millions of Americans, with rent burden particularly severe in high-cost metros. <strong>Revising AMI calculations could expand eligibility for programs like Section 8, potentially helping working families currently priced out of assistance.</strong> However, at referral stage, the bill provides no cost estimates, implementation mechanisms, or supply-side incentives beyond income recalculation. Increasing eligibility without funding increases or construction incentives may simply lengthen waitlists. The proposal follows normal legislative process. Without CBO scoring or specifics on how supply actually increases, the bill earns modest positive marks for targeting a real problem with plausible technical fixes, but cannot score higher until mechanisms and costs are clarified.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9014, May 2026",
-      "House Financial Services Committee referral",
-      "HUD Fair Market Rent documentation",
-      "Census Bureau Housing Cost Burden data"
-    ]
-  },
-  {
-    "id": 214,
-    "sourceId": "cg:119-HR-9012",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9012?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9012: To amend the Internal Revenue Code of 1986 to allow 5-year carrybacks for the low-income housing tax credit.",
-    "score": 18,
-    "snapshot": "HR 9012 would allow developers who claim the low-income housing tax credit to carry unused credits backward five years instead of only forward, providing faster capital recovery. The bill has been referred to the House Ways and Means Committee with no cost estimate yet available.",
-    "verdict": "// VERDICT: Modest improvement to an existing housing incentive that accelerates developer cash flow without creating new credits, though fiscal impact depends on uptake rates and revenue timing effects.",
-    "detail": "The Low-Income Housing Tax Credit (LIHTC) is the primary federal tool for financing affordable rental housing, producing roughly 90,000 units annually. Current law allows only carryforward of unused credits. <strong>A five-year carryback would let developers apply credits against prior tax years, improving project cash flow and potentially making marginal projects viable.</strong> This mirrors carryback provisions in other tax code sections and could modestly increase affordable housing production without expanding the credit's annual cap. The revenue cost would be timing-based—accelerated refunds offset by reduced future liability—rather than a permanent outlay increase, though exact fiscal scoring awaits CBO analysis. The mechanism respects existing LIHTC allocation rules and doesn't bypass constitutional taxing authority. Primary beneficiaries are developers and low-income renters in new units; costs are borne by general revenues with minimal intergenerational transfer since it's a timing shift.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "IRS Publication 527 (LIHTC guidance)",
-      "Congressional Research Service, Housing Tax Expenditures"
-    ]
-  },
-  {
-    "id": 215,
-    "sourceId": "cg:119-HR-9015",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9015?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9015: To authorize assistance to train and retain obstetrician-gynecologists and sub-specialists in urogynecology and to help improve the quality of care to meet the health care needs of women in least developed countries, and for other purposes.",
-    "score": 22,
-    "snapshot": "HR 9015 authorizes assistance to train OB-GYN specialists and urogynecologists in least developed countries to improve maternal healthcare access. The bill remains in committee with no cost estimate yet published.",
-    "verdict": "// VERDICT: Targets a documented global health gap with focused technical assistance, though fiscal impact and implementation accountability remain undefined pending committee review.",
-    "detail": "Maternal mortality in least developed countries remains approximately 14 times higher than in developed nations, with critical shortages of specialized OB-GYN care creating measurable harm. <strong>This bill addresses a real capacity gap through technical training rather than open-ended aid, aligning assistance with documented need.</strong> The legislative process follows standard House procedure with appropriate committee referral. However, without CBO scoring or programmatic details, fiscal responsibility cannot be fully assessed—similar training initiatives typically cost $15-40 million annually but require oversight mechanisms to prevent waste. The bill scores positively on targeting vulnerable populations who currently bear disproportionate health costs, though implementation details will determine whether benefits reach intended recipients or create dependency without sustainable local capacity.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "WHO Maternal Mortality Database",
-      "House Committee on Foreign Affairs referral",
-      "USAID Global Health Programs comparative analysis"
-    ]
-  },
-  {
-    "id": 216,
-    "sourceId": "cg:119-HR-9009",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9009?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9009: To repeal the Hughes Amendment to the Firearm Owners' Protection Act.",
-    "score": -18,
-    "snapshot": "HR 9009 would repeal the 1986 ban on civilian possession of newly manufactured automatic weapons, allowing future machine gun sales. The bill has been referred to committee with no further action.",
-    "verdict": "// VERDICT: Repealing the automatic weapons ban would impose measurable public safety costs while following established legislative process but providing minimal documented public benefit.",
-    "detail": "The Hughes Amendment (1986) prohibited civilian ownership of automatic weapons manufactured after May 19, 1986, maintaining grandfathered pre-ban weapons under strict ATF registration. Repeal would allow new machine gun production for civilian markets. <strong>While automatic weapons are rarely used in crimes due to the existing ban's effectiveness, expanded availability would increase access to weapons designed for rapid mass casualty events without corresponding public benefit.</strong> The bill follows constitutional legislative process through committee referral. However, public safety research consistently shows that automatic weapons bans reduce lethality in mass shooting scenarios. The fiscal impact would be minimal beyond ATF regulatory adjustments, but enforcement costs could rise. Cost distribution favors firearms manufacturers and collectors while potentially imposing diffuse public safety risks on communities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Firearm Owners' Protection Act, 1986",
-      "Congressional Record, May 2026",
-      "ATF National Firearms Act Registry",
-      "DOJ Firearms Trafficking Statistics"
-    ]
-  },
-  {
-    "id": 217,
-    "sourceId": "cg:119-HR-9020",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9020?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9020: To prohibit funding for the United Nations Interim Force in Lebanon beginning on October 1, 2027, and for other purposes.",
-    "score": -18,
-    "snapshot": "HR 9020 would cut U.S. funding for UNIFIL (United Nations peacekeeping force in Lebanon) starting October 2027. The bill has been referred to committees but no cost estimate or impact assessment is publicly available.",
-    "verdict": "// VERDICT: Withdrawing peacekeeping funding without documented failure or alternative security plan risks regional instability while savings remain unquantified.",
-    "detail": "The bill terminates U.S. contributions to a decades-old UN peacekeeping mission without presenting evidence of mission failure or a replacement security framework. <strong>While fiscal savings are theoretically possible, the absence of cost-benefit analysis means actual taxpayer impact is unknown, and potential costs from regional destabilization (refugee flows, terrorism spillover, increased military deployment) are unexamined.</strong> UNIFIL monitors the Israel-Lebanon border and has operated since 1978; abrupt defunding could create security vacuums. The bill follows standard legislative process but lacks supporting data on either UNIFIL effectiveness or consequences of withdrawal. No offsetting appropriations or alternative Middle East security measures are specified, suggesting ideology over evidence-based policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "UN Peacekeeping Operations budgets",
-      "House Foreign Affairs Committee records"
-    ]
-  },
-  {
-    "id": 218,
-    "sourceId": "cg:119-HR-9016",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9016?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9016: Email Privacy Act",
-    "score": 38,
-    "snapshot": "HR 9016 updates the Electronic Communications Privacy Act of 1986 to require law enforcement to obtain a warrant before accessing emails and digital communications, regardless of age. Current law allows warrantless access to emails stored over 180 days.",
-    "verdict": "// VERDICT: Modernizes Fourth Amendment protections for digital communications, closing a 40-year loophole with minimal fiscal impact and broad bipartisan support.",
-    "detail": "The Email Privacy Act eliminates the antiquated 180-day rule that has allowed government agencies to access stored emails without a warrant, treating digital communications with the same constitutional rigor as physical mail. <strong>This reform addresses a gap where 1986 technology assumptions (emails stored on servers were considered abandoned) conflict with modern cloud-based communication norms.</strong> The bill imposes negligible implementation costs—primarily procedural adjustments for law enforcement agencies to obtain warrants through existing judicial channels. While marginally increasing investigative timelines, it restores constitutional balance without compromising legitimate law enforcement capabilities. The measure enjoys support from privacy advocates, tech companies, and civil liberties organizations across the political spectrum, reflecting consensus that digital privacy deserves statutory protection commensurate with physical privacy rights.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H.R. 9016, 119th Congress",
-      "Electronic Communications Privacy Act, 18 U.S.C. § 2703",
-      "House Judiciary Committee referral, May 2026",
-      "Fourth Amendment jurisprudence"
-    ]
-  },
-  {
-    "id": 219,
-    "sourceId": "cg:119-HR-9011",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9011?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9011: To authorize the Administrator of the General Services Administration, in coordination with the Secretary of Housing and Urban Development, to establish a pilot program and a grant program administered by the Department of Housing and Urban Development to facilitate the sale or transfer of underutilized Federal property to eligible entities for economic redevelopment, and for other purposes.",
-    "score": 18,
-    "snapshot": "HR 9011 would create pilot and grant programs allowing underutilized federal properties to be sold or transferred to eligible entities for economic redevelopment. The bill was referred to three House committees on May 22, 2026, and remains in early consideration.",
-    "verdict": "// VERDICT: Potential efficiency gains from repurposing idle federal assets offset by uncertain implementation costs and possible market distortions in property transfers.",
-    "detail": "The legislation addresses a documented problem—federal agencies collectively hold billions of dollars in underutilized real estate that generates maintenance costs without productive use. <strong>Converting vacant properties to economic use could reduce federal carrying costs while stimulating local development, but success depends entirely on program design details not yet specified.</strong> Key uncertainties include eligibility criteria for recipient entities, pricing mechanisms for transfers, oversight to prevent sweetheart deals, and whether grants duplicate existing HUD programs. The multi-committee referral suggests complexity in jurisdictional boundaries. Without CBO scoring or program parameters, fiscal impact remains speculative. The approach follows established legal frameworks for federal property disposition, though grant funding authority needs appropriation clarity. Cost distribution depends on whether below-market transfers essentially subsidize certain recipients while taxpayers forgo fair market revenue.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9011 (119th Congress)",
-      "GAO Federal Real Property Reports",
-      "House Committee Referrals, May 2026"
-    ]
-  },
-  {
-    "id": 203,
-    "sourceId": "cg:119-SJRES-192",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/192?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "SJRES 192: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Medicare Program; Implementation of Prior Authorization for Select Services for the Wasteful and Inappropriate Services Reduction (WISeR) Model\".",
-    "score": -28,
-    "snapshot": "Congressional resolution to block CMS prior authorization requirements for Medicare services under the WISeR Model. Uses Congressional Review Act to disapprove administrative rule aimed at reducing wasteful medical spending.",
-    "verdict": "// VERDICT: Blocking prior authorization safeguards likely increases Medicare fraud and waste without addressing legitimate concerns about administrative burden through alternative mechanisms.",
-    "detail": "This resolution invokes the Congressional Review Act to nullify CMS efforts to implement prior authorization for select Medicare services identified as high-risk for waste. <strong>While prior authorization can create administrative burdens for providers and delay patient care, eliminating fraud prevention mechanisms without replacement predictably increases taxpayer costs and enables billing abuse.</strong> The WISeR Model targets documented patterns of inappropriate utilization. Disapproving the rule returns Medicare to less oversight of services with known waste patterns, shifting costs to taxpayers. The resolution follows proper CRA procedure but offers no alternative fraud prevention strategy. Without evidence that the specific CMS rule violated statutory authority or imposed disproportionate burdens relative to fraud savings, this action prioritizes provider convenience over fiscal stewardship of a $900+ billion program facing insolvency projections.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Review Act, 5 U.S.C. § 801",
-      "CMS Medicare Program Integrity Reports",
-      "Congressional Record S.J.Res. 192",
-      "Medicare Trustees Report 2025"
-    ]
-  },
-  {
-    "id": 204,
-    "sourceId": "cg:119-S-4541",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4541?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "S 4541: Senator Paul Simon Study Abroad Program Act of 2026",
-    "score": -18,
-    "snapshot": "S 4541 would create a federal grant program named after Senator Paul Simon to fund study abroad programs for U.S. college students. The bill was referred to Foreign Relations Committee on May 14, 2026, with no cost estimate yet available.",
-    "verdict": "// VERDICT: Creates new federal spending program for college study abroad without demonstrated national security benefit or fiscal analysis.",
-    "detail": "This bill proposes a new grant program to subsidize study abroad experiences for college students. While international education has cultural value, <strong>the legislation provides no cost estimate, spending caps, or evidence that federal subsidy produces measurable national benefits beyond what existing private scholarships and university programs already provide.</strong> The program risks becoming an unfunded entitlement benefiting primarily middle-to-upper-class students who already have college access. Without means-testing or outcome metrics tied to national interest (language skills for critical needs, STEM collaboration, etc.), it represents discretionary spending with diffuse benefits and concentrated costs on taxpayers. The bill follows proper legislative process but lacks the fiscal discipline required for responsible new program creation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.4541 text, Congressional Record S2307-2308",
-      "Senate Foreign Relations Committee referral, May 14 2026",
-      "General study abroad program cost benchmarks"
-    ]
-  },
-  {
-    "id": 205,
-    "sourceId": "cg:119-S-4540",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4540?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "S 4540: Reproductive Health Care Accessibility Act",
-    "score": -8,
-    "snapshot": "S 4540 proposes federal standards for reproductive health care access but remains in committee with no enacted provisions, fiscal analysis, or implementation mechanisms. The bill's actual impact is currently theoretical pending legislative progression.",
-    "verdict": "// VERDICT: Premature to assess measurable outcomes for a bill still in committee review with no cost estimates, enforcement mechanisms, or enacted provisions.",
-    "detail": "This legislation attempts to establish federal reproductive health care access standards but faces significant scoring challenges. <strong>Without passage, appropriations, or implementation details, there are no measurable public benefits to evaluate—only legislative intent.</strong> The absence of CBO scoring means fiscal responsibility cannot be assessed; reproductive health mandates could impose unfunded costs on states or require federal expenditures of unknown magnitude. The committee referral follows standard legislative procedure, satisfying rule of law requirements for now, though federalizing health care standards raises constitutional questions about state authority under the 10th Amendment. Cost distribution remains speculative without knowing funding sources, whether compliance costs fall on providers or states, and how access expansion would be financed. The bill's current status merits a neutral-to-negative score reflecting its lack of concrete outcomes rather than its stated policy goals.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 4540, May 2026",
-      "Senate HELP Committee Referral",
-      "General legislative procedure standards"
     ]
   }
 ]
