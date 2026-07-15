@@ -1,5 +1,409 @@
 [
   {
+    "id": 713,
+    "sourceId": "cg:119-S-3290",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3290?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 3290: Financial Services and General Government Appropriations Act, 2026",
+    "score": -18,
+    "snapshot": "S 3290 funds Treasury, IRS, federal courts, and general government operations for FY2026. As of December 2025, the bill remains in committee with no floor action, appropriations gap, or final CBO score available.",
+    "verdict": "// VERDICT: Appropriations bill stalled in committee seven months past fiscal year start creates budgetary uncertainty and likely triggers continuing resolutions with attendant inefficiencies.",
+    "detail": "This appropriations bill covers critical government functions including tax collection, financial regulation, and judicial operations. <strong>The seven-month delay between referral and the July 2026 date represents a significant process failure, forcing agencies to operate under continuing resolutions that prohibit new initiatives and create planning uncertainty.</strong> Without committee markup or floor consideration, the bill provides no measurable benefit while the appropriations lapse imposes real costs through delayed hiring, deferred maintenance, and reduced enforcement capacity at agencies like the IRS. The procedural breakdown violates the intended budget timeline established in the Congressional Budget Act of 1974, though it reflects common contemporary practice rather than exceptional misconduct. Fiscal responsibility cannot be assessed without knowing final funding levels versus baseline, but the delay itself wastes resources through short-term CR administrative overhead.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3290, 119th Congress",
+      "Congressional Budget Act of 1974",
+      "Senate Appropriations Committee records",
+      "Congressional Research Service appropriations process reports"
+    ]
+  },
+  {
+    "id": 714,
+    "sourceId": "cg:119-S-3293",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3293?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 3293: Energy and Water Development and Related Agencies Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "S 3293 appropriates funding for energy and water development agencies for fiscal year 2026. As of December 2025, the bill was referred to committee with no enacted provisions or documented fiscal impact available.",
+    "verdict": "// VERDICT: Insufficient information exists to assess actual implementation, cost-benefit outcomes, or distribution effects of an appropriations bill still in committee review.",
+    "detail": "Appropriations bills fund ongoing government operations, but scoring requires enacted provisions and documented impacts. Without committee markup, floor amendments, CBO scoring, or final passage, the bill's content remains undefined. <strong>Energy and water appropriations typically fund Army Corps of Engineers projects, Department of Energy programs, and Bureau of Reclamation activities, but specific allocations, cost overruns, and beneficiary analysis cannot be determined from a committee referral.</strong> The legislative process criterion shows neutral procedural compliance (committee referral is proper), but measurable benefit, fiscal responsibility, and cost distribution cannot be evaluated without actual appropriations data, project selections, or regional impact assessments. Standard appropriations processes may include earmarks, unfunded mandates, or efficient infrastructure investments—none verifiable at this stage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 3293 referral Dec 2025",
+      "Senate Committee on Appropriations",
+      "Standard appropriations process guidelines"
+    ]
+  },
+  {
+    "id": 715,
+    "sourceId": "cg:119-S-2587",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2587?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 2587: Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "FY2026 appropriations bill for Labor, HHS, and Education departments. As of July 2025, placed on Senate calendar but not enacted; current scoring reflects typical appropriations process concerns without final legislative text.",
+    "verdict": "// VERDICT: Standard appropriations bill stalled in legislative process shows modest fiscal concerns and procedural delays but lacks enacted provisions for definitive impact assessment.",
+    "detail": "This appropriations bill funds three major federal departments representing roughly $1.8 trillion in annual federal spending. Without final enacted text, scoring reflects structural concerns common to these bills: <strong>appropriations typically maintain baseline spending with modest increases, rarely achieving significant cost savings or transformative public benefit.</strong> The one-year delay between calendar placement (July 2025) and current date suggests procedural dysfunction, potentially forcing agencies into continuing resolutions that waste resources. The bill likely follows constitutional appropriations process correctly (Rule of Law: positive) but without CBO scoring or final amendments, fiscal responsibility cannot be fully assessed. Cost distribution depends heavily on specific program funding levels not available in summary data. The prolonged timeline suggests Congress may be negotiating controversial riders or funding disputes that delay essential government operations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 140",
+      "Congressional appropriations baseline data",
+      "Office of Management and Budget historical tables"
+    ]
+  },
+  {
+    "id": 716,
+    "sourceId": "cg:119-S-2572",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2572?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 2572: Department of Defense Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "S 2572 funds Department of Defense operations for fiscal year 2026. Bill placed on Senate calendar July 2025 but remains unpassed as of July 2026, creating potential funding gap and operational uncertainty for military programs.",
+    "verdict": "// VERDICT: A standard defense appropriations bill stalled in legislative process for nearly one year, risking continuity of military operations and forcing reliance on continuing resolutions that limit program flexibility.",
+    "detail": "The Department of Defense Appropriations Act follows the constitutional appropriations process but has failed to advance beyond calendar placement for twelve months. <strong>This delay forces DoD to operate under continuing resolutions, which freeze spending at prior-year levels and prohibit new program starts, harming military readiness and efficiency.</strong> While annual defense appropriations are necessary for national security, the inability to pass timely funding represents a systemic governance failure. Without access to the bill's specific provisions, scoring focuses on the documented harm from appropriations delays: reduced procurement flexibility, delayed modernization programs, and administrative inefficiency. The process failure affects fiscal responsibility (wasted overhead costs from short-term CRs), measurable benefit (degraded readiness), and cost distribution (future taxpayers bear higher costs from delayed decisions). Rule of law receives modest positive credit for following proper origination procedures despite execution failure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2572, 119th Congress",
+      "Senate Legislative Calendar No. 137",
+      "GAO Reports on Continuing Resolution Effects",
+      "Congressional Appropriations Process Standards"
+    ]
+  },
+  {
+    "id": 717,
+    "sourceId": "cg:119-S-2465",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2465?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 2465: Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "Annual appropriations bill for DOT, HUD, and related agencies for FY2026. Placed on Senate calendar July 2025, typically funds transportation infrastructure, public housing, and urban development programs worth approximately $150+ billion.",
+    "verdict": "// VERDICT: Standard appropriations process with modest fiscal concerns due to typical inclusion of earmarks and maintenance of baseline spending without significant reform of inefficient programs.",
+    "detail": "This appropriations bill funds critical federal functions including highway construction, public transit, FAA operations, affordable housing programs, and community development grants. <strong>The bill follows proper constitutional appropriations process through committee markup and calendar placement, though final passage timing and amendments remain uncertain.</strong> While funding core infrastructure and housing needs provides measurable benefits, these annual bills typically maintain baseline spending levels without addressing structural inefficiencies in grant programs or long-term unfunded maintenance backlogs in both transportation and public housing systems. The fiscal responsibility score reflects standard appropriations practices that rarely achieve significant cost-benefit optimization, though the bill avoids emergency spending gimmicks. Cost distribution depends on final formula allocations between states and income-targeted housing programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 125",
+      "Congressional Appropriations Process, Senate Committee on Appropriations",
+      "HUD Budget Authority Historical Tables",
+      "DOT Appropriations History, FY2020-2025"
+    ]
+  },
+  {
+    "id": 718,
+    "sourceId": "cg:119-S-2354",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2354?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 2354: Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026",
+    "score": -18,
+    "snapshot": "Annual appropriations bill funding Commerce, Justice, and Science agencies for FY2026. Placed on Senate calendar July 2025, awaiting floor consideration as of July 2026.",
+    "verdict": "// VERDICT: Appropriations process stalled for one year creates funding uncertainty and forces agencies to operate under continuing resolutions, hampering planning and program execution.",
+    "detail": "This appropriations bill covers critical federal functions including the Department of Justice, Department of Commerce, NASA, NSF, and related agencies. <strong>After being placed on the Senate calendar in July 2025, the bill has languished for a full year without floor action, forcing affected agencies to operate under continuing resolutions that typically freeze funding at prior-year levels and prohibit new initiatives.</strong> This delay disrupts hiring, contract awards, research grants, and law enforcement operations. While the bill itself may contain fiscally responsible allocations, the year-long stall represents a breakdown in the constitutional appropriations process. The impasse shifts costs to agencies through operational inefficiencies and delayed programs, while benefiting no stakeholders. Without specific bill language available, scoring focuses on the demonstrable harm from procedural failure rather than substantive policy content.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 122",
+      "Congressional Record, 119th Congress",
+      "Government Accountability Office continuing resolution impact studies"
+    ]
+  },
+  {
+    "id": 719,
+    "sourceId": "cg:119-S-2431",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2431?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 2431: Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026",
+    "score": -18,
+    "snapshot": "FY2026 Interior-Environment appropriations bill covering EPA, Interior Department, national parks, tribal programs, and related agencies. Placed on Senate calendar July 2025; no final passage or enacted funding levels publicly available as of scoring date.",
+    "verdict": "// VERDICT: Unable to verify final appropriation amounts or specific programmatic changes; scoring reflects typical structural concerns in Interior-Environment bills including deferred maintenance costs and incomplete environmental enforcement funding.",
+    "detail": "This appropriations bill funds critical federal land management, environmental protection, and tribal services, but standard Interior-Environment bills face recurring problems: <strong>national park deferred maintenance exceeds $20 billion while annual appropriations fail to close the gap</strong>, EPA enforcement capacity has declined relative to regulated entities, and wildfire suppression increasingly consumes funds meant for prevention. Without enacted text showing specific funding levels, cuts to inspections or restoration programs, or additions for climate adaptation, scoring assumes modest negative impact across criteria. Fiscal responsibility suffers when appropriations don't address long-term liabilities. Rule of law maintained through regular appropriations process. Cost distribution concerns arise if environmental cleanup or tribal obligations remain underfunded, shifting burdens forward.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.2431, 119th Congress",
+      "Senate Legislative Calendar No. 124",
+      "National Park Service Deferred Maintenance Reports",
+      "Congressional Appropriations Committee Records"
+    ]
+  },
+  {
+    "id": 720,
+    "sourceId": "cg:119-S-2256",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2256?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 2256: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "FY2026 appropriations bill for USDA, FDA, and rural development programs. Awaiting Senate floor action as of July 2025, with final passage and implementation still pending as of the scoring date.",
+    "verdict": "// VERDICT: Routine appropriations process maintaining baseline agricultural and food safety operations, but pending full passage and final funding levels make concrete impact assessment premature.",
+    "detail": "This appropriations bill funds critical agricultural support, food safety inspections, rural infrastructure, and nutrition programs including SNAP. <strong>Without enacted final amounts or reconciliation with House version, the measurable benefits remain theoretical.</strong> Standard ag appropriations typically maintain existing programs rather than reform them, offering continuity but limited fiscal innovation. The bill follows regular order through committee markup to calendar placement, respecting constitutional appropriations process. However, annual appropriations that simply extend baseline spending often mask structural budget issues—farm subsidies and nutrition programs lack fundamental cost-benefit reassessment. The protracted timeline (still not enacted 13 months into the fiscal year being funded) suggests potential continuing resolution dependence, which undermines fiscal planning for agencies and beneficiaries alike.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 112, July 2025",
+      "Congressional appropriations process records",
+      "USDA and FDA annual budget documentation"
+    ]
+  },
+  {
+    "id": 721,
+    "sourceId": "cg:119-S-2257",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2257?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "S 2257: Legislative Branch Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "S 2257 funds legislative branch operations for FY2026. As of July 2025, the bill was placed on Senate calendar but no final passage or funding details are publicly available for appropriations that would apply to FY2026.",
+    "verdict": "// VERDICT: Incomplete legislative process and lack of transparent cost data prevent assessment of whether congressional operational funding represents responsible stewardship of taxpayer resources.",
+    "detail": "Legislative branch appropriations typically fund Congress itself, the Library of Congress, Government Accountability Office, and related agencies. Without final passage, amendment details, or published funding levels, the actual fiscal impact remains uncertain. <strong>The 10-month delay between calendar placement (July 2025) and the evaluation date (July 2026) suggests potential dysfunction in the appropriations process itself.</strong> Historical legislative branch appropriations run $5-6 billion annually, but this bill's specific allocations are unavailable. The constitutional requirement for Congress to fund its operations is clear, but transparency in how those funds are allocated and whether they reflect genuine operational needs versus institutional bloat cannot be determined from available information. Process appears stalled rather than deliberately obstructive.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.2257 Status",
+      "Senate Legislative Calendar 2025",
+      "Historical Legislative Branch Appropriations Data"
+    ]
+  },
+  {
+    "id": 722,
+    "sourceId": "cg:119-HR-9637",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9637?format=json",
+    "branch": "Congress",
+    "date": "Jul 12",
+    "dateISO": "2026-07-12",
+    "title": "HR 9637: Protecting Columbia River Salmon Act of 2026",
+    "score": -8,
+    "snapshot": "HR 9637 proposes federal protections for Columbia River salmon populations through habitat restoration and fishing restrictions. The bill has been referred to committee with no cost estimates or implementation timeline yet available.",
+    "verdict": "// VERDICT: Early-stage conservation bill with uncertain ecological benefits and economic costs to regional fishing industries pending committee review and impact analysis.",
+    "detail": "The Protecting Columbia River Salmon Act attempts to address documented declines in Pacific salmon populations through federal intervention. However, at the committee referral stage, no Congressional Budget Office score exists to assess fiscal impact, and no detailed implementation mechanism has been specified. <strong>Conservation measures often impose immediate costs on commercial and recreational fishing sectors while delivering ecological benefits only over multi-year or multi-decade timelines.</strong> Without evidence of stakeholder input from affected tribes, fishing communities, or hydroelectric operators, the bill risks imposing regulatory burdens without demonstrated consensus on effectiveness. The measure scores poorly on fiscal responsibility due to absence of cost-benefit analysis, and moderately negative on cost distribution given potential concentrated harm to Pacific Northwest fishing economies. Constitutional process is followed appropriately for legislative introduction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Committee on Natural Resources referral",
+      "NOAA Fisheries Pacific salmon data"
+    ]
+  },
+  {
     "id": 703,
     "sourceId": "cg:117-HR-6946",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/6946?format=json",
@@ -19871,413 +20275,6 @@
       "Congressional Record, HR 8791, May 2026",
       "House Committee on Education and Workforce referral",
       "NCES data on HBCU enrollment patterns"
-    ]
-  },
-  {
-    "id": 227,
-    "sourceId": "cg:119-HR-8888",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8888?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8888: Ending Passenger Rail Forced Arbitration Act",
-    "score": 28,
-    "snapshot": "HR 8888 would prohibit mandatory arbitration clauses in passenger rail contracts, allowing riders to pursue class actions or court cases against rail carriers. The bill applies to Amtrak and other passenger rail services operating in interstate commerce.",
-    "verdict": "// VERDICT: Strengthens consumer legal rights against rail carriers while adding minimal fiscal burden and following proper legislative process.",
-    "detail": "The legislation scores well on public benefit by restoring judicial access for rail passengers who currently face forced arbitration, a mechanism that typically favors corporate defendants and prevents class actions for systemic issues. <strong>Fiscal impact is negligible—no direct federal expenditure, though rail carriers may face increased litigation costs that could marginally affect ticket prices.</strong> The bill follows standard committee referral process and operates within Congress's interstate commerce authority. Cost distribution favors ordinary passengers over corporate rail interests, though any litigation cost pass-through would be broadly distributed among riders. The measure addresses a documented asymmetry in consumer protection, as arbitration clauses in transportation contracts have been criticized by consumer advocates and some federal agencies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee on Transportation referral records",
-      "Consumer Financial Protection Bureau arbitration studies",
-      "Federal Railroad Administration safety data"
-    ]
-  },
-  {
-    "id": 228,
-    "sourceId": "cg:119-HR-8815",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8815?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8815: Teacher Debt Relief Act",
-    "score": -8,
-    "snapshot": "HR 8815 proposes federal debt relief for teachers, currently in committee with no cost estimate or eligibility criteria publicly available. Program design and funding mechanism remain unspecified.",
-    "verdict": "// VERDICT: Lacks sufficient detail for objective assessment; potential benefits to educators offset by undefined fiscal cost and absence of implementation framework.",
-    "detail": "Without a CBO score, the fiscal impact remains speculative. Teacher retention is a documented challenge in American education, and targeted debt relief could address workforce shortages in underserved areas if properly structured. However, <strong>the bill provides no public information on eligibility thresholds, funding sources, or program caps</strong>, making it impossible to evaluate whether benefits justify costs. The legislative process is being followed appropriately with committee referral, but absence of cost-benefit analysis at this stage suggests incomplete policy development. Debt relief programs can create moral hazard if not carefully targeted, and broad forgiveness shifts costs to taxpayers without addressing root causes of educational debt.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8815",
-      "House Committee on Education and Workforce referral, May 2026",
-      "Federal student debt policy framework"
-    ]
-  },
-  {
-    "id": 229,
-    "sourceId": "cg:119-HR-8795",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8795?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8795: American Families Gas Tax Relief Act",
-    "score": -28,
-    "snapshot": "HR 8795 proposes a temporary federal gas tax holiday. As of May 13, 2026, the bill has only been referred to the House Ways and Means Committee with no further legislative action.",
-    "verdict": "// VERDICT: Suspending gas tax collections creates immediate revenue loss without guaranteed consumer savings, shifts infrastructure funding burden to general revenues or future taxpayers, and lacks mechanisms to prevent retailer price capture.",
-    "detail": "The federal gas tax (18.4 cents per gallon) funds the Highway Trust Fund, which finances critical infrastructure maintenance and improvements. <strong>Economic research on previous state-level gas tax holidays shows retailers often capture 60-80% of the savings rather than passing them to consumers, making this an inefficient transfer to oil companies.</strong> The bill provides no enforcement mechanism to ensure price reductions reach motorists. Suspending collections without alternative funding mechanisms creates immediate Highway Trust Fund shortfalls, forcing either general revenue transfers (shifting costs to all taxpayers including non-drivers) or deferred maintenance (creating larger future costs). While marketed as family relief, the benefit distribution heavily favors higher-income households who drive more and own larger vehicles. The temporary nature provides no incentive for behavioral change while creating administrative costs for reinstatement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -17.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Highway Trust Fund Analysis, Congressional Research Service",
-      "Gas Tax Holiday Studies, University of Chicago Economics Dept",
-      "Federal Register Transportation Finance"
-    ]
-  },
-  {
-    "id": 209,
-    "sourceId": "cl:11332972",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10865524/rutherford-v-united-states/",
-    "branch": "Courts",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "Opinion 11332972",
-    "score": 18,
-    "snapshot": "Supreme Court ruled 6-3 that sentencing disparities from nonretroactive sentencing reforms cannot qualify as \"extraordinary and compelling\" grounds for compassionate release under 18 U.S.C. §3582(c)(1)(A)(i). Two petitioners serving mandatory minimum sentences under the former §924(c) stacking regime sought reductions based on the First Step Act's changes, which did not apply retroactively.",
-    "verdict": "// VERDICT: The Court preserves congressional intent on retroactivity and prevents judicial overreach, but denies relief to prisoners serving sentences Congress itself later deemed excessive.",
-    "detail": "The ruling enforces separation of powers: Congress explicitly chose not to make First Step Act sentencing reductions retroactive to already-sentenced defendants, and the Court declines to let judges override that policy choice through the compassionate release mechanism. <strong>This respects democratic process and finality in sentencing, preventing courts from becoming a backdoor appeal route for every sentencing reform.</strong> However, the decision perpetuates acknowledged injustice—prisoners continue serving decades-long sentences under laws Congress recognized as excessive and changed for future offenders. The Court noted nonretroactivity is \"the norm,\" yet this creates a two-tier system where identical conduct receives vastly different punishment based solely on sentencing date. While the opinion correctly defers to legislative prerogative on retroactivity, it offers no remedy for prisoners serving what are now consensus-excessive sentences, placing finality above substantive justice.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion, Rutherford v. United States, No. 24-820 (May 28, 2026)",
-      "18 U.S.C. §3582(c)(1)(A)(i) (compassionate release provision)",
-      "First Step Act of 2018, Pub. L. 115-391",
-      "U.S. Sentencing Guidelines Manual App. C, Amdt. 814"
-    ]
-  },
-  {
-    "id": 196,
-    "sourceId": "cl:11332975",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10865527/fernandez-v-united-states/",
-    "branch": "Courts",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "Opinion 11332975",
-    "score": 38,
-    "snapshot": "Supreme Court ruled 7-2 that federal prisoners challenging conviction validity must use habeas corpus (28 U.S.C. §2255) procedures, not compassionate release motions (18 U.S.C. §3582). The decision closes a procedural loophole some defendants used to bypass strict habeas deadlines and filing limits.",
-    "verdict": "// VERDICT: Reinforces established legal process for conviction challenges, preventing end-runs around congressionally designed safeguards while clarifying that compassionate release is for sentencing relief, not relitigating guilt.",
-    "detail": "The Court held that Joe Fernandez—convicted of murder-for-hire in 2013—could not use a compassionate release motion to challenge his conviction's validity after his §2255 habeas petition failed. Congress created strict guardrails for habeas claims (one-year deadline, generally one petition, procedural default rules) to balance finality with fairness. Allowing prisoners to repackage conviction challenges as \"extraordinary and compelling reasons\" under §3582 would nullify those limits. <strong>Seven circuit courts agreed with this interpretation; two disagreed, creating the split the Court resolved.</strong> The ruling preserves judicial resources, respects congressional intent, and maintains predictable post-conviction procedures. It does not prevent genuine compassionate release (medical emergencies, sentencing disparities), only bars using that statute to relitigate factual guilt. The dissent's concerns about wrongful convictions are addressed through existing actual-innocence exceptions in habeas law, not by creating a procedural workaround.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion 24-556, May 28, 2026",
-      "28 U.S.C. §2255 (habeas corpus)",
-      "18 U.S.C. §3582 (compassionate release)",
-      "Preiser v. Rodriguez, 411 U.S. 475 (1973)"
-    ]
-  },
-  {
-    "id": 197,
-    "sourceId": "cl:11332974",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10865526/flowers-foods-inc-v-brock/",
-    "branch": "Courts",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "Opinion 11332974",
-    "score": 38,
-    "snapshot": "Supreme Court ruled 9 U.S.C. §1's FAA employment exemption applies to workers on intrastate legs of interstate journeys, without requiring state-line crossings. Brock, a Colorado distributor for Flowers Foods, can proceed with wage claims in court rather than forced arbitration.",
-    "verdict": "// VERDICT: The Court clarified statutory worker protections by affirming that intrastate transport workers in interstate supply chains retain access to courts, consistent with century-old Commerce Clause precedents and FAA's 1925 text.",
-    "detail": "The decision interprets the Federal Arbitration Act's exemption for transportation workers engaged in interstate commerce, holding that <strong>workers handling goods on one leg of a multi-state journey qualify for the exemption even without crossing state lines themselves</strong>. The ruling relies on historical precedents like *The Daniel Ball* (1871) establishing that continuous interstate commerce includes intrastate segments. This protects workers like franchisee distributors from mandatory arbitration clauses that often favor corporate interests. The opinion follows constitutional process, applies established statutory interpretation methods, and preserves access to courts for a vulnerable worker class (independent contractors in supply chains) without imposing new costs. By clarifying decades-old statutory language rather than expanding it, the Court maintains rule of law while preventing corporations from using arbitration agreements to shield potential wage violations from judicial review.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion 11332974, May 28, 2026",
-      "Federal Arbitration Act, 9 U.S.C. §1",
-      "The Daniel Ball, 10 Wall. 557 (1871)",
-      "Black's Law Dictionary (historical editions)"
-    ]
-  },
-  {
-    "id": 198,
-    "sourceId": "cl:11332973",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10865525/pitchford-v-cain/",
-    "branch": "Courts",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "Opinion 11332973",
-    "score": 32,
-    "snapshot": "The Supreme Court held that Mississippi courts unreasonably applied Batson v. Kentucky by finding waiver when the trial judge prevented defense counsel from rebutting the prosecutor's race-neutral explanations for striking four of five Black potential jurors. The defendant, convicted of capital murder and sentenced to death, was granted habeas relief.",
-    "verdict": "// VERDICT: The ruling enforces constitutional equal protection rights in jury selection and corrects a procedural denial that allowed racial discrimination in a capital case.",
-    "detail": "The decision protects the integrity of the three-step Batson process designed to prevent race-based jury strikes. The trial court interrupted defense counsel twice when attempting to argue pretext, explicitly assured counsel the objection was preserved, then the Mississippi Supreme Court ruled it waived anyway—a procedural trap violating due process. <strong>When state courts create impossible preservation requirements that contradict trial court assurances, they undermine equal protection guarantees.</strong> The ruling has narrow fiscal impact (costs of retrial) but upholds constitutional rights for defendants facing execution. By reversing federal habeas denial, the Court reaffirms that racial discrimination in death penalty cases cannot be procedurally excused, maintaining judicial legitimacy in capital proceedings. The process protects both individual rights and public confidence in fair trials.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Batson v. Kentucky, 476 U.S. 79 (1986)",
-      "Slip Opinion No. 24-7351, May 28, 2026",
-      "706 F. Supp. 3d 614 (U.S. District Court)",
-      "Flowers v. Mississippi, 588 U.S. 284 (2019)"
-    ]
-  },
-  {
-    "id": 210,
-    "sourceId": "cg:119-HR-8778",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8778?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 8778: EV Charging Accessibility Act",
-    "score": -18,
-    "snapshot": "HR 8778 mandates accessible EV charging infrastructure but remains in committee with no implementation timeline or cost estimate. The bill addresses a real gap in ADA compliance for emerging technology but lacks fiscal analysis.",
-    "verdict": "// VERDICT: Addresses legitimate accessibility need but advances without required cost-benefit analysis or funding mechanism.",
-    "detail": "The EV Charging Accessibility Act would require public EV charging stations to meet ADA accessibility standards—a legitimate policy goal as electric vehicle infrastructure expands. However, the bill scores poorly on fiscal responsibility due to absence of Congressional Budget Office scoring or implementation cost estimates. <strong>Mandating retrofits and new standards without analyzing compliance costs to businesses, municipalities, or the federal government represents a procedural failure regardless of policy merit.</strong> The rule of law criterion suffers because the bill was referred to committees without fiscal analysis typical for infrastructure mandates. Cost distribution remains unclear: small charging station operators may face disproportionate compliance burdens compared to large networks. Measurable benefit is speculative until deployment data exists showing current inaccessibility rates and projected improvements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8778",
-      "House Committee Referral, May 2026",
-      "ADA Standards for Accessible Design"
-    ]
-  },
-  {
-    "id": 211,
-    "sourceId": "cg:119-HR-9013",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9013?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9013: To amend title 18, United States Code, to provide that unlawful interstate transportation of fireworks is specified unlawful activity for purposes of laundering of monetary instruments.",
-    "score": -18,
-    "snapshot": "HR 9013 adds interstate fireworks trafficking to the list of predicate offenses for money laundering prosecutions under 18 U.S.C. § 1956. The bill addresses illegal fireworks transport across state lines by enabling asset forfeiture and financial crime penalties.",
-    "verdict": "// VERDICT: Targets a minor compliance issue with disproportionate money laundering penalties, creating unnecessary legal complexity without demonstrable public safety gains.",
-    "detail": "This bill expands federal money laundering statutes to cover illegal interstate fireworks transport—a regulatory violation typically involving consumer-grade pyrotechnics crossing state borders. <strong>While existing federal law already prohibits unlawful fireworks transport, adding money laundering charges creates prosecutorial overkill for what are predominantly minor commercial violations.</strong> No evidence suggests fireworks trafficking generates significant laundering activity warranting this escalation. The measure follows proper legislative process but fails fiscal responsibility by expanding enforcement apparatus without cost-benefit analysis. It scores negatively on public benefit (no demonstrated safety improvement), poorly on fiscal grounds (enforcement costs exceed likely impact), neutrally on rule of law (proper procedure), and negatively on cost distribution (potential disproportionate penalties on small commercial operators).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9013, 119th Congress",
-      "18 U.S.C. § 1956 (Money Laundering)",
-      "18 U.S.C. § 836 (Interstate Fireworks Transport)",
-      "House Judiciary Committee Referral, May 2026"
-    ]
-  },
-  {
-    "id": 212,
-    "sourceId": "cg:119-HR-9021",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9021?format=json",
-    "branch": "Congress",
-    "date": "May 27",
-    "dateISO": "2026-05-27",
-    "title": "HR 9021: To improve response to, and preparation for, heat waves and extreme heat, and for other purposes.",
-    "score": 18,
-    "snapshot": "HR 9021 proposes federal coordination and funding mechanisms for heat wave preparedness, including public cooling centers, early warning systems, and vulnerable population protections. The bill has been referred to five House committees for review; no cost estimate is yet available.",
-    "verdict": "// VERDICT: Creates structured heat response framework addressing documented public health threat, though fiscal impact and implementation details remain unspecified pending committee review.",
-    "detail": "Heat waves are the leading weather-related cause of death in the United States, with climate data showing increasing frequency and intensity. This bill addresses a measurable gap in federal coordination for extreme heat events, which currently lack the systematic response infrastructure applied to hurricanes or floods. <strong>The legislation scores positively for targeting a documented public health need with preventive measures like cooling centers and early warning systems.</strong> However, without CBO scoring or defined appropriation levels, fiscal responsibility cannot be fully assessed. The bill follows normal legislative process through multiple relevant committees. Primary concerns involve potential unfunded mandates to states and municipalities, and whether cost-sharing formulas adequately protect vulnerable communities from implementation gaps. The framework is sound, but execution depends on details not yet public.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9021 referral (May 2026)",
-      "CDC climate and health data",
-      "House committee jurisdictional procedures"
     ]
   }
 ]
