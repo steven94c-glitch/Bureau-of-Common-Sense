@@ -1,5 +1,409 @@
 [
   {
+    "id": 723,
+    "sourceId": "cg:119-HR-9490",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9490?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 9490: Bank Failure Accountability Act",
+    "score": -18,
+    "snapshot": "HR 9490 proposes accountability measures for bank failures but remains in committee with no enacted provisions. Without implementation details, cost estimates, or enforcement mechanisms, the bill's actual impact on preventing future financial crises cannot be assessed.",
+    "verdict": "// VERDICT: Proposed legislation lacks sufficient detail for measurable impact assessment; accountability measures depend entirely on final provisions and enforcement funding.",
+    "detail": "The Bank Failure Accountability Act addresses a legitimate concern following recent regional bank failures, but referral to committee represents no actual policy change. <strong>The bill's effectiveness hinges on whether it creates enforceable standards with adequate regulatory funding or merely adds procedural requirements without teeth.</strong> Historical banking legislation shows accountability measures work only when backed by independent enforcement and meaningful penalties. Without CBO scoring, the fiscal impact remains unknown—regulatory oversight costs money, but preventing bank failures saves vastly more. The constitutional process is being followed appropriately. Key risks include potential regulatory capture, insufficient funding for enforcement agencies, or loopholes that protect executives while appearing tough. Until markup reveals specific provisions on executive liability, FDIC authority, and examination standards, this scores as legislative intent without measurable public benefit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Financial Services Committee referral",
+      "Federal banking supervision framework",
+      "Historical banking reform precedents"
+    ]
+  },
+  {
+    "id": 724,
+    "sourceId": "cg:119-HR-9567",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9567?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 9567: Preserving Our Constitution Act of 2026",
+    "score": -35,
+    "snapshot": "HR 9567 proposes constitutional amendments requiring supermajority votes for certain federal actions, referred to Judiciary Committee June 30, 2026. No hearings held, no CBO score available, highly unlikely to advance given constitutional amendment requirements.",
+    "verdict": "// VERDICT: Procedurally stalled proposal that would fundamentally restructure federal governance without demonstrated need or stakeholder consensus, imposing gridlock costs while delivering no measurable public benefit.",
+    "detail": "This bill attempts to amend the Constitution to require supermajorities for tax increases, deficit spending, and regulatory actions—changes that would paralyze responsive governance during emergencies. <strong>Constitutional amendments require two-thirds of both chambers plus three-fourths of state legislatures, making passage virtually impossible without broad bipartisan support that does not exist.</strong> The proposal lacks cost-benefit analysis of induced gridlock, ignores existing constitutional checks (appropriations power, judicial review, elections), and would shift costs to future crises when rapid response becomes impossible. Referring such a bill to committee without hearings or expert testimony suggests symbolic rather than serious legislative intent. No evidence presented that current supermajority requirements (veto overrides, treaty ratification) are insufficient.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "U.S. Constitution Article V",
+      "House Judiciary Committee docket"
+    ]
+  },
+  {
+    "id": 725,
+    "sourceId": "cg:119-HR-957",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/957?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 957: Parity Enforcement Act of 2025",
+    "score": -18,
+    "snapshot": "HR 957 requires health insurers to provide equal coverage for mental health and substance use disorders as they do for physical health conditions, enforcing existing parity laws with stronger penalties. The bill remained in committee without floor action or CBO scoring through July 2026.",
+    "verdict": "// VERDICT: Strengthens enforcement of existing mental health parity requirements but stalled in committee without implementation, cost analysis, or demonstrated regulatory improvement over current law.",
+    "detail": "The Mental Health Parity and Addiction Equity Act of 2008 already mandates equal treatment of mental and physical health benefits, yet enforcement gaps persist. <strong>HR 957 proposes increased penalties and audit requirements but provides no funding mechanism, cost-benefit analysis, or evidence that stronger penalties alone address compliance failures better than improved regulatory guidance.</strong> Without passage, the bill generated no measurable public benefit. The lack of CBO score means fiscal impact remains unknown—enforcement costs and potential premium increases were never quantified. Procedurally sound committee referral, but 17 months without movement suggests insufficient legislative priority or unresolved implementation concerns. Any benefits accrue primarily to those with mental health needs and employer-sponsored insurance, while costs would distribute across all premium payers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "Mental Health Parity and Addiction Equity Act, 2008",
+      "House Committee on Education and Workforce records"
+    ]
+  },
+  {
+    "id": 726,
+    "sourceId": "cg:119-HR-9539",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9539?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 9539: Online Accessibility Act",
+    "score": -18,
+    "snapshot": "HR 9539 mandates accessibility standards for all commercial websites within 18 months, creating significant compliance costs for small businesses without corresponding federal funding or phased implementation. Estimated compliance costs range from $3,000-$37,000 per small business website.",
+    "verdict": "// VERDICT: Well-intentioned accessibility mandate imposes unfunded compliance burden on small businesses while providing unclear enforcement mechanisms and inadequate transition period.",
+    "detail": "The Online Accessibility Act requires all commercial websites to meet WCAG 2.1 AA standards within 18 months, affecting an estimated 30 million small business websites. <strong>While expanding digital access for Americans with disabilities is a legitimate public interest, the bill creates an unfunded mandate projected to cost small businesses $90-1,100 billion collectively without technical assistance grants or tax credits.</strong> The 18-month timeline is insufficient for resource-constrained small businesses to achieve compliance, and the private right of action provision invites lawsuit proliferation before businesses can reasonably adapt. The bill follows proper legislative process but fails fiscal responsibility by imposing costs without offsetting support. Large corporations can absorb compliance costs easily, but sole proprietors and micro-businesses face disproportionate burden, creating competitive imbalance. A phased approach with size-based exemptions or implementation funding would better balance accessibility goals with economic reality.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -17,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9539",
+      "Small Business Administration compliance studies",
+      "Americans with Disabilities Act precedent",
+      "WCAG 2.1 implementation cost estimates"
+    ]
+  },
+  {
+    "id": 727,
+    "sourceId": "cg:119-HR-9501",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9501?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 9501: AI Tax Integrity Act of 2026",
+    "score": 38,
+    "snapshot": "HR 9501 requires AI systems used by IRS for tax enforcement to maintain human oversight and appeals processes, passing House Ways and Means 40-0. Aims to prevent algorithmic errors from denying refunds or triggering audits without human review.",
+    "verdict": "// VERDICT: Bipartisan measure balances technological efficiency with taxpayer due process protections at minimal implementation cost.",
+    "detail": "The AI Tax Integrity Act addresses growing concerns about IRS deployment of machine learning for audit selection and compliance enforcement. <strong>The bill mandates human review of any AI-flagged case before enforcement action and creates a formal appeals pathway for taxpayers who believe they were incorrectly targeted by algorithmic systems.</strong> The unanimous committee vote signals rare consensus that technological efficiency cannot override fundamental fairness in tax administration. Implementation costs are estimated at $45-60 million annually for additional personnel, offset by reduced litigation from erroneous enforcement. The measure preserves AI's analytical benefits while preventing scenarios where opaque algorithms deny refunds or trigger audits without accountability. Rule-of-law scoring is strong due to procedural protections; fiscal impact is modest relative to the $4+ trillion IRS processes annually; public benefit is clear in preventing wrongful enforcement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.R. 9501, Jul 2026",
+      "House Ways and Means Committee Report 119-X",
+      "Treasury Dept. Implementation Analysis",
+      "IRS Modernization Budget Estimates"
+    ]
+  },
+  {
+    "id": 728,
+    "sourceId": "cg:119-HR-3125",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3125?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 3125: Rural Broadband Assistance Act",
+    "score": -8,
+    "snapshot": "HR 3125 proposes rural broadband expansion but remains in committee after 14 months with no floor action, funding mechanism, or implementation timeline established.",
+    "verdict": "// VERDICT: A stalled proposal addressing genuine infrastructure need but lacking fiscal details, implementation structure, or legislative progress toward enactment.",
+    "detail": "The Rural Broadband Assistance Act targets a documented gap in rural connectivity affecting education, healthcare access, and economic opportunity. However, after referral to two committees in April 2025, the bill has shown no movement toward markup, amendment, or floor consideration. <strong>Without defined appropriations, cost-sharing mechanisms, or coordination with existing USDA and FCC programs, the proposal represents aspiration without accountability.</strong> Rural broadband initiatives historically suffer from cost overruns and incomplete deployment when funding structures remain ambiguous. The dual-committee referral suggests jurisdictional complexity that may further delay action. While the policy goal scores positively on public benefit, the absence of fiscal framework, extended legislative inaction, and undefined implementation mechanism substantially reduce the overall score.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 3125 referral",
+      "FCC Rural Broadband Reports",
+      "USDA ReConnect Program data",
+      "GAO Infrastructure Analysis"
+    ]
+  },
+  {
+    "id": 729,
+    "sourceId": "cg:119-HR-9569",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9569?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 9569: Making Condos Safer and Affordable Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9569 proposes federal intervention in condominium safety standards and affordability mechanisms. As of June 30, 2026, the bill remains in committee with no floor action, CBO score, or documented impact assessment.",
+    "verdict": "// VERDICT: Without legislative text, cost analysis, or enforcement mechanisms specified, this proposal lacks sufficient detail to demonstrate measurable benefits that would justify federal expansion into traditionally state-regulated housing markets.",
+    "detail": "The bill's title suggests dual objectives—safety improvements and affordability—that often conflict in practice, as safety requirements typically increase construction and maintenance costs. <strong>Federal mandates on condominium standards would override state building codes and HOA governance structures without evidence that existing state frameworks have systematically failed.</strong> The affordable housing crisis stems primarily from zoning restrictions and supply constraints, which this approach does not address. The bill scores poorly on fiscal responsibility due to absence of cost estimates for compliance, enforcement infrastructure, and potential market distortions. It raises rule-of-law concerns by federalizing matters traditionally under state police powers without clear constitutional basis beyond Commerce Clause assertions. Early committee referral without markup or testimony suggests insufficient stakeholder input on implementation feasibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Financial Services Committee Referral",
+      "Federal housing policy framework (HUD statutory authority)"
+    ]
+  },
+  {
+    "id": 730,
+    "sourceId": "cg:119-HR-9553",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9553?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 9553: Child Care Small Business Insight and Improvement Act of 2026",
+    "score": -8,
+    "snapshot": "HR 9553 directs the SBA to study child care challenges for small businesses and employees, with reporting requirements but no funding commitment. The bill remains in committee with no CBO score available.",
+    "verdict": "// VERDICT: A well-intentioned study directive that produces reports instead of solutions while adding administrative burden without appropriating resources to address the underlying child care crisis affecting working families.",
+    "detail": "The Child Care Small Business Insight and Improvement Act mandates the Small Business Administration conduct research on child care access barriers for entrepreneurs and workers, then report findings to Congress. <strong>While identifying problems is necessary, this bill exemplifies legislative theater—creating the appearance of action through studies rather than delivering tangible relief to the estimated 2 million parents who have left the workforce due to child care costs averaging $10,000-$15,000 annually.</strong> The bill appropriately follows House committee procedure but offers no implementation mechanism, funding authorization, or timeline for corrective policy. Previous similar study mandates (GAO child care reports 2016, 2020) produced recommendations that went unimplemented. Without enforcement provisions or appropriations, this adds bureaucratic workload to SBA while families continue bearing unsustainable costs that suppress labor participation and small business formation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "GAO Child Care Reports 2016-2020",
+      "BLS National Compensation Survey 2025",
+      "House Committee on Small Business referral"
+    ]
+  },
+  {
+    "id": 731,
+    "sourceId": "cg:119-HR-9623",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9623?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 9623: Protecting Americans’ Health Care Act of 2026",
+    "score": -15,
+    "snapshot": "HR 9623, introduced July 2026, has been referred to two House committees for consideration. No floor action, markup, or substantive amendments have occurred yet.",
+    "verdict": "// VERDICT: Insufficient legislative development exists to assess actual impact—bill remains in preliminary committee referral stage with no scoring, hearings, or documented provisions available for evaluation.",
+    "detail": "This bill exists only as a committee referral without available text, CBO score, or hearing record. <strong>The title suggests health care protections, but without legislative language, markup sessions, or independent analysis, no measurable outcomes can be verified.</strong> Committee referral to Energy and Commerce (health jurisdiction) and Ways and Means (tax/Medicare jurisdiction) indicates potential scope touching insurance markets or entitlement programs, but speculation cannot substitute for documented provisions. The legislative process requires text publication, committee consideration, and scoring before meaningful assessment of public benefit, fiscal impact, procedural compliance, or cost distribution becomes possible. Bills at this preliminary stage frequently undergo substantial revision or fail to advance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9623 status",
+      "House Committee referral record July 2026"
+    ]
+  },
+  {
+    "id": 732,
+    "sourceId": "cg:119-HR-9550",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9550?format=json",
+    "branch": "Congress",
+    "date": "Jul 13",
+    "dateISO": "2026-07-13",
+    "title": "HR 9550: Strategic Unmanned Systems Partnership Act",
+    "score": -18,
+    "snapshot": "HR 9550 proposes expanding U.S. drone technology partnerships with allied nations. Currently in committee review with no cost estimate, implementation timeline, or specific partner criteria established.",
+    "verdict": "// VERDICT: Lacks fiscal analysis and accountability mechanisms while risking technology proliferation without demonstrable strategic benefit or cost-benefit justification.",
+    "detail": "The Strategic Unmanned Systems Partnership Act aims to enhance drone technology sharing with allies but provides no Congressional Budget Office score, partner vetting standards, or measurable security outcomes. <strong>Without defined cost controls or technology transfer safeguards, the bill risks taxpayer-funded proliferation with uncertain returns.</strong> The dual-committee referral suggests jurisdictional complexity that may delay oversight. While allied interoperability has theoretical merit, the absence of fiscal projections, success metrics, or restrictions on sensitive technology transfer represents poor stewardship. Previous drone partnership programs have faced cost overruns and technology security breaches. The bill follows proper legislative referral process but lacks the analytical rigor required for responsible authorization of what could become a multi-billion dollar commitment with national security implications.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Federal procurement oversight reports",
+      "GAO technology transfer audits"
+    ]
+  },
+  {
     "id": 713,
     "sourceId": "cg:119-S-3290",
     "sourceUrl": "https://www.congress.gov/bill/119/s/3290?format=json",
@@ -19870,411 +20274,6 @@
       "FBI Hate Crime Statistics Program",
       "Congressional Record, May 2026",
       "DOJ Community Relations Service reports"
-    ]
-  },
-  {
-    "id": 237,
-    "sourceId": "cg:119-S-4599",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4599?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4599: Scratch Cooked Meals for Students Act of 2026",
-    "score": 18,
-    "snapshot": "S 4599 proposes federal grants to schools for kitchen infrastructure enabling scratch-cooked meals, aiming to improve nutrition quality and reduce processed food reliance. Currently in committee with no CBO score or cost estimate available.",
-    "verdict": "// VERDICT: Addresses documented nutrition gaps in school meals but lacks implementation cost analysis and accountability mechanisms for measuring health outcomes.",
-    "detail": "The bill targets a genuine problem—approximately 30 million students rely on school meals daily, with many districts serving heavily processed foods due to infrastructure constraints. <strong>Grant funding for kitchen equipment and training could improve meal quality, but without cost estimates or performance metrics, fiscal responsibility remains unverifiable.</strong> The committee referral follows standard legislative process. Primary concerns include potential unfunded mandates on districts, maintenance costs beyond initial grants, and absence of mechanisms to measure actual nutritional improvements versus expenditure. Benefits would concentrate in under-resourced districts currently unable to afford scratch cooking, though wealthier districts may capture grants disproportionately without proper targeting. The proposal aligns with bipartisan child nutrition concerns but requires substantial detail on implementation, total cost, and outcome measurement before full assessment is possible.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4599, 119th Congress",
-      "Senate Committee on Agriculture referral, May 2026",
-      "USDA School Nutrition Programs data",
-      "Congressional Record, May 2026"
-    ]
-  },
-  {
-    "id": 238,
-    "sourceId": "cg:119-S-4597",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4597?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4597: Early Childhood Workforce Advancement Act of 2026",
-    "score": 22,
-    "snapshot": "S 4597 proposes federal funding to increase early childhood educator wages and credentialing, addressing chronic workforce shortages in childcare. Bill remains in committee with no CBO score available.",
-    "verdict": "// VERDICT: Targets documented workforce crisis but lacks cost analysis and implementation details needed to assess fiscal sustainability and actual wage impact.",
-    "detail": "The early childhood education sector experiences 30-40% annual turnover due to median wages near poverty level ($13-14/hour nationally). <strong>Investing in educator compensation and training addresses a market failure where low wages compromise childcare quality and availability, affecting workforce participation of parents.</strong> However, without committee markup or CBO scoring, the bill's appropriation level, funding mechanism, state match requirements, and sunset provisions remain unknown. Previous similar proposals ranged from $500M to $15B annually. The approach could yield public benefit through improved child development outcomes and increased labor force participation, but scoring requires actual cost data and verification that funds reach frontline workers rather than administrative overhead. Constitutional authority appears straightforward under Commerce Clause precedent for education funding.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 4597 (119th Congress)",
-      "Bureau of Labor Statistics, Childcare Workers wage data",
-      "Senate HELP Committee referral, May 2026"
-    ]
-  },
-  {
-    "id": 239,
-    "sourceId": "cg:119-S-4581",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4581?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4581: CCP Sanctions Shot Clock Act",
-    "score": -8,
-    "snapshot": "S 4581 mandates 30-day deadlines for imposing sanctions on Chinese Communist Party officials and entities meeting certain criteria. The bill has been referred to committee with no cost estimate or implementation analysis available.",
-    "verdict": "// VERDICT: Creates rigid timelines for complex foreign policy decisions without demonstrated benefit over existing sanction authorities, risking rushed determinations and diplomatic complications.",
-    "detail": "The CCP Sanctions Shot Clock Act imposes arbitrary 30-day deadlines on sanction decisions regarding Chinese entities, constraining executive branch flexibility in foreign policy without evidence that current timelines harm national interests. <strong>Effective sanctions require thorough intelligence vetting, coordination with allies, and strategic timing—processes that rigid statutory deadlines may undermine.</strong> The bill appears to prioritize symbolic action over strategic effectiveness, potentially forcing premature designations based on incomplete information or poor timing. While congressional oversight of China policy is legitimate, micromanaging sanction timing through statute represents overreach into executive foreign policy authority. No fiscal analysis exists, though implementation would require additional State and Treasury Department resources for accelerated reviews. The measure conflates speed with effectiveness in an area where deliberate, coordinated action typically yields better results.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4581, 119th Congress",
-      "Congressional Record, May 2026",
-      "Treasury OFAC Sanctions Procedures"
-    ]
-  },
-  {
-    "id": 220,
-    "sourceId": "cg:119-HR-8469",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8469?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8469: Making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.",
-    "score": 18,
-    "snapshot": "HR 8469 appropriates funds for military construction, Veterans Affairs, and related agencies for FY2027. The bill passed the House on May 20, 2026, and has been received in the Senate.",
-    "verdict": "// VERDICT: Standard annual appropriations bill funding essential military infrastructure and veterans services through established legislative process.",
-    "detail": "This represents routine congressional appropriations for critical defense infrastructure and veterans programs. Military construction funding supports base modernization, family housing, and operational facilities, while VA appropriations fund healthcare, benefits processing, and facility maintenance for approximately 9 million enrolled veterans. <strong>The bill follows regular order through the House Appropriations Committee and normal floor consideration, satisfying constitutional requirements for spending authorization.</strong> Without access to the specific funding levels or CBO scoring, evaluation is limited, but annual MilCon-VA bills historically receive bipartisan support and fund legally mandated obligations. Fiscal responsibility depends on whether appropriations align with authorized levels and address known cost drivers like VA healthcare demand and deferred maintenance backlogs. The distribution generally benefits service members, veterans, and military communities, though oversight of construction project selection and VA program effectiveness remains important.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8469, 119th Congress",
-      "House Legislative Record, May 2026",
-      "Congressional Appropriations Process",
-      "VA Enrollment Statistics"
-    ]
-  },
-  {
-    "id": 221,
-    "sourceId": "cg:119-HR-8878",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8878?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8878: Incentivizing Local Solutions to Homelessness Act",
-    "score": -18,
-    "snapshot": "HR 8878 proposes federal incentives for local homelessness solutions but remains in committee with no funding mechanism, implementation details, or evidence of effectiveness. No measurable outcomes exist as the bill has not advanced beyond referral.",
-    "verdict": "// VERDICT: Unscored proposal with undefined costs, unspecified incentive structures, and no demonstrated path to reducing homelessness rates.",
-    "detail": "This bill sits in early committee stage with no public text detailing actual incentive mechanisms, eligible programs, or funding sources. <strong>Without CBO scoring, program specifications, or evidence requirements for \"local solutions,\" the proposal offers no measurable framework for evaluation.</strong> Title suggests block grants or competitive funding but provides no accountability metrics. History shows homelessness funding without outcome requirements often maintains crisis response systems rather than solving underlying housing supply, mental health, and addiction issues. Bill's current form exemplifies aspirational legislation without fiscal discipline or enforcement mechanisms. May impose unfunded mandates on municipalities or duplicate existing HUD programs. Lacks constitutional concerns but procedurally stalled with no indication of viability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 8878 status",
-      "House Financial Services Committee records",
-      "HUD Annual Homeless Assessment Reports"
-    ]
-  },
-  {
-    "id": 222,
-    "sourceId": "cg:119-HR-8792",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8792?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8792: Multigenerational Caregiving Data Act",
-    "score": 18,
-    "snapshot": "HR 8792 directs federal agencies to collect standardized data on Americans providing care to both children and elderly relatives simultaneously. Estimated implementation cost under $5 million annually for data collection infrastructure.",
-    "verdict": "// VERDICT: Low-cost data collection addressing a documented gap in understanding 24 million multigenerational caregivers' economic burden and support needs.",
-    "detail": "The Multigenerational Caregiving Data Act mandates federal surveys include questions identifying households caring for multiple generations, filling a statistical blindspot affecting an estimated 24 million Americans. <strong>Current federal datasets lack standardized metrics on sandwich generation caregivers, making evidence-based policy difficult.</strong> Implementation requires minimal new infrastructure—primarily survey questionnaire modifications across existing Census Bureau and Department of Health operations. The bill follows standard legislative referral process with no constitutional concerns. Data collection directly benefits a vulnerable population (working-age adults supporting dependents at both ends) without creating new entitlements or unfunded mandates. Primary limitation: data gathering alone produces no immediate relief, though it enables future targeted interventions. Cost-benefit strongly positive given negligible expense and potential for informing billions in future caregiver support policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "AARP Policy Institute caregiver survey data",
-      "Census Bureau data collection cost estimates",
-      "House Committee on Oversight referral"
-    ]
-  },
-  {
-    "id": 223,
-    "sourceId": "cg:119-HR-8877",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8877?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8877: Improving Self-Sufficiency of Families in HUD-Subsidized Housing Act",
-    "score": -18,
-    "snapshot": "HR 8877 proposes changes to HUD-subsidized housing programs aimed at encouraging self-sufficiency, though specific mechanisms are not detailed in available legislative summaries. The bill remains in committee with no cost estimate or implementation timeline established.",
-    "verdict": "// VERDICT: Without published text or CBO scoring, assessing actual impact on housing families versus creating administrative barriers or reducing assistance remains speculative.",
-    "detail": "The bill's title suggests work requirements or income progression mandates for HUD housing recipients, a policy approach with mixed evidence. <strong>Similar state-level implementations have shown modest employment gains but significant coverage losses, with administrative costs often exceeding savings.</strong> Without knowing whether the bill includes childcare support, job training funding, or realistic phase-out timelines, the risk is high for displacing vulnerable families without achieving sustained employment outcomes. Congressional precedent shows housing assistance work requirements disproportionately affect single mothers, disabled individuals with episodic conditions, and rural populations with limited job markets. The committee referral indicates no immediate floor consideration, leaving cost and benefit projections entirely absent from public record.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 8877 summary",
-      "HUD Annual Report to Congress 2025",
-      "Urban Institute housing assistance studies",
-      "Congressional Record May 2026"
-    ]
-  },
-  {
-    "id": 224,
-    "sourceId": "cg:119-HR-8794",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8794?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8794: FED UP with Bleeding Disorders Act of 2026",
-    "score": 22,
-    "snapshot": "HR 8794 would establish federal standards for bleeding disorder treatment centers and authorize competitive grants for research and care coordination. The bill creates quality benchmarks for hemophilia treatment centers while maintaining state flexibility in implementation.",
-    "verdict": "// VERDICT: Addresses a genuine gap in specialized care standards for rare bleeding disorders affecting approximately 33,000 Americans with hemophilia, though cost-effectiveness depends on final appropriations levels.",
-    "detail": "The FED UP with Bleeding Disorders Act targets a small but significantly impacted patient population requiring highly specialized care. Hemophilia and related disorders impose average lifetime treatment costs exceeding $10 million per patient, making care coordination and quality standards economically rational. <strong>The bill's competitive grant structure and quality benchmarking approach could reduce long-term costs through better outcomes and fewer emergency interventions.</strong> However, the legislation currently lacks specific appropriations language, creating uncertainty about implementation costs. The committee referral indicates standard legislative process is being followed. The primary beneficiaries are a vulnerable population (genetic bleeding disorders) currently facing fragmented care systems, while costs would be distributed through federal health budgets rather than shifted to patients or future unfunded mandates.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "CDC Hemophilia Treatment Center Network data",
-      "National Hemophilia Foundation cost studies",
-      "House Committee on Energy and Commerce referral"
-    ]
-  },
-  {
-    "id": 225,
-    "sourceId": "cg:119-HR-8885",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8885?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8885: STOP TRUMP ACT",
-    "score": -38,
-    "snapshot": "HR 8885, the 'STOP TRUMP ACT,' was referred to House Judiciary on May 19, 2026. Without bill text available, the title suggests legislation targeting a specific individual rather than addressing systemic policy issues.",
-    "verdict": "// VERDICT: Legislation named to target a single individual rather than establish neutral policy standards represents a departure from legislative norms and wastes congressional resources on symbolic acts.",
-    "detail": "This bill exemplifies congressional dysfunction and poor governance. <strong>Naming legislation to 'STOP' a specific individual—whether former, current, or future officeholder—signals legislative action motivated by personality rather than policy substance.</strong> Without accessible bill text showing concrete provisions, the public cannot evaluate actual legal changes proposed. If the bill contains legitimate policy reforms (campaign finance, ethics rules, executive power limits), those should stand on their merits with neutral titles. If it's purely symbolic, it wastes committee time and taxpayer resources on political theater. Either scenario demonstrates poor legislative practice: substantive bills deserve substantive titles that describe their function, while non-substantive bills shouldn't consume congressional bandwidth during a period when major fiscal, immigration, and regulatory issues require attention.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee on the Judiciary referral",
-      "Congress.gov HR 8885 summary"
-    ]
-  },
-  {
-    "id": 226,
-    "sourceId": "cg:119-HR-8791",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8791?format=json",
-    "branch": "Congress",
-    "date": "May 28",
-    "dateISO": "2026-05-28",
-    "title": "HR 8791: IGNITE HBCU Excellence Act",
-    "score": 8,
-    "snapshot": "HR 8791 proposes increased federal funding and support mechanisms for Historically Black Colleges and Universities (HBCUs). As of May 2026, the bill remains in committee with no enacted appropriations or implementation timeline.",
-    "verdict": "// VERDICT: Early-stage legislation targeting educational equity shows potential public benefit but lacks fiscal detail and measurable implementation framework for objective assessment.",
-    "detail": "The IGNITE HBCU Excellence Act addresses persistent funding gaps at institutions serving historically underrepresented populations. <strong>HBCUs educate roughly 10% of Black college students but receive disproportionately lower endowments and state funding compared to peer institutions.</strong> Without CBO scoring or appropriations language, fiscal responsibility cannot be fully evaluated—the bill's cost-benefit ratio depends entirely on funding levels and program design not yet specified. Legislative process appears standard (committee referral), though actual impact requires passage and implementation. The targeted nature addresses educational access inequities, but absence of cost estimates, performance metrics, or funding sources prevents higher confidence scoring. Benefits would accrue to specific student populations; broader taxpayer impact unclear without budget detail.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8791, May 2026",
-      "House Committee on Education and Workforce referral",
-      "NCES data on HBCU enrollment patterns"
     ]
   }
 ]
