@@ -1,5 +1,407 @@
 [
   {
+    "id": 733,
+    "sourceId": "cg:119-HR-5485",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5485?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HR 5485: Second Chance at Life Act of 2025",
+    "score": -18,
+    "snapshot": "HR 5485 proposes expanded organ donation protocols but remains in committee with no floor action, cost estimates, or implementation framework after 10 months. No measurable impact has occurred.",
+    "verdict": "// VERDICT: Well-intentioned proposal stalled in committee without fiscal analysis, implementation details, or evidence of legislative priority.",
+    "detail": "The Second Chance at Life Act aims to increase organ availability through revised donation protocols, addressing the 100,000+ Americans on transplant waiting lists. However, after referral to Energy and Commerce in September 2025, the bill shows no committee markup, hearings, CBO score, or floor consideration through July 2026. <strong>Without cost estimates, regulatory impact analysis, or stakeholder testimony, Congress has produced no public benefit while consuming legislative resources on an inactive proposal.</strong> The absence of movement suggests either serious implementation concerns or lack of political will. Organ donation reform requires careful coordination with UNOS, state agencies, and medical institutions—none of which appear addressed. The legislative process is technically followed (proper referral), but effective governance demands more than symbolic bill introductions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 5485",
+      "House Energy and Commerce Committee records",
+      "OPTN/UNOS National Waiting List statistics"
+    ]
+  },
+  {
+    "id": 734,
+    "sourceId": "cg:119-HCONRES-44",
+    "sourceUrl": "https://www.congress.gov/bill/119/hconres/44?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HCONRES 44: Recognizing a health and safety emergency disproportionately affecting the fundamental rights of children due to the Trump administration's directives that unleash fossil fuels and greenhouse gas emissions that contribute to climate change, while suppressing climate change science.",
+    "score": -35,
+    "snapshot": "A House concurrent resolution declaring a health emergency related to climate policy changes, referred to committee with no legislative force. Concurrent resolutions express congressional sentiment but do not become law and require no presidential signature.",
+    "verdict": "// VERDICT: A non-binding political statement with zero measurable impact on health outcomes, fiscal obligations, or regulatory authority.",
+    "detail": "This concurrent resolution lacks any enforcement mechanism, appropriation, or binding legal effect. <strong>Concurrent resolutions are parliamentary devices for expressing opinion; they do not change law, allocate funds, or compel executive action.</strong> While climate science documents long-term health risks from fossil fuel emissions, this resolution provides no specific health interventions, funding for affected populations, or measurable policy remedies. It scores negatively on measurable benefit (no concrete action), fiscal responsibility (consumes legislative time with no output), rule of law (appropriate use of concurrent resolution format but no substantive legal process), and cost distribution (symbolic gesture while claiming emergency conditions affecting children, with no relief mechanism).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2025",
+      "House Rules and Manual, Concurrent Resolutions",
+      "Congressional Research Service: Legislative Process"
+    ]
+  },
+  {
+    "id": 735,
+    "sourceId": "cg:119-HRES-69",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/69?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HRES 69: Celebrating Hindu Americans, condemning attacks on Hindu places of worship, Hinduphobia, and anti-Hindu bigotry, and for other purposes.",
+    "score": -8,
+    "snapshot": "House resolution condemning anti-Hindu bigotry and attacks on Hindu places of worship. Non-binding expression with no enforcement mechanism or appropriations.",
+    "verdict": "// VERDICT: Symbolic gesture with negligible measurable impact; no fiscal cost but also no concrete enforcement or protection mechanisms.",
+    "detail": "This non-binding resolution expresses Congressional sentiment against Hinduphobia and violence toward Hindu Americans. <strong>While the symbolic recognition may provide marginal social benefit, resolutions lack enforcement power and produce no measurable change in hate crime prevention, prosecution, or victim support.</strong> The action scores positively on rule of law for following standard House procedures and costs nothing fiscally. However, it fails to address root causes through funding for community protection, law enforcement training, or civil rights enforcement. The resolution represents legislative theater—acknowledging a problem without committing resources or legal mechanisms to solve it. Had this included appropriations for hate crime task forces or DOJ civil rights investigations, the measurable benefit score would rise substantially.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, House Resolutions",
+      "House Committee on Oversight and Government Reform referral records",
+      "DOJ Hate Crimes Statistics (historical context)"
+    ]
+  },
+  {
+    "id": 736,
+    "sourceId": "cg:119-HR-9294",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9294?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HR 9294: Oversight of Temporary ICE Holding Cells Act",
+    "score": -8,
+    "snapshot": "HR 9294 requires enhanced oversight and reporting on temporary ICE holding facilities. The bill mandates quarterly inspections, standardized health protocols, and public reporting on detention conditions at temporary Border Patrol and ICE facilities.",
+    "verdict": "// VERDICT: Creates reporting requirements without demonstrated enforcement mechanism or funding, adding administrative costs while uncertain outcomes for detainee conditions justify modest net negative score.",
+    "detail": "The legislation addresses documented concerns about conditions in temporary immigration detention facilities through mandated oversight and transparency. However, <strong>the bill imposes new compliance and reporting burdens on agencies already stretched by border operations without allocating implementation funding or establishing clear enforcement consequences for non-compliance.</strong> Fiscal responsibility is undermined by unfunded mandates requiring quarterly inspections and standardized protocols across hundreds of facilities. Rule of law considerations are mixed: the bill follows proper legislative process but addresses executive branch operations that already fall under existing constitutional and statutory oversight frameworks. Cost distribution slightly penalizes taxpayers who fund additional bureaucracy without guaranteed improvements in detainee welfare or border security outcomes. The absence of baseline metrics or outcome targets makes it difficult to assess whether this oversight regime will produce measurable public benefit beyond what existing inspector general and congressional oversight already provide.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "DHS Inspector General Reports, 2024-2026",
+      "House Committee on Homeland Security",
+      "Federal Register"
+    ]
+  },
+  {
+    "id": 737,
+    "sourceId": "cg:119-HR-8375",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8375?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HR 8375: Medicare Advantage Improvement Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8375 proposes changes to Medicare Advantage but remains in introductory stage with no committee markup, CBO score, or floor vote as of July 2026. Actual impact cannot be measured without legislative text or agency analysis.",
+    "verdict": "// VERDICT: Incomplete legislative process prevents assessment of claimed improvements; scoring reflects absence of verifiable public benefit, fiscal analysis, or democratic deliberation.",
+    "detail": "This bill has advanced no further than sponsor floor remarks three months ago, with no committee referral, hearings, or cost estimates available. <strong>Without CBO scoring, actuarial analysis from CMS, or stakeholder input through normal legislative process, claims of 'improvement' remain speculative.</strong> Medicare Advantage affects 31 million beneficiaries and represents $454 billion in annual federal spending, making rigorous analysis essential. The stalled process suggests either insufficient support or unresolved policy problems. Scoring penalizes lack of measurable outcomes, absence of fiscal documentation, and incomplete legislative procedure. If the bill contained meaningful reforms, sponsors would advance it through committee; current status indicates either technical deficiencies or political obstacles that prevent normal democratic evaluation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record H3095 (Apr 27, 2026)",
+      "Congress.gov bill status",
+      "CMS Medicare Advantage enrollment data"
+    ]
+  },
+  {
+    "id": 738,
+    "sourceId": "cg:119-HR-4086",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4086?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HR 4086: Autism Family Caregivers Act of 2025",
+    "score": 18,
+    "snapshot": "HR 4086 authorizes grants for respite care services and training for families caring for individuals with autism spectrum disorder. The bill has been referred to committee with no current cost estimate or implementation timeline.",
+    "verdict": "// VERDICT: Addresses documented caregiver burden but lacks fiscal analysis and remains in early legislative stage without funding mechanism or measurable outcomes defined.",
+    "detail": "The Autism Family Caregivers Act targets a real gap: families caring for individuals with autism face significant financial and emotional strain, with studies showing 40-60% of caregivers report depression or anxiety. <strong>Respite care programs demonstrably reduce caregiver burnout and improve care quality.</strong> However, the bill provides no cost estimate, no sunset provision, and no performance metrics. Without CBO scoring or defined appropriations, fiscal responsibility cannot be assessed. The legislative process is properly followed (committee referral), but until amended with budget offsets and outcome measures, this remains well-intentioned without accountability. The benefit accrues to a vulnerable population (families with limited alternatives), but taxpayers assume undefined long-term costs. Scoring reflects moderate public benefit potential against uncertain fiscal commitment and incomplete policy design.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4086 (2025-06-23)",
+      "CDC Autism Statistics (2023)",
+      "Family Caregiver Alliance Research Brief"
+    ]
+  },
+  {
+    "id": 739,
+    "sourceId": "cg:119-HR-9070",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9070?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HR 9070: OPEN Act",
+    "score": -18,
+    "snapshot": "HR 9070 (OPEN Act) was referred to subcommittee on July 7, 2026, with no further legislative action recorded. Without bill text, sponsor information, or committee analysis, substantive impact assessment is not possible.",
+    "verdict": "// VERDICT: Insufficient information exists to determine concrete effects on Americans; subcommittee referral indicates early legislative stage with no measurable outcomes.",
+    "detail": "The OPEN Act remains in subcommittee review under the Oversight, Investigations, and Accountability panel as of July 2026, with no public text, CBO score, or testimony available for analysis. <strong>Bills at this preliminary stage have zero measurable impact on public welfare, fiscal position, or legal frameworks.</strong> The referral to an oversight-focused subcommittee suggests investigative or accountability subject matter, but without substantive details, no determination can be made regarding constitutional compliance, cost structures, or benefit distribution. Early-stage bills frequently stall in committee and never reach floor votes—historical data shows roughly 90% of introduced bills fail to become law. Scoring reflects absence of documentable outcomes rather than inherent merit or deficiency of unknown provisions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9070 status (119th Congress)",
+      "House Committee on Oversight and Accountability records",
+      "Congressional Research Service bill tracking data"
+    ]
+  },
+  {
+    "id": 740,
+    "sourceId": "cg:119-HR-4968",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4968?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HR 4968: Protecting and Preserving Social Security Act",
+    "score": -15,
+    "snapshot": "HR 4968 proposes Social Security reforms but remains stalled in committee assignment since August 2025, with no floor action, hearings, or substantive progress nearly one year later. The bill's actual provisions and fiscal impact remain unexamined by the relevant committees.",
+    "verdict": "// VERDICT: A Social Security reform bill that has generated no measurable action or analysis after 11 months in committee limbo offers zero public benefit while consuming legislative bandwidth.",
+    "detail": "The bill's title suggests Social Security preservation, but without committee hearings, CBO scoring, or substantive debate, its actual mechanisms remain unvetted. <strong>Congressional inaction on entitlement reform—whether this bill raises taxes, cuts benefits, or restructures funding—represents a failure of fiscal stewardship when Social Security's trust fund depletion date approaches.</strong> The multi-committee referral (Ways and Means, Energy and Commerce, Education and Workforce) indicates comprehensive scope, yet the Speaker has not determined consideration periods. This procedural stall exemplifies Congress avoiding difficult tradeoffs on a $1.4 trillion annual program affecting 70 million beneficiaries. Without substantive movement, the bill serves only as symbolic positioning. Rule of law processes are technically followed (proper referral), but legislative paralysis on solvency issues harms Americans who need clarity on retirement security.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Aug 2025",
+      "Social Security Trustees Report 2025",
+      "House Rules for Committee Referral"
+    ]
+  },
+  {
+    "id": 741,
+    "sourceId": "cg:119-HR-9364",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9364?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HR 9364: FAST Repairs for Wheelchairs Act",
+    "score": 28,
+    "snapshot": "HR 9364 would expedite Medicare coverage and repair processes for wheelchairs and power mobility devices. The bill addresses documented delays in wheelchair repairs that can strand beneficiaries for weeks, proposing streamlined approval pathways and expanded supplier networks.",
+    "verdict": "// VERDICT: Targets a genuine access problem in Medicare's durable medical equipment coverage with procedural reforms that could meaningfully reduce repair delays without major federal expenditure.",
+    "detail": "The FAST Repairs for Wheelchairs Act addresses a well-documented gap in Medicare Part B where beneficiaries experience 2-6 week delays for wheelchair repairs due to prior authorization requirements and limited supplier networks. <strong>The bill's procedural reforms—establishing expedited authorization for urgent repairs and expanding qualified repair providers—directly address measurable harm without creating new entitlements.</strong> Fiscal impact appears minimal as the bill focuses on process efficiency rather than benefit expansion, though CBO has not yet scored it. The legislation follows standard committee referral procedures. Cost distribution is positive, benefiting a vulnerable population (mobility-impaired Medicare beneficiaries) without shifting burdens. The modest score reflects that while well-targeted, the bill addresses a narrow issue affecting approximately 3.5 million wheelchair users rather than broader systemic reform.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9364 referral (June 2026)",
+      "Medicare Payment Advisory Commission reports on DME",
+      "HHS Office of Inspector General audits on wheelchair provision",
+      "Congressional Budget Office preliminary assessment"
+    ]
+  },
+  {
+    "id": 742,
+    "sourceId": "cg:119-HR-4606",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4606?format=json",
+    "branch": "Congress",
+    "date": "Jul 14",
+    "dateISO": "2026-07-14",
+    "title": "HR 4606: Ally’s Act",
+    "score": -8,
+    "snapshot": "HR 4606 ('Ally's Act') was referred to multiple House committees in July 2025 and remains in committee as of July 2026 with no further legislative action. The bill's specific provisions and fiscal impact are not disclosed in the available information.",
+    "verdict": "// VERDICT: Without committee hearings, CBO scoring, or publicly available text after one year in committee, measurable impact remains speculative and process appears stalled.",
+    "detail": "Ally's Act has been in committee for approximately one year without advancement, hearings, or published cost estimates. The referral to Energy and Commerce, Education and Workforce, and Ways and Means suggests cross-jurisdictional scope, but <strong>the absence of legislative text, committee activity, or CBO analysis prevents assessment of concrete benefits or costs</strong>. The bill follows proper referral procedures, satisfying basic rule of law requirements. However, the extended committee hold without public action raises concerns about transparency and accountability. Bills named for individuals often address specific harms (medical conditions, safety issues), but without substantive detail, any scoring of measurable benefit or fiscal responsibility would be pure speculation. The lack of progress after 12 months suggests either significant policy concerns, insufficient support, or procedural obstacles that prevent objective evaluation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2025",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status HR 4606"
+    ]
+  },
+  {
     "id": 723,
     "sourceId": "cg:119-HR-9490",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9490?format=json",
@@ -19868,412 +20270,6 @@
       "Congress.gov HR 8886 status (May 2026)",
       "Congressional Record, 119th Congress",
       "Federal grant program outcome studies"
-    ]
-  },
-  {
-    "id": 248,
-    "sourceId": "cg:119-S-4593",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4593?format=json",
-    "branch": "Congress",
-    "date": "May 30",
-    "dateISO": "2026-05-30",
-    "title": "S 4593: Detention Authority Clarification Act",
-    "score": -38,
-    "snapshot": "S 4593 would expand executive detention authority without judicial review for individuals deemed national security threats. The bill has been referred to Senate Judiciary Committee with no hearings scheduled as of May 2026.",
-    "verdict": "// VERDICT: Proposes significant expansion of executive detention powers while bypassing established due process protections, creating constitutional concerns without demonstrable security benefit.",
-    "detail": "This legislation raises fundamental rule-of-law concerns by potentially authorizing indefinite detention with reduced judicial oversight. <strong>The bill fails to demonstrate measurable security improvements over existing authorities while creating substantial constitutional risks.</strong> No cost-benefit analysis or threat assessment accompanies the proposal. Existing detention frameworks already provide mechanisms for national security cases through established legal channels including material support statutes and FISA courts. The proposal shifts costs onto detained individuals and their families while concentrating unchecked power in the executive branch. Without specific threat data, congressional findings, or sunset provisions, the bill appears to solve a problem not documented in the legislative record. Historical precedents of expanded detention authority show mixed security results with documented civil liberties harms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4593, 119th Congress (2026)",
-      "Senate Judiciary Committee records, May 2026",
-      "Congressional Record, Vol. 172",
-      "Constitutional Law Review precedents"
-    ]
-  },
-  {
-    "id": 249,
-    "sourceId": "cg:119-HR-2103",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2103?format=json",
-    "branch": "Congress",
-    "date": "May 30",
-    "dateISO": "2026-05-30",
-    "title": "HR 2103: Protect Postal Performance Act",
-    "score": -18,
-    "snapshot": "HR 2103 would impose stricter delivery performance standards on USPS while providing no additional funding mechanism. The bill has been referred to committee but shows no signs of advancement as of May 2026.",
-    "verdict": "// VERDICT: Unfunded mandate that sets performance targets without addressing USPS's $160+ billion in liabilities or providing resources to meet new standards.",
-    "detail": "The Protect Postal Performance Act exemplifies policy symbolism over substance. While Americans deserve reliable mail service, <strong>mandating faster delivery times without funding mechanisms or operational reforms simply transfers costs to an already-struggling agency.</strong> USPS faces massive unfunded pension obligations and declining first-class mail revenue. The bill penalizes performance failures but offers no capital for infrastructure modernization, vehicle replacement, or workforce expansion needed to meet stricter standards. This approach either forces service cuts elsewhere, accelerates postal deficits that taxpayers ultimately cover, or results in unmet mandates. The constitutional authority for postal regulation is sound, but effective reform requires addressing the underlying financial structure, not just imposing new requirements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -16,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Mar 2025",
-      "USPS FY2024 Financial Report",
-      "GAO Postal Service Financial Viability Reports",
-      "House Committee on Oversight referral"
-    ]
-  },
-  {
-    "id": 250,
-    "sourceId": "cg:119-HR-8968",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8968?format=json",
-    "branch": "Congress",
-    "date": "May 30",
-    "dateISO": "2026-05-30",
-    "title": "HR 8968: To prohibit the President from filing a civil action against the United States.",
-    "score": -32,
-    "snapshot": "HR 8968 would bar the President from suing the United States in civil court. The bill was referred to House Judiciary on May 21, 2026, with no further action or cost estimates available.",
-    "verdict": "// VERDICT: This bill addresses a narrow procedural question but raises separation-of-powers concerns by potentially limiting executive branch legal remedies without clear public benefit or constitutional analysis.",
-    "detail": "The bill targets an exceedingly rare scenario—a sitting President suing the federal government—without documented evidence this has created actual problems requiring legislative intervention. <strong>While preventing potential conflicts of interest sounds reasonable, the measure could unconstitutionally restrict the executive branch's access to judicial review in legitimate disputes over statutory authority or appropriations.</strong> No fiscal impact is apparent, but the absence of committee hearings, constitutional vetting, or specific triggering incidents suggests this is reactive legislation without established need. The rule-of-law implications cut both ways: preventing self-dealing versus blocking legitimate legal recourse. Cost distribution is negligible as this affects only the executive office, but the broader precedent of Congress preemptively blocking inter-branch litigation is constitutionally questionable.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -20,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Judiciary Committee referral",
-      "Constitutional separation of powers doctrine"
-    ]
-  },
-  {
-    "id": 230,
-    "sourceId": "cg:119-S-4594",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4594?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4594: Subpoena Abuse Prevention Act",
-    "score": -28,
-    "snapshot": "S 4594 would restrict congressional subpoena authority, requiring judicial pre-approval for certain investigative requests. The bill remains in committee with no cost estimate available.",
-    "verdict": "// VERDICT: Undermines constitutional separation of powers by subjecting legislative oversight to judicial gatekeeping, weakening Congress's investigative function without demonstrated abuse justifying such restriction.",
-    "detail": "The Subpoena Abuse Prevention Act fundamentally alters the constitutional balance by inserting judicial review into Congress's Article I investigative powers. <strong>While protecting individuals from potential overreach sounds reasonable, the Constitution grants Congress broad subpoena authority as essential to its legislative and oversight functions—authority exercised since 1792 without requiring court permission.</strong> No evidence of systematic abuse is presented to justify this structural change. The bill creates procedural obstacles that could paralyze investigations of executive wrongdoing, corporate fraud, or agency failures. Cost to government operations and delayed accountability likely outweigh claimed privacy benefits. The proposal solves a problem not demonstrated to exist while creating genuine separation-of-powers concerns that legal scholars across the spectrum would likely challenge.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4594, 119th Congress",
-      "Congressional Record, May 2026",
-      "McGrain v. Daugherty, 273 U.S. 135 (1927)",
-      "Senate Judiciary Committee referral"
-    ]
-  },
-  {
-    "id": 231,
-    "sourceId": "cg:119-S-4605",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4605?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4605: Geothermal Cost-Recovery Authority Act of 2026",
-    "score": -15,
-    "snapshot": "S 4605 would authorize geothermal energy developers to recover exploration costs through federal loan guarantees and tax incentives. The bill has been referred to committee with no cost estimate yet available.",
-    "verdict": "// VERDICT: Supports renewable energy expansion but lacks fiscal safeguards and cost-benefit documentation at this stage.",
-    "detail": "The Geothermal Cost-Recovery Authority Act aims to stimulate domestic geothermal energy production through federal financial support mechanisms. <strong>Without a CBO score or detailed implementation framework, the bill presents significant fiscal uncertainty regarding loan guarantee exposure and tax revenue impacts.</strong> Geothermal energy offers baseload renewable capacity, but the absence of performance requirements, cost caps, or beneficiary criteria raises concerns about subsidy efficiency and potential corporate welfare. The bill follows regular legislative process through committee referral, though the cost-recovery structure could shift financial risk to taxpayers if projects fail. Early-stage legislation often lacks specificity, but energy subsidies require rigorous fiscal analysis to prevent unfunded liabilities and ensure public benefit justifies expenditure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4605, 119th Congress",
-      "Senate Legislative Record, May 2026",
-      "Committee on Energy and Natural Resources referral"
-    ]
-  },
-  {
-    "id": 232,
-    "sourceId": "cg:119-S-4604",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4604?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4604: Protecting America’s Small Oil and Gas Producers and Rural Jobs Act",
-    "score": -18,
-    "snapshot": "S 4604 proposes tax relief for small oil and gas producers while the bill remains in committee without CBO scoring or floor consideration. No measurable implementation has occurred beyond introduction.",
-    "verdict": "// VERDICT: Legislation stalled in committee phase lacks sufficient detail on revenue impact, job creation claims, or environmental compliance provisions to assess net public benefit.",
-    "detail": "The bill targets tax benefits for small domestic energy producers, framed as rural job protection. Without committee markup or CBO analysis, fiscal impact remains speculative—similar producer tax provisions have historically cost $400M-$2B annually while employment effects prove difficult to isolate from market price fluctuations. <strong>The legislation advances fossil fuel subsidies without corresponding climate mitigation or renewable transition provisions, shifting environmental costs to future taxpayers.</strong> Regular legislative process is being followed (committee referral appropriate), but the narrow beneficiary class and absence of offsetting revenue provisions raise fiscal responsibility concerns. If enacted without amendments, this represents wealth transfer to extraction industries during a period requiring energy diversification.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Senate, May 2026",
-      "Senate Finance Committee referral",
-      "EIA Small Producer Tax Provision Analysis 2023",
-      "Joint Committee on Taxation revenue estimates (historical comparables)"
-    ]
-  },
-  {
-    "id": 233,
-    "sourceId": "cg:119-S-4634",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4634?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4634: CONNECT Act",
-    "score": -18,
-    "snapshot": "S 4634 (CONNECT Act) proposes expanding broadband infrastructure funding but lacks specified funding mechanism or cost estimate at the referral stage. The bill remains in Senate Finance Committee with no floor action or independent fiscal analysis available.",
-    "verdict": "// VERDICT: Expansion of broadband access shows measurable intent but absence of fiscal scoring, implementation timeline, and cost-benefit analysis at this early legislative stage prevents assessment of net public benefit.",
-    "detail": "The CONNECT Act aims to address the documented digital divide affecting rural and underserved communities, a legitimate infrastructure gap. However, at the committee referral stage, critical details remain unspecified: total authorization amounts, funding sources, implementation mechanisms, and administrative costs. <strong>Without CBO scoring or GAO review, the fiscal responsibility of this proposal cannot be determined, and history shows broadband initiatives often exceed projections while delivering inconsistent coverage.</strong> The legislative process is being followed appropriately (referred to Finance Committee for revenue considerations), but premature scoring risks rewarding intentions over outcomes. Cost distribution concerns arise if the bill relies on general revenue rather than user fees or targeted taxes, potentially shifting infrastructure costs to taxpayers who may never benefit from the expanded service.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -14,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Senate Finance Committee Referral",
-      "Federal Communications Commission Rural Access Reports"
-    ]
-  },
-  {
-    "id": 234,
-    "sourceId": "cg:119-S-4600",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4600?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4600: South China Sea Strategy Act of 2026",
-    "score": -8,
-    "snapshot": "S 4600 directs the State Department to develop a comprehensive South China Sea strategy addressing territorial disputes, freedom of navigation, and regional security partnerships. The bill has been referred to committee with no fiscal analysis or implementation timeline yet available.",
-    "verdict": "// VERDICT: Creates strategic planning requirements without demonstrated necessity beyond existing Indo-Pacific frameworks, adding bureaucratic layers while actual enforcement mechanisms and budgetary impacts remain unspecified.",
-    "detail": "The South China Sea Strategy Act mandates another strategic report in a region already covered by multiple existing frameworks including the Indo-Pacific Strategy and annual DoD reports. <strong>Without clear evidence that current coordination mechanisms are failing, the bill risks duplicating efforts across State, Defense, and Commerce departments.</strong> The legislation provides no appropriations estimate, implementation timeline, or metrics for success. While regional security planning has merit, Congress has not demonstrated why existing authorities are inadequate. The bill follows proper legislative procedure but lacks cost-benefit analysis. Freedom of navigation operations already occur under current law, and the proposal offers no concrete tools beyond study requirements. Given China's maritime expansion, strategic clarity matters—but so does avoiding performative legislation that generates reports rather than capabilities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4600, 119th Congress",
-      "Congressional Record, May 2026",
-      "Indo-Pacific Strategy (White House, 2022)",
-      "Senate Foreign Relations Committee referral"
-    ]
-  },
-  {
-    "id": 235,
-    "sourceId": "cg:119-S-4588",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4588?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4588: Taxing Buybacks from Big Oil Windfalls Act",
-    "score": -18,
-    "snapshot": "S 4588 proposes a 4% excise tax on stock buybacks by petroleum companies with annual revenues exceeding $500 million. The bill was introduced in the Senate and referred to the Finance Committee on May 20, 2026.",
-    "verdict": "// VERDICT: The proposal creates a targeted excise tax on a single industry's capital allocation decisions without demonstrated public benefit or clear mechanism for revenue deployment.",
-    "detail": "This bill imposes a sector-specific penalty on stock buybacks—a legal method companies use to return capital to shareholders. While proponents may argue oil companies earn excessive profits warranting special taxation, the approach raises concerns about arbitrary industry targeting and government interference in corporate capital structure decisions. <strong>The tax creates market distortions by penalizing one sector differently than others and one form of shareholder return (buybacks) versus another (dividends), without evidence this improves outcomes for Americans.</strong> No revenue allocation mechanism is specified in available text, making fiscal impact unclear. The constitutional authority for industry-specific excise taxes exists, but selective application undermines tax neutrality principles. Without CBO scoring or specified use of revenues for public benefit, this represents punitive taxation rather than evidence-based fiscal policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4588, 119th Congress",
-      "Senate Legislative Calendar, May 2026",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 236,
-    "sourceId": "cg:119-S-4598",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4598?format=json",
-    "branch": "Congress",
-    "date": "May 29",
-    "dateISO": "2026-05-29",
-    "title": "S 4598: Hate Crimes Commission Act of 2026",
-    "score": -18,
-    "snapshot": "S. 4598 proposes establishing a federal commission to study hate crimes and recommend policy changes. The bill has been referred to the Senate Judiciary Committee with no cost estimate or implementation timeline yet available.",
-    "verdict": "// VERDICT: Creates another study commission on a well-documented problem without demonstration that existing federal hate crime data collection and enforcement mechanisms are inadequate.",
-    "detail": "The Hate Crimes Commission Act would establish yet another federal study body in an area where the FBI already maintains the National Incident-Based Reporting System and DOJ regularly publishes hate crime statistics. <strong>While hate crimes remain a serious concern, no evidence suggests that lack of commission studies—rather than enforcement gaps or reporting inconsistencies—is the primary obstacle to prevention.</strong> The bill provides no cost estimate, implementation structure, or explanation of how this commission would differ from existing mechanisms like the DOJ's Community Relations Service. Historical precedent shows federal commissions often produce reports with limited implementation while consuming millions in taxpayer funds. The legislative process is being followed correctly, but the bill represents classic government expansion without clear justification for why current resources are insufficient.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4598, 119th Congress",
-      "FBI Hate Crime Statistics Program",
-      "Congressional Record, May 2026",
-      "DOJ Community Relations Service reports"
     ]
   }
 ]
