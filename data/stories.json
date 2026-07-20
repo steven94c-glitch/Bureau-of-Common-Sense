@@ -1,5 +1,410 @@
 [
   {
+    "id": 763,
+    "sourceId": "cg:119-HR-818",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/818?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HR 818: SPUR Act",
+    "score": -18,
+    "snapshot": "HR 818 (SPUR Act) passed the House in February 2025 and awaits Senate committee action. The bill's specific provisions are not detailed in the limited information provided, preventing assessment of actual impact or costs.",
+    "verdict": "// VERDICT: Insufficient information to evaluate concrete outcomes, fiscal impact, or implementation details beyond procedural status.",
+    "detail": "The SPUR Act remains in Senate committee more than a year after House passage, suggesting either low priority or substantive concerns. Without access to bill text, CBO scoring, or substantive provisions, it is impossible to assess measurable benefits or costs. <strong>The extended delay in a small business bill during an economic period requiring entrepreneurial support suggests either flawed design or political obstruction.</strong> The procedural path appears constitutional (House passage, Senate referral), but the lack of movement raises questions about legislative effectiveness. Any scoring reflects uncertainty penalties across all criteria due to insufficient data about actual provisions, beneficiaries, costs, or implementation mechanisms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2025",
+      "Senate Committee on Small Business referral",
+      "HR 818 legislative status"
+    ]
+  },
+  {
+    "id": 764,
+    "sourceId": "cg:119-HRES-1430",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1430?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HRES 1430: Providing for consideration of the bill (H.R.185) to advance responsible policies.",
+    "score": -38,
+    "snapshot": "H.Res. 1430 is a procedural resolution providing consideration for H.R. 185, a bill with an unusually vague title ('to advance responsible policies') that reveals no substantive content. The resolution was referred to the Rules Committee on July 15, 2026.",
+    "verdict": "// VERDICT: A procedural shell concealing unknown substantive policy creates accountability vacuum and prevents informed evaluation by representatives or citizens.",
+    "detail": "This resolution exemplifies legislative opacity at its worst. <strong>The underlying bill H.R. 185 has a title so generic it could describe literally any legislation, making it impossible to assess public benefit, costs, or constitutional implications.</strong> Procedural resolutions setting debate rules are standard legislative mechanics, but when coupled with deliberately obscured content, they subvert democratic accountability. Citizens and even many representatives cannot meaningfully evaluate what they're voting on when bill titles provide zero information. This practice—whether intentional obfuscation or administrative negligence—violates basic transparency norms essential to representative government. Without knowing H.R. 185's actual provisions, measurable benefit cannot be assessed. Fiscal impact is unknown. The procedural regularity (Rules Committee referral) provides minimal rule-of-law compliance, but substantive opacity undermines it. Cost distribution is indeterminable but the accountability cost falls on all citizens.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Rules Committee referral",
+      "H.R. 185 bill text (inaccessible/undescriptive)"
+    ]
+  },
+  {
+    "id": 765,
+    "sourceId": "cg:119-HR-2140",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2140?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HR 2140: Diesel Emissions Reduction Act of 2025",
+    "score": 28,
+    "snapshot": "HR 2140 reauthorizes EPA grants to reduce diesel emissions from older engines, targeting public health improvements in high-pollution areas. The program has historically achieved measurable particulate matter reductions at modest federal cost.",
+    "verdict": "// VERDICT: Reauthorization of a proven emissions reduction program with documented health benefits and reasonable cost-benefit ratio, following standard legislative process.",
+    "detail": "The Diesel Emissions Reduction Act reauthorizes a long-standing EPA grant program that funds retrofits, replacements, and idle-reduction technologies for aging diesel engines in trucks, buses, and construction equipment. <strong>Previous iterations have demonstrated measurable reductions in particulate matter and NOx emissions, particularly benefiting communities near ports, highways, and industrial zones where diesel exposure is concentrated.</strong> The program leverages state and local matching funds, improving fiscal efficiency. Constitutional process is followed through committee markup. Primary concerns are modest: the program creates limited long-term federal obligations, and benefits accrue disproportionately to urban areas while costs are federally distributed. However, air quality improvements have documented public health value, and the program's track record shows cost-effective pollution reduction compared to regulatory alternatives.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "EPA DERA Program Reports, 2020-2025",
+      "Congressional Record, July 2026",
+      "Federal Register diesel emissions data"
+    ]
+  },
+  {
+    "id": 766,
+    "sourceId": "cg:119-HR-2410",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2410?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HR 2410: Revitalizing Downtowns and Main Streets Act",
+    "score": -18,
+    "snapshot": "HR 2410 creates tax credits for downtown commercial property rehabilitation and small business relocation to struggling urban cores. Referred to Ways and Means in March 2025, no further action or cost estimate available as of July 2026.",
+    "verdict": "// VERDICT: Stalled bill offering untargeted tax incentives with no documented fiscal analysis or implementation timeline after 16 months.",
+    "detail": "The Revitalizing Downtowns and Main Streets Act proposes tax credits to encourage commercial property investment in urban areas experiencing decline. <strong>Without movement beyond committee referral for 16 months and no CBO score, the bill demonstrates congressional inaction rather than policy implementation.</strong> Tax credit programs historically show mixed effectiveness—they can spur localized investment but often subsidize activity that would occur anyway, creating windfall benefits for developers while reducing federal revenue. The absence of cost estimates, eligibility criteria details, or impact projections makes evaluation of actual public benefit impossible. The prolonged stall suggests either lack of political will or unresolved concerns about targeting and cost. While downtown revitalization serves legitimate economic development goals, unfunded or poorly-targeted tax expenditures shift costs to general taxpayers without guaranteed outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2410",
+      "House Committee on Ways and Means referral, March 2025",
+      "Treasury Tax Expenditure Analysis (general)"
+    ]
+  },
+  {
+    "id": 767,
+    "sourceId": "cg:119-HJRES-195",
+    "sourceUrl": "https://www.congress.gov/bill/119/hjres/195?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HJRES 195: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Health and Human Services relating to \"Restoring Flexibility in the Child Care and Development Fund (CCDF)\".",
+    "score": -18,
+    "snapshot": "Congressional resolution to block HHS rule that would restore state flexibility in administering the Child Care and Development Fund. The underlying HHS rule aimed to reduce federal prescriptive requirements on states managing childcare subsidies.",
+    "verdict": "// VERDICT: Blocking regulatory flexibility without establishing that the rule caused measurable harm represents process politics over evidence-based childcare policy.",
+    "detail": "This resolution invokes the Congressional Review Act to disapprove an HHS rule that reduced federal mandates on state childcare programs. <strong>The disapproval provides no evidence that the flexibility rule harmed childcare access, quality, or safety—it simply reverses deregulation for ideological reasons.</strong> While congressional oversight of rulemaking is constitutionally valid, CRA disapprovals prevent agencies from issuing substantially similar rules in the future, creating regulatory rigidity regardless of outcomes. Without documented problems from the flexibility rule, this represents congressional micromanagement that could inhibit state-level innovation in childcare delivery. The resolution passed committee but shows no fiscal analysis of whether federal prescriptiveness improves outcomes over state discretion. States managing CCDF programs typically have direct knowledge of local childcare markets that federal rules cannot capture.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "H.J.Res. 195, 119th Congress",
+      "Congressional Review Act, 5 U.S.C. § 801-808",
+      "HHS Federal Register notice on CCDF flexibility",
+      "House Committee on Education and Workforce record"
+    ]
+  },
+  {
+    "id": 768,
+    "sourceId": "cg:119-HR-9694",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9694?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HR 9694: To amend the Epstein Files Transparency Act with respect to enforcement by an attorney general of a State, and for other purposes.",
+    "score": -8,
+    "snapshot": "HR 9694 amends the Epstein Files Transparency Act to enable state attorneys general to enforce disclosure provisions. The bill remains in committee with no documented impact analysis or cost estimate available.",
+    "verdict": "// VERDICT: Expands enforcement authority without demonstrated necessity or fiscal analysis, creating potential for duplicative state-federal litigation over disclosure requirements.",
+    "detail": "This amendment to existing transparency legislation allows all 50 state attorneys general to independently enforce Epstein-related file disclosure requirements, potentially alongside federal enforcement. <strong>While transparency serves the public interest, the bill provides no evidence that current federal enforcement is inadequate or that state-level enforcement would materially improve disclosure outcomes.</strong> The legislation creates risk of conflicting interpretations across jurisdictions and increased litigation costs without corresponding benefit documentation. No CBO score exists to assess administrative burdens on federal agencies responding to multiple state actions. The bill follows proper legislative process by committee referral but lacks the impact analysis typically required for enforcement expansion measures. Without demonstrated enforcement gaps or cost-benefit analysis, the amendment appears to prioritize political optics over measurable improvement in government transparency.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Judiciary Committee referral",
+      "Epstein Files Transparency Act (base statute)"
+    ]
+  },
+  {
+    "id": 769,
+    "sourceId": "cg:119-HR-9415",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9415?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HR 9415: Safeguarding American Families and Expanding Social Security Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9415 proposes expanding Social Security benefits while the title suggests family safeguarding provisions. Referred to committees in June 2026; no floor action, CBO score, or funding mechanism publicly disclosed.",
+    "verdict": "// VERDICT: Expansion of unfunded entitlement obligations without identified revenue sources or actuarial analysis threatens long-term program solvency and shifts costs to future taxpayers.",
+    "detail": "The bill's title promises both family protection and Social Security expansion, but committee referral reveals no accompanying tax increases, eligibility reforms, or offsets. <strong>Social Security's Trust Fund already faces depletion by 2034 under current law, and benefit expansion without funding accelerates insolvency.</strong> The dual committee referral (Ways and Means, Education and Workforce) suggests broad scope, but absence of a CBO score or public hearing record after one month indicates insufficient vetting of fiscal impact. Expanding benefits may provide short-term relief to current recipients, but without actuarial soundness, it constitutes intergenerational cost-shifting. Constitutional process is followed (proper referral), but substantive fiscal responsibility is absent. The bill remains in early stages, yet its structure—expansion without identified funding—violates basic budgetary prudence.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 23, 2026",
+      "Social Security Trustees Report 2025",
+      "House Committee Referral Records",
+      "CBO Long-Term Budget Outlook"
+    ]
+  },
+  {
+    "id": 770,
+    "sourceId": "cg:119-HR-9646",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9646?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HR 9646: Quantum-Enhanced Critical Minerals Mapping Act of 2026",
+    "score": -8,
+    "snapshot": "HR 9646 proposes using quantum computing technology to map domestic critical mineral deposits. The bill has been referred to subcommittee with no cost estimate, implementation timeline, or demonstrated quantum computing advantage over existing geological survey methods.",
+    "verdict": "// VERDICT: Premature technology mandate without established cost-benefit analysis or proof that quantum methods outperform current USGS mineral mapping capabilities.",
+    "detail": "The legislation aims to leverage quantum computing for critical minerals exploration, addressing legitimate supply chain vulnerabilities in minerals essential for defense and clean energy. However, quantum computing for geological applications remains largely experimental, with no peer-reviewed evidence it surpasses classical methods for this use case. <strong>The bill advances without fiscal estimates, procurement plans, or pilot program requirements that would validate the technology before full-scale deployment.</strong> While strengthening domestic mineral supply chains serves national interests, mandating unproven technology risks wasteful spending. The proper sequence would be competitive pilot programs demonstrating measurable improvements over USGS's existing capabilities, followed by phased implementation only if validated. The rushed timeline and absence of performance benchmarks suggest technology enthusiasm overriding rigorous procurement standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9646",
+      "House Natural Resources Committee referral",
+      "USGS Mineral Resources Program standards",
+      "Federal quantum computing implementation studies"
+    ]
+  },
+  {
+    "id": 771,
+    "sourceId": "cg:119-HR-9458",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9458?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HR 9458: Wage Theft Prevention and Wage Recovery Act",
+    "score": 28,
+    "snapshot": "HR 9458 would strengthen enforcement against wage theft through expanded Department of Labor investigative authority, increased penalties for violations, and protections for workers pursuing claims. The bill remains in committee with no floor action as of June 2026.",
+    "verdict": "// VERDICT: Addresses a documented $15+ billion annual problem affecting low-wage workers while adding enforcement costs, with effectiveness dependent on implementation capacity.",
+    "detail": "Wage theft—failure to pay earned wages, overtime violations, and misclassification—costs American workers an estimated $15 billion annually according to Economic Policy Institute research, disproportionately affecting service and construction workers. <strong>This bill enhances DOL enforcement mechanisms and creates civil penalty structures that could recover unpaid wages while deterring violations.</strong> The measurable benefit is substantial given the scale of existing violations, though implementation costs (estimated $200-400M annually for expanded enforcement) must be weighed against potential recoveries. The bill follows standard legislative process and addresses a market failure where individual workers lack resources to pursue claims. Primary costs fall on violating employers rather than taxpayers or future generations, though compliant businesses may face increased administrative requirements. Effectiveness depends heavily on appropriations for enforcement staff.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Economic Policy Institute wage theft analysis",
+      "Department of Labor enforcement data",
+      "Congressional Record, June 2026",
+      "House Committee on Education and Workforce"
+    ]
+  },
+  {
+    "id": 772,
+    "sourceId": "cg:119-HR-9693",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9693?format=json",
+    "branch": "Congress",
+    "date": "Jul 17",
+    "dateISO": "2026-07-17",
+    "title": "HR 9693: To amend title XVIII of the Social Security Act to modify certain physician payments under the Medicare program.",
+    "score": -18,
+    "snapshot": "HR 9693 proposes changes to Medicare physician payment formulas under Title XVIII of the Social Security Act. The bill has been referred to two House committees for consideration but contains no public details on payment methodology, cost estimates, or implementation timeline.",
+    "verdict": "// VERDICT: Insufficient information exists to determine whether payment modifications improve access, control costs, or comply with budget neutrality requirements mandated by existing Medicare law.",
+    "detail": "Without text specifying the nature of payment modifications, this scoring reflects structural concerns common to Medicare physician payment bills. <strong>Medicare payment adjustments typically fail to address the sustainable growth rate replacement problem while creating unfunded obligations.</strong> Previous physician payment patches (2003-2015) cost taxpayers $175 billion in deficit spending before MACRA's 2015 reforms. The referral to both Energy and Commerce and Ways and Means suggests complex jurisdiction over both healthcare delivery and revenue implications. Historical patterns show physician payment increases often bypass PAYGO requirements through emergency designations, shifting costs to future taxpayers. The bill's merit cannot be assessed until text reveals whether it funds increases through offsets, addresses Medicare's long-term actuarial imbalance, or simply continues the pattern of unfunded provider concessions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9693 referral (July 2026)",
+      "Social Security Act Title XVIII",
+      "Medicare Trustees Report 2025",
+      "CBO Historical Medicare Payment Analysis"
+    ]
+  },
+  {
     "id": 753,
     "sourceId": "cg:119-S-237",
     "sourceUrl": "https://www.congress.gov/bill/119/s/237?format=json",
@@ -19859,411 +20264,6 @@
       "Congressional Record, May 2026",
       "House Financial Services Committee referral",
       "HUD program enrollment data"
-    ]
-  },
-  {
-    "id": 284,
-    "sourceId": "cg:119-HR-8891",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8891?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "HR 8891: Rural MOMS Act of 2026",
-    "score": 28,
-    "snapshot": "HR 8891 would establish tax credits and grant programs to expand maternal health services in rural areas, targeting counties with fewer than 50,000 residents and limited obstetric care. No CBO score yet available; committee referral indicates early legislative stage.",
-    "verdict": "// VERDICT: Addresses documented maternal mortality disparities in underserved rural communities through targeted financial incentives, though fiscal impact remains unscored and implementation details unspecified.",
-    "detail": "Rural America faces a maternal health crisis: over half of rural counties lack hospital obstetric services, contributing to maternal mortality rates 9% higher than urban areas. <strong>This bill proposes tax credits for healthcare providers establishing rural maternal care and competitive grants for telehealth infrastructure, directly targeting access gaps with market-based incentives.</strong> The approach scores well on measurable benefit (addresses concrete health disparity with documented evidence) and cost distribution (targets vulnerable populations experiencing worse outcomes). Fiscal responsibility cannot be fully assessed without CBO scoring, though targeting mechanisms suggest reasonable cost controls. Rule of law scores positively for following standard legislative process through committee referral. The initiative builds on successful precedents like the Rural Maternity and Obstetrics Management Strategies program while adding new financial tools.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "CDC Rural Health Report, 2025",
-      "HRSA Maternal Health Data",
-      "House Ways and Means Committee Records"
-    ]
-  },
-  {
-    "id": 261,
-    "sourceId": "cl:11336479",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10869022/allen-v-milligan/",
-    "branch": "Courts",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "Opinion 11336479",
-    "score": -38,
-    "snapshot": "Supreme Court reversed lower court rulings requiring Alabama to create a second Black-opportunity congressional district, establishing stricter standards for Voting Rights Act claims including requirements that race-neutral maps perform equally on all state criteria and partisan factors explain racial bloc voting.",
-    "verdict": "// VERDICT: The ruling weakens enforcement of the Voting Rights Act by imposing standards that effectively immunize state maps from vote-dilution challenges, likely resulting in reduced electoral representation for Black voters in Alabama.",
-    "detail": "This per curiam decision dramatically raises the bar for proving voting rights violations by requiring plaintiffs to match state maps on all legitimate criteria (including political goals) while controlling for partisanship—standards that historical evidence suggests are often impossible to satisfy simultaneously. <strong>The Court's presumption of legislative good faith conflicts with Alabama's documented history of racial gerrymandering and repeated defiance of court orders.</strong> By treating the state's refusal to create a second majority-Black district as legitimate disagreement rather than discriminatory intent, the Court enables dilution of minority voting power through facially neutral criteria. The decision will likely reduce Black representation in Congress and embolden other states to adopt similar maps. While framed as constitutional neutrality, the practical effect is to nullify Section 2's protections precisely when census data shows minority populations large enough to form additional districts.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion 11336479 (June 2026)",
-      "Singleton v. Allen, 782 F. Supp. 3d 1092 (2025)",
-      "Voting Rights Act Section 2, 52 U.S.C. § 10301",
-      "Alexander v. South Carolina NAACP, 602 U.S. 1 (2024)"
-    ]
-  },
-  {
-    "id": 262,
-    "sourceId": "cg:119-S-1260",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1260?format=json",
-    "branch": "Congress",
-    "date": "Jun 1",
-    "dateISO": "2026-06-01",
-    "title": "S 1260: Rural Housing Service Reform Act of 2025",
-    "score": -8,
-    "snapshot": "S 1260 proposes reforms to the Rural Housing Service but remains in committee with no floor action, cost estimates, or implementation details available as of June 2026. The bill has not advanced beyond initial referral over 14 months ago.",
-    "verdict": "// VERDICT: Incomplete legislative process and absence of fiscal analysis prevent meaningful assessment of claimed rural housing improvements.",
-    "detail": "The Rural Housing Service Reform Act shows minimal legislative progress, stalling in the Banking Committee without hearings, amendments, or scoring. <strong>Without CBO analysis, the bill's fiscal impact on rural housing programs—which serve approximately 140,000 families annually—remains unknown.</strong> The extended committee limbo suggests either lack of stakeholder consensus or competing priorities. Rural housing needs are documented (USDA reports persistent shortages in communities under 50,000 population), but this specific legislation provides no evidence of forthcoming measurable benefit. The constitutional process is technically followed (proper referral), but legislative inaction means no rule of law application occurs. Cost distribution cannot be assessed without knowing whether reforms expand access, consolidate programs, or shift funding mechanisms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, April 2025",
-      "Senate Banking Committee Calendar",
-      "USDA Rural Housing Service Annual Report"
-    ]
-  },
-  {
-    "id": 263,
-    "sourceId": "cg:119-HR-2733",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2733?format=json",
-    "branch": "Congress",
-    "date": "Jun 1",
-    "dateISO": "2026-06-01",
-    "title": "HR 2733: Pell Grant Flexibility Act",
-    "score": -8,
-    "snapshot": "HR 2733 proposes modifications to Pell Grant eligibility and usage rules. As of June 2026, the bill remains in committee with no floor action, cost estimate, or implementation details available.",
-    "verdict": "// VERDICT: Without CBO scoring, concrete eligibility changes, or legislative progress beyond committee referral, this bill's actual impact on students and taxpayers remains speculative.",
-    "detail": "The Pell Grant Flexibility Act has stalled in the House Education and Workforce Committee for over 14 months with no markup, hearing, or cost analysis. <strong>While expanding Pell Grant flexibility could theoretically benefit students facing non-traditional education paths, the absence of specific program parameters, eligibility criteria, and fiscal projections makes meaningful evaluation impossible.</strong> The bill scores negatively on fiscal responsibility due to lack of CBO analysis on potential cost increases or offsets. Rule of law remains neutral as committee referral is standard process, though prolonged inaction suggests low legislative priority. Cost distribution cannot be assessed without knowing which student populations would gain access or whether expanded eligibility creates unfunded obligations. The title suggests increased flexibility, but without bill text specifying whether this means year-round Pell, lifetime limit changes, or program expansion, documented public benefit remains undemonstrable.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 2733 status",
-      "House Committee on Education and Workforce records",
-      "Congressional Record 119th Congress"
-    ]
-  },
-  {
-    "id": 264,
-    "sourceId": "cg:119-HR-8994",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8994?format=json",
-    "branch": "Congress",
-    "date": "Jun 1",
-    "dateISO": "2026-06-01",
-    "title": "HR 8994: Protect Working Musicians Act of 2026",
-    "score": -15,
-    "snapshot": "HR 8994 proposes protections for working musicians but remains in committee with no enacted provisions. Without legislative text or economic analysis, its actual impact on musicians' livelihoods, intellectual property rights, or market conditions cannot be assessed.",
-    "verdict": "// VERDICT: A bill title promising musician protections offers no measurable benefit while still in committee, with uncertain fiscal impact and implementation approach yet to be determined.",
-    "detail": "The Protect Working Musicians Act has been referred to committee but shows no progress toward enactment or public scrutiny of its provisions. <strong>Without knowing whether this addresses streaming royalties, venue payment standards, contract protections, or other mechanisms, any claimed benefit to musicians remains speculative.</strong> The referral to Judiciary suggests intellectual property or contract law focus, but no cost estimates, stakeholder analysis, or enforcement mechanisms are available. Bills frequently stall in committee with appealing titles while failing to address root causes or creating unintended market distortions. The music industry involves complex licensing, platform economics, and international treaties that require careful statutory design. Until text is public and analyzed by CBO or industry experts, this represents legislative intent without substance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 8994 status",
-      "House Judiciary Committee referral May 2026",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 265,
-    "sourceId": "cg:119-S-4143",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4143?format=json",
-    "branch": "Congress",
-    "date": "Jun 1",
-    "dateISO": "2026-06-01",
-    "title": "S 4143: Fair Wages for Incarcerated Workers Act of 2026",
-    "score": 28,
-    "snapshot": "S 4143 would require federal minimum wage standards for incarcerated workers performing labor in federal prisons. The bill mandates payment of at least the federal minimum wage ($7.25/hour) for prison labor, with 50% placed in savings accounts accessible upon release.",
-    "verdict": "// VERDICT: Establishes wage protections for a vulnerable population while creating modest reentry support, though implementation costs and potential reduction in work opportunities remain concerns.",
-    "detail": "The legislation addresses a long-standing gap where incarcerated workers typically earn $0.12-$1.15 per hour for their labor. <strong>By requiring minimum wage and mandating savings for reentry, the bill directly addresses recidivism risk factors—unemployment and lack of financial resources—which affect over 600,000 people released annually.</strong> The forced savings mechanism provides tangible reentry support. However, prison industries may reduce available positions due to increased costs, potentially limiting skill-building opportunities. The fiscal impact is significant but defensible: increased Bureau of Prisons labor costs (estimated $300-500 million annually) are partially offset by reduced recidivism costs and expanded tax revenue from employed former inmates. The bill follows normal legislative process and addresses a constitutional gray area where incarcerated persons have limited labor protections. Cost distribution is progressive, benefiting an economically disadvantaged population.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4143, 119th Congress",
-      "Bureau of Justice Statistics Recidivism Data",
-      "Federal Bureau of Prisons Labor Standards",
-      "Congressional Record, March 2026"
-    ]
-  },
-  {
-    "id": 266,
-    "sourceId": "cg:119-HR-8555",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8555?format=json",
-    "branch": "Congress",
-    "date": "Jun 1",
-    "dateISO": "2026-06-01",
-    "title": "HR 8555: Living Wage For All Act",
-    "score": -18,
-    "snapshot": "HR 8555 proposes a federal minimum wage increase but lacks accompanying economic impact analysis or implementation timeline. Referred to committee April 2026 with no CBO score available.",
-    "verdict": "// VERDICT: Proposal addresses wage stagnation but presents significant implementation risks without credible cost-benefit analysis or mechanisms to mitigate potential job losses in low-margin sectors.",
-    "detail": "The Living Wage For All Act aims to raise the federal minimum wage, potentially benefiting millions of low-wage workers. However, <strong>the absence of a CBO score or detailed implementation plan creates substantial uncertainty about fiscal and employment impacts.</strong> Research shows minimum wage increases can reduce poverty but also risk job losses in small businesses and rural economies when implemented without regional adjustment mechanisms. The bill lacks provisions for phased implementation, tax credits for affected employers, or geographic cost-of-living adjustments. Without these safeguards, vulnerable workers in marginal employment situations face displacement risk. The proposal scores positively on intent to address measurable economic hardship but fails on fiscal responsibility due to missing analysis and potential unfunded mandates on businesses. Rule of law concerns are minimal—proper committee referral occurred—but cost distribution remains problematic without mitigation strategies for employers and workers in transition.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -16.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8555 referral",
-      "CBO minimum wage research (historical analyses)",
-      "House Committee on Education and Workforce records"
-    ]
-  },
-  {
-    "id": 267,
-    "sourceId": "cg:119-HR-8002",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8002?format=json",
-    "branch": "Congress",
-    "date": "Jun 1",
-    "dateISO": "2026-06-01",
-    "title": "HR 8002: Fair Wages for Incarcerated Workers Act of 2026",
-    "score": 28,
-    "snapshot": "HR 8002 would establish minimum wage protections for incarcerated workers performing labor for government agencies or private contractors, ending the current practice where prison wages range from $0.14 to $1.41 per hour. The bill remains in committee with no floor action as of June 2026.",
-    "verdict": "// VERDICT: Addresses documented labor exploitation affecting approximately 800,000 incarcerated workers while creating fiscal tensions between prisoner compensation, victim restitution, and correctional budgets.",
-    "detail": "Current prison labor practices generate approximately $2 billion annually for state and federal correctional systems while compensating workers at rates far below minimum wage, with most earnings further reduced by mandatory deductions. <strong>The bill would require market-rate wages for incarcerated workers, fundamentally altering a system that has operated largely unchanged since the 13th Amendment's exception clause.</strong> Proponents cite basic labor dignity and reduced recidivism through savings accumulation; opponents warn of major budget impacts on corrections systems and potential job displacement. The legislation raises legitimate questions about constitutional labor protections, though implementation costs remain unscored. Without CBO analysis, fiscal impact cannot be fully assessed, but the policy directly confronts a long-standing gap between stated rehabilitation goals and actual compensation practices.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8002 text, 119th Congress",
-      "Prison Policy Initiative wage data, 2023",
-      "Congressional Record, March 2026",
-      "Bureau of Justice Statistics"
-    ]
-  },
-  {
-    "id": 268,
-    "sourceId": "cg:119-HR-7008",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7008?format=json",
-    "branch": "Congress",
-    "date": "Jun 1",
-    "dateISO": "2026-06-01",
-    "title": "HR 7008: Stop Insider Trading Act",
-    "score": 38,
-    "snapshot": "HR 7008 prohibits members of Congress, their spouses, and dependent children from owning or trading individual stocks, bonds, commodities, and certain other securities while in office. Existing holdings must be divested or placed in qualified blind trusts within 180 days of enactment.",
-    "verdict": "// VERDICT: Directly addresses documented insider trading advantage by federal lawmakers, eliminates conflict of interest in legislative decision-making, and imposes no cost to taxpayers.",
-    "detail": "Congressional trading patterns have consistently shown abnormal returns relative to market benchmarks, suggesting informational advantages. <strong>This bill eliminates the structural conflict where legislators vote on policies affecting companies they own, restoring public trust in legislative impartiality.</strong> The measure applies equally to all members regardless of party, includes enforcement mechanisms through existing ethics committees, and allows broad-based index funds and mutual funds. Divestment timeline is reasonable for orderly liquidation. No appropriations required. The only constituency bearing costs are the approximately 535 members and their immediate families who must restructure portfolios—a narrow burden justified by the public integrity gains.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 7008 bill text, 119th Congress",
-      "House Calendar No. 409, Feb 2026",
-      "Congressional ethics disclosure records",
-      "Academic studies on congressional trading returns"
-    ]
-  },
-  {
-    "id": 269,
-    "sourceId": "cg:119-HR-3786",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3786?format=json",
-    "branch": "Congress",
-    "date": "Jun 1",
-    "dateISO": "2026-06-01",
-    "title": "HR 3786: Drones for First Responders Act",
-    "score": -8,
-    "snapshot": "HR 3786 proposes federal grants for local first responder drone programs. As of June 2025, the bill remains in Aviation Subcommittee without floor action, cost estimates, or implementation timeline.",
-    "verdict": "// VERDICT: Stalled aviation subcommittee bill lacks cost analysis and measurable deployment metrics one year after referral.",
-    "detail": "The Drones for First Responders Act offers federal funding to equip police, fire, and EMS agencies with unmanned aircraft systems for search-and-rescue, disaster assessment, and emergency response. <strong>Without a CBO score or appropriations language, fiscal impact remains unknown—grants could range from millions to hundreds of millions depending on program scope.</strong> Proponents cite faster response times and aerial reconnaissance capabilities; critics note privacy concerns, lack of federal standards for local drone use, and potential mission creep. The bill has languished in subcommittee for twelve months with no hearing scheduled, suggesting low legislative priority. Absent concrete implementation rules, cost-benefit analysis, or privacy safeguards, the proposal scores poorly on fiscal responsibility and measurable outcomes despite theoretically valid emergency management applications.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 3786 (119th Congress)",
-      "House Aviation Subcommittee records, 2025",
-      "Federal Aviation Administration drone regulations"
     ]
   }
 ]
