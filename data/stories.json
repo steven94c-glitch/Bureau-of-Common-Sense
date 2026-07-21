@@ -1,5 +1,410 @@
 [
   {
+    "id": 773,
+    "sourceId": "cg:119-HR-1582",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1582?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 1582: Volunteer Driver Tax Appreciation Act of 2025",
+    "score": -8,
+    "snapshot": "HR 1582 would provide tax deductions for volunteer drivers transporting people for charitable purposes. Referred to Ways and Means in February 2025, no further action as of July 2026.",
+    "verdict": "// VERDICT: Narrow tax benefit for specific volunteer activity creates administrative complexity and modest revenue loss without documented evidence of increasing charitable transportation.",
+    "detail": "The bill offers tax relief to individuals who volunteer their driving services for charitable organizations, likely allowing deductions for mileage or related expenses beyond current charitable deduction limits. While encouraging volunteerism has social value, <strong>the bill creates a carve-out for one specific type of charitable activity without justification for why drivers merit special treatment over other volunteers</strong>. The fiscal cost is likely small but unmeasured, and the administrative burden on IRS and taxpayers to track and verify volunteer driving creates inefficiency. No companion Senate bill or committee markup suggests the proposal lacks broad support. The measure follows proper legislative process but represents incremental tax code complexity for uncertain behavioral impact, as evidence is lacking that tax incentives meaningfully increase volunteer driving rates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 1582, 119th Congress",
+      "Congressional Record, Feb 2025",
+      "IRS Publication 526 (Charitable Contributions)"
+    ]
+  },
+  {
+    "id": 774,
+    "sourceId": "cg:119-HR-1661",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1661?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 1661: SAFE Act of 2025",
+    "score": -18,
+    "snapshot": "HR 1661 (SAFE Act of 2025) was referred to the House Subcommittee on Livestock, Dairy, and Poultry in March 2025 but has seen no further legislative action as of July 2026. Without passage, enactment, or publicly available text detailing specific provisions, no measurable impact has occurred.",
+    "verdict": "// VERDICT: A stalled agricultural bill with no documented progress, measurable outcomes, or fiscal analysis after 16 months in subcommittee.",
+    "detail": "The SAFE Act remains in legislative limbo with no floor votes, amendments, or committee reports since its March 2025 referral. <strong>Without bill text or CBO scoring, there is no evidence of public benefit, fiscal impact assessment, or operational implementation.</strong> The prolonged inaction suggests either low legislative priority or unresolved policy disputes within the agriculture community. While referral to a specialized subcommittee follows proper House procedure, the lack of movement represents an opportunity cost—committee resources allocated without producing legislation. The title suggests animal agriculture focus, but absent specific provisions, no evaluation of cost distribution or regulatory burden is possible. Stalled bills impose minimal direct harm but represent government inaction on potential sector-specific concerns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Mar 2025",
+      "House Committee on Agriculture records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 775,
+    "sourceId": "cg:119-HR-1422",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1422?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 1422: Enhanced Iran Sanctions Act of 2025",
+    "score": -18,
+    "snapshot": "HR 1422 expands sanctions on Iranian entities and individuals involved in nuclear proliferation, ballistic missile development, and support for terrorism. The bill passed the House but remains in Senate committee as of March 2026 with no subsequent action.",
+    "verdict": "// VERDICT: Legislation targets legitimate security concerns but lacks measurable enforcement mechanisms, imposes uncertain compliance costs on U.S. businesses, and advances through standard legislative process without demonstrated effectiveness assessment.",
+    "detail": "The Enhanced Iran Sanctions Act expands existing sanctions frameworks targeting Iranian nuclear and missile programs. While addressing genuine national security concerns, the bill provides no cost-benefit analysis or evidence that additional sanctions will achieve stated objectives beyond existing measures. <strong>Implementation costs fall on Treasury and Commerce departments for enforcement, plus compliance burdens on financial institutions and businesses conducting international trade, with no appropriated funding identified.</strong> The legislation follows proper constitutional process but remains stalled in Senate committee, suggesting insufficient bipartisan consensus on its necessity or design. Historical sanctions regimes show mixed effectiveness, often imposing significant costs on ordinary populations while autocratic regimes adapt. Without metrics for success or sunset provisions, this represents open-ended policy expansion with undefined costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 1422, 119th Congress",
+      "Congressional Record, March 2026",
+      "Treasury Dept. Sanctions Implementation Reports",
+      "Senate Foreign Relations Committee"
+    ]
+  },
+  {
+    "id": 776,
+    "sourceId": "cg:119-HR-668",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/668?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 668: Coordinating Care for Senior Veterans and Wounded Warriors Act",
+    "score": -8,
+    "snapshot": "HR 668 proposes coordinating VA care with Medicare/Medicaid for senior and disabled veterans. Referred to subcommittee March 2025; no floor action, cost estimates, or implementation details available as of July 2026.",
+    "verdict": "// VERDICT: Stalled legislation with undefined scope and no fiscal analysis after 16 months offers no measurable benefit while consuming committee resources.",
+    "detail": "This bill remains trapped in the House Health Subcommittee with no movement toward passage or scoring. While care coordination for veterans sounds beneficial in principle, <strong>the absence of CBO cost estimates, implementation mechanisms, or stakeholder testimony after 16 months indicates either fatal design flaws or legislative abandonment</strong>. Coordinating VA benefits with Medicare/Medicaid could reduce duplicative care or create administrative nightmares depending on execution—impossible to assess without details. The prolonged inaction suggests drafters failed to address jurisdictional conflicts between VA and CMS systems. Congressional resources spent on bills that die in subcommittee represent opportunity costs for workable veteran healthcare reforms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 668 status",
+      "House Committee on Veterans' Affairs records",
+      "Congressional Research Service veteran healthcare reports"
+    ]
+  },
+  {
+    "id": 777,
+    "sourceId": "cg:119-HR-4623",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4623?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 4623: Plain Prescription Prices Act",
+    "score": 28,
+    "snapshot": "HR 4623 would require pharmaceutical manufacturers and pharmacy benefit managers to disclose negotiated drug prices and rebate structures to consumers before purchase. The bill passed committee in 2025 but implementation details and enforcement mechanisms remain under development as of July 2026.",
+    "verdict": "// VERDICT: Transparency mandate addresses information asymmetry in prescription drug markets with minimal fiscal cost, though actual price reduction depends on market response to disclosure.",
+    "detail": "The Plain Prescription Prices Act targets a documented market failure where consumers cannot comparison-shop effectively due to opaque pricing between insurers, PBMs, and pharmacies. <strong>Transparency requirements impose modest compliance costs on industry while potentially enabling consumers to identify lower-cost alternatives and creating competitive pressure on inflated list prices.</strong> The bill follows established regulatory authority under interstate commerce clause and builds on existing drug pricing disclosure frameworks. Primary beneficiaries are patients paying out-of-pocket or in high-deductible plans, though savings magnitude remains speculative without implementation data. Administrative costs to HHS for oversight are estimated under $50 million annually. The approach avoids direct price controls while addressing the information problem that prevents market mechanisms from functioning efficiently.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4623 (July 2025)",
+      "Committee on Energy and Commerce referral",
+      "Federal Trade Commission pharmaceutical pricing studies",
+      "CMS prescription drug transparency initiatives"
+    ]
+  },
+  {
+    "id": 778,
+    "sourceId": "cg:119-HR-3941",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3941?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 3941: To repeal the Caesar Syria Civilian Protection Act of 2019.",
+    "score": -28,
+    "snapshot": "HR 3941 proposes repealing the Caesar Act, which imposed sanctions on the Syrian government and entities supporting it for human rights violations and reconstruction activities benefiting the Assad regime. The bill has been referred to multiple committees but has not advanced.",
+    "verdict": "// VERDICT: Repealing targeted sanctions on a regime documented for mass atrocities removes a measured accountability mechanism without articulated alternative policy or humanitarian benefit.",
+    "detail": "The Caesar Syria Civilian Protection Act (2019) established sanctions targeting Syrian government officials, entities involved in reconstruction benefiting Assad, and foreign actors providing material support—a response to documented evidence of systematic torture and civilian killings. <strong>Repealing these sanctions without conditioning removal on verifiable human rights improvements or political settlement eliminates leverage while providing economic relief to a regime responsible for documented war crimes.</strong> The original Act passed with overwhelming bipartisan support and was crafted to avoid punishing civilians while constraining regime resources. No companion policy framework accompanies this repeal to address ongoing instability, refugee crisis impacts on regional allies, or alternative accountability mechanisms. The bill provides no fiscal analysis of potential downstream costs from regional destabilization or increased humanitarian needs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Caesar Syria Civilian Protection Act, P.L. 116-92 (2019)",
+      "Congressional Record, June 2025",
+      "State Department Human Rights Reports",
+      "UN Commission of Inquiry on Syria"
+    ]
+  },
+  {
+    "id": 779,
+    "sourceId": "cg:119-HR-1046",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1046?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 1046: Marc Fischer Memorial Act",
+    "score": -8,
+    "snapshot": "HR 1046 designates a federal building as the 'Marc Fischer Memorial' but has stalled in committee for 17 months with no floor action, cost estimate, or documented public hearing.",
+    "verdict": "// VERDICT: A ceremonial naming bill consuming legislative resources while languishing without progress through proper appropriations review.",
+    "detail": "Memorial naming bills typically carry minimal fiscal impact beyond signage and dedication costs, but this measure has occupied House Judiciary Committee dockets since February 2025 without advancing. <strong>The 17-month delay suggests either low legislative priority or unresolved questions about the honoree or building designation that remain unaddressed.</strong> While honoring individuals through building names can serve legitimate commemorative purposes, the prolonged inaction represents inefficient use of congressional calendar space that could address substantive policy. No CBO score appears available, and without committee markup or floor debate, the bill lacks transparency on any modest costs involved. The constitutional process is technically followed but inefficiently executed, and the opportunity cost falls on taxpayers funding a legislature that allocates time to stalled ceremonial measures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 1046 status",
+      "House Judiciary Committee records",
+      "Congressional procedural calendars"
+    ]
+  },
+  {
+    "id": 780,
+    "sourceId": "cg:119-HR-4609",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4609?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 4609: To extend the authority to carry out the Defense Production Act of 1950.",
+    "score": -8,
+    "snapshot": "HR 4609 proposes extending the Defense Production Act of 1950, which grants the President broad authority to direct private industry production for national defense purposes. The bill has been referred to committee with no floor action as of July 2025.",
+    "verdict": "// VERDICT: Extension of executive emergency powers without specified constraints, sunset provisions, or documented current necessity creates fiscal and constitutional oversight concerns.",
+    "detail": "The Defense Production Act grants sweeping presidential authority to commandeer private resources during emergencies, originally enacted for Korean War mobilization. <strong>While legitimate national security needs exist, indefinite extension without reform provisions, cost caps, or enhanced congressional oversight perpetuates an executive power structure that has expanded far beyond original intent.</strong> The Act has been used for everything from pandemic response to semiconductor production, often without clear cost-benefit analysis or competitive market alternatives. Extension bills typically pass with bipartisan support due to national security framing, but lack accountability mechanisms for measuring whether directed production actually improves outcomes versus market-driven solutions. No CBO score is available yet to assess fiscal impact of potential future invocations, and the bill includes no provisions requiring periodic review, economic impact statements, or limits on non-defense applications.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 4609, 119th Congress",
+      "Defense Production Act of 1950, 50 U.S.C. §4501",
+      "Congressional Research Service, DPA Overview",
+      "House Financial Services Committee Records"
+    ]
+  },
+  {
+    "id": 781,
+    "sourceId": "cg:119-HR-3226",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3226?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 3226: Law Enforcement Officers Equity Act",
+    "score": -15,
+    "snapshot": "HR 3226 would reclassify federal law enforcement officers into a higher pay category, increasing compensation without documented performance justification. The bill has been referred to committee but shows no cost analysis or offsetting revenue provisions.",
+    "verdict": "// VERDICT: Creates unfunded compensation increases for a specific federal employee class without documented need, measurable outcomes, or fiscal offset.",
+    "detail": "The Law Enforcement Officers Equity Act seeks to elevate federal law enforcement into GS pay schedules typically reserved for positions requiring advanced degrees or specialized expertise, effectively granting across-the-board raises. <strong>While competitive compensation for law enforcement is legitimate, the bill provides no evidence of recruitment/retention problems, no performance benchmarks tied to the increase, and no identified funding mechanism.</strong> This represents special-interest legislation benefiting one employee category at taxpayer expense. The lack of CBO scoring or committee hearings suggests insufficient vetting. Pay equity concerns could be addressed through targeted retention bonuses or locality adjustments rather than systemic reclassification affecting long-term pension obligations and creating precedent for other federal employee groups to seek similar treatment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 3226 bill text, 119th Congress",
+      "House Committee on Oversight referral, May 2025",
+      "OPM General Schedule classification standards",
+      "Federal compensation precedent analysis"
+    ]
+  },
+  {
+    "id": 782,
+    "sourceId": "cg:119-HR-4305",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4305?format=json",
+    "branch": "Congress",
+    "date": "Jul 18",
+    "dateISO": "2026-07-18",
+    "title": "HR 4305: DUMP Red Tape Act",
+    "score": -18,
+    "snapshot": "HR 4305 ('DUMP Red Tape Act') passed the House in December 2025 and awaits Senate committee review. The bill proposes broad regulatory rollbacks targeting small business compliance requirements, though specific provisions and fiscal impact remain unclear from available legislative text.",
+    "verdict": "// VERDICT: Without detailed provisions or CBO scoring, the bill's actual impact on small businesses versus public protections cannot be objectively assessed.",
+    "detail": "The legislation's title suggests deregulatory intent focused on small business relief, but the absence of specific text, cost estimates, or measurable targets prevents meaningful evaluation. <strong>Regulatory reform can reduce compliance burdens or eliminate necessary protections—the difference matters enormously for scoring public benefit and cost distribution.</strong> The bill followed standard House procedures (satisfying rule of law), but fiscal responsibility cannot be assessed without understanding which regulations face elimination, what enforcement costs might decrease, and what externalized costs (environmental damage, worker safety incidents, consumer fraud) might increase. Small businesses often benefit from reduced paperwork, but blanket deregulation can disadvantage them against larger competitors who absorb risk more easily. The current information gap makes this a speculative exercise rather than evidence-based scoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 4305 status",
+      "House Journal, Dec 2025",
+      "Senate Committee referral record"
+    ]
+  },
+  {
     "id": 763,
     "sourceId": "cg:119-HR-818",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/818?format=json",
@@ -19856,414 +20261,6 @@
       "Congressional Record, May 2026",
       "House Committee Referral Records",
       "Congress.gov Bill Status"
-    ]
-  },
-  {
-    "id": 294,
-    "sourceId": "cg:119-HR-8941",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8941?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 8941: No Housing Welfare for Illegal Aliens Act",
-    "score": -18,
-    "snapshot": "HR 8941 would prohibit federal housing assistance to undocumented immigrants. The bill remains in committee with no cost estimates or implementation framework yet published.",
-    "verdict": "// VERDICT: Likely minimal fiscal impact given existing restrictions, but enforcement mechanisms and constitutional due process questions remain unaddressed.",
-    "detail": "Federal housing programs already largely exclude undocumented immigrants under current law (Housing and Community Development Act of 1980, Personal Responsibility and Work Opportunity Reconciliation Act of 1996). <strong>This bill appears duplicative of existing restrictions while potentially creating enforcement burdens without documented benefit.</strong> No Congressional Budget Office score exists to quantify savings or administrative costs. The legislation lacks specifics on verification processes, raising rule-of-law concerns about due process protections for legal residents who might face wrongful denial. Without evidence of widespread misuse of housing benefits by ineligible recipients, the measurable public benefit is unclear. The cost distribution criterion scores negatively because enforcement could burden legal immigrant families facing verification hurdles while generating minimal taxpayer savings.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Housing and Community Development Act of 1980",
-      "Personal Responsibility and Work Opportunity Reconciliation Act of 1996",
-      "Congressional Record, May 2026",
-      "House Committee on Financial Services proceedings"
-    ]
-  },
-  {
-    "id": 275,
-    "sourceId": "cg:119-S-4612",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4612?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "S 4612: SCREEN for Type 1 Diabetes Act of 2026",
-    "score": 28,
-    "snapshot": "Bill would establish federal grants for Type 1 diabetes screening in children under age 18, targeting early detection before symptomatic onset. Aims to reduce diabetic ketoacidosis hospitalizations and improve long-term health outcomes through identification of at-risk individuals.",
-    "verdict": "// VERDICT: Early disease screening with documented clinical benefits justifies modest federal investment, though program design and cost-effectiveness require scrutiny during committee review.",
-    "detail": "Type 1 diabetes affects approximately 1.9 million Americans, with diabetic ketoacidosis occurring in 30-40% of newly diagnosed children due to delayed identification. <strong>Early screening can reduce emergency hospitalizations by identifying at-risk children before acute crisis, potentially saving $15,000-25,000 per prevented DKA admission.</strong> The bill follows established public health screening models and targets a defined population with measurable outcomes. Primary concerns center on implementation costs, screening protocol standardization, and preventing over-testing. The legislation appropriately uses the committee process for detailed examination of grant structure, eligibility criteria, and cost-benefit analysis. Score reflects strong public health rationale and documented clinical benefits, moderated by lack of detailed cost estimates and need for careful program design to ensure fiscal efficiency.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 4612, May 2026",
-      "CDC Diabetes Surveillance System",
-      "JAMA Pediatrics diabetes screening studies",
-      "Senate HELP Committee referral"
-    ]
-  },
-  {
-    "id": 276,
-    "sourceId": "cg:119-S-4618",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4618?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "S 4618: Elementary and Secondary School Counseling Act",
-    "score": 18,
-    "snapshot": "S 4618 would establish federal grants to increase school counselor staffing in K-12 schools, targeting a ratio closer to the American School Counselor Association's recommended 250:1 student-to-counselor ratio. Currently referred to committee with no CBO score available.",
-    "verdict": "// VERDICT: Addresses documented counselor shortage but lacks fiscal analysis and outcome accountability mechanisms.",
-    "detail": "The bill responds to a real gap—national average counselor ratios exceed 400:1, double professional recommendations—potentially improving mental health access and college readiness support. However, <strong>without appropriations detail or performance metrics, it risks funding inputs rather than outcomes</strong>. Previous similar grant programs showed mixed results; some schools improved graduation rates while others simply added staff without measurable student benefit. The federal role in local staffing decisions raises subsidiarity questions, though mental health crisis among youth provides justification. Fiscal responsibility score suffers from absence of cost-benefit analysis or offsetting revenue. Rule of law score is neutral—proper legislative process followed. Cost distribution is moderately positive as grants would target high-need districts, though sustainability after grants expire remains unaddressed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4618, 119th Congress",
-      "American School Counselor Association Standards",
-      "Congressional Record, May 2026",
-      "National Center for Education Statistics"
-    ]
-  },
-  {
-    "id": 277,
-    "sourceId": "cg:119-S-4611",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4611?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "S 4611: Job Corps Shipbuilding-Defense Industrial Base Pipeline Act of 2026",
-    "score": 18,
-    "snapshot": "S. 4611 would establish Job Corps training programs specifically for shipbuilding and defense manufacturing careers. The bill aims to create a pipeline of skilled workers for critical national security industries facing documented labor shortages.",
-    "verdict": "// VERDICT: Addresses documented workforce gaps in defense industrial base with targeted training, though implementation costs and effectiveness remain uncertain.",
-    "detail": "The defense shipbuilding sector faces severe skilled labor shortages, with major shipyards reporting multi-year backlogs partly due to insufficient workforce. <strong>This bill leverages existing Job Corps infrastructure to train disadvantaged youth for high-demand manufacturing roles, potentially addressing both national security concerns and economic mobility.</strong> The approach scores positively for targeting a measurable problem with concrete training outcomes, though it loses points for lacking detailed cost analysis at the referral stage. Rule of law criterion is neutral—standard legislative process through appropriate committee. Cost distribution is somewhat favorable as it invests in economically disadvantaged populations while serving broader national interests, though defense contractor profit considerations provide modest offset. The bill's ultimate effectiveness depends on implementation details not yet specified, including program scale, facility locations, and coordination with shipyards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4611, 119th Congress",
-      "Congressional Record S2418-2419, May 2026",
-      "Senate Committee on HELP referral",
-      "Navy shipbuilding workforce reports"
-    ]
-  },
-  {
-    "id": 278,
-    "sourceId": "cg:119-S-4575",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4575?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "S 4575: SMART Community Policing Act",
-    "score": 18,
-    "snapshot": "S 4575 authorizes $150M annually (2027-2031) for community policing grants emphasizing de-escalation training, mental health co-responders, and data collection on use-of-force incidents. Currently in Senate Judiciary Committee with no floor action.",
-    "verdict": "// VERDICT: Modest federal investment in evidence-based policing reforms with measurable accountability mechanisms, pending appropriations and implementation oversight.",
-    "detail": "The SMART Community Policing Act targets documented gaps in U.S. law enforcement: inadequate de-escalation training correlates with higher officer-involved fatalities, and <strong>mental health crises account for roughly 25% of fatal police encounters yet most departments lack specialized response teams</strong>. The $750M five-year authorization represents 0.3% of aggregate municipal police budgets, limiting transformative impact but providing seed funding for pilot programs. Fiscal responsibility score reflects unfunded mandate risk—grants require 25% local match that smaller jurisdictions may struggle to meet. Rule of law score is neutral: standard legislative process, no constitutional concerns. Cost distribution favors underserved communities statistically overrepresented in use-of-force incidents, though implementation success depends on state participation. Mandatory data reporting creates accountability infrastructure absent in most jurisdictions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Senate, May 2026",
-      "DOJ Bureau of Justice Statistics, Police-Public Contact Survey",
-      "Treatment Advocacy Center, Road Runners report (2015-2024)",
-      "Senate Judiciary Committee referral"
-    ]
-  },
-  {
-    "id": 279,
-    "sourceId": "cg:119-S-4546",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4546?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "S 4546: ASSIMILATION Act",
-    "score": -28,
-    "snapshot": "The ASSIMILATION Act proposes stricter immigration requirements including English proficiency mandates, civics testing, and extended waiting periods for naturalization. Currently in committee stage with no CBO score or implementation cost estimates available.",
-    "verdict": "// VERDICT: Imposes barriers to legal immigration without documented evidence that current naturalization standards produce inadequate civic integration or threaten public welfare.",
-    "detail": "The bill adds regulatory layers to an already multi-year naturalization process that requires background checks, biometric screening, and existing civics/English components. <strong>No federal data demonstrates that current naturalization standards correlate with reduced civic participation or public safety concerns among naturalized citizens.</strong> Voting records show naturalized citizens participate at rates comparable to native-born Americans. The extended timelines and additional testing create administrative costs without identified benefits, while disproportionately affecting refugees, elderly immigrants, and those from non-English-speaking countries who otherwise meet legal residency requirements. The bill follows proper legislative process but addresses no documented policy failure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -17.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "USCIS Naturalization Statistics, 2024",
-      "Census Bureau Voting Participation Data",
-      "Senate Judiciary Committee Referral"
-    ]
-  },
-  {
-    "id": 280,
-    "sourceId": "cg:119-HR-8811",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8811?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "HR 8811: Moms Matter Act",
-    "score": -18,
-    "snapshot": "HR 8811 proposes federal maternal health initiatives but remains in committee without published cost estimates or implementation details. No measurable outcomes exist as the bill has not advanced beyond referral.",
-    "verdict": "// VERDICT: Stalled maternal health proposal lacks fiscal analysis and concrete mechanisms, offering symbolic intent without demonstrable public benefit or path to implementation.",
-    "detail": "The Moms Matter Act addresses maternal mortality—a genuine public health crisis where the U.S. ranks worst among developed nations—but provides no evidence of effectiveness since it remains committee-bound without hearings, amendments, or scoring. <strong>Without CBO cost estimates, implementation timelines, or defined outcomes metrics, the proposal represents legislative aspiration rather than actionable policy.</strong> The bill's 14-month stagnation in committee suggests low legislative priority despite branding that implies urgency. Maternal health interventions can yield measurable benefits when properly funded and executed, but this bill's current form offers neither fiscal accountability nor procedural momentum. The lack of companion Senate legislation or bipartisan co-sponsorship further limits viability, making this effectively a messaging vehicle rather than serious reform.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 8811 status",
-      "House Committee on Energy and Commerce records",
-      "CDC maternal mortality statistics",
-      "Congressional Budget Office scoring procedures"
-    ]
-  },
-  {
-    "id": 281,
-    "sourceId": "cg:119-HR-8812",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8812?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "HR 8812: Build Nuclear with Local Materials Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8812 mandates that nuclear power plants use domestically sourced materials and components, with specific percentage requirements phased in over time. The bill has been referred to committee with no cost estimate or implementation timeline yet established.",
-    "verdict": "// VERDICT: Protectionist mandate increases nuclear construction costs and delays without demonstrated safety or security benefit that outweighs economic harm.",
-    "detail": "While domestic supply chain security has merit for critical infrastructure, rigid local content requirements historically increase costs 15-40% in energy projects without corresponding public benefit. <strong>The bill creates barriers to the lowest-cost nuclear deployment precisely when climate goals require rapid build-out, potentially making projects economically unviable.</strong> No evidence suggests foreign-sourced reactor components from allied nations pose security risks justifying these costs. The approach favors specific domestic industries over electricity consumers who will pay higher rates. Without flexibility provisions or cost-benefit analysis requirements, the mandate could paradoxically slow the nuclear renaissance it claims to support. Similar local content rules in renewable energy increased project costs substantially while providing minimal employment gains.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "DOE Nuclear Supply Chain Reports",
-      "Energy Policy Act precedents",
-      "International energy project cost analyses"
-    ]
-  },
-  {
-    "id": 282,
-    "sourceId": "cg:119-S-4571",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4571?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "S 4571: Tropospheric Ozone Research Act of 2026",
-    "score": -8,
-    "snapshot": "S 4571 authorizes new federal research on tropospheric ozone impacts but lacks specifics on appropriations, timelines, or coordination with existing EPA programs. Currently stalled in committee with no floor consideration scheduled.",
-    "verdict": "// VERDICT: The bill addresses a legitimate environmental research gap but provides insufficient detail on cost, implementation timeline, or how findings would translate to regulatory action.",
-    "detail": "The Tropospheric Ozone Research Act proposes federal research into ground-level ozone pollution, a documented public health concern affecting respiratory illness rates. However, <strong>the bill lacks appropriations language, defined research protocols, or mechanisms to convert findings into actionable policy</strong>. Without cost estimates or coordination requirements with existing EPA monitoring networks, this creates potential for duplicative bureaucracy. The legislative process remains appropriate (committee referral), but the absence of CBO scoring or stakeholder testimony suggests inadequate development. Research authorization without implementation frameworks often produces reports that gather dust rather than drive measurable improvements in air quality or public health outcomes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "Senate Committee on Environment and Public Works",
-      "EPA National Ambient Air Quality Standards"
-    ]
-  },
-  {
-    "id": 283,
-    "sourceId": "cg:119-HR-8814",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8814?format=json",
-    "branch": "Congress",
-    "date": "Jun 2",
-    "dateISO": "2026-06-02",
-    "title": "HR 8814: HUD Data Privacy Act of 2026",
-    "score": -15,
-    "snapshot": "HR 8814 proposes new data privacy protections for HUD program participants but remains in committee with no impact assessment, cost estimate, or implementation timeline available.",
-    "verdict": "// VERDICT: Stalled privacy legislation with unclear scope and no fiscal analysis to determine whether bureaucratic costs justify unspecified protections.",
-    "detail": "This bill aims to establish data privacy standards for Housing and Urban Development programs, potentially affecting millions of public housing and voucher recipients. However, as of June 2026, it remains in the House Financial Services Committee with no CBO score, no implementation plan, and no documented stakeholder input. <strong>Without cost estimates or measurable privacy benchmarks, the legislation represents good intentions without demonstrable public benefit.</strong> The lack of progress suggests either insufficient support or unresolved technical questions about compliance burdens on local housing authorities. Privacy protections could be valuable, but unquantified regulatory costs to already-strained housing agencies may delay assistance to vulnerable populations. The bill follows proper legislative procedure but provides no evidence of fiscal responsibility or concrete benefits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Financial Services Committee referral",
-      "HUD program enrollment data"
     ]
   }
 ]
