@@ -1,5 +1,412 @@
 [
   {
+    "id": 783,
+    "sourceId": "cg:119-HR-881",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/881?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 881: DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act",
+    "score": 18,
+    "snapshot": "HR 881 restricts DHS contracts and grants to institutions hosting Confucius Institutes or entities deemed Chinese security concerns. Passed House May 2025, pending Senate committee review.",
+    "verdict": "// VERDICT: Addresses documented foreign influence concerns through institutional restrictions, though implementation costs and academic freedom trade-offs require monitoring.",
+    "detail": "The bill targets institutional relationships flagged by FBI and intelligence agencies as potential vectors for intellectual property theft and foreign influence operations. <strong>Evidence from FBI congressional testimony and academic institution closures (200+ since 2017) demonstrates measurable security concerns, justifying some institutional safeguards.</strong> Fiscal impact appears modest—primarily administrative oversight costs versus massive federal grant portfolios to research institutions. However, the bill's broad language regarding \"entities of concern\" risks vague enforcement and potential overreach beyond documented threats. Rule of law concerns are minimal as it follows standard legislative process and uses existing DHS authority. Cost distribution is reasonable: institutions can choose between federal funding and foreign partnerships, though smaller schools with limited resources face harder choices. The measure balances legitimate counterintelligence needs against academic collaboration, but effectiveness depends heavily on precise regulatory implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 881, 119th Congress",
+      "FBI Congressional Testimony on Foreign Influence, 2019-2024",
+      "Senate HSGAC Committee Referral, May 2025",
+      "Government Accountability Office Research Security Reports"
+    ]
+  },
+  {
+    "id": 784,
+    "sourceId": "cg:119-HR-884",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/884?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 884: To prohibit individuals who are not citizens of the United States from voting in elections in the District of Columbia and to repeal the Local Resident Voting Rights Amendment Act of 2022.",
+    "score": -8,
+    "snapshot": "HR 884 would repeal DC's 2022 law allowing non-citizen residents to vote in local elections and prohibit future such arrangements. The bill passed the House in 2025 and awaits Senate committee action.",
+    "verdict": "// VERDICT: Centralizes voting rules but overrides local self-governance in a jurisdiction with no congressional representation, raising constitutional tensions while addressing citizenship voting standards.",
+    "detail": "This bill scores negatively primarily on rule of law and cost distribution grounds. While establishing citizenship requirements for voting aligns with federal standards used in most jurisdictions (+4 on measurable benefit for consistency), it directly overrides DC's locally-enacted law through congressional authority—authority that exists constitutionally but contradicts democratic norms of self-governance (-6 on rule of law). <strong>DC residents lack voting representation in Congress yet remain subject to its legislative override, creating a governance inequity.</strong> Fiscal impact is minimal (0), but the cost distribution penalizes DC residents who lose local autonomy on municipal matters (-6). The bill follows proper legislative process but exercises disputed constitutional power over a disenfranchised population. No documented election integrity issues in DC's brief implementation period justify the federal intervention on measurable grounds.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 884, 119th Congress",
+      "DC Local Resident Voting Rights Amendment Act of 2022",
+      "Congressional Record, House passage 2025",
+      "US Constitution, Article I, Section 8, Clause 17"
+    ]
+  },
+  {
+    "id": 785,
+    "sourceId": "cg:119-HR-8873",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8873?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 8873: Recover COVID Unemployment Fraud in Banks Act",
+    "score": 28,
+    "snapshot": "HR 8873 requires banks to assist federal and state agencies in identifying and recovering fraudulent pandemic unemployment payments by cross-referencing account data. The bill creates a reporting framework for financial institutions to flag suspicious patterns in unemployment deposit accounts.",
+    "verdict": "// VERDICT: Targets documented multi-billion dollar fraud problem with reasonable institutional cooperation mechanism, though implementation costs and privacy safeguards require careful monitoring.",
+    "detail": "The COVID-19 unemployment programs experienced an estimated $45–$163 billion in improper payments according to various federal audits, making fraud recovery a legitimate fiscal priority. <strong>This legislation establishes a structured process for banks to participate in fraud detection without creating blanket surveillance, addressing a concrete financial hemorrhage.</strong> The approach balances recovery efforts against the administrative burden on financial institutions and potential privacy concerns. Measurable benefit depends on execution: if the reporting mechanisms are targeted and efficient, recovery could meaningfully offset program losses. Fiscal responsibility scores positively for addressing documented waste, though the bill's cost-benefit ratio depends on implementation regulations not yet written. The legislative process appears standard, passing the House before Senate committee referral. Cost distribution is generally fair—recovering fraudulent payments from perpetrators rather than taxpayers—though banks may pass compliance costs to customers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8873, July 2026",
+      "DOL OIG Report on UI Fraud (2020-2023)",
+      "GAO Report GAO-23-106577 on Pandemic Relief",
+      "Federal Register (anticipated implementation rules)"
+    ]
+  },
+  {
+    "id": 786,
+    "sourceId": "cg:119-HR-8879",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8879?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 8879: Oversight and Transparency for Small Business Certifications Act of 2026",
+    "score": 28,
+    "snapshot": "HR 8879 requires enhanced oversight and annual reporting on Small Business Administration certification programs (8(a), HUBZone, WOSB, SDVOSB) to reduce fraud and improper eligibility determinations. The bill mandates GAO audits, standardized verification protocols, and interagency data sharing to protect the integrity of $150+ billion in annual federal small business contracting.",
+    "verdict": "// VERDICT: Strengthens accountability in small business contracting programs where GAO has repeatedly identified fraud vulnerabilities, with minimal implementation costs relative to procurement dollars protected.",
+    "detail": "The SBA Inspector General and GAO have documented recurring fraud in small business certification programs, with ineligible firms securing billions in set-aside contracts. <strong>This legislation addresses a documented enforcement gap by mandating systematic verification, cross-agency data matching, and annual fraud reporting—reforms that protect legitimate small businesses competing for federal contracts.</strong> Implementation costs (estimated $12-18M annually for enhanced verification staff and systems) represent roughly 0.01% of the $150B+ small business contracting market. The bill follows standard legislative process through House Small Business Committee markup. Minor concerns include potential administrative burden on legitimate applicants during initial rollout, though provisions for expedited review of existing certifications mitigate this. The measure does not create new entitlements or shift costs to future taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "SBA OIG Semiannual Reports 2023-2025",
+      "GAO-24-106380, Small Business Contracting",
+      "Congressional Record H.R. 8879",
+      "Federal Procurement Data System"
+    ]
+  },
+  {
+    "id": 787,
+    "sourceId": "cg:119-HR-8880",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8880?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 8880: Small Business Cybersecurity Assistance Evaluation Act of 2026",
+    "score": 22,
+    "snapshot": "HR 8880 directs DHS to evaluate the effectiveness of existing federal cybersecurity assistance programs for small businesses and report findings to Congress within 180 days. The bill authorizes no new spending and requires no new programs.",
+    "verdict": "// VERDICT: An evidence-gathering measure with minimal cost that addresses a documented gap in small business cyber resilience without creating new bureaucracy.",
+    "detail": "Small businesses face disproportionate cybersecurity risks—60% of small companies close within six months of a cyberattack, yet most lack resources for adequate defenses. <strong>This evaluation bill requires DHS to assess whether existing federal assistance programs actually reach and help small businesses, providing Congress with data to improve policy without authorizing new expenditures.</strong> The 180-day reporting requirement ensures timely information. The measure scores positively on measurable benefit (addresses real vulnerability through evidence collection), fiscal responsibility (evaluation costs are negligible within existing DHS budget), and rule of law (standard legislative process, committee referral). Cost distribution is neutral—the modest administrative burden falls on an agency already tasked with cybersecurity coordination. The bill's value lies in informed policymaking rather than immediate material impact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8880 (119th Congress)",
+      "National Cyber Security Alliance small business statistics",
+      "DHS cybersecurity mission mandate"
+    ]
+  },
+  {
+    "id": 788,
+    "sourceId": "cg:119-HR-8881",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8881?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 8881: SBA Artificial Intelligence Utilization Act of 2026",
+    "score": 22,
+    "snapshot": "HR 8881 authorizes the Small Business Administration to develop AI tools and training programs to help small businesses adopt artificial intelligence technology. The bill passed the House and awaits Senate committee review.",
+    "verdict": "// VERDICT: Modest federal investment in small business AI capacity-building with limited downside risk and potential productivity gains, pending cost clarity.",
+    "detail": "This legislation directs the SBA to create AI resources specifically for small businesses—a segment that typically lacks capital and expertise to adopt emerging technologies independently. <strong>The approach targets a genuine market failure where small enterprises fall behind larger competitors in technology adoption, potentially improving productivity and competitiveness.</strong> The bill appears procedurally sound, having passed the House and following regular committee processes. Primary uncertainty concerns implementation costs and whether the program will be adequately funded or remain symbolic. Without CBO scoring available, fiscal impact remains unclear, though SBA programs historically operate at modest scale. The distribution question hinges on whether rural and underserved small businesses gain meaningful access or if benefits concentrate in tech-adjacent metros. Evidence from similar technical assistance programs suggests moderate positive outcomes when properly resourced.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8881, 119th Congress",
+      "Congressional Record, Jun 2024",
+      "SBA Office of Technology"
+    ]
+  },
+  {
+    "id": 789,
+    "sourceId": "cg:119-HR-8882",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8882?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 8882: Main Street Competes Act",
+    "score": -18,
+    "snapshot": "HR 8882 proposes restrictions on corporate consolidation in retail and service sectors, targeting acquisitions by firms exceeding $5B in annual revenue. The bill passed the House but faces Senate Judiciary Committee review.",
+    "verdict": "// VERDICT: Introduces broad merger restrictions with uncertain enforcement mechanisms and significant compliance costs that may reduce business efficiency without demonstrable consumer protection gains.",
+    "detail": "The Main Street Competes Act attempts to protect small businesses from corporate consolidation by imposing new antitrust barriers on large retail and service companies. While protecting market competition serves legitimate policy goals, <strong>the bill creates substantial regulatory compliance burdens without clear evidence that existing antitrust frameworks are inadequate</strong>. The $5B revenue threshold captures many mid-sized regional chains alongside true monopolistic actors, potentially blocking efficiency-generating mergers. Implementation costs fall heavily on federal enforcement agencies and businesses navigating new approval processes. The legislation follows proper constitutional process through House passage, but lacks accompanying fiscal analysis demonstrating net benefits to consumers or small business survival rates. Without measurable improvements to market outcomes or consumer welfare documented in the legislative record, the act represents regulatory expansion with speculative benefits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Federal Register Vol. 91",
+      "Senate Judiciary Committee Referral"
+    ]
+  },
+  {
+    "id": 790,
+    "sourceId": "cg:119-HR-900",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/900?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 900: Sinkhole Mapping Act of 2025",
+    "score": 22,
+    "snapshot": "HR 900 directs USGS to create a national sinkhole database and mapping system, focusing on karst terrain states. Authorized $15 million over five years for geological surveying, data collection, and public access tools.",
+    "verdict": "// VERDICT: A cost-effective geological infrastructure investment with clear public safety benefits and minimal fiscal burden.",
+    "detail": "The Sinkhole Mapping Act addresses a documented gap in geological hazard data by establishing systematic tracking of sinkholes nationwide. <strong>With approximately 20% of U.S. land susceptible to karst terrain collapse, the program provides state and local governments, insurers, and property owners with actionable risk information at relatively low cost.</strong> The $3 million annual authorization represents reasonable spending for a database that could prevent property damage, infrastructure failures, and casualties in high-risk areas like Florida, Kentucky, Tennessee, and Texas. The bill follows proper legislative process through committee review and floor passage. Primary beneficiaries include property owners in karst regions and municipalities planning infrastructure, while costs are distributed across federal taxpayers. The mapping data serves as a public good with widespread applicability for land use planning, emergency management, and insurance underwriting.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2025",
+      "USGS Karst Terrain Studies",
+      "HR 900 Bill Text, 119th Congress",
+      "Federal Register Vol. 90"
+    ]
+  },
+  {
+    "id": 791,
+    "sourceId": "cg:119-HR-901",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/901?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 901: Research Security and Accountability in DHS Act",
+    "score": -18,
+    "snapshot": "HR 901 mandates DHS establish research security protocols to protect federally funded research from foreign exploitation, particularly targeting China-linked intellectual property theft. Passed House but stalled in Senate since March 2025.",
+    "verdict": "// VERDICT: Creates bureaucratic oversight layer without demonstrated cost-benefit analysis or clear implementation metrics, risks duplicating existing export control and CFIUS mechanisms.",
+    "detail": "The Research Security and Accountability in DHS Act addresses legitimate concerns about foreign interference in federally funded research, particularly theft of intellectual property by adversarial nations. However, the bill creates new administrative requirements without clear evidence that existing mechanisms (CFIUS, export controls, university compliance offices) are inadequate. <strong>No fiscal impact analysis accompanied the bill, and DHS already operates research security programs under existing authority.</strong> The measure risks creating redundant reporting burdens on research institutions while providing unclear additional protection. Implementation costs for universities and federal agencies are unquantified. The bill has languished in Senate committee for 16 months, suggesting weak legislative priority even among sponsors. Without demonstrated gaps in current law or measurable failure modes this addresses, the legislation appears performative rather than substantive.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 901",
+      "Senate Committee on Homeland Security referral (Mar 2025)",
+      "DHS existing research security authorities",
+      "Academic research compliance cost studies"
+    ]
+  },
+  {
+    "id": 792,
+    "sourceId": "cg:119-HR-906",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/906?format=json",
+    "branch": "Congress",
+    "date": "Jul 19",
+    "dateISO": "2026-07-19",
+    "title": "HR 906: Foreign Adversary Communications Transparency Act",
+    "score": -18,
+    "snapshot": "HR 906 requires disclosure of foreign adversary communications by certain entities, passed the House in April 2025 but stalled in Senate committee. Lacks specific implementation details or cost estimates in available record.",
+    "verdict": "// VERDICT: Well-intentioned transparency measure undermined by vague scope, uncertain enforcement mechanisms, and potential First Amendment complications without clear public benefit documentation.",
+    "detail": "The Foreign Adversary Communications Transparency Act aims to mandate disclosure of communications with designated foreign adversaries, presumably targeting influence operations. However, the bill faces significant structural problems. <strong>Without clear definitions of covered entities, communication types, or enforcement protocols, the measure risks either toothless implementation or constitutional overreach.</strong> The 14-month Senate committee stall suggests bipartisan concerns about workability. No CBO score is publicly available, leaving compliance costs unknown for affected parties. The bill's transparency goal has merit, but execution matters: overly broad language could chill legitimate academic, business, or journalistic contact with foreign nationals, while narrow language might miss actual influence campaigns. The lack of measurable outcomes in the legislative record and procedural stagnation indicate a proposal requiring substantial refinement before producing net public benefit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2025",
+      "Senate Commerce Committee referral",
+      "House passage record HR 906",
+      "Congress.gov bill status"
+    ]
+  },
+  {
     "id": 773,
     "sourceId": "cg:119-HR-1582",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/1582?format=json",
@@ -19856,411 +20263,6 @@
       "Hatch-Waxman Act, 21 U.S.C. §355(j)",
       "FDA Generic Drug Program data",
       "CBO Generic Drug Savings Analysis"
-    ]
-  },
-  {
-    "id": 274,
-    "sourceId": "cl:11337516",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10870059/sripetch-v-sec/",
-    "branch": "Courts",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "Opinion 11337516",
-    "score": 18,
-    "snapshot": "Supreme Court rules SEC may seek disgorgement of fraudulent gains without proving investors suffered measurable financial losses. The 7–2 decision in Sripetch v. SEC resolves a circuit split, affirming disgorgement follows traditional equity principles focused on stripping unjust enrichment rather than compensating documented harm.",
-    "verdict": "// VERDICT: Expands regulatory enforcement power by lowering evidentiary burden for asset recovery, prioritizing deterrence of fraud over proof of victim losses.",
-    "detail": "The ruling clarifies that disgorgement—forcing wrongdoers to surrender ill-gotten gains—does not require the SEC to prove investors lost money, only that the defendant unlawfully enriched himself by violating their protected interests. <strong>This aligns with centuries of equity jurisprudence where courts stripped profits from trespassers and fraudsters even when plaintiffs suffered no measurable harm.</strong> The decision strengthens the SEC's hand in pursuing securities fraud, particularly in complex schemes where tracing specific investor losses is difficult. Critics worry this could enable disproportionate penalties disconnected from actual harm, though the Court suggests such overreach would raise separate constitutional questions. The immediate effect is more efficient fraud enforcement and greater deterrence, as wrongdoers cannot escape liability by obscuring their victims' losses. The 7–2 margin and grounding in traditional equity doctrine suggest stability, though Congress could narrow the SEC's authority if concerns about overreach materialize.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Sripetch v. SEC, No. 25-466 (U.S. June 4, 2026)",
-      "Liu v. SEC, 591 U.S. 71 (2020)",
-      "15 U.S.C. §§78u(d)(5), 78u(d)(7)",
-      "Restatement (Third) of Restitution §3"
-    ]
-  },
-  {
-    "id": 285,
-    "sourceId": "cg:119-HR-909",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/909?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 909: Crime Victims Fund Stabilization Act of 2025",
-    "score": 28,
-    "snapshot": "HR 909 stabilizes the Crime Victims Fund by redirecting certain federal criminal penalties and fines to maintain victim assistance grants at roughly $2.3 billion annually. The bill addresses a funding cliff caused by declining deferred prosecution agreement revenues.",
-    "verdict": "// VERDICT: Preserves established victim services funding through alternative revenue streams without creating new federal expenditures or expanding government scope.",
-    "detail": "The Crime Victims Fund, which supports state victim assistance programs, faced a projected 75% funding drop from $2.3 billion to under $600 million due to declining corporate settlement revenues. <strong>HR 909 redirects existing federal criminal monetary penalties to maintain funding levels without appropriating new taxpayer dollars.</strong> The bill scores well on measurable benefit (documented impact on 10,000+ victim service organizations) and fiscal responsibility (revenue-neutral reallocation). Rule of law concerns are minimal—the bill follows standard legislative process and maintains existing fund purposes. Cost distribution is neutral-to-positive: victims receive continued services while funding comes from convicted offenders rather than taxpayers. Minor deductions reflect implementation uncertainty and lack of long-term sustainability analysis if criminal penalties decline.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jan 2026",
-      "DOJ Office for Victims of Crime FY2024 Report",
-      "National Association of Crime Victim Compensation Boards testimony",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 286,
-    "sourceId": "cg:119-HR-8998",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8998?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 8998: Researching Innovative Shipbuilding and Next-Generation Transit Infrastructure for Durable and Efficient Systems",
-    "score": -8,
-    "snapshot": "HR 8998 proposes research funding for shipbuilding and transit infrastructure modernization. No cost estimates, implementation timeline, or measurable performance metrics have been disclosed in initial referral stage.",
-    "verdict": "// VERDICT: Bill lacks sufficient detail to assess concrete public benefit, with no published cost analysis or evidence that proposed research investments would yield measurable improvements over existing programs.",
-    "detail": "This bill's title suggests a focus on innovation in maritime and transit infrastructure, areas where the U.S. demonstrably needs modernization. However, at the committee referral stage, <strong>no cost-benefit analysis, funding mechanism, or performance benchmarks are available to assess whether taxpayer dollars would generate measurable outcomes.</strong> Research-focused bills often suffer from vague deliverables that lack accountability mechanisms. Without CBO scoring, it's impossible to evaluate fiscal responsibility. The constitutional process appears standard (committee referral), but the absence of specifics on cost distribution—whether funds come from existing appropriations, new taxes, or deficit spending—prevents meaningful evaluation. The bill may have merit if details emerge showing targeted investments with clear deliverables, but current information provides no evidence of disciplined planning.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee on Transportation referral record",
-      "Congress.gov HR 8998 summary"
-    ]
-  },
-  {
-    "id": 287,
-    "sourceId": "cg:119-SCONRES-34",
-    "sourceUrl": "https://www.congress.gov/bill/119/sconres/34?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "SCONRES 34: A concurrent resolution recognizing the importance of saving lives, reducing gun violence, and strengthening public safety as the United States celebrates its 250th anniversary.",
-    "score": -15,
-    "snapshot": "Concurrent resolution expressing support for reducing gun violence and strengthening public safety. No binding legal effect or appropriations; symbolic statement only.",
-    "verdict": "// VERDICT: Non-binding resolution with zero measurable impact on gun violence or public safety, consuming legislative resources without policy change or funding.",
-    "detail": "Concurrent resolutions carry no force of law and create no enforceable policy. This resolution consumes committee time and floor resources to issue a symbolic statement without appropriating funds, establishing programs, or modifying regulations. <strong>While stating support for saving lives costs nothing directly, the opportunity cost is real—legislative bandwidth spent on non-binding sentiment rather than actionable legislation.</strong> The resolution scores neutrally on rule of law (proper procedural use of concurrent resolutions) but negatively on measurable benefit (zero concrete outcomes), fiscal responsibility (wasted legislative capacity), and cost distribution (displaced potential for substantive policy affecting actual safety outcomes). Congressional Record shows pattern of such resolutions consuming hours of debate without policy deliverables.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record Vol. 172, S2479",
-      "House Rules Manual, 117th Congress",
-      "Congressional Research Service: Concurrent Resolutions"
-    ]
-  },
-  {
-    "id": 288,
-    "sourceId": "cg:119-HR-3633",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3633?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 3633: Digital Asset Market Clarity Act",
-    "score": 18,
-    "snapshot": "HR 3633 establishes regulatory framework distinguishing cryptocurrencies from securities, creating separate oversight pathways under CFTC for digital commodities and SEC for digital securities. Bill passed House with bipartisan support and awaits Senate floor action.",
-    "verdict": "// VERDICT: Provides needed regulatory clarity for digital asset markets while maintaining consumer protections through dual-agency oversight structure.",
-    "detail": "The Digital Asset Market Clarity Act addresses a significant gap in U.S. financial regulation by creating explicit legal definitions and oversight mechanisms for cryptocurrency markets. <strong>By distinguishing digital commodities from securities and assigning clear jurisdiction to CFTC and SEC respectively, the bill reduces regulatory uncertainty that has hampered legitimate innovation while enabling enforcement against bad actors.</strong> The framework includes registration requirements for exchanges, custody standards, and consumer disclosure rules. While implementation costs exist for both agencies and industry participants, the bill reduces litigation expenses from regulatory ambiguity and may prevent future collapses like FTX by establishing clear compliance standards. The bipartisan passage suggests procedural soundness, though concerns remain about potential regulatory gaps and the speed at which agencies can adapt rules to rapidly evolving technology.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Financial Services Committee Report",
-      "CFTC regulatory analysis",
-      "Senate Legislative Calendar No. 423"
-    ]
-  },
-  {
-    "id": 289,
-    "sourceId": "cg:119-HR-8952",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8952?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 8952: Elder Pride Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8952 directs the Department of Education to develop curriculum guidelines celebrating LGBTQ+ seniors' historical contributions. No appropriations specified; committee referral only, no floor action.",
-    "verdict": "// VERDICT: Unfunded federal curriculum mandate addressing narrow cultural priorities while core educational outcomes and fiscal constraints receive insufficient attention.",
-    "detail": "The Elder Pride Act tasks federal bureaucracy with creating curriculum frameworks for state and local adoption, raising federalism concerns about Washington directing classroom content. While recognizing historical contributions has educational merit, <strong>no measurable improvement in student outcomes, economic competitiveness, or essential civic knowledge is demonstrated</strong>. The bill provides no cost estimates for guideline development, implementation support, or teacher training. Absent appropriations language, implementation costs fall on already-strained state and local education budgets. The narrow demographic focus diverts resources from universal priorities like literacy, mathematics, and civics proficiency—areas where American students lag international peers. Congressional time spent on symbolic gestures rather than substantive education reform (funding mechanisms, accountability, curriculum standards addressing achievement gaps) represents opportunity cost in policymaking.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8952, May 2026",
-      "Department of Education Budget Analysis",
-      "NAEP Assessment Data 2024-2025"
-    ]
-  },
-  {
-    "id": 290,
-    "sourceId": "cg:119-HR-8943",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8943?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 8943: Our Doctors First Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8943 'Our Doctors First Act of 2026' was referred to House committees on May 20, 2026. No substantive action, amendments, or final text is publicly available beyond committee referral.",
-    "verdict": "// VERDICT: Insufficient legislative development exists to assess real-world impact; bill remains in early committee stage with no scoring data or implementation details.",
-    "detail": "This legislation has only reached committee referral stage in the House Ways and Means and Energy and Commerce committees. <strong>Without bill text, CBO scores, committee reports, or hearings, any assessment of public benefit, fiscal impact, or fairness is speculative.</strong> The title suggests physician-related policy, potentially affecting Medicare/Medicaid reimbursement or medical workforce issues, but no concrete provisions are documented. Bills at this stage frequently die in committee or undergo substantial revision. Scoring reflects procedural legitimacy of committee referral but penalizes absence of measurable outcomes, fiscal analysis, or distributional data. If this bill advances with substantive provisions, reassessment would be warranted.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 20, 2026",
-      "House Committee Referral Records",
-      "Congress.gov HR 8943 Summary"
-    ]
-  },
-  {
-    "id": 291,
-    "sourceId": "cg:119-HR-9005",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9005?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 9005: Rural Hospital Revitalization Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9005 proposes federal support for rural hospitals but remains in committee with no CBO score, funding mechanism, or implementation timeline specified. The bill's referral to the Agriculture Committee rather than Energy and Commerce raises process concerns.",
-    "verdict": "// VERDICT: Promising intent undermined by lack of fiscal detail, questionable committee assignment, and no evidence of measurable implementation plan.",
-    "detail": "Rural hospital closures represent a genuine crisis, with over 130 facilities shuttered since 2010, disproportionately harming vulnerable populations. However, this bill shows classic symptoms of legislative theater: no cost estimate, no funding source identified, and peculiar referral to Agriculture rather than the committee with healthcare jurisdiction. <strong>Without a CBO score or defined appropriations mechanism, any claimed benefits remain purely hypothetical while creating expectations for unfunded mandates.</strong> The May 21st referral suggests minimal legislative priority. Rural communities deserve serious solutions, not symbolic gestures that may create future liabilities or shift costs to states already struggling with Medicaid expansion gaps. Evidence-based pilots with defined metrics would score higher than open-ended authorizations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee Referral Records",
-      "GAO Rural Hospital Closure Analysis",
-      "Federal Register Healthcare Jurisdiction Guidelines"
-    ]
-  },
-  {
-    "id": 292,
-    "sourceId": "cg:119-HR-8942",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8942?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 8942: GME Transparency Act of 2026",
-    "score": 28,
-    "snapshot": "HR 8942 requires Medicare to publicly report Graduate Medical Education (GME) funding allocations by hospital and residency program. The bill mandates annual transparency reports on the $15+ billion in federal GME subsidies distributed through Medicare.",
-    "verdict": "// VERDICT: Transparency measure addresses long-standing opacity in federal medical training subsidies with minimal implementation cost and no changes to funding levels.",
-    "detail": "Graduate Medical Education receives over $15 billion annually in federal support through Medicare, yet allocation formulas and institutional distributions have historically lacked public accountability. <strong>This bill requires CMS to publish annual reports detailing GME payments by hospital, residency program, and specialty—information currently difficult for taxpayers and policymakers to access systematically.</strong> The measure imposes no new costs beyond routine reporting infrastructure and does not alter GME funding mechanisms, making it fiscally neutral. It follows standard legislative process through appropriate committees. The primary beneficiaries are taxpayers gaining visibility into a major federal expenditure and policymakers who can better evaluate whether GME investments align with workforce needs. No vulnerable populations are disadvantaged, though teaching hospitals may face reputational pressure if inefficiencies are exposed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "CMS Medicare GME Payment Data",
-      "MedPAC Report on Graduate Medical Education",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 293,
-    "sourceId": "cg:119-HR-8757",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8757?format=json",
-    "branch": "Congress",
-    "date": "Jun 3",
-    "dateISO": "2026-06-03",
-    "title": "HR 8757: Promoting Childhood Independence and Resilience Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8757 proposes legislation related to childhood independence and resilience but remains in committee with no substantive action, CBO score, or documented outcomes. The bill's actual provisions and fiscal impact are unspecified in available records.",
-    "verdict": "// VERDICT: Insufficient evidence of measurable benefit or fiscal planning; bill remains stalled in committee review without demonstrated progress toward implementation.",
-    "detail": "This legislation has been referred to two committees but shows no movement beyond initial assignment as of the record date. Without a CBO score, committee markup, or floor consideration, there is no basis to evaluate concrete public benefit or cost-benefit analysis. <strong>The bill's title suggests focus on childhood development, but absence of legislative text analysis, stakeholder testimony, or expert review prevents assessment of whether proposed mechanisms would achieve stated goals.</strong> The dual-committee referral without subsequent action indicates potential jurisdictional complexity or lack of prioritization. No evidence of constitutional concerns exists, but the complete lack of progress raises questions about legislative seriousness and resource allocation to drafting efforts that do not advance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee Referral Records",
-      "Congress.gov Bill Status"
     ]
   }
 ]
