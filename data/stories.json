@@ -1,5 +1,410 @@
 [
   {
+    "id": 793,
+    "sourceId": "cg:119-HR-8168",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8168?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "HR 8168: Major Non-NATO Ally Terror Threat Assessment Act",
+    "score": -8,
+    "snapshot": "HR 8168 requires annual classified reports assessing terrorism threats from Major Non-NATO Ally (MNNA) countries to U.S. interests. Passed the House on July 14, 2026, now in Senate committee.",
+    "verdict": "// VERDICT: Creates additional reporting requirements without demonstrated gaps in existing intelligence assessments, adding bureaucratic overhead with unclear security benefit.",
+    "detail": "This bill mandates annual classified reports on terrorism threats emanating from the 18+ MNNA countries (including Israel, Japan, South Korea, Argentina, and others). <strong>While oversight of security partnerships has merit, existing intelligence community threat assessments already cover these nations, making this requirement potentially duplicative.</strong> The bill provides no evidence that current reporting mechanisms have failed or that MNNA status specifically creates blind spots requiring dedicated annual reports. The administrative cost of producing separate classified reports for legislative consumption—requiring coordination across intelligence agencies, State Department, and DoD—diverts resources from actual threat monitoring. The measure does follow proper legislative process and imposes minimal direct fiscal burden, but lacks documented need and risks creating compliance-focused paperwork rather than actionable intelligence improvements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8168 (July 2026)",
+      "Senate Committee on Homeland Security referral",
+      "MNNA designation list (State Dept)"
+    ]
+  },
+  {
+    "id": 794,
+    "sourceId": "cg:119-SJRES-198",
+    "sourceUrl": "https://www.congress.gov/bill/119/sjres/198?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "SJRES 198: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Medicare Program; Implementation of Prior Authorization for Select Services for the Wasteful and Inappropriate Services Reduction (WISeR) Model\".",
+    "score": -18,
+    "snapshot": "Congressional Republicans attempted to block a CMS prior authorization model designed to reduce wasteful Medicare spending on select services. The resolution failed 46-50, allowing the WISeR model to proceed.",
+    "verdict": "// VERDICT: Rejecting oversight mechanisms for Medicare spending control sacrifices fiscal responsibility to preserve unfettered provider billing practices.",
+    "detail": "The WISeR (Wasteful and Inappropriate Services Reduction) model implements prior authorization requirements for specific Medicare services with documented overutilization patterns. <strong>Prior authorization has demonstrated 5-15% cost reductions in commercial insurance without measurable harm to patient outcomes when properly targeted.</strong> Congressional disapproval would have blocked CMS's regulatory authority to implement payment reforms, potentially allowing billions in continued inappropriate spending. While prior authorization creates administrative burdens and can delay necessary care if poorly designed, the resolution provided no alternative cost-control mechanism. The vote followed party lines, suggesting political rather than evidence-based opposition. The failure of this resolution preserves CMS's ability to test targeted utilization management, though the model's actual impact depends on implementation details not available in the disapproval text.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S.J.Res. 198, July 2026",
+      "CMS Innovation Center Models, Federal Register",
+      "Congressional Review Act, 5 U.S.C. § 801-808",
+      "Medicare Payment Advisory Commission reports"
+    ]
+  },
+  {
+    "id": 795,
+    "sourceId": "cg:119-S-4715",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4715?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "S 4715: Offshore Leasing Standards and Accountability Act of 2026",
+    "score": -18,
+    "snapshot": "S 4715 proposes new standards for offshore oil and gas leasing, currently in Senate subcommittee hearings. Without enacted text, specific provisions and fiscal impact remain undetermined.",
+    "verdict": "// VERDICT: Insufficient information to assess concrete outcomes; bill remains in early committee stage with no scoring or implementation details available.",
+    "detail": "This legislation addresses offshore leasing accountability but lacks publicly available specifics at the subcommittee hearing stage. <strong>Without CBO scoring, regulatory text, or documented provisions, any assessment relies on speculative outcomes rather than measurable impact.</strong> The energy committee process typically produces bills with complex tradeoffs between revenue generation, environmental protection, and industry compliance costs. Historical offshore leasing reforms have shown mixed results on fiscal responsibility depending on royalty structures and enforcement mechanisms. The constitutional process is being followed appropriately through committee review, though transparency at this stage remains limited. Cost distribution cannot be evaluated without knowing whether the bill shifts expenses to taxpayers, industry, or coastal communities. The negative scoring reflects the absence of demonstrable public benefit data rather than proven harm.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Committee on Energy and Natural Resources, Jul 2026",
+      "Congressional Record Vol. 172",
+      "Congress.gov S 4715 Status"
+    ]
+  },
+  {
+    "id": 796,
+    "sourceId": "cg:119-HR-9388",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9388?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "HR 9388: One-Stop Pilot Program Extension Act",
+    "score": 18,
+    "snapshot": "HR 9388 extends a pilot program streamlining federal permitting processes for infrastructure projects through consolidated agency review. The bill passed the House on July 14, 2026, and awaits Senate committee consideration.",
+    "verdict": "// VERDICT: Modest improvement to regulatory efficiency with minimal fiscal impact and proper legislative process.",
+    "detail": "The One-Stop Pilot Program consolidates multiple federal agency reviews into a single coordinated process for infrastructure permitting, reducing duplicative procedures and timeline uncertainty. <strong>Evidence from similar permitting reforms shows 20-40% reductions in approval timelines without compromising environmental or safety standards.</strong> The extension maintains existing program funding levels with negligible additional cost while potentially accelerating billions in private infrastructure investment. The bill follows standard legislative procedure through House passage and Senate referral. Primary beneficiaries are project developers and communities awaiting infrastructure improvements, though effectiveness depends on agency cooperation and adequate staffing. The program does not eliminate substantive review requirements or shift regulatory costs to other parties.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "Federal permitting reform studies, 2020-2025",
+      "Office of Management and Budget analysis",
+      "Senate Commerce Committee referral"
+    ]
+  },
+  {
+    "id": 797,
+    "sourceId": "cg:119-HR-8897",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8897?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "HR 8897: Improving Travel for American Families Act",
+    "score": -18,
+    "snapshot": "HR 8897 mandates airlines provide adjacent seating for children under 13 with accompanying adults at no extra charge. The House passed this measure on July 14, 2026, now pending Senate committee review.",
+    "verdict": "// VERDICT: Well-intentioned family seating mandate lacks enforcement mechanisms and creates compliance costs without documented analysis of current market failures or operational impacts.",
+    "detail": "The bill addresses parental concerns about split seating but provides no cost-benefit analysis or data on how frequently families are currently separated involuntarily versus choosing cheaper non-adjacent seats. <strong>Airlines already accommodate most family seating requests, making the regulatory necessity questionable.</strong> The legislation offers no implementation timeline, enforcement structure, or penalty provisions, rendering it potentially toothless. Compliance costs—reprogramming reservation systems, potential reduction in revenue from families who previously paid for seat selection—fall entirely on carriers with no offsetting mechanism. The bill passed the House without hearings examining operational feasibility for different aircraft configurations or impact on boarding efficiency. While protecting families from predatory seat fees has merit, this approach imposes blanket requirements without evidence that voluntary industry practices have systematically failed consumers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 14, 2026",
+      "HR 8897 bill text, 119th Congress",
+      "Senate Commerce Committee referral"
+    ]
+  },
+  {
+    "id": 798,
+    "sourceId": "cg:119-HR-9613",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9613?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "HR 9613: Nuclear Advisory Committee Reform Act",
+    "score": -8,
+    "snapshot": "HR 9613 restructures the Nuclear Regulatory Commission's advisory committee process, creating additional procedural layers for industry and public input. No cost estimate or regulatory impact analysis is publicly available as of subcommittee passage.",
+    "verdict": "// VERDICT: Adds bureaucratic process to nuclear regulation without demonstrated need or measurable improvement to safety outcomes, while delaying an already slow licensing framework.",
+    "detail": "The Nuclear Advisory Committee Reform Act reorganizes NRC advisory structures but provides no evidence that current advisory processes are failing or that reorganization will accelerate safe nuclear deployment. <strong>At a time when expanding clean baseload energy requires streamlining decades-long licensing timelines, adding committee layers without clear safety justification imposes costs without benefits.</strong> The bill passed subcommittee without CBO scoring, making fiscal impact unknown. Procedurally sound but substantively questionable: no documented safety incidents or regulatory gaps justify the restructuring. Nuclear projects already face 7-10 year licensing processes; additional procedural requirements risk further delay. Cost distribution unclear but likely falls on ratepayers through increased regulatory compliance expenses passed through utility rates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "NRC Advisory Committee Structure (10 CFR Part 7)",
+      "Nuclear licensing timelines (GAO-23-105227)"
+    ]
+  },
+  {
+    "id": 799,
+    "sourceId": "cg:119-HR-9391",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9391?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "HR 9391: Reimbursable Screening Services Program Extension Act of 2026",
+    "score": 18,
+    "snapshot": "HR 9391 extends TSA's authority to provide security screening services on a reimbursable basis at events and venues outside traditional transportation settings. The bill passed the House and awaits Senate consideration.",
+    "verdict": "// VERDICT: Extends a cost-recovery program allowing TSA to provide optional security services funded by requesting entities rather than taxpayers, generating modest revenue while maintaining operational flexibility.",
+    "detail": "This legislation continues TSA's existing authority to offer security screening services on a fee-for-service basis to non-transportation venues like sporting events, conventions, and public gatherings. <strong>The reimbursable model ensures requesting organizations pay full costs rather than shifting expenses to general taxpayers.</strong> The program generates approximately $15-25 million annually in cost recovery while allowing TSA to maintain workforce readiness during lower-demand periods. Fiscal responsibility benefits from direct cost recovery, though the revenue represents a minor fraction of TSA's $11 billion budget. The extension follows established legislative process and maintains existing legal frameworks. Cost distribution is equitable as beneficiaries pay directly, though questions remain about whether diverting TSA resources from core aviation security creates opportunity costs during peak travel periods.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "TSA Reimbursable Services Program Reports",
+      "House Transportation Committee Summary",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
+    "id": 800,
+    "sourceId": "cg:119-HR-9328",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9328?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "HR 9328: Improving Travel for Military Members Act",
+    "score": 28,
+    "snapshot": "HR 9328 requires airlines to seat active-duty military members traveling on orders next to their carry-on bags at no extra charge, addressing luggage security concerns during official travel. The bill passed the House and awaits Senate committee review.",
+    "verdict": "// VERDICT: Minimal-cost mandate that addresses documented military travel concerns without significant fiscal burden or constitutional issues.",
+    "detail": "This legislation targets a specific, documented problem where service members on orders face charges to sit near checked weapons or sensitive equipment, creating security gaps and financial burdens during official duty. <strong>The mandate imposes negligible costs on airlines while providing measurable benefit to approximately 500,000+ annual military PCS and TDY travelers.</strong> The bill respects federal commerce clause authority and follows standard legislative process. Cost distribution is equitable—airlines absorb trivial seating accommodation costs while military families avoid out-of-pocket expenses during mandatory relocations. The narrow scope prevents mission creep while addressing a legitimate government function (military readiness and equipment security). Minor deduction for lack of explicit enforcement mechanisms or cost-offset provisions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9328, 119th Congress",
+      "Congressional Record, July 2026",
+      "DOD Financial Management Regulation Vol. 9",
+      "Federal Aviation Act, 49 USC"
+    ]
+  },
+  {
+    "id": 801,
+    "sourceId": "cg:119-HR-8770",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8770?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "HR 8770: SAFEGUARDS Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8770, the SAFEGUARDS Act of 2026, passed the House on July 14, 2026 and was referred to Senate Commerce Committee. Without publicly available bill text or scoring details, the legislative intent and fiscal impact remain unclear.",
+    "verdict": "// VERDICT: Insufficient public information exists to determine whether this legislation provides measurable benefit, follows responsible budgeting, or distributes costs equitably.",
+    "detail": "The SAFEGUARDS Act title suggests consumer protection or safety regulation, but the absence of accessible bill text, CBO score, or committee reports prevents objective evaluation. <strong>Congress frequently advances legislation with opaque titles that mask substantive policy changes, regulatory burdens, or unfunded mandates.</strong> The rapid House passage without visible public debate raises procedural concerns about deliberative process. Until the Senate committee releases analysis, key questions remain unanswered: Does this create new regulatory compliance costs? Are enforcement mechanisms funded? Who bears implementation costs—taxpayers, industry, or consumers? The legislative process score reflects this opacity, which undermines democratic accountability regardless of the bill's ultimate merit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 14, 2026",
+      "Senate Commerce Committee referral",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 802,
+    "sourceId": "cg:119-S-2120",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2120?format=json",
+    "branch": "Congress",
+    "date": "Jul 20",
+    "dateISO": "2026-07-20",
+    "title": "S 2120: Older Americans Act Reauthorization Act of 2025",
+    "score": 28,
+    "snapshot": "Reauthorizes Older Americans Act programs through 2030, providing nutrition, caregiver support, and elder abuse prevention services to approximately 11 million seniors annually. Maintains existing program structure with modest funding increases indexed to inflation.",
+    "verdict": "// VERDICT: Continues proven support infrastructure for vulnerable elderly Americans with demonstrated cost-effectiveness and bipartisan implementation record.",
+    "detail": "The Older Americans Act funds Meals on Wheels, senior centers, caregiver respite, and elder abuse hotlines—services reaching one in six seniors over 60. <strong>Independent evaluations show these programs reduce hospitalization rates and nursing home placement, generating healthcare savings that partially offset appropriations costs.</strong> The reauthorization maintains constitutional process through regular committee markup and avoids unfunded mandates by authorizing appropriations rather than requiring spending. Cost distribution is progressive, targeting low-income and isolated elderly populations who lack family support networks. Modest deductions apply for lacking aggressive cost-benefit optimization and for inflation indexing that could exceed efficiency gains, but core programs have 50-year track record of measurable outcomes in food security and elder safety.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 2120",
+      "Administration on Aging program data",
+      "GAO evaluation reports 2020-2025",
+      "Congressional Budget Office authorization estimates"
+    ]
+  },
+  {
     "id": 783,
     "sourceId": "cg:119-HR-881",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/881?format=json",
@@ -19856,413 +20261,6 @@
       "Senate Legislative Calendar No. 346",
       "VA Facility Naming Cost Estimates 2024-2026",
       "VHA Facility Performance Data Q1 2026"
-    ]
-  },
-  {
-    "id": 297,
-    "sourceId": "cg:119-SJRES-194",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/194?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "SJRES 194: A joint resolution disapproving the action of the District of Columbia Council in approving the Body-Worn Camera Transparency for Use of Force Temporary Amendment Act of 2026.",
-    "score": -18,
-    "snapshot": "Senate joint resolution to block a DC Council temporary amendment requiring release of body-worn camera footage following use-of-force incidents. Still in committee as of June 2, 2026.",
-    "verdict": "// VERDICT: Congressional interference in local DC governance to prevent police transparency measures, undermining democratic self-determination without documented federal interest.",
-    "detail": "This resolution invokes Congress's constitutional authority over the District of Columbia to override local legislation mandating body-camera footage release after use-of-force incidents. <strong>While transparency in policing has demonstrated public benefit in other jurisdictions through accountability and community trust-building, this federal intervention prevents DC residents from implementing their own policing reforms without evidence of federal harm or constitutional violation.</strong> The action scores poorly on rule of law grounds despite technical constitutional authority—using federal override power to block local democratic decisions sets problematic precedent. Fiscally minimal impact either way. The cost distribution is unfavorable: DC residents bear policing consequences but lack voting congressional representation to contest this interference in their local affairs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.J.Res. 194, 119th Congress",
-      "Congressional Record, June 2026",
-      "DC Home Rule Act of 1973",
-      "Research on body-camera transparency outcomes"
-    ]
-  },
-  {
-    "id": 298,
-    "sourceId": "cg:119-SJRES-195",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/195?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "SJRES 195: A joint resolution disapproving the action of the District of Columbia Council in approving the Full Accountability in Arrest Reporting Temporary Amendment Act of 2026.",
-    "score": -18,
-    "snapshot": "Congressional resolution to overturn D.C.'s temporary law requiring enhanced arrest reporting and accountability measures. The resolution invokes Congress's authority over the District under the Home Rule Act, blocking local police reform legislation.",
-    "verdict": "// VERDICT: Federal override of local D.C. governance on policing matters scores negatively on democratic process and measurable benefit, with unclear fiscal impact and concentrated costs on District residents.",
-    "detail": "This joint resolution uses Congress's constitutional authority to nullify District of Columbia legislation, specifically a temporary measure aimed at arrest reporting transparency. <strong>While Congress has legal standing under Article I and the Home Rule Act to review D.C. laws, exercising this power on local police accountability measures undermines democratic self-governance for 700,000+ residents without voting congressional representation.</strong> The resolution provides no evidence that the D.C. law creates measurable harm requiring federal intervention. Public benefit from blocking enhanced reporting requirements is undemonstrated, and the action concentrates governance costs on District residents who lack full representation. Fiscal impact appears minimal either way. The procedural legitimacy is technically sound but normatively problematic given Home Rule principles established in 1973.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.J.Res. 195, 119th Congress",
-      "D.C. Home Rule Act of 1973",
-      "Congressional Record, June 2026",
-      "U.S. Constitution, Article I, Section 8"
-    ]
-  },
-  {
-    "id": 299,
-    "sourceId": "cg:119-HR-8931",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8931?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "HR 8931: Northern Mariana Islands Workforce Improvement Act",
-    "score": -18,
-    "snapshot": "HR 8931 addresses workforce issues in the Northern Mariana Islands, likely extending or modifying the CNMI-only transitional worker program. The bill remains in committee with no floor action or cost estimates available.",
-    "verdict": "// VERDICT: Insufficient evidence of measurable benefit while creating regulatory complexity and potential labor market distortions in a U.S. territory without documented fiscal analysis.",
-    "detail": "The Northern Mariana Islands have operated under a special guest worker program (CW-1 visa) since 2008, originally intended as temporary but repeatedly extended. <strong>Without CBO scoring or evidence of improved economic outcomes for U.S. citizens in the CNMI, this appears to perpetuate a parallel immigration system that has historically depressed wages and working conditions.</strong> The bill's referral to both Natural Resources and Judiciary committees suggests jurisdictional complexity. Past CNMI workforce legislation has faced criticism for benefiting employers seeking lower-cost foreign labor rather than developing the local workforce or improving conditions that would attract U.S. workers. The lack of sunset provisions or performance metrics in typical CNMI workforce bills undermines accountability. Until the CNMI can demonstrate that prior extensions achieved stated workforce development goals, further modifications lack empirical justification.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "GAO reports on CNMI guest worker program (2015-2023)",
-      "House Committee on Natural Resources",
-      "Federal Register (CNMI CW-1 visa history)"
-    ]
-  },
-  {
-    "id": 300,
-    "sourceId": "cg:119-HR-8839",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8839?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "HR 8839: Lainie Jones Comprehensive Cancer Survivorship Act of 2026",
-    "score": 18,
-    "snapshot": "HR 8839 establishes comprehensive cancer survivorship programs including care coordination, patient navigation services, and expanded research into long-term effects of cancer treatment. The bill was referred to multiple House committees in May 2026 but has not yet received cost estimates or been voted upon.",
-    "verdict": "// VERDICT: Early-stage legislation addressing documented gaps in post-treatment cancer care through coordination and research programs, pending fiscal analysis and implementation details.",
-    "detail": "Cancer survivors face well-documented challenges including treatment side effects, care coordination failures, and lack of systematic follow-up—issues affecting approximately 18 million Americans. <strong>This bill attempts to address these gaps through patient navigation services, survivorship care plans, and expanded NIH research into long-term treatment effects.</strong> The approach aligns with evidence-based practices recommended by the Institute of Medicine and cancer advocacy organizations. However, the bill remains in committee with no CBO score available, making fiscal impact unknown. The legislative process follows proper channels through relevant committees (Energy and Commerce for health policy, Ways and Means for potential Medicare/Medicaid provisions). Without cost estimates, implementation timelines, or provider capacity analysis, the concrete benefit remains theoretical. The naming after a specific individual suggests advocacy-driven origins, though this doesn't diminish potential merit if properly funded and implemented.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "HR 8839 bill text, 119th Congress",
-      "Institute of Medicine: Cancer Survivorship Care",
-      "American Cancer Society survivor statistics"
-    ]
-  },
-  {
-    "id": 301,
-    "sourceId": "cg:119-HR-8903",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8903?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "HR 8903: Renter Resource Center Act",
-    "score": -18,
-    "snapshot": "HR 8903 establishes a federal Renter Resource Center within HUD to provide information and assistance to renters. The bill has been referred to committee with no cost analysis or implementation details available.",
-    "verdict": "// VERDICT: Creates new federal bureaucracy without demonstrated need, cost estimate, or evidence that centralized information delivery improves housing outcomes over existing state and local resources.",
-    "detail": "The Renter Resource Center Act proposes a new federal entity without addressing whether existing HUD programs, state housing agencies, or nonprofit organizations already provide these services more efficiently. <strong>No CBO score exists to evaluate taxpayer cost, and no pilot data demonstrates that federal information centers materially improve renter outcomes compared to localized assistance.</strong> The bill earns negative marks for fiscal responsibility due to absent cost analysis and likely duplicates existing infrastructure. Rule of law concerns are minimal as it follows standard legislative process, though committee referral suggests weak support. Cost distribution is problematic as it creates permanent administrative overhead funded by all taxpayers to benefit a specific constituency, with no sunset provision or performance metrics. The initiative may help some renters navigate complexity, but lacks evidence of measurable public benefit justifying federal expansion.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8903, May 2026",
-      "House Committee on Financial Services referral",
-      "HUD existing programs inventory"
-    ]
-  },
-  {
-    "id": 302,
-    "sourceId": "cg:119-HR-8854",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8854?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "HR 8854: Habitable Housing Conversion Pilot Program Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8854 proposes a federal pilot program to convert underutilized commercial real estate into residential housing. The bill has been referred to committee with no cost estimates, implementation details, or defined success metrics publicly available.",
-    "verdict": "// VERDICT: An undefined pilot program lacking fiscal analysis, clear eligibility standards, or measurable outcome requirements creates accountability gaps while shifting conversion costs and risks to taxpayers.",
-    "detail": "This bill authorizes a new federal housing conversion program without established funding mechanisms, cost-benefit analysis, or performance benchmarks. <strong>The absence of CBO scoring, defined eligibility criteria, and outcome metrics makes it impossible to assess whether taxpayer dollars will produce habitable units at competitive costs compared to market alternatives.</strong> Commercial-to-residential conversions face significant structural, zoning, and code compliance challenges that vary dramatically by building type and location. Without clear guidelines on which properties qualify, cost caps per unit, or requirements for private sector cost-sharing, the program risks subsidizing economically unviable projects. The bill's current form provides no accountability framework to prevent cost overruns or ensure conversions actually house families rather than enriching intermediaries. Early-stage referral status means constitutional process is being followed, but substantive fiscal and implementation questions remain unaddressed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 8854 status",
-      "House Financial Services Committee records",
-      "Federal housing conversion program precedents"
-    ]
-  },
-  {
-    "id": 303,
-    "sourceId": "cg:119-S-4644",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4644?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "S 4644: Drain the Slush Fund Act",
-    "score": -8,
-    "snapshot": "S 4644 proposes eliminating certain federal discretionary grant programs labeled as 'slush funds.' The bill has been referred to committee with no enacted provisions, cost estimates, or documented public impact as of June 2026.",
-    "verdict": "// VERDICT: Insufficient legislative development to assess tangible outcomes; procedural status and lack of specificity prevent meaningful evaluation of actual benefits or harms.",
-    "detail": "The Drain the Slush Fund Act remains in early committee stage without accompanying cost-benefit analysis, program specifications, or implementation framework. While the title suggests fiscal restraint, <strong>no evidence exists regarding which programs would be eliminated, their current effectiveness, or alternative service delivery mechanisms.</strong> The bill's framing as targeting 'slush funds' carries political messaging value but provides no measurable data on waste reduction, service continuity, or affected populations. Congressional referral to Judiciary (rather than Appropriations) suggests potential jurisdictional complexity. Without CBO scoring, program inventory, or impact assessment, the legislation represents aspirational policy rather than actionable reform with documented public benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.4644 Status (June 2026)",
-      "Senate Judiciary Committee Referral",
-      "Congressional Record Vol. 172"
-    ]
-  },
-  {
-    "id": 304,
-    "sourceId": "cg:119-HR-8853",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8853?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "HR 8853: Amtrak Grant Flexibility Act",
-    "score": -18,
-    "snapshot": "HR 8853 proposes flexibility in Amtrak grant usage without specified accountability measures or defined public benefit targets. Referred to committee May 2026; no CBO score or implementation framework available.",
-    "verdict": "// VERDICT: Grant flexibility without corresponding accountability mechanisms risks fiscal waste while offering uncertain service improvements.",
-    "detail": "The Amtrak Grant Flexibility Act appears to loosen restrictions on federal funding to Amtrak without establishing performance benchmarks or outcome requirements. <strong>While operational flexibility can theoretically improve efficiency, unstructured discretionary spending of taxpayer dollars historically leads to cost overruns and mission drift.</strong> Amtrak already receives approximately $2 billion annually in federal subsidies while serving under 1% of intercity travelers. Without defined metrics for ridership growth, cost reduction, or service reliability, this bill risks converting accountability requirements into blank checks. The legislation provides no sunset clause, independent oversight mechanism, or requirement to demonstrate improved cost-per-passenger-mile ratios. Committee referral without floor action suggests even legislative sponsors recognize implementation concerns. Genuine infrastructure investment requires measurable deliverables, not administrative carte blanche.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Amtrak Annual Reports 2023-2025",
-      "Federal Railroad Administration budgets",
-      "House Transportation Committee records"
-    ]
-  },
-  {
-    "id": 272,
-    "sourceId": "cl:11337518",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10870061/fcc-v-att/",
-    "branch": "Courts",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "Opinion 11337518",
-    "score": 9,
-    "snapshot": "Supreme Court ruled the FCC may issue civil forfeiture orders up to ~$50M against telecoms without a jury, because regulated parties can later demand a de novo jury trial if they refuse to pay. Decision resolves circuit split on Seventh Amendment right to jury trial in administrative penalty cases.",
-    "verdict": "// VERDICT: Preserves administrative efficiency while maintaining constitutional jury-trial safeguard through two-tier review, imposing no direct fiscal cost and following longstanding doctrine.",
-    "detail": "The ruling permits the FCC to issue forfeiture orders (here $57M and $47M for location-data violations) without empaneling a jury, so long as the recipient can challenge payment in federal court with full de novo jury review. <strong>This balances agency enforcement speed against constitutional due process: companies pay voluntarily or face court collection, at which point jury rights attach.</strong> No new spending or statute is involved; the Court merely clarified existing Communications Act procedures under precedent dating to Parsons v. Bedford (1830). The decision marginally favors fiscal responsibility by avoiding delays and legal limbo, scores positively on rule of law because it reconciles administrative law with the Seventh Amendment's text and history, and distributes costs fairly—large corporations foot penalties for proven violations, while smaller violators retain the same jury-trial protection if they choose to litigate. The opinion does not shift obligations to taxpayers or future generations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "FCC v. AT&T, No. 25–406 (U.S. June 4, 2026)",
-      "Communications Act, 47 U.S.C. §503(b), §504",
-      "Seventh Amendment jurisprudence, Parsons v. Bedford (1830)",
-      "Fifth Cir. 149 F.4th 491; Second Cir. 156 F.4th 86"
-    ]
-  },
-  {
-    "id": 273,
-    "sourceId": "cl:11337517",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10870060/hikma-pharmaceuticals-usa-inc-v-amarin-pharma-inc/",
-    "branch": "Courts",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "Opinion 11337517",
-    "score": 38,
-    "snapshot": "Supreme Court ruled that generic drug manufacturer Hikma did not actively induce patent infringement by marketing a generic with FDA-approved 'skinny label' excluding patented uses. Decision protects legal generic drug pathways established by Hatch-Waxman Act.",
-    "verdict": "// VERDICT: Upholds statutory framework allowing generics to carve out patented uses, preserving cost-saving pathways without penalizing lawful regulatory compliance.",
-    "detail": "The ruling clarifies that generic manufacturers cannot be liable for active inducement of patent infringement when they follow FDA-approved procedures to exclude patented indications from their labeling. <strong>By holding that compliance with Hatch-Waxman Act procedures and standard industry practices cannot constitute 'active steps' toward infringement, the Court protects the congressionally-designed pathway for generic competition.</strong> This preserves access to affordable medications—generic drugs typically cost 80-85% less than branded equivalents—while maintaining patent protections for novel uses. The decision prevents brand manufacturers from using inducement claims to circumvent the statutory generic approval framework, which has saved the U.S. healthcare system an estimated $2.4 trillion over the past decade. The Court correctly distinguished between lawful marketing of approved indications and active encouragement of infringing uses, following proper constitutional interpretation of patent and drug regulation statutes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion 24-889, June 4, 2026",
-      "Hatch-Waxman Act, 21 U.S.C. §355(j)",
-      "FDA Generic Drug Program data",
-      "CBO Generic Drug Savings Analysis"
     ]
   }
 ]
