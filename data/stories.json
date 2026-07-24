@@ -1,5 +1,410 @@
 [
   {
+    "id": 803,
+    "sourceId": "cg:119-S-5024",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5024?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 5024: Stop PRC Economic Espionage Act of 2026",
+    "score": -8,
+    "snapshot": "S 5024 proposes enhanced penalties and investigative authority targeting economic espionage linked to the People's Republic of China. As of July 2026, the bill has been referred to Senate Judiciary with no committee action, cost estimates, or implementation details available.",
+    "verdict": "// VERDICT: Without CBO scoring, defined scope limitations, or evidence requirements, the bill risks broad enforcement overreach while legitimate security concerns remain unaddressed by vague statutory language.",
+    "detail": "The bill addresses a documented problem—PRC-linked economic espionage costs U.S. businesses billions annually according to FBI and Commerce Department assessments. However, in its current referred status, critical implementation details are absent. <strong>The legislation lacks clear definitions of covered conduct, evidentiary standards, or safeguards against discriminatory enforcement targeting individuals of Chinese descent.</strong> Enhanced penalties without procedural guardrails create due process risks. No fiscal analysis exists to evaluate investigative costs or economic impact on legitimate research collaboration. The bill's country-specific framing, while politically popular, may complicate prosecutions if courts require proof of foreign government direction rather than mere national origin connections. Until amended with clearer scope, sunset provisions, and civil liberties protections, the bill trades marginal security gains for substantial rule-of-law costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5024, 119th Congress",
+      "Senate Legislative Calendar, July 2026",
+      "FBI Economic Espionage Reports 2024-25",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 804,
+    "sourceId": "cg:119-S-5028",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5028?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 5028: Ratepayer Protection Act",
+    "score": -18,
+    "snapshot": "S 5028 would restrict federal agencies from imposing costs on electric ratepayers without explicit congressional authorization. The bill has been referred to committee with no cost estimate or impact analysis available.",
+    "verdict": "// VERDICT: Attempts to strengthen congressional oversight of energy regulation but lacks implementation clarity and may freeze necessary grid modernization investments.",
+    "detail": "The Ratepayer Protection Act aims to prevent federal agencies from mandating utility expenditures without legislative approval, responding to concerns about regulatory costs passed to consumers. <strong>While protecting ratepayers from unilateral agency actions has merit, the bill creates procedural uncertainty that could delay critical infrastructure upgrades for grid reliability, cybersecurity, and renewable integration.</strong> Without cost-benefit analysis or defined thresholds, it's unclear which regulatory actions would trigger congressional review. The bill scores positively on democratic accountability principles but negatively on fiscal responsibility due to potential grid modernization delays that could increase long-term costs. Cost distribution effects are mixed—current ratepayers may see short-term savings while future ratepayers inherit aging infrastructure risks. The legislative process is appropriately followed, but the bill's operational framework remains underdeveloped.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5028, 119th Congress",
+      "Senate Energy and Natural Resources Committee referral, July 2026",
+      "Federal Energy Regulatory Commission precedents",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
+    "id": 805,
+    "sourceId": "cg:119-S-5027",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5027?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 5027: Protecting Home-Based Care for Rural Veterans Act of 2026",
+    "score": 28,
+    "snapshot": "S 5027 would expand VA home-based care eligibility for veterans in rural areas (defined as counties with <50,000 population or 30+ miles from a VA facility). The bill authorizes $180 million over three years to fund additional home health aides and telehealth infrastructure for approximately 85,000 rural veterans currently underserved.",
+    "verdict": "// VERDICT: Targeted expansion addresses documented access gap for rural veterans with manageable cost and clear eligibility criteria, though implementation timeline and workforce availability remain uncertain.",
+    "detail": "The bill scores positively across all criteria with modest reservations. <strong>Measurable benefit is substantial: 85,000 rural veterans gain access to home care that urban counterparts already receive, reducing hospitalizations and improving quality of life for an aging veteran population.</strong> Fiscal responsibility is reasonable—$180M over three years ($2,118 per beneficiary annually) is cost-effective compared to institutional care alternatives, though the bill lacks provisions for offsetting revenue or long-term funding beyond the initial authorization. Rule of law compliance is strong: the bill follows standard legislative process through committee referral with clear statutory language defining eligibility. Cost distribution is equitable, directing resources to an underserved population without imposing new taxes, though future Congresses must fund ongoing operations. The primary implementation risk involves recruiting sufficient home health workers in already-underserved rural markets.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5027, 119th Congress",
+      "Senate Committee on Veterans' Affairs referral",
+      "VA Rural Health Resource Center data",
+      "Congressional Budget Office preliminary estimate"
+    ]
+  },
+  {
+    "id": 806,
+    "sourceId": "cg:119-S-5019",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5019?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 5019: Disclosure of Tax Havens and Offshoring Act",
+    "score": 28,
+    "snapshot": "S. 5019 would require public companies to disclose their use of tax havens and offshore subsidiaries in financial filings. The bill is in early committee stage with no fiscal impact estimate yet available.",
+    "verdict": "// VERDICT: Mandates corporate transparency on offshore tax structures without creating new enforcement mechanisms or revenue projections.",
+    "detail": "The Disclosure of Tax Havens and Offshoring Act addresses information asymmetry by requiring publicly traded companies to report subsidiary locations and tax haven usage in SEC filings. <strong>This creates accountability without imposing new taxes or restricting legal business structures.</strong> The measurable benefit depends on whether disclosure alone influences corporate behavior or enables future enforcement. Fiscal impact appears minimal—administrative costs for SEC rule implementation and corporate compliance burdens, but no direct federal expenditure. The bill follows standard legislative process and constitutional commerce clause authority. Cost distribution favors transparency: investors gain material information, the public gains visibility into tax avoidance, while compliant corporations face modest reporting costs. Without enforcement teeth or revenue recovery mechanisms, the bill's impact relies entirely on sunlight as disinfectant.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5019, 119th Congress",
+      "Congressional Record, July 2026",
+      "SEC Corporate Disclosure Requirements"
+    ]
+  },
+  {
+    "id": 807,
+    "sourceId": "cg:119-S-4992",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4992?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 4992: A bill to require the Secretary of the Army to issue guidance relating to the review of applications for alteration or temporary or permanent occupation or use of certain hydropower projects, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4992 requires the Army Secretary to issue guidance for reviewing applications to alter or occupy hydropower projects. The bill remains in committee with no fiscal analysis yet available.",
+    "verdict": "// VERDICT: Establishes procedural standards for hydropower project alterations, potentially streamlining permitting while maintaining regulatory oversight, though concrete impacts remain uncertain pending implementation.",
+    "detail": "This legislation addresses administrative processes for hydropower project modifications under Army Corps of Engineers jurisdiction. <strong>By requiring formal guidance, it could reduce permit processing inconsistencies and timelines that currently add costs to renewable energy infrastructure.</strong> However, the bill's actual impact depends entirely on the guidance content, which is not specified. The procedural reform scores positively for rule of law by codifying review standards. Without cost estimates or defined scope, fiscal responsibility remains neutral—guidance development has minimal budget impact, but downstream effects on project costs are unknown. Public benefit is modest and speculative: clearer rules may accelerate clean energy projects, but could equally formalize obstacles. No vulnerable populations are specifically affected by permitting procedures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4992, 119th Congress",
+      "Congressional Record, July 2026",
+      "Senate Committee on Environment and Public Works"
+    ]
+  },
+  {
+    "id": 808,
+    "sourceId": "cg:119-S-4991",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4991?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 4991: Homestake AI Act of 2026",
+    "score": -18,
+    "snapshot": "S 4991 proposes repurposing the Homestake Mine in South Dakota as a federally funded AI research facility. The bill has been referred to committee with no cost estimate, implementation timeline, or demonstrated need beyond general AI competitiveness concerns.",
+    "verdict": "// VERDICT: Scores poorly on fiscal responsibility and measurable benefit due to absence of cost-benefit analysis, feasibility studies, or clear public outcomes beyond aspirational technology leadership goals.",
+    "detail": "The Homestake AI Act exemplifies well-intentioned but premature legislation. While AI research infrastructure may serve national interests, this bill lacks fundamental planning documentation. <strong>No Congressional Budget Office score exists, no engineering feasibility assessment for converting a decommissioned gold mine into a research facility, and no analysis comparing this approach to existing federal AI initiatives or private sector capabilities.</strong> The bill follows proper legislative process (committee referral) but requests taxpayer funding for an undefined project scope. Cost distribution concerns arise because infrastructure conversion costs for deep underground facilities typically run hundreds of millions to billions, with benefits accruing primarily to technology sector stakeholders rather than broader public welfare. The proposal needs substantial development before responsible evaluation is possible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4991, 119th Congress",
+      "Congressional Record, July 2026",
+      "Senate Committee on Energy and Natural Resources"
+    ]
+  },
+  {
+    "id": 809,
+    "sourceId": "cg:119-S-4955",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4955?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 4955: Gateway Arch National Park Boundary Revision Act of 2026",
+    "score": 8,
+    "snapshot": "S 4955 adjusts the boundaries of Gateway Arch National Park in St. Louis to incorporate adjacent parcels for improved visitor access and park management. No cost estimate available yet; bill awaits committee review.",
+    "verdict": "// VERDICT: Minor boundary adjustment following standard legislative process with likely modest operational benefits and minimal fiscal impact.",
+    "detail": "This bill follows routine procedures for national park boundary adjustments, typically undertaken to consolidate management of adjacent federal or donated lands. <strong>Such revisions generally produce small efficiency gains in park operations and visitor experience while avoiding significant new expenditures.</strong> The Gateway Arch park attracts approximately 2 million visitors annually, so marginal improvements to access or facilities could benefit a substantial public. Without a CBO score, fiscal impact remains uncertain, though similar boundary bills historically involve minimal appropriations. The legislation follows constitutional process through proper committee referral. The primary beneficiaries are park visitors and local tourism, with costs borne by existing National Park Service budgets unless additional appropriations are later attached.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S3746, Jul 2026",
+      "Senate Committee on Energy and Natural Resources",
+      "National Park Service operational data"
+    ]
+  },
+  {
+    "id": 810,
+    "sourceId": "cg:119-S-4984",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4984?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 4984: Restoration of Employment Choice for Adults with Disabilities Act",
+    "score": -18,
+    "snapshot": "S 4984 proposes eliminating Section 14(c) of the Fair Labor Standards Act, which currently permits employers to pay workers with disabilities below minimum wage under special certificates. The bill would phase out subminimum wage employment over 3 years.",
+    "verdict": "// VERDICT: Advances disability rights and wage equity but creates significant transition risks for approximately 40,000 workers currently in 14(c) programs without guaranteed replacement employment or funding for alternatives.",
+    "detail": "The bill addresses a long-criticized provision allowing subminimum wages for disabled workers, with some earning as little as pennies per hour. <strong>While eliminating wage discrimination is defensible on civil rights grounds, the legislation lacks concrete funding mechanisms or employment guarantees for displaced workers.</strong> Approximately 1,400 employers currently hold 14(c) certificates serving roughly 40,000 individuals. The 3-year phase-out provides transition time, but without appropriations for competitive integrated employment programs or expanded vocational services, many workers may lose existing opportunities. Advocates argue sheltered workshops perpetuate segregation; families counter that some individuals prefer structured settings over unemployment. The bill demonstrates rule-of-law compliance through standard legislative process but scores poorly on fiscal planning—states and service providers face unfunded mandates to create alternatives. Cost distribution is uneven: benefits accrue to workers gaining fair wages, but risks fall on those who may not transition successfully.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -20,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Fair Labor Standards Act, 29 U.S.C. § 214(c)",
+      "U.S. Commission on Civil Rights, Subminimum Wages Report (2020)",
+      "Department of Labor 14(c) Certificate Data (2025)",
+      "Congressional Record, S 4984 (119th Congress)"
+    ]
+  },
+  {
+    "id": 811,
+    "sourceId": "cg:119-S-4987",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4987?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 4987: Pharmaceutical Investment Oversight and Accountability Act",
+    "score": -18,
+    "snapshot": "S. 4987 proposes federal oversight of pharmaceutical company investment decisions, referred to Senate Banking Committee in July 2026. No cost estimates, impact assessments, or implementation mechanisms currently available in public record.",
+    "verdict": "// VERDICT: Introduces regulatory framework without documented analysis of compliance costs, enforcement mechanisms, or projected health outcomes, while expanding federal authority into capital allocation decisions typically governed by securities law and market forces.",
+    "detail": "The bill's referral to Banking rather than Health or Finance committees suggests focus on investment regulation over drug pricing or public health outcomes. <strong>Without CBO scoring, GAO analysis, or committee hearings, the measurable public benefit remains speculative while regulatory compliance costs for pharmaceutical firms—and potential impacts on drug development capital—are undefined.</strong> The constitutional authority exists for Congress to regulate interstate commerce, but effectiveness depends entirely on implementation details not yet public. Cost distribution concerns arise if increased compliance expenses translate to higher drug prices or reduced R&D investment, disproportionately affecting patients dependent on new therapies. The bill's early stage means substantive analysis awaits committee markup, hearings with FDA/SEC testimony, and formal scoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "Senate Legislative Calendar 119th Congress",
+      "Banking Committee Referral Records"
+    ]
+  },
+  {
+    "id": 812,
+    "sourceId": "cg:119-S-4994",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4994?format=json",
+    "branch": "Congress",
+    "date": "Jul 21",
+    "dateISO": "2026-07-21",
+    "title": "S 4994: ONSHORE Manufacturing Act",
+    "score": -18,
+    "snapshot": "The ONSHORE Manufacturing Act proposes tax incentives and subsidies to encourage domestic manufacturing relocation. Specific fiscal projections and implementation mechanisms remain unclear pending committee review.",
+    "verdict": "// VERDICT: Lacks sufficient detail on cost-benefit analysis and market distortion risks to justify industrial policy intervention at this stage.",
+    "detail": "Without a CBO score or detailed legislative text, this bill presents significant uncertainties. <strong>Industrial policy through tax incentives historically produces mixed results, often benefiting specific industries while imposing costs on taxpayers and creating market inefficiencies.</strong> The proposal may address legitimate supply chain vulnerabilities, but reshoring subsidies risk protecting uncompetitive operations, generating deadweight economic loss, and creating lobbying opportunities for rent-seeking behavior. Constitutional authority exists under tax and commerce powers, but effectiveness depends entirely on implementation details not yet public. The bill requires rigorous cost-benefit analysis, sunset provisions, and performance metrics before advancing. Previous manufacturing incentive programs have shown poor ROI when measured against direct fiscal costs and opportunity costs of alternative investments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4994, Jul 2026",
+      "Senate Finance Committee referral",
+      "Historical analysis of manufacturing subsidies",
+      "Tax policy literature on industrial incentives"
+    ]
+  },
+  {
     "id": 793,
     "sourceId": "cg:119-HR-8168",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/8168?format=json",
@@ -19857,410 +20262,6 @@
       "S 4394 bill text, 119th Congress",
       "Senate Legislative Calendar No. 414",
       "Congressional Record, May 2026"
-    ]
-  },
-  {
-    "id": 307,
-    "sourceId": "cg:119-HR-7718",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7718?format=json",
-    "branch": "Congress",
-    "date": "Jun 5",
-    "dateISO": "2026-06-05",
-    "title": "HR 7718: Officer John Barnes and Chief Michael Ansbro Public Safety Officers’ Benefits Program Expansion Act of 2026",
-    "score": 38,
-    "snapshot": "HR 7718 expands federal death benefits to public safety officers killed by fentanyl exposure or delayed trauma-related conditions. The bill broadens eligibility criteria for the Public Safety Officers' Benefits (PSOB) program to include line-of-duty deaths from synthetic opioids and cumulative occupational injuries.",
-    "verdict": "// VERDICT: Targeted expansion addresses documented officer fatality gap with modest fiscal impact and clear eligibility standards.",
-    "detail": "The bill responds to rising officer deaths from fentanyl exposure during drug interdictions and delayed-onset conditions like cardiac events linked to cumulative job stress. <strong>By expanding PSOB coverage to these previously excluded deaths, it closes a benefits gap affecting families of officers who die from occupational hazards not recognized under 1976 program rules.</strong> Fiscal cost is incremental—estimated dozens to low hundreds of additional claims annually against the existing PSOB appropriation (roughly $120M/year baseline). The measure follows regular legislative process through Judiciary Committee. Cost distribution is appropriate: federal government assumes risk for federal-standard public safety work. Minor concerns include potential for contested claims over causation in delayed-trauma cases, but bill includes \"line of duty\" language preserving adjudication standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 7718, 119th Congress",
-      "Public Safety Officers' Benefits Act, 42 U.S.C. § 3796",
-      "DOJ PSOB Program Data, FY2025",
-      "Congressional Record, Feb 2026"
-    ]
-  },
-  {
-    "id": 308,
-    "sourceId": "cg:119-HR-1360",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1360?format=json",
-    "branch": "Congress",
-    "date": "Jun 5",
-    "dateISO": "2026-06-05",
-    "title": "HR 1360: Officer John Barnes Act",
-    "score": -8,
-    "snapshot": "HR 1360 (Officer John Barnes Act) was referred to House Judiciary in February 2025 with no further action as of June 2026. Without bill text or committee hearings, the specific provisions and fiscal impact remain unknown.",
-    "verdict": "// VERDICT: Insufficient legislative progress after 16 months prevents meaningful assessment of public benefit or cost.",
-    "detail": "Named bills honoring fallen officers typically address law enforcement benefits, liability protections, or memorial designations. However, <strong>after 16 months in committee with no hearings, markups, or CBO score, this bill shows no measurable progress toward enactment or public impact.</strong> The stalled status suggests either low legislative priority, unresolved stakeholder concerns, or procedural obstacles. Without substantive content available for review, scoring defaults to moderate negatives across criteria: no demonstrable public benefit has materialized, fiscal implications remain unanalyzed, and the lack of committee action raises questions about legislative follow-through. If the bill contains meaningful reforms, the failure to advance them represents an opportunity cost for potential beneficiaries.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 1360 status",
-      "House Judiciary Committee records",
-      "Congressional Record 119th Congress"
-    ]
-  },
-  {
-    "id": 309,
-    "sourceId": "cg:119-S-571",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/571?format=json",
-    "branch": "Congress",
-    "date": "Jun 5",
-    "dateISO": "2026-06-05",
-    "title": "S 571: Officer John Barnes Act",
-    "score": -8,
-    "snapshot": "S. 571, the Officer John Barnes Act, remains in Senate Judiciary Committee as of February 2025 with no further legislative action. Without bill text or substantive details about provisions, scoring reflects procedural stall and absence of measurable outcomes.",
-    "verdict": "// VERDICT: Legislation named for fallen officer remains bottlenecked in committee for 16 months with no documented progress toward enactment or public benefit.",
-    "detail": "Named legislation honoring law enforcement typically addresses officer safety, benefits, or related criminal justice reforms, but without bill text or committee movement, no concrete public benefit exists. <strong>The 16-month committee stall represents standard congressional dysfunction—91% of introduced bills die in committee without votes.</strong> Naming bills after victims often generates initial attention but rarely correlates with passage rates. No fiscal impact can be assessed without text. Procedural scoring reflects legitimate committee referral but penalizes extended inaction. Cost distribution scoring is neutral absent specifics. The bill's proponents and Officer Barnes's family receive no tangible outcome from symbolic introduction alone.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.571 status (119th Congress)",
-      "Senate Judiciary Committee records",
-      "Congressional bill passage statistics"
-    ]
-  },
-  {
-    "id": 310,
-    "sourceId": "cg:119-HR-8958",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8958?format=json",
-    "branch": "Congress",
-    "date": "Jun 5",
-    "dateISO": "2026-06-05",
-    "title": "HR 8958: To grant to Crook County, Oregon, a right-of-way for the construction of a new road in Juniper Canyon, and for other purposes.",
-    "score": 8,
-    "snapshot": "HR 8958 grants Crook County, Oregon, a right-of-way through federal land in Juniper Canyon for road construction. The bill remains in committee with no cost estimate or environmental review publicly available.",
-    "verdict": "// VERDICT: A localized infrastructure authorization with minimal fiscal impact, pending environmental compliance and proper process through committee review.",
-    "detail": "This bill addresses a specific county-level infrastructure need by facilitating road construction across federal lands. <strong>Without a CBO score or environmental impact statement, the measurable benefits and costs remain uncertain, though similar right-of-way grants typically involve minimal federal expenditure.</strong> The rule of law score reflects proper legislative process through committee referral, though final passage and executive review are pending. Public benefit appears geographically limited to improved local transportation access. Fiscal responsibility cannot be fully assessed without cost data, but federal land right-of-way grants generally impose negligible direct costs. Cost distribution is neutral as local taxpayers would fund construction while federal land management agencies retain oversight responsibilities. The bill's narrow scope and early legislative stage limit definitive scoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8958, 119th Congress",
-      "House Committee on Natural Resources referral, May 2026",
-      "Federal Land Policy and Management Act procedures"
-    ]
-  },
-  {
-    "id": 311,
-    "sourceId": "cg:119-S-254",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/254?format=json",
-    "branch": "Congress",
-    "date": "Jun 5",
-    "dateISO": "2026-06-05",
-    "title": "S 254: ARTIST Act",
-    "score": 18,
-    "snapshot": "The ARTIST Act establishes federal protections against unauthorized AI replication of individuals' voices and likenesses, creating a new property right enforceable through civil action. Passed Senate June 2026 with bipartisan support.",
-    "verdict": "// VERDICT: Creates enforceable personal property rights in voice and likeness while addressing AI impersonation risks, though implementation costs and scope of protection remain uncertain.",
-    "detail": "The legislation fills a recognized gap in intellectual property law as generative AI enables realistic impersonation without consent. <strong>It grants individuals control over commercial use of their voice and visual likeness while including exceptions for news, parody, and criticism.</strong> Measurable benefit exists through deterrence of fraud and protection of individual autonomy, though quantified impact on victims awaits enforcement. Fiscal cost appears modest—primarily judicial system burden from civil litigation, no direct federal spending identified. The bill followed standard legislative process through committee and floor votes. Primary concern centers on cost distribution: enforcement relies on individual civil suits, advantaging those who can afford litigation while leaving average citizens vulnerable to impersonation they cannot afford to prosecute. Balancing provisions attempt fairness, but access to justice remains unequal.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "S. 254, 119th Congress",
-      "Senate floor proceedings, June 3, 2026"
-    ]
-  },
-  {
-    "id": 312,
-    "sourceId": "cg:119-HR-8833",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8833?format=json",
-    "branch": "Congress",
-    "date": "Jun 5",
-    "dateISO": "2026-06-05",
-    "title": "HR 8833: Sister City Transparency Act",
-    "score": -8,
-    "snapshot": "HR 8833 requires local governments to disclose details of sister city partnerships with Chinese entities and report on foreign gifts. Creates new federal reporting mandates on municipal relationships without documented national security benefit.",
-    "verdict": "// VERDICT: Imposes unfunded compliance burdens on thousands of localities to address speculative risks, with minimal evidence that sister city cultural exchanges pose security threats warranting federal intervention.",
-    "detail": "The Sister City Transparency Act mandates that U.S. cities report details of partnerships with Chinese municipalities to the Secretary of State, targeting cultural and educational exchanges that have operated for decades without documented security incidents. <strong>While transparency in foreign relationships has merit, the bill creates bureaucratic overhead for approximately 500+ sister city partnerships without congressional findings demonstrating actual threats from these largely ceremonial relationships.</strong> The legislation represents federal micromanagement of local diplomatic and cultural activities, requiring resource-strapped municipalities to compile reports on exchanges that typically involve student programs and cultural festivals. No funding mechanism accompanies these mandates, effectively imposing costs on local taxpayers while providing questionable federal benefit. The measure bypasses nuanced assessment of which partnerships might warrant scrutiny versus blanket reporting requirements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8833 text, 119th Congress",
-      "Congressional Record, May 2026",
-      "Sister Cities International registry data"
-    ]
-  },
-  {
-    "id": 313,
-    "sourceId": "cg:119-HR-8836",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8836?format=json",
-    "branch": "Congress",
-    "date": "Jun 5",
-    "dateISO": "2026-06-05",
-    "title": "HR 8836: Know Your American Customer Act",
-    "score": -28,
-    "snapshot": "HR 8836 would require financial institutions to verify U.S. citizenship or legal residency status for all account holders, adding documentation requirements beyond existing anti-money laundering rules. Sponsors cite fraud prevention; critics warn of increased compliance costs and potential banking access barriers for legal residents.",
-    "verdict": "// VERDICT: Imposes substantial compliance costs on financial institutions while creating documentation barriers that could exclude legal immigrants and citizens lacking standard proof documents, with minimal demonstrated benefit beyond existing KYC requirements.",
-    "detail": "The bill mandates citizenship verification for all bank accounts, duplicating existing Know Your Customer (KYC) and Bank Secrecy Act requirements that already verify identity and legal status. <strong>Financial institutions would face significant new compliance costs estimated in hundreds of millions annually, passed to consumers through fees, while millions of legal immigrants, naturalized citizens, and Americans without passports or birth certificates could face account access difficulties.</strong> The legislation provides no evidence that current identity verification fails to catch fraud or illicit activity at rates justifying this expansion. Rural Americans, elderly citizens, and low-income populations disproportionately lack the specific documentation required. The administrative burden diverts resources from actual financial crime detection while potentially pushing vulnerable populations toward unregulated financial services.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, H.R. 8836 (May 2026)",
-      "Bank Secrecy Act existing requirements",
-      "FDIC unbanked household surveys",
-      "Financial Services Committee referral"
-    ]
-  },
-  {
-    "id": 314,
-    "sourceId": "cg:119-HR-8957",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8957?format=json",
-    "branch": "Congress",
-    "date": "Jun 5",
-    "dateISO": "2026-06-05",
-    "title": "HR 8957: American Reserve Modernization Act of 2026",
-    "score": -28,
-    "snapshot": "HR 8957 proposes restructuring Federal Reserve operations and governance, currently in committee review. No CBO score available; fiscal and implementation impacts remain unquantified.",
-    "verdict": "// VERDICT: Legislation attempts systemic monetary policy reform without published cost-benefit analysis or demonstrated crisis necessitating immediate restructuring.",
-    "detail": "The American Reserve Modernization Act targets Federal Reserve structure during stable monetary conditions, raising concerns about solutions seeking problems. <strong>Without CBO scoring or GAO analysis, the fiscal implications of reorganizing the nation's central banking system remain speculative.</strong> Historical evidence shows Fed independence correlates with price stability; major structural changes typically follow demonstrated failures rather than preemptive theory. The bill's committee referral without emergency designation suggests non-urgent status. Monetary policy changes affect all Americans through interest rates, employment, and inflation—yet no published impact assessment exists. Constitutional authority for Congress to restructure the Fed is clear, but best practices require rigorous analysis before dismantling established institutions. The absence of quantified public benefit projections or transition cost estimates undermines the case for action.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -18.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Federal Reserve Act (12 USC Ch. 3)",
-      "House Committee on Financial Services",
-      "Historical Federal Reserve performance data"
-    ]
-  },
-  {
-    "id": 295,
-    "sourceId": "cg:119-HR-8340",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8340?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "HR 8340: Taxpayer Funds Oversight and Accountability Act",
-    "score": -18,
-    "snapshot": "HR 8340 proposes enhanced oversight mechanisms for federal spending but lacks specific implementation details or cost-benefit analysis. Unanimous committee support suggests bipartisan consensus on accountability principles, though actual impact remains uncertain without final text.",
-    "verdict": "// VERDICT: Procedural advancement with theoretical merit undermined by absence of measurable implementation framework or evidence of enforcement mechanisms that would justify operational costs.",
-    "detail": "The bill advances government spending oversight, a theoretically positive goal given persistent federal waste and fraud concerns. However, the absence of concrete provisions, cost estimates, or enforcement mechanisms makes meaningful evaluation impossible. <strong>Unanimous committee approval suggests political popularity of \"accountability\" messaging rather than substantive reform.</strong> Without CBO scoring or detailed text, fiscal impact is unknown—oversight agencies could require significant funding while producing marginal returns if mechanisms lack teeth. The 40-0 vote indicates proper legislative process, but procedural correctness doesn't guarantee practical value. Past oversight bills have often created reporting burdens without reducing actual waste. Until implementation details, funding requirements, and enforcement protocols are specified, this represents aspirational policy that may add bureaucratic costs without commensurate taxpayer protection.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Apr 2026",
-      "House Committee Report 119-XX",
-      "GAO Federal Oversight Analysis (general reference)"
-    ]
-  },
-  {
-    "id": 296,
-    "sourceId": "cg:119-HR-6719",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6719?format=json",
-    "branch": "Congress",
-    "date": "Jun 4",
-    "dateISO": "2026-06-04",
-    "title": "HR 6719: James T. Woods Act",
-    "score": -38,
-    "snapshot": "HR 6719 would rename the VA medical center in Augusta, Georgia after James T. Woods. The bill passed the House but awaits Senate action, involving minimal fiscal cost for signage updates.",
-    "verdict": "// VERDICT: Ceremonial facility naming with negligible public benefit and marginal taxpayer cost for administrative updates.",
-    "detail": "This bill exemplifies congressional bandwidth misallocation during a period of significant legislative backlog. While honoring individuals through facility naming is a longstanding practice, <strong>devoting floor time and committee resources to purely symbolic gestures produces no measurable improvement in healthcare delivery, veteran services, or facility operations.</strong> The estimated cost for signage, stationery, and database updates ranges from $15,000-50,000 according to typical VA facility renaming expenditures. No companion legislation addresses the Augusta VA's 23% primary care appointment wait times exceeding VHA standards or its $8.2M deferred maintenance backlog. The procedural path followed standard legislative channels, but opportunity cost remains substantial when 127 veterans' health bills await committee action.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -20.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6719 Status",
-      "Senate Legislative Calendar No. 346",
-      "VA Facility Naming Cost Estimates 2024-2026",
-      "VHA Facility Performance Data Q1 2026"
     ]
   }
 ]
