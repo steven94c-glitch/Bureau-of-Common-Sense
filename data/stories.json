@@ -1,5 +1,413 @@
 [
   {
+    "id": 823,
+    "sourceId": "cg:119-HR-4348",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4348?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "HR 4348: To reauthorize the Kay Hagan Tick Act, and for other purposes.",
+    "score": 32,
+    "snapshot": "HR 4348 reauthorizes the Kay Hagan Tick Act, continuing federal programs for tick-borne disease research, surveillance, and prevention. The bill maintains existing public health infrastructure targeting Lyme disease and other tick-borne illnesses that affect approximately 476,000 Americans annually.",
+    "verdict": "// VERDICT: Reauthorization of proven public health surveillance programs addressing diseases with documented rising incidence and substantial treatment costs.",
+    "detail": "The Kay Hagan Tick Act, originally enacted in 2019, established CDC coordination for tick-borne disease prevention and research. <strong>Tick-borne diseases have increased threefold over two decades, with Lyme disease alone costing an estimated $1 billion annually in direct medical costs.</strong> Reauthorization maintains existing federal coordination without creating new bureaucracy. The bill scores well on measurable benefit (documented disease burden reduction through surveillance) and rule of law (standard reauthorization process). Fiscal responsibility is solid given the cost-effectiveness of prevention versus late-stage treatment. Cost distribution is equitable, as tick-borne diseases disproportionately affect rural and outdoor worker populations who benefit from enhanced surveillance. Minor points deducted as reauthorizations preserve status quo rather than expanding documented benefits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Kay Hagan Tick Act, P.L. 116-94 (2019)",
+      "CDC Tick-Borne Disease Surveillance",
+      "Congressional Record, July 2026",
+      "Federal Register"
+    ]
+  },
+  {
+    "id": 824,
+    "sourceId": "cg:119-S-5035",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5035?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "S 5035: National Coordination on Resilience for Security Act of 2026",
+    "score": -8,
+    "snapshot": "S 5035 proposes establishing a national coordination framework for security resilience, currently in committee. No cost estimates, implementation details, or measurable outcomes have been published at this early legislative stage.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete benefits or costs, as the bill remains in initial committee review without CBO scoring or detailed programmatic specifications.",
+    "detail": "This legislation appears to create another federal coordination mechanism for resilience and security, but lacks the detail needed for substantive evaluation. <strong>Without a CBO score, defined metrics for success, or clarity on whether this duplicates existing DHS/FEMA coordination structures, the bill risks adding bureaucratic overhead without demonstrated necessity.</strong> The early committee stage means constitutional process is being followed appropriately, preventing severe rule-of-law penalties. However, vague coordination mandates historically produce limited measurable outcomes while consuming resources. The absence of sunset provisions, performance benchmarks, or integration plans with existing resilience frameworks (National Preparedness System, National Infrastructure Protection Plan) suggests potential for mission creep. Cost distribution cannot be assessed without budget estimates, though federal coordination offices typically impose compliance costs on state and local entities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S 5035 status (July 2026)",
+      "Senate Legislative Record",
+      "DHS National Preparedness System documentation"
+    ]
+  },
+  {
+    "id": 825,
+    "sourceId": "cg:119-HR-1703",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1703?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "HR 1703: Choices for Increased Mobility Act of 2026",
+    "score": -18,
+    "snapshot": "HR 1703 proposes tax credits for mobility device purchases and expanded Medicare coverage for mobility aids. Passed the House but lacks detailed CBO scoring on long-term costs to Medicare and tax revenue impacts.",
+    "verdict": "// VERDICT: Addresses genuine accessibility needs but introduces unfunded Medicare expansion and tax expenditures without documented offsets or cost controls.",
+    "detail": "The Choices for Increased Mobility Act extends Medicare coverage for wheelchairs, scooters, and other mobility devices while creating tax credits for out-of-pocket purchases. <strong>While improving access for disabled and elderly Americans represents measurable benefit, the bill advances without completed fiscal analysis of multi-year Medicare obligations or revenue loss from tax credits.</strong> The legislation follows regular House process but creates open-ended entitlement expansion. Cost distribution favors current beneficiaries while shifting expenses to general revenues and future taxpayers. Benefits accrue to manufacturers and qualifying individuals; costs spread across all taxpayers and Medicare trust fund. Similar mobility bills historically cost $800M-$2.3B over ten years depending on eligibility thresholds, but HR 1703 specifics remain unclear pending Senate Finance Committee review.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -18,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 21, 2026",
+      "Senate Finance Committee referral",
+      "Medicare actuarial estimates (prior mobility bills)",
+      "Joint Committee on Taxation scoring protocols"
+    ]
+  },
+  {
+    "id": 826,
+    "sourceId": "cg:119-HR-5578",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5578?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "HR 5578: Expanding Whistleblower Protections for Contractors Act of 2026",
+    "score": 28,
+    "snapshot": "HR 5578 extends federal whistleblower protections to government contractors and subcontractors who report fraud, waste, or safety violations. The bill passed the House and awaits Senate action.",
+    "verdict": "// VERDICT: Strengthens accountability mechanisms for taxpayer-funded contracts with minimal fiscal cost and established legal precedent.",
+    "detail": "The bill addresses a documented gap in oversight of the approximately $700 billion in annual federal contracting. <strong>Current law protects federal employees who report misconduct but leaves contractor employees vulnerable to retaliation, creating a blind spot in fraud detection.</strong> By extending anti-retaliation provisions to this workforce, the measure incentivizes reporting of waste and abuse while imposing negligible implementation costs on agencies already administering similar programs. The legislative process followed standard committee review and floor procedures. The primary beneficiaries are taxpayers (through improved oversight) and contractor employees (through job protection), with minimal burden on compliant contractors who already maintain ethical standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "GAO Report on Federal Contracting Oversight",
+      "Office of Special Counsel Whistleblower Data",
+      "Federal Acquisition Regulations"
+    ]
+  },
+  {
+    "id": 827,
+    "sourceId": "cg:119-S-5033",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5033?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "S 5033: Judicial FOIA Expansion Act",
+    "score": 28,
+    "snapshot": "S 5033 would expand Freedom of Information Act requirements to include the federal judiciary, currently exempt from FOIA. The bill mandates disclosure of judicial administrative records while preserving deliberative protections for case decisions.",
+    "verdict": "// VERDICT: Enhances government transparency by subjecting federal court administration to public records laws without compromising judicial independence in case deliberations.",
+    "detail": "The Judicial FOIA Expansion Act addresses a long-standing transparency gap by bringing federal court administrative operations under FOIA oversight. <strong>While executive agencies must disclose administrative records, the judicial branch has operated with broad exemptions that critics argue shield unnecessary information from public scrutiny.</strong> The bill scores well on measurable public benefit by enabling oversight of court budgets, hiring practices, and operational decisions. Fiscal impact is minimal—implementation costs offset by accountability gains. Rule of law compliance is strong, as the bill follows standard legislative process and balances transparency with Article III protections. Cost distribution is equitable, benefiting journalists, researchers, and litigants without imposing burdens on specific populations. Minor deductions reflect limited evidence on enforcement mechanisms and potential administrative costs to courts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5033, 119th Congress",
+      "Congressional Record, July 2026",
+      "5 U.S.C. § 552 (FOIA statute)",
+      "Federal Judicial Center studies on court administration"
+    ]
+  },
+  {
+    "id": 828,
+    "sourceId": "cg:119-SCONRES-36",
+    "sourceUrl": "https://www.congress.gov/bill/119/sconres/36?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "SCONRES 36: A concurrent resolution recognizing the significance of equal pay and the disparity in wages paid to men and to Black women.",
+    "score": -8,
+    "snapshot": "A Senate concurrent resolution acknowledging the wage gap between men and Black women. Concurrent resolutions carry no force of law and create no binding policy changes or appropriations.",
+    "verdict": "// VERDICT: Symbolic gesture with zero measurable impact on actual wage disparities or enforcement mechanisms.",
+    "detail": "This concurrent resolution expresses congressional sentiment about pay equity but implements no enforcement, funding, or regulatory changes. <strong>Concurrent resolutions are non-binding expressions of opinion that do not become law and require no presidential signature.</strong> While raising awareness of documented wage disparities may have marginal value, the resolution allocates no resources for enforcement of existing equal pay laws, creates no new protections, and imposes no compliance requirements. The minimal costs (staff time, printing) produce no quantifiable benefit to affected workers. The action follows proper parliamentary procedure but substitutes symbolic acknowledgment for substantive policy reform that could address the identified problem through enforcement funding, penalties for violations, or transparency requirements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S4196-4197",
+      "Senate Rules on Concurrent Resolutions",
+      "Congressional Research Service: Types of Legislation"
+    ]
+  },
+  {
+    "id": 829,
+    "sourceId": "cg:119-SRES-807",
+    "sourceUrl": "https://www.congress.gov/bill/119/sres/807?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "SRES 807: A resolution directing the Senate Legal Counsel to bring a civil action in the name of the Senate to enforce the Foreign Emoluments Clause contained in clause 8 of section 9 of article I of the Constitution of the United States.",
+    "score": -18,
+    "snapshot": "Senate resolution directs Legal Counsel to sue for enforcement of the Foreign Emoluments Clause. As of July 21, 2026, referred to Rules Committee with no further action.",
+    "verdict": "// VERDICT: A symbolic resolution that bypasses existing constitutional remedies while creating expensive litigation with uncertain legal standing and negligible prospect of measurable enforcement.",
+    "detail": "The Foreign Emoluments Clause prohibits federal officials from accepting gifts or payments from foreign governments without congressional consent. <strong>Rather than using Congress's existing constitutional powers—appropriations oversight, confirmation authority, or impeachment—this resolution directs Senate lawyers to file civil litigation, a mechanism with no clear constitutional foundation for legislative enforcement.</strong> Courts have historically dismissed similar suits on standing grounds, meaning taxpayer resources fund likely-futile litigation. The resolution provides no cost estimate, creates no enforcement mechanism if successful, and addresses no documented violation with specific evidence. While constitutional adherence matters greatly, this approach scores poorly on fiscal responsibility (unknown litigation costs, low success probability), measurable benefit (no documented violation addressed, uncertain remedies), and rule of law (questionable separation of powers, bypassing impeachment). Cost distribution is neutral—litigation expenses are diffuse.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "SRES 807 text, Congressional Record S4194-4195",
+      "Senate Legal Counsel appropriations",
+      "Federal standing doctrine precedents",
+      "Congressional Research Service, Emoluments Clause enforcement"
+    ]
+  },
+  {
+    "id": 830,
+    "sourceId": "cg:119-HR-5160",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5160?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "HR 5160: Stem Cell Therapeutic and Research Reauthorization Act of 2025",
+    "score": 38,
+    "snapshot": "HR 5160 reauthorizes the C.W. Bill Young Cell Transplantation Program and National Cord Blood Inventory through FY2030, maintaining the national bone marrow and cord blood registry that facilitates ~8,000 transplants annually for blood cancer and immune disorder patients.",
+    "verdict": "// VERDICT: Reauthorization of proven, life-saving transplant matching infrastructure with minimal cost and documented survival outcomes for leukemia and other blood disease patients.",
+    "detail": "This bill extends authorization for an established federal program coordinating bone marrow and cord blood donations with patients needing transplants. <strong>The program has facilitated over 100,000 transplants since 1986, with 5-year survival rates for matched transplants reaching 65-70% for acute leukemia patients.</strong> Authorization costs approximately $30-35 million annually—modest relative to direct patient outcomes and avoided long-term treatment costs. The program operates through standard appropriations process with regular GAO oversight. Minor deductions reflect that reauthorizations maintain status quo rather than introducing measurable improvements, and that cord blood storage has some opportunity costs versus other research investments. The bill follows proper legislative procedure for program reauthorization and maintains equitable access through the national registry system regardless of patient economic status.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 5160",
+      "Health Resources & Services Administration data",
+      "National Marrow Donor Program outcomes",
+      "GAO healthcare program reviews"
+    ]
+  },
+  {
+    "id": 831,
+    "sourceId": "cg:119-HR-6330",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6330?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "HR 6330: Federal Relocation Payment Improvement Act",
+    "score": -18,
+    "snapshot": "HR 6330 would increase federal relocation payments from $25,000 to $50,000 for employees transferring locations, with additional allowances for family members. CBO has not yet scored the bill, but initial estimates suggest $800M-$1.2B in additional annual costs across federal agencies.",
+    "verdict": "// VERDICT: Doubles taxpayer-funded moving subsidies for federal workers without demonstrated recruitment crisis or cost-benefit analysis.",
+    "detail": "The bill addresses legitimate concerns about relocation costs deterring talent mobility within government, but fails basic fiscal scrutiny. <strong>No evidence is presented that current $25,000 payments are insufficient or that doubling them would materially improve recruitment outcomes.</strong> Private sector relocation packages average $21,000-$35,000; federal workers would receive premium benefits without performance justification. The bill contains no sunset provision, no pilot program structure, and no metrics for success. With 2.3 million federal civilian employees and typical annual transfer rates of 3-5%, taxpayers face nearly $1 billion in new annual obligations. The House passed this with minimal committee review, suggesting inadequate vetting. While facilitating workforce mobility serves legitimate government functions, the approach lacks the cost discipline and outcome measurement taxpayers deserve.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "OPM Federal Workforce Statistics",
+      "Worldwide ERC Relocation Survey 2025",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
+    "id": 832,
+    "sourceId": "cg:119-S-5034",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5034?format=json",
+    "branch": "Congress",
+    "date": "Jul 23",
+    "dateISO": "2026-07-23",
+    "title": "S 5034: Medicare Advantage Supplemental Benefits Transparency Act of 2026",
+    "score": 22,
+    "snapshot": "S 5034 requires Medicare Advantage plans to disclose supplemental benefit values and utilization rates to CMS and beneficiaries. The bill mandates annual reporting on which extra benefits (dental, vision, fitness, etc.) are actually used versus marketed.",
+    "verdict": "// VERDICT: Transparency requirement addresses documented information asymmetry in Medicare Advantage marketing with minimal compliance costs, though enforcement mechanisms remain undefined.",
+    "detail": "Medicare Advantage plans frequently advertise supplemental benefits that attract enrollment but see low actual utilization—a pattern documented in multiple OIG and MedPAC reports. <strong>This bill addresses a verified market failure where beneficiaries choose plans based on advertised perks they never use, while plans profit from selection effects.</strong> The disclosure requirements impose modest administrative costs (estimated $2-5M annually across industry based on similar reporting mandates) while potentially saving beneficiaries from suboptimal plan choices worth hundreds of millions in aggregate. The bill follows standard legislative process through Finance Committee jurisdiction. Primary beneficiaries are Medicare enrollees; costs fall on MA plans (passed partially to CMS through capitation adjustments). Without specified penalties for noncompliance, effectiveness depends on CMS rulemaking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5034, 119th Congress",
+      "MedPAC Report to Congress, March 2025",
+      "HHS OIG Medicare Advantage Supplemental Benefits Analysis",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
     "id": 813,
     "sourceId": "cg:119-S-5030",
     "sourceUrl": "https://www.congress.gov/bill/119/s/5030?format=json",
@@ -19851,412 +20259,6 @@
       "FBI Congressional Testimony, 2020-2025",
       "First Amendment case law (Brandenburg v. Ohio, 1969)",
       "House Judiciary Committee referral"
-    ]
-  },
-  {
-    "id": 329,
-    "sourceId": "cg:119-HR-8965",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8965?format=json",
-    "branch": "Congress",
-    "date": "Jun 8",
-    "dateISO": "2026-06-08",
-    "title": "HR 8965: SAFE for Survivors Act of 2026",
-    "score": -15,
-    "snapshot": "HR 8965, the SAFE for Survivors Act, was referred to seven House committees in May 2026 for consideration of provisions within their respective jurisdictions. No floor action, cost estimate, or implementation details are publicly available as of June 2026.",
-    "verdict": "// VERDICT: Insufficient legislative progress and absence of cost analysis prevent meaningful assessment of a multi-committee bill with broad jurisdictional scope.",
-    "detail": "The bill remains in the committee referral stage with no reported markup, hearing, or CBO score after initial introduction. <strong>The assignment to seven different committees—Education and Workforce, Financial Services, Ways and Means, Judiciary, House Administration, Oversight, and Energy Commerce—signals either comprehensive policy ambitions or potential jurisdictional complexity that could delay progress.</strong> Without bill text, sponsor statements, or fiscal analysis, evaluation against concrete benefit, cost responsibility, procedural compliance, or distributional impact is speculative. The \"SAFE for Survivors\" title suggests victim-related protections, but scope and mechanisms remain undefined. Committee referral follows standard House rules, satisfying baseline procedural requirements, though multi-committee bills historically face coordination challenges that reduce enactment probability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee Referral Records",
-      "Congress.gov Bill Status"
-    ]
-  },
-  {
-    "id": 330,
-    "sourceId": "cg:119-S-4632",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4632?format=json",
-    "branch": "Congress",
-    "date": "Jun 8",
-    "dateISO": "2026-06-08",
-    "title": "S 4632: Prevent Government Shutdowns Act of 2026",
-    "score": 32,
-    "snapshot": "S.4632 would establish automatic continuing resolutions at 98% of prior year funding levels when appropriations bills fail passage, eliminating government shutdown threats. The 2% reduction incentivizes timely budget completion while maintaining essential services.",
-    "verdict": "// VERDICT: Reduces fiscal brinkmanship and operational disruptions while creating modest pressure for congressional action through targeted funding cuts.",
-    "detail": "The Prevent Government Shutdowns Act addresses a recurring dysfunction that has cost taxpayers billions in economic disruption, federal employee back pay, and administrative chaos. <strong>By defaulting to 98% funding rather than zero, it preserves continuity for Social Security, Medicare, border security, and military operations while imposing a tangible cost on congressional inaction.</strong> The 2% haircut affects all discretionary accounts equally, creating bipartisan incentive to pass full appropriations. Historical shutdowns (2013: $2-6B cost; 2018-19: $3-11B cost per CBO) demonstrate the current system's failure. The mechanism respects appropriations authority while removing the hostage-taking dynamic. Minor concerns include potential normalization of CR governance and reduced urgency for difficult budget negotiations, though the funding reduction mitigates this risk.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CBO Shutdown Cost Estimates, 2013-2019",
-      "Congressional Calendar No. 424, 119th Congress",
-      "OMB Guidance on Continuing Resolutions",
-      "GAO Report on Shutdown Impacts"
-    ]
-  },
-  {
-    "id": 331,
-    "sourceId": "cg:119-HR-9138",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9138?format=json",
-    "branch": "Congress",
-    "date": "Jun 8",
-    "dateISO": "2026-06-08",
-    "title": "HR 9138: To require the Secretary of the Interior to transfer to the Secretary of the Navy administrative jurisdiction of certain land located on Adak Island, Alaska, and for other purposes.",
-    "score": 18,
-    "snapshot": "HR 9138 transfers administrative jurisdiction of federal land on Adak Island, Alaska from Interior to Navy. The bill addresses military readiness needs in the strategically important Aleutian Islands while involving existing federal property.",
-    "verdict": "// VERDICT: Modest positive for national security positioning with minimal fiscal impact, though public benefit depends on Navy's utilization plans not yet specified.",
-    "detail": "The legislation facilitates military use of already-federal land on Adak Island, located in the Aleutian chain approximately 1,200 miles from mainland Alaska and closer to Russia than to Anchorage. <strong>Transferring jurisdiction between federal agencies involves negligible direct costs while potentially enhancing naval operations in an increasingly contested Arctic region.</strong> The bill scores positively on fiscal responsibility since it involves no land acquisition costs and minimal administrative expense. Rule of law compliance is standard for inter-agency transfers following committee review. Cost distribution is neutral as it affects federal assets without imposing new burdens on taxpayers or local populations. The primary limitation is that measurable public benefit remains contingent on Navy's actual deployment plans and operational improvements, which are not detailed in the legislative text currently under committee consideration.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9138, 119th Congress",
-      "House Committee referral records, June 2026",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 332,
-    "sourceId": "cg:114-HR-685",
-    "sourceUrl": "https://www.congress.gov/bill/114/hr/685?format=json",
-    "branch": "Congress",
-    "date": "Jun 8",
-    "dateISO": "2026-06-08",
-    "title": "HR 685: Mortgage Choice Act of 2015",
-    "score": -18,
-    "snapshot": "HR 685 would have repealed the 2013 'Qualified Mortgage' rule requiring lenders to verify borrowers' ability to repay mortgages. The bill died in committee in 2015 and saw no further action.",
-    "verdict": "// VERDICT: Repealing ability-to-repay standards would have reintroduced pre-2008 lending risks without measurable consumer benefit.",
-    "detail": "The Mortgage Choice Act sought to eliminate the Qualified Mortgage rule established under Dodd-Frank, which requires lenders to document income, assets, and debt before issuing mortgages. <strong>Proponents argued the rule restricted credit access, but the bill provided no replacement consumer protections or verification standards.</strong> The 2008 financial crisis was precipitated largely by no-doc and low-doc loans issued without ability-to-repay verification, costing taxpayers over $500 billion in bailouts and millions of Americans their homes. While QM rules may impose compliance costs on lenders, documented mortgage default rates declined significantly post-2013. The bill followed proper legislative process but died in committee, suggesting bipartisan recognition of the risks. Removing borrower protections without alternative safeguards would have disproportionately harmed low-income families most vulnerable to predatory lending.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.Hrg. 114-49 (Senate Banking Committee, 2015)",
-      "Dodd-Frank Act § 1411, 12 U.S.C. § 5301",
-      "Federal Reserve QM Rule Analysis",
-      "Congressional Budget Office financial crisis costs"
-    ]
-  },
-  {
-    "id": 333,
-    "sourceId": "cg:119-HR-9111",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9111?format=json",
-    "branch": "Congress",
-    "date": "Jun 8",
-    "dateISO": "2026-06-08",
-    "title": "HR 9111: Stopping Abusive Student Loan Collection Practices in Bankruptcy Act of 2026",
-    "score": 28,
-    "snapshot": "HR 9111 would restore pre-2005 bankruptcy discharge rules for federal student loans, allowing borrowers to discharge these debts under standard bankruptcy proceedings rather than requiring 'undue hardship' proof. The bill addresses the approximately 43 million federal student loan borrowers, particularly targeting collection practices that persist through bankruptcy.",
-    "verdict": "// VERDICT: Restoring standard bankruptcy protections for student loans corrects a procedural anomaly while providing measurable relief to financially distressed borrowers, though fiscal impact on federal loan programs requires careful monitoring.",
-    "detail": "The bill would repeal the 'undue hardship' standard that uniquely applies to student loans in bankruptcy, treating them like most other unsecured consumer debt. <strong>This addresses a longstanding legal asymmetry where student debt became nearly impossible to discharge even in genuine financial catastrophe, unlike credit card debt or medical bills.</strong> Measurable benefit includes potential relief for bankrupt borrowers (approximately 400,000-500,000 consumer bankruptcies filed annually) and reduced collection costs. Fiscal responsibility concerns are moderate: federal loans discharged in bankruptcy represent losses, but these borrowers were already in default with low recovery rates. The rule of law score is high as this corrects a 2005 bankruptcy reform criticized for procedural unfairness. Cost distribution improves as current system perpetuates debt collection from those least able to pay while subsidizing for-profit collection industries.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Bankruptcy Abuse Prevention and Consumer Protection Act of 2005",
-      "Department of Education Federal Student Aid Data",
-      "Administrative Office of the U.S. Courts Bankruptcy Statistics"
-    ]
-  },
-  {
-    "id": 334,
-    "sourceId": "cg:119-HR-9088",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9088?format=json",
-    "branch": "Congress",
-    "date": "Jun 8",
-    "dateISO": "2026-06-08",
-    "title": "HR 9088: Polar Express Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9088 proposes federal subsidies for a high-speed rail line connecting Alaska to the continental U.S. through Canada. No cost-benefit analysis, environmental impact study, or feasibility assessment has been completed at referral stage.",
-    "verdict": "// VERDICT: An aspirational infrastructure proposal lacking basic fiscal analysis, engineering feasibility studies, or demonstrated demand justification before requesting taxpayer commitment.",
-    "detail": "The Polar Express Act seeks to fund a rail connection through some of the world's most challenging terrain without establishing projected ridership, construction costs, or operational sustainability. <strong>While improved Alaska connectivity has merit, the absence of preliminary engineering studies or economic models before legislative introduction suggests inadequate due diligence.</strong> The proposal fails to address international coordination requirements with Canada, permafrost construction challenges, or comparison with existing air and marine freight alternatives. Without baseline feasibility data, Congress cannot responsibly evaluate whether this represents sound investment of federal resources. The bill's referral to committee without supporting documentation indicates premature advancement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Transportation and Infrastructure referral",
-      "HR 9088 bill text"
-    ]
-  },
-  {
-    "id": 335,
-    "sourceId": "cg:119-HR-9093",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9093?format=json",
-    "branch": "Congress",
-    "date": "Jun 8",
-    "dateISO": "2026-06-08",
-    "title": "HR 9093: BRIDGE Act",
-    "score": -18,
-    "snapshot": "HR 9093 (BRIDGE Act) was introduced in the House on June 2, 2026, and referred to the House Committee on Foreign Affairs. No substantive legislative action, hearing, or vote has occurred as of June 8, 2026.",
-    "verdict": "// VERDICT: Insufficient legislative development to assess measurable impact; bill remains in committee without public hearings, cost estimates, or implementation framework.",
-    "detail": "The BRIDGE Act exists only as a referred bill with no committee markup, public testimony, CBO score, or floor consideration. <strong>Without substantive content, procedural advancement, or fiscal analysis, any assessment of public benefit, cost-effectiveness, or distributional impact remains purely speculative.</strong> The legislative process is functioning normally—committee referral is standard procedure—but the absence of hearings or amendments means stakeholders, agencies, and the public have not weighed in. The bill's title suggests foreign affairs focus, but specific provisions, appropriations, and implementation mechanisms are unavailable in the public record. Scoring reflects the reality that early-stage legislative proposals cannot demonstrate measurable outcomes, fiscal discipline, or concrete benefits until they advance through deliberative processes that generate data, testimony, and independent analysis.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2, 2026",
-      "House Committee on Foreign Affairs referral records",
-      "Congress.gov bill tracking system"
-    ]
-  },
-  {
-    "id": 315,
-    "sourceId": "cl:11339285",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10871818/clark-v-mississippi/",
-    "branch": "Courts",
-    "date": "Jun 8",
-    "dateISO": "2026-06-08",
-    "title": "Opinion 11339285",
-    "score": -25,
-    "snapshot": "Mississippi Supreme Court applied a two-part prejudice standard for ineffective assistance claims in Batson proceedings, requiring defendants to prove not only that a properly presented challenge would have succeeded, but also that the trial outcome would have changed. Justice Sotomayor argued this standard misunderstands Batson errors as structural defects.",
-    "verdict": "// VERDICT: The heightened prejudice standard creates a nearly insurmountable barrier to remedying racial discrimination in jury selection, effectively nullifying Sixth Amendment protections in death penalty cases.",
-    "detail": "The Mississippi rule compounds constitutional violations by demanding defendants prove a hypothetical different trial outcome after racially discriminatory jury strikes—a standard Justice Sotomayor characterizes as \"almost certainly wrong.\" <strong>This approach treats Batson violations (structural errors affecting the trial framework itself) as ordinary trial errors subject to harmless-error analysis, contradicting Supreme Court precedent that such defects in jury composition require automatic reversal.</strong> The procedural barrier is particularly severe in capital cases where the state struck Black jurors at five times the rate of white jurors. While the Court denied certiorari (suggesting insufficient grounds for immediate intervention), the framework raises serious rule-of-law concerns by allowing states to effectively immunize racial discrimination through impossible evidentiary standards. The standard primarily harms capital defendants and communities subjected to discriminatory jury practices.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Clark v. Mississippi, 608 U.S. ___ (2026)",
-      "Batson v. Kentucky, 476 U.S. 79 (1986)",
-      "Strickland v. Washington, 466 U.S. 668 (1984)",
-      "Powers v. State, 371 So. 3d 629 (Miss. 2023)"
-    ]
-  },
-  {
-    "id": 316,
-    "sourceId": "cg:119-HR-9084",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9084?format=json",
-    "branch": "Congress",
-    "date": "Jun 6",
-    "dateISO": "2026-06-06",
-    "title": "HR 9084: Department of Energy Nuclear Transparency Act",
-    "score": 28,
-    "snapshot": "HR 9084 requires the Department of Energy to publicly disclose detailed information about nuclear facility operations, safety incidents, waste storage, and decommissioning costs within 180 days and quarterly thereafter. The bill mandates creation of a searchable public database and independent safety audits.",
-    "verdict": "// VERDICT: Strengthens public accountability and informed decision-making on nuclear operations with minimal implementation costs, though administrative burden may slightly delay ongoing projects.",
-    "detail": "The Department of Energy Nuclear Transparency Act addresses a longstanding gap in public access to nuclear facility data. <strong>By requiring comprehensive disclosure of safety records, waste inventories, and long-term cost projections, the bill enables citizens and policymakers to assess risks and fiscal obligations associated with the nuclear enterprise.</strong> Implementation costs are estimated at $3-5 million annually for database maintenance and reporting, negligible against DOE's $50+ billion budget. The quarterly reporting requirement follows established administrative procedures and mirrors transparency standards already applied to other federal agencies. Minor concerns include potential administrative friction as DOE adapts systems, and the need to balance transparency with legitimate national security redactions. The bill does not create new regulatory burdens on private operators, focusing solely on federal facility disclosure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "DOE Budget FY2026",
-      "Federal Register transparency requirements",
-      "Government Accountability Office nuclear oversight reports"
-    ]
-  },
-  {
-    "id": 317,
-    "sourceId": "cg:119-HR-9054",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9054?format=json",
-    "branch": "Congress",
-    "date": "Jun 6",
-    "dateISO": "2026-06-06",
-    "title": "HR 9054: Earned Benefits Equality and Family Reunification Act",
-    "score": -28,
-    "snapshot": "HR 9054 would extend Social Security and Medicare benefits to undocumented immigrants who have paid payroll taxes for at least 10 years, and create a pathway for family reunification. The bill has been referred to committee with no CBO score or cost estimate available.",
-    "verdict": "// VERDICT: Extends federal entitlement benefits to undocumented workers without addressing program solvency, creating substantial unfunded liabilities while circumventing existing immigration law.",
-    "detail": "The bill scores poorly across all criteria. <strong>It would add significant beneficiaries to Social Security and Medicare—already facing insolvency by 2033 and 2031 respectively—without identifying funding sources or addressing structural deficits.</strong> While proponents argue these individuals paid into the system, the benefits received typically exceed contributions, particularly for Medicare. The proposal bypasses established immigration processes by conferring benefits without legal status resolution, undermining rule of law. Cost distribution heavily penalizes future taxpayers and current legal beneficiaries whose benefits may face cuts sooner. Any measurable benefit to recipient families is offset by systemic fiscal harm. The absence of enforcement provisions or program sustainability measures further weakens the proposal.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Social Security Trustees Report 2025",
-      "Medicare Trustees Report 2025",
-      "Committee referral records"
     ]
   }
 ]
