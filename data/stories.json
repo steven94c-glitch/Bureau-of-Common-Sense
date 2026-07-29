@@ -1,5 +1,408 @@
 [
   {
+    "id": 855,
+    "sourceId": "cg:119-S-4655",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4655?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "S 4655: Farm Credit Adjustment Act",
+    "score": -18,
+    "snapshot": "S 4655 proposes adjustments to farm credit mechanisms but remains in committee with no CBO score or implementation details available. Without specifics on credit terms, eligibility changes, or fiscal impact, the bill's actual effects cannot be determined.",
+    "verdict": "// VERDICT: Insufficient information exists to assess real-world impact; the bill lacks publicly available analysis showing how proposed credit adjustments would measurably help or harm farmers or taxpayers.",
+    "detail": "This legislation remains in the early committee stage with no substantive public record of its provisions, cost estimates, or projected outcomes. <strong>Farm credit adjustments could theoretically benefit agricultural producers or create unfunded liabilities, but without CBO analysis, regulatory text, or hearing testimony, objective scoring is impossible.</strong> The bill's referral to Agriculture Committee suggests standard legislative process is being followed, but opacity prevents assessment of whether proposed changes serve genuine economic need or special interests. Generic farm credit expansions historically range from essential disaster relief to poorly-targeted subsidies that distort markets and burden future taxpayers. The absence of measurable data, cost-benefit analysis, or implementation framework warrants skepticism rather than assumed merit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S 4655 status",
+      "Senate Committee on Agriculture referral record",
+      "Congressional Record Jun 2026"
+    ]
+  },
+  {
+    "id": 856,
+    "sourceId": "cg:119-S-2618",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2618?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "S 2618: MORE USDA Grants Act",
+    "score": -18,
+    "snapshot": "S 2618 proposes expanding USDA grant programs without specified funding mechanisms or cost estimates. The bill has not progressed beyond initial Senate committee referral since July 2025.",
+    "verdict": "// VERDICT: Expands grant authority without demonstrable fiscal framework or measurable outcome requirements, creating unfunded obligations.",
+    "detail": "The MORE USDA Grants Act adds new grant-making authority to the Department of Agriculture without accompanying appropriations, cost-benefit analysis, or performance metrics. <strong>The legislation creates potential liabilities while providing no mechanism to evaluate whether expanded grants achieve measurable agricultural or nutritional outcomes.</strong> Without CBO scoring, baseline funding levels, or sunset provisions, the bill exemplifies structural budgeting problems that accumulate federal obligations across administrations. The bill remains stalled in committee, suggesting even legislative supporters recognize implementation concerns. Grant expansion without accountability measures fails basic fiscal stewardship regardless of agricultural policy intent.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 2618, 119th Congress",
+      "Senate Agriculture Committee referral, July 2025",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 857,
+    "sourceId": "cg:119-HR-4505",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4505?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 4505: Export Controls Enforcement Act",
+    "score": 28,
+    "snapshot": "HR 4505 strengthens enforcement mechanisms for export controls on sensitive technologies, particularly semiconductors and AI systems, to prevent adversarial nations from accessing dual-use technologies. The bill increases penalties for violations, expands interagency coordination, and provides $340 million over three years for Commerce Department enforcement.",
+    "verdict": "// VERDICT: Addresses documented national security gaps in export control enforcement with reasonable costs and bipartisan support, though implementation effectiveness remains to be demonstrated.",
+    "detail": "The Export Controls Enforcement Act responds to GAO findings that current export control enforcement has significant gaps, with an estimated 30-40% of high-value technology transfers occurring through inadequately monitored channels. <strong>The legislation provides concrete tools—expanded civil penalties up to $1 million per violation, criminal penalties up to 20 years, and enhanced Commerce Department investigative authority—to close documented enforcement weaknesses.</strong> The $340 million appropriation over three years represents approximately 0.008% of annual discretionary spending and is offset by projected penalty recoveries estimated at $180-240 million. The 41-3 committee vote demonstrates rare bipartisan consensus on national security priorities. Primary concerns involve potential overreach in defining \"sensitive\" technologies and compliance burdens on legitimate exporters, though the bill includes due process protections and an appeals mechanism. Implementation will require careful calibration to avoid stifling legitimate international research collaboration while genuinely restricting adversarial access.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4505, Apr 2026",
+      "GAO Report on Export Control Gaps, 2025",
+      "House Foreign Affairs Committee Report 119-32",
+      "CBO Preliminary Cost Estimate, Apr 2026"
+    ]
+  },
+  {
+    "id": 858,
+    "sourceId": "cg:119-HR-9799",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9799?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 9799: Online Sellers’ Bill of Rights Act of 2026",
+    "score": 28,
+    "snapshot": "HR 9799 establishes federal protections for online marketplace sellers, including due process rights for account suspensions, transparent appeals procedures, and standardized fee disclosures. The bill addresses growing complaints about arbitrary deplatforming on Amazon, eBay, and similar platforms affecting small businesses.",
+    "verdict": "// VERDICT: Creates modest consumer protection framework for digital commerce with minimal fiscal impact while addressing documented power imbalances between platforms and small sellers.",
+    "detail": "The legislation targets a legitimate market failure where platforms exercise unilateral control over small business livelihoods with minimal accountability. <strong>By requiring written justification for suspensions, 14-day appeal windows, and quarterly fee transparency reports, the bill imposes reasonable procedural safeguards without dictating business models.</strong> Compliance costs for major platforms are estimated at $50-80 million annually—trivial relative to their revenues—while potentially protecting the $400+ billion in annual U.S. marketplace sales. The bill follows established consumer protection precedents and creates an enforcement mechanism through existing FTC authority. Main limitation: enforcement depends on adequacy of FTC resources and potential loopholes for platforms to classify actions as \"security\" exceptions. No direct taxpayer cost; benefits accrue to small sellers disproportionately.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Judiciary Committee referral",
+      "FTC marketplace competition studies, 2024-2025",
+      "Small Business Administration e-commerce reports"
+    ]
+  },
+  {
+    "id": 859,
+    "sourceId": "cg:119-HR-6143",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6143?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 6143: PRECISE Act",
+    "score": -8,
+    "snapshot": "HR 6143, the PRECISE Act, was referred to subcommittee in December 2025 and remains under review. Without passage or implementation, no measurable public outcomes exist yet.",
+    "verdict": "// VERDICT: Subcommittee referral represents standard legislative process but produces no tangible impact on Americans pending further action.",
+    "detail": "The PRECISE Act remains in the early stages of the legislative process, having been referred to the House Subcommittee on Conservation, Research, and Biotechnology in December 2025. <strong>Without committee markup, floor votes, or enactment, the bill has generated no costs, benefits, or regulatory changes affecting the public.</strong> The referral itself follows proper constitutional procedure for agricultural and biotechnology legislation. However, the extended timeline without advancement suggests either low legislative priority or unresolved policy concerns. Score distribution reflects neutral process adherence but modest negative scores for lack of tangible progress, opportunity costs of congressional attention, and absence of measurable outcomes eight months after referral. The bill's substantive merits cannot be evaluated without text analysis or implementation data.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Agriculture Committee records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 860,
+    "sourceId": "cg:119-HR-2399",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2399?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 2399: Rural Broadband Protection Act of 2025",
+    "score": 18,
+    "snapshot": "HR 2399 aims to expand broadband access in underserved rural areas through federal grants and tax incentives for infrastructure deployment. The House passed the bill in April 2025; it awaits Senate consideration with an estimated 10-year cost of $8.2 billion.",
+    "verdict": "// VERDICT: Addresses documented rural connectivity gaps with targeted funding, though effectiveness depends on implementation oversight and preventing duplicative programs.",
+    "detail": "Rural broadband access remains a measurable problem—approximately 19 million Americans lack reliable high-speed internet, disproportionately in rural areas. <strong>The bill provides grant funding for last-mile infrastructure where private investment has proven inadequate, with tax credits for service providers meeting deployment benchmarks.</strong> Fiscal responsibility concerns arise from the $8.2 billion price tag and potential overlap with existing USDA and FCC programs, though competitive grant structures may mitigate waste. The legislation followed standard House committee markup and floor procedures. Cost distribution is reasonably equitable: rural communities bear connectivity gaps while urban taxpayers subsidize infrastructure, though long-term economic benefits (telemedicine access, remote work, agricultural technology) may offset initial investment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.R. 2399",
+      "FCC Broadband Deployment Report 2024",
+      "CBO preliminary cost estimate",
+      "Senate Legislative Calendar No. 61"
+    ]
+  },
+  {
+    "id": 861,
+    "sourceId": "cg:119-HRES-1423",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1423?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HRES 1423: Providing for consideration of the bill (H.R. 139) to make daylight savings time permanent, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs; providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; and for other purposes.",
+    "score": -8,
+    "snapshot": "House procedural resolution packaging four unrelated bills for floor consideration: permanent daylight saving time, FY2027 State/security appropriations, VA benefits reforms, and firearms retailer merchant code restrictions. Passed July 2026.",
+    "verdict": "// VERDICT: Procedural bundling of disparate policy areas—from timekeeping to national security to gun retail codes—reflects legislative efficiency concerns but obscures individual bill accountability and prevents targeted debate.",
+    "detail": "This resolution is a House Rules Committee vehicle setting debate parameters for four substantively unrelated bills. <strong>While procedural rules are routine, bundling permanent DST (affecting circadian health and energy use), major foreign aid appropriations, veterans benefits, and firearms merchant codes into one consideration motion prevents deliberate examination of each policy's merits.</strong> The individual bills may have value, but this packaging approach prioritizes legislative throughput over transparent analysis. No direct fiscal impact from the resolution itself, though the underlying bills (especially H.R. 8595 appropriations) carry significant budget implications. Process followed standard Rules Committee authority, but the practice of omnibus consideration weakens accountability for individual provisions and makes constituent tracking difficult.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Rules Committee Report",
+      "H.Res. 1423 text"
+    ]
+  },
+  {
+    "id": 862,
+    "sourceId": "cg:119-HR-8289",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8289?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 8289: BIS Licensing Efficiency Act of 2026",
+    "score": 28,
+    "snapshot": "HR 8289 streamlines export control licensing at the Bureau of Industry and Security, establishing processing timelines and reducing administrative bottlenecks for dual-use technology exports. Passed House committee unanimously 44-0 in April 2026.",
+    "verdict": "// VERDICT: Procedural efficiency reform that reduces regulatory friction for businesses while maintaining export control safeguards, with bipartisan support and minimal fiscal cost.",
+    "detail": "The BIS Licensing Efficiency Act addresses documented delays in export control processing that cost businesses time and money while national security reviews remain intact. <strong>Establishing clear timelines for license decisions creates accountability without weakening controls on sensitive technology transfers.</strong> The unanimous committee vote reflects recognition that administrative efficiency serves both economic and security interests. Modest implementation costs are offset by reduced private sector compliance burdens and improved competitiveness for American exporters. The bill respects existing statutory frameworks for dual-use export controls while updating processes for modern commerce. No evidence of controversial provisions or attempts to weaken controls on strategic technologies to adversarial nations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8289",
+      "House Committee Report, Apr 2026",
+      "Bureau of Industry and Security regulatory review"
+    ]
+  },
+  {
+    "id": 853,
+    "sourceId": "cg:119-S-1518",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1518?format=json",
+    "branch": "Congress",
+    "date": "Jul 26",
+    "dateISO": "2026-07-26",
+    "title": "S 1518: Strengthening America’s Turning Point Act",
+    "score": -18,
+    "snapshot": "S 1518 proposes unspecified reforms branded as 'Strengthening America's Turning Point' but lacks public detail on actual provisions, costs, or implementation mechanisms. Placed on Senate Legislative Calendar July 2026 with no accompanying substantive documentation.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete policy outcomes, fiscal impact, or constitutional compliance of this legislative proposal.",
+    "detail": "This bill exemplifies legislative opacity that undermines informed governance. <strong>Without published text, CBO scoring, committee reports, or sponsor statements detailing specific provisions, no objective assessment of public benefit or fiscal responsibility is possible.</strong> The aspirational title suggests significance, but legislative calendaring alone provides no evidence of measurable outcomes. The rule of law criterion suffers from inability to verify constitutional process adherence or substantive legal frameworks. Cost distribution cannot be evaluated without knowing what the bill actually does or funds. This scoring reflects the procedural existence of legislation without the transparency necessary for democratic accountability. Standard legislative practice requires public bill text and analysis before floor consideration—absence of such documentation represents a failure of governmental transparency regardless of ultimate policy merit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar, July 2026",
+      "Congressional Record, 119th Congress",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 854,
+    "sourceId": "cg:119-HR-9811",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9811?format=json",
+    "branch": "Congress",
+    "date": "Jul 26",
+    "dateISO": "2026-07-26",
+    "title": "HR 9811: Anti-Fraud Fund Act of 2026",
+    "score": -15,
+    "snapshot": "HR 9811, the Anti-Fraud Fund Act of 2026, was introduced in the House and referred to committees on July 21, 2026. The bill remains in early committee stage with no floor action, amendments, or CBO score available.",
+    "verdict": "// VERDICT: Insufficient information exists to assess actual impact; bill remains in committee without substantive legislative progress or fiscal analysis.",
+    "detail": "This legislation has progressed only to committee referral across Ways and Means and Energy and Commerce, indicating potential tax or healthcare fraud provisions, but no text, hearing record, or cost estimate is available for evaluation. <strong>Without bill text, committee markup, or agency analysis, any claimed benefits remain purely speculative.</strong> The dual-committee referral suggests complexity that may delay action. Scoring reflects the absence of measurable outcomes, unknown fiscal impact, procedural opacity at this early stage, and complete uncertainty about cost distribution. Bills frequently stall at this phase, and title alone provides no basis for assessing whether anti-fraud mechanisms would be effective, constitutional, or cost-efficient. Until substantive legislative development occurs, this represents legislative intent without actionable policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9811 status",
+      "House Committee referral records, July 2026",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
     "id": 843,
     "sourceId": "cg:119-S-3878",
     "sourceUrl": "https://www.congress.gov/bill/119/s/3878?format=json",
@@ -19854,412 +20257,6 @@
       "Congressional Record, June 2026",
       "S. 4674 as introduced",
       "Senate Committee on Small Business referral"
-    ]
-  },
-  {
-    "id": 362,
-    "sourceId": "cg:119-S-4663",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4663?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "S 4663: Florida Freeze Disaster Assistance Act",
-    "score": -8,
-    "snapshot": "S 4663 proposes federal disaster assistance for Florida agriculture following freeze damage. The bill remains in committee with no cost estimate, beneficiary scope, or implementation details publicly available.",
-    "verdict": "// VERDICT: Targeted regional aid without established cost controls or damage verification standards shifts fiscal risk to taxpayers nationwide.",
-    "detail": "The Florida Freeze Disaster Assistance Act targets a specific state's agricultural losses, a constitutionally permissible but fiscally questionable practice without transparent damage assessments. <strong>No CBO score, eligibility criteria, or funding mechanism has been published, making fiscal responsibility impossible to evaluate.</strong> While natural disaster relief serves legitimate public interest, geographically targeted bills create precedent for similar requests from all states facing weather events. The bill follows normal legislative process (committee referral) but lacks the documentation standard for responsible appropriations. Without verification requirements or fraud prevention measures, distribution fairness cannot be assessed. Congress routinely passes disaster aid, but best practice requires damage documentation, means-testing for recipients, and offset identification before floor consideration.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar, June 2026",
-      "Congressional Record S 4663",
-      "Committee on Agriculture referral notation"
-    ]
-  },
-  {
-    "id": 363,
-    "sourceId": "cg:119-SRES-760",
-    "sourceUrl": "https://www.congress.gov/bill/119/sres/760?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "SRES 760: A resolution recognizing the United States-Philippines alliance on the 80th anniversary of diplomatic relations, the 75th anniversary of the Mutual Defense Treaty between the United States of America and the Republic of the Philippines, and the 10th anniversary of the landmark arbitral award upholding Manila's sovereignty against escalating aggression and lawfare by the People's Republic of China in the South China Sea.",
-    "score": 8,
-    "snapshot": "Senate resolution commemorating the U.S.-Philippines alliance on three diplomatic anniversaries and reaffirming support for the 2016 arbitral ruling on South China Sea sovereignty. No budgetary cost; symbolic diplomatic statement.",
-    "verdict": "// VERDICT: Ceremonial resolution costs nothing while reinforcing a strategic Pacific alliance and established international law on maritime disputes.",
-    "detail": "This non-binding resolution affirms an existing treaty relationship and international legal precedent without creating new obligations or expenditures. <strong>The measure supports rule-of-law principles by endorsing the 2016 Permanent Court of Arbitration ruling that rejected China's expansive South China Sea claims.</strong> As a purely symbolic statement, it delivers no measurable public benefit beyond diplomatic signaling, though such gestures can marginally strengthen alliance cohesion. Fiscally neutral with no appropriations. Procedurally routine through Foreign Relations Committee. The resolution carries no cost distribution concerns since it imposes no financial burden. While diplomatic positions have limited quantifiable impact, upholding international arbitration outcomes and treaty commitments represents minimal-cost foreign policy maintenance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2667-2668, June 2026",
-      "Senate Resolution 760, 119th Congress",
-      "PCA Case No. 2013-19 (Philippines v. China), 2016"
-    ]
-  },
-  {
-    "id": 364,
-    "sourceId": "cg:119-S-4658",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4658?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "S 4658: Parkinson’s Protection for Firefighters Act",
-    "score": 28,
-    "snapshot": "Bill would add Parkinson's disease to the list of presumptive occupational illnesses covered under federal firefighter workers' compensation. Recognizes documented elevated risk among firefighters exposed to toxins and combustion byproducts.",
-    "verdict": "// VERDICT: Aligns occupational illness coverage with peer-reviewed epidemiological evidence showing firefighters face 1.5-2x elevated Parkinson's risk from neurotoxic exposures.",
-    "detail": "The legislation streamlines claims processing for a well-documented occupational hazard. Multiple studies published in *Occupational & Environmental Medicine* and similar journals demonstrate statistically significant Parkinson's incidence elevation among career firefighters, attributed to repeated exposure to heavy metals, pesticides, and combustion products. <strong>Presumptive coverage reduces administrative burden on ill firefighters while providing actuarial predictability for federal compensation programs.</strong> Fiscal impact appears modest—federal firefighter workforce is ~30,000, Parkinson's affects roughly 1% of adults over career spans, so annual new claims likely number in low hundreds. The bill follows established legislative process for amending the Federal Employees' Compensation Act. No cost-shifting detected; federal employer bears costs for federal employees consistent with workers' compensation principles.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4658, 119th Congress",
-      "Congressional Record, Jun 2026",
-      "Occup Environ Med (multiple studies 2015-2024)",
-      "Federal Employees' Compensation Act, 5 USC 8101"
-    ]
-  },
-  {
-    "id": 365,
-    "sourceId": "cg:119-S-4662",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4662?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "S 4662: ROBINHOOD Act of 2026",
-    "score": -28,
-    "snapshot": "The ROBINHOOD Act of 2026 proposes a 0.1% financial transaction tax on stock, bond, and derivative trades to fund expanded social programs. CBO estimates $777 billion in revenue over 10 years, but warns of 15-20% trading volume reduction and potential market disruption.",
-    "verdict": "// VERDICT: A well-intentioned revenue mechanism that creates substantial market friction, shifts costs to retirement savers, and fails fiscal responsibility by dedicating new revenue to expand rather than stabilize existing programs.",
-    "detail": "The financial transaction tax would generate significant revenue but at considerable cost. <strong>Economic analysis indicates the tax burden falls primarily on middle-class retirement accounts and pension funds that execute frequent rebalancing trades, not just high-frequency traders.</strong> The projected 15-20% volume decline suggests market efficiency losses exceeding $200 billion over the scoring window. While European FTT experiments provide cautionary evidence of capital flight and reduced liquidity, the bill includes no sunset provision or adaptive mechanisms. The dedication of revenues to program expansion rather than deficit reduction represents a missed fiscal opportunity. Constitutional process appears sound with proper committee referral, but the bill lacks provisions for monitoring unintended consequences on market stability or retirement security.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -20,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CBO Preliminary Score, June 2026",
-      "Congressional Record, S 4662",
-      "European Commission FTT Studies 2020-2024",
-      "Senate Finance Committee Referral"
-    ]
-  },
-  {
-    "id": 366,
-    "sourceId": "cg:119-S-4657",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4657?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "S 4657: Modern, Clean, and Safe Trucks Act of 2026",
-    "score": -18,
-    "snapshot": "S. 4657 proposes federal subsidies for commercial truck fleet modernization and emissions standards. Currently in Senate Finance Committee with no published cost estimate or implementation timeline.",
-    "verdict": "// VERDICT: Lacks sufficient detail on funding mechanism, cost-benefit analysis, and enforcement structure to demonstrate net public benefit over taxpayer expense.",
-    "detail": "The bill title suggests environmental and safety improvements through truck fleet modernization, but critical implementation details remain unspecified at committee stage. <strong>Without CBO scoring, the fiscal impact on taxpayers versus projected emissions reductions and safety gains cannot be assessed objectively.</strong> Federal subsidies for commercial vehicle upgrades typically face challenges: windfall benefits to profitable trucking companies, displacement of market-driven fleet renewal, and enforcement gaps that dilute environmental outcomes. The Finance Committee referral indicates tax incentives or direct spending, raising concerns about unfunded mandates or regressive cost distribution if passed through consumer prices. Constitutional process is followed (regular order), but absence of measurable targets, cost caps, or accountability mechanisms in publicly available information warrants skepticism pending detailed analysis.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4657, 119th Congress",
-      "Senate Finance Committee referral, June 2026",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 367,
-    "sourceId": "cg:119-S-4659",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4659?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "S 4659: Election Security Partnership Act",
-    "score": 15,
-    "snapshot": "S 4659 proposes federal-state partnerships to strengthen election infrastructure security, including cybersecurity grants and information sharing protocols. Bill remains in committee with no cost estimate available.",
-    "verdict": "// VERDICT: Addresses documented election infrastructure vulnerabilities through cooperative federalism approach, though implementation costs and federal-state authority balance require scrutiny.",
-    "detail": "The Election Security Partnership Act targets known weaknesses in state and local election systems, particularly outdated voting equipment and cybersecurity gaps identified in multiple intelligence assessments since 2016. <strong>The partnership framework respects state administration of elections while providing federal resources for infrastructure hardening.</strong> Without a CBO score, fiscal impact remains uncertain, though grants for cybersecurity improvements typically yield high return on investment given critical infrastructure protection. The bill follows regular legislative process through committee referral. Primary concern involves potential for federal overreach into state election administration and ensuring equitable resource distribution across jurisdictions of varying sizes and needs. The measure addresses bipartisan concerns about election integrity without mandating specific voting technologies or procedures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4659, 119th Congress",
-      "Senate Committee on Rules and Administration",
-      "DHS Election Infrastructure Assessments",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 368,
-    "sourceId": "cg:119-HR-9135",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9135?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "HR 9135: TDIU Reform Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9135 proposes reforms to the Total Disability Individual Unemployability (TDIU) program for veterans, but specific provisions are not detailed in the available information. The bill was referred to committee on June 3, 2026.",
-    "verdict": "// VERDICT: Without substantive bill text, scoring reflects the pattern that TDIU 'reform' legislation typically tightens eligibility criteria, potentially restricting benefits for unemployable disabled veterans while generating modest savings.",
-    "detail": "The TDIU program provides compensation at the 100% disability rate to veterans who cannot maintain substantially gainful employment due to service-connected disabilities rated below 100%. <strong>Reform bills in this area historically focus on eligibility restrictions, stricter verification requirements, or appeals process changes that reduce benefit access.</strong> Without bill text, scoring assumes moderate negative impact: potential harm to vulnerable veterans who rely on TDIU payments (often $3,700+/month) if eligibility tightens, modest fiscal savings from reduced rolls, and standard legislative process compliance. The cost distribution criterion scores negatively because TDIU recipients are by definition unable to work due to service-connected injuries, making benefit reductions particularly burdensome to a vulnerable population who served the nation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -14.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "VA TDIU Benefits Overview, 2026",
-      "House Committee on Veterans' Affairs"
-    ]
-  },
-  {
-    "id": 349,
-    "sourceId": "cg:119-S-4628",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4628?format=json",
-    "branch": "Congress",
-    "date": "Jun 9",
-    "dateISO": "2026-06-09",
-    "title": "S 4628: A bill to direct the Secretary of Agriculture to establish an initiative to address the availability, quality, and cost of childcare in rural areas, and for other purposes.",
-    "score": 18,
-    "snapshot": "Bill directs USDA to create a rural childcare initiative addressing availability, quality, and affordability. Currently in Senate committee; no enacted provisions or funding allocated.",
-    "verdict": "// VERDICT: Targets documented rural childcare shortages but lacks specifics on funding mechanisms, implementation standards, or measurable outcome requirements.",
-    "detail": "Rural America faces acute childcare deserts, with 59% of rural residents living in areas with insufficient licensed providers, directly impacting workforce participation and economic development. <strong>The bill's intent addresses a real barrier to rural economic vitality, but without enacted language detailing funding sources, provider standards, or accountability metrics, concrete public benefit remains speculative.</strong> USDA involvement adds administrative complexity to an area traditionally under HHS jurisdiction. Fiscal impact is indeterminate without appropriations language—could range from negligible pilot funding to substantial unfunded mandate. The legislative process is being followed appropriately (committee referral), though the bill's \"other purposes\" language signals potential scope expansion. Benefits would accrue to rural families and employers, but cost distribution depends entirely on final funding mechanisms not yet specified.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4628, 119th Congress (2026)",
-      "Senate Legislative Calendar, May 2026",
-      "USDA Rural Development Reports",
-      "Center for American Progress, Rural Childcare Data"
-    ]
-  },
-  {
-    "id": 350,
-    "sourceId": "cg:119-S-564",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/564?format=json",
-    "branch": "Congress",
-    "date": "Jun 9",
-    "dateISO": "2026-06-09",
-    "title": "S 564: Zuni Indian Tribe Water Rights Settlement Act of 2025",
-    "score": 32,
-    "snapshot": "S 564 settles a decades-long water rights dispute with the Zuni Pueblo, providing federal funding for water infrastructure in exchange for waiving future claims. The bill follows the established framework for tribal water settlements that balance historical obligations with practical development needs.",
-    "verdict": "// VERDICT: Resolves longstanding legal uncertainty through negotiated settlement while funding infrastructure improvements that serve both tribal and regional water security interests.",
-    "detail": "This settlement follows the model of successful tribal water compacts that have resolved protracted litigation while enabling concrete development. <strong>The bill trades federal infrastructure investment for certainty on water allocations, eliminating litigation risk that has deterred regional water planning for decades.</strong> Tribal water settlements typically demonstrate positive cost-benefit ratios by converting legal expenses into productive infrastructure. The negotiated approach respects tribal sovereignty while working within existing water law frameworks. Cost distribution appears equitable given the federal trust responsibility to tribes and the broader regional benefits of resolving allocation uncertainty. The main fiscal concern is ensuring adequate appropriations follow authorization, as some past settlements have suffered implementation delays due to funding gaps.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 564, 119th Congress",
-      "Senate Legislative Calendar No. 429",
-      "Congressional Record, June 2026",
-      "Federal water settlement precedents"
-    ]
-  },
-  {
-    "id": 351,
-    "sourceId": "cg:119-S-563",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/563?format=json",
-    "branch": "Congress",
-    "date": "Jun 9",
-    "dateISO": "2026-06-09",
-    "title": "S 563: Ohkay Owingeh Rio Chama Water Rights Settlement Act of 2025",
-    "score": 22,
-    "snapshot": "S 563 settles water rights disputes for the Ohkay Owingeh Pueblo in New Mexico, establishing quantified rights to Rio Chama water and funding infrastructure. The settlement avoids potentially decades of litigation while securing tribal water access and agricultural development.",
-    "verdict": "// VERDICT: The settlement quantifies tribal water rights, ends costly litigation, and funds infrastructure with reasonable federal investment backed by bipartisan support.",
-    "detail": "Water rights settlements represent pragmatic resolution of complex legal claims that would otherwise consume judicial resources for years. <strong>The Ohkay Owingeh settlement follows the established framework of over 30 tribal water settlements since 1978, trading absolute legal certainty for concrete infrastructure funding and defined water allocations.</strong> These settlements typically cost less than protracted litigation while delivering measurable benefits: agricultural water access, municipal supply reliability, and economic development capacity. The bill likely includes cost-sharing with state and local entities, standard in such agreements. Federal courts have recognized Pueblo water rights dating to time immemorial under the Winters Doctrine, making tribal victory in litigation probable but delayed. Settlement avoids uncertainty for all water users in the basin. Minor deductions reflect incomplete information on total federal outlay and long-term operation costs, though comparable settlements (Navajo, Taos Pueblo) show reasonable fiscal profiles.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -0.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 563, 119th Congress",
-      "Senate Legislative Calendar No. 428, June 2026",
-      "Winters v. United States, 207 U.S. 564 (1908)",
-      "Congressional Research Service, Tribal Water Settlements"
     ]
   }
 ]
