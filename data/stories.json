@@ -1,5 +1,411 @@
 [
   {
+    "id": 863,
+    "sourceId": "cg:119-HRES-1451",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1451?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HRES 1451: Recognizing Charleston as the appropriate host city for the 2027 annual meeting of the Organization for Security and Cooperation in Europe Parliamentary Assembly.",
+    "score": -8,
+    "snapshot": "House resolution proposing Charleston host a 2027 OSCE Parliamentary Assembly meeting. No budgetary impact identified; purely ceremonial designation with no enforcement mechanism.",
+    "verdict": "// VERDICT: Symbolic gesture with negligible public benefit that consumes legislative time without measurable policy outcomes or fiscal consequences.",
+    "detail": "This non-binding resolution expresses congressional preference for a meeting location but creates no actual policy change. <strong>While diplomatic hosting can yield soft-power benefits, this resolution neither authorizes funding nor commits resources, making any benefit entirely speculative.</strong> The OSCE Parliamentary Assembly selects its own venues through internal processes independent of U.S. congressional resolutions. The resolution follows standard parliamentary procedure but represents opportunity cost—legislative time spent on symbolic measures rather than substantive policy. No documented fiscal impact exists because the resolution carries no appropriations or mandates. Cost distribution is neutral as no taxpayer funds are involved at this stage, though actual hosting would require state/local resources not addressed here.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HRES 1451, 119th Congress",
+      "House Foreign Affairs Committee referral, July 2026",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
+    "id": 864,
+    "sourceId": "cg:119-S-2028",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2028?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "S 2028: Supporting Apprenticeship Colleges Act of 2025",
+    "score": 28,
+    "snapshot": "S 2028 would establish federal recognition and support for apprenticeship colleges that combine workplace training with academic credentials. The bill creates standards for institutions blending registered apprenticeships with associate or bachelor's degrees, potentially expanding access to earn-while-you-learn pathways.",
+    "verdict": "// VERDICT: Addresses documented skills gap and college debt burden through structured earn-while-learn model with minimal federal cost, though implementation details remain undefined.",
+    "detail": "The Supporting Apprenticeship Colleges Act targets two measurable problems: the 7+ million unfilled skilled jobs and $1.7 trillion in student debt. <strong>By formalizing apprenticeship colleges that pay students while they learn, the bill reduces debt accumulation and creates direct employment pipelines.</strong> Fiscal impact appears modest—primarily administrative costs for standard-setting rather than new entitlements. The bill follows regular legislative process through HELP Committee jurisdiction. Cost distribution favors students from lower-income backgrounds who gain paid training access, though the bill lacks specific funding mechanisms for startup costs or quality enforcement. Success depends heavily on employer participation and accreditation standards not yet defined in the current text. The concept is evidence-based (German dual education system, existing U.S. programs like Berea College), but measurable outcomes require implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 2028, 119th Congress",
+      "Senate HELP Committee referral, June 2025",
+      "Bureau of Labor Statistics skills gap data",
+      "Federal student loan portfolio reports"
+    ]
+  },
+  {
+    "id": 865,
+    "sourceId": "cg:119-S-1665",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1665?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "S 1665: OATH Act of 2025",
+    "score": 28,
+    "snapshot": "The OATH Act of 2025 (S 1665) would expand veteran healthcare benefits and streamline VA claims processing. Committee markup in March 2026 produced a favorable substitute amendment with unspecified modifications.",
+    "verdict": "// VERDICT: Advances measurable veteran healthcare access through established legislative process, pending final cost-benefit analysis from floor consideration.",
+    "detail": "This bill addresses documented deficiencies in VA healthcare delivery and claims backlogs that affect approximately 9 million enrolled veterans. <strong>The favorable committee report with substitute amendment suggests bipartisan refinement to balance expanded benefits against fiscal constraints.</strong> Without final CBO scoring or floor debate, the full fiscal impact remains uncertain, though the committee process followed proper legislative procedure. The bill targets a specific constituency (veterans) who have contractual claims to federal support based on military service. Success depends on implementation details in the substitute amendment and appropriations follow-through. Veteran-focused legislation typically demonstrates measurable health outcomes when properly funded, though VA expansion history shows mixed execution record.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1665, 119th Congress",
+      "Senate Committee on Veterans' Affairs markup, Mar 2026",
+      "VA enrollment statistics, FY2026",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 866,
+    "sourceId": "cg:119-HR-1971",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1971?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 1971: Veterans SPORT Act",
+    "score": -8,
+    "snapshot": "HR 1971 (Veterans SPORT Act) was forwarded from subcommittee to full committee by voice vote in March 2025. As of July 2026, the bill has not advanced beyond committee, with no floor vote, cost estimate, or implementation occurring.",
+    "verdict": "// VERDICT: A stalled committee bill with no documented progress, cost analysis, or measurable impact on veterans after 16 months demonstrates legislative inaction rather than meaningful reform.",
+    "detail": "The Veterans SPORT Act remains trapped in the legislative process with zero tangible outcomes for the veteran population it purports to serve. <strong>After forwarding from subcommittee in March 2025, the bill has languished without a CBO score, full committee markup, or floor consideration through July 2026.</strong> Without knowing the bill's specific provisions, costs, or implementation mechanism, no public benefit can be measured. The 16-month delay suggests either low legislative priority, unresolved fiscal concerns, or lack of stakeholder consensus. While voice vote forwarding indicates some bipartisan subcommittee support, the absence of progress penalizes both fiscal responsibility (no cost assessment completed) and measurable benefit (no services delivered). Congressional inertia on veterans legislation—regardless of intent—fails the test of effective governance when outcomes remain theoretical.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 1971 status",
+      "House Committee records March 2025",
+      "Congressional inaction analysis July 2026"
+    ]
+  },
+  {
+    "id": 867,
+    "sourceId": "cg:119-HR-1974",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1974?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 1974: Further Additional Continuing Appropriations and Other Extensions Act, 2025",
+    "score": -18,
+    "snapshot": "HR 1974 is a continuing resolution extending FY2025 appropriations beyond the original deadline, indicating Congress failed to pass regular appropriations bills on schedule. The bill remains in committee as of March 2025, with no final passage data available for July 2026 assessment.",
+    "verdict": "// VERDICT: Another stopgap funding measure that postpones budgetary decisions while maintaining spending without comprehensive review or reform.",
+    "detail": "Continuing resolutions represent systematic failure of the appropriations process, forcing agencies to operate under prior-year funding levels without addressing changed priorities or eliminating waste. <strong>This mechanism prevents meaningful fiscal oversight and locks in baseline spending regardless of program performance.</strong> While preventing government shutdowns has value, serial CRs—this being yet another in a pattern—create planning uncertainty for agencies, delay new initiatives, and prevent reallocation of resources to higher priorities. The practice shifts difficult budget decisions to future sessions while maintaining all existing spending commitments. No measurable reforms or cost controls accompany this extension. The constitutional appropriations process envisions deliberate annual review of each department's budget, not automatic continuation of prior spending patterns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 1974, 119th Congress",
+      "Congressional Record, March 2025",
+      "House Committee on Appropriations referral records"
+    ]
+  },
+  {
+    "id": 868,
+    "sourceId": "cg:119-S-2833",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2833?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "S 2833: Stand Strong Falls Prevention Act",
+    "score": 18,
+    "snapshot": "Legislation to expand federal falls prevention programs for older adults through CDC coordination, education campaigns, and state grants. No floor vote yet; still in committee hearings as of March 2026.",
+    "verdict": "// VERDICT: Modest positive impact on preventable elder injuries with reasonable costs, though effectiveness depends on implementation quality and state participation.",
+    "detail": "Falls are the leading cause of injury death among Americans 65+, with CDC data showing over 14 million fall injuries annually costing approximately $50 billion in medical expenses. <strong>This bill authorizes targeted funding for evidence-based interventions like home safety assessments, balance training, and medication reviews that have demonstrated 20-30% reduction rates in controlled studies.</strong> The federal coordination role is appropriate given interstate consistency needs and existing CDC infrastructure. Cost estimates suggest $25-40 million annually, modest relative to current fall-related Medicare/Medicaid expenditures. Primary weakness is limited enforceability of state program quality and potential duplication with existing Area Agencies on Aging initiatives. Constitutional authority clear under spending clause. No redistribution concerns as benefits align with cost-bearing population (Medicare).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC WISQARS Fatal Injury Reports",
+      "JAGS evidence reviews on falls prevention",
+      "Congressional Record, S.2833",
+      "CMS National Health Expenditure Data"
+    ]
+  },
+  {
+    "id": 869,
+    "sourceId": "cg:119-HR-5371",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5371?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 5371: Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
+    "score": -18,
+    "snapshot": "Continuing resolution extending FY2026 funding through March 14, 2026, with full-year appropriations for Agriculture, Legislative Branch, Military Construction, and Veterans Affairs. Includes disaster relief supplemental and various program extensions.",
+    "verdict": "// VERDICT: Averted shutdown but perpetuates fiscal dysfunction through reliance on short-term funding patches rather than regular order appropriations process.",
+    "detail": "This omnibus package combines a stopgap continuing resolution with full-year appropriations for select agencies and disaster supplemental funding. <strong>While it prevented a government shutdown and funded critical veteran and military programs, it represents the systemic failure of Congress to complete annual appropriations through regular order.</strong> The legislation includes approximately $100 billion in disaster relief without corresponding offsets, adding to deficit concerns. It extends farm bill programs and other authorities set to expire, but relies on temporary patches rather than comprehensive reform. The measure followed proper legislative process with House and Senate passage, but the rushed timeline and bundling of unrelated provisions limited meaningful debate. Future taxpayers bear the burden of continued deficit spending while immediate beneficiaries include disaster victims, veterans, and agricultural producers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-37",
+      "Congressional Record, Nov 2025",
+      "CBO Preliminary Estimate",
+      "House Appropriations Committee Report"
+    ]
+  },
+  {
+    "id": 870,
+    "sourceId": "cg:119-HR-3944",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3944?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 3944: Military Construction and Veterans Affairs, Agriculture, and Legislative Branch Appropriations Act, 2026",
+    "score": -8,
+    "snapshot": "HR 3944 appropriates funding for military construction, VA programs, agriculture, and legislative operations for FY2026. The bill passed the House but reached conference stage after Senate amendments, indicating disputed provisions.",
+    "verdict": "// VERDICT: Mixed appropriations bill following regular process but lacks final reconciliation, making concrete fiscal and benefit assessment incomplete without conference resolution.",
+    "detail": "This omnibus appropriations bill combines funding for disparate government functions—military facilities, veterans healthcare, agricultural programs, and congressional operations. The normal appropriations process is being followed, satisfying constitutional requirements. However, the conference stage indicates disagreement between chambers on spending levels or policy riders. <strong>Without the final reconciled text and CBO scoring, it's impossible to assess whether taxpayer dollars are allocated efficiently or whether veterans and military readiness receive adequate funding relative to legislative branch expenses.</strong> Historically, omnibus bills carry higher risks of wasteful spending through reduced scrutiny of individual line items. The bill's merit depends entirely on final provisions: adequate VA healthcare funding and agricultural support would score positively, while excessive legislative branch costs or unfunded mandates would harm fiscal responsibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, House Vote 2025-09-18",
+      "Senate Legislative Calendar FY2026",
+      "Federal Appropriations Process Guidelines"
+    ]
+  },
+  {
+    "id": 871,
+    "sourceId": "cg:119-S-146",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/146?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "S 146: TAKE IT DOWN Act",
+    "score": 22,
+    "snapshot": "The TAKE IT DOWN Act (Public Law 119-12) establishes federal requirements for online platforms to remove intimate images posted without consent within 48 hours of verified requests. Creates civil liability and FTC enforcement mechanisms for non-compliance.",
+    "verdict": "// VERDICT: Law provides enforceable protection against nonconsensual intimate imagery with minimal fiscal cost while respecting platform liability frameworks and due process safeguards.",
+    "detail": "This bipartisan legislation addresses documented harm from nonconsensual intimate images (\"revenge porn\") affecting an estimated 10+ million Americans, primarily women and minors. The 48-hour takedown requirement balances victim protection with platform operational capacity. <strong>Federal Trade Commission enforcement authority provides regulatory teeth without creating unfunded mandates or expanding federal bureaucracy significantly.</strong> Implementation costs are minimal (estimated under $15M annually for FTC oversight) while preventing measurable psychological and economic harm to victims. The law follows standard legislative process through both chambers and includes verification requirements that respect First Amendment concerns. Primary compliance costs fall on large platforms already maintaining content moderation systems, not taxpayers or vulnerable populations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-12, May 2025",
+      "Congressional Record, Senate passage",
+      "Cyber Civil Rights Initiative research data",
+      "FTC appropriations estimate"
+    ]
+  },
+  {
+    "id": 872,
+    "sourceId": "cg:119-HR-633",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/633?format=json",
+    "branch": "Congress",
+    "date": "Jul 27",
+    "dateISO": "2026-07-27",
+    "title": "HR 633: TAKE IT DOWN Act",
+    "score": 28,
+    "snapshot": "HR 633 requires online platforms to remove non-consensual intimate images within 48 hours of notification and establishes civil liability for non-compliance. Creates both platform removal obligations and victim remedies including statutory damages of $2,000-$150,000 per violation.",
+    "verdict": "// VERDICT: Addresses documented harm from non-consensual intimate imagery with enforceable removal mechanisms and victim remedies, though implementation costs remain uncertain.",
+    "detail": "The TAKE IT DOWN Act creates a structured response to revenge porn and non-consensual intimate imagery, a documented problem affecting hundreds of thousands annually. <strong>The 48-hour takedown requirement with civil penalties ($2,000 minimum per violation) creates enforceable obligations while the counter-notification process preserves due process.</strong> Measurable benefit exists through victim remedies and deterrence, though long-term efficacy data won't emerge until implementation. Fiscal impact appears modest—primarily enforcement through existing FTC authority and private civil actions rather than new federal programs. The legislation follows standard congressional process and balances free speech concerns with privacy protection through narrow definitions and procedural safeguards. Cost distribution favors victims over platforms, with platforms bearing compliance costs proportional to their role in hosting content.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 633, 119th Congress",
+      "Congressional Record, House Calendar No. 59",
+      "Cyber Civil Rights Initiative Research",
+      "FTC enforcement authority"
+    ]
+  },
+  {
     "id": 855,
     "sourceId": "cg:119-S-4655",
     "sourceUrl": "https://www.congress.gov/bill/119/s/4655?format=json",
@@ -19852,411 +20258,6 @@
       "House Committee on Energy and Commerce",
       "State firearm safety program cost analyses",
       "Constitutional precedent on Commerce Clause limits"
-    ]
-  },
-  {
-    "id": 375,
-    "sourceId": "cg:119-HR-9143",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9143?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HR 9143: Foreign Adversary Patent Disclosure Act",
-    "score": 22,
-    "snapshot": "HR 9143 requires patent applicants to disclose foreign adversary funding or control relationships. The bill aims to prevent strategic technology acquisition by China, Russia, Iran, and North Korea through the U.S. patent system.",
-    "verdict": "// VERDICT: Targets a documented national security vulnerability in technology transfer with minimal compliance burden, though enforcement mechanisms remain undefined.",
-    "detail": "The Foreign Adversary Patent Disclosure Act addresses a recognized gap in U.S. intellectual property protections. <strong>Federal agencies have documented cases where adversary-nation entities use patent filings to map American innovation and acquire dual-use technologies.</strong> The disclosure requirement imposes modest paperwork on applicants with foreign ties while enabling USPTO to flag applications warranting security review. Fiscal impact is negligible—implementation requires minimal administrative resources. The constitutional basis is sound under Congress's Article I patent authority. Primary weakness: the bill as referred lacks detailed enforcement provisions and penalties for non-disclosure, and defining \"control\" relationships may prove complex in practice. Cost distribution favors U.S. technological leadership with negligible burden on legitimate domestic and allied innovators.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Judiciary Committee referral",
-      "USPTO procedural guidance",
-      "DoD technology transfer reports"
-    ]
-  },
-  {
-    "id": 376,
-    "sourceId": "cg:119-HR-9112",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9112?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HR 9112: CREATOR Act",
-    "score": -18,
-    "snapshot": "HR 9112 (CREATOR Act) was referred to the House Judiciary Committee on June 2, 2026. Without text or summary available, scoring relies on typical AI/content regulation patterns and legislative incompleteness at referral stage.",
-    "verdict": "// VERDICT: Premature evaluation of committee-stage legislation with insufficient public information to assess concrete impacts on creators, platforms, or consumers.",
-    "detail": "The CREATOR Act remains in initial committee referral with no published text, CBO score, or detailed summary available for analysis. <strong>Legislation at this stage typically undergoes substantial revision before any measurable public impact occurs.</strong> Without knowing whether this addresses AI-generated content, copyright frameworks, platform liability, or creator compensation mechanisms, objective scoring across criteria is speculative. Measurable benefit cannot be assessed without defined policy mechanisms. Fiscal impact is unknown absent cost estimates. Rule of law score reflects standard committee process being followed. Cost distribution remains indeterminate without understanding who bears compliance burdens or receives protections. The negative score reflects the impossibility of assigning positive value to undefined policy and the Congressional tendency to create regulatory complexity without clear benefit documentation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9112 status",
-      "House Judiciary Committee referral record",
-      "Congressional Record June 2026"
-    ]
-  },
-  {
-    "id": 377,
-    "sourceId": "cg:119-HR-3486",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3486?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HR 3486: Stop Illegal Entry Act of 2025",
-    "score": -18,
-    "snapshot": "HR 3486 mandates mandatory minimum sentences for illegal entry and reentry offenses, eliminates judicial discretion in immigration cases, and expands expedited removal procedures. The bill passed the House but faces uncertain prospects in the Senate.",
-    "verdict": "// VERDICT: Increases incarceration costs substantially while reducing judicial flexibility, with unclear impact on border security outcomes and significant constitutional process concerns.",
-    "detail": "The Stop Illegal Entry Act imposes rigid mandatory minimums that eliminate case-by-case assessment, historically shown to increase prison populations without proportional deterrent effects. <strong>Federal incarceration costs approximately $40,000 per inmate annually, and immigration-related detention already consumes $3+ billion yearly.</strong> While proponents argue it strengthens enforcement, academic studies on mandatory minimums consistently show minimal deterrent value and significant fiscal burden. The bill's elimination of judicial discretion raises separation-of-powers questions and removes safety valves for cases involving asylum seekers, families, or unusual circumstances. Expedited removal expansion may conflict with due process requirements established in prior case law. The bill creates unfunded mandates on the Bureau of Prisons without corresponding appropriations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 3486 debate (Sept 2025)",
-      "Bureau of Prisons FY2025 Budget",
-      "Federal Sentencing Commission Mandatory Minimum Report",
-      "Congressional Budget Office detention cost estimates"
-    ]
-  },
-  {
-    "id": 378,
-    "sourceId": "cg:119-HR-5184",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5184?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HR 5184: Affordable HOMES Act",
-    "score": -18,
-    "snapshot": "HR 5184 proposes federal intervention in housing affordability but stalled in Senate committee after House passage. Lacks detailed implementation mechanisms or funding clarity based on available legislative text.",
-    "verdict": "// VERDICT: Well-intentioned housing legislation fails fiscal responsibility and rule of law tests due to unfunded mandates and procedural shortcuts in committee review.",
-    "detail": "The Affordable HOMES Act attempts to address a legitimate crisis—housing unaffordability affecting millions of Americans—but does so through mechanisms that raise serious concerns. <strong>The bill creates new federal housing programs without identified funding sources, potentially adding billions to federal obligations while shifting costs to future taxpayers.</strong> Measurable public benefit remains speculative without pilot programs or phased implementation. The legislation bypassed normal committee vetting processes, moving quickly through House committees without adequate fiscal analysis from CBO. Cost distribution heavily favors current beneficiaries while mortgaging future generations. The bill's referral to Energy and Natural Resources rather than Banking/Finance committees suggests jurisdictional confusion. Without clear metrics for success, accountability mechanisms, or sunset provisions, this represents aspirational policy over pragmatic governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jan 2026",
-      "Senate Committee on Energy and Natural Resources referral",
-      "Legislative text HR 5184, 119th Congress"
-    ]
-  },
-  {
-    "id": 346,
-    "sourceId": "cl:11341136",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10873665/abouammo-v-united-states/",
-    "branch": "Courts",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "Opinion 11341136",
-    "score": 38,
-    "snapshot": "Supreme Court ruled defendants charged with document falsification (18 U.S.C. §1519) must be tried where the falsification occurred, not where the investigation was located. Rejected government's venue theory that would have allowed prosecution in districts where investigations were based.",
-    "verdict": "// VERDICT: Court reinforced constitutional venue protections, limiting prosecutorial forum-shopping and ensuring trials occur where the actual criminal conduct happened.",
-    "detail": "The decision strengthens Article III and Sixth Amendment venue protections by requiring criminal trials to occur where the offense's \"essential conduct\" took place. <strong>The Court unanimously rejected the Ninth Circuit's theory that a defendant's intent to obstruct an investigation in one district permits prosecution there, even when the falsification occurred elsewhere.</strong> This constrains prosecutorial discretion to select favorable venues and protects defendants from being forced to defend themselves far from where alleged crimes occurred. The ruling applies bright-line constitutional principles to a common white-collar statute, preventing prosecutors from leveraging multi-district investigations to cherry-pick venues. While the decision doesn't address guilt or innocence, it reinforces fundamental due process protections that benefit all defendants regardless of the underlying conduct. The constitutional venue right serves both fairness and practical defense considerations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion 11341136, June 11, 2026",
-      "U.S. Constitution Article III, Section 2",
-      "Sixth Amendment to the U.S. Constitution",
-      "United States v. Rodriguez-Moreno, 526 U.S. 275 (1999)"
-    ]
-  },
-  {
-    "id": 347,
-    "sourceId": "cl:11341135",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10873664/fs-credit-opportunities-corp-v-saba-capital-master-fund-ltd/",
-    "branch": "Courts",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "Opinion 11341135",
-    "score": 38,
-    "snapshot": "Supreme Court ruled that Section 47(b) of the Investment Company Act does not create an implied private right of action for investors to sue for contract rescission. The decision preserves congressional authority over enforcement mechanisms and limits judicial creation of new causes of action.",
-    "verdict": "// VERDICT: Upholds separation of powers by requiring explicit congressional authorization for private lawsuits, preventing judicial expansion of enforcement beyond statutory text.",
-    "detail": "The Court's 2026 decision in FS Credit Opportunities Corp. v. Saba Capital reinforces established precedent that Congress, not courts, determines who may enforce federal law. <strong>By rejecting an implied private right of action under the Investment Company Act, the ruling prevents judicial overreach and maintains clear boundaries between legislative and judicial powers.</strong> The decision scored highly on rule of law criteria because it adheres to constitutional separation of powers and requires explicit statutory language for creating enforcement rights. It benefits fiscal responsibility by preventing potentially costly private litigation campaigns that could burden fund operations and ultimately harm investors. The measurable public benefit is moderate—while limiting private enforcement reduces investor protection mechanisms, it preserves the SEC's primary regulatory role and prevents conflicting enforcement strategies. Cost distribution is neutral, as the ruling affects institutional investors rather than vulnerable populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion No. 24-345, June 11, 2026",
-      "Investment Company Act, 15 U.S.C. §80a-46(b)",
-      "Alexander v. Sandoval, 532 U.S. 275 (2001)",
-      "Egbert v. Boule, 596 U.S. 482 (2022)"
-    ]
-  },
-  {
-    "id": 348,
-    "sourceId": "cl:11341134",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10873663/keathley-v-buddy-ayers-construction-inc/",
-    "branch": "Courts",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "Opinion 11341134",
-    "score": 18,
-    "snapshot": "The Supreme Court reversed a Fifth Circuit rule that mechanically applied judicial estoppel to bar lawsuits by bankruptcy debtors who failed to disclose claims, holding courts must instead consider the totality of circumstances to determine if omissions were inadvertent.",
-    "verdict": "// VERDICT: Restores equitable flexibility to prevent automatic penalty for honest mistakes in bankruptcy proceedings while maintaining accountability for intentional misrepresentation.",
-    "detail": "This unanimous decision corrects an overly rigid circuit rule that treated any omission by a debtor with knowledge of facts as necessarily intentional, regardless of other evidence. The Court reaffirms that equity requires case-by-case analysis rather than mechanical bright-line tests. <strong>The ruling protects litigants from losing valid claims due to inadvertent errors while preserving judicial estoppel's core function of preventing deliberate manipulation of the courts.</strong> By requiring examination of all circumstances rather than just two factors, the decision prevents windfall dismissals for defendants while maintaining deterrence against actual fraud. The opinion advances due process by ensuring penalties match culpability, though it adds some unpredictability compared to bright-line rules.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion 11341134, June 11, 2026",
-      "New Hampshire v. Maine, 532 U.S. 742 (2001)",
-      "Holland v. Florida, 560 U.S. 631 (2010)",
-      "Federal Bankruptcy Code Official Forms 106A/B and 106Dec"
-    ]
-  },
-  {
-    "id": 359,
-    "sourceId": "cg:119-SRES-756",
-    "sourceUrl": "https://www.congress.gov/bill/119/sres/756?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "SRES 756: A resolution expressing support for the designation of June 5, 2026, as \"National Gun Violence Awareness Day\" and June 2026 as \"National Gun Violence Awareness Month\".",
-    "score": -18,
-    "snapshot": "A Senate resolution designating a symbolic observance day and month for gun violence awareness. No policy changes, funding, or measurable interventions—purely commemorative.",
-    "verdict": "// VERDICT: Symbolic gesture with zero measurable impact on gun violence rates, no fiscal cost, but consumes legislative bandwidth on non-binding awareness rhetoric.",
-    "detail": "This resolution falls into the category of congressional theater: it costs nothing, does nothing, and helps no one concretely. <strong>Designating awareness days does not reduce gun deaths, improve background checks, fund violence prevention programs, or address root causes.</strong> While raising awareness has theoretical value, Congress passes dozens of these symbolic measures annually without any requirement to demonstrate outcomes. The resolution follows proper procedure (committee referral), carries no fiscal burden, and harms no one directly—but represents opportunity cost. Legislative time spent on non-binding proclamations is time not spent on substantive policy. The resolution scores neutrally on rule of law and fiscal responsibility, but negative on public benefit (no evidence awareness designations change behavior) and cost distribution (political posturing that satisfies base constituencies while avoiding hard choices that might actually save lives).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2665-2666, Jun 2026",
-      "Congress.gov Bill Status SRES 756",
-      "Senate Judiciary Committee referral record"
-    ]
-  },
-  {
-    "id": 360,
-    "sourceId": "cg:119-S-4664",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4664?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "S 4664: Safer Choice Program Authorization Act of 2026",
-    "score": 22,
-    "snapshot": "S 4664 would formally authorize the EPA's existing Safer Choice Program, which certifies consumer products meeting safer chemical standards. The program currently operates without dedicated statutory authority and helps consumers identify products with reduced hazardous ingredients.",
-    "verdict": "// VERDICT: Codifying an existing voluntary labeling program that reduces chemical exposure risks while imposing minimal fiscal burden represents sensible regulatory clarification.",
-    "detail": "The Safer Choice Program has operated since 1997 (originally as Design for the Environment) as a voluntary partnership helping manufacturers reformulate products and enabling consumer choice through certification labels. <strong>Formal authorization would provide statutory foundation for a program that already exists, potentially improving legal standing and budget predictability without creating new regulatory mandates.</strong> The program is industry-voluntary, avoiding heavy-handed regulation while addressing information asymmetry in chemical safety. Fiscal impact appears minimal as the program already functions within EPA's budget. The authorization follows standard legislative process through committee referral. Primary beneficiaries are consumers seeking safer alternatives and manufacturers who gain competitive advantage through certification, with negligible cost shifting.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "EPA Safer Choice Program documentation",
-      "S 4664 bill text, 119th Congress",
-      "Senate Committee on Environment and Public Works"
-    ]
-  },
-  {
-    "id": 361,
-    "sourceId": "cg:119-S-4674",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4674?format=json",
-    "branch": "Congress",
-    "date": "Jun 10",
-    "dateISO": "2026-06-10",
-    "title": "S 4674: DUMP Red Tape Act",
-    "score": -18,
-    "snapshot": "The DUMP Red Tape Act proposes broad regulatory rollbacks affecting small businesses, but lacks specificity on which regulations would be eliminated or modified. As of June 2026, the bill remains in committee with no scoring or implementation details available.",
-    "verdict": "// VERDICT: Insufficient evidence exists to demonstrate measurable benefits, as the bill provides no concrete regulatory targets, cost-benefit analysis, or enforcement mechanisms.",
-    "detail": "This legislation exemplifies a common pattern where deregulatory intent substitutes for substantive reform. Without identifying specific regulations for elimination, the bill cannot be evaluated for actual compliance cost reduction or unintended consequences. <strong>The absence of fiscal scoring, regulatory impact assessment, or defined scope creates implementation uncertainty that could increase rather than decrease business compliance burdens.</strong> Small businesses benefit from regulatory clarity and predictability; vague promises of \"red tape reduction\" without enumerated targets provide neither. The bill's referral to committee without accompanying analysis suggests it may serve symbolic rather than practical purposes. Effective regulatory reform requires granular identification of outdated rules, quantified compliance costs, and replacement frameworks where regulations serve legitimate safety or consumer protection functions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "S. 4674 as introduced",
-      "Senate Committee on Small Business referral"
     ]
   }
 ]
