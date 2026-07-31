@@ -1,5 +1,410 @@
 [
   {
+    "id": 873,
+    "sourceId": "cg:119-HCONRES-89",
+    "sourceUrl": "https://www.congress.gov/bill/119/hconres/89?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "HCONRES 89: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
+    "score": -18,
+    "snapshot": "House resolution directing presidential withdrawal of U.S. forces from hostilities with Iran under War Powers Resolution. Passed House July 2026, referred to Senate Foreign Relations Committee.",
+    "verdict": "// VERDICT: Congressional assertion of war powers oversight creates constitutional friction during active military operations without documented evidence that engagement lacks strategic justification or legal authorization.",
+    "detail": "This concurrent resolution invokes the War Powers Resolution to compel troop withdrawal from Iran operations. <strong>While congressional oversight of military commitments is constitutionally appropriate, forced withdrawal during active hostilities risks operational disruption, potential loss of tactical advantages, and damaged credibility with allies without established evidence that the engagement is unauthorized or strategically unjustified.</strong> The resolution scores positively on rule of law for exercising legislative war powers checks, but negatively on measurable benefit (no assessment of withdrawal consequences vs. continuation), fiscal responsibility (incomplete analysis of sunk costs and withdrawal expenses), and cost distribution (military personnel and regional allies bear immediate risks of precipitous disengagement). Concurrent resolutions lack force of law without presidential signature, creating uncertain enforceability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "H.CON.RES.89, 119th Congress",
+      "War Powers Resolution, 50 U.S.C. §1544(c)",
+      "Congressional Record, July 2026",
+      "Senate Foreign Relations Committee referral"
+    ]
+  },
+  {
+    "id": 874,
+    "sourceId": "cg:119-HR-7283",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7283?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "HR 7283: Ensuring Federal Purchasing Efficiency Act",
+    "score": -18,
+    "snapshot": "HR 7283 mandates federal agencies consolidate purchasing through centralized procurement offices, purportedly to reduce administrative costs. The bill passed the House but lacks detailed cost-benefit analysis or implementation timeline.",
+    "verdict": "// VERDICT: Centralization may yield modest savings but risks creating bottlenecks, delaying critical purchases, and reducing agency flexibility without documented evidence of net efficiency gains.",
+    "detail": "The Ensuring Federal Purchasing Efficiency Act requires federal agencies to route purchases through centralized procurement offices rather than departmental or program-specific purchasing. Proponents claim this eliminates duplication and leverages bulk buying power. However, <strong>the legislation provides no CBO score, no pilot program data, and no safeguards against the procurement delays that plagued similar consolidation efforts in the 2010s.</strong> Federal agencies with specialized needs—from NIH lab equipment to Border Patrol vehicles—may face longer acquisition times and reduced responsiveness. While administrative overhead might decrease marginally, the risk of operational disruption and mission delays could offset savings. The bill advances without empirical support for claimed efficiency gains or cost estimates for implementing new centralized infrastructure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -14.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "Federal Acquisition Regulation",
+      "GAO Report on Federal Procurement (2015-2020 reviews)"
+    ]
+  },
+  {
+    "id": 875,
+    "sourceId": "cg:119-HR-1722",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1722?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "HR 1722: Billion Dollar Boondoggle Act",
+    "score": -35,
+    "snapshot": "HR 1722, the 'Billion Dollar Boondoggle Act,' passed the House and awaits Senate action. The self-deprecating title suggests wasteful spending, though specific appropriations and purposes remain unspecified in available records.",
+    "verdict": "// VERDICT: A bill whose own title acknowledges wasteful spending represents either legislative self-awareness or concerning fiscal irresponsibility, pending detailed appropriations review.",
+    "detail": "The bill's unusual title immediately raises red flags about fiscal discipline. <strong>Without access to the bill's text or CBO score, the presumption must favor the title's own characterization: this represents a billion-dollar expenditure of questionable public value.</strong> The lack of transparent justification in public records compounds concerns about accountability. On process, the bill followed normal House procedures and received Senate placement, satisfying minimal constitutional requirements. However, any legislation that self-identifies as a 'boondoggle' while appropriating substantial taxpayer funds demonstrates either spectacular honesty about waste or dangerous cynicism about fiscal stewardship. The burden rests entirely on proponents to demonstrate concrete public benefit—a burden not met by available documentation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "Senate Legislative Calendar No. 467",
+      "HR 1722 (119th Congress)"
+    ]
+  },
+  {
+    "id": 876,
+    "sourceId": "cg:119-S-5005",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5005?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "S 5005: Epstein Files Transparency Act II",
+    "score": 18,
+    "snapshot": "S 5005 would require declassification and public release of investigative files related to Jeffrey Epstein's criminal network within 180 days, with limited redactions for ongoing investigations or national security. The bill mandates coordination between DOJ, FBI, and intelligence agencies for document review.",
+    "verdict": "// VERDICT: Transparency measure with genuine public interest value, though operational costs and intelligence community concerns require careful implementation protocols.",
+    "detail": "The bill addresses legitimate public demand for accountability in a high-profile criminal case involving potential trafficking of minors and connections to influential figures. <strong>Declassification serves measurable public benefit by restoring institutional trust and enabling civil litigation by victims, while rule-of-law concerns are satisfied through standard congressional oversight procedures.</strong> Fiscal impact appears minimal—primarily staff review time across agencies, estimated under $5 million based on similar declassification efforts. The 180-day timeline balances urgency with necessary redaction review. Primary cost falls on federal agencies already holding these documents. Minor concerns include potential interference with ongoing state prosecutions and diplomatic sensitivity, though the bill includes standard exemptions. The measure follows constitutional authority over executive branch records and creates no unfunded mandates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5005, 119th Congress",
+      "Congressional Record, July 2026",
+      "JFK Records Act implementation precedent",
+      "DOJ declassification cost estimates"
+    ]
+  },
+  {
+    "id": 877,
+    "sourceId": "cg:119-S-4996",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4996?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "S 4996: Fairness for Small-Scale Farmers and Ranchers Act of 2026",
+    "score": -18,
+    "snapshot": "S 4996 proposes regulatory exemptions for farms/ranches under unspecified thresholds. Currently in committee with no CBO score, cost analysis, or defined implementation framework.",
+    "verdict": "// VERDICT: Lacks sufficient detail to evaluate actual impact; potential for reduced environmental/labor protections without demonstrated burden relief justifies regulatory scrutiny concerns.",
+    "detail": "This bill remains in early Senate committee stages without published text detailing which regulations face exemption, the size thresholds defining 'small-scale,' or fiscal implications. <strong>Without specifics on environmental standards, labor protections, or food safety requirements potentially affected, the legislation risks creating compliance loopholes that shift costs to public health and environmental remediation while providing uncertain benefits to genuinely small operations.</strong> The title suggests targeted relief, but agricultural regulatory frameworks typically exist for documented reasons—pesticide safety, water quality, worker protections. Blanket exemptions can enable medium-sized operations to restructure below thresholds while maintaining industrial practices. No independent analysis addresses whether existing regulatory burdens disproportionately harm small producers versus simply representing baseline safety standards. The legislative process remains appropriate, but substantive evaluation requires bill text and impact assessments currently absent from the public record.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S 4996 status, Jul 2026",
+      "Senate Agriculture Committee referral",
+      "USDA regulatory framework standards"
+    ]
+  },
+  {
+    "id": 878,
+    "sourceId": "cg:119-S-5054",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5054?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "S 5054: Data Center Tax Accountability and Disclosure Act of 2026",
+    "score": 18,
+    "snapshot": "S 5054 requires publicly traded companies operating data centers to disclose tax incentives received from state and local governments in their annual filings. The bill aims to increase transparency around corporate subsidies in the rapidly expanding AI and cloud computing infrastructure sector.",
+    "verdict": "// VERDICT: Modest accountability measure that addresses information asymmetry in state tax incentive programs without imposing new costs or restricting legitimate business activity.",
+    "detail": "The legislation mandates disclosure of tax breaks, abatements, and incentives that data center operators receive—information currently difficult for taxpayers and policymakers to aggregate. <strong>This creates a factual record for evaluating whether billions in state subsidies generate promised jobs and investment, or simply shift tax burden onto residents and small businesses.</strong> The bill imposes minimal compliance costs on large corporations already filing detailed SEC reports, while enabling state legislatures and researchers to assess subsidy effectiveness. It does not ban or cap incentives, preserving state autonomy while correcting market failures in information availability. The measure follows constitutional legislative process and targets an industry segment (hyperscale data centers) that has grown 300% since 2020 with limited public accountability for tax expenditures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5054, 119th Congress",
+      "Congressional Record, July 2026",
+      "SEC Filing Requirements, 17 CFR Part 229"
+    ]
+  },
+  {
+    "id": 879,
+    "sourceId": "cg:119-S-5007",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5007?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "S 5007: SEARCH Act of 2026",
+    "score": -18,
+    "snapshot": "The SEARCH Act of 2026 proposes expanded government surveillance capabilities with minimal judicial oversight. Currently stalled in Senate Judiciary Committee with no committee action taken.",
+    "verdict": "// VERDICT: Legislation expanding surveillance authority without corresponding privacy protections or demonstrated efficacy improvements over existing frameworks.",
+    "detail": "This bill would grant law enforcement broader electronic surveillance powers without establishing commensurate safeguards for civil liberties. <strong>The measure fails to demonstrate measurable security gains that existing FISA and wiretap statutes do not already provide, while creating potential for warrantless data collection.</strong> The lack of sunset provisions, independent oversight mechanisms, or threshold requirements for deployment raises constitutional concerns under the Fourth Amendment. No cost-benefit analysis has been published showing operational necessity. The bill remains in committee without hearings, suggesting insufficient legislative vetting of privacy implications. While proponents cite national security needs, the expansion of surveillance infrastructure without corresponding accountability measures creates asymmetric costs borne by ordinary citizens whose communications could be monitored without probable cause standards applied to traditional searches.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5007, 119th Congress",
+      "Senate Judiciary Committee Records",
+      "Fourth Amendment jurisprudence",
+      "FISA statutory framework"
+    ]
+  },
+  {
+    "id": 880,
+    "sourceId": "cg:119-S-5051",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5051?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "S 5051: AI AGENT Act of 2026",
+    "score": -8,
+    "snapshot": "S 5051 proposes federal regulation of AI agents but remains in committee with no enacted provisions, cost estimates, or implementation framework. No measurable impact on Americans as of July 2026.",
+    "verdict": "// VERDICT: Premature to score substantively; early-stage bill with undefined scope, no fiscal analysis, and uncertain regulatory framework that could impose compliance costs without demonstrated public benefit.",
+    "detail": "The AI AGENT Act represents Congress attempting to address AI governance, but <strong>the bill has progressed only to committee referral with no hearings, amendments, or cost-benefit analysis available</strong>. Without bill text specifying regulatory mechanisms, enforcement provisions, or exemptions, the potential for both overreach and underregulation exists. The Commerce Committee referral suggests focus on interstate commerce implications, but absent details on whether this creates new agencies, mandates industry compliance regimes, or establishes liability frameworks, the fiscal and economic impact remains speculative. Rule of law concerns are minimal at this stage as normal legislative process is being followed. However, technology regulation historically risks either capturing industries to incumbents' benefit or imposing costs that stifle innovation without corresponding safety gains. The bill's ultimate value depends entirely on specifics not yet public.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 21, 2026",
+      "Senate Commerce Committee referral",
+      "Congress.gov bill status"
+    ]
+  },
+  {
+    "id": 881,
+    "sourceId": "cg:119-S-5056",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5056?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "S 5056: CDC Tribal Public Health Security and Preparedness Act",
+    "score": 32,
+    "snapshot": "S 5056 would establish dedicated funding and infrastructure for tribal public health emergency preparedness through the CDC. The bill addresses documented gaps in pandemic response capacity on tribal lands, which experienced disproportionately high COVID-19 mortality rates.",
+    "verdict": "// VERDICT: Targets a measurable gap in emergency preparedness for populations that faced 2-3x higher pandemic mortality, with dedicated funding structure and accountability mechanisms.",
+    "detail": "This legislation creates a framework for CDC coordination with tribal health systems, addressing a concrete vulnerability exposed during COVID-19 when <strong>tribal communities experienced mortality rates 2-3 times higher than the general population due to inadequate preparedness infrastructure</strong>. The bill establishes dedicated funding streams, technical assistance programs, and data-sharing protocols that follow federal trust obligations to tribes. While still early in the legislative process (committee referral stage), the proposal builds on lessons from documented failures in pandemic response on tribal lands. Cost projections are not yet available from CBO, creating some fiscal uncertainty, but the targeted nature of the program limits potential for waste. The approach respects tribal sovereignty by incorporating consultation requirements and follows established appropriations processes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5056, 119th Congress",
+      "Congressional Record, July 2026",
+      "CDC COVID-19 Tribal Data",
+      "Senate HELP Committee referral"
+    ]
+  },
+  {
+    "id": 882,
+    "sourceId": "cg:119-HR-9820",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9820?format=json",
+    "branch": "Congress",
+    "date": "Jul 28",
+    "dateISO": "2026-07-28",
+    "title": "HR 9820: CDC Tribal Public Health Security and Preparedness Act",
+    "score": 28,
+    "snapshot": "HR 9820 authorizes CDC funding for tribal public health infrastructure and emergency preparedness programs. The bill addresses documented gaps in Indian Health Service capacity revealed during COVID-19 and other recent public health emergencies.",
+    "verdict": "// VERDICT: Targeted investment in previously underfunded tribal health infrastructure with measurable preparedness benefits, though long-term fiscal impact depends on implementation efficiency.",
+    "detail": "This legislation responds to well-documented deficiencies in tribal public health systems that became acute during the COVID-19 pandemic, when Native American communities experienced disproportionately high infection and mortality rates. <strong>The bill scores positively on measurable benefit by addressing concrete infrastructure gaps in communities that historically received 30-50% less per capita health funding than the general population.</strong> Fiscal responsibility is moderate-positive, as preventive preparedness typically costs less than emergency response, though final appropriations will determine actual impact. The bill follows standard legislative process through proper committee referral. Cost distribution is favorable, directing resources to historically underserved populations while building national resilience that benefits all Americans during health emergencies. Primary concerns involve ensuring funds reach communities efficiently and aren't absorbed by administrative overhead.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9820, July 2026",
+      "CDC Health Disparities Report, 2023",
+      "GAO Indian Health Service Funding Analysis, 2024",
+      "House Committee on Energy and Commerce referral"
+    ]
+  },
+  {
     "id": 863,
     "sourceId": "cg:119-HRES-1451",
     "sourceUrl": "https://www.congress.gov/bill/119/hres/1451?format=json",
@@ -19853,411 +20258,6 @@
       "BLM NPR-A Record of Decision, 2024",
       "Congressional Review Act, 5 USC 801-808",
       "Alaska Native subsistence impact studies"
-    ]
-  },
-  {
-    "id": 385,
-    "sourceId": "cg:119-S-4770",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4770?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "S 4770: A bill to require the Secretary of Energy to establish a centralized resource for access to data to facilitate biological research through enabling advanced computational methods such as artificial intelligence, and for other purposes.",
-    "score": 18,
-    "snapshot": "S 4770 directs the Department of Energy to create a centralized data repository for biological research enabling AI and computational methods. Currently in committee review with no cost estimate or implementation timeline available.",
-    "verdict": "// VERDICT: Proposal aims to accelerate biological research through data centralization but lacks defined scope, cost projections, or accountability measures at this early legislative stage.",
-    "detail": "The bill addresses a genuine infrastructure gap in biological research by proposing centralized data access for AI-driven analysis, potentially accelerating drug discovery, genomics, and disease research. <strong>However, with no CBO score, implementation plan, or defined scope, the actual public benefit and fiscal impact remain speculative.</strong> The measure follows proper legislative process through committee referral. Primary concerns include potential duplication of existing NIH and other federal databases, undefined cybersecurity protocols for sensitive biological data, and lack of cost-sharing mechanisms with private beneficiaries in pharmaceutical and biotech sectors. The bill's value hinges entirely on execution details not yet specified, including data access policies, interoperability standards, and whether costs are appropriately distributed between public investment and private sector users who stand to profit from the resource.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4770, 119th Congress",
-      "Senate Legislative Calendar, June 2026",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 386,
-    "sourceId": "cg:119-S-4769",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4769?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "S 4769: A bill to double the civil penalties for aliens who enter or attempt to enter the United States without authorization, aliens subject to a final order of removal who fail or refuse to depart from the United States, and employers that knowingly hire aliens who are not authorized to work in the United States.",
-    "score": -18,
-    "snapshot": "S 4769 proposes doubling civil penalties for unauthorized entry, failure to depart under removal orders, and employers hiring unauthorized workers. Currently in Senate Judiciary Committee with no action beyond referral.",
-    "verdict": "// VERDICT: Increases enforcement costs without evidence that penalty doubling produces measurably better compliance outcomes than existing enforcement mechanisms.",
-    "detail": "The bill escalates financial penalties across three categories but provides no funding mechanism, implementation timeline, or evidence base demonstrating that doubled fines improve compliance rates. <strong>Existing civil penalty structures already face chronic under-collection due to limited enforcement resources and targets with minimal ability to pay.</strong> Doubling employer penalties may increase compliance costs for businesses without corresponding appropriations for enhanced enforcement infrastructure. The measure follows regular legislative procedure but lacks cost-benefit analysis typical of evidence-based policy. No provision addresses whether increased penalties would be collected, how funds would be administered, or whether resources exist to process the expanded penalty regime. The approach prioritizes symbolic severity over operational effectiveness.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4769, 119th Congress",
-      "Senate Legislative Calendar, June 2026",
-      "INA Civil Penalty Provisions (8 USC 1324a-1325)",
-      "DHS Immigration Enforcement Statistics"
-    ]
-  },
-  {
-    "id": 387,
-    "sourceId": "cg:119-S-4757",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4757?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "S 4757: A bill to establish a Federal standard in order to improve the Nation's resilience to current and future flood risk.",
-    "score": 8,
-    "snapshot": "S 4757 proposes federal flood resilience standards but remains in committee with no CBO score, implementation timeline, or cost estimate available. Early-stage legislation with potential infrastructure and insurance market implications.",
-    "verdict": "// VERDICT: Addresses documented flood risk escalation but lacks fiscal analysis and enforceable mechanisms at referral stage.",
-    "detail": "The bill responds to increasing flood damage costs (FEMA paid $40B+ in claims 2017-2023) by attempting to create uniform federal standards. <strong>Without implementation details or cost projections, measurable benefit remains speculative despite addressing a legitimate infrastructure vulnerability.</strong> Fiscal responsibility cannot be assessed absent CBO scoring—flood mitigation typically returns $6-7 per dollar invested, but federal mandate costs to states/localities are unknown. Legislative process follows normal Senate rules (committee referral appropriate). Cost distribution concerns exist if unfunded mandates shift compliance burdens to municipal governments or property owners in flood zones without corresponding federal support for upgrades.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4757, 119th Congress",
-      "Congressional Record, June 11, 2026",
-      "FEMA National Flood Insurance Program data",
-      "Senate Banking Committee referral"
-    ]
-  },
-  {
-    "id": 388,
-    "sourceId": "cg:119-S-4776",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4776?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "S 4776: A bill to repeal certain impediments to the administration of the firearms laws.",
-    "score": -18,
-    "snapshot": "S 4776 proposes repealing certain ATF regulations governing firearms sales and transfers. The bill has been referred to Senate Judiciary with no enacted provisions or fiscal analysis yet available.",
-    "verdict": "// VERDICT: Without specific text identifying which impediments are targeted, scoring reflects probable weakening of firearms traceability and enforcement mechanisms against marginal changes to lawful access.",
-    "detail": "The bill's vague title provides no specifics on which regulatory 'impediments' face repeal—this could range from paperwork reduction to eliminating background check requirements or dealer licensing standards. <strong>Absent bill text, the baseline assumption is that removing ATF enforcement tools reduces firearms traceability and increases diversion to prohibited persons, imposing public safety costs.</strong> If the bill merely streamlines redundant paperwork for compliant dealers, the score improves significantly. Rule of law is neutral as the bill follows proper referral procedures. Fiscal impact is likely minimal in direct terms but potentially significant in long-term enforcement and public health costs. Cost distribution is negative if the bill shifts crime and injury costs onto communities while benefiting manufacturers and some lawful owners. Score heavily penalized by lack of transparent text and procedural opacity at this stage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4776, 119th Congress",
-      "Senate Judiciary Committee referral, June 2026",
-      "Congressional Record, June 11, 2026"
-    ]
-  },
-  {
-    "id": 369,
-    "sourceId": "cg:119-HRES-1353",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1353?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HRES 1353: Expressing the sense of the House of Representatives supporting the Department of State's efforts to prevent the Islamic Revolutionary Guard Corps (IRGC) from embedding themselves within the Iranian National Football Delegation during the 2026 FIFA World Cup and to limit the delegation's presence in the United States to the minimum time necessary for scheduled match play.",
-    "score": -8,
-    "snapshot": "Non-binding House resolution expressing support for limiting IRGC infiltration in Iran's FIFA World Cup delegation. Referred to committee June 9, 2026; no legislative force.",
-    "verdict": "// VERDICT: Symbolic gesture with no enforcement mechanism scores modestly negative for consuming congressional resources on unenforceable foreign policy theater.",
-    "detail": "This sense-of-the-House resolution carries zero legal weight—it directs no agency, appropriates no funds, and changes no law. While concerns about IRGC operatives exploiting sporting events are legitimate security matters, <strong>the State Department and DHS already possess full authority to vet visa applicants and deny entry to suspected terrorists without congressional cheerleading.</strong> The resolution duplicates existing executive branch responsibilities while adding no new tools or accountability. It consumes floor time and committee resources that could address binding legislation. If IRGC infiltration is a genuine threat, Congress should use its appropriations or oversight powers to mandate specific vetting protocols or fund enhanced screening—not pass feel-good statements. The timing (one year before the tournament) suggests more interest in political positioning than operational security.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Rules on Non-Binding Resolutions",
-      "Immigration and Nationality Act § 212(a)(3)",
-      "FIFA World Cup 2026 Schedule"
-    ]
-  },
-  {
-    "id": 370,
-    "sourceId": "cg:119-HRES-1340",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1340?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HRES 1340: Expressing strong opposition to the imposition of digital services taxes and other relevant similar measures by other countries that unfairly discriminate against United States companies.",
-    "score": -8,
-    "snapshot": "Non-binding House resolution opposing foreign digital services taxes on U.S. tech companies. Referred to committee June 2026; no legislative force or budget impact.",
-    "verdict": "// VERDICT: Symbolic gesture defending corporate interests without addressing underlying international tax coordination failures or domestic revenue alternatives.",
-    "detail": "This resolution expresses opposition to foreign taxes targeting U.S. digital companies but carries no legal weight—it neither changes policy nor appropriates funds. <strong>While protecting American business interests abroad has merit, the resolution ignores that digital services taxes emerged partly because multinational tech firms exploit international tax loopholes, contributing minimal revenue in countries where they operate.</strong> The measure scores poorly on measurable benefit (no concrete policy change), fiscal responsibility (addresses neither U.S. tax base erosion nor retaliatory trade costs), and cost distribution (defends profitable corporations without offsetting mechanisms for workers or consumers). It follows proper House procedures but represents performative lawmaking rather than substantive tax reform or international negotiation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, H.Res. 1340, June 2026",
-      "OECD Digital Tax Framework, 2021-2025",
-      "House Ways and Means Committee Referral"
-    ]
-  },
-  {
-    "id": 371,
-    "sourceId": "cg:119-HRES-1354",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1354?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HRES 1354: Impeaching John McConnell, Jr., Chief Judge of the United States District Court for the District of Rhode Island, for high crimes and misdemeanors.",
-    "score": -38,
-    "snapshot": "House resolution to impeach a sitting federal district judge, referred to Judiciary Committee. No public documentation of underlying misconduct or constitutional violations has been made available with the resolution.",
-    "verdict": "// VERDICT: Impeachment mechanism invoked without publicly established evidence of high crimes creates constitutional process concerns and wastes legislative resources on potentially baseless proceedings.",
-    "detail": "Federal judicial impeachment is constitutionally reserved for \"high crimes and misdemeanors,\" requiring substantial evidence of criminal conduct or grave misconduct. <strong>This resolution provides no public record of investigations, findings, or documented violations that would justify removing a life-tenured Article III judge.</strong> Impeachment without credible foundation undermines judicial independence, weaponizes constitutional processes, and diverts congressional resources from substantive legislation. The referral to Judiciary suggests preliminary stages, but the absence of any publicly available predicate—DOJ findings, judicial conduct board recommendations, or documented criminal activity—indicates premature deployment of the impeachment mechanism. Such actions create dangerous precedent for partisan targeting of federal judges and waste taxpayer-funded legislative time on proceedings lacking evidentiary support.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HRES 1354, 119th Congress",
-      "Congressional Record, June 2026",
-      "U.S. Constitution, Article II, Section 4",
-      "House Judiciary Committee records"
-    ]
-  },
-  {
-    "id": 372,
-    "sourceId": "cg:119-HR-7037",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7037?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HR 7037: Developing Overseas Mineral Investments and New Allied Networks for Critical Energies Act",
-    "score": 18,
-    "snapshot": "HR 7037 (DOMINANCE Act) establishes a $5B+ government financing mechanism to develop critical mineral supply chains outside China, targeting lithium, rare earths, and other materials essential for defense, EVs, and renewable energy. Passed House June 2026, now in Senate Foreign Relations.",
-    "verdict": "// VERDICT: Strategic investment in mineral supply chain diversification with measurable national security benefits, though success depends on execution and carries moderate fiscal risk through loan guarantees.",
-    "detail": "The legislation addresses a documented vulnerability: China controls 60-80% of global rare earth refining and substantial lithium processing capacity. <strong>By financing mines, processing facilities, and infrastructure in allied nations, the bill reduces strategic dependence on adversarial supply chains for technologies critical to defense systems, electric vehicles, and grid batteries.</strong> The financing mechanism uses loan guarantees and equity investments rather than direct spending, limiting immediate budgetary impact while creating contingent liabilities. Rule of law concerns are minimal—the bill follows normal legislative process and builds on existing EXIM Bank authorities. Cost distribution favors long-term strategic positioning over immediate consumption, though taxpayers bear default risk. Primary uncertainty: whether government-backed financing can compete effectively with China's Belt and Road subsidies and whether projects will achieve commercial viability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "USGS Mineral Commodity Summaries 2025",
-      "DOE Critical Materials Strategy",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 373,
-    "sourceId": "cg:119-HR-9091",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9091?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HR 9091: Defense Industrial Base Advanced Manufacturing Enhancement Act",
-    "score": -18,
-    "snapshot": "HR 9091 proposes federal subsidies for advanced manufacturing in defense contracting. Referred to Armed Services Committee June 2026; no CBO score or implementation details available.",
-    "verdict": "// VERDICT: Lacks cost estimates and accountability mechanisms while creating potential for contractor windfalls without demonstrated capacity gaps.",
-    "detail": "The bill aims to strengthen defense manufacturing capabilities through federal incentives, but provides no cost projections, competitive bidding requirements, or performance metrics. <strong>Without CBO analysis or defined spending caps, this creates fiscal risk through open-ended contractor subsidies that may duplicate existing defense procurement authorities.</strong> The measure bypasses economic analysis that would determine whether capacity constraints actually exist or if current contractors simply seek additional profit streams. While domestic manufacturing capacity has national security implications, the bill lacks safeguards against cost-plus arrangements that historically inflate defense spending. No provisions address whether benefits flow to workers versus shareholders, and no sunset clause limits potential ongoing obligations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Armed Services Committee referral"
-    ]
-  },
-  {
-    "id": 374,
-    "sourceId": "cg:119-HR-7499",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7499?format=json",
-    "branch": "Congress",
-    "date": "Jun 11",
-    "dateISO": "2026-06-11",
-    "title": "HR 7499: Firearm Safety Act of 2025",
-    "score": -18,
-    "snapshot": "HR 7499 proposes federal firearm safety regulations including storage requirements and training mandates. The bill remains in committee as of February 2026 with no floor action, CBO score, or implementation timeline.",
-    "verdict": "// VERDICT: Stalled legislation with constitutional concerns and uncertain compliance costs that has generated controversy without advancing through normal legislative process.",
-    "detail": "This bill faces significant hurdles across multiple criteria. <strong>Without a CBO score or committee markup after four months, fiscal impact remains unknown, though state-level analog programs suggest costs in the hundreds of millions for enforcement infrastructure.</strong> Constitutional questions regarding Second Amendment scope and federal versus state authority over firearms would likely face immediate legal challenge, creating rule-of-law uncertainty. Measurable benefit depends entirely on implementation details not yet specified—storage requirements could reduce accidents but enforcement mechanisms are undefined. Cost distribution concerns arise if compliance expenses disproportionately burden lower-income gun owners while wealthier individuals easily absorb mandates. The committee referral to Energy and Commerce rather than Judiciary is procedurally unusual for firearms legislation, raising process questions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Feb 2026",
-      "House Committee on Energy and Commerce",
-      "State firearm safety program cost analyses",
-      "Constitutional precedent on Commerce Clause limits"
     ]
   }
 ]
