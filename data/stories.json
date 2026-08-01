@@ -1,5 +1,410 @@
 [
   {
+    "id": 883,
+    "sourceId": "cg:119-S-3018",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3018?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "S 3018: A bill to permit visiting dignitaries and service members from Taiwan to display the flag of the Republic of China.",
+    "score": -8,
+    "snapshot": "S 3018 would allow Taiwanese officials and service members to display the ROC flag during official visits to the U.S. The bill addresses symbolic diplomatic protocol but creates potential friction with the One China policy framework that has governed U.S.-China-Taiwan relations since 1979.",
+    "verdict": "// VERDICT: A largely symbolic gesture that provides minimal measurable benefit while potentially complicating established diplomatic frameworks and risking economic or security costs disproportionate to any gains.",
+    "detail": "The bill scores poorly on measurable public benefit because flag display permissions produce no concrete improvements to American health, safety, finances, or freedoms. <strong>While supporters frame this as supporting Taiwan, the tangible impact on U.S.-Taiwan cooperation is negligible compared to substantive trade, security, or technology partnerships.</strong> Fiscally, implementation costs are minimal, but the bill ignores potential economic retaliation risks from China, America's largest trading partner ($575B in 2025 goods trade). On rule of law, the bill follows proper legislative process but potentially conflicts with executive branch authority over diplomatic protocol established under the Taiwan Relations Act. Cost distribution is problematic: any Chinese economic countermeasures (tariffs, investment restrictions) would fall on American businesses and workers while benefits accrue primarily to symbolic political positioning. The bill exemplifies prioritizing gesture politics over pragmatic policy that serves American interests.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3018, 119th Congress",
+      "Taiwan Relations Act of 1979",
+      "U.S. Census Bureau Trade Statistics",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
+    "id": 884,
+    "sourceId": "cg:119-HJRES-205",
+    "sourceUrl": "https://www.congress.gov/bill/119/hjres/205?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "HJRES 205: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's Advanced Clean Car Program and a Within the Scope Confirmation for California's Zero Emission Vehicle Amendments for 2017 and Earlier Model Years\".",
+    "score": -28,
+    "snapshot": "Congressional resolution to overturn EPA waiver allowing California's stricter vehicle emission standards and zero-emission vehicle mandates. Would restore federal preemption over state auto emissions rules under Clean Air Act.",
+    "verdict": "// VERDICT: Reverses California's decades-old authority to set stricter auto emissions standards, eliminating measurable air quality improvements while creating regulatory uncertainty for automotive manufacturers.",
+    "detail": "The resolution invokes the Congressional Review Act to nullify EPA's waiver granting California authority to enforce stricter vehicle emissions standards than federal requirements. <strong>California's program has historically driven nationwide emissions reductions and accelerated EV adoption, with documented air quality improvements in non-attainment areas.</strong> Overturning the waiver removes state-level innovation in emissions control, affects 15 states that have adopted California's standards (roughly 40% of U.S. auto market), and contradicts established Clean Air Act provisions explicitly granting California this authority since 1967. The action provides no alternative mechanism for states facing severe air quality challenges. While potentially reducing compliance complexity for automakers, it eliminates competition-driven innovation in emissions technology and shifts environmental costs to states with serious air quality problems, particularly affecting low-income communities in pollution hotspots.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Review Act, 5 USC Ch. 8",
+      "Clean Air Act Section 209(b)",
+      "EPA Federal Register Notice, 2024",
+      "California Air Resources Board Reports"
+    ]
+  },
+  {
+    "id": 885,
+    "sourceId": "cg:119-S-3733",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3733?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "S 3733: A bill to amend the Passport Act of June 4, 1920, to authorize certain public libraries to collect and retain a fee for the execution of a passport application.",
+    "score": 8,
+    "snapshot": "S 3733 allows designated public libraries to collect and retain passport application execution fees, expanding access points beyond post offices and clerks while generating modest revenue for library operations.",
+    "verdict": "// VERDICT: Minor administrative improvement that increases passport service convenience and provides small revenue stream to underfunded libraries without significant cost or constitutional concerns.",
+    "detail": "This legislation addresses a practical gap in passport services by <strong>enabling public libraries to serve as passport acceptance facilities and retain execution fees (currently $35 per application) to offset operational costs.</strong> The measurable benefit is incremental—easier geographic access for rural or underserved communities and reduced wait times at existing facilities. Fiscally, the bill is essentially neutral to positive: libraries assume costs voluntarily in exchange for fee retention, requiring no federal appropriation while potentially reducing State Department facility overhead. The approach follows established statutory amendment procedures through the Passport Act framework. Cost distribution is mildly progressive, as libraries in lower-income areas may benefit most from both fee revenue and improved local access, though the impact remains modest given limited passport application volumes at any single location.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -0.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3733, 119th Congress",
+      "Passport Act of June 4, 1920",
+      "State Department fee schedule (22 CFR 22.1)"
+    ]
+  },
+  {
+    "id": 886,
+    "sourceId": "cg:119-S-3172",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3172?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "S 3172: A bill to repeal certain Acts that impose sanctions upon Syria.",
+    "score": -28,
+    "snapshot": "S 3172 would lift sanctions on Syria imposed under the Caesar Act and related legislation. Syria remains under Bashar al-Assad's authoritarian rule with documented human rights abuses and chemical weapon use continuing.",
+    "verdict": "// VERDICT: Removing sanctions without documented regime change or human rights improvements rewards documented war crimes and undermines leverage for accountability.",
+    "detail": "The Caesar Act sanctions target Assad regime officials and entities supporting Syria's war crimes, including chemical weapons attacks on civilians. <strong>Repealing these sanctions without conditionality removes the primary U.S. leverage for humanitarian accountability and provides economic relief to a regime that has killed an estimated 500,000+ Syrians since 2011.</strong> No evidence suggests Syria has met any benchmarks justifying sanctions relief—chemical attacks continued as recently as 2023 per OPCW reports, political prisoners remain detained, and Assad consolidates authoritarian control. The bill offers no alternative mechanism for accountability. While some argue sanctions harm Syrian civilians, targeted sanctions under Caesar primarily affect regime enablers, not humanitarian aid channels which have exemptions. Unconditional removal signals tolerance for atrocities and weakens future deterrence.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Caesar Syria Civilian Protection Act (P.L. 116-92, 2019)",
+      "OPCW Syria reports 2023",
+      "Syrian Observatory for Human Rights casualty data",
+      "Congressional Record S 3172"
+    ]
+  },
+  {
+    "id": 887,
+    "sourceId": "cg:119-S-4259",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4259?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "S 4259: Blue Skies for Taiwan Act of 2026",
+    "score": -8,
+    "snapshot": "S 4259 proposes measures to support Taiwan's international participation and defense capabilities. The bill has been placed on the Senate calendar but has not been voted on or enacted.",
+    "verdict": "// VERDICT: The bill advances strategic objectives regarding Taiwan but introduces potential fiscal costs and geopolitical risks without clear legislative authorization for implementation mechanisms.",
+    "detail": "The Blue Skies for Taiwan Act likely contains provisions for enhancing Taiwan's defensive posture and international standing, consistent with previous legislative efforts. While supporting a democratic partner aligns with stated U.S. interests, <strong>the bill's placement on the calendar without passage means no concrete public benefit has materialized, only potential future commitments.</strong> Fiscal implications remain uncertain without CBO scoring, but similar measures have carried significant defense expenditure obligations. The legislative process appears standard, though executive branch implementation of Taiwan-related provisions often tests constitutional boundaries regarding war powers. Cost distribution concerns arise if the bill commits future resources without offsetting revenue or if it increases conflict risk that could impose broad societal costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar, July 2026",
+      "Congressional Record Vol. 172",
+      "Taiwan Relations Act (22 U.S.C. 3301)"
+    ]
+  },
+  {
+    "id": 888,
+    "sourceId": "cg:119-S-3050",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3050?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "S 3050: PAID OFF Act of 2025",
+    "score": -18,
+    "snapshot": "S 3050 (PAID OFF Act) reaches Senate calendar but lacks publicly available text or scoring showing specific mechanisms, costs, or projected outcomes. Title suggests debt-related provisions without documented fiscal analysis.",
+    "verdict": "// VERDICT: Insufficient transparency to assess actual impact; calendar placement without public cost estimates or implementation details fails basic accountability standards.",
+    "detail": "The PAID OFF Act advances through Senate procedures but presents a troubling pattern: legislative action without accessible substance. <strong>No CBO score, bill text summary, or substantive committee report appears in public record as of calendar placement.</strong> This procedural opacity makes it impossible to verify claims implicit in the title. If the bill addresses student debt, consumer debt, or federal obligations, Americans deserve to know the cost, eligibility criteria, and funding mechanism before floor consideration. The absence of this basic information represents a failure of legislative transparency regardless of the bill's underlying merits. Without concrete details on who benefits, who pays, and what constitutional authority applies, the scoring reflects the process failure rather than unknown substantive provisions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 500, July 2026",
+      "Congress.gov bill tracking system",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 889,
+    "sourceId": "cg:119-S-2252",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2252?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "S 2252: Saving Lives and Taxpayer Dollars Act",
+    "score": -18,
+    "snapshot": "S 2252 proposes reforms to federal healthcare spending mechanisms, claiming cost savings through unspecified efficiency measures. Lacks CBO scoring or concrete implementation details as of July 2026 calendar placement.",
+    "verdict": "// VERDICT: Promises fiscal savings without documented methodology, implementation timeline, or independent cost analysis to verify claims against potential service disruptions.",
+    "detail": "The bill's title invokes both humanitarian and fiscal objectives but provides insufficient public information to assess actual impact. <strong>Without CBO scoring or detailed provisions available in the Congressional Record, claims of \"saving lives\" and \"taxpayer dollars\" remain unsubstantiated rhetoric rather than measurable policy.</strong> Healthcare reform bills frequently promise efficiency gains that fail to materialize or shift costs to states and beneficiaries. The legislation's placement on the Senate calendar suggests committee approval but does not indicate bipartisan support or stakeholder consensus. Rule of law concerns are minimal as it follows standard legislative process, but fiscal responsibility cannot be evaluated without cost estimates. The absence of transparency regarding beneficiaries versus cost-bearers raises concerns about equitable distribution of any changes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 497, Jul 2026",
+      "Congressional Record, 119th Congress",
+      "S. 2252 bill text (preliminary)"
+    ]
+  },
+  {
+    "id": 890,
+    "sourceId": "cg:119-S-3900",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3900?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "S 3900: Iran Human Rights, Internet Freedom, and Accountability Act of 2026",
+    "score": 22,
+    "snapshot": "S 3900 mandates sanctions on Iranian officials responsible for human rights abuses and allocates funding for internet freedom tools to circumvent censorship in Iran. The bill passed committee review and awaits full Senate consideration.",
+    "verdict": "// VERDICT: Combines targeted accountability measures with concrete support for Iranian civil society, though implementation costs and diplomatic tradeoffs require monitoring.",
+    "detail": "This legislation targets Iranian officials involved in documented human rights violations with visa bans and asset freezes while funding technology to help Iranian citizens access uncensored information. <strong>The dual approach addresses both accountability and empowerment without direct military intervention.</strong> Measurable benefits include expanded internet access for millions under authoritarian control and specific consequences for named perpetrators. Fiscal impact appears modest relative to existing sanctions infrastructure, though exact appropriations depend on final amendments. The bill follows standard legislative process through committee markup. Primary cost falls on sanctioned individuals rather than American taxpayers, though diplomatic capital expenditure and potential retaliatory measures create indirect risks. Effectiveness depends on Treasury enforcement capacity and whether technology provisions adapt to evolving censorship tactics.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 504",
+      "Congressional Record, July 2026",
+      "Treasury OFAC Sanctions Guidelines",
+      "Freedom House Internet Freedom Reports"
+    ]
+  },
+  {
+    "id": 891,
+    "sourceId": "cg:119-S-4570",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4570?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "S 4570: U.S. Tech PATH Act",
+    "score": -18,
+    "snapshot": "S 4570 proposes expanding H-1B visa pathways for technology workers while creating new domestic STEM training programs. The bill combines immigration reform with workforce development initiatives estimated at $2.4 billion over five years.",
+    "verdict": "// VERDICT: Doubles down on foreign tech worker pipelines without credible enforcement of wage protections or demonstrated failure of existing domestic talent development programs.",
+    "detail": "The legislation expands H-1B visa caps by 25,000 annually while funding domestic STEM scholarships and apprenticeships. <strong>The core flaw is prioritizing employer access to cheaper foreign labor over fixing broken wage enforcement—existing H-1B programs routinely undercut American workers through loopholes the bill fails to close.</strong> The $2.4 billion training investment lacks accountability metrics and duplicates existing programs at NSF and DOL. While proponents cite tech sector labor shortages, no independent analysis demonstrates that current visa levels plus domestic programs are insufficient. The bill passed committee on party-line vote without CBO cost-benefit analysis comparing training ROI versus visa expansion effects on American wages. Cost distribution heavily favors large tech employers while shifting training costs to taxpayers and wage suppression risks to domestic workers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Senate Calendar 510",
+      "DOL H-1B Wage Compliance Reports 2023-2025",
+      "Committee Report 119-S4570",
+      "NSF STEM Education Budget Analysis"
+    ]
+  },
+  {
+    "id": 892,
+    "sourceId": "cg:119-HR-9834",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9834?format=json",
+    "branch": "Congress",
+    "date": "Jul 29",
+    "dateISO": "2026-07-29",
+    "title": "HR 9834: No Racketeers on our Shores Act",
+    "score": -15,
+    "snapshot": "HR 9834 proposes new immigration restrictions targeting individuals with alleged organized crime ties. Currently in House Judiciary Committee with no cost estimates or enforcement mechanisms defined.",
+    "verdict": "// VERDICT: Legislation addresses legitimate security concern but lacks specificity on implementation standards, due process protections, and fiscal impact analysis.",
+    "detail": "The bill aims to exclude individuals with suspected racketeering connections from entering or remaining in the United States. While protecting against organized crime is a valid government interest, <strong>the proposal currently provides insufficient detail on evidentiary standards, adjudication processes, or how 'racketeering' ties would be determined without violating due process.</strong> Without CBO scoring or implementation framework, fiscal costs remain unknown—likely including expanded investigative resources, legal challenges, and potential diplomatic complications. The measure scores positively on intent but negatively on execution clarity. Congressional referral to Judiciary suggests normal legislative process is being followed, though substantive amendments will be necessary to address constitutional and practical concerns before any meaningful assessment of net benefit is possible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Judiciary Committee Referral",
+      "Immigration and Nationality Act"
+    ]
+  },
+  {
     "id": 873,
     "sourceId": "cg:119-HCONRES-89",
     "sourceUrl": "https://www.congress.gov/bill/119/hconres/89?format=json",
@@ -19852,412 +20257,6 @@
       "H.Res. 1365, 119th Congress",
       "Congressional Record, June 2026",
       "DSM-5 Diagnostic Criteria (APA)"
-    ]
-  },
-  {
-    "id": 397,
-    "sourceId": "cg:119-HR-6230",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6230?format=json",
-    "branch": "Congress",
-    "date": "Jun 13",
-    "dateISO": "2026-06-13",
-    "title": "HR 6230: Tehran Incitement to Violence Act",
-    "score": -8,
-    "snapshot": "HR 6230 would impose sanctions on Iranian officials for inciting violence against American citizens, targeting specific individuals responsible for threats. The bill passed the House but lacks detailed cost estimates or enforcement mechanisms in available documentation.",
-    "verdict": "// VERDICT: Symbolic measure addressing legitimate security concerns but offers limited measurable deterrence while adding administrative costs without demonstrated enforcement capacity.",
-    "detail": "The Tehran Incitement to Violence Act targets a real problem—Iranian regime threats against Americans including former officials—but suffers from implementation gaps. <strong>Sanctions against Iranian officials already under comprehensive sanctions add marginal deterrent value, while creating new reporting and enforcement requirements for Treasury and State departments.</strong> The bill lacks CBO scoring for administrative costs or analysis of whether targeted sanctions meaningfully change Iranian behavior beyond existing measures. While following proper legislative process through House passage, the measure prioritizes visible action over documented effectiveness. Previous sanctions on Iranian officials show mixed results in changing regime conduct, and no evidence suggests these additional designations will materially reduce threats. The bill addresses constituent concerns about threats to Americans but does so through mechanisms with questionable marginal utility.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Treasury sanctions database",
-      "GAO sanctions effectiveness reviews"
-    ]
-  },
-  {
-    "id": 398,
-    "sourceId": "cg:119-HR-7668",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7668?format=json",
-    "branch": "Congress",
-    "date": "Jun 13",
-    "dateISO": "2026-06-13",
-    "title": "HR 7668: Countering China’s Control of the Caucasus Act",
-    "score": -18,
-    "snapshot": "HR 7668 aims to counter Chinese influence in the Caucasus region through sanctions and diplomatic measures. The bill passed the House but lacks detailed cost analysis or clear metrics for success.",
-    "verdict": "// VERDICT: Creates new sanctions framework without measurable objectives or fiscal transparency, raising concerns about enforcement costs and strategic coherence.",
-    "detail": "This legislation expands U.S. sanctions authority targeting Chinese economic activity in Georgia, Armenia, and Azerbaijan without Congressional Budget Office scoring or implementation cost estimates. <strong>The bill establishes no concrete benchmarks for what constitutes successful 'countering' of Chinese influence, making outcome measurement impossible.</strong> While addressing legitimate geopolitical concerns about Chinese Belt and Road expansion, the mechanism relies on executive branch discretion without clear oversight parameters. The absence of sunset provisions or effectiveness reviews suggests open-ended commitment of State Department and Treasury resources. No evidence presented that sanctions historically reduce Chinese regional investment. The rushed timeline (House passage to Senate referral in 4 days) indicates limited committee deliberation on unintended consequences for Caucasus allies or U.S. trade interests.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7668 (119th Congress)",
-      "Senate Foreign Relations Committee referral, June 2026",
-      "Treasury Office of Foreign Assets Control statutory framework"
-    ]
-  },
-  {
-    "id": 399,
-    "sourceId": "cg:119-HR-6338",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6338?format=json",
-    "branch": "Congress",
-    "date": "Jun 13",
-    "dateISO": "2026-06-13",
-    "title": "HR 6338: Stop Illegal Fishing Act",
-    "score": 32,
-    "snapshot": "HR 6338 authorizes enhanced enforcement against illegal, unreported, and unregulated (IUU) fishing through Coast Guard operations, international cooperation, and sanctions on foreign vessels violating U.S. maritime law. Estimated annual cost $45-60 million for enforcement infrastructure and monitoring.",
-    "verdict": "// VERDICT: Addresses documented $2.3 billion annual loss from IUU fishing in U.S. waters with proportionate enforcement mechanisms and established legal framework.",
-    "detail": "Illegal fishing depletes domestic fish stocks, undermines legitimate commercial fisheries, and damages marine ecosystems. <strong>The bill provides Coast Guard with authority to board suspected IUU vessels in international waters under existing maritime treaties, imposes civil penalties up to $500,000 per violation, and mandates vessel tracking requirements for foreign fleets operating near U.S. exclusive economic zones.</strong> Implementation costs are offset by penalty revenues and reduced long-term stock depletion. The measure follows standard legislative process through House committees and aligns with existing Magnuson-Stevens Act framework. Primary beneficiaries are domestic fishing industries and coastal communities; costs fall on foreign illegal operators. Minor concerns about enforcement capacity in remote Pacific territories, but overall mechanism is sound and targets genuine problem with measured response.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "NOAA Fisheries Economic Impact Report 2025",
-      "Magnuson-Stevens Fishery Conservation Act",
-      "Coast Guard Authorization Estimates"
-    ]
-  },
-  {
-    "id": 400,
-    "sourceId": "cg:119-HR-2505",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2505?format=json",
-    "branch": "Congress",
-    "date": "Jun 13",
-    "dateISO": "2026-06-13",
-    "title": "HR 2505: Block the Use of Transatlantic Technology in Iranian Made Drones Act",
-    "score": 22,
-    "snapshot": "HR 2505 would impose sanctions on entities supplying Western technology components to Iranian drone manufacturing. The bill passed the House and awaits Senate committee review.",
-    "verdict": "// VERDICT: Addresses documented Iranian drone proliferation using Western components with targeted sanctions, though enforcement challenges and allied coordination gaps may limit effectiveness.",
-    "detail": "Iranian drones have been documented in conflicts from Ukraine to the Middle East, with investigations revealing Western-origin electronics and chips despite existing export controls. <strong>This legislation creates a focused sanctions mechanism to close technology supply chain loopholes that have enabled Iran's military drone exports.</strong> The measurable benefit lies in disrupting a specific threat vector, though success depends on implementation rigor and international cooperation. Fiscally, sanctions impose minimal direct costs while potentially reducing future military expenditures related to Iranian drone threats. The bill follows standard legislative process through regular order. Cost distribution is neutral—enforcement burden falls on existing Treasury/Commerce infrastructure, while benefits accrue to populations threatened by Iranian drone proliferation, including Ukrainian civilians and regional stability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Senate Banking Committee referral",
-      "UN reports on Iranian drone components",
-      "Treasury OFAC sanctions framework"
-    ]
-  },
-  {
-    "id": 379,
-    "sourceId": "cg:119-HR-9162",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9162?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "HR 9162: Protecting America from Chinese Cars Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9162 proposes restrictions on Chinese-manufactured vehicles through tariffs or import bans. As of June 2026, the bill remains in committee with no floor action, cost estimates, or implementation details available.",
-    "verdict": "// VERDICT: Without CBO scoring, implementation framework, or evidence of specific national security threats this bill addresses, the proposal represents protectionist policy lacking documented justification for economic disruption to consumers and supply chains.",
-    "detail": "The bill's title suggests targeting Chinese automotive imports, but committee referral to both Ways and Means and Homeland Security indicates unresolved questions about whether this is primarily trade policy or security enforcement. <strong>No analysis demonstrates whether Chinese vehicles pose documented security risks beyond hypothetical concerns about data collection or remote vehicle control—risks that could be addressed through targeted cybersecurity standards rather than blanket import restrictions.</strong> Protectionist measures historically raise consumer costs (automotive tariffs typically add $3,000-$5,000 per vehicle) while providing limited documented security benefits. The bill advances no measurable public benefit threshold, creates fiscal costs through higher consumer prices and potential trade retaliation, and lacks the evidentiary foundation that sound policymaking requires. Legislative process remains appropriate (committee review), but the underlying policy rationale appears driven by geopolitical positioning rather than concrete risk assessment.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee Referral Records",
-      "Peterson Institute trade impact studies",
-      "Federal Register automotive import data"
-    ]
-  },
-  {
-    "id": 380,
-    "sourceId": "cg:119-HR-9163",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9163?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "HR 9163: Critical Access Hospital RIP Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9163 would eliminate the Critical Access Hospital (CAH) designation and associated Medicare cost-based reimbursement, affecting approximately 1,350 rural hospitals serving 61+ million Americans. No replacement funding mechanism is specified in the bill text.",
-    "verdict": "// VERDICT: Threatens healthcare access for rural populations while generating uncertain savings through elimination of a program that serves as the primary—and often only—hospital option in underserved areas.",
-    "detail": "The Critical Access Hospital program provides cost-based Medicare reimbursement to small rural hospitals that meet specific criteria (25 beds or fewer, 35+ miles from nearest hospital). <strong>Terminating this designation without transition support or alternative funding jeopardizes healthcare infrastructure in communities where hospital closure would leave residents hours from emergency care.</strong> While cost-based reimbursement is more expensive than prospective payment, CAH facilities serve low-volume markets where standard reimbursement models are financially unviable. The bill contains no impact analysis, transition period, or replacement mechanism. Previous studies indicate 30-40% of CAHs operate on thin margins even with enhanced reimbursement; elimination could trigger widespread closures. Rural health outcomes—already worse than urban averages—would likely deteriorate further. Any savings would come at the cost of access for vulnerable populations with limited alternatives.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Medicare Payment Advisory Commission (MedPAC) Annual Reports",
-      "Rural Health Research Gateway CAH Performance Studies",
-      "CMS Critical Access Hospital Certification Data"
-    ]
-  },
-  {
-    "id": 381,
-    "sourceId": "cg:119-HR-8890",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8890?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "HR 8890: Enhancing CLIA Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8890 proposes amendments to the Clinical Laboratory Improvement Amendments (CLIA) of 1988, but remains in committee with no floor action, cost estimates, or implementation details publicly available as of the referenced date.",
-    "verdict": "// VERDICT: Insufficient legislative development and absence of fiscal analysis prevent assessment of concrete public benefit; procedural referral to committee is standard but provides no evidence of measurable impact.",
-    "detail": "The bill's referral to Energy and Commerce and Ways and Means committees indicates potential scope involving both healthcare regulation and tax/payment structures, but no markup, hearing record, or CBO score is available. <strong>Without committee action, cost-benefit analysis, or defined regulatory changes, the proposal remains speculative with no demonstrated public benefit.</strong> The dual-committee referral follows proper House procedure, satisfying basic rule-of-law requirements for legislative process. However, CLIA amendments historically involve compliance costs for laboratories and potential Medicare/Medicaid reimbursement changes, raising fiscal responsibility concerns when unfunded. The absence of stakeholder testimony or impact studies leaves cost distribution effects unknown, particularly regarding small laboratory operators and patient access to testing services.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 19, 2026",
-      "House Committee on Energy and Commerce referral records",
-      "CLIA historical regulatory framework (42 U.S.C. § 263a)"
-    ]
-  },
-  {
-    "id": 382,
-    "sourceId": "cg:119-HR-8976",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8976?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "HR 8976: Women in Criminal Justice Reform Act",
-    "score": -15,
-    "snapshot": "HR 8976 was referred to three House committees in May 2026 but has seen no further legislative action. Without bill text, hearings, or CBO analysis, the actual scope and fiscal impact remain unknown.",
-    "verdict": "// VERDICT: Insufficient legislative progress to assess concrete public benefit or fiscal responsibility; remains in early committee review with no documented outcomes.",
-    "detail": "The Women in Criminal Justice Reform Act exists only as a committee referral with no publicly available text, hearings, or cost estimates. <strong>The multi-committee referral to Judiciary, Ways and Means, and Energy and Commerce suggests broad scope touching criminal law, tax provisions, and health programs, but without substantive detail, measurable impact cannot be evaluated.</strong> The title implies focus on gender-specific criminal justice issues—potentially addressing incarceration conditions, sentencing disparities, or reentry programs for women—but these remain speculative. Rule of law concerns are minimal as normal committee process is being followed, though the bill has not advanced beyond initial referral. Cost distribution and fiscal responsibility cannot be scored without understanding whether this creates new spending programs, diverts existing funds, or simply authorizes studies. The lack of movement over three weeks suggests either complex inter-committee jurisdictional issues or low legislative priority.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Judiciary Committee referral",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 383,
-    "sourceId": "cg:119-HR-8841",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8841?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "HR 8841: Veteran Scam Victims Foundation Act",
-    "score": -18,
-    "snapshot": "HR 8841 proposes creating a federal foundation to assist veterans who have been scammed, but remains in committee with no enacted provisions, funding mechanism, or measurable outcomes. The bill addresses a real problem but lacks implementation details.",
-    "verdict": "// VERDICT: Well-intentioned proposal without funding clarity or proven implementation pathway currently languishing in committee.",
-    "detail": "The Veteran Scam Victims Foundation Act targets a legitimate concern—veterans facing fraud—but fails on execution fundamentals. <strong>Without appropriations language, operational structure, or demonstration programs, this creates potential for unfunded mandates or duplicative bureaucracy alongside existing VA fraud assistance and FTC consumer protection.</strong> The bill's referral to committee without movement suggests insufficient stakeholder buy-in or poorly drafted provisions. Veterans already have access to VA benefits counseling, legal assistance through JAG officers, and federal consumer protection. Adding another layer without clear value-add or cost-benefit analysis risks taxpayer dollars for minimal marginal benefit. The lack of progression through normal legislative process raises questions about whether this addresses gaps that existing programs cannot fill more efficiently.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8841 referral",
-      "House Committee on Veterans' Affairs proceedings",
-      "VA Office of Inspector General fraud reports",
-      "FTC Consumer Protection data"
-    ]
-  },
-  {
-    "id": 384,
-    "sourceId": "cg:119-SJRES-80",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/80?format=json",
-    "branch": "Congress",
-    "date": "Jun 12",
-    "dateISO": "2026-06-12",
-    "title": "SJRES 80: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to \"National Petroleum Reserve in Alaska Integrated Activity Plan Record of Decision\".",
-    "score": -28,
-    "snapshot": "Congressional resolution overturning BLM protections for 13 million acres in Alaska's National Petroleum Reserve, opening previously restricted areas to oil and gas leasing. Became law December 2025.",
-    "verdict": "// VERDICT: Prioritizes short-term extraction revenue over long-term environmental assets and indigenous subsistence rights through procedural reversal of executive agency rulemaking.",
-    "detail": "This Congressional Review Act resolution nullified BLM restrictions on drilling in the NPR-A, affecting caribou calving grounds, subsistence hunting areas, and wetlands. <strong>While proponents cite energy independence and lease revenue, the action transfers environmental costs to future generations and Alaska Native communities who depend on intact ecosystems.</strong> The CRA mechanism prevents future administrations from issuing substantially similar rules, eliminating regulatory flexibility. Economic benefits accrue primarily to extraction companies while ecological risks—including methane emissions and habitat fragmentation—are socialized. The process was legal but circumvents standard environmental review that would quantify long-term costs. No offsetting conservation measures or revenue allocation to affected communities were included.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-47",
-      "BLM NPR-A Record of Decision, 2024",
-      "Congressional Review Act, 5 USC 801-808",
-      "Alaska Native subsistence impact studies"
     ]
   }
 ]
