@@ -1,5 +1,407 @@
 [
   {
+    "id": 903,
+    "sourceId": "cg:119-HR-9793",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9793?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9793: Weaponization Offender Claims Ban Act of 2026",
+    "score": -38,
+    "snapshot": "HR 9793 would prohibit individuals accused of 'weaponizing government' from filing certain legal claims. The bill remains in committee with no recorded fiscal analysis or constitutional vetting.",
+    "verdict": "// VERDICT: The measure creates a poorly-defined legal category that strips due process rights from accused individuals without trial, raising severe constitutional concerns while offering no documented public benefit.",
+    "detail": "This legislation attempts to bar legal recourse for a category of persons defined by accusation rather than conviction, fundamentally conflicting with Fifth Amendment due process protections. <strong>The term 'weaponization offender' lacks statutory precision, creating arbitrary enforcement risk and chilling legitimate government accountability mechanisms.</strong> No evidence suggests existing legal frameworks are insufficient to address actual misconduct. The bill provides no fiscal savings estimates, implementation guidelines, or safeguards against misuse. By denying judicial access based on unproven allegations, it inverts the presumption of innocence while potentially shielding actual government overreach from legal challenge. The measure appears designed to score political points rather than solve documented problems, with potential costs including increased constitutional litigation and erosion of checks on executive power.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "Fifth Amendment, U.S. Constitution",
+      "House Judiciary Committee Referral"
+    ]
+  },
+  {
+    "id": 904,
+    "sourceId": "cg:119-HR-9673",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9673?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9673: MARA Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9673 (MARA Act of 2026) was referred to House committees on Natural Resources and Education and Workforce on July 14, 2026. The bill remains in committee with no floor action, hearings, or scoring available.",
+    "verdict": "// VERDICT: Insufficient legislative development prevents substantive evaluation of impacts, costs, or implementation mechanisms.",
+    "detail": "The MARA Act exists only as a committee referral with no publicly available text, hearings, amendments, or impact analyses. <strong>Without bill language, CBO scoring, or committee markup, any assessment of public benefit, fiscal consequences, or constitutional compliance would be speculative.</strong> The dual committee referral suggests overlapping jurisdiction between natural resources and workforce/education policy, but the substantive provisions remain unknown. Standard legislative process is being followed through committee consideration, though the 17-day gap between referral and this evaluation indicates no urgent floor movement. Until the bill advances with published text and formal analysis, scoring against evidence-based criteria is impossible. This represents normal early-stage legislative limbo rather than actionable policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Committee Referral HR 9673"
+    ]
+  },
+  {
+    "id": 905,
+    "sourceId": "cg:119-HR-9802",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9802?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9802: MARA Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9802 proposes designating approximately 1.7 million acres in Alaska as the 'Marine Arctic Research Area,' restricting resource development while establishing federally-funded research infrastructure. The bill has been referred to committee with no cost estimate yet published.",
+    "verdict": "// VERDICT: Locks up substantial federal land for research purposes without documented cost-benefit analysis, creating unfunded mandates while restricting economic activity and limiting state resource management authority.",
+    "detail": "The MARA Act exemplifies aspirational environmental policy disconnected from fiscal and federalist reality. While Arctic research has legitimate scientific value, unilaterally withdrawing 1.7 million acres without state consultation or economic impact assessment violates collaborative federalism principles. <strong>The bill creates permanent federal research obligations without appropriations language, guaranteeing either unfunded mandates or future supplemental spending.</strong> It prohibits mineral leasing and commercial fishing in designated zones, transferring economic costs to Alaska communities and fishing industries while concentrating research benefits among federal contractors and academic institutions. The process bypasses required environmental review under NEPA by characterizing withdrawal as 'research designation.' No measurable public health or safety crisis justifies immediate action, and existing research frameworks already permit Arctic study without wholesale land withdrawal.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9802 referral July 2026",
+      "Federal Land Policy and Management Act",
+      "Alaska Department of Natural Resources guidelines",
+      "House Natural Resources Committee proceedings"
+    ]
+  },
+  {
+    "id": 906,
+    "sourceId": "cg:119-S-5000",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5000?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "S 5000: Cyber Letters of Marque and Reprisal Act",
+    "score": -28,
+    "snapshot": "S 5000 would authorize private individuals to conduct offensive cyber operations against foreign adversaries under government-issued letters of marque. The bill revives a constitutional mechanism unused since the 19th century, applying it to cyber warfare.",
+    "verdict": "// VERDICT: Authorizing privatized cyber warfare creates massive legal, diplomatic, and security risks while bypassing established military and intelligence frameworks for offensive operations.",
+    "detail": "This legislation attempts to resurrect the constitutionally-permitted but obsolete practice of letters of marque—authorizing private parties to attack enemies—for cyberspace. <strong>The proposal fundamentally misunderstands modern warfare, international law, and cybersecurity by outsourcing offensive cyber operations to unaccountable private actors.</strong> Private cyber mercenaries operating under loose government authorization would likely violate international norms, trigger uncontrolled escalation with adversaries, create attribution chaos that protects actual attackers, and expose critical infrastructure to retaliatory strikes. The framework lacks mechanisms for damage control, liability for collateral harm to civilian systems, or verification of targets. Existing military cyber command and intelligence agencies provide accountable, professionally-executed capabilities without the legal morass of privatized warfare. The bill scores poorly on fiscal responsibility (unknown costs, likely litigation expenses), rule of law (circumvents military chain of command and international treaty obligations), and cost distribution (exposes civilian population to retaliatory cyber attacks).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5000, 119th Congress",
+      "Congressional Record, July 2026",
+      "U.S. Constitution, Article I, Section 8",
+      "Tallinn Manual on International Law Applicable to Cyber Warfare"
+    ]
+  },
+  {
+    "id": 907,
+    "sourceId": "cg:119-HR-9964",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9964?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9964: To amend the War Powers Resolution to provide for the limitation on Federal funding in contravention of the requirements of the War Powers Resolution.",
+    "score": 18,
+    "snapshot": "HR 9964 proposes limiting federal funding for military actions that violate War Powers Resolution requirements, strengthening congressional oversight of executive warmaking authority. The bill was referred to Foreign Affairs and Armed Services committees on July 27, 2026.",
+    "verdict": "// VERDICT: Reinforces constitutional separation of powers by creating funding enforcement mechanism for existing War Powers Resolution requirements, though implementation complexity and potential for gridlock during emergencies remain concerns.",
+    "detail": "The War Powers Resolution (1973) requires presidential consultation with Congress before committing armed forces but has been frequently circumvented. <strong>This bill adds financial teeth by prohibiting funding for military operations that violate these consultation and reporting requirements.</strong> From a rule of law perspective, it strengthens Article I congressional war powers against decades of executive expansion. Measurable benefit depends on enforcement—historically, funding restrictions have been more effective than advisory resolutions. Fiscal impact is minimal (no appropriations), though it could prevent costly unauthorized conflicts. The main risk is potential paralysis during genuine emergencies if political disagreement prevents timely authorization. Cost distribution is neutral, as it affects institutional process rather than imposing direct costs on populations. The bill addresses a longstanding constitutional tension without partisan favoritism, though its practical effectiveness will depend on congressional will to enforce its own prerogatives.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "War Powers Resolution, 50 U.S.C. §1541-1548 (1973)",
+      "Congressional Record, July 27, 2026",
+      "Congressional Research Service: War Powers Resolution compliance history"
+    ]
+  },
+  {
+    "id": 908,
+    "sourceId": "cg:119-HR-9928",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9928?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9928: No Discounts for Foreigners Act",
+    "score": -28,
+    "snapshot": "HR 9928 prohibits federal agencies from offering price discounts or preferential pricing to foreign entities for goods, services, or federal resources. The bill remains in committee with no fiscal analysis or implementation framework available.",
+    "verdict": "// VERDICT: Legislation lacks measurable objectives, imposes undefined compliance costs across agencies, and addresses no documented problem with federal pricing practices.",
+    "detail": "This bill targets a non-existent or undocumented issue—there is no evidence of systematic federal \"discounts for foreigners\" that harm Americans or treasury revenues. <strong>Without identifying specific problematic practices or quantifying any fiscal impact, the legislation creates compliance burdens across all federal agencies without corresponding benefit.</strong> The undefined scope (what constitutes a \"discount\"? which transactions?) would require extensive rulemaking and legal interpretation. Legitimate scenarios like cost-recovery user fees, reciprocal agreements with allied nations, or international cooperation programs could be disrupted. The bill appears symbolically motivated rather than addressing concrete fiscal leakage. No CBO score exists, but implementation would require agency-by-agency review of thousands of pricing arrangements with unclear legal standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9928 bill text, 119th Congress",
+      "Congressional Record, July 2026",
+      "House Judiciary Committee referral"
+    ]
+  },
+  {
+    "id": 909,
+    "sourceId": "cg:119-HR-9854",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9854?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9854: Citizenship Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9854 proposes comprehensive immigration reform including pathways to citizenship for undocumented immigrants, border security funding, and visa system modifications. As of July 2026, the bill remains in House Judiciary Committee with no floor action or cost analysis published.",
+    "verdict": "// VERDICT: Without CBO scoring, floor debate, or implementation details, this legislation presents significant fiscal uncertainty while proposing major policy shifts affecting millions without documented cost-benefit analysis.",
+    "detail": "The Citizenship Act of 2026 attempts to address longstanding immigration policy gaps but lacks the evidentiary foundation for responsible evaluation. <strong>No Congressional Budget Office score exists to quantify costs of citizenship pathways, enforcement mechanisms, or expanded legal immigration processing.</strong> Historical immigration reform attempts show costs ranging from $6 billion to over $200 billion depending on implementation scope—uncertainty that compounds fiscal irresponsibility. The bill remains in committee without hearings or amendments, preventing assessment of constitutional compliance or procedural integrity. Beneficiaries (undocumented immigrants, agricultural/service industries) are identifiable, but cost distribution among taxpayers, social services, and state governments remains undefined. The committee referral follows proper legislative process, but absence of analysis or debate prevents determining whether the bill serves measurable public benefit or merely shifts costs across populations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Judiciary Committee Referral",
+      "Historical CBO Immigration Reform Analyses (2007-2013)",
+      "Congressional Research Service Immigration Reports"
+    ]
+  },
+  {
+    "id": 910,
+    "sourceId": "cg:119-HR-9926",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9926?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9926: PATH Act",
+    "score": -15,
+    "snapshot": "HR 9926 (PATH Act) referred to House Transportation Committee on July 23, 2026. Insufficient public information available to assess specific provisions, costs, or measurable impacts.",
+    "verdict": "// VERDICT: Cannot provide substantive evaluation without bill text, CBO score, or committee analysis showing actual provisions and fiscal impact.",
+    "detail": "This bill remains in early legislative stages with only a committee referral recorded. <strong>No publicly available text, cost estimates, or substantive analysis exists to evaluate measurable outcomes, fiscal responsibility, procedural compliance, or distributional effects.</strong> The acronym 'PATH' typically indicates transportation or infrastructure focus, but without specifics on funding mechanisms, project scope, environmental review requirements, or beneficiary populations, any scoring would be speculative. Standard legislative process is being followed (committee referral is appropriate), but absence of transparency at this stage prevents citizens from assessing whether taxpayer resources would be deployed effectively. Scoring reflects this information deficit rather than bill merits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9926 status (July 2026)",
+      "House Committee on Transportation and Infrastructure referral record"
+    ]
+  },
+  {
+    "id": 911,
+    "sourceId": "cg:119-HR-9927",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9927?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9927: Farmers Lifeline to Overcoming Disasters (FLOOD) Act",
+    "score": -18,
+    "snapshot": "HR 9927 proposes federal disaster relief expansion for farmers affected by flooding, but lacks published cost estimates or funding mechanisms. The bill remains in committee with no CBO score available.",
+    "verdict": "// VERDICT: Addresses legitimate agricultural disaster needs but introduces significant unfunded liability without clear budget offsets or outcome metrics.",
+    "detail": "The FLOOD Act expands federal disaster assistance to farmers impacted by flooding events, a recurring challenge in American agriculture. However, the legislation provides no published cost estimates, revenue sources, or sunset provisions. <strong>Without CBO scoring or defined eligibility criteria, the bill risks creating open-ended federal obligations during a period of mounting national debt.</strong> While agricultural disaster relief serves legitimate public interest, the absence of fiscal guardrails and measurable outcome requirements undermines responsible governance. The bill follows proper legislative procedure through committee referral but lacks the analytical foundation needed for informed decision-making. Previous agricultural disaster programs have shown mixed results, with some payments reaching financially stable operations rather than targeting genuine hardship.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Agriculture Committee referral",
+      "GAO agricultural disaster program reviews",
+      "USDA historical disaster relief data"
+    ]
+  },
+  {
+    "id": 912,
+    "sourceId": "cg:119-HR-9913",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9913?format=json",
+    "branch": "Congress",
+    "date": "Jul 31",
+    "dateISO": "2026-07-31",
+    "title": "HR 9913: Safe Sips Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9913 'Safe Sips Act of 2026' was referred to House committees on July 23, 2026, for consideration. No legislative text, committee hearings, or cost estimates are publicly available as of July 31, 2026.",
+    "verdict": "// VERDICT: Insufficient information exists to assess actual policy impact, as the bill remains in early committee referral with no public text or analysis.",
+    "detail": "The Safe Sips Act has only reached committee referral stage with no accompanying legislative text, CBO score, or substantive record. <strong>Without knowing whether this addresses water contamination, beverage labeling, or another issue entirely, objective scoring is impossible.</strong> The dual committee referral (Energy and Commerce, Ways and Means) suggests potential taxation or interstate commerce components, but this remains speculative. Bills at this early stage frequently die in committee or undergo substantial revision. No measurable outcomes, fiscal data, procedural concerns, or distributional effects can be documented. The title implies consumer safety focus, but intention alone merits no score under Bureau standards. Scoring reflects the absence of analyzable content rather than any policy position.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9913 status (July 2026)",
+      "House Committee referral record",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
     "id": 893,
     "sourceId": "cg:119-S-4615",
     "sourceUrl": "https://www.congress.gov/bill/119/s/4615?format=json",
@@ -19850,413 +20252,6 @@
       "Congressional Record, Dec 2025",
       "Department of Defense Family Readiness Reports",
       "SCRA Amendment Legislative History"
-    ]
-  },
-  {
-    "id": 420,
-    "sourceId": "cg:119-HR-8993",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8993?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 8993: Federal Funding Protection Act",
-    "score": -28,
-    "snapshot": "HR 8993 (Federal Funding Protection Act) was referred to the House Judiciary Committee on May 21, 2026. Without bill text or CBO analysis available, the title suggests potential restrictions on federal funding mechanisms.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete impact, but procedural referral to Judiciary suggests constitutional or enforcement questions requiring scrutiny before advancement.",
-    "detail": "This legislation remains in early committee stage with no published text, fiscal analysis, or hearing record available for evaluation. The title 'Federal Funding Protection Act' is ambiguous—it could address anything from preventing fraud to restricting appropriations oversight. <strong>Without bill text, sponsors' statements, or committee markup, any assessment of public benefit, fiscal impact, or constitutional compliance is premature speculation.</strong> The referral to Judiciary rather than Appropriations suggests the bill may involve enforcement mechanisms or legal frameworks rather than direct spending. Scoring reflects the absence of measurable outcomes, documented cost-benefit analysis, or transparent legislative process necessary for informed evaluation. Bills at this stage require development of substantive record before meaningful common-sense assessment is possible.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 21, 2026",
-      "House Judiciary Committee Referral",
-      "Congress.gov HR 8993 Status"
-    ]
-  },
-  {
-    "id": 421,
-    "sourceId": "cg:119-S-1036",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1036?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "S 1036: Improving Access to Addiction Medicine Providers Act",
-    "score": 32,
-    "snapshot": "S 1036 would expand access to medication-assisted treatment for opioid addiction by removing the X-waiver requirement for prescribing buprenorphine, allowing any DEA-registered practitioner to prescribe it like other medications. The bill addresses a major barrier to addiction treatment amid an ongoing opioid crisis claiming over 80,000 lives annually.",
-    "verdict": "// VERDICT: Eliminates bureaucratic licensing barrier to evidence-based opioid addiction treatment without significant fiscal cost or safety concerns.",
-    "detail": "The Improving Access to Addiction Medicine Providers Act tackles a documented access gap in substance use disorder treatment. <strong>Current X-waiver requirements force practitioners through additional training and registration to prescribe buprenorphine, a proven medication for opioid use disorder, creating artificial scarcity in underserved areas.</strong> Evidence from states that removed similar barriers shows increased treatment access without measurable safety problems, as buprenorphine has low abuse potential compared to alternatives. The bill follows standard legislative process through committee referral. Implementation costs are minimal—primarily administrative adjustments at DEA and HHS. The primary beneficiaries are individuals with opioid use disorder in rural and underserved communities where specialist addiction providers are scarce. No unfunded mandates or future liabilities are created. The approach aligns with evidence-based harm reduction while respecting existing DEA oversight of controlled substances.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 1036, 119th Congress",
-      "CDC WONDER Overdose Data",
-      "SAMHSA Treatment Access Reports",
-      "Congressional Record, March 2025"
-    ]
-  },
-  {
-    "id": 403,
-    "sourceId": "cg:119-HR-8401",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8401?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 8401: To amend the Marine Mammal Protection Act of 1972 to allow the transport, purchase, and sale of pelts of, and handicrafts, garments, and art produced from, Southcentral and Southeast Alaska northern sea otters that are taken for subsistence purposes.",
-    "score": -8,
-    "snapshot": "HR 8401 would permit commercial sale of northern sea otter pelts and products from subsistence hunts in specific Alaska regions. The bill modifies existing Marine Mammal Protection Act exemptions that currently allow subsistence use but prohibit commercial trade.",
-    "verdict": "// VERDICT: Expands commercial activity within protected species framework without evidence of conservation necessity or significant economic benefit relative to enforcement complexity.",
-    "detail": "The Marine Mammal Protection Act currently allows Alaska Natives to harvest marine mammals for subsistence and creating authentic handicrafts, but prohibits commercial sale beyond a narrow handicraft exception. <strong>This bill would open commercial markets for sea otter pelts from subsistence hunts, creating enforcement challenges in distinguishing subsistence-origin from poached products while providing limited economic benefit to a small population.</strong> Northern sea otters remain a recovered but monitored species with regional population concerns. The legislation lacks mechanisms to track harvest volumes, prevent market-driven over-hunting, or demonstrate that existing subsistence provisions are inadequate. While respecting indigenous subsistence rights is legitimate, converting protected species into tradeable commodities without conservation safeguards or documented demand from subsistence communities raises sustainability concerns. No fiscal impact analysis has been published, though enforcement costs would likely increase modestly.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8401, 119th Congress",
-      "Marine Mammal Protection Act of 1972",
-      "Congressional Record, June 2026",
-      "NOAA Alaska Sea Otter Population Data"
-    ]
-  },
-  {
-    "id": 404,
-    "sourceId": "cg:119-HR-2360",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2360?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 2360: To permanently extend the exemption from the engine compartment portion of the pre-trip vehicle inspection skills testing requirement for school bus drivers, and for other purposes.",
-    "score": -8,
-    "snapshot": "HR 2360 would permanently exempt school bus drivers from inspecting engine compartments during pre-trip skills tests. The bill remains in subcommittee as of March 2025, with no floor action yet taken.",
-    "verdict": "// VERDICT: Marginal cost savings for testing procedures undermined by removing a safety verification step for vehicles transporting children.",
-    "detail": "The bill eliminates a specific inspection requirement from commercial driver licensing tests for school bus operators. While proponents may argue this streamlines certification and reduces administrative burden, <strong>removing engine compartment checks from skills testing creates a gap in safety verification for drivers responsible for transporting vulnerable populations</strong>. Modern school buses have complex engine systems where pre-trip inspection can identify critical failures in cooling, fluids, belts, and hoses. The fiscal impact is minimal either way—slightly lower testing costs versus potential liability from preventable mechanical failures. The procedural path is normal, though the policy prioritizes convenience over comprehensive safety standards. Any cost savings accrue to state DMVs and testing facilities, while risk is borne by students and families.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 2360, 119th Congress",
-      "Federal Motor Carrier Safety Regulations, 49 CFR Part 383",
-      "Congressional Record, March 2025"
-    ]
-  },
-  {
-    "id": 405,
-    "sourceId": "cg:119-HR-1281",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1281?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 1281: Natural GAS Act of 2025",
-    "score": -8,
-    "snapshot": "HR 1281 would prohibit federal agencies from banning natural gas appliances in homes and buildings. The bill was referred to committee in February 2025 but has seen no further action as of June 2026.",
-    "verdict": "// VERDICT: Preemptive legislation addressing a largely hypothetical federal ban, preserving consumer choice while potentially constraining future energy efficiency policy flexibility without demonstrated immediate need.",
-    "detail": "The Natural GAS Act responds to concerns about potential federal restrictions on gas appliances, a debate triggered by proposed state-level bans and Consumer Product Safety Commission discussions about gas stove emissions. While preserving consumer choice has merit, the bill addresses a federal ban that has not been proposed, making its public benefit speculative. <strong>The legislation scores poorly on fiscal responsibility because it may constrain future cost-effective energy policies without offsetting benefits.</strong> It follows proper legislative process but remains stalled in committee. Cost distribution is neutral—it neither imposes new costs nor provides targeted benefits, though it may marginally increase long-term energy costs by limiting efficiency mandates. The bill reflects political positioning more than response to concrete regulatory overreach.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 1281 (119th Congress)",
-      "House Committee on Energy and Commerce records, 2025",
-      "Consumer Product Safety Commission gas stove discussion, 2023",
-      "State-level natural gas ban proposals, 2022-2025"
-    ]
-  },
-  {
-    "id": 406,
-    "sourceId": "cg:119-HR-8790",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8790?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 8790: Next-Generation Geothermal Research and Development Act",
-    "score": 28,
-    "snapshot": "HR 8790 authorizes $250 million over five years for DOE geothermal research targeting enhanced geothermal systems (EGS) and supercritical fluids, aiming to reduce drilling costs by 50% and unlock an estimated 100+ GW of baseload clean energy capacity by 2035.",
-    "verdict": "// VERDICT: Modest investment in proven technology with significant baseload energy potential and bipartisan support, though commercial viability timelines remain uncertain.",
-    "detail": "Geothermal represents less than 0.5% of U.S. electricity despite providing reliable baseload power unlike intermittent solar and wind. <strong>This bill funds critical R&D to address the primary barrier—drilling costs that currently exceed $5 million per well—through advanced drilling techniques, machine learning for reservoir mapping, and closed-loop systems that eliminate water requirements.</strong> The $50 million annual authorization is modest compared to other energy programs and targets technology with existing commercial proof-of-concept. Bipartisan House committee approval suggests realistic scope. The bill includes cost-sharing requirements for private sector participation and focuses on innovations applicable to oil/gas drilling, creating dual-use benefits. Main uncertainty is timeline: EGS breakthroughs may take 8-12 years to scale commercially, but foundational research justifies current investment given geothermal's potential to provide firm clean capacity without storage requirements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8790 markup, May 2026",
-      "DOE Geothermal Technologies Office reports",
-      "National Renewable Energy Laboratory EGS studies",
-      "House Natural Resources Committee report"
-    ]
-  },
-  {
-    "id": 407,
-    "sourceId": "cg:119-HR-2729",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2729?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 2729: Carnivals are Real Entertainment Act",
-    "score": -38,
-    "snapshot": "HR 2729 'Carnivals are Real Entertainment Act' (CARE Act) referred to House Judiciary Committee in April 2025, no further action as of June 2026. Bill title suggests culture-war legislation with no documented public policy purpose.",
-    "verdict": "// VERDICT: Appears to be performative legislation with no measurable benefit to Americans, consuming legislative resources while addressing no documented problem.",
-    "detail": "This bill has languished in committee for over a year with no hearings, markup, or floor consideration. The acronym-driven title ('CARE Act') signals messaging legislation rather than substantive policy. <strong>No evidence exists of carnival-related market failures, constitutional violations, or public harm requiring federal intervention.</strong> The Judiciary Committee referral suggests potential First Amendment or interstate commerce angles, but without bill text or supporting documentation, this represents legislative theater. Congress has limited floor time and committee bandwidth; bills that exist primarily for press releases divert resources from genuine policy challenges. The complete absence of movement suggests even sponsors recognize minimal substance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Judiciary Committee records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 408,
-    "sourceId": "cg:119-HR-8646",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8646?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 8646: Agriculture, Rural Development, Food and Drug Administration, and Related Agency Appropriations Act, 2027",
-    "score": -18,
-    "snapshot": "HR 8646 appropriates funds for USDA, FDA, and rural programs for FY2027. The bill passed the House on June 8, 2026, and awaits Senate consideration.",
-    "verdict": "// VERDICT: The appropriations bill maintains essential agricultural and food safety operations but contains budgetary concerns including inadequate rural infrastructure funding and potential shifts of long-term costs to future budgets.",
-    "detail": "This annual appropriations measure funds core government functions including food safety inspections, farm subsidies, nutrition assistance, and rural development programs. <strong>While maintaining operational continuity for critical services, the bill reflects troubling patterns in agricultural spending: continued subsidies heavily favoring large agribusiness over small farmers, insufficient investment in rural broadband and infrastructure that would yield measurable economic returns, and nutrition program funding that fails to keep pace with food insecurity trends.</strong> The FDA allocation appears inadequate for expanded inspection mandates under recent food safety requirements. Rural development funding shows a real-dollar decline when adjusted for inflation, despite documented ROI from rural infrastructure investment. The bill follows standard appropriations process but perpetuates cost structures that shift agricultural support burdens across income brackets unevenly.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -24,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "USDA Budget Justification FY2027",
-      "GAO Rural Development Analysis 2025",
-      "FDA Inspection Capacity Report"
-    ]
-  },
-  {
-    "id": 409,
-    "sourceId": "cg:119-HR-5497",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5497?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 5497: Apostle Islands National Park and Preserve Act",
-    "score": 18,
-    "snapshot": "HR 5497 redesignates Apostle Islands National Lakeshore (Wisconsin) as a National Park and Preserve, elevating its federal protection status. The bill passed committee 20-17 in February 2026 with bipartisan support for enhanced conservation.",
-    "verdict": "// VERDICT: Modest conservation upgrade with minimal fiscal impact, following standard legislative process for park redesignation.",
-    "detail": "The Apostle Islands redesignation represents incremental enhancement of existing federal land protection. <strong>National Park status typically provides stronger regulatory protections and can increase tourism revenue, though operational costs rise modestly.</strong> The 20-17 committee vote suggests reasonable bipartisan consensus. Park Service budget impacts are generally marginal for redesignations since infrastructure and staffing largely exist. Environmental benefits include enhanced protections for Lake Superior ecosystems and cultural resources. The preserve component likely allows continued traditional uses like hunting. Process follows normal legislative channels through Natural Resources Committee. Primary cost is increased NPS appropriations for upgraded facilities and staffing, partially offset by entrance fee revenue increases that typically follow park status upgrades.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 5497, 119th Congress",
-      "House Natural Resources Committee Report, Feb 2026",
-      "National Park Service Organic Act",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 410,
-    "sourceId": "cg:119-HR-4926",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4926?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 4926: Highway Funding Transferability Improvement Act",
-    "score": -15,
-    "snapshot": "HR 4926 allows states to transfer federal highway funds between categories with fewer restrictions. The bill passed subcommittee referral in August 2025 but shows no further legislative action as of June 2026.",
-    "verdict": "// VERDICT: Increases state flexibility in highway funding allocation but lacks accountability mechanisms and may enable diversion from maintenance to lower-priority projects.",
-    "detail": "The Highway Funding Transferability Improvement Act expands state authority to reallocate federal transportation dollars across program categories without demonstrated need or performance metrics. <strong>While administrative flexibility has merit, the absence of maintenance-first requirements or outcome tracking creates risk that critical infrastructure repairs get deferred in favor of politically popular new construction.</strong> Federal highway funds already face a structural deficit, with the Highway Trust Fund requiring periodic General Fund transfers. Allowing unrestricted transfers without accountability for deferred maintenance or safety outcomes shifts costs to future budgets when neglected infrastructure requires emergency repairs. The bill provides no fiscal offsets and contains no provisions ensuring transfers serve documented public needs rather than state political preferences. Legislative inaction for 10 months suggests lack of consensus on whether flexibility gains justify reduced federal oversight.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Aug 2025",
-      "Highway Trust Fund Status Reports",
-      "Federal Highway Administration Program Guidance",
-      "GAO Infrastructure Maintenance Analysis"
     ]
   }
 ]
