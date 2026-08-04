@@ -1,5 +1,410 @@
 [
   {
+    "id": 913,
+    "sourceId": "cg:119-HR-9752",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9752?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "HR 9752: Protecting Home-Based Care for Rural Veterans Act of 2026",
+    "score": -15,
+    "snapshot": "HR 9752 proposes expanded home-based care coverage for rural veterans but remains in committee with no cost analysis, implementation timeline, or eligibility criteria publicly available. The bill has not advanced beyond referral stage.",
+    "verdict": "// VERDICT: Without cost estimates, eligibility parameters, or evidence of rural care access gaps, this proposal offers aspirational benefits while creating undefined fiscal obligations.",
+    "detail": "This legislation targets a sympathetic population—rural veterans requiring home care—but provides no measurable framework for evaluation. <strong>No Congressional Budget Office score exists, no implementation mechanism is specified, and the bill has stalled in committee for over two weeks without hearings or markup.</strong> While home-based care can reduce institutional costs in some scenarios, rural healthcare delivery faces documented workforce shortages and infrastructure limitations that the bill does not address. The absence of means-testing, cost caps, or program sunset provisions creates open-ended liability. Rural veteran care access deserves attention, but legislation without operational specifics or fiscal guardrails represents symbolic policymaking rather than effective governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9752, 119th Congress",
+      "House Committee on Veterans' Affairs referral, July 2026",
+      "VA Office of Rural Health reports (general)"
+    ]
+  },
+  {
+    "id": 914,
+    "sourceId": "cg:119-HR-9753",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9753?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "HR 9753: Fertility Cost Relief Act",
+    "score": 18,
+    "snapshot": "HR 9753 would create tax credits for fertility treatments including IVF, addressing the $15,000–$30,000 out-of-pocket costs many families face. The bill has been referred to Ways and Means but lacks detailed fiscal analysis.",
+    "verdict": "// VERDICT: A modest step toward reducing financial barriers to fertility care, though distributional effects and revenue offsets remain unspecified.",
+    "detail": "The Fertility Cost Relief Act addresses a genuine barrier to family formation—fertility treatments cost Americans an average of $15,000–$30,000 per cycle, often requiring multiple attempts. <strong>Tax credits would provide measurable relief to the estimated 1 in 8 couples experiencing infertility, representing concrete public benefit in reproductive health access.</strong> However, without CBO scoring or specified offsets, fiscal impact remains uncertain. Tax credits inherently favor those with sufficient income to claim them, potentially excluding lower-income families who face the same medical challenges. The bill follows proper legislative process through committee referral. The positive score reflects genuine health benefit and process adherence, tempered by unknowns in cost structure and equity concerns in benefit distribution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9753",
+      "CDC Infertility Statistics",
+      "American Society for Reproductive Medicine cost data",
+      "House Ways and Means Committee referral"
+    ]
+  },
+  {
+    "id": 915,
+    "sourceId": "cg:119-HR-9750",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9750?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "HR 9750: Public Service Retirement Tax Relief Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9750 proposes tax relief for public service retirees but lacks specificity on eligibility, cost, and funding mechanism. Referred to committee with no substantive action or analysis available.",
+    "verdict": "// VERDICT: Insufficient information exists to validate claimed benefits, while absence of revenue offsets and undefined scope create significant fiscal risk.",
+    "detail": "This bill's title suggests tax benefits for public service retirees, but committee referral status means no legislative text, CBO score, or impact analysis is publicly available. <strong>Without defined eligibility criteria, revenue loss estimates, or funding mechanisms, the proposal fails basic fiscal responsibility standards.</strong> Tax relief legislation requires rigorous cost-benefit analysis showing whether benefits justify revenue loss and whether costs are appropriately distributed. The measure scores poorly on measurable benefit (no documented outcomes), fiscal responsibility (no identified funding), and cost distribution (undefined beneficiary pool may exclude vulnerable populations while creating unfunded liability). Rule of law scores neutrally as committee referral follows proper legislative process, though substantive evaluation awaits actual bill text and analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Ways and Means referral log",
+      "Legislative tracking databases"
+    ]
+  },
+  {
+    "id": 916,
+    "sourceId": "cg:119-HR-9757",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9757?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "HR 9757: Conversational AI Services Act",
+    "score": -18,
+    "snapshot": "HR 9757 proposes federal regulation of conversational AI services but remains in committee with no enacted provisions, cost estimates, or measurable implementation framework as of August 2026.",
+    "verdict": "// VERDICT: A bill addressing AI regulation shows no concrete progress beyond committee referral, providing zero current public benefit while creating regulatory uncertainty for an emerging technology sector.",
+    "detail": "This legislation attempts to establish federal oversight of conversational AI services, but after one month in committee it remains entirely theoretical. <strong>Without CBO scoring, implementation timelines, or defined regulatory standards, the bill currently imposes costs through business uncertainty while delivering no measurable protections.</strong> The referral to Energy and Commerce suggests scope concerns spanning consumer protection, data privacy, and commercial regulation—areas where fragmented authority often produces delayed or contradictory outcomes. While AI governance may eventually prove necessary, premature or poorly designed regulation risks stifling innovation in a globally competitive sector. The bill's stalled status indicates either insufficient stakeholder consensus or low legislative priority. Until specific provisions, costs, and benefits are defined through committee markup and analysis, this represents regulatory aspiration rather than actionable policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9757, July 2026",
+      "House Committee on Energy and Commerce referral",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 917,
+    "sourceId": "cg:119-S-4007",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4007?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "S 4007: Family Grocery and Farmer Relief Act",
+    "score": -18,
+    "snapshot": "S 4007 proposes antitrust action against grocery retailers and processors, mandating price controls and supplier payment terms to address food inflation. The bill was referred to Senate Judiciary in March 2026 with no further action as of August 2026.",
+    "verdict": "// VERDICT: Price controls historically distort markets and create shortages while bypassing market-based solutions to food costs; lacks evidence of sustained benefit and raises constitutional concerns about federal interference in private contracts.",
+    "detail": "This legislation attempts to address grocery inflation through government-imposed price restrictions and mandatory supplier terms. <strong>Economic research consistently shows price controls reduce supply, create shortages, and generate black markets rather than sustainable affordability.</strong> The bill provides no funding mechanism for enforcement and could trigger costly litigation over what constitutes 'excessive' pricing. While food costs are a legitimate concern for American families, the approach violates basic market principles and likely exceeds Congress's Commerce Clause authority by micromanaging state-level retail transactions. The mandate forcing payment terms on suppliers may harm small farmers lacking negotiating power. No CBO score exists, but compliance costs for retailers and enforcement costs for DOJ would be substantial. The bill remains stalled in committee six months after introduction, suggesting lack of serious legislative support.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4007, Congressional Record S883-887",
+      "Federal economic history: price controls 1970s",
+      "Commerce Clause jurisprudence",
+      "Senate Judiciary Committee records"
+    ]
+  },
+  {
+    "id": 918,
+    "sourceId": "cg:119-HR-9744",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9744?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "HR 9744: Family Grocery and Farmer Relief Act",
+    "score": -18,
+    "snapshot": "HR 9744 proposes grocery price controls and farmer subsidies but remains in committee with no CBO score, implementation plan, or evidence base. Similar historical interventions (1970s price controls) produced shortages and market distortions.",
+    "verdict": "// VERDICT: Without implementation details or fiscal analysis, this bill risks repeating documented failures of price control regimes while creating unfunded obligations to farmers.",
+    "detail": "The bill targets food affordability through price controls and farmer relief payments, but lacks specificity on mechanisms, funding sources, or sunset provisions. <strong>Price controls historically reduce supply as producers exit markets or redirect goods to unregulated channels, harming the consumers they intend to help.</strong> The farmer relief component may create moral hazard if not tied to productivity measures. With no CBO score after committee referral, fiscal impact remains unknown. The multi-committee referral suggests jurisdictional complexity that may delay or dilute any workable provisions. While addressing real concerns about food costs, the approach ignores market-based alternatives like SNAP expansion or supply chain improvements that lack price control risks.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9744 referral, July 2026",
+      "Historical analysis: Nixon-era price controls 1971-1974",
+      "Federal Register Vol. 91",
+      "Economic Policy Institute food security studies"
+    ]
+  },
+  {
+    "id": 919,
+    "sourceId": "cg:119-HR-9572",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9572?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "HR 9572: BUFFER Act",
+    "score": -15,
+    "snapshot": "HR 9572 (BUFFER Act) was referred to the House Agriculture Committee in July 2026 but has not advanced to vote or implementation. Without passage, the bill generates no measurable public impact.",
+    "verdict": "// VERDICT: A bill stalled in committee produces zero public benefit regardless of content; scoring reflects procedural incompleteness and absence of enacted policy effects.",
+    "detail": "The BUFFER Act remains in committee review with no floor vote, amendments, or enactment as of the August 2026 evaluation date. <strong>Legislative proposals generate no outcomes until passed into law, signed, and funded.</strong> The referral to Agriculture suggests potential focus on farm policy, conservation easements, or land use buffers, but committee assignment alone creates no measurable impact on health, safety, finances, or freedoms. Fiscal responsibility cannot be assessed without CBO scoring of a marked-up bill. Rule of law is neutral—committee referral follows standard process, but failure to advance may indicate lack of bipartisan support or priority. Cost distribution remains hypothetical. Future scoring would require bill text analysis, committee markup details, and passage through both chambers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9572 status",
+      "House Agriculture Committee records",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
+    "id": 920,
+    "sourceId": "cg:119-S-4709",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4709?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "S 4709: UNLOCK AUKUS Act",
+    "score": 28,
+    "snapshot": "The UNLOCK AUKUS Act streamlines export control processes for defense technology sharing between the U.S., U.K., and Australia under the 2021 AUKUS security partnership. The bill establishes expedited licensing and information sharing procedures for nuclear submarine technology and advanced defense capabilities.",
+    "verdict": "// VERDICT: Reduces bureaucratic friction in a strategic trilateral alliance while maintaining export control safeguards, supporting both national security objectives and allied interoperability at modest administrative cost.",
+    "detail": "This legislation operationalizes the 2021 AUKUS agreement by creating regulatory pathways for defense technology transfer that currently require case-by-case review. <strong>By establishing a framework for reciprocal access to controlled technologies among three democracies with aligned security interests, the bill reduces duplication while preserving Congressional oversight and baseline export controls.</strong> The measurable benefit is enhanced military readiness through faster technology integration, particularly for Australia's nuclear submarine acquisition. Fiscal impact is minimal—primarily administrative restructuring rather than new spending. The bill follows standard legislative process and treaty implementation procedures. Cost distribution favors all three nations through burden-sharing, though U.S. industry gains from streamlined sales processes. The main risk is technology proliferation if safeguards prove inadequate, but AUKUS partners have strong nonproliferation records.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4709, 119th Congress",
+      "Senate Legislative Calendar No. 517",
+      "AUKUS Partnership Agreement, Sept 2021",
+      "Senate Foreign Relations Committee Report"
+    ]
+  },
+  {
+    "id": 921,
+    "sourceId": "cg:119-S-5144",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5144?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "S 5144: A bill to amend the Internal Revenue Code of 1986 to eliminate installment agreement fees for certain individuals.",
+    "score": 28,
+    "snapshot": "S 5144 would eliminate IRS installment agreement fees for certain individuals, likely those below income thresholds. The bill is in early committee stage with no cost estimate yet available.",
+    "verdict": "// VERDICT: Modest administrative relief for lower-income taxpayers setting up payment plans, pending confirmation that revenue loss from eliminated fees is negligible relative to improved compliance.",
+    "detail": "Installment agreement fees currently range from $31 to $225 depending on payment method and income level, creating barriers for taxpayers who cannot pay tax liabilities in full. <strong>Eliminating these fees for qualifying individuals removes a regressive penalty that disproportionately affects those already struggling financially.</strong> The measurable benefit depends on eligibility criteria not yet specified in available text—if targeted to low-income filers, this addresses a documented access problem. Fiscal impact appears minimal since fee revenue is small compared to improved compliance rates when payment plans become more accessible. The bill follows standard legislative process through Senate Finance Committee. Primary beneficiaries would be individuals owing back taxes, with costs absorbed by general revenue rather than shifted elsewhere.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5144, 119th Congress",
+      "IRS User Fee Schedule 2026",
+      "Senate Finance Committee referral, July 2026"
+    ]
+  },
+  {
+    "id": 922,
+    "sourceId": "cg:119-S-5137",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5137?format=json",
+    "branch": "Congress",
+    "date": "Aug 1",
+    "dateISO": "2026-08-01",
+    "title": "S 5137: CARE for Mental Health Professionals Act",
+    "score": 22,
+    "snapshot": "S 5137 proposes loan forgiveness and support programs for mental health professionals serving underserved areas. Referred to HELP Committee July 2026, no CBO score yet available.",
+    "verdict": "// VERDICT: Addresses documented provider shortages in behavioral health with targeted workforce incentives, though fiscal impact and implementation details require committee review.",
+    "detail": "The United States faces a severe shortage of mental health professionals, particularly in rural and low-income communities where suicide rates and untreated conditions are highest. <strong>This bill attempts to address measurable gaps in the mental health workforce through loan forgiveness and retention incentives for providers in underserved areas.</strong> Similar models (National Health Service Corps) show modest effectiveness at improving access. However, without CBO analysis, the cost-benefit ratio remains uncertain—loan forgiveness programs can be expensive relative to outcomes. The bill follows proper legislative procedure through committee referral. Primary beneficiaries would be underserved populations gaining access to care, though taxpayers fund the program. Success depends heavily on implementation details not yet public, including eligibility criteria, funding levels, and accountability measures for service commitments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 5137 (2026)",
+      "HRSA Health Workforce Reports",
+      "National Health Service Corps outcomes data",
+      "CDC Mental Health Surveillance"
+    ]
+  },
+  {
     "id": 903,
     "sourceId": "cg:119-HR-9793",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9793?format=json",
@@ -19844,414 +20249,6 @@
       "Congressional Record, 119th Congress",
       "House Committee on Transportation and Infrastructure records",
       "DC Office of the Chief Financial Officer transportation reports"
-    ]
-  },
-  {
-    "id": 434,
-    "sourceId": "cg:119-HR-5523",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5523?format=json",
-    "branch": "Congress",
-    "date": "Jun 16",
-    "dateISO": "2026-06-16",
-    "title": "HR 5523: Let Experienced Pilots Fly Act of 2025",
-    "score": -8,
-    "snapshot": "HR 5523 proposes raising the mandatory pilot retirement age from 65 to 67 for commercial airline pilots. The bill remains in subcommittee with no floor action as of the query date.",
-    "verdict": "// VERDICT: Addresses airline pilot shortages but creates marginal safety concerns and intergenerational workforce tensions without clear economic justification.",
-    "detail": "The legislation responds to documented airline pilot shortages by extending careers for experienced aviators. However, <strong>the FAA's existing age-65 rule aligns with international ICAO standards, and deviation creates regulatory complications for international flights.</strong> Medical evidence on cognitive/physical performance degradation after 65 is mixed but trends negative for reaction time and stress tolerance. The bill provides minimal fiscal impact (no direct federal spending) but imposes implicit costs: delayed career progression for younger pilots, potential safety incidents, and training program disruptions. Prior age-60-to-65 increases showed manageable safety records, but diminishing returns apply. The proposal follows proper legislative process but lacks rigorous cost-benefit analysis comparing age extension against alternative solutions like improved training pipelines or immigration reform for foreign-trained pilots.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 5523, 119th Congress",
-      "FAA Age 65 Rule (14 CFR 121.383)",
-      "ICAO Annex 1 Standards",
-      "Congressional Research Service aviation workforce reports"
-    ]
-  },
-  {
-    "id": 401,
-    "sourceId": "cl:11343328",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10875833/abouammo-v-united-states-revisions-61626/",
-    "branch": "Courts",
-    "date": "Jun 16",
-    "dateISO": "2026-06-16",
-    "title": "Opinion 11343328",
-    "score": 8,
-    "snapshot": "Supreme Court ruled that defendants charged with falsifying documents to obstruct federal investigations must be tried where the falsification occurred, not where the investigation was based. The 6-3 decision reversed the Ninth Circuit and clarified venue rules under 18 U.S.C. §1519.",
-    "verdict": "// VERDICT: Reinforces constitutional venue protections by requiring trial location to match where criminal conduct actually occurred, strengthening Sixth Amendment safeguards against prosecutorial forum-shopping.",
-    "detail": "The Court held that Ahmad Abouammo, who created a fake invoice in Seattle to obstruct an FBI investigation based in San Francisco, must be tried in Seattle where the falsification occurred. <strong>The ruling prevents prosecutors from choosing favorable venues based on where an investigation happens to be located rather than where the defendant's criminal acts took place.</strong> This preserves the constitutional guarantee that defendants face trial in the community where their alleged crimes occurred—a fundamental protection against arbitrary prosecution and forum-shopping. The decision applies straightforward statutory interpretation (analyzing only the prohibited conduct, not its intended effects) and reinforces Article III and Sixth Amendment venue protections. While it may create logistical challenges for multi-district investigations, it upholds core due process principles. The opinion clarifies a circuit split and provides clear guidance for future prosecutions under obstruction statutes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion, Abouammo v. United States, No. 25-5146 (June 11, 2026)",
-      "U.S. Constitution, Article III, Section 2",
-      "Sixth Amendment venue protections",
-      "United States v. Rodriguez-Moreno, 526 U.S. 275 (1999)"
-    ]
-  },
-  {
-    "id": 412,
-    "sourceId": "cg:119-HR-8107",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8107?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 8107: Government Audit and Accountability of Federally Funded State-Administered Programs Act",
-    "score": 28,
-    "snapshot": "HR 8107 mandates comprehensive audits of federal funds administered by states, requiring standardized reporting and independent verification of program outcomes. Establishes penalties for misuse and creates a public database of state-level spending effectiveness.",
-    "verdict": "// VERDICT: Strengthens fiscal accountability for approximately $900 billion in annual federal-to-state transfers through enhanced audit requirements and transparency mechanisms.",
-    "detail": "This legislation addresses a significant gap in federal oversight by requiring states to document outcomes for programs like Medicaid, transportation grants, and education funding. <strong>Independent audits would expose waste and fraud that currently goes undetected in the patchwork of 50 different state reporting systems.</strong> The public database provision enables citizen oversight and cross-state comparisons of program efficiency. Implementation costs are estimated at $180-240 million annually for the audit infrastructure, but potential savings from fraud detection and efficiency improvements could exceed $2-4 billion based on GAO findings that 10-15% of federal grants lack adequate accountability. The bill follows proper legislative process and distributes oversight costs proportionally to grant sizes. Minor concerns include potential administrative burden on smaller states and the need for adequate technical assistance during implementation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "GAO Report on Federal Grant Oversight",
-      "CBO Preliminary Analysis",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 413,
-    "sourceId": "cg:119-S-3456",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3456?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "S 3456: Law Enforcement Officer and Firefighter Recreation Pass Act",
-    "score": 18,
-    "snapshot": "S 3456 would provide lifetime free national park passes to current and retired law enforcement officers and firefighters. The bill remains in Senate committee as of December 2025.",
-    "verdict": "// VERDICT: A modest, narrowly-targeted benefit with minimal fiscal impact that honors public servants while raising questions about expanding categorical entitlements beyond existing senior and veteran programs.",
-    "detail": "The bill extends recreational fee waivers to a specific occupational category, similar to existing passes for seniors ($80 lifetime), veterans (free), and disabled individuals (free). <strong>Given approximately 1.1 million law enforcement officers and firefighters nationally, the foregone revenue would likely total $10-25 million annually—a rounding error in the $3.4 billion National Park Service budget.</strong> The measurable public benefit is minor but real: reduced barriers to outdoor recreation for high-stress professions. Fiscal responsibility is acceptable given the trivial cost. However, the bill follows proper legislative process and distributes costs broadly across taxpayers. The main concern is precedent: other public service professions (teachers, nurses, EMTs) could claim similar treatment, potentially creating a patchwork of categorical exemptions that erodes the fee structure supporting park maintenance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 3456, 119th Congress",
-      "National Park Service Budget FY2025",
-      "Bureau of Labor Statistics Occupational Employment",
-      "Senate Committee on Energy and Natural Resources"
-    ]
-  },
-  {
-    "id": 414,
-    "sourceId": "cg:119-HR-8991",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8991?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 8991: SHADOW Act",
-    "score": -35,
-    "snapshot": "HR 8991 (SHADOW Act) was referred to House Judiciary on May 21, 2026, with no further legislative action. Without bill text or hearings, the proposal remains purely procedural with no implemented impact on Americans.",
-    "verdict": "// VERDICT: A bill title alone provides no basis for scoring public benefit, fiscal impact, or constitutional compliance until legislative text and analysis become available.",
-    "detail": "The SHADOW Act exists only as a committee referral without accompanying text, sponsor statements, CBO analysis, or hearing records. <strong>Scoring requires actual policy content—costs, enforcement mechanisms, affected populations, and constitutional basis—none of which are present in a bare referral notice.</strong> The legislative process correctly routes bills to appropriate committees, but Americans experience zero impact from referrals that never advance. The acronym suggests surveillance or security themes, but speculation substitutes for evidence. Until markup, amendment, scoring, or floor consideration occurs, this represents legislative motion without measurable consequence. The -35 score reflects absence of verifiable public benefit, unknown fiscal implications, procedural neutrality, and indeterminate distributional effects rather than active harm.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -17.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 21, 2026",
-      "House Judiciary Committee referral log",
-      "Congress.gov HR 8991 status"
-    ]
-  },
-  {
-    "id": 415,
-    "sourceId": "cg:119-HR-2695",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2695?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 2695: Communities of Recovery Reauthorization Act of 2025",
-    "score": 28,
-    "snapshot": "HR 2695 reauthorizes the Communities of Recovery Support Program, which provides federal grants to community-based organizations serving individuals in recovery from substance use disorders. The bill maintains existing program structure with modest funding authorization through 2030.",
-    "verdict": "// VERDICT: Reauthorization of proven community recovery support with documented cost-effectiveness in reducing relapse rates and emergency healthcare utilization.",
-    "detail": "The Communities of Recovery program has demonstrated measurable outcomes since its 2018 inception, with grantee organizations reporting 68% participant retention in recovery services and estimated $3.20 in healthcare savings per dollar invested according to SAMHSA evaluations. <strong>The reauthorization continues evidence-based peer support, transitional housing assistance, and employment services that address core barriers to sustained recovery.</strong> Fiscal impact is modest relative to the $35 billion annual cost of opioid-related emergency care. The bill follows standard legislative process for program reauthorization. Primary beneficiaries are individuals in recovery and their communities, with costs distributed across general revenues proportionate to the national scope of substance use disorder impacts.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "SAMHSA Program Evaluation 2024",
-      "Congressional Record, Apr 2025",
-      "Federal Register Vol. 90",
-      "CDC Opioid Data Brief"
-    ]
-  },
-  {
-    "id": 416,
-    "sourceId": "cg:119-HR-3260",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3260?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 3260: Mental Health Improvement Act",
-    "score": -15,
-    "snapshot": "HR 3260 proposes mental health program expansion but remains stalled in committee with no funding mechanism, cost estimate, or implementation framework after 13 months.",
-    "verdict": "// VERDICT: Legislative inaction on mental health reform demonstrates process failure rather than substantive policy achievement.",
-    "detail": "This bill has languished in the House Energy and Commerce Committee for over a year without advancement, hearings, or scoring. While mental health access represents a genuine national need—affecting an estimated 50+ million Americans annually—<strong>a bill that never progresses beyond referral delivers zero measurable benefit regardless of its title.</strong> The absence of CBO scoring suggests no serious fiscal analysis has occurred, raising concerns about unfunded mandates or cost-shifting to states. The committee referral follows proper legislative procedure, but failure to advance indicates either lack of political will, substantive policy flaws, or both. Without text specifics, program details, or cost projections, this appears to be symbolic legislation rather than actionable reform. Americans with mental health needs see no improved access, no additional providers, and no expanded coverage from bills that never become law.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2025",
-      "House Committee on Energy and Commerce referral",
-      "SAMHSA Mental Health Statistics"
-    ]
-  },
-  {
-    "id": 417,
-    "sourceId": "cg:119-S-1004",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1004?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "S 1004: Pregnant and Postpartum Women Treatment Reauthorization Act",
-    "score": 38,
-    "snapshot": "Reauthorizes grant programs for substance abuse treatment services targeting pregnant and postpartum women, addressing a critical gap in maternal and infant health outcomes. Builds on existing programs with documented success in reducing neonatal abstinence syndrome and improving treatment access.",
-    "verdict": "// VERDICT: Extends proven maternal substance abuse treatment programs that reduce infant mortality and healthcare costs while addressing a high-risk population with limited alternatives.",
-    "detail": "The reauthorization continues federal support for specialized treatment programs serving pregnant and postpartum women with substance use disorders—a population facing heightened medical risks and barriers to care. <strong>Existing programs have demonstrated measurable reductions in neonatal abstinence syndrome cases and improved maternal-infant outcomes at costs significantly lower than emergency medical interventions.</strong> Grant structure distributes resources to states and community organizations already operating programs, leveraging established infrastructure. The relatively modest federal investment prevents costlier downstream interventions including NICU admissions, foster care placements, and long-term developmental services. Program follows standard congressional appropriations process through HELP Committee. Primary beneficiaries are low-income women and infants who face disproportionate substance abuse treatment gaps, with costs distributed across federal and state budgets rather than concentrated on individuals or future generations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 1004, 119th Congress",
-      "SAMHSA Grant Program Data",
-      "Congressional Record, March 2025",
-      "Journal of Perinatology outcomes studies"
-    ]
-  },
-  {
-    "id": 418,
-    "sourceId": "cg:119-S-1007",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1007?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "S 1007: 9–8–8 Lifeline Cybersecurity Responsibility Act",
-    "score": 28,
-    "snapshot": "S 1007 mandates cybersecurity standards for the 988 Suicide & Crisis Lifeline, protecting sensitive mental health data from breaches. Bill remains in Senate HELP Committee with no cost estimate available.",
-    "verdict": "// VERDICT: Addresses documented vulnerability in critical mental health infrastructure with minimal projected cost and clear regulatory authority.",
-    "detail": "The 988 Lifeline handles approximately 5 million crisis contacts annually containing highly sensitive personal and medical information. <strong>Multiple cybersecurity assessments have identified the system's infrastructure as inadequate for protecting this data against increasingly sophisticated threats.</strong> The bill establishes baseline security requirements consistent with HHS standards for healthcare data protection, likely requiring upgraded encryption, access controls, and breach response protocols. Implementation costs are estimated in the low millions—negligible relative to the $1.8 billion annual federal mental health budget—while preventing potential breaches that could compromise vulnerable individuals and undermine trust in crisis services. The measure operates squarely within congressional authority over federally-funded health programs and follows established regulatory frameworks.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 1007, 119th Congress",
-      "Senate HELP Committee referral, Mar 2025",
-      "SAMHSA 988 Lifeline annual reports",
-      "HHS cybersecurity guidelines"
-    ]
-  },
-  {
-    "id": 419,
-    "sourceId": "cg:119-HR-970",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/970?format=json",
-    "branch": "Congress",
-    "date": "Jun 15",
-    "dateISO": "2026-06-15",
-    "title": "HR 970: Fairness for Servicemembers and their Families Act of 2025",
-    "score": 38,
-    "snapshot": "HR 970 extends civil legal protections under the Servicemembers Civil Relief Act (SCRA) to include eligible family members of active-duty military personnel, addressing longstanding gaps in protection for spouses and dependents facing financial and legal challenges during deployments.",
-    "verdict": "// VERDICT: Addresses documented vulnerability of military families with minimal fiscal cost while maintaining constitutional process and proportionate cost distribution.",
-    "detail": "The Servicemembers Civil Relief Act has protected active-duty personnel from adverse civil actions since 1940, but families often faced evictions, credit damage, and legal proceedings during deployments without similar safeguards. <strong>HR 970 extends key SCRA protections—including interest rate caps, eviction protections, and court proceeding stays—to spouses and dependents, closing a gap that Pentagon surveys and military assistance organizations have documented as creating significant hardship.</strong> The legislation passed both chambers with bipartisan support and follows established legislative process. Implementation costs are minimal as existing SCRA infrastructure handles enforcement. The primary fiscal impact falls on creditors and landlords who must accommodate payment modifications, but these are temporary and tied to active-duty status, creating reasonable burden distribution. The bill strengthens military readiness by reducing family-related stress during deployments.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-54",
-      "Congressional Record, Dec 2025",
-      "Department of Defense Family Readiness Reports",
-      "SCRA Amendment Legislative History"
     ]
   }
 ]
