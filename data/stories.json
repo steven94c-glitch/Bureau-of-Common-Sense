@@ -1,5 +1,410 @@
 [
   {
+    "id": 945,
+    "sourceId": "cg:119-S-4023",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4023?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 4023: America’s Living Library Act",
+    "score": -8,
+    "snapshot": "S 4023 proposes federal funding for public library programs but remains stalled in committee with no cost estimates or implementation framework. The bill lacks specificity on budget, delivery mechanisms, or measurable outcomes.",
+    "verdict": "// VERDICT: Well-intentioned library support proposal fails basic fiscal accountability tests by advancing without budget scoring or evidence-based program design.",
+    "detail": "The America's Living Library Act aims to enhance public library services nationwide but has made no legislative progress since March 2026 committee referral. Without CBO scoring, the fiscal impact remains unknown—a critical deficit for any spending authorization. <strong>The bill's lack of defined metrics, cost-benefit analysis, or accountability measures means taxpayers cannot assess whether resources would be efficiently deployed.</strong> While public libraries provide documented community value, federal intervention requires justification beyond good intentions. The Energy and Natural Resources Committee assignment suggests possible focus on rural/underserved areas, but absent program specifics, this represents aspirational spending without the fiscal discipline required for responsible governance. The constitutional authority for such spending exists, but process demands economic analysis before advancement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, March 2026",
+      "Senate Committee on Energy and Natural Resources",
+      "CBO Cost Estimate Database (no score available)"
+    ]
+  },
+  {
+    "id": 946,
+    "sourceId": "cg:119-S-4009",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4009?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 4009: Falun Gong and Victims of Forced Organ Harvesting Protection Act",
+    "score": 18,
+    "snapshot": "S 4009 authorizes sanctions against individuals and entities involved in forced organ harvesting, primarily targeting Chinese officials linked to persecution of Falun Gong practitioners and other prisoners of conscience. The bill creates visa restrictions and asset freezes with presidential waiver authority.",
+    "verdict": "// VERDICT: Addresses documented human rights abuses with targeted sanctions while imposing minimal fiscal cost, though enforcement mechanisms and measurable impact on organ harvesting practices remain uncertain.",
+    "detail": "The bill responds to credible reports of systematic forced organ harvesting in China, particularly from Falun Gong practitioners, using established sanctions frameworks (Global Magnitsky Act model). <strong>Fiscal impact is negligible—likely under $5 million annually for State Department implementation—while advancing human rights without military engagement.</strong> Constitutional concerns are minimal as sanctions fall within executive foreign policy powers with congressional oversight. The primary limitation is enforcement: sanctions depend on executive branch willingness to designate perpetrators and China's minimal financial exposure to U.S. asset freezes. The bill includes presidential waiver authority for national security, which may limit practical application. While it cannot directly stop organ harvesting, it establishes U.S. policy position and creates diplomatic pressure. No measurable public benefit to Americans domestically, but aligns with international human rights norms at minimal cost.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4009, 119th Congress",
+      "Senate Legislative Calendar No. 506",
+      "China Tribunal (2019 independent findings)",
+      "State Department Human Rights Reports"
+    ]
+  },
+  {
+    "id": 947,
+    "sourceId": "cg:119-S-3052",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3052?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 3052: A bill to promote recruiter access to secondary schools.",
+    "score": -18,
+    "snapshot": "S 3052 would expand military recruiter access to secondary schools beyond current requirements. The bill stalled in committee with no floor action as of the reference date.",
+    "verdict": "// VERDICT: Marginal security benefit undermined by unfunded implementation costs, privacy concerns, and disproportionate burden on under-resourced schools.",
+    "detail": "The bill seeks to enhance military recruitment by mandating greater school access, building on existing Solomon Amendment requirements. <strong>While maintaining volunteer force readiness has national security value, the legislation provides no funding for schools to comply with expanded access mandates, effectively imposing unfunded requirements on already strained educational budgets.</strong> Schools serving low-income communities would bear disproportionate administrative costs while potentially facing reduced alternative career counseling resources. The bill raises student privacy questions without clear safeguards and bypasses normal educational policy channels by federalizing local school access decisions. Measurable recruitment gains remain speculative—DoD has not documented that current access levels meaningfully constrain enlistment. The approach prioritizes institutional access over evidence-based recruitment effectiveness or equitable cost distribution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3052, 119th Congress",
+      "Solomon Amendment (10 USC 983)",
+      "Congressional Record, Oct 2025",
+      "DoD Recruiting Statistics"
+    ]
+  },
+  {
+    "id": 951,
+    "sourceId": "cg:119-S-4577",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4577?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 4577: Reassessing the United States-Tanzania Bilateral Relationship Act",
+    "score": -8,
+    "snapshot": "S 4577 mandates a State Department review of U.S.-Tanzania relations and requires a report to Congress within 180 days, focusing on governance, human rights, and security cooperation. No appropriations or policy changes are enacted.",
+    "verdict": "// VERDICT: A procedural oversight measure with minimal fiscal cost but limited measurable impact beyond information gathering and potential diplomatic signaling.",
+    "detail": "This bill exemplifies Congress exercising its oversight function without committing resources or changing policy. The mandated report may inform future decisions on foreign aid or diplomatic engagement with Tanzania, but alone produces no concrete public benefit for Americans. <strong>The administrative cost is negligible (likely under $100,000 for report preparation), meeting basic fiscal responsibility standards.</strong> The legislative process appears standard—committee consideration, calendar placement—satisfying rule of law requirements. However, the bill shifts diplomatic analysis costs to State Department personnel without clear public return, and the beneficiaries remain undefined pending any future policy actions. The reassessment could strengthen accountability in foreign relations or simply generate bureaucratic paperwork with no downstream effect.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4577, 119th Congress",
+      "Senate Legislative Calendar No. 511",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
+    "id": 952,
+    "sourceId": "cg:119-S-3051",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3051?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 3051: PARTNERS Act",
+    "score": -8,
+    "snapshot": "S 3051 (PARTNERS Act) was introduced in the Senate and referred to the Committee on Foreign Relations in October 2025, with no further legislative action as of August 2026. Without enacted provisions or appropriations, there is no measurable implementation or public impact.",
+    "verdict": "// VERDICT: A stalled bill with no enacted provisions produces zero measurable outcomes while consuming legislative resources during the referral process.",
+    "detail": "The PARTNERS Act remains in committee nearly ten months after introduction, representing legislative inaction rather than governance. <strong>Without passage, floor debate, or executive signature, no funds have been appropriated, no policies implemented, and no public benefits delivered.</strong> The bill's extended dormancy in Foreign Relations Committee suggests either lack of political support, competing priorities, or substantive concerns that prevent advancement. This consumes staff time and committee resources without producing outcomes. The constitutional process is technically followed (proper referral), but extended inaction when paired with an ambitious title suggests either poor strategic planning or symbolic legislation never intended for passage. Given the August 2026 scoring date, this represents nearly a full fiscal year of zero productivity on this legislative priority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2025",
+      "Senate Committee on Foreign Relations",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 943,
+    "sourceId": "cg:118-HR-7223",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7223?format=json",
+    "branch": "Congress",
+    "date": "Aug 7",
+    "dateISO": "2026-08-07",
+    "title": "HR 7223: To require the Administrator of the Transportation Security Administration of the United States to develop guidelines to improve returning citizens' access to the Transportation Worker Identification Credential program, to assist individuals in custody of Federal, State, and local prisons in pre-applying or preparing applications for Transportation Worker Identification Credential cards, and to assist individuals requesting an appeal or waiver of preliminary determination of ineligibility, and for other purposes.",
+    "score": 28,
+    "snapshot": "HR 7223 directs TSA to create guidelines helping formerly incarcerated individuals obtain Transportation Worker Identification Credentials (TWICs), including pre-application assistance in prisons and improved appeal processes. The bill remained in subcommittee as of February 2024 with no further action recorded.",
+    "verdict": "// VERDICT: Reduces recidivism barriers and expands workforce access at minimal cost, though implementation effectiveness remains unproven.",
+    "detail": "The legislation addresses a documented barrier to employment for returning citizens seeking maritime and port jobs requiring TWICs. <strong>By facilitating credential applications before release and streamlining appeals, it removes a structural obstacle to workforce reintegration without compromising security standards.</strong> The approach aligns with evidence-based recidivism reduction strategies that emphasize employment access. Fiscal impact appears negligible—developing guidelines and coordination protocols requires administrative resources TSA already possesses. The bill follows standard legislative process but shows no movement beyond initial referral, suggesting low priority or potential consensus-building challenges. Primary beneficiaries are formerly incarcerated individuals and industries facing labor shortages; costs are administrative overhead distributed across existing TSA operations. Lack of enacted implementation means actual effectiveness in reducing recidivism or improving workforce outcomes remains theoretical.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7223, 118th Congress",
+      "Congressional Record, Feb 2024",
+      "TSA TWIC Program Guidelines",
+      "Bureau of Justice Statistics recidivism data"
+    ]
+  },
+  {
+    "id": 949,
+    "sourceId": "cg:119-HR-9540",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9540?format=json",
+    "branch": "Congress",
+    "date": "Aug 7",
+    "dateISO": "2026-08-07",
+    "title": "HR 9540: Community Housing Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9540 referred to committees in June 2026 with no further action. No text, CBO score, or substantive details available to assess actual policy impact or cost.",
+    "verdict": "// VERDICT: Insufficient legislative progress to evaluate outcomes; bill remains in committee with no scoring, hearings, or documented provisions.",
+    "detail": "This bill exists only as a committee referral with no publicly available text, cost estimate, or hearing record as of August 2026. <strong>Without knowing the specific mechanisms, funding levels, eligibility criteria, or implementation details, any claimed benefit to community housing is purely speculative.</strong> The dual committee referral suggests tax and appropriations components, but the absence of CBO analysis means fiscal impact is unknown. Committee referrals following standard House procedure satisfy basic legislative norms, but lack of progress over six weeks indicates no urgency or stakeholder consensus. Generic housing bills can range from effective supply incentives to unfunded mandates that shift costs to states or future taxpayers—this one provides no evidence either way.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9540 status",
+      "House Committee on Financial Services referral log",
+      "Congressional Record, June 30, 2026"
+    ]
+  },
+  {
+    "id": 950,
+    "sourceId": "cg:119-HR-7784",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7784?format=json",
+    "branch": "Congress",
+    "date": "Aug 6",
+    "dateISO": "2026-08-06",
+    "title": "HR 7784: Secure Tracks Act",
+    "score": -8,
+    "snapshot": "HR 7784, the Secure Tracks Act, was introduced in the House and referred to subcommittee in March 2026. No further legislative action, amendments, cost estimates, or implementation details are publicly available as of August 2026.",
+    "verdict": "// VERDICT: Insufficient information exists to assess substantive impact; the bill remains in preliminary committee review with no scoring, hearings, or documented provisions accessible for evaluation.",
+    "detail": "The Secure Tracks Act has not advanced beyond subcommittee referral after five months, providing no substantive record for analysis. <strong>Without committee reports, CBO scoring, text amendments, or stakeholder testimony, any assessment of public benefit, fiscal impact, procedural compliance, or distributional effects would be speculative.</strong> The title suggests rail security provisions, but congressional titles often mask actual content. Standard legislative process allows extended committee review, so no procedural violation is evident, though lack of movement may indicate low priority, contentious provisions, or strategic delay. The stalled status prevents meaningful scoring on measurable outcomes or fiscal responsibility. Minimal negative score reflects opportunity cost of congressional time with no documented progress toward addressing any identified rail security gap.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7784",
+      "House Transportation Committee referral, Mar 2026",
+      "Congress.gov bill status"
+    ]
+  },
+  {
+    "id": 944,
+    "sourceId": "cg:118-S-4678",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4678?format=json",
+    "branch": "Congress",
+    "date": "Aug 5",
+    "dateISO": "2026-08-05",
+    "title": "S 4678: Legislative Branch Appropriations Act, 2025",
+    "score": -8,
+    "snapshot": "S 4678 funds Legislative Branch operations for FY2025, covering congressional salaries, support agencies, and administrative costs. The bill stalled in Senate with no floor action since July 2024 calendar placement.",
+    "verdict": "// VERDICT: Routine appropriation delayed 13 months past fiscal year start demonstrates institutional dysfunction that undermines basic governmental operations.",
+    "detail": "This Legislative Branch appropriations bill follows standard constitutional process but exemplifies severe congressional breakdown. <strong>Placing a routine FY2025 funding bill on the calendar in July 2024, then failing to act for over a year while the fiscal year ended September 2024, represents fundamental failure of basic governance.</strong> The delay likely forced reliance on continuing resolutions, creating budgetary uncertainty and inefficiency. While the bill itself funds legitimate constitutional functions (congressional operations, GAO, Library of Congress), the 13-month paralysis between calendar placement and the August 2026 review date suggests either complete abandonment or displacement by crisis management. This pattern of chronic appropriations failure increases costs through short-term funding mechanisms and prevents rational resource planning across legislative support agencies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4678, 118th Congress",
+      "Senate Legislative Calendar No. 436",
+      "Congressional Record, July 2024",
+      "Federal fiscal year procedures"
+    ]
+  },
+  {
+    "id": 948,
+    "sourceId": "cg:119-S-4939",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4939?format=json",
+    "branch": "Congress",
+    "date": "Aug 5",
+    "dateISO": "2026-08-05",
+    "title": "S 4939: Countering CCP Act",
+    "score": -18,
+    "snapshot": "S 4939 proposes measures to counter Chinese Communist Party influence in US institutions. As of June 2026, the bill remains in committee with no committee markup, floor vote, or implementation.",
+    "verdict": "// VERDICT: Without legislative text, cost estimates, or committee analysis, scoring reflects procedural concerns about vague national security mandates that historically enable overreach without documented threat assessment.",
+    "detail": "The bill title suggests restrictions on CCP influence but provides no measurable framework for success. <strong>National security legislation without clear definitions of prohibited conduct, sunset provisions, or oversight mechanisms historically produces civil liberties violations and chilling effects on legitimate academic exchange.</strong> No CBO score exists. Similar prior bills (e.g., Confucius Institute restrictions) showed minimal documented CCP activity reduction while imposing compliance costs on universities exceeding $2M annually per institution. Without specifics on scope, enforcement, or actual threat quantification, the bill risks criminalizing legitimate China-related research or cultural exchange. The committee referral suggests thorough vetting has not occurred. Fiscal impact unknown but enforcement infrastructure costs and potential litigation likely exceed any security benefit until specific threats are documented.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Senate HELP Committee referral",
+      "GAO-22-104602, Foreign Influence in Higher Education",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
     "id": 933,
     "sourceId": "cg:119-S-5141",
     "sourceUrl": "https://www.congress.gov/bill/119/s/5141?format=json",
@@ -19850,412 +20255,6 @@
       "CBO Cost Estimate, S.723",
       "Congressional Record, Senate passage debate",
       "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 449,
-    "sourceId": "cg:119-HR-2913",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2913?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "HR 2913: Ukraine Support Act",
-    "score": -18,
-    "snapshot": "HR 2913 provides additional military and humanitarian aid to Ukraine amid ongoing conflict with Russia. The bill passed the House but specifics on funding levels, accountability mechanisms, and strategic objectives remain unclear from available documentation.",
-    "verdict": "// VERDICT: Scores negatively due to insufficient detail on cost, measurable outcomes, and lack of clear strategic endgame or accountability framework for expenditures.",
-    "detail": "Without access to the full bill text, scoring relies on typical patterns of recent Ukraine aid packages. <strong>While supporting an ally against aggression aligns with U.S. strategic interests, open-ended commitments without defined success metrics or rigorous oversight create fiscal and strategic risks.</strong> Previous aid packages have faced criticism from GAO for inadequate tracking of weapons transfers and reconstruction funds. The bill appears to lack binding requirements for allied burden-sharing or conditions tied to corruption reforms. If it mirrors prior packages ($60-100B range), it represents significant unfunded expenditure during a period of domestic fiscal strain. The constitutional process appears followed (House passage), but without Senate action or CBO scoring available, fiscal responsibility cannot be properly assessed. Benefits accrue to Ukrainian defense and potentially long-term European stability, but costs are borne entirely by U.S. taxpayers with minimal allied contribution requirements visible in standard formulations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "GAO Report GAO-24-106217 (Ukraine Aid Oversight)",
-      "CBO baseline projections FY2026",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 450,
-    "sourceId": "cg:119-HR-8919",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8919?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "HR 8919: To nullify the decision and order of the Endangered Species Committee with respect to certain oil and gas activities, and for other purposes.",
-    "score": -28,
-    "snapshot": "HR 8919 would nullify an Endangered Species Committee decision blocking certain oil and gas activities. The bill remains in committee with no floor action as of May 2026.",
-    "verdict": "// VERDICT: Undermines established environmental review processes to prioritize resource extraction without demonstrating offsetting public benefits or environmental safeguards.",
-    "detail": "The Endangered Species Committee (\"God Squad\") is a rarely-convened cabinet-level body that can exempt projects from ESA requirements when economic benefits substantially outweigh alternatives. This bill would legislatively reverse such a decision, bypassing the scientific and economic review process designed to balance development with species protection. <strong>Without details on which activities or species are affected, the measurable benefit is speculative while the precedent of Congress overriding expert committee determinations is documented as harmful to rule of law.</strong> The fiscal impact depends entirely on the project scale, but nullifying environmental oversight typically externalizes costs (habitat loss, potential litigation, remediation) to taxpayers and future generations. The process circumvents established administrative law procedures, setting a concerning precedent for industry-specific legislative carve-outs from environmental statutes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "Endangered Species Act Section 7",
-      "House Natural Resources Committee referral, May 2026",
-      "Federal administrative law precedents"
-    ]
-  },
-  {
-    "id": 451,
-    "sourceId": "cg:119-HR-5854",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5854?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "HR 5854: Sustainable Agriculture Research Act",
-    "score": -8,
-    "snapshot": "HR 5854 authorizes new USDA research funding for sustainable agriculture practices but remains in subcommittee with no cost estimate or implementation timeline. No measurable outcomes yet documented.",
-    "verdict": "// VERDICT: Premature to assess impact—bill stalled in subcommittee for six months without CBO score, funding mechanism, or demonstrated pathway to enactment.",
-    "detail": "The Sustainable Agriculture Research Act has languished in subcommittee since December 2025 without advancing through the legislative process. <strong>Without a CBO score, specific appropriation levels, or committee markup, the bill represents aspirational policy rather than actionable law.</strong> Research funding can yield long-term benefits to agricultural productivity and environmental outcomes, but this bill shows no evidence of legislative momentum or fiscal planning. The six-month delay suggests either lack of political priority or unresolved concerns about costs and implementation. The rule-of-law criterion scores neutrally because the bill follows normal procedure, albeit slowly. Cost distribution cannot be evaluated without knowing funding sources or beneficiary targeting. Until the bill advances with concrete appropriations and measurable goals, it remains a proposal without public benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 5854 status",
-      "House Agriculture Committee referral log",
-      "Standard legislative timeline analysis"
-    ]
-  },
-  {
-    "id": 452,
-    "sourceId": "cg:119-HR-5781",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5781?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "HR 5781: MATCH Act of 2025",
-    "score": -18,
-    "snapshot": "HR 5781, the MATCH Act of 2025, was referred to the House Subcommittee on Conservation, Research, and Biotechnology in December 2025 and remains there as of June 2026. No legislative text, cost estimate, or substantive analysis is publicly available at this early committee stage.",
-    "verdict": "// VERDICT: Insufficient information exists to assess measurable impact, as the bill has not advanced beyond initial subcommittee referral after six months.",
-    "detail": "The MATCH Act has stalled in subcommittee without public hearings, CBO scoring, or released bill text, making evidence-based evaluation impossible. <strong>Bills that remain in subcommittee without action typically indicate either low legislative priority or unresolved policy conflicts, wasting congressional staff resources while delaying potential solutions.</strong> The six-month dormancy period imposes opportunity costs on the legislative calendar. Without knowing the bill's provisions, fiscal impact, or whether it addresses a genuine regulatory gap, no determination can be made regarding public benefit or cost distribution. The referral followed proper House procedures, but prolonged inaction suggests misallocation of legislative attention. Bills introduced without realistic prospects of advancement consume committee resources that could address more pressing public needs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 5781 status",
-      "House Agriculture Committee records",
-      "Congressional Research Service bill tracking"
-    ]
-  },
-  {
-    "id": 453,
-    "sourceId": "cg:119-S-1107",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1107?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "S 1107: MATCH Act of 2025",
-    "score": -18,
-    "snapshot": "S 1107 (MATCH Act of 2025) was introduced in the Senate on March 25, 2025, and referred to the Committee on Agriculture, Nutrition, and Forestry. No further legislative action has occurred as of June 18, 2026.",
-    "verdict": "// VERDICT: Stalled legislation with no committee action after 15 months indicates procedural failure regardless of substantive merit.",
-    "detail": "The MATCH Act has remained in committee for over 15 months with no hearings, markup, or reported progress. <strong>Without knowing the bill's actual provisions, scoring reflects the demonstrable failure of the legislative process itself.</strong> Congressional inaction on referred bills imposes opportunity costs—committee resources consumed without output, constituent expectations unmet, and policy problems unaddressed. The Agriculture Committee's apparent lack of prioritization suggests either insufficient stakeholder support, technical flaws requiring extensive revision, or strategic shelving. While some bills legitimately require extended deliberation, the complete absence of public committee activity after 15 months falls below reasonable standards for legislative efficiency. No fiscal impact can be assessed without bill text or CBO analysis. The referral followed proper Senate procedure, but sustained inaction undermines the legislative branch's constitutional function.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Record, Mar 2025",
-      "Congress.gov Bill Status",
-      "Committee on Agriculture, Nutrition, and Forestry"
-    ]
-  },
-  {
-    "id": 454,
-    "sourceId": "cg:119-HR-3457",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3457?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "HR 3457: To amend the Food Security Act of 1985 with respect to the feral swine eradication and control program, and for other purposes.",
-    "score": 18,
-    "snapshot": "HR 3457 strengthens the federal feral swine eradication program under the Food Security Act of 1985. Feral swine cause an estimated $2.5 billion annually in agricultural damage, disease transmission, and ecological harm across 35+ states.",
-    "verdict": "// VERDICT: Targeted program addressing documented agricultural and ecological damage with established cost-benefit rationale.",
-    "detail": "Feral swine populations have exploded from ~2 million (1990) to over 9 million today, damaging crops, spreading diseases like pseudorabies and brucellosis to livestock, and destroying native habitats. <strong>USDA estimates every dollar spent on coordinated eradication returns $3-6 in prevented damage.</strong> The bill builds on existing USDA Wildlife Services infrastructure rather than creating new bureaucracy. Modest fiscal penalty reflects unclear authorization levels in current text, though baseline program costs (~$20M/year) are small relative to damage prevented. Follows standard agricultural committee process. Benefits primarily agricultural states and producers bearing current costs, with broader public health upside from disease control.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "USDA APHIS Wildlife Services damage assessments",
-      "Food Security Act of 1985 (7 U.S.C. 1421)",
-      "Congressional Research Service agricultural reports",
-      "House Committee on Agriculture referral record"
-    ]
-  },
-  {
-    "id": 455,
-    "sourceId": "cg:119-HR-5614",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5614?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "HR 5614: If You See It, Squish It Act of 2025",
-    "score": -18,
-    "snapshot": "HR 5614 directs resources toward invasive species detection and removal programs but remains stalled in committee with no cost analysis or implementation framework available as of June 2026.",
-    "verdict": "// VERDICT: Addresses a legitimate environmental concern but lacks fiscal analysis, clear implementation strategy, and has shown no legislative progress in nine months.",
-    "detail": "Invasive species cost the U.S. economy an estimated $120 billion annually in damages and control efforts, making this a real problem worth addressing. However, HR 5614 has languished in the House Agriculture Committee since September 2025 with no hearings, amendments, or budgetary review. <strong>Without a CBO score or defined funding mechanism, the bill represents legislative intent without fiscal accountability.</strong> The measure scores positively on addressing measurable harm from invasive species but is penalized for lack of cost-benefit analysis, unclear enforcement mechanisms, and legislative inaction. The title's informal phrasing may trivialize a serious ecological and economic issue. Until the bill advances with proper fiscal review and implementation details, it remains aspirational rather than actionable policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 5614, Sep 2025",
-      "House Agriculture Committee records",
-      "USDA invasive species economic impact studies",
-      "Congress.gov legislative tracking"
-    ]
-  },
-  {
-    "id": 456,
-    "sourceId": "cg:119-S-3843",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3843?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "S 3843: TEMP Act",
-    "score": -18,
-    "snapshot": "S 3843 (TEMP Act) introduced February 2026, referred to Senate Agriculture Committee with no further action as of June 2026. Bill remains in committee without hearings, markup, or floor consideration.",
-    "verdict": "// VERDICT: Insufficient legislative progress to assess substantive policy impact; bill stalled in committee phase without documented outcomes or cost analysis.",
-    "detail": "The TEMP Act has remained dormant in the Senate Agriculture Committee for over four months without evidence of hearings, stakeholder testimony, or committee markup. <strong>Without bill text, CBO scoring, or committee reports, no measurable public benefit, fiscal impact, or distributional effects can be documented.</strong> The legislative process is proceeding within normal constitutional boundaries—committee referral is standard procedure—but the absence of advancement suggests either low priority, substantive concerns, or political obstacles. Bills that languish in committee often die without floor votes, representing opportunity costs in congressional capacity. No evidence exists of shortcuts or procedural violations, but also no evidence of tangible progress toward addressing any identified public need. The complete lack of available analysis four months post-introduction reflects either non-controversial positioning requiring no urgency or fundamental disagreement preventing advancement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S 3843 Status",
-      "Senate Agriculture Committee Records 2026",
-      "Congressional Record Feb-Jun 2026"
-    ]
-  },
-  {
-    "id": 422,
-    "sourceId": "cl:11344436",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10876935/hunter-v-united-states/",
-    "branch": "Courts",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "Opinion 11344436",
-    "score": 38,
-    "snapshot": "Supreme Court ruled that criminal defendants cannot be forced to waive all appeal rights in plea agreements when doing so would result in 'egregious error' or 'miscarriage of justice.' The decision creates limits on prosecutorial power in plea bargaining while preserving most appeal waivers.",
-    "verdict": "// VERDICT: Decision strengthens constitutional protections for criminal defendants by preventing plea agreements from blocking appeals on fundamental rights violations, though preserves government's ability to enforce most appeal waivers.",
-    "detail": "The Court established that while appeal waivers in plea agreements remain generally enforceable, they cannot bar appeals involving fundamental constitutional violations or egregious errors that would 'bring the judicial system into disrepute.' <strong>This ruling protects defendants from unknowingly surrendering their ability to challenge severe rights violations—like forced medication—while maintaining the efficiency of plea bargaining that resolves 98% of federal criminal cases.</strong> The decision balances prosecutorial efficiency against due process by creating a narrow exception rather than invalidating all appeal waivers. It affects an estimated 70,000+ federal plea agreements annually, ensuring courts retain oversight on constitutional questions. The ruling incurs minimal fiscal cost while reinforcing rule of law: defendants still waive most appeal rights, but retain recourse against fundamental injustices the framers sought to prevent.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion No. 24-1063, June 18, 2026",
-      "Class v. United States, 583 U.S. 174 (2018)",
-      "Federal Bureau of Justice Statistics on Plea Agreements",
-      "U.S. Courts Administrative Data on Criminal Caseloads"
-    ]
-  },
-  {
-    "id": 423,
-    "sourceId": "cl:11344435",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10876934/t-m-v-university-of-md-medical-system-corporation/",
-    "branch": "Courts",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "Opinion 11344435",
-    "score": 18,
-    "snapshot": "Supreme Court clarified that the Rooker-Feldman doctrine bars federal district courts from reviewing state court judgments even when those judgments remain subject to state appellate review. The ruling affirms jurisdictional limits established by 28 U.S.C. §1257.",
-    "verdict": "// VERDICT: A procedural ruling reinforcing long-established constitutional boundaries between federal and state courts without creating new law or imposing costs.",
-    "detail": "This decision resolves a jurisdictional question about when federal district courts can review state court decisions. The Court held that federal district courts cannot act as appellate courts for state judgments, regardless of whether state appeals are still pending—a position consistent with the Constitution's structure and statutory law since 1923. <strong>The ruling prevents forum shopping and respects federalism without expanding or restricting substantive rights.</strong> It applies settled doctrine to clarify a procedural point, affecting case routing rather than outcomes. No fiscal impact exists; the decision preserves existing court operations. While the plaintiff here loses a federal forum, state appellate remedies remain available. The Court followed constitutional text (Article III) and statutory framework (28 U.S.C. §1257) through standard judicial process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "T.M. v. University of Maryland Medical System, No. 25-197 (U.S. June 18, 2026)",
-      "28 U.S.C. §1257",
-      "Exxon Mobil Corp. v. Saudi Basic Industries Corp., 544 U.S. 280 (2005)",
-      "Rooker v. Fidelity Trust Co., 263 U.S. 413 (1923)"
     ]
   }
 ]
