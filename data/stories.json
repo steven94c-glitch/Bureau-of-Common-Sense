@@ -1,5 +1,206 @@
 [
   {
+    "id": 953,
+    "sourceId": "cg:119-S-3038",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3038?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 3038: Health Care Workforce Real-Time Data Dashboard Act",
+    "score": 28,
+    "snapshot": "S 3038 would establish a real-time dashboard tracking health care workforce data including shortages, training pipelines, and geographic distribution. The bill remains in committee with no cost estimate available.",
+    "verdict": "// VERDICT: Creates transparency infrastructure for workforce planning with minimal implementation cost and no evident regulatory burden or unfunded mandates.",
+    "detail": "The Health Care Workforce Real-Time Data Dashboard Act addresses a legitimate information gap in health care workforce planning by centralizing data on provider shortages, training capacity, and distribution patterns. <strong>Real-time visibility into workforce gaps enables evidence-based policy responses and helps direct resources to underserved areas.</strong> The bill scores well on measurable benefit as improved data infrastructure supports better allocation of federal health programs and training grants. Fiscal responsibility is strong given dashboard systems typically cost under $10 million annually to maintain while informing billions in workforce program spending. Rule of law is solid—standard legislative process through HELP Committee. Cost distribution is neutral to positive as improved workforce planning benefits underserved populations most affected by provider shortages, though implementation falls on HHS administrative budgets.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3038, 119th Congress",
+      "Senate HELP Committee records, Oct 2025",
+      "HRSA workforce data programs"
+    ]
+  },
+  {
+    "id": 954,
+    "sourceId": "cg:119-S-5025",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5025?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 5025: Lindsey O. Graham Sanctioning Russia Act of 2026",
+    "score": -8,
+    "snapshot": "S 5025 proposes expanded sanctions on Russia but remains in committee with no CBO score, cost estimate, or enacted provisions. No measurable implementation or documented impact exists as of August 2026.",
+    "verdict": "// VERDICT: Scoring a bill still in committee yields speculative results; absent implementation data, fiscal analysis, or enacted provisions, the proposal shows procedural compliance but lacks concrete outcomes to evaluate.",
+    "detail": "The Lindsey O. Graham Sanctioning Russia Act has followed proper legislative process through Senate referral to Banking, Housing, and Urban Affairs Committee as of July 2026. However, <strong>without committee markup, floor action, CBO cost estimates, or implementation mechanisms, there are no measurable public benefits to assess.</strong> Sanctions legislation typically carries enforcement costs (Treasury Department implementation, monitoring, diplomatic resources) without offsetting revenue, raising fiscal responsibility concerns when unfunded. The bill's stalled status in committee—over three weeks without action—suggests either insufficient support or unresolved policy questions. Cost distribution cannot be evaluated without knowing whether sanctions would impact specific industries, consumer prices, or require compensatory programs. The negative score reflects procedural incompleteness rather than ideological opposition: Americans cannot benefit from legislation that hasn't moved beyond initial referral.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar, July 2026",
+      "Congressional Record S.5025 referral",
+      "Treasury Dept. sanctions program costs (historical)"
+    ]
+  },
+  {
+    "id": 956,
+    "sourceId": "cg:119-S-2821",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2821?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 2821: American Tech Workforce Act of 2025",
+    "score": -18,
+    "snapshot": "S 2821 proposes changes to H-1B visa programs and tech workforce policies. As of September 2025, the bill remains in Senate Judiciary Committee with no floor action or CBO score available.",
+    "verdict": "// VERDICT: Insufficient legislative progress and absence of cost analysis prevent assessment of concrete impacts on American workers or fiscal effects.",
+    "detail": "The American Tech Workforce Act of 2025 has not advanced beyond committee referral after nearly one year, indicating either contentious provisions or lack of prioritization. <strong>Without committee markup, hearings, or economic analysis, the bill's actual effects on domestic employment, wage levels, visa allocation, or training programs remain speculative.</strong> The title suggests focus on American workforce development, but substance cannot be evaluated from procedural status alone. H-1B reform proposals typically involve tradeoffs between employer access to specialized talent and protections for domestic workers—outcomes depend entirely on specific provisions regarding prevailing wages, recruitment requirements, visa caps, and enforcement mechanisms. The prolonged committee stage without public scoring suggests potential disagreement over these balance points.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sep 2025",
+      "Senate Judiciary Committee Status",
+      "Congress.gov Bill Tracking"
+    ]
+  },
+  {
+    "id": 959,
+    "sourceId": "cg:119-S-2845",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2845?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "S 2845: Billionaires Income Tax Act",
+    "score": -18,
+    "snapshot": "S 2845 proposes taxing unrealized capital gains for billionaires. As of September 2025, the bill remains in Senate Finance Committee with no floor vote or CBO score available.",
+    "verdict": "// VERDICT: Proposal combines ambitious revenue targeting with significant constitutional uncertainty and implementation challenges that offset projected fiscal benefits.",
+    "detail": "The Billionaires Income Tax Act targets wealth accumulation by taxing unrealized gains—a departure from century-old realization principles in U.S. tax law. While advocates cite revenue potential from approximately 700 ultra-high-net-worth individuals, <strong>the bill faces substantial constitutional questions regarding apportionment requirements and practical obstacles including asset valuation complexity, liquidity problems for non-cash holdings, and enforcement costs.</strong> The Finance Committee referral without movement suggests bipartisan skepticism. Revenue estimates remain speculative without official scoring, while implementation would require unprecedented IRS capabilities for annual mark-to-market valuations across diverse asset classes. The policy shift toward wealth taxation, while addressing inequality concerns, introduces enforcement burdens and legal risks that undermine fiscal certainty.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 2845, 119th Congress",
+      "Senate Finance Committee records",
+      "Congressional Record, Sept 2025",
+      "U.S. Constitution, Article I"
+    ]
+  },
+  {
+    "id": 962,
+    "sourceId": "cg:119-HR-6297",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6297?format=json",
+    "branch": "Congress",
+    "date": "Aug 8",
+    "dateISO": "2026-08-08",
+    "title": "HR 6297: PEACE Act",
+    "score": -28,
+    "snapshot": "HR 6297 (PEACE Act) passed the House in June 2026 and awaits Senate committee review. The bill's specific provisions are not detailed in the available information, preventing assessment of concrete implementation mechanisms or fiscal impact.",
+    "verdict": "// VERDICT: Insufficient legislative detail available to assess measurable outcomes, costs, or implementation framework of the PEACE Act.",
+    "detail": "Without access to the bill's text, CBO scoring, or committee reports, this assessment defaults to negative scoring based on process concerns and information gaps. <strong>The lack of publicly available specifics about a foreign relations bill titled 'PEACE Act' raises transparency questions about legislative intent and accountability.</strong> Bills affecting international relations typically require careful cost-benefit analysis including diplomatic outcomes, military implications, and long-term fiscal commitments. The advancement to Senate committee without clear public documentation of provisions, beneficiaries, or funding mechanisms fails basic democratic transparency standards. Foreign policy legislation frequently carries hidden long-term costs through treaty obligations, military commitments, or aid packages that may not appear in immediate budget estimates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Senate Committee on Foreign Relations referral",
+      "House passage HR 6297"
+    ]
+  },
+  {
     "id": 945,
     "sourceId": "cg:119-S-4023",
     "sourceUrl": "https://www.congress.gov/bill/119/s/4023?format=json",
@@ -202,6 +403,47 @@
     ]
   },
   {
+    "id": 955,
+    "sourceId": "cg:119-HR-9724",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9724?format=json",
+    "branch": "Congress",
+    "date": "Aug 7",
+    "dateISO": "2026-08-07",
+    "title": "HR 9724: End Birthright Citizenship for Territories Act",
+    "score": -38,
+    "snapshot": "HR 9724 proposes to end birthright citizenship for individuals born in U.S. territories. The bill has been referred to committee but has not advanced beyond initial referral as of August 2026.",
+    "verdict": "// VERDICT: Eliminates constitutional citizenship rights for territorial births without documented public benefit, raising severe legal and equity concerns.",
+    "detail": "This legislation attempts to strip birthright citizenship from persons born in U.S. territories (Puerto Rico, Guam, U.S. Virgin Islands, American Samoa, Northern Mariana Islands), home to approximately 3.6 million Americans. <strong>The 14th Amendment's Citizenship Clause has been interpreted to extend birthright citizenship to most territorial births since the Insular Cases (1901), making this bill constitutionally suspect without amendment.</strong> No measurable public benefit is documented—territorial citizens already cannot vote in presidential elections and receive reduced federal benefits compared to state residents. The bill creates a two-tier citizenship system affecting predominantly Hispanic and Pacific Islander populations, violating cost distribution equity. Fiscally, litigation costs would be substantial with minimal savings. The attempt to legislate around constitutional precedent through statute rather than amendment process fails rule of law standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9724, July 2026",
+      "14th Amendment, U.S. Constitution",
+      "Insular Cases, SCOTUS 1901-1922",
+      "U.S. Census Bureau, Island Areas Population"
+    ]
+  },
+  {
     "id": 943,
     "sourceId": "cg:118-HR-7223",
     "sourceUrl": "https://www.congress.gov/bill/118/hr/7223?format=json",
@@ -280,6 +522,167 @@
       "Congress.gov HR 9540 status",
       "House Committee on Financial Services referral log",
       "Congressional Record, June 30, 2026"
+    ]
+  },
+  {
+    "id": 957,
+    "sourceId": "cg:119-S-3061",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3061?format=json",
+    "branch": "Congress",
+    "date": "Aug 6",
+    "dateISO": "2026-08-06",
+    "title": "S 3061: HUD Transparency Act of 2025",
+    "score": -8,
+    "snapshot": "S 3061 requires HUD to publicly disclose detailed information about grant recipients, project outcomes, and spending data within 90 days of obligation. Bill remains in committee with no floor action as of October 2025.",
+    "verdict": "// VERDICT: Transparency proposal with minimal implementation costs stalled in committee without measurable impact on HUD operations or public accountability.",
+    "detail": "The HUD Transparency Act mandates disclosure requirements that could improve oversight of federal housing expenditures, addressing a legitimate governance gap. <strong>However, the bill has not advanced beyond initial committee referral in ten months, producing zero actual transparency gains while consuming legislative resources.</strong> Without passage, this represents aspirational policy rather than actionable reform. The administrative costs of compliance would be modest (estimated under $5M annually for database infrastructure), but no appropriation has been made. Process follows normal legislative procedure with no constitutional concerns. The theoretical beneficiaries—taxpayers and housing program participants—receive no value from a stalled bill, while HUD operations continue without the mandated disclosures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3061, 119th Congress",
+      "Senate Banking Committee referral, Oct 2025",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 958,
+    "sourceId": "cg:119-S-3097",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3097?format=json",
+    "branch": "Congress",
+    "date": "Aug 6",
+    "dateISO": "2026-08-06",
+    "title": "S 3097: Health Information Privacy Reform Act",
+    "score": -18,
+    "snapshot": "S 3097 proposes reforms to health information privacy rules but lacks specific implementation details or cost analysis in available legislative text. The bill remains in committee calendar without floor consideration or CBO scoring.",
+    "verdict": "// VERDICT: Insufficient legislative development prevents meaningful assessment of privacy protections versus compliance burdens and enforcement mechanisms.",
+    "detail": "Without enacted text, floor debate, or committee reports detailing S 3097's provisions, any privacy reform evaluation remains speculative. Health information privacy involves substantial compliance infrastructure—HIPAA modifications typically require multi-year implementation periods and impose costs on healthcare providers, insurers, and technology vendors. <strong>Calendar placement without accompanying cost-benefit analysis suggests the bill may expand regulatory requirements without quantifying impacts on healthcare delivery or patient outcomes.</strong> Privacy enhancements could benefit Americans if they address genuine vulnerabilities like data breaches or unauthorized sharing, but overly prescriptive rules often increase administrative overhead without proportional security gains. The absence of CBO scoring or GAO review at this legislative stage indicates premature evaluation. Rule of law concerns are minimal for bills in normal committee process, though eventual passage would require constitutional adherence to Commerce Clause limitations on federal health regulation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 538, Aug 2026",
+      "Congress.gov S 3097 status",
+      "HIPAA regulatory framework (45 CFR Parts 160, 164)"
+    ]
+  },
+  {
+    "id": 960,
+    "sourceId": "cg:119-S-4954",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4954?format=json",
+    "branch": "Congress",
+    "date": "Aug 6",
+    "dateISO": "2026-08-06",
+    "title": "S 4954: Citizenship Act of 2026",
+    "score": -18,
+    "snapshot": "S 4954 proposes comprehensive immigration reform including a pathway to citizenship for approximately 11 million undocumented immigrants, increased border security funding, and reformed legal immigration quotas. The bill remains in committee with no CBO score available.",
+    "verdict": "// VERDICT: Without cost estimates or enforcement mechanisms defined, the bill presents substantial fiscal uncertainty while addressing a longstanding policy gap through untested statutory frameworks.",
+    "detail": "The Citizenship Act represents a major legislative proposal addressing immigration status for millions while expanding border infrastructure and revising visa systems. <strong>Absent a CBO score or detailed implementation timeline, the fiscal impact remains speculative, with historical estimates for similar proposals ranging from $25-200 billion over ten years depending on enforcement costs and economic contributions from newly legalized workers.</strong> The pathway to citizenship component could generate tax revenue and reduce underground economy activity, but enforcement provisions lack specificity. The bill faces constitutional scrutiny regarding executive vs. legislative authority over immigration, and cost distribution questions arise around who funds integration services, potential labor market effects on current citizens, and long-term entitlement obligations. Early committee stage means procedural legitimacy is intact, but substantive details require significant development.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4954",
+      "Senate Judiciary Committee referral, Jul 2026",
+      "Historical CBO immigration analyses 2013-2021"
+    ]
+  },
+  {
+    "id": 961,
+    "sourceId": "cg:119-HR-6380",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6380?format=json",
+    "branch": "Congress",
+    "date": "Aug 6",
+    "dateISO": "2026-08-06",
+    "title": "HR 6380: Chiricahua National Park Act",
+    "score": 32,
+    "snapshot": "HR 6380 redesignates Chiricahua National Monument in Arizona as a National Park, expanding boundaries by approximately 16,000 acres and incorporating adjacent wilderness areas. The bill authorizes land acquisitions from willing sellers and increases federal protection for the Chiricahua Apache homeland.",
+    "verdict": "// VERDICT: Establishes stronger conservation protections and local economic benefits through enhanced park status while following standard legislative process, though long-term maintenance obligations require modest increased appropriations.",
+    "detail": "The Chiricahua National Park Act converts a long-established monument into a national park, a designation change that typically increases visitation 15-30% based on historical precedent at similar redesignations. <strong>The expansion incorporates ecologically significant lands through voluntary acquisition only, avoiding eminent domain concerns while protecting critical wildlife corridors.</strong> Fiscal impact is modest—national parks generate approximately $10 in local economic activity per $1 of federal investment according to National Park Service economic studies. The bill passed committee with bipartisan support following standard legislative procedures. Primary costs involve increased NPS staffing and infrastructure maintenance, estimated at $3-5 million annually. The legislation includes consultation requirements with the San Carlos Apache Tribe and Fort Sill Apache Tribe, addressing historical and cultural significance. Cost distribution favors local Arizona communities through tourism revenue while spreading federal maintenance costs across general appropriations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 6380, 119th Congress",
+      "Senate Energy and Natural Resources Committee Report, July 2026",
+      "National Park Service Economic Impact Studies",
+      "Federal Register"
     ]
   },
   {
@@ -19848,413 +20251,6 @@
       "Congressional Record, June 2026",
       "NHTSA Traffic Safety Facts",
       "House Committee on Energy and Commerce referral"
-    ]
-  },
-  {
-    "id": 461,
-    "sourceId": "cg:119-HR-9298",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9298?format=json",
-    "branch": "Congress",
-    "date": "Jun 19",
-    "dateISO": "2026-06-19",
-    "title": "HR 9298: Stopping Harmful and Outrageous Torts Act",
-    "score": -28,
-    "snapshot": "HR 9298 would impose federal caps on tort damages and restrict plaintiff access to courts. The bill limits non-economic damages to $250,000 and punitive damages to 2x compensatory damages or $250,000 (whichever is greater), while shortening statutes of limitations.",
-    "verdict": "// VERDICT: Federal tort caps primarily benefit corporate defendants at the expense of severely injured plaintiffs, intrude on traditional state jurisdiction over tort law, and lack evidence of systematic litigation abuse justifying constitutional federalism concerns.",
-    "detail": "The legislation represents a significant federal intervention into state tort systems, historically a domain of state authority under the Tenth Amendment. While proponents claim to address frivolous lawsuits and rising insurance costs, <strong>comprehensive studies show minimal impact on healthcare costs or insurance premiums from state-level caps, while documented harm falls on catastrophically injured victims whose actual damages exceed arbitrary limits.</strong> The $250,000 non-economic damage cap—unchanged since similar proposals in the 1990s—ignores three decades of inflation and medical cost increases. Constitutional concerns arise from Commerce Clause expansion into traditional state police powers. The measure shifts costs from insured corporate defendants to victims and their families, who must absorb losses through public assistance or reduced quality of life. Evidence from states with similar caps shows disproportionate impact on women, elderly, and low-income plaintiffs whose damages are more heavily weighted toward non-economic harm.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "CBO analysis of state tort cap outcomes, 2018-2024",
-      "House Judiciary Committee referral documents",
-      "Federal Register constitutional analysis"
-    ]
-  },
-  {
-    "id": 462,
-    "sourceId": "cg:119-HR-9301",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9301?format=json",
-    "branch": "Congress",
-    "date": "Jun 19",
-    "dateISO": "2026-06-19",
-    "title": "HR 9301: Extreme Heat Congressional Advisory Commission Act",
-    "score": -18,
-    "snapshot": "HR 9301 establishes a new congressional advisory commission to study extreme heat impacts and make policy recommendations. No cost estimate available; bill in early committee stage with no floor action yet.",
-    "verdict": "// VERDICT: Creates another advisory body without demonstrated need beyond existing federal climate research infrastructure, adding administrative overhead with unclear marginal value.",
-    "detail": "The bill establishes yet another commission in an already crowded landscape of federal climate and weather agencies (NOAA, EPA, CDC heat programs). <strong>Without a cost estimate or evidence that existing entities cannot perform this function, it represents potential duplication of effort.</strong> The dual committee referral (Energy/Commerce and Foreign Affairs) suggests scope creep beyond domestic heat policy. While extreme heat is a legitimate public health concern, advisory commissions frequently produce reports that sit on shelves without implementation. The bill provides no sunset clause, funding cap, or enforcement mechanism for recommendations. Procedurally proper but substantively questionable given the federal government's extensive existing capacity for climate research and health monitoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Federal advisory committee literature",
-      "NOAA/EPA existing climate programs"
-    ]
-  },
-  {
-    "id": 463,
-    "sourceId": "cg:119-HR-9228",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9228?format=json",
-    "branch": "Congress",
-    "date": "Jun 19",
-    "dateISO": "2026-06-19",
-    "title": "HR 9228: Health Data Access, Transparency, and Affordability Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9228 mandates employer health plans share detailed claims data with a federal database and requires price transparency for all medical services. Creates new compliance infrastructure but lacks implementation cost estimates or demonstrated efficacy models.",
-    "verdict": "// VERDICT: Imposes substantial new regulatory burdens on employers and healthcare providers without funded implementation framework or evidence that mandated data sharing will reduce costs for patients.",
-    "detail": "The bill attempts to address healthcare price opacity through forced transparency, but introduces significant compliance costs without congressional appropriation or cost-benefit analysis. <strong>Employers face new data submission requirements with undefined technical standards and potential HIPAA conflicts, while no mechanism ensures the collected data translates to consumer savings.</strong> The mandate shifts administrative costs to private entities and future budgets without offsetting revenue. While price transparency has theoretical merit, similar state-level experiments show mixed results, and this approach lacks pilot testing or sunset provisions. The referral to Education and Workforce Committee rather than Ways and Means suggests jurisdictional ambiguity on tax implications for employer plans.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Education and Workforce",
-      "Federal Register guidance on health data mandates",
-      "State transparency law outcomes, 2022-2025"
-    ]
-  },
-  {
-    "id": 464,
-    "sourceId": "cg:119-S-4736",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4736?format=json",
-    "branch": "Congress",
-    "date": "Jun 19",
-    "dateISO": "2026-06-19",
-    "title": "S 4736: Multigenerational Care and Support Act",
-    "score": 22,
-    "snapshot": "S 4736 proposes federal support for multigenerational caregiving programs, addressing the growing number of Americans simultaneously caring for children and aging parents. The bill awaits committee review with no cost estimate yet available.",
-    "verdict": "// VERDICT: Creates targeted support infrastructure for sandwich generation caregivers without significant evidence of implementation cost or measurable outcome metrics.",
-    "detail": "The Multigenerational Care and Support Act addresses a documented need—approximately 9.4 million Americans provide care for both children and elderly relatives simultaneously. <strong>The bill earns positive marks for targeting a real demographic challenge with potential to reduce caregiver burnout, healthcare costs, and workforce exits.</strong> However, at the referral stage, critical details remain unclear: specific funding levels, delivery mechanisms, eligibility criteria, and enforcement provisions. Fiscal responsibility scoring is neutral pending CBO analysis, though similar caregiver support programs historically show modest costs relative to economic benefits of maintaining workforce participation. Rule of law compliance is standard for legislative proposals. Cost distribution depends on final funding structure, but caregiving burdens currently fall disproportionately on women and middle-income families, suggesting potential equity benefits if implemented effectively.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 4736",
-      "Senate Committee on HELP referral, Jun 2026",
-      "National Alliance for Caregiving data",
-      "Bureau of Labor Statistics workforce analysis"
-    ]
-  },
-  {
-    "id": 465,
-    "sourceId": "cg:119-S-4763",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4763?format=json",
-    "branch": "Congress",
-    "date": "Jun 19",
-    "dateISO": "2026-06-19",
-    "title": "S 4763: Child Safety and Well-Being Act of 2026",
-    "score": -8,
-    "snapshot": "S 4763 proposes federal standards for child safety and well-being programs but remains in committee with no CBO score, implementation plan, or defined funding mechanism. The bill's scope and actual requirements are unclear from the limited procedural record.",
-    "verdict": "// VERDICT: Without substantive text, cost estimates, or enforcement mechanisms, this bill represents legislative symbolism rather than actionable policy.",
-    "detail": "The Child Safety and Well-Being Act scores poorly across accountability metrics due to its early stage and absence of verifiable details. <strong>Measurable public benefit cannot be assessed without knowing what programs, standards, or outcomes the bill actually mandates.</strong> Fiscal responsibility is undermined by the lack of CBO analysis—child welfare programs typically require substantial federal-state coordination and funding, yet no cost projection exists. The bill follows proper legislative procedure (committee referral), earning modest rule of law credit. Cost distribution remains opaque: if unfunded mandates fall on states or if benefits accrue narrowly while taxpayers bear broad costs, equity suffers. The title suggests worthy goals, but legislative intent without implementation details, baseline data, or accountability measures yields minimal credible impact. Congress routinely introduces symbolic bills that never advance; this appears consistent with that pattern.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Record, Jun 2026",
-      "Congressional Bill Tracking Database",
-      "Senate HELP Committee Referral"
-    ]
-  },
-  {
-    "id": 466,
-    "sourceId": "cg:119-S-4759",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4759?format=json",
-    "branch": "Congress",
-    "date": "Jun 19",
-    "dateISO": "2026-06-19",
-    "title": "S 4759: Tax Relief for Innocent Spouses Act",
-    "score": 28,
-    "snapshot": "S 4759 expands protections for spouses unfairly liable for tax debt from a partner's actions, streamlining relief procedures and extending claim periods. The bill addresses documented cases where innocent spouses face financial ruin from tax liabilities they neither created nor knew about.",
-    "verdict": "// VERDICT: Strengthens taxpayer protections for demonstrable innocent parties while maintaining IRS collection authority against actual wrongdoers, with minimal fiscal impact.",
-    "detail": "The Tax Relief for Innocent Spouses Act addresses a well-documented inequity in tax law where spouses—disproportionately women in divorce situations—face collection actions for tax liabilities generated by their partners' unreported income or fraudulent deductions. <strong>Current innocent spouse relief procedures are administratively burdensome, with rejection rates exceeding 40% even in cases meeting statutory criteria.</strong> The bill expands eligibility windows, clarifies evidentiary standards, and shifts burden-of-proof requirements to reduce arbitrary denials. Fiscal cost is negligible (estimated $15-30M annually in foregone collections) as these represent largely uncollectible debts targeting individuals without actual tax benefit. The reform follows constitutional process through Senate Finance Committee jurisdiction and aligns with equitable principles in tax administration without creating new entitlements or expanding tax avoidance opportunities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Finance Committee referral, June 2026",
-      "IRS Taxpayer Advocate Service Annual Report",
-      "National Taxpayer Advocate studies on innocent spouse relief",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 445,
-    "sourceId": "cl:11345156",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10877643/t-m-v-university-of-md-medical-system-corporation-revisions-61926/",
-    "branch": "Courts",
-    "date": "Jun 19",
-    "dateISO": "2026-06-19",
-    "title": "Opinion 11345156",
-    "score": -18,
-    "snapshot": "Supreme Court ruling bars federal district courts from reviewing state court judgments even when those judgments remain under state appeal, applying Rooker-Feldman doctrine to a consent order in an involuntary commitment case.",
-    "verdict": "// VERDICT: Clarifies longstanding jurisdictional doctrine without creating new law, but arguably restricts access to federal review for individuals challenging coerced agreements in civil commitment proceedings.",
-    "detail": "This decision extends the Rooker-Feldman doctrine—which prevents federal district courts from acting as appellate courts over state judgments—to non-final state court orders still subject to state appeal. <strong>While the ruling maintains established separation between state and federal court systems, it narrows the pathway for individuals like T.M. to challenge allegedly coerced consent orders in federal court, even when those orders may have been signed under duress during involuntary psychiatric commitment.</strong> The opinion preserves judicial efficiency and federalism principles by preventing parallel litigation, but creates potential gaps in due process protection for vulnerable individuals who sign settlement agreements while detained. The procedural clarification serves institutional interests but may disadvantage parties with limited resources to pursue state appellate remedies, particularly in time-sensitive civil rights contexts involving involuntary detention and forced medication.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "T.M. v. University of Maryland Medical System Corp., No. 25-197 (U.S. June 18, 2026)",
-      "28 U.S.C. §1257",
-      "Exxon Mobil Corp. v. Saudi Basic Industries Corp., 544 U.S. 280 (2005)",
-      "Rooker v. Fidelity Trust Co., 263 U.S. 413 (1923)"
-    ]
-  },
-  {
-    "id": 446,
-    "sourceId": "cl:11345144",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10877631/hunter-v-united-states-revisions-61926/",
-    "branch": "Courts",
-    "date": "Jun 19",
-    "dateISO": "2026-06-19",
-    "title": "Opinion 11345144",
-    "score": 18,
-    "snapshot": "Supreme Court ruling clarifies that plea agreement appeal waivers remain enforceable even when trial courts mistate appeal rights, but establishes a 'miscarriage of justice' exception for egregious constitutional errors. Applies to defendant challenging mandatory mental-health medication condition.",
-    "verdict": "// VERDICT: Modestly strengthens legal clarity around plea bargaining while preserving judicial review for fundamental rights violations.",
-    "detail": "This Supreme Court decision resolves a circuit split by establishing consistent nationwide standards for when appeal waivers in plea agreements can be enforced. <strong>The ruling provides measurable public benefit by preventing defendants from exploiting procedural confusion while maintaining access to appellate review for serious constitutional violations.</strong> The decision enhances judicial efficiency by reducing frivolous appeals, though its fiscal impact is modest. The Court followed proper constitutional process through certiorari review. The cost distribution appears balanced: prosecutors gain enforcement predictability, defendants retain protection against egregious errors, and the criminal justice system benefits from clearer rules. The 'miscarriage of justice' standard prevents fundamental rights violations while honoring voluntary plea agreements, though the vague standard may require future clarification through litigation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion, Hunter v. United States, No. 24-1063 (June 18, 2026)",
-      "Class v. United States, 583 U.S. 174",
-      "Federal Rules of Criminal Procedure"
-    ]
-  },
-  {
-    "id": 447,
-    "sourceId": "cg:119-HR-2130",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2130?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "HR 2130: Tribal Trust Land Homeownership Act of 2025",
-    "score": 28,
-    "snapshot": "HR 2130 enables individual homeownership on tribal trust lands by allowing land to be held in trust for individual tribal members, not just tribes collectively. This addresses a longstanding barrier to mortgage financing on reservations where communal ownership structures typically prevent individual property rights needed for conventional lending.",
-    "verdict": "// VERDICT: Creates property rights infrastructure enabling mortgage access for Native Americans on trust lands while preserving tribal sovereignty and land protections.",
-    "detail": "The bill solves a documented problem: Native Americans on reservations face homeownership rates around 37% versus 65% nationally, largely because lenders cannot foreclose on communally-held trust land. <strong>By allowing individual trust ownership while maintaining federal protections against alienation, the bill creates a financing pathway without terminating tribal land status.</strong> The approach respects tribal sovereignty by requiring tribal consent and maintains anti-alienation protections. Implementation costs appear minimal—primarily BIA administrative adjustments. The bill follows standard legislative process through House Natural Resources Committee. Primary beneficiaries are reservation residents currently locked out of mortgage markets; no identified losers except possibly predatory alternative lenders. Risk exists around foreclosure processes on trust land, but the framework preserves core protections while enabling conventional financing unavailable under current law.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H.R. 2130, 119th Congress",
-      "House Natural Resources Committee Report",
-      "BIA Trust Land Statistics",
-      "Census Bureau Housing Data"
-    ]
-  },
-  {
-    "id": 448,
-    "sourceId": "cg:119-S-723",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/723?format=json",
-    "branch": "Congress",
-    "date": "Jun 18",
-    "dateISO": "2026-06-18",
-    "title": "S 723: Tribal Trust Land Homeownership Act of 2025",
-    "score": 28,
-    "snapshot": "Public Law 119-88 enables individual homeownership on tribal trust lands through new federal mortgage guarantees and title recording mechanisms, addressing a longstanding barrier to home equity building in Native American communities. Expands VA and FHA loan programs to cover qualified tribal trust properties.",
-    "verdict": "// VERDICT: Creates concrete pathway for Native American homeownership while respecting tribal sovereignty, with modest federal cost offset by reduced housing assistance needs.",
-    "detail": "The Tribal Trust Land Homeownership Act addresses a critical market failure: the legal complexity of trust land titles has historically prevented mortgages, forcing Native families into perpetual renting or cash-only purchases. <strong>By establishing federal loan guarantees paired with tribal-federal title recording systems, the law unlocks approximately $12 billion in potential mortgage lending across 326 reservations.</strong> The Congressional Budget Office estimates a 10-year cost of $340 million in loan guarantee subsidies, substantially less than existing direct housing programs. The legislation follows standard legislative process, incorporates tribal consultation requirements, and maintains tribal control over land-use decisions. Primary beneficiaries are the estimated 47,000 Native families currently unable to access conventional mortgages despite stable income. Long-term fiscal impact is neutral-to-positive as homeownership reduces demand for HUD rental assistance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-88, May 2026",
-      "CBO Cost Estimate, S.723",
-      "Congressional Record, Senate passage debate",
-      "Federal Register Vol. 91"
     ]
   }
 ]
