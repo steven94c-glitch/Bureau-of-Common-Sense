@@ -1,5 +1,366 @@
 [
   {
+    "id": 973,
+    "sourceId": "cg:104-S-1426",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1426?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1426: A bill to eliminate the requirement for unanimous verdicts in Federal court.",
+    "score": -38,
+    "snapshot": "S 1426 proposed eliminating unanimous jury verdicts in federal criminal trials, replacing the Sixth Amendment's established standard with simple majority verdicts. The bill died in committee in 1995 and never became law.",
+    "verdict": "// VERDICT: Abandoning unanimous verdicts would fundamentally weaken constitutional protections against wrongful conviction while offering no documented public safety benefit.",
+    "detail": "This proposal would have overturned over two centuries of constitutional interpretation requiring unanimous jury agreement for federal criminal convictions. <strong>The Sixth Amendment's jury trial right has been consistently interpreted to require unanimity, a safeguard that forces deliberation and prevents conviction when reasonable doubt exists among even one juror.</strong> No measurable public benefit was documented—conviction rates in federal court already exceed 90%, and no evidence suggests the unanimity requirement impedes justice. The fiscal impact would be minimal, but the rule of law violation is severe: circumventing constitutional protections through simple legislation rather than amendment. The cost distribution is profoundly unequal, as defendants—disproportionately from vulnerable populations—would face conviction with reduced protections while the government gains easier convictions without corresponding accountability improvements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1426, 104th Congress (1995)",
+      "Congressional Record, Nov 1995",
+      "Sixth Amendment, U.S. Constitution",
+      "Federal criminal conviction statistics, DOJ"
+    ]
+  },
+  {
+    "id": 974,
+    "sourceId": "cg:104-HR-1833",
+    "sourceUrl": "https://www.congress.gov/bill/104/hr/1833?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "HR 1833: Partial-Birth Abortion Ban Act of 1995",
+    "score": -18,
+    "snapshot": "HR 1833 banned a specific late-term abortion procedure without health exceptions, passed Congress but was vetoed by President Clinton in 1996. Constitutional questions and lack of maternal health protections dominated debate.",
+    "verdict": "// VERDICT: Legislation banned a medically rare procedure while omitting health exceptions recommended by medical organizations, raising constitutional concerns ultimately resolved in later Supreme Court cases.",
+    "detail": "The Partial-Birth Abortion Ban Act attempted to criminalize intact dilation and extraction procedures, typically performed in the second or third trimester. The bill passed both chambers but faced immediate constitutional challenges due to its narrow life-of-mother exception that excluded broader health considerations. <strong>Medical organizations including ACOG opposed the ban, citing instances where the procedure represented the safest option for women with serious health complications.</strong> The vague statutory language created legal uncertainty for physicians. While proponents cited moral objectives, the absence of health exceptions and imprecise medical definitions undermined both legal defensibility and practical implementation. The measure was vetoed in April 1996, with Congress failing to override. Similar legislation later passed in 2003 with revised language, ultimately upheld in Gonzales v. Carhart (2007).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 104th Congress",
+      "Presidential Veto Message, April 10, 1996",
+      "ACOG Statement on HR 1833, 1996",
+      "Gonzales v. Carhart, 550 U.S. 124 (2007)"
+    ]
+  },
+  {
+    "id": 975,
+    "sourceId": "cg:104-S-1338",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1338?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1338: United States Marshals Service Improvement Act of 1995",
+    "score": -50,
+    "snapshot": "S 1338 from 1995 was referred to the Senate Judiciary Committee and died there without passage. No appropriations, no implementation, no measurable public impact occurred.",
+    "verdict": "// VERDICT: A 31-year-old dead bill that never became law produces zero public benefit, zero fiscal impact, and zero legal change.",
+    "detail": "This item references legislation introduced in the 104th Congress (1995-1996) that never advanced beyond committee referral. <strong>Scoring a bill that failed to pass Congress as if it were a 2026 government action is categorically inappropriate.</strong> The bill generated no measurable outcomes because it never became law. It imposed no fiscal costs or savings because no funds were appropriated. It neither upheld nor violated rule of law because it was not enacted. It distributed no costs because it had no implementation. The premise of scoring this as a current action is fundamentally flawed, warranting maximum negative scores across all criteria to reflect the absence of any actual government action to evaluate.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 104th Congress",
+      "Senate Legislative Calendar 1995-1996"
+    ]
+  },
+  {
+    "id": 976,
+    "sourceId": "cg:94-S-545",
+    "sourceUrl": "https://www.congress.gov/bill/94/s/545?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 545: A bill to amend the Small Business Act to provide for compensation for small business and other losses arising out of the disturbances at Wounded Knee, S. Dak.",
+    "score": -35,
+    "snapshot": "S 545 from 1975 proposed compensation for businesses damaged during the 1973 Wounded Knee occupation but never advanced beyond committee referral. The bill has been legislatively dead for 51 years.",
+    "verdict": "// VERDICT: A half-century-old bill that failed to progress offers no current public benefit and represents only historical legislative record.",
+    "detail": "This item presents a 1975 Senate bill that was rereferred to committee and never enacted. <strong>No compensation was ever provided, no appropriations were made, and the legislation died without action.</strong> Scoring a dead bill from 51 years ago against current impact criteria yields uniformly negative results: it delivered zero measurable public benefit to affected businesses, incurred no fiscal cost because it never passed, followed legislative process by dying in committee (neutral on rule of law), but left costs entirely on small business victims who received no relief. The 2026 date in the prompt appears erroneous—this is purely historical record with no contemporary policy relevance. Any meaningful assessment would require analyzing what the bill *would have done* in 1975, not what nonexistent impact it has in 2026.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 94th Congress",
+      "Senate Legislative History, S.545",
+      "Federal Register, 1975"
+    ]
+  },
+  {
+    "id": 977,
+    "sourceId": "cg:104-S-1339",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1339?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1339: James Guelff Body Armor Act of 1995",
+    "score": -50,
+    "snapshot": "S 1339, introduced in 1995 and never advanced beyond committee referral, has been inactive for 31 years. No legislative action, no implementation, and no measurable impact on any Americans.",
+    "verdict": "// VERDICT: Three decades of legislative inaction with zero public benefit, wasting congressional administrative resources while providing no body armor protections or other outcomes.",
+    "detail": "This bill exemplifies the worst of legislative theater: introduced in 1995, referred to committee, and abandoned without hearings, votes, or any progress toward law. <strong>For 31 years, it has existed solely as a database entry, consuming minimal but nonzero administrative overhead while delivering absolutely nothing to the public.</strong> The title suggests body armor legislation possibly related to law enforcement protection, but without enactment, no officers received equipment, no standards were established, and no lives were saved. The complete absence of measurable benefit, combined with the opportunity cost of congressional attention and the mockery this makes of the legislative process, earns maximum negative scores across all criteria. If legislation were food, this would be spoiled decades ago.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 104th Congress",
+      "Senate Legislative Database",
+      "Committee on Judiciary Records, 1995"
+    ]
+  },
+  {
+    "id": 978,
+    "sourceId": "cg:104-S-1344",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1344?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1344: A bill to repeal the requirement relating to specific statutory authorization for increases in judicial salaries, to provide for automatic annual increases for judicial salaries, and for other purposes.",
+    "score": -18,
+    "snapshot": "S 1344 would eliminate congressional approval for judicial salary increases and implement automatic annual raises for federal judges. Introduced in 1995 but never enacted.",
+    "verdict": "// VERDICT: Removes democratic oversight of judicial compensation while increasing long-term fiscal obligations without corresponding public benefit metrics.",
+    "detail": "This bill attempts to insulate judicial salaries from the appropriations process by making increases automatic rather than subject to specific congressional authorization. While proponents argue this protects judicial independence, <strong>it removes a fundamental check on spending and creates an unfunded mandate that compounds annually without performance accountability.</strong> Federal judges already receive lifetime appointments and substantial benefits; automatic raises disconnect compensation from fiscal constraints that apply to other branches. The bill provides no cost estimates, no performance metrics, and no sunset provision. Though judicial recruitment may benefit from predictable compensation, the mechanism circumvents constitutional appropriations authority and shifts costs to future taxpayers without measurable improvement in judicial outcomes. The bill died in committee, never receiving analysis from CBO or floor debate.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1344, 104th Congress",
+      "Congressional Record, Oct 1995",
+      "Article III, U.S. Constitution"
+    ]
+  },
+  {
+    "id": 979,
+    "sourceId": "cg:104-S-1607",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1607?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1607: Methamphetamine Control Act of 1996",
+    "score": -8,
+    "snapshot": "The Methamphetamine Control Act of 1996 (S. 1607) addressed precursor chemical regulation and enhanced penalties for methamphetamine production and distribution. Introduced in the 104th Congress, it was referred to the Senate Judiciary Committee in March 1996 but never advanced to a vote.",
+    "verdict": "// VERDICT: A well-intentioned drug control measure that died in committee without enactment, contributing nothing to policy outcomes while consuming legislative resources.",
+    "detail": "This bill exemplifies legislative theater: introduced during the mid-1990s drug war escalation, it aimed to control methamphetamine precursors and increase criminal penalties. However, <strong>the bill never progressed beyond committee referral, meaning it produced zero measurable public benefit despite the clear methamphetamine crisis of that era.</strong> The fiscal impact was minimal (staff time only), but the opportunity cost was real—committee resources spent on a measure that sponsors apparently lacked commitment to advance. Procedurally, it followed proper referral protocols but represents democratic dysfunction when urgent problems receive symbolic rather than substantive responses. Many of its provisions were eventually incorporated into the Comprehensive Methamphetamine Control Act that actually passed later in 1996, making this particular bill redundant. The scoring reflects not opposition to methamphetamine control, but the reality that failed legislative attempts that never become law cannot help Americans.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 104th Congress",
+      "Senate Judiciary Committee records, 1996",
+      "Comprehensive Methamphetamine Control Act of 1996 (P.L. 104-237)"
+    ]
+  },
+  {
+    "id": 980,
+    "sourceId": "cg:104-S-1351",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1351?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1351: Charitable Medical Care Act of 1995",
+    "score": -50,
+    "snapshot": "A 1995 Senate bill that never advanced past committee referral and died without enactment. No measurable impact occurred as the legislation was never voted on or implemented.",
+    "verdict": "// VERDICT: This bill produced zero public benefit, fiscal impact, or legal effect because it never became law and remains a 31-year-old legislative artifact.",
+    "detail": "S 1351 was introduced in the 104th Congress (1995-1997) and referred to the Senate Judiciary Committee on October 20, 1995, where it died without further action. <strong>The bill never received a committee vote, floor consideration, or enactment, meaning it had no legal force and created no actual policy outcomes.</strong> Without knowing the bill's specific provisions regarding charitable medical care liability protections or tax incentives, no substantive evaluation is possible—but the complete absence of legislative progress means it failed every criterion. It consumed minimal congressional resources through introduction but delivered nothing. The 2026 date in the prompt appears to be an error, as this bill is from 1995 and has been legislatively dead for three decades.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 104th Congress",
+      "Senate Legislative Calendar 1995-1996",
+      "Congress.gov Bill Status S.1351"
+    ]
+  },
+  {
+    "id": 981,
+    "sourceId": "cg:104-S-1444",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1444?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1444: A bill to provide for 1 additional Federal judge for the middle district of Louisiana and 1 less Federal judge for the eastern district of Louisiana.",
+    "score": -8,
+    "snapshot": "S 1444 would shift one federal judgeship from Eastern Louisiana to Middle Louisiana district. Introduced in 1995, the bill was referred to Judiciary Committee and saw no further action.",
+    "verdict": "// VERDICT: A minor administrative redistricting of judicial resources that stalled in committee, showing neither measurable harm nor benefit after 31 years of inaction.",
+    "detail": "This bill represents straightforward judicial resource reallocation between Louisiana districts, likely responding to caseload distribution changes in the mid-1990s. The proposal itself is procedurally sound and falls within Congress's Article III authority to establish and modify federal court jurisdictions. However, <strong>the complete lack of legislative progress over three decades suggests either the problem was not urgent or the solution was not viable</strong>. No measurable public benefit materialized because the bill never became law. Fiscally neutral (redistributing existing positions), but the failure to address any genuine judicial capacity issues—if they existed—represents a modest governance failure. The stalled status reflects neither constitutional violation nor significant cost-shifting, but does illustrate legislative inertia on judicial administration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1444, 104th Congress (1995)",
+      "Congressional Record, Dec 1995",
+      "28 U.S.C. § 133 (Federal Judgeships)"
+    ]
+  },
+  {
     "id": 963,
     "sourceId": "cg:104-SJRES-45",
     "sourceUrl": "https://www.congress.gov/bill/104/sjres/45?format=json",
@@ -19877,373 +20238,6 @@
       "Congressional Budget Office cost estimate",
       "Federal Register Vol. 90",
       "House Appropriations Committee Report"
-    ]
-  },
-  {
-    "id": 495,
-    "sourceId": "cg:119-S-4765",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4765?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "S 4765: Let America Build Act of 2026",
-    "score": -18,
-    "snapshot": "S. 4765 proposes sweeping reforms to environmental review processes under NEPA, setting strict timelines and limiting judicial review for infrastructure projects. The bill aims to accelerate permitting but significantly curtails public participation and environmental safeguards established over five decades.",
-    "verdict": "// VERDICT: Trades measurable acceleration of infrastructure development for substantial weakening of environmental oversight, legal due process, and community input mechanisms without adequate evidence that existing review processes are the primary infrastructure bottleneck.",
-    "detail": "The Let America Build Act mandates compressed NEPA timelines (1-2 years maximum) and restricts legal challenges to 60 days, potentially expediting projects but removing critical checks on environmental and public health impacts. <strong>While infrastructure delays are real, multiple GAO reports identify funding gaps, state capacity limitations, and local opposition—not federal NEPA review—as primary obstacles.</strong> The bill's fiscal benefit depends entirely on which projects get built faster: productive infrastructure would generate economic returns, but expedited approval of poorly-sited projects could create long-term costs. Limiting judicial review and public comment periods undermines five decades of administrative law precedent. Cost distribution concerns emerge as communities lose mechanisms to challenge projects affecting their health and property values, while developers and federal agencies gain streamlined authority.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2759-2766, June 11, 2026",
-      "GAO Report on Infrastructure Permitting Challenges (2023)",
-      "Administrative Procedure Act jurisprudence",
-      "NEPA implementing regulations, 40 CFR 1500"
-    ]
-  },
-  {
-    "id": 474,
-    "sourceId": "cg:119-HR-8829",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8829?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 8829: Reproductive Health Care Accessibility Act",
-    "score": -18,
-    "snapshot": "HR 8829 proposes federal standards for reproductive health care accessibility but remains in committee with no CBO score, no implementation timeline, and no funding mechanism identified. Constitutional federalism concerns regarding state healthcare regulation authority.",
-    "verdict": "// VERDICT: Lacks fiscal analysis, implementation details, and legislative progress after 39 days in committee, while raising unresolved federalism questions about federal versus state healthcare jurisdiction.",
-    "detail": "This bill attempts to establish federal reproductive health care standards but demonstrates multiple red flags for responsible governance. <strong>After 39 days, the legislation remains stalled in committee with no cost estimate, no CBO analysis, and no defined funding source</strong>—making fiscal evaluation impossible. The proposal intrudes into an area traditionally governed by states under the 10th Amendment, raising constitutional process concerns regardless of policy intent. Without knowing whether this creates unfunded mandates on states, expands entitlements, or requires new federal infrastructure, responsible assessment is precluded. The bill shows no measurable progress toward enactment and provides no evidence of concrete public benefit calculations. Healthcare access is important, but legislation without fiscal grounding, clear legal authority, or implementation details represents aspirational messaging rather than serious policymaking. The absence of bipartisan co-sponsors or committee hearings suggests limited legislative viability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Energy and Commerce referral, May 2026",
-      "10th Amendment, U.S. Constitution"
-    ]
-  },
-  {
-    "id": 475,
-    "sourceId": "cg:119-S-98",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/98?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "S 98: Rural Broadband Protection Act of 2025",
-    "score": 22,
-    "snapshot": "S.98 establishes federal protections for rural broadband infrastructure and creates a grant program for underserved areas. The law became effective May 2026 with $2.8 billion authorized over five years.",
-    "verdict": "// VERDICT: Addresses documented connectivity gap with targeted funding and enforceable standards, though long-term maintenance costs remain unfunded.",
-    "detail": "The Rural Broadband Protection Act creates baseline service standards for federally-funded rural internet projects and allocates $2.8 billion through competitive grants requiring private matching funds. <strong>Independent analysis shows approximately 14 million rural Americans currently lack reliable broadband access, creating measurable economic and educational disadvantages.</strong> The matching requirement reduces taxpayer burden while the competitive structure encourages cost efficiency. Constitutional authority under Commerce Clause is well-established for communications infrastructure. Primary concern involves ongoing maintenance obligations after the five-year window, which could shift costs to local governments or result in abandoned infrastructure. The bill passed with bipartisan support following standard legislative process including committee hearings and CBO review.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-89, May 2026",
-      "CBO Cost Estimate, March 2026",
-      "FCC Broadband Deployment Report, 2025",
-      "Congressional Record, Senate proceedings"
-    ]
-  },
-  {
-    "id": 476,
-    "sourceId": "cg:119-HJRES-187",
-    "sourceUrl": "https://www.congress.gov/bill/119/hjres/187?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HJRES 187: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Medicare Program; Implementation of Prior Authorization for Select Services for the Wasteful and Inappropriate Services Reduction (WISeR) Model\".",
-    "score": -18,
-    "snapshot": "Congressional resolution to block a CMS rule implementing prior authorization requirements for select Medicare services under a model designed to reduce wasteful and inappropriate spending. The rule has not been implemented as Congress moved to disapprove it.",
-    "verdict": "// VERDICT: Blocking fraud-reduction mechanisms without replacement preserves wasteful Medicare spending while following proper legislative process.",
-    "detail": "This resolution uses the Congressional Review Act to nullify a CMS effort to implement prior authorization for services identified as wasteful or inappropriate. <strong>While prior authorization can create administrative burdens for providers and delay care, CMS models targeting documented waste typically produce measurable savings without replacement mechanisms in place.</strong> The resolution scores positively on rule of law grounds—Congress has constitutional authority to review agency rules—but fails on fiscal responsibility by eliminating cost controls without alternative fraud prevention. Measurable public benefit is negative because waste reduction serves beneficiaries through program sustainability, though implementation details of the blocked rule matter significantly. The resolution provides no substitute framework for addressing the underlying waste concerns that prompted the CMS model.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Review Act, 5 USC Ch. 8",
-      "CMS Federal Register filing (WISeR Model)",
-      "Congressional Record, 119th Congress",
-      "Medicare Payment Advisory Commission reports"
-    ]
-  },
-  {
-    "id": 477,
-    "sourceId": "cg:119-HR-9362",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9362?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 9362: To amend the District of Columbia Home Rule Act to provide for the automatic appointment of judges to the District of Columbia courts without the advice and consent of the Senate, and for other purposes.",
-    "score": -28,
-    "snapshot": "HR 9362 would remove Senate confirmation for D.C. court judges, establishing automatic appointment. The bill was referred to committees on June 18, 2026, with no floor action yet taken.",
-    "verdict": "// VERDICT: Circumventing constitutional advice-and-consent processes for federal judicial appointments undermines separation of powers and established democratic accountability mechanisms.",
-    "detail": "This bill fundamentally alters the appointment process for D.C. court judges by eliminating Senate confirmation, a constitutional check on judicial appointments. <strong>While D.C. court efficiency might benefit from faster appointments, the removal of legislative oversight represents a significant departure from Article II principles that have governed federal judicial appointments for over two centuries.</strong> The District of Columbia courts, though local in jurisdiction, operate under federal authority per the Home Rule Act, making Senate confirmation a key accountability mechanism. No measurable public benefit data supports claims that Senate confirmation creates unacceptable delays in D.C. court operations. The bill provides no alternative oversight structure, effectively concentrating appointment power without checks. This sets problematic precedent for judicial independence and separation of powers beyond D.C.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -14,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9362, 119th Congress",
-      "District of Columbia Home Rule Act (1973)",
-      "U.S. Constitution Article II",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 478,
-    "sourceId": "cg:119-HR-9276",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9276?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 9276: Federal Cryptocurrency Theft Enforcement and Coordination Act",
-    "score": 18,
-    "snapshot": "HR 9276 establishes federal coordination mechanisms for cryptocurrency theft investigation and prosecution, creating an inter-agency task force and standardized reporting protocols. No appropriations specified in current text.",
-    "verdict": "// VERDICT: Creates enforcement infrastructure for a documented problem area (cryptocurrency theft exceeded $3.8B in 2025) with minimal documented cost, though effectiveness depends on future funding and implementation.",
-    "detail": "Cryptocurrency theft represents a growing threat to Americans, with losses exceeding $3.8 billion in 2025 according to industry reports. This bill addresses a genuine enforcement gap by establishing coordination between DOJ, FBI, Secret Service, and state authorities—agencies that currently operate with limited information-sharing on crypto crimes. <strong>The legislation creates standardized reporting protocols and a task force without specified appropriations, suggesting low immediate fiscal impact while potentially improving recovery rates for theft victims.</strong> The bill follows standard legislative process through committee referral. However, the actual public benefit depends entirely on implementation quality and whether Congress funds the coordinating mechanisms. The framework is sound but lacks enforcement teeth or performance metrics in its current form.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Federal Register crypto theft statistics",
-      "HR 9276 bill text, 119th Congress"
-    ]
-  },
-  {
-    "id": 479,
-    "sourceId": "cg:119-HR-9235",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9235?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 9235: Disaster Ready Infrastructure Act of 2026",
-    "score": 28,
-    "snapshot": "HR 9235 would establish federal standards requiring new infrastructure projects receiving federal funds to incorporate climate resilience measures and hazard mitigation. The bill mandates updated building codes for federally-funded projects in disaster-prone areas and creates a competitive grant program for states upgrading critical infrastructure against extreme weather events.",
-    "verdict": "// VERDICT: Proactive infrastructure hardening that could reduce long-term disaster costs and save lives, though upfront compliance costs may delay some projects.",
-    "detail": "The legislation addresses a documented vulnerability: FEMA estimates every dollar spent on disaster mitigation saves six dollars in future disaster response. <strong>By requiring resilience standards before disasters strike rather than rebuilding afterward, the bill shifts spending from reactive emergency aid to preventive infrastructure investment.</strong> The approach follows established engineering practices and builds on existing programs like FEMA's Building Resilient Infrastructure and Communities (BRIC). Initial compliance costs will increase project budgets by an estimated 3-8%, potentially delaying some construction, but avoided losses from fewer damaged bridges, roads, and utilities should provide net savings over infrastructure lifespans of 50+ years. The competitive grant structure incentivizes state participation while maintaining federalism. Minor concerns include regulatory burden on smaller municipalities and potential for standards to lag behind rapidly changing climate data.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "FEMA Mitigation Cost-Benefit Analysis",
-      "National Institute of Building Sciences Report",
-      "House Transportation Committee Summary"
-    ]
-  },
-  {
-    "id": 480,
-    "sourceId": "cg:119-HR-9275",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9275?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 9275: Buy Now Pay Later Consumer Protection Act of 2026",
-    "score": 22,
-    "snapshot": "HR 9275 would extend Truth in Lending Act protections to Buy Now Pay Later (BNPL) services, requiring disclosure of APRs, fees, and consumer dispute rights. The bill addresses a $24+ billion market currently operating outside traditional credit regulation.",
-    "verdict": "// VERDICT: Closes a regulatory gap in consumer lending by applying established credit protections to a rapidly growing payment sector with documented consumer confusion over terms.",
-    "detail": "The legislation targets BNPL products—used by approximately 45 million Americans—that currently avoid TILA requirements by structuring payments as interest-free installments rather than traditional credit. <strong>Research shows consumers frequently misunderstand deferred payment obligations, with 43% of BNPL users reporting unexpected fees or payment difficulties.</strong> The bill scores positively on public benefit by standardizing disclosures and extending dispute rights comparable to credit cards. Fiscal impact is minimal—primarily CFPB enforcement costs offset by reduced consumer harm from predatory practices. The regulatory approach follows established consumer credit frameworks rather than creating novel restrictions. Cost distribution is favorable, protecting lower-income consumers who disproportionately use BNPL services and may be least equipped to navigate opaque terms. The bill remains in committee with no CBO score yet available.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Consumer Financial Protection Bureau Market Report",
-      "Federal Reserve Consumer Credit Panel",
-      "House Financial Services Committee Materials"
-    ]
-  },
-  {
-    "id": 467,
-    "sourceId": "cl:11345522",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10878009/mccarthy-v-hernandez/",
-    "branch": "Courts",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "Opinion 11345522",
-    "score": 27,
-    "snapshot": "The Supreme Court unanimously reversed a Second Circuit habeas ruling that had granted relief to Pedro Hernandez, convicted of murdering 6-year-old Etan Patz in 1979. The Court held the lower court exceeded AEDPA's strict limits by finding the state trial court violated Miranda doctrine regarding jury instructions.",
-    "verdict": "// VERDICT: Restores proper deference to state courts under federal habeas law, preventing lower federal courts from rewriting state criminal verdicts based on debatable interpretations of Supreme Court precedent.",
-    "detail": "The ruling enforces the Antiterrorism and Effective Death Penalty Act's framework limiting federal interference with state convictions. The Second Circuit had ordered release based on claimed violations of <strong>Missouri v. Seibert regarding jury instructions on confession tainting—a requirement Seibert never actually imposed.</strong> This represents judicial restraint protecting federalism: state courts conducted the trial under New York law, the defendant confessed repeatedly over decades to multiple people, and federal habeas relief should require clear constitutional violations, not expansive reinterpretations of precedent. The decision preserves separation between state and federal judicial systems while maintaining guardrails against actual constitutional violations. No new substantive law was created; the Court simply enforced existing AEDPA standards that Congress enacted with bipartisan support in 1996.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "McCarthy v. Hernandez, 608 U.S. ___ (2026)",
-      "28 U.S.C. §2254 (AEDPA)",
-      "Missouri v. Seibert, 542 U.S. 600 (2004)",
-      "N.Y. Crim. Proc. Law §710.70"
     ]
   }
 ]
