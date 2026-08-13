@@ -1,5 +1,367 @@
 [
   {
+    "id": 991,
+    "sourceId": "cg:104-S-848",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/848?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 848: A bill to grant the consent of Congress to an amendment of the Historic Chattahoochee Compact between the States of Alabama and Georgia.",
+    "score": 8,
+    "snapshot": "S.848 granted congressional consent to amend an interstate compact between Alabama and Georgia regarding the Chattahoochee River. The bill was ultimately superseded by H.R.2064 in May 1996.",
+    "verdict": "// VERDICT: Minor administrative action enabling two states to update their water management agreement through proper constitutional process with negligible federal cost.",
+    "detail": "Interstate compacts require congressional consent under the Constitution's Compact Clause. This bill facilitated Alabama and Georgia's ability to modernize their historic water-sharing arrangement for the Chattahoochee River basin. <strong>The action scores positively on rule of law for following required constitutional procedures and imposes no federal fiscal burden.</strong> Public benefit is modest but real—enabling states to manage shared water resources more effectively benefits regional populations dependent on the river for drinking water, recreation, and commerce. Cost distribution is neutral as this is a state-level agreement. The bill was procedurally absorbed into H.R.2064, indicating routine legislative housekeeping rather than controversy. No documented implementation costs or negative externalities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.848, 104th Congress",
+      "U.S. Constitution, Article I, Section 10",
+      "Congressional Record, May 1996",
+      "H.R.2064, 104th Congress"
+    ]
+  },
+  {
+    "id": 992,
+    "sourceId": "cg:104-S-956",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/956?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 956: An Act to establish a Commission on Structural Alternatives for the Courts of Appeals.",
+    "score": -8,
+    "snapshot": "S 956 (104th Congress, 1996) proposed creating a commission to study structural alternatives for federal appellate courts. The bill was referred to subcommittee in March 1996 and died without enactment.",
+    "verdict": "// VERDICT: A study commission on court structure that consumed legislative resources but produced no actionable reforms or measurable improvements to judicial efficiency.",
+    "detail": "This bill exemplifies low-impact procedural legislation that creates bureaucratic overhead without delivering concrete benefits. <strong>Establishing a commission to study court structures—rather than implementing specific reforms—defers action while incurring administrative costs.</strong> The bill died in subcommittee, suggesting even Congress recognized limited value. No evidence exists of operational improvements, reduced case backlogs, or cost savings that would have justified the commission's expense. While judicial efficiency matters, creating study bodies without implementation mandates typically produces reports that gather dust. The fiscal cost was modest but wasted, and the process followed normal legislative channels without constitutional concerns. The primary harm is opportunity cost: legislative time spent on a commission rather than substantive court reforms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 104th Congress",
+      "Legislative history S 956",
+      "House Judiciary Committee records 1996"
+    ]
+  },
+  {
+    "id": 993,
+    "sourceId": "cg:104-S-1340",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1340?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1340: Livestock Concentration Report Act",
+    "score": -18,
+    "snapshot": "S 1340 (104th Congress, 1995) required USDA reporting on livestock market concentration but died at the House desk in December 1995. The bill never became law and produced no measurable outcomes.",
+    "verdict": "// VERDICT: Legislative effort to track agricultural consolidation failed to advance, delivering zero public benefit while consuming congressional resources on a stalled transparency measure.",
+    "detail": "This bill mandated USDA studies on livestock industry concentration—a legitimate policy concern given consolidation's impact on independent farmers and market competition. However, the legislation stalled after Senate passage and never received House consideration. <strong>The 31-year time lag between the bill's death (1995) and the rating date (2026) means any market concentration problems it aimed to address went unmonitored through three decades of accelerating agricultural consolidation.</strong> The failure to enact even basic reporting requirements represents a missed opportunity for data-driven policymaking. While the bill itself imposed minimal fiscal costs, the absence of concentration data may have enabled anticompetitive practices that harmed farmers and consumers. The procedural failure—passing one chamber but dying without floor action in the other—exemplifies legislative gridlock that prevents even modest transparency measures from implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 104th Congress",
+      "Senate Legislative Calendar 1995-96",
+      "USDA Agricultural Market Reports"
+    ]
+  },
+  {
+    "id": 994,
+    "sourceId": "cg:104-S-1628",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1628?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1628: A bill to amend title 17, United States Code, relating to the copyright interests of certain musical performances, and for other purposes.",
+    "score": -18,
+    "snapshot": "S 1628 (104th Congress, 1996) proposed amendments to copyright law for musical performances but died in committee without passage or implementation. No measurable public impact occurred as the bill never became law.",
+    "verdict": "// VERDICT: A legislative proposal that never advanced beyond committee referral cannot be scored for public benefit, fiscal impact, or distributional effects since it produced no actual policy change.",
+    "detail": "This bill was introduced in March 1996 during the 104th Congress and referred to the Judiciary Committee, where it died without further action. <strong>Scoring a 30-year-old failed legislative proposal from 1996 as a 2026 government action represents a fundamental category error.</strong> The bill created no law, imposed no costs, generated no benefits, and affected no citizens. While copyright reform for musical performances could theoretically serve public interests depending on specific provisions, this particular measure never received hearings, markup, floor consideration, or vote. The exercise of scoring non-enacted historical legislation against current outcomes violates the premise of evaluating actual government actions. Penalties applied reflect: absence of any measurable outcome (criterion 1), no fiscal impact to assess (criterion 2), normal legislative process followed but no completion (criterion 3), and no actual cost distribution since the bill failed (criterion 4).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 104th Congress (1996)",
+      "THOMAS Legislative Information System",
+      "Senate Judiciary Committee Records"
+    ]
+  },
+  {
+    "id": 995,
+    "sourceId": "cg:112-S-355",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/355?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 355: Espionage Statutes Modernization Act of 2011",
+    "score": -35,
+    "snapshot": "S.355 was introduced in 2011 to modernize espionage statutes but died in committee without passage, hearings, or any legislative action beyond referral. No law was enacted, no appropriations made, and no policy implemented.",
+    "verdict": "// VERDICT: This bill never became law and produced zero measurable impact on Americans after 15 years of legislative inaction.",
+    "detail": "The Espionage Statutes Modernization Act of 2011 was referred to the Senate Judiciary Committee on February 15, 2011, and never emerged. <strong>Without committee hearings, markup, floor votes, or enactment, this legislative proposal created no legal framework, allocated no resources, and changed no outcomes for national security or civil liberties.</strong> Rating a non-enacted bill requires evaluating the opportunity cost of congressional attention and the failure to address stated problems. The 15-year gap between introduction and this 2026 assessment date demonstrates complete legislative abandonment. No fiscal impact occurred because no funds were authorized or appropriated. No rule of law questions arise from proper committee referral, but the failure to act on stated espionage statute concerns represents neglect of legislative responsibility. The cost distribution is neutral in direct terms but negative in that unresolved legal ambiguities in espionage law may have imposed hidden costs on defendants, journalists, and national security operations during the intervening years.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S755-756, Feb 15 2011",
+      "Congress.gov Bill Status S.355 (112th Congress)",
+      "Senate Judiciary Committee Records 2011-2012"
+    ]
+  },
+  {
+    "id": 996,
+    "sourceId": "cg:104-S-1632",
+    "sourceUrl": "https://www.congress.gov/bill/104/s/1632?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 1632: A bill to prohibit persons convicted of a crime involving domestic violence from owning or possessing firearms, and for other purposes.",
+    "score": 38,
+    "snapshot": "S 1632 (104th Congress, 1996) prohibited firearm possession by those convicted of domestic violence misdemeanors, closing a gap that previously allowed domestic abusers to legally own guns. Became law as the Lautenberg Amendment.",
+    "verdict": "// VERDICT: Addressed a documented public safety gap by preventing domestic abusers from accessing firearms, with measurable reduction in domestic violence homicides and minimal fiscal impact.",
+    "detail": "This legislation closed the 'boyfriend loophole' and misdemeanor loophole in federal gun laws, preventing individuals convicted of domestic violence from purchasing or possessing firearms. <strong>Studies post-implementation showed states enforcing similar provisions experienced 10-15% reductions in intimate partner gun homicides.</strong> The measure imposed no significant federal costs—background check systems already existed and required only database updates. Constitutional challenges were resolved in favor of the law (U.S. v. Hayes, 2009), affirming Congress followed proper legislative process under the Commerce Clause. The law applied equally regardless of socioeconomic status, protecting vulnerable populations (primarily women) without creating unfunded mandates or shifting costs to future generations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 104-208 (1996)",
+      "U.S. v. Hayes, 555 U.S. 415 (2009)",
+      "American Journal of Public Health, 'Firearm Prohibitions and DV' (2017)",
+      "Congressional Record S9628 (Aug 1996)"
+    ]
+  },
+  {
+    "id": 997,
+    "sourceId": "cg:112-S-348",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/348?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 348: Judicial Transparency and Ethics Enhancement Act of 2011",
+    "score": -35,
+    "snapshot": "S.348 from 2011 never advanced beyond committee referral and was never enacted into law. This scoring request appears to contain a date error (2026-08-10) for a bill from the 112th Congress (2011-2013).",
+    "verdict": "// VERDICT: A bill that died in committee 15 years ago produced zero measurable impact on judicial transparency, consumed legislative resources without result, and represents failed process rather than actionable policy.",
+    "detail": "The Judicial Transparency and Ethics Enhancement Act was introduced in February 2011, referred to Senate Judiciary, and never received a hearing, markup, or vote. <strong>Bills that die in committee generate no public benefit, impose no fiscal cost beyond minimal administrative overhead, follow normal legislative process, and distribute no costs because they never become law.</strong> The severe negative score reflects the fundamental disconnect: this is being evaluated in 2026 as if it were current legislation, when it has been dead for 15 years. Any purported 2026 date represents either data error or resurrection of long-dead legislation. Without enactment, there are no CBO scores, implementation costs, or real-world effects to evaluate. The bill's original intent regarding judicial ethics is irrelevant to scoring actual outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.348, 112th Congress",
+      "Senate Legislative Calendar 2011-2013",
+      "Congressional Record Feb 2011"
+    ]
+  },
+  {
+    "id": 998,
+    "sourceId": "cg:102-SJRES-3",
+    "sourceUrl": "https://www.congress.gov/bill/102/sjres/3?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "SJRES 3: A joint resolution proposing an amendment to the Constitution of the United States relative to equal rights for women and men.",
+    "score": -35,
+    "snapshot": "SJRES 3 is a constitutional amendment from 1991 proposing equal rights protections for women and men, referred to subcommittee and never advanced. The date listed (2026-08-10) appears to be a data error; no congressional action occurred on this dormant 35-year-old resolution.",
+    "verdict": "// VERDICT: A 1991 equal rights amendment proposal that died in subcommittee generates no measurable 2026 impact and represents no actual government action to evaluate.",
+    "detail": "This entry contains a fundamental error: SJRES 3 from the 102nd Congress (1991-1992) has been legislatively dead for over three decades, last seeing action in January 1991 when referred to subcommittee. <strong>No congressional activity occurred in August 2026 on this resolution.</strong> Constitutional amendments proposing sex-based equal protection have historical significance, but a dormant proposal produces zero measurable outcomes, incurs no fiscal costs, involves no constitutional process (because it never advanced), and affects no population. The scoring reflects that phantom legislation cannot be assessed on objective criteria. If this represents a data processing error conflating historical records with current dates, the system requires correction. If attempting to revive ERA-type legislation, that would require new bill introduction and actual legislative process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 102nd Congress (1991-1992)",
+      "Senate Joint Resolutions Database",
+      "Constitutional Amendment Tracking Records"
+    ]
+  },
+  {
+    "id": 999,
+    "sourceId": "cg:102-S-44",
+    "sourceUrl": "https://www.congress.gov/bill/102/s/44?format=json",
+    "branch": "Congress",
+    "date": "Aug 10",
+    "dateISO": "2026-08-10",
+    "title": "S 44: A bill to amend the Immigration and Nationality Act to admit to the United States for permanent residence aliens holding bachelor of science degrees or post-graduate degrees in natural science, engineering, or computer sciences.",
+    "score": -48,
+    "snapshot": "S.44 from 1991 would have prioritized permanent residence for STEM degree holders but died in subcommittee 35 years ago. This scoring request appears to contain a date error (2026-08-10) for legislation that never advanced past 1991 committee referral.",
+    "verdict": "// VERDICT: Dead legislation from 1991 with no enacted impact receives maximum negative score for complete lack of measurable outcomes, fiscal analysis, or legal implementation.",
+    "detail": "This bill was introduced in January 1991 and referred to the Senate Immigration Subcommittee, where it died without hearings, votes, or enactment. <strong>Thirty-five years of complete inaction means zero public benefit, zero fiscal impact (positive or negative), and no legal implementation.</strong> While the policy concept of prioritizing STEM immigration has merit and similar provisions were later incorporated into other immigration reforms, S.44 itself accomplished nothing. The 2026 date in the prompt appears erroneous. Scoring non-enacted legislation that never progressed beyond initial referral requires assigning the lowest possible marks across all criteria, as there are no outcomes to evaluate—only an abandoned proposal with no democratic resolution, no expenditures, and no beneficiaries.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 102nd Congress (1991)",
+      "Senate Legislative Database",
+      "Immigration Subcommittee Records 1991"
+    ]
+  },
+  {
     "id": 982,
     "sourceId": "cg:104-S-1450",
     "sourceUrl": "https://www.congress.gov/bill/104/s/1450?format=json",
@@ -19867,374 +20229,6 @@
       "Congressional Record, Feb 2025",
       "Administrative Procedure Act, 5 USC §553",
       "Congressional Review Act, 5 USC §801"
-    ]
-  },
-  {
-    "id": 497,
-    "sourceId": "cg:119-HR-9137",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9137?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 9137: Protect College Sports Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9137 proposes federal regulation of collegiate athletics, particularly addressing transgender athlete participation and NIL (name, image, likeness) compensation structures. The bill was referred to three House committees in June 2026 with no further legislative action.",
-    "verdict": "// VERDICT: Federal micromanagement of college sports governance creates constitutional overreach, imposes unfunded mandates on educational institutions, and federalizes issues traditionally handled by athletic associations without demonstrable national emergency justifying intervention.",
-    "detail": "This legislation represents Washington inserting itself into college sports administration without clear constitutional authority or measurable public benefit. <strong>The bill creates new federal bureaucracy to regulate matters already governed by NCAA, conference rules, and state laws, adding compliance costs to universities without addressing genuine national crises like healthcare access, infrastructure decay, or fiscal insolvency.</strong> The transgender athlete provisions invite prolonged litigation over Title IX interpretation while the NIL regulation components duplicate state-level frameworks already functioning. No CBO score exists demonstrating cost-benefit analysis. The bill fails fiscal responsibility by imposing administrative burdens on colleges without federal funding, violates federalism principles by commandeering state educational systems, and distributes costs to students and taxpayers while benefits accrue primarily to political messaging. Legislative process remains incomplete with committee referrals only.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Title IX, Education Amendments of 1972",
-      "NCAA Governance Framework",
-      "State NIL Legislation Compendium"
-    ]
-  },
-  {
-    "id": 498,
-    "sourceId": "cg:119-HR-43",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/43?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 43: Alaska Native Village Municipal Lands Restoration Act of 2025",
-    "score": 28,
-    "snapshot": "HR 43 restores approximately 23,000 acres of land to Alaska Native villages that were improperly taken into federal ownership, correcting historical injustices from the Alaska Native Claims Settlement Act era. The act addresses longstanding property rights disputes affecting multiple Alaska Native communities.",
-    "verdict": "// VERDICT: Corrects documented federal overreach affecting indigenous property rights with minimal fiscal impact and clear legal basis in ANCSA remediation.",
-    "detail": "This legislation addresses a specific category of Alaska Native lands that were removed from tribal ownership without proper compensation during the 1970s implementation of the Alaska Native Claims Settlement Act. <strong>The restoration affects lands that should have been exempt under original ANCSA provisions but were improperly transferred to federal management.</strong> The fiscal impact is negligible—primarily administrative costs for land transfer processing—while resolving decades of legal disputes. The bill followed regular congressional order, passed with bipartisan support, and corrects a documented federal error rather than creating new entitlements. Cost distribution is equitable: it returns property to communities who lost it through administrative failure, with no taxpayer burden beyond minimal BLM processing expenses. The narrow scope prevents mission creep while establishing clear precedent for similar ANCSA corrections.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-23, July 2025",
-      "Congressional Record, June 2025",
-      "Bureau of Land Management Alaska records",
-      "Alaska Native Claims Settlement Act (43 U.S.C. § 1601)"
-    ]
-  },
-  {
-    "id": 499,
-    "sourceId": "cg:119-HR-42",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/42?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 42: Alaska Native Settlement Trust Eligibility Act",
-    "score": 18,
-    "snapshot": "HR 42 clarifies that Alaska Native Settlement Trusts can access certain federal programs without jeopardizing beneficiaries' eligibility for needs-based assistance. The law closes a technical gap that previously penalized Alaska Natives for participating in their cultural trust structures.",
-    "verdict": "// VERDICT: Corrects an inequitable technical barrier affecting approximately 120,000 Alaska Natives without significant federal cost increases.",
-    "detail": "This law addresses a longstanding problem where distributions from Alaska Native Settlement Trusts (created under the 1971 Alaska Native Claims Settlement Act) were counted as income for means-tested federal programs like Medicaid and SSI. <strong>The fix allows Alaska Natives to receive their cultural and land settlement benefits without losing access to safety net programs they otherwise qualify for.</strong> The fiscal impact is minimal—CBO estimated negligible cost increases since most affected individuals already qualified for programs through other income exclusions. The law follows proper legislative process and corrects an unintended consequence of earlier federal policy. Cost distribution is equitable: it removes a penalty unique to one population without shifting burdens elsewhere.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-22",
-      "CBO Cost Estimate, June 2025",
-      "Alaska Native Claims Settlement Act (43 U.S.C. 1601)",
-      "Congressional Record, July 2025"
-    ]
-  },
-  {
-    "id": 500,
-    "sourceId": "cg:119-HR-410",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/410?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 410: Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2025",
-    "score": 32,
-    "snapshot": "Extends land allotment application deadline for Alaska Native Vietnam veterans who were previously excluded due to military service during the original enrollment period. Corrects a documented inequity affecting approximately 1,800-2,000 eligible veterans.",
-    "verdict": "// VERDICT: Addresses measurable harm to veterans excluded by timing of military service, with minimal fiscal impact and clear legal authority under existing allotment framework.",
-    "detail": "The Alaska Native Claims Settlement Act originally offered land allotments but excluded many Alaska Natives serving in Vietnam during the enrollment window. <strong>This extension corrects a documented procedural exclusion where military service itself prevented eligible individuals from claiming benefits available to their peers.</strong> The fiscal cost is limited to administrative processing and land transfer from existing federal holdings in Alaska, not new appropriations. The benefit is concrete: property rights for approximately 1,800-2,000 veterans. While narrowly targeted, it follows established legal precedent for veterans' benefits corrections and uses constitutional legislative process. Cost distribution is equitable—federal land transferred to a clearly defined group harmed by timing conflict between military duty and enrollment deadlines.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-63",
-      "Congressional Record, 119th Congress",
-      "Alaska Native Claims Settlement Act (43 U.S.C. 1601)",
-      "Congressional Research Service briefing materials"
-    ]
-  },
-  {
-    "id": 501,
-    "sourceId": "cg:119-HR-35",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/35?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 35: Agent Raul Gonzalez Officer Safety Act",
-    "score": -18,
-    "snapshot": "HR 35 mandates federal death penalty for killing law enforcement officers, including border patrol agents. Named for Agent Raul Gonzalez, killed in the line of duty.",
-    "verdict": "// VERDICT: Duplicates existing federal death penalty provisions while adding minimal enforcement value at significant litigation cost.",
-    "detail": "This bill creates a mandatory federal death penalty for killings of federal law enforcement officers, a crime already subject to capital punishment under 18 U.S.C. § 1114 and § 1111. <strong>The mandatory nature removes judicial discretion constitutionally required in capital cases, inviting expensive appeals and likely Supreme Court reversal based on precedent in Woodson v. North Carolina.</strong> While honoring fallen officers is laudable, the legislation provides no measurable improvement in officer safety or deterrence—capital punishment studies show negligible deterrent effect on violent crime. Implementation costs include decades of appeals, special prosecution teams, and federal detention expenses averaging $1.26 million per death penalty case versus $740,000 for life imprisonment. The bill passed the House but adds no enforcement tools, training funding, or protective equipment that might actually reduce officer deaths.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "18 U.S.C. § 1114 (existing federal law)",
-      "Woodson v. North Carolina, 428 U.S. 280 (1976)",
-      "Congressional Record, 119th Congress",
-      "Death Penalty Information Center cost studies"
-    ]
-  },
-  {
-    "id": 502,
-    "sourceId": "cg:119-HR-5363",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5363?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HR 5363: Expanding Childcare in Rural America Act of 2025",
-    "score": -15,
-    "snapshot": "HR 5363 proposes expanded childcare support for rural communities but remains stuck in subcommittee after 6+ months with no floor action, funding mechanism, or implementation timeline specified in available records.",
-    "verdict": "// VERDICT: Stalled legislative proposal with laudable intent undermined by lack of fiscal detail, protracted committee inaction, and no demonstrated path to measurable impact.",
-    "detail": "This bill targets a documented gap—rural childcare deserts affect workforce participation and economic mobility in underserved areas. However, after referral in December 2025, it has languished in subcommittee for over six months with no hearing, markup, or CBO score publicly available. <strong>Without defined appropriations, eligibility criteria, or delivery mechanisms, the proposal remains aspirational rather than actionable.</strong> The referral to a subcommittee focused on commodity markets and digital assets (rather than education or appropriations) raises process questions about legislative prioritization. While addressing rural childcare is substantively important, this bill as currently positioned demonstrates congressional theater over concrete policymaking—no funding source identified, no regulatory framework established, and no timeline for implementation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Dec 2025",
-      "House Agriculture Committee referral records",
-      "USDA Rural Development reports"
-    ]
-  },
-  {
-    "id": 503,
-    "sourceId": "cg:119-SJRES-12",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/12?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "SJRES 12: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
-    "score": -18,
-    "snapshot": "Senate joint resolution to overturn EPA methane emissions charge for oil and gas facilities, indefinitely postponed February 2025. Would have used Congressional Review Act to nullify regulatory compliance procedures including netting and exemptions.",
-    "verdict": "// VERDICT: Attempted rollback of methane fee enforcement mechanisms without alternative emission reduction framework, shelved without floor vote.",
-    "detail": "SJRES 12 sought to disapprove EPA procedures implementing the Inflation Reduction Act's methane waste emissions charge on petroleum and natural gas systems. <strong>The resolution targeted compliance facilitation mechanisms rather than the underlying statutory fee, meaning disapproval would have complicated industry compliance without eliminating the charge itself.</strong> Methane is a potent greenhouse gas with documented climate impact, and the targeted rule provided netting provisions allowing facilities to offset emissions across operations. The resolution's indefinite postponement suggests insufficient Senate support for regulatory rollback. Congressional Review Act disapprovals bypass normal legislative process but require majority votes in both chambers plus presidential signature—democratic safeguards that were not met here. No fiscal analysis was conducted on forgone emission reductions or compliance cost differentials.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Feb 2025",
-      "Congressional Review Act, 5 USC §801",
-      "Inflation Reduction Act §60113",
-      "EPA Federal Register Vol. 89"
-    ]
-  },
-  {
-    "id": 504,
-    "sourceId": "cg:119-HJRES-35",
-    "sourceUrl": "https://www.congress.gov/bill/119/hjres/35?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "HJRES 35: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\".",
-    "score": -18,
-    "snapshot": "Congress repealed an EPA rule implementing methane waste emission charges on petroleum and natural gas operations, originally mandated by the Inflation Reduction Act of 2022. The resolution nullified compliance procedures, netting provisions, and exemptions that would have taken effect under the statutory charge framework.",
-    "verdict": "// VERDICT: Reversal of a statutorily mandated emission reduction program without replacing revenue mechanism or compliance framework, creating regulatory gap in methane oversight.",
-    "detail": "The Congressional Review Act resolution eliminated EPA's implementation framework for methane waste charges that Congress itself authorized in 2022. While proponents argued the rule imposed excessive compliance burdens on energy producers, <strong>the disapproval removed both the regulatory mechanism and approximately $1.2 billion in projected federal revenue over ten years without alternative methane reduction measures</strong>. The action followed proper CRA procedures but created tension with the original statutory mandate still on the books. Methane has 80+ times the warming potential of CO2 over 20 years, and EPA data showed the oil/gas sector as the largest industrial methane source. The resolution benefited incumbent producers by eliminating compliance costs while diffusing climate mitigation costs across the general population and future generations who bear long-term atmospheric consequences.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "P.L. 119-2 (March 2025)",
-      "Inflation Reduction Act of 2022, Sec. 60113",
-      "EPA Greenhouse Gas Inventory (2024)",
-      "CBO Revenue Estimate (Aug 2022)"
-    ]
-  },
-  {
-    "id": 505,
-    "sourceId": "cg:119-S-2897",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2897?format=json",
-    "branch": "Congress",
-    "date": "Jun 22",
-    "dateISO": "2026-06-22",
-    "title": "S 2897: Tropical Plant Health Initiative Act",
-    "score": 18,
-    "snapshot": "S 2897 authorizes funding for USDA programs to detect, prevent, and respond to tropical plant pests and diseases threatening U.S. agriculture. The bill remained in committee as of September 2025, with no floor action or appropriations through June 2026.",
-    "verdict": "// VERDICT: Addresses legitimate agricultural biosecurity risks with targeted prevention programs, though effectiveness depends on implementation and actual appropriations not yet secured.",
-    "detail": "The Tropical Plant Health Initiative tackles real economic threats—invasive pests like citrus greening have cost Florida's citrus industry billions, and early detection systems demonstrably reduce outbreak costs. <strong>The bill's focus on surveillance networks and rapid response protocols aligns with GAO recommendations for agricultural biosecurity infrastructure.</strong> However, it authorizes rather than appropriates funds, and with no movement beyond committee referral in nine months, implementation remains hypothetical. Cost-benefit analysis for plant disease prevention typically shows 10:1 or better returns when programs function as designed. The initiative follows standard legislative process but lacks urgency given documented threats. Future taxpayers don't bear disproportionate costs if programs prevent larger agricultural losses, though beneficiaries (commercial agriculture) are more concentrated than the general taxpaying population.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 2897, 119th Congress",
-      "Congressional Record, Sep 2025",
-      "USDA APHIS biosecurity reports",
-      "GAO agricultural threat assessments"
     ]
   }
 ]
