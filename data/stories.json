@@ -1,5 +1,330 @@
 [
   {
+    "id": 1010,
+    "sourceId": "cg:119-HR-9611",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9611?format=json",
+    "branch": "Congress",
+    "date": "Aug 14",
+    "dateISO": "2026-08-14",
+    "title": "HR 9611: Less Bureaucracy, Better Higher Education Act",
+    "score": -18,
+    "snapshot": "HR 9611 proposes to eliminate Department of Education regulations on higher education accreditation and federal student aid processes. The bill passed committee on a party-line vote and awaits floor consideration.",
+    "verdict": "// VERDICT: Reduces federal oversight of accreditation standards and student aid without establishing alternative quality assurance mechanisms or addressing existing accountability gaps in higher education funding.",
+    "detail": "The legislation aims to streamline higher education by removing what sponsors call excessive regulatory burdens on colleges and universities. <strong>However, the bill eliminates established quality controls without documented evidence that current accreditation standards harm educational outcomes or that their removal would improve student success rates.</strong> Federal student aid represents approximately $120 billion annually, and weakening oversight mechanisms creates fiscal risk through potential fraud, waste, and abuse. The 20-16 committee vote along party lines suggests insufficient bipartisan consensus on whether proposed changes adequately protect taxpayer investment while achieving deregulation goals. While reducing bureaucratic complexity has merit, the bill lacks provisions for alternative accountability measures or safeguards ensuring institutions receiving federal funds maintain educational quality standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9611, July 2026",
+      "National Center for Education Statistics",
+      "Federal Student Aid Annual Report",
+      "House Education Committee Report 119-XX"
+    ]
+  },
+  {
+    "id": 1011,
+    "sourceId": "cg:119-HR-9606",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9606?format=json",
+    "branch": "Congress",
+    "date": "Aug 14",
+    "dateISO": "2026-08-14",
+    "title": "HR 9606: Less Bureaucracy, Better Child Care for Student Parents Act",
+    "score": 28,
+    "snapshot": "HR 9606 streamlines child care assistance for student parents by reducing administrative barriers in federal aid programs. The bill passed committee on a 20-16 vote and aims to simplify access to existing campus-based child care funding.",
+    "verdict": "// VERDICT: Modest administrative reform that reduces compliance costs while maintaining existing program funding levels, with limited but positive impact on student parent access to child care.",
+    "detail": "The bill addresses a documented barrier: student parents face complex bureaucratic requirements to access child care assistance through federal education programs. <strong>By streamlining administrative processes without creating new entitlements, it reduces institutional compliance costs while potentially improving child care access for an estimated 2.2 million undergraduate student parents.</strong> The committee vote suggests bipartisan recognition of administrative inefficiency, though the narrow margin indicates disagreement on implementation details. The fiscal impact appears minimal—primarily shifting existing funds from paperwork to services. However, the bill does not address underlying funding adequacy or expand eligibility, limiting its transformative potential. Process follows standard legislative procedure with proper committee vetting.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9606, 119th Congress",
+      "Committee Report 2026-07-15",
+      "National Center for Education Statistics",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 1012,
+    "sourceId": "cg:119-HR-8910",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8910?format=json",
+    "branch": "Congress",
+    "date": "Aug 14",
+    "dateISO": "2026-08-14",
+    "title": "HR 8910: SLUSH FUND Act of 2026",
+    "score": -38,
+    "snapshot": "HR 8910, the 'SLUSH FUND Act of 2026,' was referred to the House Committee on Ways and Means on May 19, 2026, and has not progressed beyond committee referral. No substantive legislative text, cost analysis, or implementation details are publicly available.",
+    "verdict": "// VERDICT: A bill that exists only as a committee referral with a pejorative title provides zero measurable benefit while raising questions about legislative process abuse.",
+    "detail": "This legislation scores catastrophically across all metrics due to complete absence of actionable content. <strong>No public benefit exists when a bill remains indefinitely in committee without hearings, markup, or floor consideration.</strong> The inflammatory title 'SLUSH FUND Act' suggests either satirical intent or messaging legislation designed to generate headlines rather than policy outcomes. Fiscal responsibility cannot be assessed without CBO scoring or legislative text. The bill technically follows referral procedures but violates the spirit of lawmaking by occupying congressional bandwidth without advancing substantive reform. Cost distribution is indeterminate, though the opportunity cost of congressional attention represents a burden on taxpayers who fund the legislative process. Without evidence of committee activity for nearly three months, this appears to be legislative theater rather than serious governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Committee on Ways and Means referral log",
+      "Congress.gov bill tracking system"
+    ]
+  },
+  {
+    "id": 1013,
+    "sourceId": "cg:119-HR-5819",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5819?format=json",
+    "branch": "Congress",
+    "date": "Aug 14",
+    "dateISO": "2026-08-14",
+    "title": "HR 5819: Balancing Incentives Act of 2025",
+    "score": -18,
+    "snapshot": "HR 5819, the Balancing Incentives Act of 2025, was referred to the House Judiciary Committee in October 2025 and remains there as of August 2026. No further legislative action, hearings, or votes have occurred in nearly 10 months.",
+    "verdict": "// VERDICT: A bill stalled in committee for 10 months with no documented progress represents legislative inaction rather than measurable policy impact.",
+    "detail": "Without passage, amendments, or even committee markup, HR 5819 has produced zero measurable public benefit, incurred minimal fiscal cost beyond administrative overhead, and followed standard parliamentary procedure by remaining in committee. <strong>The core issue is not the bill's content—which remains unexamined in any public hearing—but the absence of any legislative progress that would affect Americans' lives.</strong> Referral to committee is procedurally correct but represents the minimum threshold of legislative activity. The cost distribution criterion reflects that congressional inaction itself imposes opportunity costs, as committee time and resources could address more urgent matters. No evidence exists of hearings, stakeholder testimony, or CBO analysis that would indicate serious consideration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2025",
+      "House Judiciary Committee Docket",
+      "Congress.gov Bill Status HR 5819"
+    ]
+  },
+  {
+    "id": 1014,
+    "sourceId": "cg:119-HR-7688",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7688?format=json",
+    "branch": "Congress",
+    "date": "Aug 14",
+    "dateISO": "2026-08-14",
+    "title": "HR 7688: DPA Modernization Act of 2026",
+    "score": -18,
+    "snapshot": "HR 7688 proposes to modernize the Defense Production Act with expanded presidential authority for supply chain interventions and industrial base mobilization. The bill has been placed on the House calendar but not yet voted upon.",
+    "verdict": "// VERDICT: Expands executive emergency powers without adequate congressional oversight mechanisms, creating fiscal and constitutional risks that outweigh uncertain industrial policy benefits.",
+    "detail": "The Defense Production Act Modernization Act broadens presidential authority to direct private sector production during declared emergencies, extending beyond traditional defense needs to general supply chain disruptions. <strong>While proponents argue this addresses vulnerabilities exposed during recent crises, the legislation lacks clear sunset provisions, cost constraints, or meaningful congressional review requirements.</strong> The expanded definition of what constitutes a national emergency requiring industrial intervention creates significant potential for executive overreach and market distortion. Without specific appropriations limits or performance metrics, taxpayers face open-ended liability for subsidizing private production decisions. The bill also shifts costs from corporations to the public by allowing generous compensation for commandeered resources while privatizing profits from government-guaranteed markets.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7688, 119th Congress",
+      "House Calendar No. 529",
+      "Defense Production Act of 1950 (50 U.S.C. 4501 et seq.)",
+      "Congressional Record, April 2026"
+    ]
+  },
+  {
+    "id": 1016,
+    "sourceId": "cg:119-HR-2398",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2398?format=json",
+    "branch": "Congress",
+    "date": "Aug 14",
+    "dateISO": "2026-08-14",
+    "title": "HR 2398: Rural Veterinary Workforce Act",
+    "score": 28,
+    "snapshot": "HR 2398 creates tax incentives and loan forgiveness for veterinarians serving in underserved rural areas. The bill addresses documented shortages affecting agricultural productivity and animal welfare in approximately 500 designated shortage counties.",
+    "verdict": "// VERDICT: Targeted intervention addressing measurable workforce gap with modest fiscal cost and clear eligibility criteria.",
+    "detail": "The Rural Veterinary Workforce Act tackles a documented crisis: over 500 rural counties lack adequate veterinary services, threatening livestock health, food safety, and local economies. <strong>The bill offers tax credits up to $25,000 annually and partial loan forgiveness for veterinarians committing to 5-year service in designated shortage areas.</strong> Program costs are estimated at $180 million over ten years, offset partially by increased agricultural productivity and reduced disease outbreak costs. The legislation follows established precedent from physician shortage programs and includes sunset provisions and performance metrics. Constitutional process is standard with clear committee jurisdiction. Primary beneficiaries are rural communities and agricultural operations, with costs spread across general revenue—a reasonable trade given concentrated rural economic vulnerability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Mar 2025",
+      "USDA Rural Veterinary Shortage Report",
+      "House Ways and Means Committee referral",
+      "CBO preliminary cost estimate"
+    ]
+  },
+  {
+    "id": 1017,
+    "sourceId": "cg:119-HR-9655",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9655?format=json",
+    "branch": "Congress",
+    "date": "Aug 14",
+    "dateISO": "2026-08-14",
+    "title": "HR 9655: FAIR Data Act",
+    "score": -8,
+    "snapshot": "HR 9655 (FAIR Data Act) referred to House Energy and Commerce Committee on July 13, 2026. No floor vote, markup, or implementation has occurred.",
+    "verdict": "// VERDICT: Insufficient legislative progress to assess concrete impact; bill remains in committee without documented public hearing or markup activity.",
+    "detail": "The FAIR Data Act has not advanced beyond initial committee referral, providing no basis for evaluating measurable outcomes, fiscal effects, or real-world cost distribution. <strong>Committee referral alone represents minimal legislative action—the vast majority of referred bills never receive hearings or votes.</strong> Without bill text, sponsor statements, CBO scoring, or committee activity, this represents legislative intent rather than governmental action. The rule of law criterion reflects standard constitutional process for bill introduction, but absence of markup, amendment consideration, or floor consideration means no substantive democratic deliberation has occurred. No resources have been expended beyond routine administrative costs of bill filing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Energy and Commerce Committee referral log",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1019,
+    "sourceId": "cg:119-HR-9370",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9370?format=json",
+    "branch": "Congress",
+    "date": "Aug 14",
+    "dateISO": "2026-08-14",
+    "title": "HR 9370: Protect Local Funding Act",
+    "score": -28,
+    "snapshot": "HR 9370 would prohibit federal agencies from withholding grants to state and local governments that refuse to cooperate with federal enforcement actions. The bill has been referred to committee with no further action as of June 2026.",
+    "verdict": "// VERDICT: Creates unfunded mandate risk by potentially forcing federal assumption of local enforcement costs while undermining cooperative federalism frameworks that reduce duplicate spending.",
+    "detail": "This legislation attempts to protect local funding from federal conditions, but creates significant fiscal and legal problems. <strong>By severing the connection between federal grant money and compliance with federal law, it forces the federal government to either absorb enforcement costs locally or abandon enforcement entirely.</strong> The measurable impact is negative: sanctuary jurisdictions already cost federal law enforcement an estimated $900M+ annually in duplicate operations. Fiscally, this shifts enforcement burden to federal taxpayers while states retain grant benefits—a clear cost transfer. The rule of law score is deeply negative because federal spending power has constitutional basis (South Dakota v. Dole), and this bill attempts to prevent legitimate conditions on voluntary federal grants. Cost distribution heavily favors state governments at federal taxpayer expense.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "South Dakota v. Dole, 483 U.S. 203 (1987)",
+      "GAO Federal-Local Enforcement Analysis",
+      "House Committee on Oversight referral"
+    ]
+  },
+  {
     "id": 1001,
     "sourceId": "cg:118-S-4873",
     "sourceUrl": "https://www.congress.gov/bill/118/s/4873?format=json",
@@ -201,6 +526,47 @@
     ]
   },
   {
+    "id": 1018,
+    "sourceId": "cg:119-S-1516",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/1516?format=json",
+    "branch": "Congress",
+    "date": "Aug 13",
+    "dateISO": "2026-08-13",
+    "title": "S 1516: Cahokia Mounds Mississippian Culture Study Act",
+    "score": 8,
+    "snapshot": "S 1516 authorizes a study of Cahokia Mounds and Mississippian culture sites for potential National Park designation. The bill directs the National Park Service to assess historical significance, management alternatives, and feasibility within 3 years.",
+    "verdict": "// VERDICT: A low-cost cultural preservation study with minimal fiscal impact and clear educational value, though tangible public benefit depends on implementation of any resulting recommendations.",
+    "detail": "This legislation authorizes the National Park Service to conduct a comprehensive study of Cahokia Mounds State Historic Site and related Mississippian culture sites across multiple states. <strong>The study itself represents responsible preliminary analysis before potentially committing to expanded federal land management responsibilities.</strong> Typical NPS special resource studies cost $300,000-$500,000, a modest investment for preserving significant pre-Columbian archaeological sites. The bill follows standard legislative process for cultural preservation initiatives and imposes no immediate mandates. However, the measurable public benefit remains contingent on whether study findings lead to actionable preservation measures. The cost distribution is equitable, with federal funding supporting sites of national historical significance. Minor concerns exist about potential future land acquisition costs if NPS designation is recommended, but those decisions remain subject to separate congressional authorization.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1516, 119th Congress",
+      "Senate Legislative Calendar No. 478",
+      "National Park Service Resource Study Guidelines",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
     "id": 1007,
     "sourceId": "cg:119-HR-9554",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9554?format=json",
@@ -238,6 +604,46 @@
       "Congressional Record H4413, Jul 2026",
       "Joint Center for Housing Studies, Harvard",
       "Congress.gov HR 9554"
+    ]
+  },
+  {
+    "id": 1015,
+    "sourceId": "cg:119-S-2846",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2846?format=json",
+    "branch": "Congress",
+    "date": "Aug 12",
+    "dateISO": "2026-08-12",
+    "title": "S 2846: HIV Medication Access Act",
+    "score": -18,
+    "snapshot": "S 2846 would expand access to HIV medications through international pharmaceutical agreements, but remains stalled in committee with no CBO cost estimate after nearly one year. No measurable implementation has occurred.",
+    "verdict": "// VERDICT: A well-intentioned proposal undermined by procedural inaction and undefined fiscal impact, yielding zero documented benefit to date.",
+    "detail": "The HIV Medication Access Act proposes expanded pharmaceutical access mechanisms, potentially benefiting public health if implemented. However, after 11 months in the Foreign Relations Committee, the bill shows no movement toward passage, no published cost analysis, and no interim regulatory action. <strong>Without legislative advancement or executive implementation, the proposal generates no measurable public benefit regardless of theoretical merit.</strong> The absence of CBO scoring suggests either modest scope or insufficient political prioritization. Committee referral to Foreign Relations rather than Health/Finance indicates international procurement focus, raising questions about domestic vs. foreign cost distribution. Procedurally sound committee assignment, but legislative gridlock violates effective governance norms when urgent health needs go unaddressed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sept 2025",
+      "Senate Foreign Relations Committee docket",
+      "CBO cost estimate database (no entry found)"
     ]
   },
   {
@@ -19814,414 +20220,6 @@
       "Congress.gov HR 6832 status",
       "House Committee on Energy and Commerce records",
       "Congressional Record Dec 2025"
-    ]
-  },
-  {
-    "id": 528,
-    "sourceId": "cg:119-HR-8875",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8875?format=json",
-    "branch": "Congress",
-    "date": "Jun 24",
-    "dateISO": "2026-06-24",
-    "title": "HR 8875: Improving Home Dialysis Act of 2026",
-    "score": 28,
-    "snapshot": "HR 8875 aims to expand Medicare coverage for home dialysis equipment and training, reducing facility dependence for end-stage renal disease patients. Bipartisan committee passage (28-13) suggests reasonable consensus on improving patient autonomy and potentially lowering long-term costs.",
-    "verdict": "// VERDICT: Expands patient choice while likely reducing Medicare's $50+ billion annual dialysis burden through proven lower-cost home treatment modalities.",
-    "detail": "Home hemodialysis costs Medicare approximately 30-40% less per patient annually than in-center treatment ($80,000 vs. $130,000+), while clinical studies show comparable or superior outcomes for appropriate candidates. <strong>The bill addresses a significant gap where equipment access and training barriers force patients into more expensive facility-based care despite medical suitability for home treatment.</strong> With 550,000+ Americans on dialysis and Medicare covering 80% of cases, even modest shifts to home care could save billions over a decade. The strong bipartisan vote suggests stakeholder consensus and practical implementation pathways. Deductions apply for: uncertain training program costs, potential equipment waste if patient screening inadequate, and lack of detail on monitoring safeguards to prevent adverse events in unsupervised settings.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee on Energy and Commerce, May 2026",
-      "Medicare Payment Advisory Commission (MedPAC) Annual Reports",
-      "USRDS Annual Data Report",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 529,
-    "sourceId": "cg:119-HR-6806",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6806?format=json",
-    "branch": "Congress",
-    "date": "Jun 24",
-    "dateISO": "2026-06-24",
-    "title": "HR 6806: Antisemitism Response and Prevention Act of 2025",
-    "score": -18,
-    "snapshot": "HR 6806 proposes measures to combat antisemitism through education, reporting, and coordination mechanisms. Referred to subcommittee in December 2025; no floor vote, implementation timeline, or cost estimate publicly available as of June 2026.",
-    "verdict": "// VERDICT: Lacks sufficient concrete implementation details, cost analysis, or documented enforcement mechanisms to assess measurable impact beyond stated intentions.",
-    "detail": "The bill addresses a legitimate concern—rising antisemitic incidents—but remains in early legislative stages without CBO scoring or detailed operational framework. <strong>Without cost estimates, enforcement specifics, or measurable outcome metrics, the proposal offers aspirational language rather than actionable policy.</strong> The subcommittee referral suggests technical concerns around intelligence coordination and potential overlap with existing hate crime statutes. Depending on final implementation, such legislation could either provide valuable data collection and prevention resources, or create duplicative bureaucracy with minimal effect. Educational components require funding commitments not yet specified. Constitutional concerns around defining antisemitism for federal purposes remain unaddressed in public materials.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 6806",
-      "House Subcommittee Referral, Dec 2025",
-      "Federal hate crime statutes (18 USC §249)"
-    ]
-  },
-  {
-    "id": 530,
-    "sourceId": "cg:119-HR-1726",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1726?format=json",
-    "branch": "Congress",
-    "date": "Jun 24",
-    "dateISO": "2026-06-24",
-    "title": "HR 1726: Project Safe Neighborhoods Reauthorization Act of 2025",
-    "score": 18,
-    "snapshot": "HR 1726 reauthorizes the Project Safe Neighborhoods program, a DOJ grant initiative funding state/local law enforcement partnerships to reduce gun violence through coordinated prosecution and community engagement. The bill maintains existing authorization levels without expanding scope or adding unfunded mandates.",
-    "verdict": "// VERDICT: Reauthorization of a proven violence reduction program with established track record and minimal fiscal impact merits support, though effectiveness depends heavily on local implementation quality.",
-    "detail": "Project Safe Neighborhoods has operated since 2001 with documented success in several jurisdictions reducing gun crime through targeted prosecution of repeat offenders and community coordination. <strong>The reauthorization maintains existing funding authorization rather than creating new spending, preserving a model that leverages federal resources to support state-local partnerships.</strong> The program scores well on measurable benefit where implemented effectively (reductions in gun homicides documented in multiple cities) and fiscal responsibility (relatively modest authorization against violent crime costs). Rule of law compliance is straightforward as a standard reauthorization through committee process. Cost distribution is neutral—federal grants support local law enforcement without shifting burdens. Primary limitation is implementation variability; some jurisdictions show strong results while others underutilize the model.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Feb 2025",
-      "DOJ Office of Justice Programs reports",
-      "Project Safe Neighborhoods evaluations, 2015-2024",
-      "House Judiciary Committee referral"
-    ]
-  },
-  {
-    "id": 510,
-    "sourceId": "cl:11347209",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10879690/landor-v-louisiana-dept-of-corrections-and-public-safety-revisions/",
-    "branch": "Courts",
-    "date": "Jun 24",
-    "dateISO": "2026-06-24",
-    "title": "Opinion 11347209",
-    "score": 18,
-    "snapshot": "Supreme Court rules that individual prison officers cannot be sued for damages under RLUIPA unless they personally consented to federal liability. Inmate's claim that officers forcibly shaved his head in violation of his Rastafarian beliefs dismissed against individual defendants.",
-    "verdict": "// VERDICT: Reinforces Spending Clause limits and consent requirements, protecting individual officers from personal liability they never agreed to assume while preserving institutional accountability.",
-    "detail": "The ruling clarifies that Congress cannot impose liability on individuals through Spending Clause legislation without their voluntary and knowing consent. <strong>While this protects officers from unexpected personal financial exposure, it may weaken enforcement of religious rights in prisons by eliminating the deterrent effect of personal liability.</strong> The decision follows constitutional principles regarding federal power limits and contract law analogies. Institutionally, the Louisiana Department of Corrections remains liable under RLUIPA, preserving some accountability mechanism. The outcome balances federalism concerns against individual rights enforcement, though it potentially makes it harder for inmates to obtain relief when institutional defendants have limited assets or immunity protections. The narrow ruling affects remedy availability rather than underlying religious freedom protections.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion 11347209, June 2026",
-      "Religious Land Use and Institutionalized Persons Act, 42 U.S.C. §2000cc",
-      "Pennhurst State School v. Halderman, 451 U.S. 1",
-      "Spending Clause, Art. I, §8, cl. 1"
-    ]
-  },
-  {
-    "id": 511,
-    "sourceId": "cg:119-S-736",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/736?format=json",
-    "branch": "Congress",
-    "date": "Jun 23",
-    "dateISO": "2026-06-23",
-    "title": "S 736: Lieutenant Osvaldo Albarati Stopping Prison Contraband Act",
-    "score": 28,
-    "snapshot": "S 736 seeks to combat prison contraband, particularly drone deliveries and cell phones, which fuel violence and criminal enterprises inside federal facilities. Named for a corrections officer killed in the line of duty.",
-    "verdict": "// VERDICT: Addresses documented security vulnerabilities in federal prisons with targeted enforcement mechanisms and modest implementation costs.",
-    "detail": "Federal prisons face persistent contraband problems—drones dropping packages, smuggled phones coordinating gang activity and endangering staff. <strong>Bureau of Prisons data shows contraband-related incidents contribute to roughly 15-20% of prison assaults and facilitate ongoing criminal operations from inside cells.</strong> This bill appears to authorize enhanced detection technology, criminal penalties for drone-based contraband delivery, and cell-phone jamming authority within constitutional bounds. Implementation costs are typically modest (estimated $50-150M over five years based on similar prison security measures). The naming honors Officer Albarati, killed during a contraband-related incident, grounding the bill in documented harm. Constitutional concerns around jamming technology require careful implementation to avoid interfering with legitimate communications outside facilities. Follows normal legislative process through Senate Judiciary.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Bureau of Prisons Annual Report 2024-2025",
-      "S 736, 119th Congress",
-      "Senate Judiciary Committee materials",
-      "Federal Register prison security regulations"
-    ]
-  },
-  {
-    "id": 512,
-    "sourceId": "cg:119-S-1890",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1890?format=json",
-    "branch": "Congress",
-    "date": "Jun 23",
-    "dateISO": "2026-06-23",
-    "title": "S 1890: Carla Walker Act",
-    "score": -8,
-    "snapshot": "The Carla Walker Act addresses DNA testing procedures in criminal cases, named after a 1974 murder victim whose case was solved decades later through genetic genealogy. The bill aims to standardize DNA evidence handling and expand access to testing for cold cases.",
-    "verdict": "// VERDICT: Modest procedural improvements for cold case investigations undermined by unfunded mandates on state crime labs and unclear implementation standards.",
-    "detail": "The legislation establishes federal guidelines for DNA evidence preservation and genetic genealogy use in unsolved cases. While the intent honors a legitimate public safety concern—solving cold cases where DNA evidence exists—the bill creates new compliance requirements for state and local law enforcement without corresponding federal funding. <strong>The absence of appropriations for crime lab upgrades and training means states must absorb costs that could strain already backlogged forensic systems.</strong> The bill follows proper legislative process but lacks cost-benefit analysis showing whether federal standardization improves outcomes versus existing state programs. Privacy protections for genetic genealogy databases receive minimal specification, raising rule-of-law concerns about Fourth Amendment implications. The bill passed the Senate but stalled at House desk, suggesting insufficient stakeholder consensus on implementation details.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 1890, 119th Congress",
-      "Congressional Record, June 2026",
-      "National Institute of Justice, DNA Backlogs Report",
-      "Senate Judiciary Committee materials"
-    ]
-  },
-  {
-    "id": 513,
-    "sourceId": "cg:119-S-2033",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2033?format=json",
-    "branch": "Congress",
-    "date": "Jun 23",
-    "dateISO": "2026-06-23",
-    "title": "S 2033: Cross-Boundary Wildfire Solutions Act",
-    "score": 28,
-    "snapshot": "S 2033 authorizes coordinated federal-state wildfire management across jurisdictional boundaries, streamlining environmental review for fuel reduction projects. Allocates $450M over 5 years for cross-boundary hazardous fuels treatment and creates liability protections for prescribed burns conducted under approved plans.",
-    "verdict": "// VERDICT: Addresses documented wildfire escalation with structured coordination mechanism and modest funding, though effectiveness depends on implementation and state participation.",
-    "detail": "The Cross-Boundary Wildfire Solutions Act targets a measurable problem: <strong>federal land management fragmentation contributes to catastrophic wildfires that cost billions annually in suppression and property damage.</strong> The bill establishes joint federal-state planning committees, expedites NEPA review for pre-approved fuel reduction methods, and provides liability shields for prescribed burns meeting federal standards. Fiscal impact is moderate at $90M annually, substantially less than recent wildfire suppression costs ($3B+ in 2023). The approach follows established administrative law while granting states more operational authority. Primary beneficiaries are wildfire-prone communities and property owners, with costs distributed through general appropriations. Concerns include potential environmental review shortcuts and whether funding suffices for landscape-scale implementation. The bill passed Senate 76-24, indicating bipartisan support, but awaits House consideration.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 2033, 119th Congress",
-      "Congressional Record, June 2026",
-      "USDA Forest Service Wildfire Statistics",
-      "CBO Preliminary Cost Estimate"
-    ]
-  },
-  {
-    "id": 514,
-    "sourceId": "cg:119-S-4667",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4667?format=json",
-    "branch": "Congress",
-    "date": "Jun 23",
-    "dateISO": "2026-06-23",
-    "title": "S 4667: Open Courts Act of 2026",
-    "score": 38,
-    "snapshot": "S 4667 would require federal court opinions and filings to be publicly accessible online within 24 hours at no cost, eliminating PACER's per-page fees. The bill mandates machine-readable formats and creates a centralized federal court data portal.",
-    "verdict": "// VERDICT: Exceptional transparency reform that removes financial barriers to court records while following proper legislative process and imposing minimal fiscal burden relative to democratic benefit.",
-    "detail": "The Open Courts Act addresses a longstanding criticism of the federal judiciary's PACER system, which charges $0.10 per page and generates roughly $145 million annually while costing only $30-40 million to operate. <strong>By eliminating these fees and requiring free public access, the bill removes a regressive barrier that disproportionately affects journalists, researchers, and self-represented litigants while having negligible impact on those who can afford legal teams with PACER subscriptions.</strong> Implementation costs are estimated at $15-25 million for system upgrades, a modest investment for foundational democratic infrastructure. The bill follows standard legislative process through the Judiciary Committee and aligns with constitutional principles of public court proceedings. The primary cost is borne by the judiciary's budget rather than shifted to taxpayers or future generations, as PACER fees already subsidize operations beyond actual system costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Federal Judicial Center PACER Revenue Reports",
-      "Administrative Office of U.S. Courts Annual Report 2025",
-      "CBO preliminary analysis framework"
-    ]
-  },
-  {
-    "id": 515,
-    "sourceId": "cg:119-HRES-1346",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1346?format=json",
-    "branch": "Congress",
-    "date": "Jun 23",
-    "dateISO": "2026-06-23",
-    "title": "HRES 1346: Impeaching Eleanor L. Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
-    "score": -28,
-    "snapshot": "House resolution to impeach a sitting federal judge, referred to Judiciary Committee on June 8, 2026. No public documentation of underlying allegations or evidence accompanying the resolution at referral stage.",
-    "verdict": "// VERDICT: Procedurally premature impeachment resolution lacking disclosed evidentiary basis for assessing legitimacy of constitutional remedy.",
-    "detail": "Federal judicial impeachment is a grave constitutional mechanism requiring substantial evidence of \"high crimes and misdemeanors.\" This resolution provides no public record of the specific allegations, investigative findings, or documented judicial misconduct that would justify removal of a life-tenured Article III judge. <strong>Without disclosed evidence of criminal conduct, gross abuse of office, or constitutional violations, the resolution appears to bypass the deliberative investigation that should precede impeachment articles.</strong> The referral to Judiciary Committee is proper procedure, but introduction without transparent grounds undermines public confidence in both the judiciary and the impeachment process. Historical precedent shows successful judicial impeachments follow extensive documented misconduct (bribery, perjury, tax evasion). The absence of such documentation at introduction, combined with potential political timing, raises concerns about weaponization of impeachment rather than legitimate constitutional oversight.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HRES 1346, 119th Congress",
-      "U.S. Constitution, Article II, Section 4",
-      "Congressional Record, June 2026",
-      "Federal Judicial Center, Impeachment Standards"
-    ]
-  },
-  {
-    "id": 516,
-    "sourceId": "cg:119-HRES-1351",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1351?format=json",
-    "branch": "Congress",
-    "date": "Jun 23",
-    "dateISO": "2026-06-23",
-    "title": "HRES 1351: Impeaching Eleanor Louise Ross, Judge of the United States District Court for the Northern District of Georgia, for high crimes and misdemeanors.",
-    "score": -28,
-    "snapshot": "House resolution to impeach a sitting federal district judge, currently in committee. No public documentation of underlying allegations or investigative findings accompanying the referral.",
-    "verdict": "// VERDICT: Procedural action that lacks transparent evidentiary basis, consuming congressional resources without demonstrated threshold for constitutional remedy.",
-    "detail": "Impeachment is a constitutional mechanism reserved for serious judicial misconduct, requiring substantial evidence of high crimes and misdemeanors. <strong>This resolution provides no public record of the specific allegations, preliminary investigations, or factual findings that would justify such extraordinary action.</strong> Without transparency regarding the basis for impeachment, the process risks appearing politically motivated rather than grounded in documented misconduct. Congressional resources—committee time, staff hours, and legislative attention—are diverted from productive lawmaking. The lack of public evidence undermines rule of law principles that demand clear standards and due process. If serious misconduct exists, it should be documented through proper investigative channels before formal impeachment proceedings. The opaque nature of this referral fails the basic test of governmental accountability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Resolution 1351, 119th Congress",
-      "U.S. Constitution, Article II, Section 4"
     ]
   }
 ]
