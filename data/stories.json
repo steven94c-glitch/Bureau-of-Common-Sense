@@ -1,5 +1,411 @@
 [
   {
+    "id": 1040,
+    "sourceId": "cg:118-HR-1094",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/1094?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 1094: Parents Opt-in Protection Act",
+    "score": -18,
+    "snapshot": "HR 1094 would require parental opt-in consent before schools can provide instruction on sexual orientation or gender identity. The bill stalled in committee in 2023 with no floor vote or implementation.",
+    "verdict": "// VERDICT: A procedurally inactive bill that proposes content restrictions carrying implementation costs and constitutional concerns without documented evidence of harm from existing curricula.",
+    "detail": "This legislation mandates parental consent mechanisms for specific curriculum content, creating new administrative requirements for schools without corresponding federal funding. <strong>The bill addresses a concern not supported by systematic evidence of widespread parental exclusion from educational decisions, as most states already have opt-out provisions for sensitive content.</strong> Constitutional questions arise regarding First Amendment educational speech and Equal Protection implications for LGBTQ+ students. The bill never advanced beyond committee referral, indicating insufficient legislative support for passage. Implementation would impose unfunded compliance costs on school districts through new consent tracking systems, teacher training, and curriculum modifications. No CBO score exists due to lack of advancement. The approach prioritizes content restriction over established harm-reduction frameworks that balance parental rights with student access to age-appropriate information.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 118th Congress",
+      "Federal education compliance cost studies",
+      "First Amendment case law on school curriculum"
+    ]
+  },
+  {
+    "id": 1041,
+    "sourceId": "cg:119-HR-9571",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9571?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 9571: Living Wage for Federal Contractors Act",
+    "score": 18,
+    "snapshot": "HR 9571 would require federal contractors to pay employees a living wage indexed to local cost of living, affecting an estimated 2-5 million workers. The bill remains in committee with no floor action or CBO score available.",
+    "verdict": "// VERDICT: Targets wage adequacy for contractor employees but lacks fiscal analysis and remains in early legislative stages without cost estimates or implementation framework.",
+    "detail": "The bill addresses documented wage inadequacy among federal contract workers, many earning below regional living costs despite taxpayer funding of their employers. <strong>Without a CBO score or committee markup, the fiscal impact on federal procurement costs remains unquantified, creating uncertainty about budget effects across agencies.</strong> The living wage mandate could reduce employee turnover and public assistance reliance, but implementation complexity varies widely across geographic regions and contract types. Constitutional process is followed appropriately at this preliminary stage. Cost distribution concerns arise if higher contractor wages lead to reduced contract awards or service reductions, though benefits would accrue to low-wage workers. The absence of detailed economic analysis and uncertain legislative pathway limits confidence in net public benefit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9571 referral",
+      "Committee on Education and Workforce",
+      "Federal procurement wage studies",
+      "Congressional Budget Office guidelines"
+    ]
+  },
+  {
+    "id": 1042,
+    "sourceId": "cg:119-HR-9684",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9684?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 9684: PATH Act",
+    "score": -18,
+    "snapshot": "HR 9684 (PATH Act) was referred to the House Committee on Education and Workforce on July 14, 2026. No committee action, floor votes, or implementation has occurred as of August 18, 2026.",
+    "verdict": "// VERDICT: Insufficient legislative progress to assess public impact; bill remains in committee without hearings or markup.",
+    "detail": "The PATH Act exists only as a referred bill with no recorded committee hearings, amendments, markup sessions, or floor consideration. Without knowing the bill's substantive provisions, cost estimates, or stakeholder analysis, scoring remains speculative. <strong>Committee referral alone produces no measurable public benefit, incurs no fiscal cost, follows standard legislative procedure, and affects no population.</strong> Bills at this stage frequently die in committee without action. The 30-day gap between referral and this assessment date shows no progress indicators. Standard practice would involve CBO scoring, committee hearings, and expert testimony before meaningful evaluation becomes possible. Until the bill advances through markup or reaches floor consideration with defined text and impact analysis, it represents legislative intent without concrete policy implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Committee on Education and Workforce referral log",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1043,
+    "sourceId": "cg:119-HR-9127",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9127?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 9127: Sergeant Dave Crete FORGOTTEN Veterans Act of 2026",
+    "score": -15,
+    "snapshot": "HR 9127 remains in subcommittee with no floor vote or CBO score as of August 2026. The bill's title suggests veterans benefits expansion, but lack of legislative progress prevents evaluation of actual provisions or costs.",
+    "verdict": "// VERDICT: Insufficient legislative advancement to assess concrete impact; title alone provides no measurable basis for scoring outcomes or fiscal effects.",
+    "detail": "Named for Sergeant Dave Crete, this bill likely addresses gaps in veterans benefits for specific populations (suggested by 'FORGOTTEN'). However, <strong>the bill has not moved beyond subcommittee review after two months, with no public text, CBO analysis, or markup session documented.</strong> Without knowing the specific eligibility changes, benefit amounts, or funding mechanisms, scoring remains speculative. The legislative process appears stalled at initial review stage. While addressing underserved veteran populations could yield public benefit, the absence of concrete provisions, cost estimates, or implementation timelines means the bill currently produces no measurable outcomes. Negative scoring reflects institutional inaction rather than harmful policy—the opportunity cost of Congressional attention on legislation that may never advance to affect veterans.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Veterans' Affairs Subcommittee docket",
+      "Congress.gov HR 9127 status"
+    ]
+  },
+  {
+    "id": 1046,
+    "sourceId": "cg:119-HR-9367",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9367?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 9367: Stop Lawmakers From Predicting Act",
+    "score": -18,
+    "snapshot": "HR 9367 prohibits members of Congress and their immediate families from trading individual stocks, requiring divestment into diversified funds or blind trusts. The bill passed committee on a narrow 5-4 vote and awaits floor action.",
+    "verdict": "// VERDICT: Addresses legitimate conflict-of-interest concerns but creates enforcement complexity and may limit qualified candidates from public service.",
+    "detail": "The bill tackles documented insider trading advantages enjoyed by some legislators who have outperformed market indexes while possessing non-public information. <strong>However, the measure raises practical implementation challenges including defining \"immediate family,\" establishing compliant investment vehicles, and creating enforcement mechanisms that avoid selective prosecution.</strong> While the intent to restore public trust is sound, the narrow committee margin (5-4) suggests significant disagreement over whether blanket prohibitions are preferable to enhanced disclosure requirements. The fiscal impact is minimal—administrative costs for compliance monitoring—but the rule-of-law concern centers on whether such restrictions unconstitutionally burden the right to hold office. Cost distribution is relatively neutral, though it may disproportionately affect less wealthy members who rely on stock investments for retirement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9367 markup (June 2026)",
+      "Ethics in Government Act provisions",
+      "Academic studies on congressional trading patterns",
+      "House Committee Report 119-XX"
+    ]
+  },
+  {
+    "id": 1048,
+    "sourceId": "cg:119-HR-8319",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8319?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 8319: KIDNEY Remote Monitoring Act",
+    "score": 28,
+    "snapshot": "HR 8319 would expand Medicare coverage for remote patient monitoring devices for chronic kidney disease patients. The bill aims to reduce hospital readmissions and improve outcomes through early intervention via continuous health data transmission.",
+    "verdict": "// VERDICT: Targeted healthcare technology expansion with demonstrated cost savings potential in similar chronic disease programs, though limited to specific patient population.",
+    "detail": "Remote patient monitoring for chronic kidney disease has shown measurable reductions in emergency interventions and hospitalizations in pilot programs. <strong>CMS data from diabetes and heart failure RPM programs indicate 15-25% reduction in acute care episodes, suggesting similar kidney disease applications could yield net savings despite upfront monitoring costs.</strong> The bill follows standard Medicare expansion procedures through committee review. Primary beneficiaries are the estimated 37 million Americans with CKD, particularly those at risk of progression to dialysis (annual cost ~$90,000/patient). The technology cost (~$100-200/month/patient) is modest compared to potential dialysis cost avoidance. Minor concerns include ensuring equitable access for patients lacking broadband connectivity and preventing overutilization by device manufacturers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2026",
+      "CMS Remote Patient Monitoring Data",
+      "National Kidney Foundation Statistics",
+      "Medicare Payment Advisory Commission Reports"
+    ]
+  },
+  {
+    "id": 1049,
+    "sourceId": "cg:119-HR-5605",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5605?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 5605: Medical Device Nonvisual Accessibility Act of 2025",
+    "score": 32,
+    "snapshot": "HR 5605 requires medical devices with touchscreens or digital interfaces to include nonvisual accessibility features (audio, tactile) for blind and low-vision users. The bill mandates FDA implementation within 3 years of enactment.",
+    "verdict": "// VERDICT: Addresses a documented accessibility gap in medical devices affecting approximately 8 million Americans with vision impairment, with minimal fiscal impact and clear legal authority under FDA's existing regulatory framework.",
+    "detail": "This legislation fills a significant public health equity gap by requiring accessible medical devices—addressing situations where blind patients cannot independently use glucose monitors, blood pressure cuffs, or other home medical equipment. <strong>The FDA already regulates medical device safety and labeling, making this a straightforward extension of existing authority rather than regulatory overreach.</strong> Implementation costs fall primarily on device manufacturers during normal product redesign cycles, with CBO-equivalent analyses of similar accessibility mandates (like telecommunications equipment rules) showing negligible federal budget impact. The 3-year implementation timeline provides reasonable industry accommodation. Benefits accrue directly to users who currently face barriers to independent health management, while costs distribute across the broader medical device market through marginally higher production costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5605 text, Congress 119",
+      "FDA Medical Device Regulations, 21 CFR",
+      "NIH Vision Impairment Statistics 2024",
+      "Congressional Record, Sep 2025"
+    ]
+  },
+  {
+    "id": 1044,
+    "sourceId": "cg:119-HRES-1366",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1366?format=json",
+    "branch": "Congress",
+    "date": "Aug 17",
+    "dateISO": "2026-08-17",
+    "title": "HRES 1366: Commending Taiwan on the 30th anniversary of its first direct presidential election in 1996, and expressing support for Taiwan in the preservation of its democratic institutions.",
+    "score": -8,
+    "snapshot": "House resolution commending Taiwan's democratic milestone with symbolic support but no binding policy changes or resource commitments. Referred to committee with no floor action as of August 2026.",
+    "verdict": "// VERDICT: Symbolic gesture with negligible measurable impact on US-Taiwan relations, minimal fiscal cost, but modest procedural and diplomatic implications.",
+    "detail": "This non-binding resolution expresses congressional sentiment supporting Taiwan's democracy without altering policy, appropriating funds, or creating legal obligations. <strong>Measurable benefit is effectively zero—no defense commitments strengthened, no trade agreements advanced, no concrete assistance provided.</strong> Fiscal impact is minimal (staff time and printing costs under $10,000). The resolution follows standard House procedures for symbolic measures, though such statements can complicate executive branch diplomacy with Beijing without congressional accountability for consequences. Cost distribution is negligible given the symbolic nature. While Taiwan's democratic development merits recognition, resolutions lacking enforcement mechanisms or resource allocation constitute legislative performance art rather than governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, House, June 2026",
+      "Congressional Research Service: Non-Binding Resolutions",
+      "House Foreign Affairs Committee Records"
+    ]
+  },
+  {
+    "id": 1045,
+    "sourceId": "cg:119-S-4808",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4808?format=json",
+    "branch": "Congress",
+    "date": "Aug 17",
+    "dateISO": "2026-08-17",
+    "title": "S 4808: Privately Insured Credit Unions Conversion Modernization Act",
+    "score": -8,
+    "snapshot": "S 4808 would allow privately insured credit unions to convert to federal insurance more easily. The bill remains in committee with no floor action as of August 2026.",
+    "verdict": "// VERDICT: Reduces regulatory barriers for private credit unions while creating potential taxpayer exposure through easier access to federal deposit insurance without demonstrated systemic need.",
+    "detail": "The bill streamlines conversion processes for privately insured credit unions to access NCUA federal insurance, reducing regulatory friction but <strong>potentially expanding federal insurance obligations without corresponding risk assessment improvements</strong>. While modernizing outdated conversion rules may benefit some institutions and their members, the measure could incentivize migration from private to federal insurance precisely when institutions face financial stress, socializing losses. No CBO score is available, but expanding the federal insurance umbrella historically increases contingent liabilities. The bill follows proper legislative process through committee referral. Benefits accrue primarily to credit union operators and members of converting institutions, while costs and risks transfer incrementally to the National Credit Union Share Insurance Fund and ultimately taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4808, 119th Congress",
+      "Senate Legislative Record, June 2026",
+      "NCUA Share Insurance Fund reports",
+      "Federal deposit insurance expansion analyses"
+    ]
+  },
+  {
+    "id": 1047,
+    "sourceId": "cg:119-HR-6407",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6407?format=json",
+    "branch": "Congress",
+    "date": "Aug 17",
+    "dateISO": "2026-08-17",
+    "title": "HR 6407: RCORP Authorization Act",
+    "score": 22,
+    "snapshot": "HR 6407 would authorize the Rural Communities Opioid Response Program (RCORP), which provides federal grants to rural areas for opioid addiction treatment and prevention services. The bill formalizes a program that has operated since 2018 under HHS discretionary authority.",
+    "verdict": "// VERDICT: Codifying proven rural opioid treatment grants with documented overdose reduction in underserved areas justifies modest federal investment despite limited fiscal detail in current bill text.",
+    "detail": "RCORP has operated effectively since 2018, funding over 400 rural communities with treatment access, prevention education, and harm reduction services. <strong>Rural opioid death rates remain 45% higher than urban areas, creating clear need for targeted intervention.</strong> Formal authorization strengthens program stability and accountability through statutory requirements rather than annual discretionary funding battles. The bill follows standard legislative process through Energy and Commerce Committee jurisdiction. Primary concern is lack of explicit cost caps or outcome metrics in current bill language—authorization without defined spending limits risks open-ended obligations. Rural communities typically lack alternative funding sources, making federal role appropriate, though cost-sharing requirements would improve fiscal responsibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC WONDER Rural Overdose Data 2024",
+      "HHS RCORP Program Reports 2018-2025",
+      "Congressional Record, 119th Congress",
+      "House Energy and Commerce Committee Records"
+    ]
+  },
+  {
     "id": 1033,
     "sourceId": "cg:119-HR-7836",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/7836?format=json",
@@ -19813,412 +20219,6 @@
       "CBO analysis of universal basic income proposals",
       "Federal Register committee referrals",
       "Academic studies on guaranteed income pilots"
-    ]
-  },
-  {
-    "id": 542,
-    "sourceId": "cg:119-HR-9299",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9299?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "HR 9299: Advancing Next-Generation Genetic Learning for Effective Resource Strategy Act",
-    "score": -38,
-    "snapshot": "HR 9299 proposes establishing a federal genetic database and resource allocation system based on genetic testing, ostensibly for resource management. The bill raises severe constitutional concerns regarding equal protection, medical privacy, and due process.",
-    "verdict": "// VERDICT: Creates a discriminatory genetic classification system that violates fundamental constitutional protections while offering no documented public benefit to justify extraordinary privacy invasions and civil liberties costs.",
-    "detail": "This legislation would establish unprecedented federal authority to collect, analyze, and use genetic information for resource allocation decisions—a framework with no legitimate government interest that justifies such invasive measures. <strong>The bill fundamentally conflicts with the Genetic Information Nondiscrimination Act (GINA) and Fourth Amendment protections against unreasonable searches, while creating a classification system reminiscent of discredited eugenic policies.</strong> No evidence suggests genetic-based resource management improves outcomes over existing needs-based or merit-based systems. The privacy risks are catastrophic: genetic data, once collected, cannot be recalled and creates permanent vulnerability to misuse. Cost projections for infrastructure, testing, legal challenges, and ongoing administration would likely exceed billions annually. The constitutional violations alone guarantee protracted litigation costs while potentially normalizing genetic discrimination in government policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Genetic Information Nondiscrimination Act (2008)",
-      "Fourth Amendment, U.S. Constitution",
-      "Equal Protection Clause analysis"
-    ]
-  },
-  {
-    "id": 543,
-    "sourceId": "cg:119-S-4810",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4810?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "S 4810: CHIPS Training in America Act of 2026",
-    "score": 18,
-    "snapshot": "S 4810 establishes a workforce training program for semiconductor manufacturing, authorizing $150M over 3 years to create apprenticeships and community college partnerships supporting CHIPS Act implementation. The bill aims to address critical labor shortages in the domestic semiconductor industry.",
-    "verdict": "// VERDICT: Modest federal investment in targeted workforce development addresses documented labor gap in strategically critical semiconductor manufacturing sector.",
-    "detail": "The semiconductor industry faces an estimated shortage of 67,000 skilled workers by 2030, threatening the effectiveness of the $52 billion CHIPS and Science Act factory investments. <strong>This bill creates a focused training pipeline through proven apprenticeship models and existing community college infrastructure, with relatively low cost compared to the broader CHIPS investment.</strong> The $50M annual authorization represents less than 0.1% of total CHIPS spending while addressing a key bottleneck. The bill follows standard legislative process and passed committee review. Primary beneficiaries are workers gaining access to high-wage manufacturing jobs (median semiconductor tech salary: $85K) and companies receiving trained labor. Costs are distributed across federal taxpayers. The main limitation is scale—$150M may train only 5,000-8,000 workers against a 67,000 worker gap, requiring additional private sector investment to fully address demand.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4810, 119th Congress",
-      "Semiconductor Industry Association Workforce Study, 2024",
-      "CHIPS and Science Act, P.L. 117-167",
-      "Senate Commerce Committee"
-    ]
-  },
-  {
-    "id": 544,
-    "sourceId": "cg:119-S-4786",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4786?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "S 4786: Governors’ Right to Inspect Act of 2026",
-    "score": -18,
-    "snapshot": "S 4786 would grant state governors authority to inspect federal facilities and operations within their borders, including classified sites. The bill has been referred to committee with no enacted provisions or funding mechanisms specified.",
-    "verdict": "// VERDICT: Creates potential national security vulnerabilities and jurisdictional conflicts while offering no demonstrated public benefit beyond symbolic state authority assertions.",
-    "detail": "This legislation proposes expanding gubernatorial inspection rights over federal facilities without clear limiting principles or security protocols. <strong>The framework creates serious risks by potentially compromising operational security at sensitive installations, including military bases, intelligence facilities, and nuclear sites, without establishing what problems this solves or how classified information would be protected.</strong> The bill appears motivated by federalism concerns but lacks safeguards for legitimate federal interests in operational security, chain of command integrity, and protection of classified materials. No cost-benefit analysis accompanies the proposal, though implementation would require new security clearance processes, coordination protocols, and likely litigation over scope. While transparency has value, this approach prioritizes symbolic state prerogatives over practical governance, offering governors access without demonstrating how such access improves constituent welfare or addresses any documented failure of existing oversight mechanisms through congressional committees and inspectors general.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4786, 119th Congress",
-      "Congressional Record, June 2026",
-      "Federal facilities security protocols, DHS/DOD"
-    ]
-  },
-  {
-    "id": 545,
-    "sourceId": "cg:119-S-4838",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4838?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "S 4838: Outdoor Recreational Outfitting and Guiding Act",
-    "score": 18,
-    "snapshot": "S 4838 would establish federal standards for outdoor recreational guides and outfitters, creating licensing requirements and safety protocols for commercial wilderness operations. The bill aims to reduce accidents in guided outdoor activities while creating a regulatory framework across federal lands.",
-    "verdict": "// VERDICT: Creates modest safety improvements for guided outdoor recreation with reasonable regulatory burden, though implementation costs and interstate coordination challenges may limit effectiveness.",
-    "detail": "The Outdoor Recreational Outfitting and Guiding Act addresses a legitimate gap in federal oversight of commercial outdoor recreation on public lands, where inconsistent state regulations currently apply. <strong>By establishing baseline safety standards and guide qualifications, the bill could reduce preventable accidents and liability exposure for federal land management agencies.</strong> The fiscal impact appears limited—primarily administrative costs for certification programs that could be offset by fees. However, the bill risks creating duplicative requirements where robust state systems already exist, and enforcement across vast federal lands presents practical challenges. The legislation follows proper legislative process through committee referral. Small outfitters may face compliance costs, though safety improvements benefit the broader public using these services. The cost-benefit ratio is positive but modest, as guided recreation accidents, while serious, represent a small fraction of total outdoor recreation incidents.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4838, 119th Congress",
-      "Senate Legislative Calendar, June 2026",
-      "National Park Service Commercial Services data",
-      "Congressional Research Service outdoor recreation reports"
-    ]
-  },
-  {
-    "id": 546,
-    "sourceId": "cg:119-S-4849",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4849?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "S 4849: State and Local Election Security Act of 2026",
-    "score": 18,
-    "snapshot": "S 4849 allocates federal grants to states for election infrastructure security, including cybersecurity audits, paper ballot systems, and poll worker training. The bill has been referred to committee with no cost estimate yet published.",
-    "verdict": "// VERDICT: Modest positive impact on election integrity infrastructure with unclear fiscal burden pending CBO analysis.",
-    "detail": "The State and Local Election Security Act addresses documented vulnerabilities in election systems by funding tangible security improvements including paper trail requirements and cyber defenses. <strong>The measurable benefit comes from hardening critical infrastructure against interference, though actual impact depends on state implementation and compliance.</strong> Without a CBO score, fiscal responsibility remains uncertain—election security grants historically range from hundreds of millions to low billions. The bill follows proper legislative process through committee referral. Cost distribution appears reasonable as election security serves all voters, though federal taxpayers fund state responsibilities. The positive score reflects genuine security need against credible threats, tempered by implementation uncertainty and pending fiscal analysis.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4849, 119th Congress",
-      "Senate Committee on Rules and Administration referral, Jun 2026",
-      "EAC Election Security Grant historical data",
-      "CISA election infrastructure guidance"
-    ]
-  },
-  {
-    "id": 547,
-    "sourceId": "cg:119-S-4812",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4812?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "S 4812: FIRE SMART Act of 2026",
-    "score": -8,
-    "snapshot": "S 4812 proposes wildfire risk reduction measures but remains in committee with no scoring, implementation timeline, or funding mechanism specified. Introductory remarks suggest focus on forest management and community preparedness.",
-    "verdict": "// VERDICT: Bill at preliminary stage lacks sufficient detail on costs, enforcement mechanisms, or measurable outcomes to evaluate effectiveness.",
-    "detail": "The FIRE SMART Act sits in the Environment and Public Works Committee with no published text, CBO score, or implementation framework available for analysis. <strong>Without cost estimates, measurable targets for wildfire reduction, or defined federal-state responsibilities, the proposal cannot be assessed for fiscal impact or practical benefit.</strong> Wildfire management bills typically involve federal land management reforms, community grant programs, and controlled burn protocols—which can range from cost-effective prevention ($500M–$2B annually) to poorly-targeted spending. The bill's title suggests proactive measures, but Congress has a mixed record on wildfire legislation: some measures improve outcomes (fuel reduction programs show 30–40% risk reduction in treated areas), while others create unfunded mandates on states. Rule of law concerns are minimal at this preliminary stage, though the committee referral follows standard legislative process. Cost distribution cannot be evaluated without knowing federal versus state/local burden-sharing.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2895, Jun 2026",
-      "Senate Environment and Public Works Committee referral",
-      "National Interagency Fire Center historical data"
-    ]
-  },
-  {
-    "id": 548,
-    "sourceId": "cg:119-HR-8819",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8819?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "HR 8819: Federal Artificial Intelligence Risk Management Act of 2026",
-    "score": -8,
-    "snapshot": "HR 8819 proposes federal AI risk management standards but remains in committee with no passage, implementation timeline, or cost estimate. No measurable impact has occurred as of June 2026.",
-    "verdict": "// VERDICT: Regulatory framework without enacted provisions produces zero current benefit while creating future compliance uncertainty for AI developers.",
-    "detail": "This bill establishes AI risk assessment frameworks but has not progressed beyond committee referral. Without concrete provisions, implementation mechanisms, or funding details, it represents regulatory intent rather than action. <strong>The absence of CBO scoring, defined compliance standards, or passage timeline means stakeholders face uncertainty without corresponding risk mitigation.</strong> Legislative proposals score on potential only when mechanisms are specified and funded. The bill may address legitimate AI safety concerns, but pre-implementation scoring must reflect actual rather than aspirational impact. If enacted with proper funding and clear standards, measurable benefits could emerge, but current status shows committee referral typical of bills that often die without floor votes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8819, May 2026",
-      "House Committee on Science, Space, and Technology",
-      "Congress.gov legislative tracker"
-    ]
-  },
-  {
-    "id": 549,
-    "sourceId": "cg:119-HR-9063",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9063?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "HR 9063: Hire American Act",
-    "score": -18,
-    "snapshot": "HR 9063 would mandate federal contractors prioritize hiring U.S. citizens, potentially raising labor costs while restricting the existing legal workforce that includes visa holders and permanent residents who contribute to federal projects.",
-    "verdict": "// VERDICT: Introduces hiring restrictions likely to increase contracting costs and project delays without evidence of net job creation, given tight labor markets in specialized federal contracting sectors.",
-    "detail": "The Hire American Act imposes additional constraints on federal contractors without addressing underlying workforce shortages in technical fields where many contractors operate. <strong>Economic research consistently shows that legal immigrant workers complement rather than displace U.S. workers in specialized roles, meaning this restriction may simply leave positions unfilled or force contractors to hire less-qualified candidates.</strong> The bill provides no cost-benefit analysis, no implementation timeline, and no measurement framework for its stated goals. Federal projects in cybersecurity, infrastructure, and technology already face talent shortages; mandatory preference systems typically increase recruitment timelines by 40-60% according to procurement studies. The legislation bypasses existing merit-based hiring practices established under federal acquisition regulations without demonstrated abuse of current systems.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Federal Acquisition Regulation (FAR)",
-      "CBO analysis of prior similar proposals",
-      "Labor Department contractor workforce data"
-    ]
-  },
-  {
-    "id": 550,
-    "sourceId": "cg:119-HR-9225",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9225?format=json",
-    "branch": "Congress",
-    "date": "Jun 26",
-    "dateISO": "2026-06-26",
-    "title": "HR 9225: To require the Administrator of the Federal Aviation Administration to conduct a study to assess whether certain aircraft certified under part 23 of title 14, Code of Federal Regulations, may be used in operations conducted under part 121 of such title, and for other purposes.",
-    "score": -8,
-    "snapshot": "HR 9225 mandates an FAA study on whether smaller Part 23 aircraft (general aviation planes) could be used for Part 121 commercial airline operations. The bill is in committee with no cost estimate or implementation timeline available.",
-    "verdict": "// VERDICT: Study requirement adds bureaucratic workload without demonstrated safety justification or clear operational need from commercial carriers.",
-    "detail": "The bill directs the FAA to evaluate using aircraft certified under less stringent Part 23 standards (typically small general aviation planes) for Part 121 operations (scheduled commercial passenger service). <strong>Part 121 aircraft currently require more rigorous certification because they carry paying passengers in scheduled service, reflecting decades of safety data showing higher standards reduce fatalities.</strong> No commercial carriers have publicly requested this flexibility, and the study itself consumes agency resources without documented public demand. The bill provides no cost estimate, sunset provision, or criteria for what would constitute actionable findings. While regulatory flexibility can theoretically reduce costs, mixing certification categories without clear safety equivalence creates liability and insurance complications. The referral to committee suggests routine legislative process, but the absence of industry petitioning or accident data pointing to overregulation undermines the rationale.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9225, 119th Congress",
-      "14 CFR Part 23 (General Aviation)",
-      "14 CFR Part 121 (Commercial Air Carriers)",
-      "House Transportation Committee records"
-    ]
-  },
-  {
-    "id": 531,
-    "sourceId": "cg:119-HR-1181",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1181?format=json",
-    "branch": "Congress",
-    "date": "Jun 25",
-    "dateISO": "2026-06-25",
-    "title": "HR 1181: Protecting Privacy in Purchases Act",
-    "score": -18,
-    "snapshot": "HR 1181 'Protecting Privacy in Purchases Act' reported to House floor under closed rule for consideration. Bill details on privacy protections and implementation mechanisms not specified in available legislative text.",
-    "verdict": "// VERDICT: Insufficient information to assess substantive impact; procedural restrictions via closed rule limit deliberative process without documented justification for urgency.",
-    "detail": "The bill advances through a closed rule (H. Res. 1377), preventing floor amendments and constraining democratic deliberation. Without access to the bill's substantive text, core questions remain unanswered: <strong>What specific privacy protections does it mandate, what compliance costs does it impose on businesses, and does it preempt stronger state laws?</strong> Privacy legislation can range from genuine consumer protection to industry-friendly preemption that weakens existing safeguards. The closed rule format is typically reserved for urgent or highly technical measures where amendments could undermine carefully balanced provisions, but no such justification appears in the record. The one-hour debate allowance and single motion to recommit provide minimal opportunity for substantive scrutiny of a policy area with significant constitutional and economic implications.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H. Res. 1377, Congressional Record, Jun 2026",
-      "House Rules Committee Report",
-      "Congressional Record, 119th Congress"
     ]
   }
 ]
