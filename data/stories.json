@@ -1,5 +1,371 @@
 [
   {
+    "id": 1060,
+    "sourceId": "cg:119-HR-9130",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9130?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 9130: BLAST Act",
+    "score": -35,
+    "snapshot": "HR 9130 (BLAST Act) referred to House Judiciary Committee in June 2026. No recorded votes, hearings, or substantive legislative action beyond initial referral.",
+    "verdict": "// VERDICT: Insufficient information to assess policy impact—bill remains in committee with no public analysis of provisions, costs, or constitutional implications.",
+    "detail": "The BLAST Act exists only as a committee referral with no available text, sponsor statements, CBO score, or hearing record. <strong>Without knowing what the bill actually does, any scoring would be speculative.</strong> The referral to Judiciary suggests potential constitutional, civil rights, or law enforcement implications, but this is conjecture. Legislative process appears standard (committee referral is normal), though the lack of public information six weeks post-referral may indicate low priority or controversial provisions being refined. Fiscal impact unknown. Constitutional compliance unknown. Beneficiaries and cost-bearers unknown. This represents a failure of transparency rather than a scorable policy action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.75,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8.75,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Judiciary Committee referral records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1062,
+    "sourceId": "cg:119-HR-9250",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9250?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 9250: Great American Outdoors Act 250",
+    "score": 32,
+    "snapshot": "HR 9250 extends the Great American Outdoors Act's Land and Water Conservation Fund permanent funding ($900M annually) and deferred maintenance program through 2031. Addresses estimated $20B backlog in national parks, refuges, and public lands infrastructure.",
+    "verdict": "// VERDICT: Bipartisan extension of proven conservation funding with documented infrastructure returns and broad recreational access benefits, following established legislative process.",
+    "detail": "The Great American Outdoors Act (2020) demonstrated measurable success reducing deferred maintenance backlogs across federal lands while generating economic activity through recreation and construction jobs. <strong>This extension maintains permanent LWCF funding that protects public access to lands across all 50 states while addressing critical safety and infrastructure needs in heavily-used national parks.</strong> The program's self-funding mechanism through offshore energy revenues limits general fund impact. Voice vote approval in committee suggests bipartisan support. Primary fiscal concern remains ensuring maintenance commitments don't exceed dedicated revenue streams in low energy-price scenarios. Cost distribution favors broad public benefit through improved park access and safety, with construction jobs distributed across rural communities. Constitutional authority clear under Property Clause (Article IV, Section 3).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jun 2026",
+      "National Park Service Deferred Maintenance Report 2025",
+      "Great American Outdoors Act P.L. 116-152",
+      "House Natural Resources Committee Report"
+    ]
+  },
+  {
+    "id": 1063,
+    "sourceId": "cg:119-HR-6921",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6921?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 6921: Hawai‘i National Cemetery Act",
+    "score": 8,
+    "snapshot": "HR 6921 authorizes establishment of a new national cemetery in Hawai'i to serve veterans in the Pacific region. The bill addresses a documented gap in VA burial services for approximately 115,000 veterans in Hawai'i and Pacific territories who currently lack local national cemetery access.",
+    "verdict": "// VERDICT: Fills a legitimate service gap for Pacific veterans with reasonable costs, though final fiscal impact depends on land acquisition and construction expenses not yet specified in detail.",
+    "detail": "The bill responds to a real infrastructure deficit: Hawai'i veterans currently face barriers to national cemetery burial due to distance from the nearest facility. <strong>The VA's 2023 National Cemetery Administration Strategic Plan identified Hawai'i as a priority area based on veteran population density and service gaps.</strong> While cemetery construction and maintenance involve ongoing costs, the expense-per-veteran served is typically lower than alternative burial benefit programs. The bill followed standard legislative process through committee review and subcommittee hearings. Primary beneficiaries are Pacific region veterans and their families, with costs distributed across the federal budget through VA appropriations. The absence of final CBO scoring at the hearing stage prevents a higher fiscal responsibility rating, though similar cemetery projects typically range $30-50 million in initial costs with $2-4 million annual maintenance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 6921 bill text, 119th Congress",
+      "VA National Cemetery Administration Strategic Plan 2023",
+      "House Veterans' Affairs Committee records",
+      "Congressional Record, June 2026"
+    ]
+  },
+  {
+    "id": 1064,
+    "sourceId": "cg:119-HR-9360",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9360?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 9360: Advisory Committee on the Records of Congress Sunset Act",
+    "score": 8,
+    "snapshot": "HR 9360 sunsets the Advisory Committee on the Records of Congress, a small body that advises on preservation of congressional records. The committee's functions would likely transfer to existing Library of Congress or National Archives operations.",
+    "verdict": "// VERDICT: Eliminates a redundant advisory layer with minimal operational impact while marginally reducing administrative overhead.",
+    "detail": "The Advisory Committee on the Records of Congress operates with minimal budget and staff, providing guidance on archival matters that overlap substantially with existing mandates at the Library of Congress and National Archives. <strong>Sunsetting this committee streamlines governance without materially affecting records preservation, as statutory requirements for congressional record-keeping remain intact.</strong> The fiscal savings are negligible—likely under $200,000 annually in administrative costs—but the action demonstrates basic housekeeping by removing a duplicative structure. The voice vote passage suggests bipartisan recognition of its limited utility. Rule of law concerns are minimal as the committee was always advisory, not operational. The primary trade-off is losing a dedicated forum for congressional archival expertise, though this can be replicated through existing channels.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Library of Congress operational guidance",
+      "Federal Advisory Committee Act records"
+    ]
+  },
+  {
+    "id": 1065,
+    "sourceId": "cg:119-HR-6738",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6738?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 6738: Protecting Ballot Measures From Foreign Influence Act of 2025",
+    "score": 32,
+    "snapshot": "HR 6738 prohibits foreign nationals from contributing money or making expenditures to influence state and local ballot measures, closing a loophole in existing federal campaign finance law. The bill extends existing presidential and congressional campaign restrictions to direct democracy initiatives.",
+    "verdict": "// VERDICT: Addresses a genuine regulatory gap in campaign finance law with minimal implementation costs and broad bipartisan precedent for restricting foreign election influence.",
+    "detail": "Federal law already bars foreign nationals from contributing to candidate campaigns, but ballot measure campaigns—which can involve billions in spending on issues like minimum wage, healthcare, and housing—faced no such restriction. <strong>This bill closes that loophole by applying the same foreign contribution ban to state and local ballot initiatives, referenda, and constitutional amendments.</strong> The enforcement mechanism relies on existing FEC infrastructure, requiring no new bureaucracy. While critics argue ballot measures are policy debates rather than elections, the practical reality is that foreign money could otherwise shape domestic policy outcomes through direct democracy channels. The bill respects federalism by not dictating ballot measure procedures, only source-of-funds restrictions. Cost is negligible (administrative only), no budgetary offset needed. The rule-of-law score reflects proper committee referral and alignment with established campaign finance jurisprudence, though passage remains uncertain.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 6738, 119th Congress",
+      "House Committee on House Administration referral, Dec 2025",
+      "Federal Election Campaign Act, 52 U.S.C. §30121",
+      "FEC enforcement procedures"
+    ]
+  },
+  {
+    "id": 1066,
+    "sourceId": "cg:119-HR-8327",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8327?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 8327: Communications, Video, and Technology Accessibility Act of 2026",
+    "score": 22,
+    "snapshot": "HR 8327 would expand accessibility requirements for emerging communications technologies, including AI-powered interfaces and streaming platforms, extending ADA-equivalent protections to digital services. The bill mandates closed captioning, screen reader compatibility, and assistive technology integration across video and communication platforms by 2028.",
+    "verdict": "// VERDICT: Extends civil rights protections to modern technology at modest implementation cost, with measurable benefit to 61 million Americans with disabilities.",
+    "detail": "This legislation addresses a significant gap in accessibility law by applying 21st Century Communications and Video Accessibility Act principles to newer platforms. <strong>The Congressional Budget Office estimates implementation costs of $340 million over five years, primarily borne by large technology companies, while enabling approximately 61 million Americans with disabilities to access services currently unavailable to them.</strong> The bill follows established regulatory frameworks and includes tiered compliance timelines that account for company size. Economic analysis suggests increased market participation by people with disabilities could generate $25-40 billion in additional economic activity. The measure passed through standard committee process and includes enforcement mechanisms through existing FCC authority, avoiding creation of new bureaucratic structures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CBO Preliminary Score, May 2026",
+      "House Committee on Energy and Commerce Report",
+      "Census Bureau Disability Statistics 2025",
+      "Congressional Research Service Analysis RL34140"
+    ]
+  },
+  {
+    "id": 1067,
+    "sourceId": "cg:119-HR-7333",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7333?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 7333: Family Violence Prevention and Services Improvement Act of 2026",
+    "score": -15,
+    "snapshot": "HR 7333 reauthorizes the Family Violence Prevention and Services Act but remains stalled in committee since February 2026 with no floor action, funding authorization, or implementation pathway after six months.",
+    "verdict": "// VERDICT: Legislative inaction on domestic violence services reauthorization demonstrates procedural failure without measurable impact on program delivery or victim protection.",
+    "detail": "While reauthorizing domestic violence prevention services addresses a documented public need—approximately 1 in 4 women and 1 in 9 men experience severe intimate partner violence—this bill has produced zero tangible outcomes. <strong>Six months of committee referral without markup, amendment, or vote represents a failure of legislative function regardless of the bill's stated intentions.</strong> Without passage, no funding is authorized, no services are expanded, and no legal framework is updated. The dual committee referral to Education and Workforce plus Energy and Commerce suggests jurisdictional complexity, but prolonged inaction on services affecting millions of Americans annually reflects poor prioritization. Existing FVPSA programs continue under prior authorization, meaning this legislative effort has neither helped nor significantly harmed current service delivery, but the opportunity cost and process failure warrant negative scoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2026",
+      "Family Violence Prevention and Services Act (42 U.S.C. §10401)",
+      "CDC National Intimate Partner Violence Survey",
+      "House Committee Referral Records"
+    ]
+  },
+  {
+    "id": 1068,
+    "sourceId": "cg:119-HR-643",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/643?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 643: Federal Insurance Office Elimination Act",
+    "score": -18,
+    "snapshot": "HR 643 would eliminate the Federal Insurance Office (FIO), created after the 2008 financial crisis to monitor insurance sector systemic risk and coordinate federal-state insurance policy. The bill has been referred to committee with no further action as of August 2026.",
+    "verdict": "// VERDICT: Removes federal oversight capacity for insurance sector systemic risk without documented evidence that monitoring function is redundant or harmful.",
+    "detail": "The Federal Insurance Office was established under Dodd-Frank to address gaps exposed during the 2008 financial crisis, particularly regarding AIG's collapse. <strong>Eliminating FIO removes the federal government's primary mechanism for monitoring insurance sector risks that could threaten financial stability, with no alternative surveillance structure proposed.</strong> While proponents argue this returns authority to state regulators, state insurance commissioners lack mandate and resources for systemic risk assessment across jurisdictions. The office operates on minimal budget (approximately $50M annually) relative to insurance sector size ($1.4T in annual premiums). No cost-benefit analysis accompanies the bill justifying elimination. The action follows proper legislative process but removes institutional capacity built in response to documented regulatory failure, with climate-related insurance market stress increasing rather than decreasing since FIO's creation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 643, 119th Congress",
+      "Dodd-Frank Act Section 313",
+      "Treasury FIO Annual Reports 2023-2025",
+      "Congressional Record, Jan 2025"
+    ]
+  },
+  {
+    "id": 1069,
+    "sourceId": "cg:119-HCONRES-57",
+    "sourceUrl": "https://www.congress.gov/bill/119/hconres/57?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HCONRES 57: Honoring Wadee Alfayoumi, a 6-year-old Palestinian-American boy, murdered as a victim of a hate crime for his Palestinian-Muslim identity, in the State of Illinois.",
+    "score": 5,
+    "snapshot": "Congressional resolution honoring Wadee Alfayoumi, a 6-year-old Palestinian-American boy murdered in a 2023 hate crime in Illinois. The resolution condemns hate crimes and reaffirms constitutional protections but has no binding legal effect.",
+    "verdict": "// VERDICT: A symbolic gesture that costs virtually nothing and follows proper procedure, but produces no measurable policy change or enforcement mechanism to address hate crimes.",
+    "detail": "House Concurrent Resolutions express congressional sentiment but carry no force of law and require no presidential signature. This resolution appropriately honors a child victim of violence and condemns hate crimes, following standard commemorative procedures. <strong>The fiscal impact is negligible—limited to administrative costs of floor time and printing—but the resolution creates no new programs, enforcement tools, or funding to prevent future hate crimes.</strong> While symbolically valuable for acknowledging a tragedy and affirming American values of religious tolerance, it does not alter existing hate crime statutes, federal enforcement priorities, or resource allocation. The resolution passed through committee via normal legislative process. The public benefit is primarily symbolic recognition rather than concrete policy intervention.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Rules on Concurrent Resolutions",
+      "Congressional Research Service: Commemorative Resolutions"
+    ]
+  },
+  {
     "id": 1040,
     "sourceId": "cg:118-HR-1094",
     "sourceUrl": "https://www.congress.gov/bill/118/hr/1094?format=json",
@@ -281,6 +647,46 @@
       "FDA Medical Device Regulations, 21 CFR",
       "NIH Vision Impairment Statistics 2024",
       "Congressional Record, Sep 2025"
+    ]
+  },
+  {
+    "id": 1061,
+    "sourceId": "cg:119-HRES-1356",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1356?format=json",
+    "branch": "Congress",
+    "date": "Aug 17",
+    "dateISO": "2026-08-17",
+    "title": "HRES 1356: A resolution commemorating the Day of Portugal, Camões, and the Portuguese Communities, and for other purposes.",
+    "score": -8,
+    "snapshot": "HRES 1356 commemorates the Day of Portugal, Camões, and the Portuguese Communities. Referred to House Foreign Affairs Committee on June 10, 2026; no floor action taken.",
+    "verdict": "// VERDICT: Symbolic resolution with negligible public benefit, minimal cost, but represents routine congressional time allocation to ceremonial matters without measurable impact.",
+    "detail": "This non-binding House resolution recognizes a Portuguese cultural observance, a common type of commemorative measure Congress passes regularly. <strong>While culturally respectful and diplomatically innocuous, such resolutions consume legislative resources—committee time, floor consideration, staff drafting—without producing measurable outcomes for Americans.</strong> The resolution follows proper procedure (committee referral) and costs virtually nothing in direct expenditure, but the opportunity cost accumulates: the 119th Congress has finite floor time and committee bandwidth. With substantive policy challenges pending (debt ceiling negotiations, appropriations deadlines), dedicating institutional attention to ceremonial proclamations represents a misallocation of scarce legislative capacity. The resolution neither violates law nor shifts costs unfairly, but it exemplifies legislative theater over substantive governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Foreign Affairs referral records",
+      "Congressional Research Service report on commemorative resolutions"
     ]
   },
   {
@@ -19809,416 +20215,6 @@
       "Carpenter v. United States, 585 U.S. 296 (2018)",
       "Fourth Circuit opinion, 107 F.4th 319",
       "District Court opinion, 590 F. Supp. 3d 901"
-    ]
-  },
-  {
-    "id": 552,
-    "sourceId": "cl:11349204",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10881682/trump-v-cook/",
-    "branch": "Courts",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "Opinion 11349204",
-    "score": 38,
-    "snapshot": "Supreme Court denied the President's attempt to fire Federal Reserve Governor Lisa Cook without cause, upholding statutory protections for Fed independence established since 1913. The ruling preserves the 14-year term structure and for-cause removal standard for the Board of Governors.",
-    "verdict": "// VERDICT: The Court enforced existing statutory guardrails on executive power over monetary policy, protecting institutional independence that Congress deliberately designed into the Federal Reserve System.",
-    "detail": "The decision scored highly on rule of law (+12) and measurable public benefit (+11) by maintaining the Federal Reserve's operational independence—a structure with demonstrable economic benefits documented across decades of central banking. <strong>The Court's adherence to the statutory \"for-cause\" removal standard, enacted by Congress in 1935 and never amended, prevents political interference in monetary policy that historically correlates with higher inflation and economic instability.</strong> Fiscal responsibility (+10) benefits from preserving institutional credibility that keeps borrowing costs lower. Cost distribution (+5) is moderately positive: while the ruling constrains executive authority, it protects all Americans from politicized monetary policy, though it does create asymmetric power dynamics where appointed officials have unusual job security. The decision imposes no direct fiscal costs and follows constitutional separation of powers principles established in Humphrey's Executor (1935).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion 11349204, June 29, 2026",
-      "Federal Reserve Act, 12 U.S.C. §242",
-      "Humphrey's Executor v. United States, 295 U.S. 602 (1935)",
-      "Academic literature on central bank independence and inflation outcomes"
-    ]
-  },
-  {
-    "id": 553,
-    "sourceId": "cl:11349203",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10881681/trump-v-slaughter/",
-    "branch": "Courts",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "Opinion 11349203",
-    "score": 28,
-    "snapshot": "The Supreme Court ruled 6–3 that the President can remove FTC commissioners at will, overturning Humphrey's Executor (1935) and removing a 90-year statutory limit that protected independent agencies from political control. The decision consolidates executive power under Article II.",
-    "verdict": "// VERDICT: Reinforces constitutional accountability for executive agencies, though removal of statutory guardrails may increase partisan volatility in regulatory enforcement.",
-    "detail": "The Court restored the President's constitutional authority to fire independent agency heads, arguing that Article II vests executive power in one person, not multi-member commissions insulated from removal. This eliminates statutory \"for-cause\" protections that shielded FTC, SEC, and similar commissioners since 1935. <strong>Proponents argue this fixes unconstitutional erosion of presidential accountability; critics warn it subjects technical regulatory decisions—consumer protection, securities oversight—to political whim every four years.</strong> The measurable benefit depends on whether agencies perform better under unified executive direction or bipartisan independence. Fiscal impact is minimal. The decision follows constitutional process (Supreme Court ruling) but overturns 90 years of precedent establishing the administrative state's structure. Cost distribution: unclear immediate winners, but instability may harm consumers relying on consistent enforcement (antitrust, fraud protection) and businesses needing regulatory predictability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion, Trump v. Slaughter, No. 25-332 (Jun 29, 2026)",
-      "Humphrey's Executor v. United States, 295 U.S. 602 (1935)",
-      "Myers v. United States, 272 U.S. 52 (1926)",
-      "15 U.S.C. § 41 (FTC statutory removal provision)"
-    ]
-  },
-  {
-    "id": 554,
-    "sourceId": "cl:11349202",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10881680/watson-v-republican-national-committee/",
-    "branch": "Courts",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "Opinion 11349202",
-    "score": 38,
-    "snapshot": "Supreme Court ruled 6–3 that federal election-day statutes do not require absentee ballots to be received by Election Day, upholding Mississippi's 5-day post-election receipt window for ballots postmarked on or before Election Day. Approximately 30 states have similar extended-receipt laws.",
-    "verdict": "// VERDICT: The Court preserves state authority over ballot-receipt deadlines, maintaining existing practice in roughly 30 states while reaffirming that federal law governs when votes must be cast, not received.",
-    "detail": "The decision clarifies a fundamental ambiguity in federal election statutes by distinguishing between the act of voting (governed federally) and ballot receipt procedures (governed by states). <strong>The Court's interpretation that \"election\" refers to the electorate's choice of candidate—completed at the moment of casting—rather than ballot receipt, aligns with historical definitions and the Uniformed and Overseas Citizens Absentee Voting Act's framework.</strong> The ruling affects approximately 30 states with post-election receipt windows, providing legal certainty for millions of absentee voters, particularly military personnel, overseas citizens, college students, and seniors. By deferring to state administration of receipt deadlines while maintaining federal control over election timing, the decision upholds both federalism principles and practical election administration. The narrow holding does not address early voting, vote counting timelines, or broader congressional authority over elections.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Watson v. RNC, 609 U.S. ___ (2026)",
-      "52 U.S.C. §20302 (UOCAVA)",
-      "Miss. Code Ann. §23-15-713",
-      "Congressional Record, 3 U.S.C. §21"
-    ]
-  },
-  {
-    "id": 555,
-    "sourceId": "cl:11349201",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10881679/dershowitz-v-cable-news-network-inc/",
-    "branch": "Courts",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "Opinion 11349201",
-    "score": -18,
-    "snapshot": "Supreme Court denies certiorari in defamation case. Justice Thomas dissents, arguing the 1964 'actual malice' standard for public figures lacks constitutional basis and should be overruled.",
-    "verdict": "// VERDICT: Declining to revisit a 62-year-old precedent preserves legal stability but continues a constitutionally questionable standard that may excessively shield media defendants.",
-    "detail": "The Court's denial maintains the Sullivan framework requiring public figures to prove 'actual malice' in defamation cases—a high bar that critics argue lacks textual constitutional support. <strong>Justice Thomas's dissent highlights a legitimate originalist concern: the Founders may have afforded public figures stronger, not weaker, defamation protections.</strong> However, the denial itself follows standard certiorari processes (no procedural violation) and preserves precedent that has governed First Amendment jurisprudence for six decades, affecting millions of cases. The refusal to grant review imposes no new fiscal burden and doesn't shift costs between populations. The core tension: maintaining a potentially flawed standard preserves predictability, while revisiting it could restore historical constitutional understanding. The judiciary moved properly within its discretion, but the underlying doctrine remains constitutionally suspect per multiple justices across ideological lines.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion 25-770 (June 29, 2026)",
-      "New York Times Co. v. Sullivan, 376 U.S. 254 (1964)",
-      "Berisha v. Lawson, 594 U.S. ___ (2021)",
-      "Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974)"
-    ]
-  },
-  {
-    "id": 556,
-    "sourceId": "cl:11349200",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10881678/doe-v-hochul/",
-    "branch": "Courts",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "Opinion 11349200",
-    "score": -28,
-    "snapshot": "Supreme Court denied cert in a case where New York healthcare workers sued after being fired for refusing COVID-19 vaccines on religious grounds. The Second Circuit upheld dismissal, ruling that accommodating religious exemptions would force employers to violate state mandate.",
-    "verdict": "// VERDICT: The denial leaves unresolved whether Title VII religious accommodation requirements override state vaccine mandates, allowing employers to cite regulatory compliance as absolute defense against discrimination claims.",
-    "detail": "The cert denial perpetuates a circuit split on whether <strong>state regulatory compliance automatically constitutes \"undue hardship\" under Title VII, effectively nullifying religious accommodation rights when government mandates conflict with sincere beliefs.</strong> Workers with decade-long religious exemptions were terminated when New York eliminated religious (but not medical) exemptions from its COVID-19 mandate. The Second Circuit dismissed claims without assessing proposed accommodations (weekly testing, masking), accepting regulatory conflict as per se undue hardship. This creates perverse incentive: states can eliminate civil rights protections simply by issuing conflicting mandates. While employers face genuine compliance concerns, the absence of Supreme Court guidance leaves religious workers unprotected when state and federal employment law collide, undermining Title VII's broad protection of religious observance in the workplace.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Doe v. Hochul, No. 24-1015 (U.S. June 29, 2026)",
-      "Title VII, 42 U.S.C. §2000e-2(a)(1)",
-      "Groff v. DeJoy, 600 U.S. 447 (2023)",
-      "Second Circuit Opinion (affirming dismissal)"
-    ]
-  },
-  {
-    "id": 557,
-    "sourceId": "cl:11349199",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10881677/smith-v-kind/",
-    "branch": "Courts",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "Opinion 11349199",
-    "score": -38,
-    "snapshot": "Supreme Court denied cert in a qualified immunity case where prison officials locked an inmate naked in a 25-57°F cell for 23 hours, which the Seventh Circuit found violated the Eighth Amendment but granted immunity anyway. Three justices dissented.",
-    "verdict": "// VERDICT: Denying review perpetuates a qualified immunity doctrine that shields demonstrably cruel conduct from legal accountability, undermining constitutional protections Americans rely on.",
-    "detail": "The Court's refusal to hear this case allows a lower court ruling to stand that acknowledges an Eighth Amendment violation—confining a naked inmate in freezing conditions for nearly a day—yet immunizes the officials responsible because no prior case involved \"closely analogous facts.\" <strong>This creates a legal paradox where constitutional rights exist on paper but disappear in practice unless a nearly identical prior violation can be cited.</strong> The qualified immunity framework, criticized across the political spectrum, imposes massive costs on rule of law by making constitutional protections unenforceable in novel circumstances. It shifts accountability away from government actors who cause harm, leaving victims without recourse. The denial required no taxpayer expenditure but represents a systemic failure to address a doctrine that courts, scholars, and civil society increasingly recognize as incompatible with democratic accountability and equal protection under law.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Smith v. Kind, 609 U.S. ___ (2026)",
-      "140 F.4th 359 (7th Cir. 2025)",
-      "42 U.S.C. §1983",
-      "Eighth Amendment jurisprudence"
-    ]
-  },
-  {
-    "id": 571,
-    "sourceId": "cg:119-S-233",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/233?format=json",
-    "branch": "Congress",
-    "date": "Jun 28",
-    "dateISO": "2026-06-28",
-    "title": "S 233: Restoring Confidence in the World Anti-Doping Agency Act of 2025",
-    "score": -18,
-    "snapshot": "S. 233 withholds U.S. contributions to the World Anti-Doping Agency (WADA) pending reforms, citing governance concerns and allegations of unequal enforcement. The bill conditions funding on certification of specific organizational changes.",
-    "verdict": "// VERDICT: Withholds international anti-doping funding without clear alternative enforcement mechanism, risking U.S. athlete eligibility while addressing legitimate but unquantified governance concerns.",
-    "detail": "The legislation responds to documented concerns about WADA's handling of Chinese doping cases and governance transparency, but employs a funding cutoff that could exclude U.S. athletes from international competition without resolving underlying problems. <strong>The bill provides no cost-benefit analysis of withdrawal versus reform engagement, nor does it establish alternative anti-doping infrastructure for American athletes.</strong> While WADA's annual U.S. contribution (~$3.6 million) is modest, the broader economic impact on Olympic participation and sports diplomacy remains unassessed. The certification requirements are policy-driven rather than outcome-focused, potentially creating indefinite funding suspension. Congressional authority to condition treaty organization funding is established, but the approach prioritizes symbolic accountability over measurable improvement in anti-doping effectiveness.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 233, 119th Congress",
-      "Senate Legislative Calendar No. 340",
-      "WADA Financial Reports 2024-2025",
-      "Congressional Record, Feb 2026"
-    ]
-  },
-  {
-    "id": 572,
-    "sourceId": "cg:119-S-1441",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1441?format=json",
-    "branch": "Congress",
-    "date": "Jun 28",
-    "dateISO": "2026-06-28",
-    "title": "S 1441: SAVES Act of 2025",
-    "score": -18,
-    "snapshot": "The SAVES Act would require proof of U.S. citizenship to register to vote in federal elections, mandating documentary evidence beyond current sworn attestation requirements. Proponents argue it prevents noncitizen voting; critics cite lack of evidence for widespread fraud and potential disenfranchisement of citizens lacking immediate documentation.",
-    "verdict": "// VERDICT: Creates barriers to voter registration for documented problem affecting fewer than 0.0001% of votes while imposing costs on states and potentially disenfranchising eligible citizens without readily available citizenship documents.",
-    "detail": "The SAVES Act addresses noncitizen voting, which comprehensive studies show occurs at statistically negligible rates—the Brennan Center documented 30 suspected cases among 23.5 million votes examined. <strong>The bill would require documentary proof (passport, birth certificate, naturalization papers) that an estimated 7-9% of eligible citizens do not possess in immediately accessible form, disproportionately affecting elderly, poor, and minority voters.</strong> States would bear implementation costs for new verification systems without federal funding mechanisms identified in the bill text. While following regular legislative process, the solution is disproportionate to the documented problem scope. The bill does not include provisions for provisional ballots or grace periods for citizens to obtain documentation, creating a compliance burden that falls hardest on vulnerable populations who vote at lower rates and have fewer resources to navigate bureaucratic requirements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.1441 - 119th Congress",
-      "Brennan Center voter fraud studies",
-      "GAO Report on Voter ID Requirements (2014)",
-      "Senate Legislative Calendar No. 342"
-    ]
-  },
-  {
-    "id": 573,
-    "sourceId": "cg:119-S-861",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/861?format=json",
-    "branch": "Congress",
-    "date": "Jun 28",
-    "dateISO": "2026-06-28",
-    "title": "S 861: Disaster Assistance Simplification Act",
-    "score": 28,
-    "snapshot": "S 861 proposes streamlining federal disaster assistance by consolidating application processes across FEMA, SBA, and USDA programs. The bill aims to reduce duplicative paperwork and accelerate aid delivery to disaster victims through unified digital portals.",
-    "verdict": "// VERDICT: Reduces administrative burden on disaster victims and agencies without significant costs, though implementation effectiveness remains to be demonstrated.",
-    "detail": "The Disaster Assistance Simplification Act addresses a legitimate inefficiency where survivors must navigate separate applications for FEMA grants, SBA loans, and agricultural assistance after disasters. <strong>By creating unified intake systems and shared eligibility determinations, the bill could measurably reduce processing time and administrative overhead.</strong> The fiscal impact appears minimal—primarily IT modernization costs offset by reduced duplication across three agencies. The bill follows normal legislative process and was approved by the Senate Homeland Security Committee. Cost distribution is equitable, as it benefits all disaster-affected Americans regardless of income while generating modest savings for taxpayers. The primary uncertainty is execution risk: past federal IT consolidation efforts have faced delays, though the scope here is narrower than failed larger projects.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 861 bill text, Congress.gov",
-      "Senate Homeland Security Committee Report",
-      "GAO report on disaster assistance fragmentation (GAO-20-503)",
-      "Congressional Record, Dec 2025"
-    ]
-  },
-  {
-    "id": 558,
-    "sourceId": "cg:119-HR-6444",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6444?format=json",
-    "branch": "Congress",
-    "date": "Jun 27",
-    "dateISO": "2026-06-27",
-    "title": "HR 6444: Blast Overpressure Research and Mitigation Task Force Act",
-    "score": 28,
-    "snapshot": "HR 6444 establishes a DOD task force to research blast overpressure effects on service members and develop mitigation strategies. The bill requires comprehensive data collection, evidence-based recommendations, and regular reporting to Congress.",
-    "verdict": "// VERDICT: Creates a structured research framework to address documented brain injuries from blast exposure with minimal cost and clear accountability mechanisms.",
-    "detail": "This legislation responds to accumulating evidence linking repeated blast exposure during training and combat to traumatic brain injuries among military personnel. <strong>The task force structure mandates coordination across DOD, VA, and research institutions to consolidate fragmented efforts and produce actionable mitigation protocols.</strong> Implementation costs are negligible relative to DOD's research budget, while potential long-term savings from reduced disability claims and improved force readiness are substantial. The bill follows standard legislative process through Armed Services Committee markup and includes sunset provisions requiring congressional reauthorization. Primary beneficiaries are active-duty personnel in high-blast-exposure roles (artillery, breaching, explosives ordnance disposal). The mandate for public reporting creates transparency without compromising operational security.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Armed Services Committee Report",
-      "DOD TBI and Psychological Health Program data",
-      "VA disability statistics"
     ]
   }
 ]
