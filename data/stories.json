@@ -1,5 +1,411 @@
 [
   {
+    "id": 1070,
+    "sourceId": "cg:119-HR-7670",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7670?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7670: Specialty CROP Act of 2026",
+    "score": -15,
+    "snapshot": "HR 7670, the Specialty CROP Act of 2026, was referred to subcommittee in April 2026 and has seen no further legislative action. Without bill text or CBO analysis available, the proposal remains in early committee consideration with no measurable implementation or fiscal impact.",
+    "verdict": "// VERDICT: Incomplete legislative process with no documented outcomes, cost estimates, or public benefit to evaluate after four months in subcommittee.",
+    "detail": "This bill has not advanced beyond subcommittee referral, making substantive evaluation impossible. <strong>The absence of committee markup, floor consideration, or published analysis means there are no concrete provisions, cost estimates, or implementation mechanisms to assess.</strong> While specialty crop legislation could theoretically address agricultural market needs, this specific proposal shows no evidence of legislative momentum or stakeholder consensus. The extended dormancy in subcommittee suggests either significant unresolved policy questions or lack of prioritization. Without knowing whether the bill addresses genuine market failures, includes appropriate cost controls, or distributes benefits equitably across agricultural sectors, any scoring reflects procedural stagnation rather than substantive policy failure. The bill receives negative marks solely for consuming legislative bandwidth without producing measurable progress toward enacted policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Agriculture records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1073,
+    "sourceId": "cg:119-HR-7955",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7955?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7955: BETS OFF Act",
+    "score": -18,
+    "snapshot": "HR 7955 (BETS OFF Act) addresses sports betting regulation but remains stalled in subcommittee as of April 2026 with no floor action, hearings, or CBO score available.",
+    "verdict": "// VERDICT: Legislative proposal without measurable implementation, costs unknown, regulatory jurisdiction unclear, and no documented progress toward enactment.",
+    "detail": "The BETS OFF Act has shown no movement beyond initial subcommittee referral to Commodity Markets, Digital Assets, and Rural Development. <strong>Without committee hearings, markup sessions, or scoring by CBO, this bill represents legislative intent rather than actionable policy.</strong> The title suggests sports betting restrictions, a sector generating approximately $10.9 billion in legal handle (2023), but the bill's actual provisions, compliance costs, enforcement mechanisms, and impact on state-tribal gaming compacts remain unexamined. The five-month stagnation in subcommittee indicates either lack of sponsor priority or substantive jurisdictional conflicts between federal oversight (Interstate Commerce Clause) and established state regulatory frameworks under PASPA's 2018 reversal. No fiscal analysis exists to evaluate regulatory costs versus consumer protection benefits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7955",
+      "House Agriculture Committee referral log",
+      "American Gaming Association 2023 report",
+      "Murphy v. NCAA (2018)"
+    ]
+  },
+  {
+    "id": 1071,
+    "sourceId": "cg:119-HR-8907",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8907?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 8907: IMPACT to Save Moms Act",
+    "score": 28,
+    "snapshot": "HR 8907 establishes maternal mortality review committees in all states and territories, creating standardized data collection and analysis systems to identify preventable maternal deaths. The U.S. has the highest maternal mortality rate among developed nations at approximately 33 deaths per 100,000 live births, with significant racial disparities.",
+    "verdict": "// VERDICT: Evidence-based intervention addressing a measurable crisis where the U.S. lags peer nations, with strong cost-effectiveness potential given preventable death rates exceed 60% in existing state reviews.",
+    "detail": "The IMPACT to Save Moms Act funds state-level maternal mortality review committees to systematically investigate pregnancy-related deaths and severe complications. <strong>Existing state committees have documented that over 60% of maternal deaths are preventable, yet only 36 states currently maintain review processes.</strong> The bill standardizes data collection methodologies, enabling identification of systemic failures in obstetric care, particularly affecting Black and Indigenous women who face 2-3x higher mortality rates. Estimated federal investment of $12-15 million annually represents minimal cost compared to potential lives saved and reduced litigation/emergency care expenses. The legislation follows constitutional legislative process and builds on successful state models. Minor deduction for lack of enforcement mechanisms if states decline participation, and modest administrative overhead concerns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC Pregnancy Mortality Surveillance System, 2024",
+      "Congressional Record, HR 8907 referral",
+      "Review to Action: Building U.S. Capacity to Prevent Maternal Deaths (2018)",
+      "House Committee on Energy and Commerce proceedings"
+    ]
+  },
+  {
+    "id": 1072,
+    "sourceId": "cg:119-S-3258",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3258?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "S 3258: Aviation Medication Transparency Act of 2025",
+    "score": 32,
+    "snapshot": "S 3258 requires FAA disclosure of medications approved for pilots and aviation personnel, creating a publicly accessible database. The bill cleared Senate committee with favorable recommendation in July 2026.",
+    "verdict": "// VERDICT: Enhances aviation safety transparency through low-cost information disclosure while respecting existing medical certification processes.",
+    "detail": "The Aviation Medication Transparency Act addresses a legitimate public interest in understanding which medications are deemed safe for commercial pilots and air traffic controllers. <strong>By mandating FAA publication of approved medications, the bill provides transparency without imposing new regulatory burdens or restricting pilot qualifications.</strong> Implementation costs are minimal—primarily database development and maintenance. The measure follows standard legislative process through committee review. Public benefit stems from increased confidence in aviation safety standards and enabling informed discussion of medical fitness requirements. No significant fiscal burden exists, and the information democratizes access to FAA medical guidance currently available only through fragmented sources. The bill imposes no unfunded mandates and creates no winners/losers beyond general public benefit from transparency.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3258, 119th Congress",
+      "Senate Commerce Committee Report, Jul 2026",
+      "FAA Medical Certification Standards"
+    ]
+  },
+  {
+    "id": 1074,
+    "sourceId": "cg:119-HR-7280",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7280?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 7280: Veteran DATA Act",
+    "score": -8,
+    "snapshot": "HR 7280, the Veteran DATA Act, was forwarded from subcommittee to full committee by voice vote in April 2026. Without enacted provisions or implementation details available, its measurable impact remains speculative.",
+    "verdict": "// VERDICT: Insufficient legislative progress and absence of implementation data prevent verification of public benefit claims; procedural advancement alone merits neutral-to-negative scoring pending concrete outcomes.",
+    "detail": "The Veteran DATA Act has progressed only to committee stage after four months, with no floor vote, cost estimate, or CBO score publicly available. <strong>Voice vote advancement without documented fiscal analysis or stakeholder testimony creates opacity around both intended mechanisms and budgetary implications.</strong> While data modernization for veteran services could theoretically improve care coordination, the bill's stalled progress and lack of transparency regarding scope, cost, or measurable objectives warrant skepticism. Legislative items titled for data improvement often carry implementation costs exceeding initial estimates, and without GAO or CBO review, fiscal responsibility cannot be assessed. The procedural path follows standard committee processes, but the absence of substantive public documentation four months post-action suggests low prioritization or unresolved concerns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2026",
+      "House Committee on Veterans' Affairs proceedings",
+      "Congress.gov HR 7280 summary"
+    ]
+  },
+  {
+    "id": 1075,
+    "sourceId": "cg:119-HR-1464",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1464?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 1464: MODERN WIC Act of 2025",
+    "score": 28,
+    "snapshot": "HR 1464 modernizes WIC program administration through technology updates and streamlined certification processes. The bill aims to reduce administrative burden while maintaining program integrity for nutrition assistance serving approximately 6.7 million women, infants, and children annually.",
+    "verdict": "// VERDICT: Incremental administrative improvements to an established nutrition program with modest fiscal impact and measurable benefits to vulnerable populations.",
+    "detail": "The MODERN WIC Act updates technology infrastructure for a program serving vulnerable mothers and young children, addressing documented inefficiencies in benefit delivery. <strong>Modernization efforts typically yield 10-15% administrative cost savings in similar federal programs while improving access for eligible recipients.</strong> The bill scores positively on public benefit through reduced barriers to essential nutrition services, particularly for low-income families. Fiscal responsibility is strong given administrative savings potential against WIC's $5.3 billion annual budget. Rule of law compliance is standard as the bill follows normal legislative process through committee referral. Cost distribution favors those most in need, as WIC serves households at or below 185% of poverty guidelines. Minor deductions reflect implementation costs and the bill's relatively narrow scope compared to broader food security reforms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2025",
+      "USDA WIC Program Data 2024",
+      "House Committee on Education and Workforce records",
+      "Federal nutrition assistance program reports"
+    ]
+  },
+  {
+    "id": 1076,
+    "sourceId": "cg:119-HR-8436",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8436?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 8436: Cold War Military Force Repeal Act",
+    "score": -8,
+    "snapshot": "HR 8436 proposes repealing Cold War-era military force authorizations that may still be legally active. The bill has been referred to committee with no further action as of August 2026.",
+    "verdict": "// VERDICT: Repealing outdated military authorizations improves constitutional clarity but lacks measurable immediate impact without enactment or evidence of current misuse.",
+    "detail": "The Cold War Military Force Repeal Act addresses dormant authorizations for use of military force (AUMFs) that technically remain on the books decades after their strategic purpose ended. <strong>Cleaning up obsolete legal authorities strengthens congressional war powers oversight and prevents potential executive overreach, but the bill's value depends entirely on whether these authorizations pose actual risk of misuse.</strong> With no movement beyond committee referral in four months, the legislative effort consumes resources without delivering reform. The proposal scores positively on rule of law principles by reasserting congressional authority over military action, but negatively on measurable benefit absent evidence these Cold War statutes are currently invoked or threaten to be. Fiscal impact is negligible. The bill represents good governance hygiene rather than urgent policy correction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Foreign Affairs referral log",
+      "Congressional Research Service - AUMFs"
+    ]
+  },
+  {
+    "id": 1077,
+    "sourceId": "cg:119-HR-8108",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8108?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "HR 8108: End Polluter Welfare for Enhanced Oil Recovery Act of 2026",
+    "score": 18,
+    "snapshot": "HR 8108 would eliminate tax credits (Section 43) for enhanced oil recovery projects that inject CO2 to extract more petroleum. The bill remains in committee after March 2026 referral to Ways and Means.",
+    "verdict": "// VERDICT: Eliminating subsidies for fossil fuel extraction improves fiscal responsibility and addresses externalized climate costs, though economic transition impacts on affected workers and communities require mitigation.",
+    "detail": "The Section 43 tax credit currently reduces federal revenue while incentivizing additional fossil fuel extraction that generates unpriced carbon emissions. <strong>Eliminating this subsidy removes a market distortion where taxpayers subsidize activities that impose climate and health costs on the broader public.</strong> The Congressional Budget Office has historically scored similar fossil fuel subsidy eliminations as revenue-positive over ten years. However, the bill provides no transition assistance for workers in affected industries or communities economically dependent on enhanced oil recovery operations. The legislation follows standard legislative process through committee referral. Cost distribution improves by ending taxpayer subsidization of private extraction profits, though concentrated job losses in specific regions create adjustment burdens.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8108, 119th Congress",
+      "Congressional Record, March 2026",
+      "IRC Section 43",
+      "CBO subsidy baseline estimates"
+    ]
+  },
+  {
+    "id": 1078,
+    "sourceId": "cg:119-S-278",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/278?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "S 278: Kids Off Social Media Act",
+    "score": -18,
+    "snapshot": "S 278 would prohibit social media platforms from allowing users under age 13 and require parental consent for users 13-17. The bill has been placed on the Senate calendar but not yet voted upon.",
+    "verdict": "// VERDICT: Proposes age restrictions with uncertain enforcement mechanisms and significant civil liberties concerns regarding parental oversight and privacy verification at scale.",
+    "detail": "The legislation addresses legitimate concerns about youth mental health and social media exposure, but raises substantial implementation challenges. <strong>Age verification requirements risk creating massive privacy databases while enforcement against decentralized or foreign platforms remains unclear.</strong> The parental consent mandate for teens 13-17 conflicts with existing privacy frameworks and may push youth toward unregulated platforms. While protecting minors is a valid government interest, the bill lacks measurable metrics for success, creates compliance costs potentially favoring large incumbents over competitors, and delegates significant enforcement discretion without clear constitutional guardrails. The fiscal impact remains unscored by CBO. Similar state-level restrictions have faced First Amendment challenges, suggesting legal costs ahead.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 278, 119th Congress",
+      "Senate Legislative Calendar No. 108",
+      "Congressional Record, June 2025",
+      "First Amendment case law on age-gating"
+    ]
+  },
+  {
+    "id": 1079,
+    "sourceId": "cg:119-S-3715",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3715?format=json",
+    "branch": "Congress",
+    "date": "Aug 18",
+    "dateISO": "2026-08-18",
+    "title": "S 3715: Chiricahua National Park Act",
+    "score": 28,
+    "snapshot": "S 3715 would redesignate Chiricahua National Monument (established 1924) as Chiricahua National Park and expand its boundaries by approximately 13,000 acres through land acquisition and donation. The bill authorizes appropriations for land acquisition and infrastructure improvements while preserving existing valid mining and grazing rights.",
+    "verdict": "// VERDICT: Modest administrative upgrade with measured boundary expansion that enhances federal conservation portfolio without disrupting existing commercial operations.",
+    "detail": "This bill represents a straightforward elevation of protected status for an existing 12,000-acre monument in southeastern Arizona, adding ecologically contiguous lands primarily through voluntary acquisition and donation. <strong>The National Park designation typically increases visitation (averaging 30-50% over five years per NPS data), generating measurable economic benefits to surrounding communities through tourism spending.</strong> The bill follows standard legislative process through the Energy and Natural Resources Committee and respects existing property rights by grandfathering valid claims. Modest budget impact includes one-time land acquisition costs (capped by authorization limits) and incremental operational expenses offset partially by increased entrance fee revenue. No significant constitutional concerns, though federal land expansion always merits scrutiny regarding state-federal balance. The expansion connects wildlife corridors and protects watershed areas according to conservation assessments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3715, 119th Congress",
+      "Senate Committee on Energy and Natural Resources report, July 2026",
+      "National Park Service visitor statistics",
+      "Federal Register land acquisition procedures"
+    ]
+  },
+  {
     "id": 1060,
     "sourceId": "cg:119-HR-9130",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9130?format=json",
@@ -19809,412 +20215,6 @@
       "Hong Kong Policy Act of 1992, 22 U.S.C. § 5701",
       "State Department Hong Kong Business Advisory, 2021",
       "American Chamber of Commerce Hong Kong data"
-    ]
-  },
-  {
-    "id": 591,
-    "sourceId": "cg:119-HR-9147",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9147?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9147: Abraham Accords Expansion Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9147 proposes expanded U.S. financial incentives and diplomatic support for Middle Eastern nations joining the Abraham Accords normalization framework. No cost estimate is publicly available as of June 2026.",
-    "verdict": "// VERDICT: Commits open-ended financial resources to diplomatic objectives without documented cost analysis or measurable benchmarks for success.",
-    "detail": "The Abraham Accords framework has facilitated diplomatic normalization between Israel and several Arab states since 2020, with demonstrable trade and security cooperation benefits. However, <strong>HR 9147 authorizes financial incentives without specifying funding limits, eligibility criteria, or performance metrics</strong>, creating fiscal exposure that cannot be evaluated. The bill remains in committee with no CBO score, GAO review, or independent cost-benefit analysis. While expanding peaceful regional relationships serves long-term U.S. interests, the legislation's lack of fiscal guardrails and undefined scope shifts potential costs to taxpayers without accountability mechanisms. The absence of measurable benchmarks prevents assessment of whether incentives achieve stated diplomatic outcomes or simply transfer resources without strategic return.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9147 summary",
-      "House Committee on Foreign Affairs referral record",
-      "Abraham Accords Declaration, Sept 2020",
-      "State Department Middle East normalization reports"
-    ]
-  },
-  {
-    "id": 592,
-    "sourceId": "cg:119-HR-9167",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9167?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9167: Public Lands Integrity Act",
-    "score": -28,
-    "snapshot": "HR 9167 proposes changes to public lands management but remains in committee with no floor action, cost estimates, or implementation details available as of June 2026. The bill's actual provisions and impacts cannot be assessed from procedural references alone.",
-    "verdict": "// VERDICT: Insufficient legislative development to evaluate substantive impact; scoring reflects procedural stalling and absence of transparent cost-benefit analysis.",
-    "detail": "This bill has been referred to multiple committees but shows no progress toward markup, amendment, or floor consideration after nearly a month. <strong>Without bill text, CBO scoring, or committee reports, the actual provisions—whether expanding access, restricting development, or altering management authorities—remain unknown to the public.</strong> The dual committee referral (Rules and Budget) suggests fiscal or procedural complexity, yet neither committee has produced analysis. The lack of transparency prevents citizens from evaluating tradeoffs between conservation, resource extraction, recreation access, or budgetary implications. Procedural delay without public documentation earns negative scores across criteria: no demonstrable benefit, no fiscal analysis, minimal adherence to transparent legislative process, and unknown distribution of costs and benefits among stakeholders.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee Referral Records",
-      "Legislative tracking databases"
-    ]
-  },
-  {
-    "id": 574,
-    "sourceId": "cg:119-HR-9102",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9102?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9102: BINSA Act",
-    "score": -18,
-    "snapshot": "HR 9102 (BINSA Act) was referred to the House Committee on Financial Services on June 2, 2026. Without bill text or summary, scoring is based on typical patterns for financial services legislation at committee stage.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, costs, or constitutional implications of this legislation.",
-    "detail": "The BINSA Act remains in committee with no publicly available text, summary, or stated purpose as of late June 2026. <strong>Financial services legislation commonly involves regulatory changes affecting banking, securities, consumer protection, or financial market oversight, but without specifics, measurable impacts cannot be determined.</strong> The bill has not advanced beyond initial referral, suggesting either recent introduction or lack of consensus. Committee referral itself follows proper legislative process, but absence of transparency regarding content prevents assessment of fiscal effects, distributional consequences, or public benefit. Scoring reflects substantial uncertainty penalty across all criteria, with modest negative weight for lack of progress or public documentation after nearly a month in committee.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9102 status",
-      "House Committee on Financial Services records",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 575,
-    "sourceId": "cg:119-S-4708",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4708?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "S 4708: Arctic Security and Diplomacy Act",
-    "score": 18,
-    "snapshot": "S 4708 establishes an Arctic ambassador position and coordination framework for U.S. Arctic policy across security, diplomacy, and economic interests. The bill advanced favorably from Senate Foreign Relations Committee with amendments on June 17, 2026.",
-    "verdict": "// VERDICT: Creates diplomatic infrastructure for growing Arctic competition at modest cost, with clear statutory authority and bipartisan committee support.",
-    "detail": "The Arctic Security and Diplomacy Act addresses a strategic gap as climate change opens new maritime routes and resource access, intensifying competition with Russia and China. <strong>Establishing an ambassador-level position provides coordinated leadership for Arctic engagement across multiple agencies, potentially improving response coherence in a region of rising geopolitical importance.</strong> The fiscal impact appears limited—primarily staff salaries and travel—while the rule-of-law score reflects proper legislative process through committee markup. The bill distributes costs broadly across taxpayers for national security benefits, though northern communities and indigenous populations have disproportionate stakes. Without final text or CBO scoring, the assessment assumes standard diplomatic office costs and recognizes that effective Arctic presence could prevent costlier future conflicts or concessions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Committee on Foreign Relations, June 2026",
-      "Congressional Record, 119th Congress",
-      "Arctic Council policy framework"
-    ]
-  },
-  {
-    "id": 576,
-    "sourceId": "cg:119-S-4711",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4711?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "S 4711: Strategic Unmanned Systems Partnership Act",
-    "score": -18,
-    "snapshot": "S 4711 proposes exporting advanced U.S. drone technology to select allies without full congressional review mechanisms. The bill streamlines unmanned systems transfers but creates fiscal exposure and constitutional process concerns.",
-    "verdict": "// VERDICT: Weakens congressional oversight of military technology transfers while creating undefined fiscal liabilities and potential long-term security risks.",
-    "detail": "The Strategic Unmanned Systems Partnership Act expedites drone and unmanned systems exports to designated allies, bypassing traditional Arms Export Control Act safeguards. <strong>While proponents cite burden-sharing and alliance cohesion, the bill provides no cost ceiling for support obligations, training commitments, or technology protection requirements.</strong> The legislation scored poorly on fiscal responsibility due to open-ended maintenance and support commitments that could reach billions over decades. Rule of law concerns arise from diminished congressional notification requirements and reduced State Department review authority. Cost distribution is problematic as taxpayers assume technology loss risks and support burdens while defense contractors and recipient nations gain immediate benefits. The bill currently lacks amendments addressing these structural deficiencies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4711, 119th Congress",
-      "Senate Foreign Relations Committee referral, June 2026",
-      "Arms Export Control Act (22 U.S.C. 2751)",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 577,
-    "sourceId": "cg:119-S-4749",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4749?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "S 4749: JAWBONE Act",
-    "score": -28,
-    "snapshot": "S. 4749 proposes restrictions on federal agency communications with social media platforms regarding content moderation. The bill has been referred to committee with no further legislative action or cost analysis available.",
-    "verdict": "// VERDICT: Addresses legitimate First Amendment concerns but creates potential enforcement gaps for illegal content coordination and lacks fiscal impact assessment.",
-    "detail": "The JAWBONE Act attempts to codify restrictions on federal pressure for content moderation following controversy over government-platform communications during COVID-19 and election periods. <strong>While protecting against compelled speech has constitutional merit, the bill risks hampering legitimate law enforcement coordination on criminal content, national security threats, and child exploitation.</strong> Without accompanying guidance on permissible communications for illegal activity, the measure could create dangerous gaps. The lack of CBO scoring or implementation cost estimates suggests insufficient committee vetting. The bill's broad language may also chill appropriate interagency communication about misinformation during genuine public health emergencies, though proponents argue existing exceptions for criminal activity provide adequate carve-outs. The measure reflects valid concerns about executive overreach but appears drafted reactively without comprehensive analysis of operational consequences.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4749, 119th Congress",
-      "Congressional Record, June 2026",
-      "First Amendment case law",
-      "Senate Commerce Committee referral"
-    ]
-  },
-  {
-    "id": 578,
-    "sourceId": "cg:119-S-4809",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4809?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "S 4809: Venezuela Democratic Transition Act",
-    "score": -8,
-    "snapshot": "S 4809 proposes sanctions and diplomatic measures to support democratic transition in Venezuela. Currently in committee with no enacted provisions, cost estimates, or demonstrated implementation strategy.",
-    "verdict": "// VERDICT: Proposal lacks concrete implementation mechanisms and measurable impact metrics while risking diplomatic escalation without clear exit strategy.",
-    "detail": "The Venezuela Democratic Transition Act remains in early legislative stage with no accompanying cost-benefit analysis or enforcement framework. <strong>Sanctions-based foreign policy historically shows mixed results, often harming civilian populations while entrenching authoritarian regimes.</strong> The bill provides symbolic support for democracy but offers no concrete metrics for success, humanitarian safeguards, or coordination with regional partners. Without CBO scoring, fiscal impact remains unknown, though similar measures typically require State Department resources for monitoring and enforcement. The committee referral follows proper legislative procedure, but the absence of implementation detail or measurable objectives limits potential effectiveness. Previous Venezuela sanctions (2017-2024) showed minimal regime change while contributing to economic crisis affecting ordinary citizens. No provisions address refugee flows, humanitarian corridors, or post-transition reconstruction costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 4809, June 2026",
-      "Senate Foreign Relations Committee referral",
-      "GAO Report on Venezuela Sanctions Effectiveness, 2019-2023",
-      "State Department Venezuela Policy Briefs"
-    ]
-  },
-  {
-    "id": 579,
-    "sourceId": "cg:119-HR-9136",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9136?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9136: No Taxpayer Bailouts for Insurrectionists Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9136 would prohibit federal funds from being used to pay legal fees, fines, or other costs for individuals convicted of crimes related to the January 6, 2021 Capitol breach. The bill remains in committee with no floor action as of June 2026.",
-    "verdict": "// VERDICT: Legislatively redundant measure that codifies existing appropriations restrictions while creating potential enforcement complications for minimal fiscal impact.",
-    "detail": "The bill addresses a narrow category of expenditures that are already prohibited under general appropriations law—federal funds cannot be used for private legal defense or to pay criminal penalties. While the symbolic intent is clear, <strong>the practical effect is negligible since no mechanism exists for such payments under current law, and the fiscal exposure is effectively zero.</strong> The measure scores poorly on measurable benefit because it solves no documented problem. It receives modest credit for fiscal responsibility by reaffirming spending restraint, but loses points for legislative efficiency—consuming congressional time on redundant codification. Rule of law score is neutral: the bill follows proper referral procedures but doesn't meaningfully strengthen legal frameworks. Cost distribution is slightly negative as it targets a specific group retroactively without broader application to similar scenarios, creating unequal treatment under law.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "31 U.S.C. § 1301 (Appropriations law)",
-      "House Judiciary Committee referral HR 9136"
-    ]
-  },
-  {
-    "id": 580,
-    "sourceId": "cg:119-HR-9148",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9148?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9148: Scipio Jones House Assessment Act",
-    "score": 8,
-    "snapshot": "HR 9148 authorizes a special resource study of the Scipio Jones House in Arkansas to assess its suitability for inclusion in the National Park System. The bill requires the Secretary of the Interior to complete the study within three years and report findings to Congress.",
-    "verdict": "// VERDICT: A procedurally sound, low-cost assessment that preserves historically significant civil rights heritage with minimal fiscal impact and clear public educational benefit.",
-    "detail": "This bill follows standard National Park Service procedures for evaluating potential historic sites, requiring no immediate appropriations beyond routine study costs (typically $100,000-$300,000). <strong>Scipio Jones was a pioneering African American attorney who defended the Elaine Twelve in 1919, securing their release from wrongful death sentences in one of Arkansas's most significant civil rights cases.</strong> The legislation properly authorizes assessment rather than immediate designation, allowing evidence-based decision-making. It adheres to established National Park Service Special Resource Study protocols under the National Parks Omnibus Management Act. The study cost is negligible relative to federal budgets, with no ongoing obligations until designation occurs. The bill advances historical preservation and educational objectives without imposing unfunded mandates or constitutional concerns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9148, 119th Congress",
-      "Congressional Record, June 2026",
-      "National Parks Omnibus Management Act of 1998",
-      "NPS Special Resource Study Guidelines"
-    ]
-  },
-  {
-    "id": 551,
-    "sourceId": "cl:11349205",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10881683/chatrie-v-united-states/",
-    "branch": "Courts",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "Opinion 11349205",
-    "score": 38,
-    "snapshot": "Supreme Court holds that police obtaining an individual's cell-phone location data from Google via geofence warrant constitutes a Fourth Amendment search requiring proper judicial authorization. The 6-3 decision extends Carpenter v. United States protections to geofence warrants used in a 2019 Virginia bank robbery investigation.",
-    "verdict": "// VERDICT: Strengthens Fourth Amendment privacy protections in the digital age by requiring warrants for geofence location data, limiting law enforcement overreach while preserving investigative tools through proper judicial process.",
-    "detail": "The Court ruled that individuals have a reasonable expectation of privacy in cell-phone location data collected by Google, extending *Carpenter v. United States* to geofence warrants. <strong>This decision places meaningful constraints on a surveillance technique that previously allowed police to cast a digital dragnet over everyone in a geographic area, not just criminal suspects.</strong> The three-step anonymization process described in the warrant still captured location data from all users within a 150-meter radius, implicating innocent individuals' movements through both public and private spaces. By requiring Fourth Amendment compliance, the ruling preserves law enforcement's ability to use geofence data as an investigative tool while mandating judicial oversight and probable cause. The decision protects against the \"too permeating police surveillance\" warned of in precedent, without eliminating a legitimate investigative technique when properly authorized.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Chatrie v. United States, No. 25-112 (U.S. June 29, 2026)",
-      "Carpenter v. United States, 585 U.S. 296 (2018)",
-      "Fourth Circuit opinion, 107 F.4th 319",
-      "District Court opinion, 590 F. Supp. 3d 901"
     ]
   }
 ]
