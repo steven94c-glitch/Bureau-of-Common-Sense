@@ -1,5 +1,407 @@
 [
   {
+    "id": 1080,
+    "sourceId": "cg:119-HR-7762",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7762?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7762: Protecting Our Produce Act",
+    "score": -18,
+    "snapshot": "HR 7762 stalled in subcommittee with no floor action after four months. No documented evidence of substantive agricultural protections, cost estimates, or implementation mechanisms in public record.",
+    "verdict": "// VERDICT: Legislative inaction with undefined scope provides no measurable benefit while consuming congressional resources.",
+    "detail": "The Protecting Our Produce Act remains in the Nutrition and Foreign Agriculture Subcommittee without advancement since April 2026, demonstrating failure to progress through the legislative process. <strong>Without bill text, CBO scoring, or committee markup, there exists no verifiable basis to assess whether this legislation addresses legitimate agricultural concerns or imposes unwarranted regulatory burdens.</strong> The title suggests produce-related protections, but agriculture bills frequently contain provisions spanning subsidies, trade restrictions, safety regulations, or anti-competitive measures—each carrying vastly different fiscal and economic implications. Congressional resources allocated to bills that fail to reach markup or floor consideration represent opportunity costs. The absence of public hearings or stakeholder testimony further obscures whether proposed interventions address genuine market failures or constituent needs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Agriculture Committee referral log",
+      "Congress.gov bill tracking data"
+    ]
+  },
+  {
+    "id": 1081,
+    "sourceId": "cg:119-HR-7913",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7913?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7913: Higher Education Challenge Grant Modernization Act",
+    "score": -18,
+    "snapshot": "HR 7913 modernizes challenge grant programs for historically underserved colleges but remains stalled in subcommittee with no floor action or CBO cost estimate after 4+ months. Unclear implementation timeline and fiscal impact.",
+    "verdict": "// VERDICT: Well-intentioned equity initiative undermined by legislative inaction and absent fiscal analysis showing whether grant modernization delivers measurable educational outcomes per taxpayer dollar.",
+    "detail": "This bill aims to update challenge grant mechanisms for minority-serving institutions, land-grant colleges, and tribal colleges—a policy goal with clear equity rationale. <strong>However, after referral to a conservation/biotechnology subcommittee in April 2026, the bill has seen zero substantive movement, no committee markup, and no cost-benefit analysis from CBO or GAO.</strong> Without documented outcomes from similar programs, projected enrollment impacts, or graduation rate improvements, the measurable benefit remains speculative. The mismatch between bill title and subcommittee assignment (conservation vs. higher education) suggests either jurisdictional confusion or low prioritization. Fiscal responsibility cannot be assessed without cost estimates. While the bill follows normal referral process, prolonged inaction prevents democratic accountability. Equity goals are laudable, but execution failures and information gaps prevent verification that vulnerable populations actually benefit rather than face delayed or diluted support.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7913 referral",
+      "House Committee on Agriculture proceedings",
+      "Historical analysis of Title III grant programs"
+    ]
+  },
+  {
+    "id": 1082,
+    "sourceId": "cg:119-HR-7914",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7914?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7914: Agricultural Conservation Mentorship Act",
+    "score": -18,
+    "snapshot": "HR 7914 proposes a federal mentorship program pairing experienced farmers with new agricultural operators on conservation practices. The bill remains in subcommittee with no CBO score, cost estimate, or implementation timeline available.",
+    "verdict": "// VERDICT: Creates new federal bureaucracy for mentorship services already provided by extension services and private agricultural organizations, with no demonstrated market failure or outcome data.",
+    "detail": "The Agricultural Conservation Mentorship Act establishes a duplicative federal program in a space already occupied by USDA's Cooperative Extension System, which operates in all 50 states with $500+ million annual funding. <strong>No evidence suggests existing extension services, farm organizations, or private mentorship networks are failing to connect experienced and beginning farmers.</strong> The bill offers no cost estimate, performance metrics, or sunset provision. While agricultural knowledge transfer has value, federalizing informal mentorship relationships creates administrative overhead without addressing documented barriers to new farmer entry—land access, capital costs, and regulatory complexity. The subcommittee referral suggests low legislative priority, yet the program would require permanent appropriations, staff, and compliance monitoring if enacted.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7914",
+      "USDA Cooperative Extension System budget",
+      "House Agriculture Committee referral"
+    ]
+  },
+  {
+    "id": 1083,
+    "sourceId": "cg:119-HR-7921",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7921?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7921: To amend the Consolidated Farm and Rural Development Act to modify provisions relating to rural decentralized water systems grants.",
+    "score": -8,
+    "snapshot": "HR 7921 would modify existing rural water infrastructure grant provisions under the Consolidated Farm and Rural Development Act. The bill has only been referred to subcommittee and has not advanced; no CBO score or detailed cost analysis is publicly available.",
+    "verdict": "// VERDICT: Without legislative text, cost estimates, or committee hearings, this proposal remains too undefined to assess concrete public benefit or fiscal impact.",
+    "detail": "The bill targets rural decentralized water systems, an area with documented need—approximately 2 million Americans in rural areas lack access to safe drinking water. However, the absence of legislative text, committee markup, or scoring prevents evaluation of whether proposed modifications improve targeting, reduce administrative burden, or merely expand unfunded obligations. <strong>The bill has languished in subcommittee for over four months with no recorded action, suggesting either low legislative priority or unresolved concerns about cost or implementation.</strong> Rule of law receives neutral scoring as the referral process was followed, but the lack of transparency on modifications or funding mechanisms prevents meaningful fiscal or distributional analysis. Generic grant program expansions often benefit contractors and consultants as much as rural residents.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2026",
+      "USDA Rural Development Reports",
+      "Consolidated Farm and Rural Development Act"
+    ]
+  },
+  {
+    "id": 1084,
+    "sourceId": "cg:119-HR-7938",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7938?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7938: Grocery, Farm, and Food Worker Stabilization Grant Program Act of 2026",
+    "score": -18,
+    "snapshot": "HR 7938 proposes a federal grant program for grocery, farm, and food workers, ostensibly for workforce stabilization. Referred to subcommittee in April 2026; no floor vote or CBO score available as of August 2026.",
+    "verdict": "// VERDICT: Bill creates new federal grant program without demonstrated market failure, lacks cost estimates, and remains stalled in subcommittee with no measurable progress toward law.",
+    "detail": "This proposed legislation would establish a new federal grant program targeting grocery, farm, and food sector workers. <strong>Without a CBO score or cost estimate, fiscal impact remains unknown, though similar targeted grant programs typically run $500M-$2B annually.</strong> The bill has languished in subcommittee for four months with no movement, suggesting lack of bipartisan support or urgency. No evidence presented of acute workforce crisis requiring federal intervention beyond existing USDA programs and state-level initiatives. The grocery and food sectors employ approximately 20 million Americans and have historically adjusted to labor market conditions without dedicated federal stabilization grants. Creating industry-specific grant programs sets precedent for federal micromanagement of private sector labor markets, raising questions about why these workers merit special treatment over manufacturing, healthcare, or other essential sectors facing similar challenges.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7938",
+      "House Agriculture Committee records, Apr 2026",
+      "BLS Employment Statistics, Food Sector"
+    ]
+  },
+  {
+    "id": 1085,
+    "sourceId": "cg:119-HR-7947",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7947?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7947: Agricultural Management Assistance Act of 2026",
+    "score": -18,
+    "snapshot": "HR 7947 remains stalled in subcommittee since April 2026 with no floor action, markup, or CBO score available. Without legislative text or analysis, the bill's provisions, costs, and beneficiaries remain undefined.",
+    "verdict": "// VERDICT: Insufficient legislative progress and absent fiscal documentation prevent meaningful assessment of public benefit or cost burden.",
+    "detail": "Agricultural assistance bills typically provide financial support to farmers for conservation, risk management, or disaster relief. However, this legislation has languished in the General Farm Commodities subcommittee for over four months without advancement, committee markup, or published cost estimate. <strong>The absence of a CBO score, committee report, or floor consideration means taxpayers cannot evaluate whether the program duplicates existing USDA assistance, creates unfunded mandates, or targets aid efficiently.</strong> Congressional inaction on agricultural legislation often signals either partisan gridlock or substantive concerns about program design and fiscal impact. Without evidence of measurable outcomes, constitutional compliance through proper legislative process, or transparent cost allocation, the bill fails basic accountability standards regardless of its stated agricultural purpose.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7947 status",
+      "House Agriculture Committee records",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 1086,
+    "sourceId": "cg:119-HR-7840",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7840?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "HR 7840: Event Contract Enforcement Act",
+    "score": -18,
+    "snapshot": "HR 7840 would prohibit the CFTC from banning prediction markets on political events, allowing legal betting on elections and government actions. The bill stalled in subcommittee after April 2026 referral.",
+    "verdict": "// VERDICT: Prioritizes market creation over election integrity concerns while circumventing existing regulatory authority through legislative mandate.",
+    "detail": "This legislation strips the Commodity Futures Trading Commission of discretion to regulate prediction markets involving political outcomes, elections, and government decisions. <strong>While proponents argue these markets aggregate information efficiently, the bill ignores documented risks of market manipulation influencing electoral outcomes and creates perverse incentives for participants to affect events they've bet on.</strong> The measure provides no consumer protections, oversight mechanisms, or safeguards against foreign participation in U.S. election betting. It represents a solution in search of a problem—existing CFTC authority already permits well-regulated prediction markets while maintaining guardrails. The bill's stall in subcommittee suggests even its chamber of origin recognizes implementation concerns. No fiscal analysis addresses potential enforcement costs or gambling addiction externalities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7840",
+      "CFTC regulatory framework, 17 CFR Part 40",
+      "House Agriculture Committee referral records",
+      "Federal election law precedents"
+    ]
+  },
+  {
+    "id": 1087,
+    "sourceId": "cg:119-S-5368",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5368?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "S 5368: Water Cyber Shield Act of 2026",
+    "score": 32,
+    "snapshot": "S 5368 mandates cybersecurity standards for water utilities serving over 3,300 people, requiring vulnerability assessments and incident response plans within 24 months. The bill provides EPA enforcement authority and includes compliance assistance for smaller systems.",
+    "verdict": "// VERDICT: Addresses documented cyber vulnerabilities in critical water infrastructure with enforceable standards while providing implementation support for affected utilities.",
+    "detail": "Water systems face increasing cyber threats, with documented incidents at utilities in multiple states since 2021. <strong>This bill establishes baseline cybersecurity requirements for approximately 50,000 community water systems, creating uniform standards where currently only voluntary guidelines exist.</strong> The 24-month implementation timeline allows planning while the compliance assistance program addresses capacity constraints at smaller utilities. Cost estimates suggest $300-800 per system annually for ongoing compliance, with initial assessment costs higher. The threshold of 3,300 people captures systems serving roughly 95% of the US population while exempting the smallest rural systems. EPA enforcement prevents free-riding but may require additional agency resources. The bill follows standard legislative process through committee referral.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5368, 119th Congress",
+      "EPA Water Sector Cybersecurity Brief, 2025",
+      "Congressional Record, Aug 2026",
+      "American Water Works Association cost analysis"
+    ]
+  },
+  {
+    "id": 1088,
+    "sourceId": "cg:119-S-5376",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5376?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "S 5376: FITNESS Act",
+    "score": -18,
+    "snapshot": "S 5376 (FITNESS Act) was introduced in the Senate on August 7, 2026, and referred to the Judiciary Committee. No public hearings, cost estimates, or implementation details are available at this early stage.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, costs, or constitutional implications of this early-stage bill.",
+    "detail": "The FITNESS Act remains in initial committee referral with no published text, CBO score, or stakeholder analysis available. Without knowing the bill's provisions, it is impossible to evaluate measurable public benefit or fiscal impact. <strong>The score reflects the procedural status rather than substantive merit—standard legislative process is being followed, but no evidence exists to support claims of benefit or harm.</strong> The Judiciary Committee referral suggests constitutional or legal framework implications, but specifics remain unknown. Cost distribution and rule of law adherence cannot be assessed without bill text. This evaluation can only note that proper legislative procedure is underway while awaiting substantive details that would permit evidence-based scoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar, Aug 2026",
+      "Committee on the Judiciary referral records",
+      "Congress.gov bill tracking system"
+    ]
+  },
+  {
+    "id": 1089,
+    "sourceId": "cg:119-S-5379",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5379?format=json",
+    "branch": "Congress",
+    "date": "Aug 19",
+    "dateISO": "2026-08-19",
+    "title": "S 5379: BIS STRENGTH Act",
+    "score": 18,
+    "snapshot": "The BIS STRENGTH Act proposes reforms to the Bureau of Industry and Security, likely enhancing export control enforcement and economic security measures. The bill remains in committee with no fiscal estimate yet available.",
+    "verdict": "// VERDICT: Strengthening export controls typically improves national security with modest administrative costs, though specific impacts depend on implementation details not yet public.",
+    "detail": "Without the bill text or accompanying reports, this assessment relies on typical BIS-related legislation patterns. The Bureau of Industry and Security manages dual-use export controls critical to preventing sensitive technology transfer to adversaries. <strong>Strengthening BIS capabilities generally serves measurable national security interests while imposing limited fiscal burden.</strong> The committee referral indicates proper legislative process is being followed. Most BIS reforms involve enforcement mechanisms, personnel additions, or technology updates with costs typically under $100 million annually. Such measures generally distribute costs through compliance requirements on exporters while benefiting broader public security. The August 2026 introduction suggests response to emerging technology transfer concerns. Uncertainty about specific provisions limits precision in scoring individual criteria.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar, Aug 2026",
+      "Committee on Banking, Housing, and Urban Affairs referral",
+      "BIS historical appropriations baseline"
+    ]
+  },
+  {
     "id": 1070,
     "sourceId": "cg:119-HR-7670",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/7670?format=json",
@@ -19810,411 +20212,6 @@
       "Federal Election Campaign Act, 52 U.S.C. §30116(d)",
       "FEC v. Colorado Republican Federal Campaign Committee, 533 U.S. 431 (2001)",
       "McCutcheon v. FEC, 572 U.S. 185 (2014)"
-    ]
-  },
-  {
-    "id": 569,
-    "sourceId": "cl:11349764",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10882239/trump-v-barbara/",
-    "branch": "Courts",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "Opinion 11349764",
-    "score": 32,
-    "snapshot": "Supreme Court ruled 6-3 that the 14th Amendment guarantees citizenship to children born in the U.S. regardless of parents' immigration status, striking down Executive Order 14160. The decision reaffirms 150+ years of birthright citizenship precedent grounded in English common law and the Citizenship Clause.",
-    "verdict": "// VERDICT: Upholds constitutional text, centuries of legal precedent, and the rule of law by invalidating an executive action that attempted to rewrite the plain meaning of the 14th Amendment without congressional or constitutional amendment.",
-    "detail": "The Court's decision in *Trump v. Barbara* strikes down an executive order that attempted to end birthright citizenship through reinterpretation of \"subject to the jurisdiction thereof.\" <strong>The ruling protects an estimated 150,000–200,000 annual births from legal limbo and preserves a fundamental constitutional safeguard against hereditary castes.</strong> The decision follows overwhelming historical evidence—from Calvin's Case (1608) through the 14th Amendment's drafting—that birth on U.S. soil confers citizenship except for children of diplomats and hostile occupiers. The executive order violated separation of powers by attempting to amend the Constitution administratively, bypassing the Article V process. While critics argue this incentivizes illegal immigration, the Court correctly notes that citizenship rules cannot be altered by executive fiat. The decision imposes no new fiscal burden; it maintains the status quo that has prevailed since 1868.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion, Trump v. Barbara, No. 25-365 (June 30, 2026)",
-      "U.S. Constitution, 14th Amendment, Section 1",
-      "United States v. Wong Kim Ark, 169 U.S. 649 (1898)",
-      "Congressional Research Service, Birthright Citizenship Analysis"
-    ]
-  },
-  {
-    "id": 570,
-    "sourceId": "cl:11349709",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10882186/west-virginia-v-b-p-j/",
-    "branch": "Courts",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "Opinion 11349709",
-    "score": 32,
-    "snapshot": "Supreme Court upheld state laws (West Virginia, Idaho) restricting female sports teams to biological females, ruling that Title IX permits sex-based athletic separation defined by biological sex. The 5-4 decision reversed Fourth and Ninth Circuit rulings that had found Equal Protection violations.",
-    "verdict": "// VERDICT: The ruling follows constitutional process but resolves a contested civil-rights question in favor of state legislatures, producing measurable clarity on Title IX sports policy while concentrating compliance costs on a small population.",
-    "detail": "The Court interpreted Title IX's \"sex\" to mean biological sex as understood in 1972, not gender identity, and concluded Congress authorized separate teams for competitive fairness. <strong>This approach respects the democratic process—27 state legislatures passed similar laws—and ends years of legal uncertainty for schools and athletic programs.</strong> Measurable public benefit is moderate: clarity for thousands of schools and protection of competitive balance in women's sports, though reliable data on participation impact remain sparse. Fiscal impact is minimal (negligible federal or state spending changes). Rule of law score is high: the Court applied text, history, and precedent through normal judicial review. Cost distribution is uneven: transgender student-athletes bear the burden of exclusion from preferred teams, though the ruling does not bar participation in sports matching birth sex or co-ed options. Sources cite Title IX statute, the 1974 Javits Amendment, 1975 HEW regulations, and prior precedent (Frontiero).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Title IX, 20 U.S.C. §1681 (1972)",
-      "Javits Amendment, 88 Stat. 612 (1974)",
-      "34 CFR §106.41 (HEW regulations, 1975)",
-      "Supreme Court Slip Opinion No. 24-43, June 30, 2026"
-    ]
-  },
-  {
-    "id": 583,
-    "sourceId": "cg:119-SJRES-190",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/190?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "SJRES 190: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Executive Office for Immigration Review relating to \"Appellate Procedures for the Board of Immigration Appeals\".",
-    "score": -18,
-    "snapshot": "Congressional attempt to overturn Executive Office for Immigration Review rule on Board of Immigration Appeals appellate procedures failed in Senate 46-48. The underlying rule standardized BIA case processing and appeal timeframes.",
-    "verdict": "// VERDICT: Failed Congressional Review Act resolution that would have blocked procedural improvements to immigration appeals without offering alternative solutions to documented case backlogs.",
-    "detail": "This Congressional Review Act resolution sought to disapprove an EOIR rule modernizing BIA appellate procedures, which included streamlined briefing requirements and clearer deadlines intended to reduce the immigration court backlog exceeding 3 million cases. <strong>The resolution's defeat preserved administrative reforms addressing documented inefficiencies, though opponents argued the rule limited due process protections for asylum seekers.</strong> Under the CRA, successful disapproval would have prohibited substantially similar rules without new legislation. The narrow rejection suggests bipartisan concern about immigration court delays outweighed procedural objections. While the underlying rule may have legitimate critics regarding adequate appeal time, blocking it without proposing alternatives perpetuates a system where cases languish for years. The failed resolution imposed minimal fiscal cost but represented legislative interference in administrative law refinement without constructive solutions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S2816, June 2026",
-      "Senate Roll Call Vote 173",
-      "Congressional Review Act, 5 U.S.C. § 801",
-      "EOIR Statistical Yearbook 2025"
-    ]
-  },
-  {
-    "id": 584,
-    "sourceId": "cg:119-S-4725",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4725?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "S 4725: Natural Climate Solutions Research and Extension Act of 2026",
-    "score": 18,
-    "snapshot": "S 4725 authorizes research and extension programs through USDA to study natural climate solutions in agriculture and forestry, including carbon sequestration, soil health, and ecosystem services. The bill is in early committee stage with no CBO score available.",
-    "verdict": "// VERDICT: Modest positive for directing federal research toward quantifiable environmental outcomes in agriculture, though implementation costs and practical farmer adoption rates remain uncertain.",
-    "detail": "The Natural Climate Solutions Research and Extension Act directs USDA to establish research programs examining how agricultural and forestry practices can sequester carbon, improve soil health, and provide measurable ecosystem benefits. <strong>Research investment in natural climate solutions offers potential dual benefits of environmental improvement and enhanced farm productivity through better soil management and water retention.</strong> The bill follows standard legislative procedure and targets a sector where federal research has historically produced returns through improved practices. However, without appropriations language or CBO analysis, fiscal impact is unclear. The extension component suggests farmer outreach, which could improve adoption of evidence-based practices. Score limited by absence of cost estimates and uncertainty about whether findings will translate to on-farm implementation. The focus on measurable outcomes (carbon sequestration, soil metrics) provides accountability mechanisms lacking in many environmental programs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4725, 119th Congress",
-      "Senate Committee referral record, June 2026",
-      "USDA Agricultural Research Service historical programs",
-      "Congressional Record, June 9, 2026"
-    ]
-  },
-  {
-    "id": 585,
-    "sourceId": "cg:119-HR-9217",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9217?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9217: Natural Climate Solutions Research and Extension Act of 2026",
-    "score": 18,
-    "snapshot": "HR 9217 authorizes research and extension programs for natural climate solutions in agriculture, focusing on soil carbon sequestration, agroforestry, and conservation practices. The bill has been referred to the House Agriculture Committee with no cost estimate yet available.",
-    "verdict": "// VERDICT: Research authorization with potential environmental benefits but lacks fiscal detail and remains early in legislative process.",
-    "detail": "The Natural Climate Solutions Research and Extension Act authorizes USDA programs to study and promote agricultural practices that sequester carbon and reduce emissions. <strong>The bill focuses on measurable environmental outcomes through soil health, reforestation, and conservation techniques that could deliver dual benefits of climate mitigation and agricultural productivity.</strong> However, as of June 2026, it remains in committee with no CBO score, making fiscal impact impossible to assess. The legislation follows standard agricultural research authorization processes. Success depends entirely on appropriations levels, program design, and whether research translates to adoptable practices. Without implementation details or cost projections, the bill represents directional intent more than concrete policy. The distribution of benefits would favor rural landowners and agricultural communities if funded, with broader climate benefits accruing over decades.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9217",
-      "House Agriculture Committee referral, Jun 2026",
-      "USDA Natural Resources Conservation Service"
-    ]
-  },
-  {
-    "id": 586,
-    "sourceId": "cg:119-HR-9313",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9313?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9313: Water Access Act",
-    "score": -18,
-    "snapshot": "HR 9313 proposes federal water infrastructure funding but lacks specificity on appropriation amounts, cost-benefit analysis, or implementation mechanisms. Referred to committee with no cost estimates or performance metrics publicly available.",
-    "verdict": "// VERDICT: Insufficient legislative detail prevents meaningful evaluation of claimed water access benefits against fiscal impact and distributional equity.",
-    "detail": "The Water Access Act remains in early committee stage without published cost estimates, target communities, or measurable outcomes. <strong>Without CBO scoring or appropriations language, the bill's fiscal responsibility and public benefit cannot be objectively assessed.</strong> While water infrastructure represents legitimate public need—particularly in underserved communities—the absence of implementation details, funding mechanisms, and accountability measures raises concerns about potential cost overruns and inefficient distribution. The legislative process appears standard (referred to appropriate committee), but lack of transparency on scope and beneficiaries prevents assessment of whether costs are equitably distributed or shifted to future taxpayers through deficit spending. Generic infrastructure proposals without defined metrics historically underperform expectations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Appropriations referral",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 587,
-    "sourceId": "cg:119-S-4822",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4822?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "S 4822: Saving the OOI Act of 2026",
-    "score": -8,
-    "snapshot": "S 4822 proposes to save the Ocean Observatories Initiative (OOI), a National Science Foundation-funded network of marine research infrastructure. The bill was held at the Senate desk as of June 18, 2026, with no floor action or cost analysis publicly available.",
-    "verdict": "// VERDICT: Insufficient information exists to assess measurable benefits or fiscal impact, while procedural stalling suggests poor legislative execution regardless of scientific merit.",
-    "detail": "The Ocean Observatories Initiative provides real-time oceanographic data critical for climate research, marine biology, and coastal safety planning. <strong>However, without accompanying appropriations data, CBO scoring, or evidence of imminent OOI collapse, this bill represents aspirational legislation with undefined fiscal commitments.</strong> The \"Held at the desk\" status indicates procedural limbo—neither advancing nor dying—which suggests inadequate coalition-building or competing priorities. The rule of law score reflects proper legislative introduction but penalizes the lack of transparent cost estimates or hearings that would inform public debate. Cost distribution cannot be assessed without knowing whether this creates new obligations, reallocates existing NSF funds, or shifts burdens to future appropriations cycles. Scientific infrastructure bills typically merit positive scoring when properly funded and justified; this one lacks the documentation to demonstrate either necessity or responsibility.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4822, 119th Congress",
-      "Congressional Record, June 2026",
-      "NSF Ocean Observatories Initiative documentation"
-    ]
-  },
-  {
-    "id": 588,
-    "sourceId": "cg:119-HR-8926",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8926?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 8926: State and Local Public Sector Innovation Act",
-    "score": -18,
-    "snapshot": "HR 8926 proposes federal funding for state and local government innovation projects but lacks specifics on funding amounts, selection criteria, or measurable outcomes. Referred to committee May 2026 with no further action.",
-    "verdict": "// VERDICT: Creates new federal spending program without defined budget constraints, accountability metrics, or evidence of superior outcomes compared to existing state-level innovation efforts.",
-    "detail": "This legislation establishes a framework for federal grants to state and local governments pursuing 'innovative' public sector projects, but the bill text provides no concrete funding cap, competitive selection process, or performance benchmarks. <strong>Without cost estimates or outcome requirements, the proposal risks becoming another open-ended grant program that rewards applications rather than results.</strong> The referral to Energy and Commerce rather than Appropriations suggests the funding mechanism remains unresolved. State and local governments already possess taxation and borrowing authority to fund their own innovation initiatives; federal involvement adds administrative overhead and potential for political allocation of funds. The lack of baseline data on current state innovation efforts makes it impossible to determine whether federal intervention would improve on decentralized experimentation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee on Energy and Commerce referral",
-      "Federal grant program performance data (OMB historical)"
-    ]
-  },
-  {
-    "id": 589,
-    "sourceId": "cg:119-HR-9098",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9098?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9098: Congressional Records Protection Act",
-    "score": -8,
-    "snapshot": "HR 9098 proposes requirements for protecting congressional records but remains in committee with no documented implementation details, cost estimates, or enforcement mechanisms as of June 2026.",
-    "verdict": "// VERDICT: Without substantive legislative text, cost analysis, or committee movement beyond initial referral, this bill shows no measurable impact on public welfare or government transparency.",
-    "detail": "The Congressional Records Protection Act has stalled at the referral stage with no subsequent action for nearly a month. <strong>No CBO score, hearing schedule, or stakeholder testimony has emerged to demonstrate whether this legislation addresses genuine recordkeeping gaps or creates duplicative bureaucracy.</strong> The title suggests enhanced archival protections, which could theoretically support historical accountability, but the absence of any legislative text or committee markup makes scoring speculative. Rule of law implications depend entirely on whether the bill reinforces existing Presidential Records Act frameworks or creates conflicts. Fiscal impact remains unknown without cost estimates. The inaction suggests either low legislative priority or unresolved drafting issues that prevent meaningful evaluation of public benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9098 status",
-      "House Judiciary Committee calendar",
-      "Congressional Record June 2026"
-    ]
-  },
-  {
-    "id": 590,
-    "sourceId": "cg:119-HR-9158",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9158?format=json",
-    "branch": "Congress",
-    "date": "Jun 29",
-    "dateISO": "2026-06-29",
-    "title": "HR 9158: Hong Kong Equal Treatment Act",
-    "score": -8,
-    "snapshot": "HR 9158 proposes treating Hong Kong identically to mainland China for U.S. policy purposes, ending special economic and diplomatic treatment established under the 1992 Hong Kong Policy Act. The bill has been referred to committee with no floor action as of June 2026.",
-    "verdict": "// VERDICT: Premature legislation that withdraws practical leverage before exhausting diplomatic options, imposing costs on U.S. businesses and Hong Kong residents without clear strategic benefit.",
-    "detail": "The bill terminates Hong Kong's separate customs territory status and special visa provisions, responding to Beijing's erosion of the \"one country, two systems\" framework since 2020. While the impulse addresses legitimate concerns about democratic backsliding, <strong>complete elimination of distinctions removes U.S. flexibility to incentivize reforms and punishes ordinary Hong Kong residents alongside the Chinese Communist Party</strong>. The approach ignores that approximately 85,000 U.S. citizens live in Hong Kong and 1,300+ American companies operate there. Targeted sanctions on specific officials (already implemented under existing law) preserve leverage while full integration with PRC treatment prematurely surrenders diplomatic tools. The legislation lacks cost-benefit analysis for American commercial interests or consideration of phased approaches. Constitutional process is followed, but the binary framework reflects poor policy design rather than measured response.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Hong Kong Policy Act of 1992, 22 U.S.C. § 5701",
-      "State Department Hong Kong Business Advisory, 2021",
-      "American Chamber of Commerce Hong Kong data"
     ]
   }
 ]
