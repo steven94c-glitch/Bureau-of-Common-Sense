@@ -1,5 +1,413 @@
 [
   {
+    "id": 1093,
+    "sourceId": "cg:119-HR-9560",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9560?format=json",
+    "branch": "Congress",
+    "date": "Aug 22",
+    "dateISO": "2026-08-22",
+    "title": "HR 9560: No Profiting from Public Service Act",
+    "score": 38,
+    "snapshot": "HR 9560 would prohibit members of Congress and senior executive branch officials from trading individual stocks while in office and for two years after leaving, requiring divestment into blind trusts or broad-based funds. The bill includes civil penalties and enhanced disclosure requirements.",
+    "verdict": "// VERDICT: Strong anti-corruption measure that addresses documented conflicts of interest, though enforcement mechanisms and transition costs require careful implementation.",
+    "detail": "This legislation targets a well-documented problem: multiple academic studies have shown members of Congress consistently outperform market indexes, suggesting potential insider trading advantages. <strong>By requiring officials to divest individual holdings into qualified blind trusts or index funds, the bill directly addresses conflicts between personal financial gain and public duty.</strong> The two-year cooling-off period prevents immediate exploitation of government knowledge. Fiscal impact is minimal—primarily administrative costs for oversight and enforcement, offset by restored public trust in institutions. The bill follows standard legislative process through multiple committees with appropriate jurisdiction. Primary costs fall on wealthy officials who must restructure portfolios, a reasonable burden given their voluntary entry into public service. Minor concerns include defining enforcement authority and ensuring blind trust qualifications are stringent enough to prevent workarounds.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Academic studies on congressional stock trading performance (Ziobrowski et al., various)",
+      "House Committee referral records",
+      "Ethics in Government Act framework"
+    ]
+  },
+  {
+    "id": 1090,
+    "sourceId": "cg:113-S-1102",
+    "sourceUrl": "https://www.congress.gov/bill/113/s/1102?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "S 1102: Export-Import Bank Termination Act",
+    "score": 18,
+    "snapshot": "S 1102 proposed terminating the Export-Import Bank, which provides export financing to U.S. companies. The bill was introduced in 2013 but never advanced past committee referral.",
+    "verdict": "// VERDICT: Terminating Ex-Im Bank would eliminate subsidy-based market distortions and taxpayer exposure to default risk, though supporters cite export competitiveness benefits that this analysis weighs against documented fiscal costs and market interference.",
+    "detail": "The Export-Import Bank provides loans, guarantees, and insurance to facilitate U.S. exports, operating with federal backing. <strong>Critics document that Ex-Im creates taxpayer liability for private business risks while concentrating benefits among large corporations like Boeing, with GAO reports showing questionable subsidy cost accounting.</strong> Termination would eliminate contingent liabilities (estimated $100+ billion in exposure) and end market distortions where government picks commercial winners. However, proponents argue Ex-Im counters foreign export credit agencies and supports jobs tied to exports. The bill followed regular legislative process but died in committee, never receiving votes or cost estimates. Fiscal responsibility favors termination given subsidy costs and concentrated corporate benefits, though trade competitiveness considerations partially offset. Cost distribution analysis shows existing Ex-Im benefits flow disproportionately to large exporters rather than broad public interest.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1102, 113th Congress",
+      "Congressional Record, June 2013",
+      "GAO Reports on Ex-Im Bank subsidy costs",
+      "CBO analysis of export credit programs"
+    ]
+  },
+  {
+    "id": 1091,
+    "sourceId": "cg:113-HR-2263",
+    "sourceUrl": "https://www.congress.gov/bill/113/hr/2263?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 2263: Export-Import Bank Termination Act",
+    "score": -8,
+    "snapshot": "HR 2263 proposed eliminating the Export-Import Bank, which finances approximately $20-30 billion annually in U.S. exports supporting an estimated 164,000 jobs. The bill died in committee in 2013 and never advanced.",
+    "verdict": "// VERDICT: Terminating export credit financing without replacement mechanism would have reduced U.S. competitiveness against foreign state-backed exporters while eliminating a self-sustaining program that returned profits to Treasury.",
+    "detail": "The Export-Import Bank operates as a self-financing agency that has consistently returned net profits to the U.S. Treasury while supporting American manufacturing exports, particularly in aerospace, heavy equipment, and agriculture sectors where foreign competitors receive substantial state backing. <strong>Eliminating the Bank without creating alternative export financing would have unilaterally disadvantaged U.S. companies against competitors from China, Europe, and other nations that heavily subsidize their exporters.</strong> While critics legitimately questioned concentration of benefits among large corporations like Boeing, the Bank filled a genuine market gap for transactions commercial lenders avoid. The bill followed proper legislative process but offered no transition plan or alternative mechanism, risking immediate export market share losses. The proposal's fiscal impact would have been negative, eliminating a profit-generating entity. Cost distribution concerns were valid regarding corporate welfare aspects, but job losses would have disproportionately affected manufacturing workers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 113th Congress",
+      "Ex-Im Bank Annual Reports 2010-2013",
+      "CBO correspondence on Ex-Im operations",
+      "House Financial Services Committee records"
+    ]
+  },
+  {
+    "id": 1092,
+    "sourceId": "cg:119-HR-9614",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9614?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 9614: NRC Staff Pay Alignment Act",
+    "score": 22,
+    "snapshot": "HR 9614 aligns Nuclear Regulatory Commission staff salaries with comparable federal positions to address recruitment and retention challenges. The bill addresses documented workforce shortages at an agency critical to nuclear safety oversight.",
+    "verdict": "// VERDICT: Modest investment in regulatory capacity that addresses documented staffing gaps at an agency responsible for overseeing civilian nuclear facilities.",
+    "detail": "The Nuclear Regulatory Commission has faced persistent difficulty recruiting and retaining technical staff due to salary compression relative to other federal agencies and private sector competitors. <strong>This bill corrects a structural compensation misalignment that has left the NRC understaffed during a period when nuclear energy expansion is being pursued for climate and energy security goals.</strong> The fiscal cost is relatively contained—affecting approximately 3,000 NRC employees—while the public benefit includes maintaining regulatory oversight capacity for 93 operating commercial reactors and emerging advanced reactor designs. The bill follows standard legislative process through committee consideration. While it does impose modest ongoing costs, these represent a reasonable investment in maintaining an adequately staffed safety regulator rather than cost-shifting or unfunded liability creation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "NRC Workforce Planning Reports",
+      "Federal Salary Comparability Studies",
+      "House Energy and Commerce Committee proceedings"
+    ]
+  },
+  {
+    "id": 1098,
+    "sourceId": "cg:119-HR-9605",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9605?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 9605: Less Bureaucracy, Better Foreign Medical Accreditation Act",
+    "score": 18,
+    "snapshot": "HR 9605 streamlines foreign medical school accreditation processes to reduce administrative burden while maintaining standards. The bill passed committee 20-16 along largely partisan lines in July 2026.",
+    "verdict": "// VERDICT: Modest regulatory efficiency gain with potential to marginally increase physician workforce, minimal fiscal impact, legitimate process followed.",
+    "detail": "The legislation reduces bureaucratic requirements for evaluating foreign medical graduates while preserving core safety standards. <strong>This addresses physician shortage concerns without compromising patient protection, representing reasonable regulatory reform.</strong> The narrow committee vote suggests partisan disagreement over whether streamlining goes too far or not far enough. Fiscal impact appears negligible—administrative cost savings offset by increased processing. No major constitutional concerns with standard legislative procedure. Primary beneficiaries are foreign-trained physicians and healthcare systems facing staffing shortages; potential modest benefit to patients through increased provider access. Limited scope prevents higher scoring, but direction is constructive without creating unfunded obligations or shifting costs inappropriately.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9605, 119th Congress",
+      "House Committee Report, July 2026",
+      "Congressional Record, Vol. 172"
+    ]
+  },
+  {
+    "id": 1094,
+    "sourceId": "cg:119-HR-9488",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9488?format=json",
+    "branch": "Congress",
+    "date": "Aug 20",
+    "dateISO": "2026-08-20",
+    "title": "HR 9488: Health Disparity Zones Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9488 proposes designating 'Health Disparity Zones' for targeted federal health interventions, but remains in committee with no CBO score, implementation mechanism, or funding source identified. The bill has not advanced beyond referral stage.",
+    "verdict": "// VERDICT: Bill lacks concrete implementation details, fiscal analysis, or measurable outcomes while creating new bureaucratic designations without demonstrated cost-benefit justification.",
+    "detail": "The Health Disparity Zones Act attempts to address geographic health inequities through federal designation and intervention, but provides no evidence of effectiveness over existing programs like Federally Qualified Health Centers or existing HHS disparity initiatives. <strong>Without a CBO score, defined metrics for zone designation, sunset provisions, or accountability measures, the bill risks creating duplicative bureaucracy without measurable health improvements.</strong> The dual committee referral to Energy and Commerce plus Ways and Means suggests both regulatory and tax implications, yet no fiscal impact has been quantified. The bill remains stalled in committee with no floor action, hearings, or stakeholder testimony on record. Existing federal health disparity programs already operate under multiple agencies (CDC, HRSA, CMS), raising concerns about administrative overlap and fragmented accountability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9488 status",
+      "House Committee referral record, Jun 2026",
+      "HHS Office of Minority Health existing programs",
+      "HRSA Health Center Program data"
+    ]
+  },
+  {
+    "id": 1095,
+    "sourceId": "cg:119-S-3383",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3383?format=json",
+    "branch": "Congress",
+    "date": "Aug 20",
+    "dateISO": "2026-08-20",
+    "title": "S 3383: Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025",
+    "score": 18,
+    "snapshot": "S 3383 aims to streamline federal approval processes for economic development projects on tribal lands, reducing bureaucratic delays that currently average 2-4 years for business permits. The bill creates expedited review timelines and clarifies jurisdictional authority between federal agencies and tribal governments.",
+    "verdict": "// VERDICT: Addresses documented regulatory bottlenecks hampering tribal economic self-determination while maintaining environmental and cultural safeguards through existing frameworks.",
+    "detail": "The legislation tackles a well-documented problem: Native American tribes face significantly longer federal approval timelines than non-tribal entities for identical commercial activities, creating measurable economic disadvantage. <strong>By establishing firm timelines for agency responses and default approval mechanisms after deadlines, the bill reduces administrative friction without eliminating substantive review requirements.</strong> Fiscal impact appears modest—primarily administrative efficiency gains rather than direct expenditures—though implementation costs for agency process updates warrant monitoring. The approach respects tribal sovereignty by enhancing rather than limiting tribal authority over their lands. Primary concern is enforcement of new timelines given agencies' historical resource constraints, but the framework appears constitutionally sound and follows standard legislative process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3383, 119th Congress",
+      "Senate Legislative Calendar No. 459",
+      "GAO Report on Tribal Permitting (2023)",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
+    "id": 1096,
+    "sourceId": "cg:119-HR-6117",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6117?format=json",
+    "branch": "Congress",
+    "date": "Aug 20",
+    "dateISO": "2026-08-20",
+    "title": "HR 6117: Patient Device Data Access Act of 2025",
+    "score": 32,
+    "snapshot": "HR 6117 requires medical device manufacturers to provide patients direct access to their own device data in standardized formats within 24 hours of request. The bill establishes interoperability standards for implantable and wearable devices, with civil penalties up to $10,000 per violation for noncompliance.",
+    "verdict": "// VERDICT: Empowers patient autonomy with minimal fiscal burden while establishing clear regulatory framework for medical device data ownership.",
+    "detail": "This legislation addresses a documented gap where patients cannot readily access data from their own pacemakers, insulin pumps, and continuous glucose monitors. <strong>By mandating standardized data formats and direct patient access, the bill reduces information asymmetry that has historically favored manufacturers and limited patient portability between healthcare systems.</strong> Implementation costs fall primarily on device manufacturers (estimated $150-400M industry-wide over 3 years per preliminary CBO analysis) rather than taxpayers. The bill follows established Commerce Clause authority and mirrors successful data portability frameworks in banking (Dodd-Frank) and telecommunications. Enforcement through existing FDA and FTC mechanisms avoids creating new bureaucracy. Primary beneficiaries are the estimated 40 million Americans with implantable devices and diabetes patients using continuous monitors, with no identified population bearing disproportionate costs beyond device manufacturers adjusting business practices to comply with data ownership norms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Nov 2025",
+      "CBO Preliminary Cost Estimate",
+      "FDA Medical Device Data Standards (21 CFR 860)",
+      "House Committee on Energy and Commerce Report"
+    ]
+  },
+  {
+    "id": 1097,
+    "sourceId": "cg:119-S-4689",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4689?format=json",
+    "branch": "Congress",
+    "date": "Aug 20",
+    "dateISO": "2026-08-20",
+    "title": "S 4689: READ Act",
+    "score": -18,
+    "snapshot": "The READ Act (S 4689) would restrict federal funding for libraries that provide access to materials deemed 'age-inappropriate' by local standards, empowering parental review boards to determine content availability. The bill remains in Senate committee with no floor vote scheduled.",
+    "verdict": "// VERDICT: Creates unfunded mandate for content review while threatening federal library funding based on vague content standards, likely reducing access without measurable child safety improvements.",
+    "detail": "This legislation shifts content curation authority to local parental boards without defining 'age-appropriate' standards, creating inconsistent enforcement across jurisdictions. <strong>Libraries would face federal funding cuts for providing constitutionally protected materials that local boards deem inappropriate, effectively outsourcing First Amendment decisions to non-expert committees.</strong> The bill provides no funding for required review processes, forcing libraries to divert resources from core services. While child protection is a legitimate concern, existing library policies and parental controls already address content access. Evidence from similar state-level restrictions shows reduced library usage overall without documented improvements in child outcomes. The mechanism penalizes libraries financially for disagreements over subjective content standards rather than addressing measurable harms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4689, 119th Congress",
+      "Senate Legislative Calendar No. 549",
+      "American Library Association policy statements",
+      "Congressional Record, Aug 2026"
+    ]
+  },
+  {
+    "id": 1099,
+    "sourceId": "cg:119-HR-9006",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9006?format=json",
+    "branch": "Congress",
+    "date": "Aug 20",
+    "dateISO": "2026-08-20",
+    "title": "HR 9006: Locating Our Unclaimed Veterans Act",
+    "score": 32,
+    "snapshot": "HR 9006 directs the VA to establish a program locating veterans who have unclaimed benefits, using data-matching with SSA and other agencies. The bill authorizes outreach to connect eligible veterans with earned compensation.",
+    "verdict": "// VERDICT: Modest administrative reform that could connect veterans with earned benefits at low cost, though impact depends entirely on implementation rigor and scope of unclaimed benefits.",
+    "detail": "This bill addresses a documented problem: veterans entitled to benefits who never claim them due to lack of awareness, administrative barriers, or difficulty navigating VA systems. <strong>By creating a systematic data-matching program between VA, Social Security, and other federal databases, the legislation could connect thousands of veterans with healthcare, disability compensation, or pension benefits they've already earned.</strong> The fiscal cost appears minimal—primarily staff time and database queries—while potential benefit recovery could be substantial for individual veterans. The bill follows normal legislative process and doesn't create new entitlements, merely improves delivery of existing ones. Primary uncertainty is effectiveness: without specific funding levels, performance metrics, or enforcement mechanisms in the text, actual outcomes depend on VA prioritization and execution. Cost distribution is progressive, as unclaimed benefits disproportionately affect lower-income veterans less able to navigate bureaucracy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9006 bill text, 119th Congress",
+      "VA Benefits Administration reports",
+      "Congressional Record, June 2026"
+    ]
+  },
+  {
     "id": 1080,
     "sourceId": "cg:119-HR-7762",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/7762?format=json",
@@ -19810,408 +20218,6 @@
       "S 4872, 119th Congress",
       "Senate Legislative Record, Jun 2026",
       "Congressional Research Service: Federal vs State Education Authority"
-    ]
-  },
-  {
-    "id": 595,
-    "sourceId": "cg:119-S-4874",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4874?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "S 4874: Tristan's Law",
-    "score": -8,
-    "snapshot": "S 4874 ('Tristan's Law') was introduced in the Senate on June 23, 2026, and referred to the Committee on Commerce, Science, and Transportation. No legislative text, cost estimate, or committee action has been recorded as of June 30, 2026.",
-    "verdict": "// VERDICT: Insufficient information exists to assess measurable impact, cost, or implementation details of legislation still in initial committee review.",
-    "detail": "At this early stage, S 4874 has only completed initial referral to committee with no publicly available bill text, CBO score, or hearing record. <strong>Without substantive legislative content or fiscal analysis, evaluation against concrete criteria is premature.</strong> The bill's title suggests a response to a specific incident or individual case, which may indicate narrowly-tailored legislation, but could also signal reactionary policymaking without broader systemic analysis. Standard legislative process requires committee review, markup, scoring, and floor consideration before meaningful assessment of public benefit, fiscal impact, constitutional compliance, or distributional effects becomes possible. The referral to Commerce, Science, and Transportation suggests potential regulatory scope in consumer protection, technology, or transportation safety domains.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 23, 2026",
-      "Senate Committee Referral Records",
-      "Congress.gov Bill Status S 4874"
-    ]
-  },
-  {
-    "id": 596,
-    "sourceId": "cg:119-HR-7396",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7396?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "HR 7396: Native American Entrepreneurial Opportunity Act",
-    "score": 28,
-    "snapshot": "HR 7396 establishes a $150M grant program through SBA to provide startup capital, technical assistance, and business development resources for Native American entrepreneurs on reservations and tribal lands. Program includes mentorship networks and streamlined access to existing federal business programs.",
-    "verdict": "// VERDICT: Targeted investment in chronically underserved entrepreneurs with measurable economic development potential, though long-term self-sufficiency outcomes remain uncertain.",
-    "detail": "Native American communities face documented barriers to entrepreneurship including limited access to capital (reservation-based businesses receive <1% of SBA lending despite representing 2% of population) and geographic isolation from business networks. <strong>The $150M appropriation over five years represents modest per-capita investment (~$75 per Native American annually) with potential multiplier effects through business creation and local employment.</strong> Program design includes accountability measures through annual reporting requirements and sunset provisions after five years. Fiscal responsibility concerns include administrative overhead (estimated 18% of budget) and risk of grant dependency without corresponding development of sustainable tribal lending institutions. Legal process appears standard for discretionary spending authorization, though final appropriations must still clear both chambers. Cost distribution favors a historically disadvantaged population without imposing new taxes, though general taxpayer funding without dedicated revenue offset adds to deficit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, H.R. 7396, June 2026",
-      "SBA Office of Native American Affairs, FY2025 Data",
-      "Senate Committee on Small Business referral"
-    ]
-  },
-  {
-    "id": 597,
-    "sourceId": "cg:119-S-4876",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4876?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "S 4876: DNII Act of 2026",
-    "score": -28,
-    "snapshot": "S. 4876 proposes sweeping reforms to immigration enforcement and interior deportation procedures, including expanded mandatory detention, expedited removal processes, and increased funding for ICE operations. The bill has passed committee but awaits floor debate with no CBO score published.",
-    "verdict": "// VERDICT: Significant enforcement expansion without documented fiscal analysis or measured assessment of constitutional due process implications for affected populations.",
-    "detail": "The DNII Act represents a major shift in immigration enforcement policy, expanding mandatory detention categories and accelerating removal procedures while appropriating substantial new funding for enforcement operations. <strong>The bill advances without published cost-benefit analysis, raising concerns about fiscal sustainability and unquantified impacts on court systems, detention infrastructure, and affected communities.</strong> Constitutional scholars have raised due process questions regarding expedited procedures that limit judicial review. The legislation shifts significant costs to state and local jurisdictions for cooperation requirements while concentrating benefits primarily in enforcement metrics rather than documented public safety improvements. Historical data from similar enforcement expansions show mixed results on stated objectives, with substantial cost overruns and litigation expenses often exceeding initial projections.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Senate Legislative Calendar No. 450",
-      "Federal Register, Immigration Procedures",
-      "Congressional Research Service, Immigration Enforcement Costs"
-    ]
-  },
-  {
-    "id": 598,
-    "sourceId": "cg:119-S-4867",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4867?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "S 4867: Small Farm Conservation Act",
-    "score": 0,
-    "snapshot": "S 4867 proposes conservation incentives for small farms but remains in committee with no CBO score, funding mechanism, or implementation details available. No measurable outcomes exist at this stage.",
-    "verdict": "// VERDICT: Insufficient information to assess impact; bill has not advanced beyond initial committee referral and lacks fiscal analysis.",
-    "detail": "The Small Farm Conservation Act exists only as introduced legislation referred to committee on June 23, 2026. Without bill text, CBO scoring, or committee markup, no concrete assessment of public benefit, costs, or implementation is possible. <strong>The proposal stage provides no evidence of measurable outcomes, fiscal responsibility, procedural concerns, or distributional effects.</strong> Conservation programs can range from highly efficient targeted incentives to poorly designed subsidies that benefit large operators over small farms. Until the bill advances with specifics on eligibility criteria, funding sources, program design, and cost estimates, any score would be speculative. The legislative process is proceeding normally through standard committee referral, meeting rule of law requirements for this stage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 23, 2026",
-      "Senate Committee on Agriculture referral"
-    ]
-  },
-  {
-    "id": 599,
-    "sourceId": "cg:119-HR-9428",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9428?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "HR 9428: COVID–19 Commuter Benefits Distribution Act",
-    "score": -28,
-    "snapshot": "HR 9428 proposes retroactive commuter benefits related to COVID-19, referred to Ways and Means in June 2026. No cost estimate, beneficiary scope, or implementation mechanism is publicly available at referral stage.",
-    "verdict": "// VERDICT: A retroactive benefit program six years post-pandemic with undefined costs, scope, and enforcement lacks fiscal discipline and measurable public health justification.",
-    "detail": "This bill attempts to address COVID-19 commuter impacts more than six years after the pandemic began, when remote work patterns have already stabilized and emergency conditions no longer exist. <strong>The retroactive nature creates administrative complexity, invites fraudulent claims, and rewards past behavior rather than incentivizing future beneficial conduct.</strong> Without published cost estimates or clear eligibility criteria at the referral stage, Congress risks creating an open-ended entitlement. The timing suggests political motivation rather than genuine emergency response. While commuters faced real hardships in 2020-2021, the appropriate window for targeted relief has closed. Any legitimate ongoing transportation needs should be addressed through regular transit policy, not pandemic-specific legislation in 2026.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Ways and Means referral",
-      "Federal pandemic timeline data"
-    ]
-  },
-  {
-    "id": 600,
-    "sourceId": "cg:119-S-4836",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4836?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "S 4836: SNAP Staffing Flexibility Act of 2026",
-    "score": -8,
-    "snapshot": "S 4836 proposes staffing flexibility for SNAP administration but lacks concrete implementation details or funding mechanisms. Currently in committee with no CBO score or impact analysis available.",
-    "verdict": "// VERDICT: Insufficient information exists to assess whether administrative flexibility would improve SNAP delivery or create accountability gaps.",
-    "detail": "The SNAP Staffing Flexibility Act aims to give states more latitude in administering the Supplemental Nutrition Assistance Program, but the bill's actual provisions remain unclear from the limited procedural record. <strong>Without specifics on what flexibility is granted, whether guardrails exist to prevent benefit delays or fraud, and how state administrative costs would be funded, the proposal cannot be evaluated on merit.</strong> SNAP serves roughly 42 million Americans with benefits averaging $6 per person per day; any administrative changes carry significant risk. The lack of CBO analysis means fiscal impact is unknown. If flexibility means reduced federal oversight without commensurate accountability measures, vulnerable populations could face service disruptions. Conversely, genuine reduction of bureaucratic barriers could improve program efficiency. The bill's silence on these fundamentals warrants skepticism until committee markup reveals substance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "USDA SNAP participation data",
-      "Senate Agriculture Committee referral"
-    ]
-  },
-  {
-    "id": 601,
-    "sourceId": "cg:119-S-4873",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4873?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "S 4873: Promoting Human Flourishing in Foreign Assistance Act",
-    "score": -18,
-    "snapshot": "S 4873 would restructure US foreign assistance to prioritize 'human flourishing' metrics over traditional development goals. The bill has been referred to committee with no CBO score available and unclear implementation costs.",
-    "verdict": "// VERDICT: Introduces vague ideological criteria into foreign assistance without measurable standards, operational clarity, or fiscal analysis.",
-    "detail": "The legislation proposes reorienting foreign aid around undefined 'human flourishing' concepts rather than established development metrics like health outcomes, poverty reduction, or infrastructure. <strong>Without clear implementation standards or cost estimates, the bill risks politicizing aid distribution while adding bureaucratic layers to existing programs.</strong> The absence of CBO analysis leaves taxpayers blind to potential costs. While proponents may argue for values-based assistance, the bill lacks mechanisms to measure success objectively or prevent mission creep. Foreign Relations Committee referral suggests substantive concerns about operational feasibility and alignment with treaty obligations remain unaddressed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 23, 2026",
-      "Senate Foreign Relations Committee referral",
-      "Federal budget tracking (no CBO score available)"
-    ]
-  },
-  {
-    "id": 602,
-    "sourceId": "cg:119-HR-9412",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9412?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "HR 9412: Stop Scamming Americans Act",
-    "score": -8,
-    "snapshot": "HR 9412 proposes measures to combat international scam operations targeting Americans, referred to House Foreign Affairs Committee on June 23, 2026. No text available to assess specific mechanisms, costs, or enforcement provisions.",
-    "verdict": "// VERDICT: Without bill text, scoring reflects the inherent difficulty of international enforcement against scam operations and the risk of unfunded mandates or ineffective cross-border coordination.",
-    "detail": "The bill's title suggests targeting international fraud operations, a legitimate public concern given billions lost annually to overseas scams. However, <strong>international enforcement mechanisms are notoriously difficult to implement and expensive to maintain, often requiring bilateral agreements, extraterritorial jurisdiction claims, and sustained diplomatic pressure.</strong> Past efforts like anti-robocall legislation have shown mixed results due to enforcement gaps when perpetrators operate beyond U.S. borders. Without visible text detailing specific tools, funding sources, or measurable enforcement metrics, the proposal risks becoming symbolic rather than substantive. The referral to Foreign Affairs rather than Judiciary also suggests diplomatic rather than domestic law enforcement focus, which may limit direct impact on American victims.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Foreign Affairs Committee referral",
-      "FTC Consumer Sentinel Network data"
-    ]
-  },
-  {
-    "id": 582,
-    "sourceId": "cl:11349868",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10882343/jones-v-united-states/",
-    "branch": "Courts",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "Opinion 11349868",
-    "score": 38,
-    "snapshot": "Supreme Court denies cert in a case where lower courts enforced a plea waiver preventing a defendant from challenging his conviction under a statute later ruled unconstitutionally vague. Justice Sotomayor's statement encourages courts to apply miscarriage-of-justice exceptions to waivers when convictions rest on invalidated laws.",
-    "verdict": "// VERDICT: Denying review leaves one man imprisoned under an unconstitutional statute, but the published statement gives lower courts a clear framework to prevent similar injustices without creating blanket waiver exceptions.",
-    "detail": "The Court declined to hear Jones's case despite all parties agreeing his conviction rests on a statutory provision (<em>§924(c) residual clause</em>) this Court declared unconstitutionally vague in 2019. <strong>Lower courts enforced his plea waiver even though it bars challenge to a conviction everyone now acknowledges is invalid.</strong> Justice Sotomayor's statement, while not binding, provides persuasive authority encouraging circuits to apply <em>Hunter</em>'s miscarriage-of-justice standard when waivers would perpetuate egregious constitutional errors. This preserves finality in plea bargains (a legitimate systemic interest protecting ~95% of criminal convictions) while creating a safety valve for the rare cases where enforcement would undermine public confidence. The cert denial itself scores poorly on individual justice; the statement's doctrinal guidance scores well on systemic rule-of-law development. No immediate fiscal impact. Jones remains imprisoned, a concrete cost; thousands of future defendants gain potential relief pathway.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Jones v. United States, 609 U.S. ___ (2026)",
-      "Hunter v. United States, 608 U.S. ___ (2026)",
-      "United States v. Davis, 588 U.S. 445 (2019)",
-      "Fifth Circuit Opinion, 134 F.4th 831 (2025)"
-    ]
-  },
-  {
-    "id": 568,
-    "sourceId": "cl:11349765",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10882240/national-republican-senatorial-committee-v-federal-election-commn/",
-    "branch": "Courts",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "Opinion 11349765",
-    "score": -8,
-    "snapshot": "Supreme Court struck down federal limits on political party coordinated spending with candidates, overruling a 2001 precedent. Decision allows parties to coordinate unlimited campaign expenditures with their candidates, removing FECA restrictions previously upheld as anti-corruption measures.",
-    "verdict": "// VERDICT: Removes campaign finance guardrails with no documented evidence that existing coordinated-spending limits caused measurable harm to parties or speech, while creating documented circumvention risks for contribution limits designed to prevent quid pro quo corruption.",
-    "detail": "The ruling dismantles 52 U.S.C. §30116(d) restrictions on political party coordination with candidates, which served as backstops against circumventing individual contribution limits through earmarking. The Court applies stricter scrutiny than the 2001 Colorado II precedent without citing new corruption problems or speech restrictions requiring remedy. <strong>By eliminating coordinated-spending caps while maintaining base contribution limits, the decision creates an exploitable loophole where unlimited funds can flow through party committees to specific candidates.</strong> The opinion offers no fiscal analysis of how unlimited party-candidate coordination affects election costs or democratic access. While expanding political speech for institutional parties, the ruling shifts influence toward party structures and major donors who can max out party contributions, potentially diluting individual voter and small-donor impact. The decision follows constitutional process but reverses longstanding precedent based on doctrinal preference shifts rather than demonstrated real-world failure of existing rules.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Slip Opinion 11349765, June 30, 2026",
-      "Federal Election Campaign Act, 52 U.S.C. §30116(d)",
-      "FEC v. Colorado Republican Federal Campaign Committee, 533 U.S. 431 (2001)",
-      "McCutcheon v. FEC, 572 U.S. 185 (2014)"
     ]
   }
 ]
