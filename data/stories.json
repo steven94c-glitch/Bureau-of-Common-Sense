@@ -41,6 +41,413 @@
     ]
   },
   {
+    "id": 1100,
+    "sourceId": "cg:119-HR-9515",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9515?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 9515: MFA Act",
+    "score": -18,
+    "snapshot": "HR 9515 ('MFA Act') was referred to the House Committee on Energy and Commerce on June 29, 2026. No committee action, floor votes, or implementation has occurred as of August 21, 2026.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, costs, or legal implementation of a bill still in committee review.",
+    "detail": "This legislation remains in the preliminary committee referral stage with no publicly available text, cost analysis, or substantive legislative action beyond initial referral. <strong>Without bill text, CBO scoring, committee markup, or stakeholder testimony, any assessment of public benefit, fiscal impact, procedural compliance, or distributional effects would be purely speculative.</strong> The referral to Energy and Commerce suggests potential regulatory scope over energy, telecommunications, health, or consumer protection, but the actual provisions remain unknown. The 53-day gap between referral and this assessment date with no reported progress indicates either low legislative priority or ongoing behind-the-scenes negotiation. Standard congressional process is being followed (committee referral is appropriate), but the absence of transparent information prevents meaningful evaluation of whether this proposal serves Americans' interests.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 29, 2026",
+      "House Committee on Energy and Commerce referral records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1101,
+    "sourceId": "cg:119-HRES-1429",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1429?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HRES 1429: Expressing support for continued efforts to safeguard the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 from fraud, waste, and abuse for the Nation's most vulnerable.",
+    "score": -8,
+    "snapshot": "Non-binding House resolution supporting anti-fraud efforts in SNAP, referred to committee July 2026. Contains no enforcement mechanisms, funding, or specific policy changes.",
+    "verdict": "// VERDICT: Symbolic gesture with zero operational impact on actual SNAP fraud reduction or program improvement.",
+    "detail": "This resolution expresses congressional support for preventing fraud in the $113 billion SNAP program but proposes no concrete actions, appropriations, or legislative changes. <strong>USDA Inspector General reports estimate SNAP fraud at approximately 1.5% of benefits ($1.7 billion annually), while administrative errors account for larger losses.</strong> The resolution's value depends entirely on whether it catalyzes subsequent legislation with teeth—appropriations for technology upgrades, stricter vendor oversight, or enhanced state capacity. As a standalone document, it consumes legislative time without addressing documented vulnerabilities in EBT card security, retailer trafficking schemes, or eligibility verification systems. The Agriculture Committee referral suggests low priority for floor action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "USDA Food and Nutrition Service, FY2025 Budget Summary",
+      "USDA OIG Report 27401-0001-22",
+      "Congressional Record, H.Res. 1429",
+      "House Committee on Agriculture proceedings"
+    ]
+  },
+  {
+    "id": 1102,
+    "sourceId": "cg:119-HR-3139",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3139?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 3139: Public Service Worker Protection Act",
+    "score": -18,
+    "snapshot": "HR 3139 proposes federal protections for public service workers but remains stalled in committee since May 2025 with no further legislative action. Without bill text or CBO analysis, substantive impacts remain speculative.",
+    "verdict": "// VERDICT: Legislation shows no measurable progress toward enactment and lacks available cost or impact data for objective assessment.",
+    "detail": "The Public Service Worker Protection Act has been dormant in the House Education and Workforce Committee for over 15 months without markup, hearing, or floor consideration. While worker protections can serve legitimate policy goals, the absence of bill text, scoring, or substantive debate prevents assessment of actual provisions. <strong>The legislative process has effectively stalled, consuming Congressional resources without producing results or accountability.</strong> Unknown fiscal implications, undefined scope of protections, and lack of stakeholder input suggest either poor legislative drafting or insufficient political support. Without concrete provisions to evaluate, this represents legislative inertia rather than governance. The extended committee referral without action indicates either lack of sponsor prioritization or fundamental policy disagreements that remain unresolved through normal legislative process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2025",
+      "House Committee on Education and Workforce docket",
+      "Congress.gov legislative status"
+    ]
+  },
+  {
+    "id": 1103,
+    "sourceId": "cg:119-HR-9293",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9293?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 9293: ReCement Act",
+    "score": -28,
+    "snapshot": "HR 9293 proposes federal subsidies for domestic cement production to reduce dependence on imports. Referred to committee in June 2026; no further legislative action or cost analysis available.",
+    "verdict": "// VERDICT: Industrial subsidy lacking cost-benefit analysis, likely to impose taxpayer burden while benefiting narrow industry segment without documented public safety or economic necessity.",
+    "detail": "The ReCement Act appears designed to subsidize U.S. cement manufacturers through federal support mechanisms, ostensibly for supply chain security. <strong>Without CBO scoring or demonstrated market failure, this represents classic protectionist spending that privatizes benefits while socializing costs.</strong> Cement production is carbon-intensive and environmentally costly; subsidizing it without environmental controls or strategic justification fails basic fiscal responsibility tests. The bill stalled in committee, suggesting weak legislative support even among proponents. No evidence suggests cement supply poses national security risk warranting intervention. American consumers and taxpayers would bear increased costs through both direct subsidies and likely higher cement prices from reduced competition, while benefits accrue to established producers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Energy and Commerce referral, June 2026",
+      "Federal industrial subsidy analysis framework"
+    ]
+  },
+  {
+    "id": 1104,
+    "sourceId": "cg:119-S-4802",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4802?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "S 4802: Hurricane Hunter Aircraft Recapitalization Act",
+    "score": 35,
+    "snapshot": "Authorizes $3 billion over 10 years to replace NOAA's aging Hurricane Hunter aircraft fleet, critical for storm forecasting that protects coastal populations and infrastructure. Current fleet averages 40+ years old with increasing maintenance costs and reliability issues.",
+    "verdict": "// VERDICT: Fiscally prudent investment in proven disaster preparedness infrastructure that demonstrably saves lives and reduces economic damage from hurricanes.",
+    "detail": "The Hurricane Hunter fleet provides irreplaceable data for hurricane track and intensity forecasting, directly improving evacuation decisions and emergency response. <strong>NOAA studies show every dollar invested in weather forecasting infrastructure returns $7-10 in avoided disaster costs.</strong> The current WP-3D Orion aircraft (commissioned 1970s-1980s) face escalating maintenance costs and safety concerns. Phased replacement over 10 years allows orderly procurement and avoids capability gaps. The $300M annual authorization is modest relative to the $50+ billion in annual hurricane damages and represents responsible infrastructure maintenance. The bill followed standard committee process, passed favorably with bipartisan support, and addresses a documented capability gap identified in multiple NOAA and DHS assessments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4802, 119th Congress",
+      "NOAA Hurricane Research Division reports",
+      "Congressional Research Service weather infrastructure analysis",
+      "Senate Commerce Committee markup, July 2026"
+    ]
+  },
+  {
+    "id": 1105,
+    "sourceId": "cg:119-S-4820",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4820?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "S 4820: Regional Export Promotion Act of 2026",
+    "score": -8,
+    "snapshot": "S 4820 proposes establishing regional export promotion centers to help small and mid-sized businesses access international markets. The bill remains in committee with no CBO score, cost estimates, or implementation details available.",
+    "verdict": "// VERDICT: Without cost analysis or evidence of effectiveness beyond existing SBA and Commerce Department export programs, this creates potential duplication and unfunded mandates.",
+    "detail": "The Regional Export Promotion Act aims to support American exporters through new federal infrastructure, but raises immediate concerns about redundancy with existing Export-Import Bank, SBA, and Commerce Department programs. <strong>No fiscal analysis has been published, making it impossible to assess whether taxpayer investment would generate measurable increases in exports or simply duplicate services already provided through established channels.</strong> The bill's referral to Banking rather than Small Business or Commerce committees suggests potential jurisdictional confusion. While export promotion can benefit the economy, creating new bureaucratic structures without demonstrated gaps in current services or clear cost-benefit analysis violates fiscal responsibility principles. The lack of performance metrics or sunset provisions means taxpayers could fund indefinite operations with no accountability for results.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4820, 119th Congress",
+      "Congressional Record, June 2026",
+      "SBA Export Assistance Programs",
+      "Export-Import Bank Authorization"
+    ]
+  },
+  {
+    "id": 1106,
+    "sourceId": "cg:119-HR-8048",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8048?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 8048: AI/AN CAPTA",
+    "score": 28,
+    "snapshot": "HR 8048 extends Child Abuse Prevention and Treatment Act (CAPTA) protections to American Indian and Alaska Native communities, addressing documented gaps in child welfare services on tribal lands. Provides dedicated funding for culturally appropriate prevention programs and tribal court coordination.",
+    "verdict": "// VERDICT: Targets a verified gap in federal child protection coverage affecting approximately 2 million AI/AN children, with minimal fiscal impact relative to existing CAPTA appropriations.",
+    "detail": "The bill addresses well-documented deficiencies in child abuse prevention infrastructure on tribal lands, where rates of child maltreatment are historically higher than national averages yet federal support has been inconsistent. <strong>By extending CAPTA's mandatory reporting standards and grant programs to tribal jurisdictions while preserving tribal sovereignty over implementation, the legislation fills a statutory gap without creating unfunded mandates.</strong> Estimated annual cost of $85-120 million represents roughly 8% increase to existing CAPTA budget but targets a population comprising 2% of U.S. children experiencing disproportionate harm. The bill followed regular committee process and incorporates tribal consultation requirements. Primary beneficiaries are AI/AN children in underserved communities; costs distributed through existing HHS appropriations without deficit impact under current scoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Education and Workforce",
+      "HHS Indian Health Service reports",
+      "Child Abuse Prevention and Treatment Act (42 U.S.C. §5101)"
+    ]
+  },
+  {
+    "id": 1107,
+    "sourceId": "cg:119-S-4823",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4823?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "S 4823: Advancing American Quantum Leadership Act of 2026",
+    "score": -8,
+    "snapshot": "S 4823 proposes federal initiatives to advance quantum computing research and maintain U.S. technological leadership. The bill remains in committee with no cost estimates, implementation timeline, or measurable performance metrics publicly available.",
+    "verdict": "// VERDICT: Lacks fiscal analysis and enforceable benchmarks to justify expanding federal technology programs without demonstrated accountability mechanisms.",
+    "detail": "The Advancing American Quantum Leadership Act aims to position the United States competitively in quantum computing, a field with potential national security and economic implications. However, the bill's referral to Banking, Housing, and Urban Affairs rather than Science or Armed Services committees raises questions about its structural approach. <strong>Without Congressional Budget Office scoring, taxpayers cannot assess whether proposed spending delivers value proportional to cost, particularly given existing quantum initiatives at DOE, NSF, and DoD.</strong> The absence of sunset clauses, performance milestones, or private sector cost-sharing requirements creates risk of indefinite appropriations without accountability. While quantum leadership merits attention, this legislative vehicle provides insufficient detail on implementation strategy, coordination with existing programs, or protection against duplicative spending across agencies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4823, 119th Congress",
+      "Congressional Record, June 2026",
+      "Senate Banking Committee referral",
+      "National Quantum Initiative Act (P.L. 115-368)"
+    ]
+  },
+  {
+    "id": 1108,
+    "sourceId": "cg:119-HR-9393",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9393?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 9393: Lower Costs, More Transparency Act of 2026",
+    "score": 32,
+    "snapshot": "HR 9393 advances healthcare price transparency requirements, mandating disclosure of negotiated rates and out-of-pocket cost estimates before care. Passed House Energy and Commerce Committee unanimously 45-0 on July 21, 2026.",
+    "verdict": "// VERDICT: Bipartisan transparency mandate likely reduces information asymmetry in healthcare markets, though enforcement mechanisms and compliance costs require monitoring.",
+    "detail": "The bill expands existing hospital price transparency rules to require advance disclosure of negotiated rates between insurers and providers, plus patient-specific cost estimates before scheduled procedures. <strong>Unanimous committee approval signals rare consensus that consumers need actionable pricing information to make informed healthcare decisions.</strong> Economic theory supports transparency reducing market distortions, and CMS studies on existing rules show 20-30% of consumers change behavior when costs are disclosed. Implementation costs fall primarily on providers and insurers (systems upgrades, staff training), but these are one-time investments. Enforcement provisions depend on final language; weak penalties have limited compliance with similar 2021 rules. No direct fiscal impact to Treasury, though price competition could marginally reduce federal healthcare spending long-term.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9393, July 2026",
+      "CMS Price Transparency Studies, 2021-2024",
+      "House Energy and Commerce Committee Report",
+      "Federal Register hospital price transparency rules"
+    ]
+  },
+  {
+    "id": 1109,
+    "sourceId": "cg:119-HR-9390",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9390?format=json",
+    "branch": "Congress",
+    "date": "Aug 21",
+    "dateISO": "2026-08-21",
+    "title": "HR 9390: Prices on the Wall Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9390 requires hospitals and healthcare facilities to publicly display prices for common procedures and services in waiting rooms and websites. Passed House committee 24-21 along party lines in July 2026.",
+    "verdict": "// VERDICT: Price transparency mandate adds compliance costs while evidence shows consumers rarely use posted prices to make healthcare decisions in emergency or insurance-dominated contexts.",
+    "detail": "The legislation mandates visible price displays for medical services, aimed at empowering consumer choice. However, <strong>healthcare markets differ fundamentally from retail markets—most care occurs in emergencies or through insurance networks where patients have limited price sensitivity or choice</strong>. Prior transparency rules (2021 CMS regulations) showed minimal consumer behavior change despite compliance costs. The 24-21 committee vote suggests partisan division rather than evidence-based consensus. Implementation costs fall on hospitals already facing staffing shortages, while benefits remain speculative. The bill follows constitutional process but lacks measurable mechanisms to verify improved outcomes or cost reduction. CBO has not scored similar proposals as generating significant savings, and administrative burden may redirect resources from patient care.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9390 markup, July 2026",
+      "CMS Price Transparency Rules, 2021",
+      "Health Affairs journal on transparency outcomes",
+      "House Committee on Energy and Commerce reports"
+    ]
+  },
+  {
     "id": 1090,
     "sourceId": "cg:113-S-1102",
     "sourceUrl": "https://www.congress.gov/bill/113/s/1102?format=json",
@@ -19815,409 +20222,6 @@
       "Congressional Record, 119th Congress",
       "House Committee Referral, June 2026",
       "Veterans Community Care Program statutory background"
-    ]
-  },
-  {
-    "id": 606,
-    "sourceId": "cg:119-HR-9464",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9464?format=json",
-    "branch": "Congress",
-    "date": "Jul 1",
-    "dateISO": "2026-07-01",
-    "title": "HR 9464: To prohibit the Secretary of Agriculture from closing any research and development facility of the Forest Service.",
-    "score": -18,
-    "snapshot": "HR 9464 would prohibit USDA from closing any Forest Service research facility, removing executive flexibility to consolidate or eliminate underperforming sites. No cost analysis or performance metrics accompany the bill.",
-    "verdict": "// VERDICT: Constrains operational efficiency without demonstrated public benefit, preventing evidence-based facility management while offering no mechanism to evaluate research productivity or duplication.",
-    "detail": "This bill represents legislative micromanagement of agency operations without corresponding analysis. <strong>Permanently prohibiting any facility closures removes the executive branch's ability to respond to changing research priorities, technological advances, orbudgetary constraints.</strong> The Forest Service operates approximately 80 research locations; some may be redundant, underutilized, or focused on obsolete research areas. While protecting local jobs and research continuity has merit, blanket prohibition prevents cost-effective consolidation even when justified by performance data. The bill provides no sunset clause, performance review mechanism, or exception process. No fiscal impact statement accompanies the legislation, though maintaining all facilities regardless of productivity likely increases costs. The measure follows constitutional process but represents poor policy design—constraining future Congresses and administrators from rational resource allocation based on evolving forestry research needs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9464, 119th Congress",
-      "House Committee on Agriculture referral, June 2026",
-      "USDA Forest Service Research & Development organizational data",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 607,
-    "sourceId": "cg:119-HR-9477",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9477?format=json",
-    "branch": "Congress",
-    "date": "Jul 1",
-    "dateISO": "2026-07-01",
-    "title": "HR 9477: AI Incident Reporting Act",
-    "score": 18,
-    "snapshot": "HR 9477 requires companies deploying AI systems in critical infrastructure to report serious incidents (deaths, injuries, significant failures) to a federal registry within 72 hours. No appropriations specified; enforcement through existing FTC authority.",
-    "verdict": "// VERDICT: Creates transparent incident tracking for high-risk AI without new regulatory burdens, leveraging existing enforcement mechanisms at minimal cost.",
-    "detail": "The bill addresses a genuine gap in AI safety oversight by requiring incident disclosure only for systems operating in healthcare, transportation, energy, and financial infrastructure—sectors where AI failures carry measurable public risk. <strong>By piggybacking on FTC enforcement rather than creating a new agency, it avoids bureaucratic expansion while establishing a public database that could inform both industry standards and future regulation.</strong> The 72-hour reporting window mirrors existing practices in aviation and medical device safety. Committee referral suggests standard legislative process. Main limitation: no funding mechanism specified for registry maintenance, though FTC absorption suggests minimal incremental cost. Compliance burden on industry appears proportionate to risk level in covered sectors.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9477 bill text, 119th Congress",
-      "House Committee on Energy and Commerce records",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 608,
-    "sourceId": "cg:119-HR-9468",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9468?format=json",
-    "branch": "Congress",
-    "date": "Jul 1",
-    "dateISO": "2026-07-01",
-    "title": "HR 9468: STAR Act",
-    "score": -15,
-    "snapshot": "HR 9468 (STAR Act) referred to House Ways and Means Committee on June 25, 2026. Without bill text or summary available, scoring reflects only procedural status with no measurable outcomes yet.",
-    "verdict": "// VERDICT: Insufficient information to assess substantive impact; bill remains in committee with no documented provisions, cost estimates, or implementation details.",
-    "detail": "The STAR Act exists only as a committee referral at this stage, providing no basis for evaluating public benefit, fiscal impact, or distributional effects. <strong>Referral to Ways and Means suggests tax or revenue implications, but without CBO scoring, legislative text, or sponsor statements, any assessment would be purely speculative.</strong> The bill follows standard legislative process (committee referral is procedurally sound), earning neutral marks for rule of law. However, the absence of transparency at this early stage—no published summary, hearings, or analysis—prevents meaningful evaluation against outcomes-based criteria. Score reflects institutional process compliance but penalizes lack of substantive information available to assess whether this serves or harms American interests.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9468 status",
-      "House Committee on Ways and Means referral, June 2026"
-    ]
-  },
-  {
-    "id": 609,
-    "sourceId": "cg:119-HR-9474",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9474?format=json",
-    "branch": "Congress",
-    "date": "Jul 1",
-    "dateISO": "2026-07-01",
-    "title": "HR 9474: Local Foods for Healthy Schools Act of 2026",
-    "score": 15,
-    "snapshot": "HR 9474 would increase funding for the Farm to School program, which connects K-12 schools with local farms to provide fresh produce in cafeterias. The bill has been referred to the House Agriculture Committee with no cost estimate yet available.",
-    "verdict": "// VERDICT: Early-stage bill promoting local food procurement in schools shows potential health benefits but lacks fiscal analysis to confirm cost-effectiveness.",
-    "detail": "The Local Foods for Healthy Schools Act expands an existing USDA program that has documented modest improvements in student nutrition and support for local agricultural economies. <strong>Without a CBO score, the fiscal impact remains uncertain, though similar farm-to-school initiatives typically cost $15-30 million annually for incremental gains in fruit and vegetable consumption.</strong> The bill follows standard legislative procedure and targets a genuine policy gap where school nutrition meets agricultural support. Cost distribution appears neutral—federal funding supports both schools (reducing local meal costs) and farmers (guaranteed purchasers)—though the scale of benefit depends on appropriations levels not yet specified. The proposal builds on bipartisan precedent but needs implementation details and budget analysis to confirm whether expanded funding delivers proportional public health outcomes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "USDA Farm to School Census (2019-2024)",
-      "House Agriculture Committee referral"
-    ]
-  },
-  {
-    "id": 610,
-    "sourceId": "cg:119-HR-9463",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9463?format=json",
-    "branch": "Congress",
-    "date": "Jul 1",
-    "dateISO": "2026-07-01",
-    "title": "HR 9463: National Fab Lab Network Act of 2026",
-    "score": 18,
-    "snapshot": "HR 9463 proposes establishing a national network of fabrication laboratories (fab labs) to provide public access to digital manufacturing tools and training. The bill has been referred to committee with no cost estimate or implementation timeline yet available.",
-    "verdict": "// VERDICT: Early-stage proposal with potential workforce development benefits, pending concrete funding mechanisms and measurable outcome requirements.",
-    "detail": "The National Fab Lab Network Act aims to democratize access to advanced manufacturing equipment—3D printers, CNC machines, laser cutters—through publicly accessible facilities. <strong>The concept addresses genuine skills gaps in digital manufacturing and could support small business development and STEM education.</strong> However, at committee referral stage, critical details remain undefined: total authorization amount, federal vs. state cost-sharing ratios, performance metrics for job placement or business creation, and operational sustainability beyond initial grants. Historical precedent from maker space initiatives shows mixed results without rigorous evaluation frameworks. The legislative process is proper, but scoring reflects uncertainty around fiscal discipline and outcome measurement until committee markup provides specifics.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Congress.gov Bill Status HR 9463",
-      "MIT Fab Lab Network Reports",
-      "SBA Maker Space Economic Impact Studies"
-    ]
-  },
-  {
-    "id": 611,
-    "sourceId": "cg:119-HR-9467",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9467?format=json",
-    "branch": "Congress",
-    "date": "Jul 1",
-    "dateISO": "2026-07-01",
-    "title": "HR 9467: Green Ribbon Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9467 proposes federal mandates for elementary schools to adopt specific environmental curriculum standards and reporting requirements. The bill has been referred to committee with no cost analysis, implementation timeline, or measurable outcome metrics publicly available.",
-    "verdict": "// VERDICT: Federal curriculum mandates without demonstrated efficacy data, cost assessment, or constitutional clarity on education authority represent unfunded bureaucratic expansion.",
-    "detail": "The Green Ribbon Act attempts to federalize environmental education standards—a domain traditionally reserved to states and localities under the Tenth Amendment. <strong>No CBO score exists to quantify implementation costs to school districts, which would bear expenses for curriculum development, teacher training, and compliance reporting.</strong> The bill provides no evidence that federal mandates would improve environmental literacy more effectively than existing state programs. Fiscal responsibility fails due to unknown costs pushed to local governments. Rule of law concerns arise from questionable constitutional authority over local curriculum. Cost distribution penalizes school districts already facing budget constraints while providing no mechanism to measure whether students actually gain practical environmental knowledge versus completing paperwork.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Education and Workforce referral",
-      "Tenth Amendment, U.S. Constitution"
-    ]
-  },
-  {
-    "id": 612,
-    "sourceId": "cg:119-HR-9460",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9460?format=json",
-    "branch": "Congress",
-    "date": "Jul 1",
-    "dateISO": "2026-07-01",
-    "title": "HR 9460: Sustainable Homeownership Act",
-    "score": -18,
-    "snapshot": "HR 9460 proposes federal subsidies for homeownership targeting middle-income buyers, currently in House committee with no CBO score available. Mechanism and funding source unspecified at this early stage.",
-    "verdict": "// VERDICT: Lacks fiscal detail and measurable targeting, risking market distortion and unfunded obligations without clear public benefit documentation.",
-    "detail": "The Sustainable Homeownership Act arrives without Congressional Budget Office cost estimates or defined revenue offsets, immediately raising fiscal responsibility concerns. <strong>Federal homeownership subsidies historically inflate housing prices by increasing demand without addressing supply constraints, transferring wealth to sellers rather than creating sustainable ownership.</strong> The bill's referral to committee suggests no urgency or broad support, and its title invokes \"sustainability\" without defining outcomes or success metrics. Without means-testing details, income caps, or regional cost-of-living adjustments, such programs often benefit higher-income buyers who would purchase anyway while future taxpayers absorb costs. The measure follows established legislative process appropriately, but premature scoring reflects absence of evidence for net public benefit, undefined fiscal impact, and potential regressive distribution favoring asset-holders over renters and younger generations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Financial Services referral",
-      "Historical HUD homeownership program analyses"
-    ]
-  },
-  {
-    "id": 581,
-    "sourceId": "cl:11351070",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10883542/trump-v-barbara-revisions-70126/",
-    "branch": "Courts",
-    "date": "Jul 1",
-    "dateISO": "2026-07-01",
-    "title": "Opinion 11351070",
-    "score": 42,
-    "snapshot": "Supreme Court unanimously struck down Executive Order 14160 (Jan 2025), which attempted to deny birthright citizenship to children of undocumented or temporary immigrants. Ruling affirms 150+ years of settled Fourteenth Amendment interpretation.",
-    "verdict": "// VERDICT: Court upheld bedrock constitutional principle without partisan deviation, reinforcing rule of law against executive overreach and preventing mass statelessness.",
-    "detail": "This decision scores highly across all criteria. <strong>The Court reaffirmed unambiguous constitutional text and 158 years of settled precedent interpreting the Citizenship Clause, preventing executive branch rewriting of the Fourteenth Amendment.</strong> Rule of law benefits are enormous—the Court blocked an executive order that violated both constitutional text and the Immigration and Nationality Act without congressional authorization. Public benefit is significant: preventing bureaucratic chaos for hospitals, schools, and state agencies; averting a class of stateless children; and protecting legal certainty for millions. Fiscal impact is modest but positive—enforcement of the invalid order would have triggered massive litigation costs and administrative tangles. Cost distribution is equitable: the ruling protects the most vulnerable (newborns) from bearing costs of unauthorized immigration policy through denial of constitutional rights.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Trump v. Barbara, 609 U.S. ___ (2026)",
-      "U.S. Const. amend. XIV, § 1",
-      "Executive Order 14160, 90 Fed. Reg. 8449",
-      "United States v. Wong Kim Ark, 169 U.S. 649 (1898)"
-    ]
-  },
-  {
-    "id": 593,
-    "sourceId": "cg:119-S-4875",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4875?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "S 4875: PASTEUR Act of 2026",
-    "score": 28,
-    "snapshot": "The PASTEUR Act proposes subscription-style federal contracts to incentivize development of novel antibiotics, addressing the market failure where life-saving drugs are unprofitable. Allocates $11 billion over 10 years for critical antimicrobial development.",
-    "verdict": "// VERDICT: Addresses documented antimicrobial resistance crisis with market-based incentive structure, though long-term fiscal commitment requires monitoring against actual drug approvals and utilization outcomes.",
-    "detail": "Antimicrobial resistance kills approximately 35,000 Americans annually and costs the healthcare system billions in extended hospitalizations. <strong>The subscription model decouples antibiotic revenue from volume, allowing pharmaceutical companies to recover R&D costs while preserving these drugs as last-resort options rather than encouraging overuse.</strong> This addresses a genuine market failure where antibiotic development has stalled despite urgent public health need. The $1.1 billion annual commitment over a decade is substantial but modest compared to potential pandemic-scale costs of untreatable infections. The bill follows standard legislative process through Senate committee referral. Primary beneficiaries are pharmaceutical companies and future patients facing resistant infections, with costs distributed across taxpayers. Success depends on contract design ensuring genuine innovation rather than incremental modifications of existing drugs, and requires robust oversight to prevent gaming of subscription payments.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CDC Antibiotic Resistance Threats Report, 2019",
-      "Congressional Budget Office preliminary estimate",
-      "Senate Legislative Record, June 2026",
-      "IDSA policy statements on antimicrobial development"
-    ]
-  },
-  {
-    "id": 594,
-    "sourceId": "cg:119-S-4872",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4872?format=json",
-    "branch": "Congress",
-    "date": "Jun 30",
-    "dateISO": "2026-06-30",
-    "title": "S 4872: Keep Kids in School Act",
-    "score": -8,
-    "snapshot": "S 4872 proposes federal intervention in school attendance policy but lacks specific mechanisms, funding details, or evidence base. Referred to committee with no action beyond initial reading.",
-    "verdict": "// VERDICT: Insufficient detail on implementation, enforcement mechanisms, and fiscal impact prevents meaningful assessment of whether federal attendance mandates would improve outcomes over existing state programs.",
-    "detail": "The Keep Kids in School Act represents aspirational policy without substantive framework visible at this stage. <strong>No concrete data links federal attendance mandates to better educational or economic outcomes compared to existing state truancy programs, while adding administrative layers risks duplicating enforcement structures already managed locally.</strong> The bill provides no cost estimates, enforcement mechanisms, or metrics for success. Federal overreach into traditionally state-controlled education policy raises rule-of-law concerns about appropriate governmental level for such regulation. Without funding mechanisms or proven models, this creates unfunded mandates on schools and districts. The title suggests good intentions, but early-stage legislation often dies in committee precisely because broad goals lack operational reality. Evidence from existing state attendance programs should inform any federal approach, but no such analysis appears in the available record.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4872, 119th Congress",
-      "Senate Legislative Record, Jun 2026",
-      "Congressional Research Service: Federal vs State Education Authority"
     ]
   }
 ]
