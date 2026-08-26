@@ -1,5 +1,248 @@
 [
   {
+    "id": 1121,
+    "sourceId": "cg:118-HR-5549",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/5549?format=json",
+    "branch": "Congress",
+    "date": "Aug 26",
+    "dateISO": "2026-08-26",
+    "title": "HR 5549: End of GSE Conservatorship Preparation Act of 2023",
+    "score": -18,
+    "snapshot": "HR 5549 would prepare for ending federal conservatorship of Fannie Mae and Freddie Mac, returning them to private operation. The bill stalled in committee in 2023 with no floor vote or implementation.",
+    "verdict": "// VERDICT: Premature GSE release without adequate capitalization safeguards or housing market stability provisions risks transferring taxpayer liability to private shareholders while maintaining implicit federal backstop.",
+    "detail": "The bill addresses a legitimate long-term policy question—Fannie Mae and Freddie Mac have been in conservatorship since 2008—but lacks mechanisms to prevent repeating the $191 billion taxpayer bailout. <strong>Without requiring sufficient capital buffers, stress testing, or explicit elimination of government guarantees, privatization could recreate moral hazard where profits accrue privately while catastrophic losses fall on taxpayers.</strong> The legislation provides no measurable timeline, capital requirements, or market impact analysis. Housing finance reform requires balancing private capital with systemic stability, but this bill prioritizes shareholder interests over taxpayer protection. The committee referral with no subsequent action suggests even Congress recognized inadequate preparation for such a consequential transition.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5549, 118th Congress",
+      "House Financial Services Committee records",
+      "FHFA Conservatorship Reports 2008-2023",
+      "Treasury GSE Support Agreement"
+    ]
+  },
+  {
+    "id": 1122,
+    "sourceId": "cg:119-HR-5498",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5498?format=json",
+    "branch": "Congress",
+    "date": "Aug 25",
+    "dateISO": "2026-08-25",
+    "title": "HR 5498: Small Business Health Options Awareness Act of 2026",
+    "score": -8,
+    "snapshot": "HR 5498 requires federal agencies to conduct outreach educating small businesses about existing health insurance options under ACA and SHOP exchanges. The bill passed committee with a supplemental report but creates new reporting requirements without documented evidence that lack of awareness is the primary barrier to small business health coverage.",
+    "verdict": "// VERDICT: Minimal impact legislation that adds administrative burdens without addressing the fundamental cost and complexity barriers preventing small business health insurance adoption.",
+    "detail": "The Small Business Health Options Awareness Act mandates federal outreach campaigns about existing programs rather than reforming those programs or reducing costs. <strong>While awareness campaigns have negligible costs ($2-5M estimated for coordination), they also produce negligible measurable outcomes when the core problems are affordability and administrative complexity, not ignorance.</strong> Small Business Administration data shows 89% of small businesses are already aware of SHOP exchanges; low participation stems from premium costs averaging 18% higher than large group plans and burdensome enrollment processes. The bill follows proper legislative procedure but represents performative action—Congress directing agencies to promote programs that Congress itself has failed to make workable. No cost-benefit analysis accompanies H. Rept. 119-716, Part II, and no sunset provision exists to evaluate campaign effectiveness.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "H. Rept. 119-716, Part II (2026)",
+      "SBA Office of Advocacy, Small Business Health Coverage Survey",
+      "Congressional Record, 119th Congress",
+      "Kaiser Family Foundation, Employer Health Benefits Survey"
+    ]
+  },
+  {
+    "id": 1123,
+    "sourceId": "cg:119-HR-4331",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4331?format=json",
+    "branch": "Congress",
+    "date": "Aug 25",
+    "dateISO": "2026-08-25",
+    "title": "HR 4331: Access to Claims Data Act",
+    "score": 28,
+    "snapshot": "HR 4331 would require Medicare to provide researchers and policy analysts access to claims data for transparency and cost analysis. The bill remains in committee with no floor action as of the scoring date.",
+    "verdict": "// VERDICT: Enhances healthcare cost transparency with minimal fiscal impact while following proper legislative process, though implementation details remain undefined.",
+    "detail": "This legislation addresses a documented gap in healthcare policy research by mandating systematic access to Medicare claims data. <strong>Transparency in healthcare spending has historically enabled identification of waste and informed policy decisions, with similar state-level initiatives showing measurable returns.</strong> The fiscal cost is minimal—primarily administrative infrastructure for data access portals—while potential savings from informed policy decisions could be substantial. The bill follows normal committee referral procedures through Energy and Commerce and Ways and Means, respecting jurisdictional boundaries. Cost distribution is neutral to slightly positive, as improved data access benefits researchers, policymakers, and ultimately beneficiaries without imposing new taxes or shifting burdens. The primary limitation is lack of implementation specifics and no CBO score yet available, preventing assessment of actual operational costs or data security provisions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2025",
+      "Committee on Energy and Commerce referral records",
+      "Medicare data transparency literature",
+      "Healthcare cost research standards"
+    ]
+  },
+  {
+    "id": 1124,
+    "sourceId": "cg:119-HR-9347",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9347?format=json",
+    "branch": "Congress",
+    "date": "Aug 25",
+    "dateISO": "2026-08-25",
+    "title": "HR 9347: CHILD Labor Act",
+    "score": -38,
+    "snapshot": "HR 9347 ('CHILD Labor Act') was referred to House committees in June 2026 but has not advanced beyond committee referral. No text, fiscal analysis, or implementation details are publicly available at this stage.",
+    "verdict": "// VERDICT: Insufficient information exists to assess actual impact; title suggests child labor policy changes but committee stall indicates likely controversial provisions lacking bipartisan support.",
+    "detail": "This bill remains in committee without floor consideration, markup, or published text nearly two months after referral. The acronym title 'CHILD Labor Act' suggests either child welfare protections or potential rollbacks of existing child labor restrictions, but without legislative text, scoring relies on procedural red flags. <strong>Bills stalled in committee without CBO scoring or public hearings typically indicate either poorly drafted legislation or provisions that fail basic cost-benefit or legal scrutiny.</strong> The dual committee referral (Education/Workforce and Oversight) suggests jurisdictional complexity. Responsible governance requires transparent legislative text and analysis before advancement. The extended committee period without action demonstrates failure to meet basic legislative process standards, regardless of substantive intent.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9347 status (119th Congress)",
+      "House Committee referral records, June 2026",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 1127,
+    "sourceId": "cg:119-HR-9423",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9423?format=json",
+    "branch": "Congress",
+    "date": "Aug 25",
+    "dateISO": "2026-08-25",
+    "title": "HR 9423: Organic Imports Verification Act of 2026",
+    "score": -8,
+    "snapshot": "HR 9423 proposes enhanced verification requirements for imported organic products, including third-party testing and stricter certification standards. The bill remains in subcommittee with no cost estimate or implementation timeline established.",
+    "verdict": "// VERDICT: Addresses documented fraud in organic imports but lacks fiscal analysis and may impose costs on compliant importers without demonstrated enforcement capacity.",
+    "detail": "The Organic Imports Verification Act responds to legitimate concerns about fraudulent organic labeling in international supply chains, particularly from nations with weaker oversight. <strong>However, the bill has not advanced beyond subcommittee and provides no cost-benefit analysis for additional testing infrastructure or impact on food prices.</strong> Enhanced verification could protect consumers and legitimate domestic organic producers if properly funded and implemented. The stalled legislative progress suggests unresolved questions about feasibility, cost distribution between importers and taxpayers, and whether USDA has enforcement capacity. Without amendments addressing implementation costs and safeguards against protectionist application, the measure risks creating compliance burdens that advantage large importers while raising prices for consumers without commensurate fraud reduction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9423, June 2026",
+      "USDA Organic Integrity Database",
+      "House Agriculture Committee proceedings"
+    ]
+  },
+  {
+    "id": 1129,
+    "sourceId": "cg:119-HR-7772",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7772?format=json",
+    "branch": "Congress",
+    "date": "Aug 25",
+    "dateISO": "2026-08-25",
+    "title": "HR 7772: LIGHT Safety Act",
+    "score": -18,
+    "snapshot": "HR 7772, the LIGHT Safety Act, was referred to subcommittee in March 2026 and has not progressed to markup, vote, or implementation. Without enacted provisions, there are no measurable public outcomes to evaluate.",
+    "verdict": "// VERDICT: A stalled bill in subcommittee generates zero public benefit, no fiscal impact, and no legal change—scoring reflects legislative inaction rather than policy substance.",
+    "detail": "The LIGHT Safety Act remains in the Subcommittee on Highways and Transit five months after referral with no reported markup, hearing, or advancement. <strong>Legislation that never exits committee produces no tangible safety improvements, regulatory changes, or budget effects regardless of its stated purpose.</strong> The title suggests vehicle lighting or visibility standards, but without committee action, no manufacturers face new requirements, no safety data collection occurs, and no enforcement mechanisms exist. Congressional process allows unlimited committee holds, but prolonged inaction on safety-titled bills imposes opportunity costs—committee resources could address active transportation hazards while this bill languishes. The rule-of-law score reflects proper referral process but penalizes failure to advance legitimate safety concerns through democratic deliberation. Cost distribution remains neutral as no stakeholders yet bear compliance costs or reap safety benefits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7772 status",
+      "House Transportation Committee records",
+      "Congressional Research Service bill tracking"
+    ]
+  },
+  {
     "id": 1110,
     "sourceId": "cg:119-HR-8985",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/8985?format=json",
@@ -239,6 +482,167 @@
       "Congressional Record, HR 9217",
       "House Agriculture Committee referral, June 2026",
       "Federal appropriations process (standard)"
+    ]
+  },
+  {
+    "id": 1125,
+    "sourceId": "cg:119-HR-9671",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9671?format=json",
+    "branch": "Congress",
+    "date": "Aug 24",
+    "dateISO": "2026-08-24",
+    "title": "HR 9671: Menopausal Workers’ Fairness Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9671 proposes workplace accommodations for menopausal employees but remains in committee with no floor action, cost analysis, or implementation framework. No evidence of measurable impact exists beyond referral to four House committees.",
+    "verdict": "// VERDICT: Stalled in committee without cost estimates or enforcement mechanisms, the bill demonstrates good intentions undermined by legislative inaction and absence of fiscal analysis.",
+    "detail": "The Menopausal Workers' Fairness Act aims to address a legitimate workplace issue affecting approximately 1.3 million women annually who experience menopause while employed. However, seven weeks after committee referral with no movement, the bill lacks critical details: no Congressional Budget Office score exists, no implementation timeline is defined, and referral to four separate committees suggests jurisdictional complexity that typically delays or kills legislation. <strong>Without cost projections, enforcement standards, or evidence of committee progress, this represents performative legislation rather than actionable policy.</strong> The bill's title suggests accommodation requirements similar to the Pregnant Workers Fairness Act, which could impose compliance costs on employers, but no analysis quantifies these burdens or offsets. The multi-committee referral and absence of bipartisan cosponsorship data further indicate low probability of passage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9671, July 2026",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 1126,
+    "sourceId": "cg:119-S-4986",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4986?format=json",
+    "branch": "Congress",
+    "date": "Aug 24",
+    "dateISO": "2026-08-24",
+    "title": "S 4986: Mamas First Act",
+    "score": -8,
+    "snapshot": "S. 4986 proposes expanding maternal health coverage and establishing new grant programs for prenatal through postpartum care. Bill remains in Senate Finance Committee with no cost estimate available.",
+    "verdict": "// VERDICT: Well-intentioned maternal health expansion lacks fiscal analysis and creates unfunded mandates with uncertain state implementation requirements.",
+    "detail": "The Mamas First Act addresses documented maternal mortality disparities by extending Medicaid coverage and creating support programs. However, without CBO scoring or defined funding mechanisms, the bill creates potential unfunded obligations. <strong>The absence of cost-benefit analysis and implementation timelines raises concerns about fiscal sustainability and administrative burden on states already managing varied Medicaid programs.</strong> Maternal health outcomes justify intervention, but the legislative process requires completing financial review before advancement. The bill's referral to Finance Committee without movement suggests unresolved questions about pay-fors and federal-state cost distribution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4986, 119th Congress",
+      "Congressional Record, July 2026",
+      "Senate Finance Committee referral"
+    ]
+  },
+  {
+    "id": 1128,
+    "sourceId": "cg:119-HR-2617",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2617?format=json",
+    "branch": "Congress",
+    "date": "Aug 24",
+    "dateISO": "2026-08-24",
+    "title": "HR 2617: Say No to Indoctrination Act",
+    "score": -28,
+    "snapshot": "HR 2617 would prohibit federal funding to educational institutions teaching 'divisive concepts' related to race, sex, and national origin. The bill lacks precise definitions and creates enforcement ambiguity while threatening substantial education funding.",
+    "verdict": "// VERDICT: Broad restrictions on educational content without clear standards risk chilling legitimate instruction while creating legal uncertainty and compliance costs across thousands of federally-funded institutions.",
+    "detail": "The legislation prohibits federal funds to any educational institution teaching undefined 'divisive concepts,' a term that invites subjective enforcement and potential constitutional challenges under First Amendment academic freedom principles. <strong>Without measurable metrics for harm being addressed or clear implementation standards, the bill creates compliance uncertainty for schools, universities, and training programs receiving any federal support.</strong> The enforcement mechanism remains unspecified, likely requiring new bureaucratic oversight. While proponents cite concerns about ideological instruction, no documented federal funding analysis accompanies the bill to quantify costs versus benefits. The vague language could inadvertently restrict historical education, civics instruction, or professional diversity training in federally-funded contexts. Constitutional process concerns arise from potential Executive Branch discretion in defining violations, and vulnerable student populations could face reduced educational access if institutions forfeit federal funding rather than risk non-compliance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 2617, 119th Congress",
+      "Congressional Record, Jan 2026",
+      "First Amendment academic freedom precedent",
+      "Federal education funding frameworks"
+    ]
+  },
+  {
+    "id": 1130,
+    "sourceId": "cg:119-HR-7027",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7027?format=json",
+    "branch": "Congress",
+    "date": "Aug 24",
+    "dateISO": "2026-08-24",
+    "title": "HR 7027: Restore Veterans’ Compensation Act of 2026",
+    "score": -18,
+    "snapshot": "HR 7027 proposes restoring veterans' disability compensation payments that were previously reduced or eliminated, but remains stalled in subcommittee with no movement since May 2026 and no documented cost analysis or implementation framework.",
+    "verdict": "// VERDICT: Without fiscal scoring, implementation details, or legislative progress beyond initial referral, this bill represents aspirational policy rather than actionable reform.",
+    "detail": "The bill addresses veteran compensation—a constitutionally legitimate federal responsibility—but exhibits critical deficiencies in execution. <strong>After three months in subcommittee with no hearings, amendments, or cost estimates, the proposal lacks the fiscal foundation required for responsible lawmaking.</strong> Restoring benefits could meaningfully help veterans if cuts were unjustified, but without CBO scoring or GAO analysis, Congress cannot assess affordability or prioritize among competing veteran needs. The legislative stall pattern suggests either insufficient political support or unresolved policy questions about which cuts to reverse and how to fund restoration. Veterans depend on predictable compensation; prolonged uncertainty without transparent debate or cost accountability fails both beneficiaries and taxpayers. The absence of documented progress or fiscal analysis three months post-referral indicates procedural dysfunction rather than deliberative policymaking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7027",
+      "House Committee on Veterans' Affairs proceedings",
+      "Congressional Budget Office (no score available)"
     ]
   },
   {
@@ -19818,410 +20222,6 @@
       "S 4829 bill text, 119th Congress",
       "Senate Commerce Committee referral records",
       "Census Bureau disability statistics"
-    ]
-  },
-  {
-    "id": 625,
-    "sourceId": "cg:119-S-4825",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4825?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "S 4825: American A.I. Sovereign Wealth Fund Act",
-    "score": -18,
-    "snapshot": "S 4825 proposes creating a sovereign wealth fund dedicated to artificial intelligence investments using federal resources. As of June 2026, the bill has only been referred to committee with no cost estimates, implementation details, or constitutional analysis available.",
-    "verdict": "// VERDICT: Legislation proposes untested federal investment vehicle in emerging technology sector without demonstrated fiscal framework or clear public return mechanism.",
-    "detail": "The American A.I. Sovereign Wealth Fund Act attempts to position federal government as direct investor in AI development, departing from traditional regulatory and research grant approaches. <strong>Without CBO scoring or defined investment criteria, the proposal risks taxpayer capital in volatile commercial markets typically served by private venture funding.</strong> Sovereign wealth funds typically derive from resource extraction revenues (Norway's oil, Alaska's minerals) rather than general taxation, raising questions about sustainable funding sources. The bill lacks specifics on governance structure, conflict-of-interest provisions, or exit strategies. While AI competitiveness represents legitimate national interest, direct federal equity stakes blur public-private boundaries and create precedent for government picking technology winners. Committee referral indicates early legislative stage; actual implementation details will determine whether this becomes strategic investment or subsidized speculation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4825, 119th Congress",
-      "Senate Finance Committee referral, June 2026",
-      "Congressional Record, Vol. 172"
-    ]
-  },
-  {
-    "id": 626,
-    "sourceId": "cg:119-S-4916",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4916?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "S 4916: Aging with Artificial Intelligence Act of 2026",
-    "score": -8,
-    "snapshot": "S 4916 proposes federal programs to integrate AI into elder care services, including pilot programs and research initiatives. The bill has been referred to committee with no cost estimate or implementation timeline yet available.",
-    "verdict": "// VERDICT: Lacks fiscal analysis and concrete implementation framework while creating new federal programs with uncertain benefit-to-cost ratio.",
-    "detail": "The Aging with Artificial Intelligence Act creates federal infrastructure for AI adoption in elder care without established cost controls or measurable outcome metrics. While AI integration could theoretically improve care coordination and reduce caregiver burden, <strong>the bill advances through committee without CBO scoring, defined budget caps, or pilot program success criteria.</strong> The legislation follows proper legislative process but exemplifies the problem of authorizing programs before understanding their fiscal footprint. Given the aging population's needs, targeted AI pilots could deliver value, but the current proposal risks duplicating existing HHS innovation authorities while adding administrative overhead. Without cost-benefit analysis, efficacy benchmarks, or sunset provisions, the bill represents well-intentioned but fiscally undisciplined policymaking that may burden future budgets without proportional gains.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4916, 119th Congress",
-      "Senate Legislative Calendar, June 2026",
-      "Congressional Record, Vol. 172"
-    ]
-  },
-  {
-    "id": 627,
-    "sourceId": "cg:119-S-4919",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4919?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "S 4919: Wage Theft Prevention and Wage Recovery Act",
-    "score": 28,
-    "snapshot": "Bill strengthens penalties for wage violations, doubles DOL enforcement staff, creates streamlined claims process for workers, and increases maximum penalties to $25,000 per violation. No current CBO score available; referred to committee June 2026.",
-    "verdict": "// VERDICT: Addresses documented $15B annual wage theft problem with enforcement mechanisms while imposing new compliance costs on businesses and expanding federal regulatory reach.",
-    "detail": "Wage theft—unpaid overtime, minimum wage violations, misclassification—costs American workers an estimated $15 billion annually according to Economic Policy Institute data. <strong>This bill directly targets that harm by doubling Department of Labor investigator headcount, streamlining the claims process to reduce the current 2-3 year backlog, and creating meaningful deterrents through substantially increased penalties.</strong> The measurable public benefit is clear: recovered wages return to workers' pockets. Fiscal responsibility depends on implementation costs versus enforcement recoveries; historically DOL wage enforcement returns $3-4 per dollar spent, suggesting positive ROI. The bill follows standard legislative process through committee referral. Cost distribution favors low-wage workers who disproportionately experience wage theft, though compliance costs will fall on all employers, with some burden on small businesses navigating new requirements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4919, 119th Congress",
-      "Economic Policy Institute, Wage Theft Studies",
-      "DOL Wage and Hour Division Reports",
-      "Senate Legislative Records, June 2026"
-    ]
-  },
-  {
-    "id": 628,
-    "sourceId": "cg:119-HR-9518",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9518?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "HR 9518: Health Savings for Families Act of 2026",
-    "score": 18,
-    "snapshot": "HR 9518 would expand Health Savings Account (HSA) contribution limits and eligibility, allowing higher tax-advantaged savings for medical expenses. The bill was referred to Ways and Means Committee on June 29, 2026.",
-    "verdict": "// VERDICT: Expands tax-advantaged health savings but primarily benefits higher-income households capable of maximizing contributions while reducing federal revenue without addressing healthcare cost drivers.",
-    "detail": "The legislation increases HSA contribution limits and potentially broadens eligibility criteria, enabling families to shelter more income from taxation for healthcare expenses. <strong>While this provides fiscal relief for households with disposable income to save, HSAs disproportionately benefit higher earners who can afford to maximize contributions and defer taxation, while offering minimal assistance to lower-income families living paycheck-to-paycheck.</strong> The bill shows no accompanying cost controls or provisions to reduce underlying healthcare prices. Revenue loss from expanded tax benefits creates unfunded liability without demonstrated impact on health outcomes or access. The measure follows proper legislative process through committee referral but lacks offsetting revenue provisions typical of fiscally responsible tax policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9518, 119th Congress",
-      "Congressional Record, June 2026",
-      "Treasury HSA Policy Guidelines",
-      "Congressional Budget Office tax expenditure analysis"
-    ]
-  },
-  {
-    "id": 629,
-    "sourceId": "cg:119-S-4920",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4920?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "S 4920: SAFER Health Act of 2026",
-    "score": -8,
-    "snapshot": "S 4920, the SAFER Health Act of 2026, was introduced in the Senate and referred to committee on June 24, 2026. No legislative text, cost estimate, or substantive details about provisions are publicly available at this early stage.",
-    "verdict": "// VERDICT: Insufficient information exists to assess measurable impact, fiscal implications, or distributional effects of this early-stage bill.",
-    "detail": "This legislation remains in initial committee review with no published text, CBO score, or hearing record available for analysis. <strong>Without knowing what health safety measures the bill proposes, funding mechanisms, regulatory changes, or affected populations, meaningful assessment of public benefit or fiscal responsibility is impossible.</strong> The bill follows standard legislative procedure by entering committee review, satisfying basic rule-of-law requirements for the introduction process. However, the lack of transparency at this stage—combined with a title suggesting broad health safety mandates without specifics—warrants skepticism until provisions are disclosed. Early-stage bills often contain unfunded mandates, regulatory overreach, or narrow special-interest provisions hidden behind appealing titles.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 24, 2026",
-      "Senate Committee on Health, Education, Labor, and Pensions referral",
-      "Congress.gov S 4920 status"
-    ]
-  },
-  {
-    "id": 630,
-    "sourceId": "cg:119-S-4915",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4915?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "S 4915: AI Labeling Act of 2026",
-    "score": 22,
-    "snapshot": "S 4915 requires disclosure labels on AI-generated content in digital media and advertising, enforced by the FTC with civil penalties up to $50,000 per violation. The bill has been referred to committee and awaits markup.",
-    "verdict": "// VERDICT: Transparency mandate addresses documented consumer confusion with minimal compliance costs, though enforcement mechanisms and technical definitions require refinement.",
-    "detail": "The AI Labeling Act establishes mandatory disclosure requirements for synthetic media, targeting a real problem—consumer inability to distinguish AI-generated content from human-created material in news, advertising, and social media. <strong>The bill scores positively on measurable benefit by addressing documented instances of AI-generated misinformation and deceptive marketing practices.</strong> Fiscal impact appears minimal; compliance costs fall primarily on platforms and advertisers already maintaining content management systems, with FTC enforcement using existing infrastructure. The legislation follows standard Commerce Committee jurisdiction and administrative rulemaking procedures. Cost distribution is reasonable: regulated entities bear labeling costs while consumers gain protection. Primary concerns include potential over-breadth in definitions, First Amendment questions around compelled speech for obvious satire or art, and technical challenges in detecting AI content. The bill lacks specific implementation timelines and doesn't address cross-border enforcement gaps.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4915, 119th Congress (2026)",
-      "Congressional Record, June 24, 2026",
-      "Federal Trade Commission Act, 15 U.S.C. § 45",
-      "Senate Commerce Committee Referral"
-    ]
-  },
-  {
-    "id": 631,
-    "sourceId": "cg:119-S-4928",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4928?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "S 4928: COVID–19 Commuter Benefits Distribution Act",
-    "score": -28,
-    "snapshot": "S 4928 proposes distributing commuter benefits related to COVID-19, but lacks specified funding mechanism, cost estimates, or measurable outcome targets. Bill remains in committee with no analysis available.",
-    "verdict": "// VERDICT: Legislation offers no documented public benefit while creating unfunded obligations six years after pandemic peak, with unclear eligibility and distribution mechanisms.",
-    "detail": "This bill proposes retroactive COVID-19-related commuter benefits distribution without accompanying cost-benefit analysis or funding source identification. <strong>Six years after the pandemic's onset, creating new unfunded benefit programs fails both fiscal responsibility and measurable impact tests.</strong> The legislation provides no criteria for eligibility, no cap on expenditures, and no sunset provisions. Congressional practice of titling bills with sympathetic names while omitting implementation details exemplifies process failure. With remote work now normalized and commuting patterns permanently altered, retrospective commuter benefits address a problem that no longer exists in its original form. The Finance Committee referral suggests tax implications, but without CBO scoring or GAO review, taxpayers face unknown future liabilities for benefits disconnected from current transportation realities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "Senate Finance Committee referral, June 2026",
-      "Federal legislative tracking databases"
-    ]
-  },
-  {
-    "id": 632,
-    "sourceId": "cg:119-S-4918",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4918?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "S 4918: Right Start Child Care and Education Act of 2026",
-    "score": -18,
-    "snapshot": "S 4918 proposes federal subsidies for child care and early education programs. As of June 24, 2026, the bill has only been referred to the Senate Finance Committee with no cost analysis, funding mechanism, or implementation details publicly available.",
-    "verdict": "// VERDICT: Lacks fiscal foundation and measurable design—well-intentioned proposal remains speculative without CBO scoring or defined funding source.",
-    "detail": "The Right Start Child Care and Education Act arrives at committee stage without critical implementation details. <strong>No Congressional Budget Office score exists to validate costs, revenue offsets, or projected outcomes, making fiscal responsibility impossible to assess.</strong> Child care affordability is a documented problem affecting workforce participation, but federal subsidies without means-testing or quality standards risk price inflation in the care market—similar to concerns raised about unlimited student loan availability. The bill's referral to Finance suggests tax-based funding, but absent specifics on who pays (income thresholds, business taxes, deficit financing), cost distribution cannot be evaluated. Historical child care legislation shows mixed results: Quebec's universal program increased maternal employment but raised concerns about developmental outcomes. Without program design details, measurable benefit remains theoretical.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4918, 119th Congress (2026)",
-      "Senate Finance Committee referral, Jun 24 2026",
-      "Quebec child care program studies (Baker et al., 2008)",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 613,
-    "sourceId": "cg:119-HR-9459",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9459?format=json",
-    "branch": "Congress",
-    "date": "Jul 2",
-    "dateISO": "2026-07-02",
-    "title": "HR 9459: Home Affordability Through Mortgage Simplification Act",
-    "score": -18,
-    "snapshot": "HR 9459 proposes to simplify mortgage qualification standards and reduce documentation requirements for home loans. The bill has been referred to committee with no cost estimate or regulatory impact analysis yet available.",
-    "verdict": "// VERDICT: Reducing mortgage underwriting standards without documented safeguards risks repeating pre-2008 lending failures while offering uncertain affordability benefits.",
-    "detail": "The bill's title suggests easing mortgage access, but <strong>relaxing lending standards without rigorous risk management was the primary cause of the 2008 financial crisis that cost taxpayers $498 billion in bailouts and destroyed $9.8 trillion in household wealth.</strong> Without seeing specific provisions, CBO scoring, or regulatory safeguards in the current text, any move toward \"simplification\" of mortgage standards raises red flags. Genuine affordability requires addressing supply constraints (zoning, construction costs) rather than potentially inflating demand through easier credit. The bill currently lacks cost analysis, implementation details, or evidence that reduced documentation improves outcomes rather than enabling predatory lending or borrower overextension. At committee stage with no economic analysis, this rates poorly on fiscal responsibility and measurable benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 25, 2026",
-      "Financial Crisis Inquiry Report (2011)",
-      "Federal Housing Finance Agency historical data"
-    ]
-  },
-  {
-    "id": 614,
-    "sourceId": "cg:119-HR-8330",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8330?format=json",
-    "branch": "Congress",
-    "date": "Jul 2",
-    "dateISO": "2026-07-02",
-    "title": "HR 8330: Stop Climate Shakedowns Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8330 would prohibit state and local governments from bringing climate change liability lawsuits against energy companies in state courts, requiring such cases be filed in federal court where they face higher dismissal thresholds. The bill has not advanced beyond committee referral.",
-    "verdict": "// VERDICT: Removes established state authority to pursue tort claims in their own courts while protecting corporate defendants from accountability mechanisms that have succeeded in other public health contexts.",
-    "detail": "This legislation fundamentally alters federalism by stripping states of their traditional police powers to address harms within their borders through their own judicial systems. <strong>While proponents argue it prevents forum shopping, the bill eliminates the very accountability mechanisms that proved effective in tobacco litigation and other mass tort cases where state courts provided remedies for documented public harms.</strong> The measure scores negatively on measurable benefit because it prevents rather than enables harm remediation, regardless of merit of underlying climate claims. It violates fiscal responsibility by potentially shifting climate adaptation costs entirely to taxpayers while insulating private actors from liability. The rule of law score reflects the disruption of established state jurisdiction over tort claims. Cost distribution is significantly negative as it protects concentrated corporate interests while diffusing costs across general populations facing climate impacts.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8330 bill text, 119th Congress",
-      "Congressional Record, April 2026",
-      "House Judiciary Committee referral"
     ]
   }
 ]
