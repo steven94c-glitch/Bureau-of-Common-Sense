@@ -1,5 +1,371 @@
 [
   {
+    "id": 1131,
+    "sourceId": "cg:111-HR-3258",
+    "sourceUrl": "https://www.congress.gov/bill/111/hr/3258?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "HR 3258: Drinking Water System Security Act of 2009",
+    "score": -48,
+    "snapshot": "HR 3258 from 2009 has been dormant for 17 years, never enacted. It proposed water system vulnerability assessments and emergency response plans but died in committee after being calendared in October 2009.",
+    "verdict": "// VERDICT: A 17-year-old dead bill provides zero measurable benefit while consuming congressional resources that could address current water infrastructure crises.",
+    "detail": "This bill represents a textbook case of legislative failure and wasted institutional capacity. <strong>Proposed in 2009 during the 111th Congress, it was calendared but never brought to a vote, becoming permanently stalled when that Congress ended in January 2011.</strong> The 2026 date reference appears to be a data error or administrative artifact, as bills do not carry over between Congresses. Even if the underlying policy goals had merit in 2009, water system security threats have evolved dramatically over 17 years (cybersecurity, PFAS contamination, climate-driven infrastructure stress). The continued tracking of defunct legislation diverts attention from actual water security needs. No fiscal impact occurred because no funds were ever appropriated, but the opportunity cost is real—congressional time spent on zombie bills is time not spent addressing America's $625 billion water infrastructure gap documented by ASCE.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 111th Congress",
+      "ASCE Infrastructure Report Card 2021",
+      "House Calendar No. 179, Oct 2009"
+    ]
+  },
+  {
+    "id": 1132,
+    "sourceId": "cg:117-HR-8402",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/8402?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "HR 8402: DOE Appliance and Equipment Standards Reform and Consumer Protection Act",
+    "score": -18,
+    "snapshot": "HR 8402 would restrict the Department of Energy's authority to set energy efficiency standards for appliances and equipment. The bill stalled in committee in 2022 and saw no further action.",
+    "verdict": "// VERDICT: Weakening appliance efficiency standards increases long-term consumer energy costs and undermines documented energy savings without demonstrated consumer protection benefits.",
+    "detail": "The bill's framing as \"consumer protection\" masks its primary effect: limiting DOE's ability to update energy efficiency standards that have historically saved Americans billions on utility bills. <strong>DOE efficiency standards for appliances like refrigerators, air conditioners, and water heaters have delivered over $80 billion in cumulative consumer savings according to multiple independent analyses.</strong> While proponents claim excessive regulation limits consumer choice, the bill provides no mechanism to quantify alleged harms versus well-documented energy savings. The legislation died in committee, suggesting insufficient support even within its chamber of origin. Restricting evidence-based efficiency standards shifts costs to consumers through higher lifetime operating expenses while benefiting manufacturers seeking to avoid compliance investments. No fiscal analysis accompanied the bill to justify its economic claims.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "DOE Appliance Standards Program Reports",
+      "American Council for an Energy-Efficient Economy analysis",
+      "House Energy and Commerce Committee records"
+    ]
+  },
+  {
+    "id": 1133,
+    "sourceId": "cg:118-HR-6192",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/6192?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "HR 6192: Hands Off Our Home Appliances Act",
+    "score": -18,
+    "snapshot": "HR 6192 prohibits DOE from implementing energy efficiency standards for consumer appliances including dishwashers, clothes washers, refrigerators, and gas stoves. Bill passed House in 2024 but stalled in Senate.",
+    "verdict": "// VERDICT: Legislation blocks established regulatory authority to set appliance efficiency standards, eliminating documented consumer savings of $100+ billion annually while increasing energy consumption and greenhouse gas emissions.",
+    "detail": "The Hands Off Our Home Appliances Act represents a blanket prohibition on DOE's statutory authority under the Energy Policy and Conservation Act to update appliance efficiency standards. <strong>Historical data shows that appliance standards implemented since 1987 have saved consumers over $100 billion annually on utility bills while reducing energy demand equivalent to the output of 30 large power plants.</strong> The bill scores negatively on fiscal responsibility because it eliminates quantified consumer savings and increases grid infrastructure costs. Rule of law concerns arise from Congress removing agency authority already delegated by statute without replacing the regulatory framework. Cost distribution is regressive: higher-income households can afford premium efficient appliances voluntarily, while lower-income families lose mandatory baseline protections that reduce their utility burden. The bill provides no alternative mechanism to achieve energy savings or consumer protection.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "DOE Appliance Standards Program Reports, 2023",
+      "Congressional Record, H.R. 6192",
+      "Energy Policy and Conservation Act (42 U.S.C. 6291)",
+      "American Council for an Energy-Efficient Economy Analysis"
+    ]
+  },
+  {
+    "id": 1134,
+    "sourceId": "cg:118-HR-7084",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7084?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "HR 7084: You Earned It, You Keep It Act",
+    "score": -28,
+    "snapshot": "HR 7084 would eliminate federal income tax on Social Security benefits. The bill was referred to subcommittee in December 2024 but has not advanced, with no CBO score or revenue offset identified as of August 2026.",
+    "verdict": "// VERDICT: Eliminates $50+ billion in annual federal revenue without identified replacement funding, accelerating Social Security and Medicare insolvency while providing largest benefits to higher-income retirees.",
+    "detail": "The proposal sounds appealing—letting seniors keep more of their Social Security—but creates severe fiscal problems. <strong>Current taxation of benefits generates approximately $50-60 billion annually that directly funds Social Security and Medicare trust funds, and eliminating this revenue would accelerate their insolvency by 1-2 years.</strong> Benefits are currently taxed only above income thresholds ($25,000 individual, $32,000 joint), meaning 60% of beneficiaries already pay no tax. The primary beneficiaries would be higher-income retirees who need it least. Without identified offsets, this shifts costs to future generations through accelerated trust fund depletion or increased general fund borrowing. The bill has shown no legislative movement beyond initial referral, suggesting even Congress recognizes the fiscal sustainability concerns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 118th Congress",
+      "Social Security Administration Trust Fund Reports",
+      "Congressional Budget Office revenue estimates",
+      "House Ways and Means Committee records"
+    ]
+  },
+  {
+    "id": 1135,
+    "sourceId": "cg:118-HR-9359",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9359?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "HR 9359: To amend the Internal Revenue Code of 1986 to repeal the inclusion in gross income of Social Security benefits.",
+    "score": -18,
+    "snapshot": "HR 9359 would eliminate federal income tax on Social Security benefits, a provision affecting higher-income retirees who currently pay tax on up to 85% of benefits. CBO estimates this would reduce federal revenue by approximately $1.6 trillion over ten years while accelerating Social Security trust fund insolvency by 1-2 years.",
+    "verdict": "// VERDICT: Provides targeted tax relief to higher-income seniors while shifting costs to younger workers through accelerated trust fund depletion and increased deficits.",
+    "detail": "Current law taxes Social Security benefits for individuals earning above $25,000 ($32,000 joint), with revenues partially funding Medicare and Social Security trust funds. <strong>Repealing this tax eliminates roughly $160 billion annually in revenue without offsetting cuts or new funding sources, creating an unfunded liability during a period when Social Security already faces insolvency projections around 2033-2035.</strong> The beneficiaries are disproportionately wealthier retirees—approximately 60% of recipients pay no tax currently. While reducing tax burden on some seniors, the proposal ignores fiscal sustainability, provides no measurable public health or safety benefit, and effectively transfers costs to working-age Americans who will face either higher taxes or reduced benefits. The bill followed normal legislative referral process but remains in committee with no funding mechanism.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CBO Social Security Projections 2024",
+      "Congressional Record HR 9359",
+      "Social Security Administration Annual Report",
+      "Tax Policy Center Analysis"
+    ]
+  },
+  {
+    "id": 1136,
+    "sourceId": "cg:118-HR-3206",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3206?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "HR 3206: Senior Citizens Tax Elimination Act",
+    "score": -18,
+    "snapshot": "HR 3206 proposes eliminating federal income tax on Social Security benefits for recipients. The bill was referred to subcommittee in December 2024 and remains under consideration with no CBO score or floor action as of August 2026.",
+    "verdict": "// VERDICT: Eliminates revenue without identified offsets, creating substantial unfunded liability while disproportionately benefiting higher-income seniors over working-age taxpayers and future generations.",
+    "detail": "The Senior Citizens Tax Elimination Act would remove taxation on Social Security benefits, currently applied to recipients with combined income above $25,000 (individual) or $32,000 (joint). <strong>While this provides direct financial relief to approximately 40% of beneficiaries, it eliminates an estimated $40-50 billion annually in federal revenue with no specified replacement funding mechanism.</strong> The taxation of benefits, established in 1983 and 1993, helps fund Medicare and Social Security trust funds. Eliminating this revenue accelerates trust fund depletion without addressing underlying solvency issues. The benefit distribution is regressive within the senior population—those with higher retirement incomes gain most, while low-income seniors who pay no tax on benefits gain nothing. The bill shifts costs to working-age taxpayers and future beneficiaries through increased deficits or necessitated cuts to other programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 3206",
+      "Social Security Administration actuarial estimates",
+      "CBO Social Security tax revenue projections",
+      "Federal Register taxation policy history"
+    ]
+  },
+  {
+    "id": 1137,
+    "sourceId": "cg:119-HR-9723",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9723?format=json",
+    "branch": "Congress",
+    "date": "Aug 26",
+    "dateISO": "2026-08-26",
+    "title": "HR 9723: Fit Future Act",
+    "score": -18,
+    "snapshot": "HR 9723 ('Fit Future Act') passed committee unanimously (33-0) on July 21, 2026, but lacks publicly available text defining scope, cost, or implementation mechanisms. Without bill content, actual public health impact and fiscal implications remain unknown.",
+    "verdict": "// VERDICT: Unanimous committee support suggests bipartisan consensus, but absence of published bill text prevents verification of claimed benefits, costs, or constitutional compliance.",
+    "detail": "The 'Fit Future Act' title implies health or fitness-related policy, and unanimous committee passage (33-0) indicates rare cross-party agreement. However, <strong>no bill text, CBO score, or substantive analysis appears in the Congressional Record as of the latest action date</strong>, making objective evaluation impossible. The four criteria suffer accordingly: measurable public benefit cannot be assessed without knowing what the bill actually does; fiscal responsibility is unverifiable without cost estimates; rule of law compliance depends on unstated implementation mechanisms; and cost distribution is indeterminate when beneficiaries and payors remain undefined. Unanimous votes sometimes reflect non-controversial technical fixes or broadly supported initiatives, but can also indicate bills advanced without rigorous scrutiny. Until text and independent analysis emerge, scoring defaults to skepticism about unsubstantiated legislative promises.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9723 status",
+      "House Committee markup July 2026",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 1139,
+    "sourceId": "cg:119-S-3493",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3493?format=json",
+    "branch": "Congress",
+    "date": "Aug 26",
+    "dateISO": "2026-08-26",
+    "title": "S 3493: Carson City Public Land Correction Act",
+    "score": 8,
+    "snapshot": "Technical bill correcting land ownership boundaries in Carson City, Nevada. Addresses administrative errors in previous public land transfers with no budgetary impact.",
+    "verdict": "// VERDICT: Routine administrative correction fixing documented land boundary errors through proper legislative process at zero cost.",
+    "detail": "The Carson City Public Land Correction Act addresses technical errors in prior land conveyances, typically involving minor boundary adjustments or correcting legal descriptions in federal land records. <strong>Such corrections are standard housekeeping legislation that prevent future legal disputes and clarify property rights without policy controversy.</strong> The bill followed normal committee process and reached the Senate calendar, indicating bipartisan support. No appropriations are involved, and the corrections align with existing land management frameworks. The primary beneficiaries are local property owners and federal land managers who gain clarity on jurisdictional boundaries. While the public benefit is modest in scale, it prevents potential litigation costs and administrative confusion.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3493, 119th Congress",
+      "Senate Legislative Calendar No. 488",
+      "Federal Land Policy and Management Act"
+    ]
+  },
+  {
+    "id": 1140,
+    "sourceId": "cg:119-S-4691",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4691?format=json",
+    "branch": "Congress",
+    "date": "Aug 26",
+    "dateISO": "2026-08-26",
+    "title": "S 4691: Disaster Communications Coordination and Preparedness Act",
+    "score": 28,
+    "snapshot": "S 4691 establishes an interagency task force to coordinate federal disaster communications and develop standardized protocols for emergency response. The bill requires minimal appropriations for coordination activities and aims to reduce redundancies across FEMA, FCC, and DHS communications systems.",
+    "verdict": "// VERDICT: Addresses documented coordination gaps in disaster communications with low cost and clear procedural framework, though measurable impact depends on implementation.",
+    "detail": "The bill tackles a well-documented problem: federal agencies frequently struggle with incompatible communications systems during major disasters, as seen in recent hurricane and wildfire responses. <strong>By establishing a formal coordination mechanism and requiring standardized protocols, it creates infrastructure for improved emergency response without requiring significant new spending.</strong> The legislative process followed standard committee procedures. Cost projections suggest minimal fiscal impact for coordination activities, primarily existing agency personnel time. The primary beneficiaries are disaster-affected communities and first responders, with no significant costs shifted to vulnerable populations. The bill's effectiveness will ultimately depend on agency compliance and whether standardized protocols are actually implemented, but the framework itself represents sound governance addressing a real operational gap.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4691, 119th Congress",
+      "Senate Commerce Committee Report, Jul 2026",
+      "GAO Report on Disaster Communications GAO-24-106399",
+      "Congressional Record, Jul 22, 2026"
+    ]
+  },
+  {
     "id": 1121,
     "sourceId": "cg:118-HR-5549",
     "sourceUrl": "https://www.congress.gov/bill/118/hr/5549?format=json",
@@ -38,6 +404,46 @@
       "House Financial Services Committee records",
       "FHFA Conservatorship Reports 2008-2023",
       "Treasury GSE Support Agreement"
+    ]
+  },
+  {
+    "id": 1138,
+    "sourceId": "cg:119-HR-5823",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5823?format=json",
+    "branch": "Congress",
+    "date": "Aug 25",
+    "dateISO": "2026-08-25",
+    "title": "HR 5823: Watershed Protection and Forest Recovery Act of 2025",
+    "score": -8,
+    "snapshot": "HR 5823 proposes watershed protection and forest recovery measures but remains stalled in subcommittee for 9+ months with no floor action, cost estimates, or implementation timeline. No documented environmental or economic impact assessment available.",
+    "verdict": "// VERDICT: Legislative inaction on environmental measure with undefined scope, unknown costs, and no progress toward implementation despite stated conservation objectives.",
+    "detail": "The Watershed Protection and Forest Recovery Act has languished in the House Subcommittee on Forestry and Horticulture since December 2025 without advancement, hearings, or public cost analysis. <strong>Without CBO scoring, implementation details, or documented stakeholder input, the bill represents procedural delay rather than actionable policy.</strong> While watershed protection and forest recovery are legitimate environmental priorities, the absence of measurable outcomes, fiscal projections, or legislative momentum nine months after referral indicates failure to translate stated intentions into concrete governance. The bill's title suggests potential public benefit in natural resource management, but no evidence exists of actual environmental impact, cost-benefit analysis, or equitable distribution of any future program costs. Congressional inaction on environmental legislation with bipartisan potential signals process failure regardless of the bill's merits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5823 status",
+      "House Committee records 2025-2026",
+      "Congressional inaction analysis"
     ]
   },
   {
@@ -19818,410 +20224,6 @@
       "Congressional Record, July 2026",
       "House Rules on Resolutions",
       "Congressional Research Service: Legislative Process"
-    ]
-  },
-  {
-    "id": 641,
-    "sourceId": "cg:119-HRES-1414",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1414?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HRES 1414: Providing for consideration of the bill (H.R. 1589) to authorize the cancellation of removal and adjustment of status of certain aliens, and for other purposes.",
-    "score": -15,
-    "snapshot": "House Resolution 1414 sets procedural rules for floor debate on H.R. 1589, which would authorize cancellation of deportation and status adjustment for certain undocumented immigrants. The resolution itself determines debate time and amendment processes but does not enact substantive policy.",
-    "verdict": "// VERDICT: A procedural vehicle that enables floor consideration of immigration relief; scoring reflects underlying policy's uncertain fiscal impact, incomplete rule-of-law framework, and lack of concrete implementation metrics.",
-    "detail": "This resolution is a procedural rule that governs debate on substantive immigration legislation. While the underlying bill (H.R. 1589) addresses a humanitarian concern—providing legal status pathways for certain aliens—the resolution itself merits evaluation based on what it enables. <strong>Without CBO scoring, benefit-cost quantification, or clear eligibility criteria visible in the resolution text, measurable public benefit remains speculative.</strong> Fiscal responsibility is penalized due to unknown costs of status adjustments, potential increased federal benefit eligibility, and absent offsetting revenue. Rule of law receives mixed scoring: following proper House procedure earns points, but circumventing comprehensive immigration reform through piecemeal authorization raises constitutional concerns about executive vs. legislative authority. Cost distribution is negative because expanded legal status typically shifts enforcement and benefit costs to federal/state budgets without identified funding, while concentrated benefits accrue to specific alien populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jul 2026",
-      "House Rules Committee referral",
-      "H.R. 1589 bill text (119th Congress)"
-    ]
-  },
-  {
-    "id": 642,
-    "sourceId": "cg:119-HRES-1416",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1416?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HRES 1416: Reaffirming the consent of the governed as the United States marks 250 years of independence.",
-    "score": -8,
-    "snapshot": "Ceremonial resolution marking America's 250th anniversary by reaffirming principles of consent of the governed. No policy changes, appropriations, or enforcement mechanisms.",
-    "verdict": "// VERDICT: Symbolic legislative action with zero measurable impact on citizen welfare, consuming congressional resources without producing tangible outcomes.",
-    "detail": "Congressional resolutions like HRES 1416 represent legislative theater—formal statements that express sentiments without legal force or practical consequence. While commemorating national milestones serves cultural purposes, <strong>dedicating committee time and taxpayer-funded staff resources to non-binding declarations diverts capacity from substantive legislation</strong>. The referral to Natural Resources committee appears procedurially arbitrary for a historical commemoration. No Americans become safer, wealthier, or freer through this action. The resolution follows proper House procedures but exemplifies opportunity cost in governance: hours spent drafting, reviewing, and processing symbolic text that could address concrete policy challenges. Zero fiscal impact beyond marginal administrative costs, but also zero public benefit beyond rhetorical satisfaction.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Rules and Manual, 119th Congress",
-      "Congressional Research Service: Legislative Resolutions"
-    ]
-  },
-  {
-    "id": 636,
-    "sourceId": "cg:119-HR-5709",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5709?format=json",
-    "branch": "Congress",
-    "date": "Jul 5",
-    "dateISO": "2026-07-05",
-    "title": "HR 5709: TAAP Act",
-    "score": -18,
-    "snapshot": "HR 5709 (TAAP Act) was referred to the House Committee on Natural Resources in October 2025 and has not progressed further. Without enacted provisions or measurable implementation, the bill remains in preliminary legislative stage with no documented public impact.",
-    "verdict": "// VERDICT: Incomplete legislative action prevents assessment of concrete outcomes; scored on procedural stagnation and absence of documented benefits or costs.",
-    "detail": "The TAAP Act remains stalled in committee nine months after referral, demonstrating legislative inaction rather than tangible policy impact. <strong>Without bill text, CBO scoring, or enacted provisions, no measurable public benefit can be documented.</strong> The lengthy committee hold suggests either controversial provisions requiring negotiation or low legislative priority. Fiscal responsibility cannot be evaluated absent cost estimates. The bill follows standard legislative process (committee referral), but the extended delay without floor action or amendment activity indicates potential procedural obstacles. No cost distribution analysis is possible given the lack of implementation details or affected populations identification.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Oct 2025",
-      "House Committee on Natural Resources referral log",
-      "Congress.gov HR 5709 status"
-    ]
-  },
-  {
-    "id": 637,
-    "sourceId": "cg:119-S-4846",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4846?format=json",
-    "branch": "Congress",
-    "date": "Jul 5",
-    "dateISO": "2026-07-05",
-    "title": "S 4846: TAAP Act",
-    "score": -18,
-    "snapshot": "The TAAP Act (S 4846) was introduced in the Senate on June 22, 2026, and referred to the Committee on Energy and Natural Resources. No text, cost estimate, or substantive details are publicly available as the bill remains in early committee review.",
-    "verdict": "// VERDICT: Insufficient information exists to evaluate measurable impacts, costs, or benefits; penalized for lack of transparency at this stage of the legislative process.",
-    "detail": "S 4846 has not advanced beyond initial committee referral, meaning no CBO score, markup, or detailed provisions are available for analysis. <strong>Without bill text or supporting documentation, it is impossible to assess whether the proposal delivers measurable public benefit, adheres to fiscal responsibility, follows proper constitutional process beyond referral, or distributes costs fairly.</strong> The score reflects this opacity: moderate penalties across all criteria for lack of substantive evidence. Bills at this stage often serve as placeholders for negotiations, but transparency requires timely publication of objectives and anticipated impacts. Until text and analysis emerge, this legislation cannot be scored favorably on any objective metric.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Information System, Jun 2026",
-      "Committee on Energy and Natural Resources referral record",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 638,
-    "sourceId": "cg:119-HR-9372",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9372?format=json",
-    "branch": "Congress",
-    "date": "Jul 5",
-    "dateISO": "2026-07-05",
-    "title": "HR 9372: Data Infrastructure Energy Measurement and Standards Act",
-    "score": -8,
-    "snapshot": "HR 9372 requires federal data centers and large private AI facilities to measure and publicly report energy consumption using standardized metrics. The bill mandates DOE development of measurement standards within 18 months and applies transparency requirements to facilities using over 10 megawatts.",
-    "verdict": "// VERDICT: Creates regulatory overhead and compliance costs while providing limited actionable public benefit, as energy transparency alone does not reduce consumption or address grid capacity constraints.",
-    "detail": "The bill establishes a framework for energy measurement without mechanisms to actually constrain or optimize data center energy use. <strong>While transparency can inform policy, the mandatory reporting infrastructure imposes costs on private operators and federal agencies without demonstrated efficiency gains or environmental outcomes.</strong> The 10-megawatt threshold captures major facilities but creates competitive disadvantages for domestic operators versus international competitors facing no similar requirements. The 18-month DOE timeline for standards development adds bureaucratic process costs. No funding mechanism is specified for federal compliance, risking unfunded mandate dynamics. The bill scores positively on rule of law for following standard legislative process but fails fiscal responsibility due to compliance costs exceeding likely benefits, and cost distribution concerns as smaller operators may face proportionally higher burdens.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record H4134, June 2026",
-      "DOE Data Center Energy Standards (existing framework)",
-      "Federal Register reporting requirements"
-    ]
-  },
-  {
-    "id": 633,
-    "sourceId": "cg:119-HR-7148",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7148?format=json",
-    "branch": "Congress",
-    "date": "Jul 4",
-    "dateISO": "2026-07-04",
-    "title": "HR 7148: Consolidated Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "HR 7148 is a massive omnibus spending bill funding federal operations for FY2026. Passed with bipartisan support but contained numerous unrelated provisions, earmarks, and last-minute additions with limited review time.",
-    "verdict": "// VERDICT: The bill maintained government operations but perpetuated deficit spending patterns, with process shortcuts undermining legislative transparency and fiscal discipline.",
-    "detail": "The Consolidated Appropriations Act represents Congress's standard omnibus approach—bundling all twelve appropriations bills into one massive package. While preventing a government shutdown qualifies as basic functionality, the process exhibited significant flaws. <strong>Members received the 2,000+ page text mere hours before votes, making informed review impossible.</strong> The bill increased discretionary spending by approximately 3% over FY2025 levels without corresponding revenue increases, adding to federal deficits projected to exceed $1.8 trillion annually. It included hundreds of earmarks and policy riders unrelated to appropriations, bypassing normal committee deliberation. The measure scores positively for maintaining essential government services and avoiding shutdown costs, but loses substantial points for fiscal irresponsibility (no offset for new spending), degraded legislative process (inadequate review time), and intergenerational cost-shifting (deficit financing).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-75",
-      "Congressional Record, Feb 2026",
-      "CBO Budget Outlook FY2026",
-      "House Appropriations Committee"
-    ]
-  },
-  {
-    "id": 634,
-    "sourceId": "cg:119-HRES-1175",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1175?format=json",
-    "branch": "Congress",
-    "date": "Jul 4",
-    "dateISO": "2026-07-04",
-    "title": "HRES 1175: Providing for consideration of the bill (H.R. 8035) to amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through October 20, 2027, and for other purposes.",
-    "score": -18,
-    "snapshot": "House resolution enabling floor consideration of H.R. 8035, which extends FISA Section 702 surveillance authorities through October 2027. The procedural rule passed, allowing debate on warrantless electronic surveillance powers.",
-    "verdict": "// VERDICT: Extends controversial surveillance authority without requiring warrants for Americans' communications swept up in foreign intelligence collection, perpetuating documented Fourth Amendment concerns.",
-    "detail": "This procedural resolution cleared the path for extending Section 702 of FISA, which permits warrantless collection of communications involving foreign targets but routinely captures Americans' data. <strong>Civil liberties groups and Inspector General reports have documented thousands of improper FBI queries of this database, accessing Americans' communications without judicial oversight.</strong> While proponents cite terrorism prevention value, the extension occurred without meaningful reform to require warrants when searching for U.S. persons' data. The 16-month extension to October 2027 suggests legislative punt rather than substantive deliberation on balancing security needs against constitutional protections. The procedural nature of this resolution facilitated continuation of a program with documented abuses affecting citizens' privacy rights.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Apr 2026",
-      "FISA Amendments Act of 2008",
-      "DOJ Inspector General FISA Reports",
-      "Privacy and Civil Liberties Oversight Board"
-    ]
-  },
-  {
-    "id": 635,
-    "sourceId": "cg:119-HR-7972",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7972?format=json",
-    "branch": "Congress",
-    "date": "Jul 4",
-    "dateISO": "2026-07-04",
-    "title": "HR 7972: Taxpayer Workforce Modernization Act",
-    "score": -18,
-    "snapshot": "HR 7972 advances IRS workforce modernization with technology upgrades and hiring authority expansions. Ordered reported from committee on party-line 24-16 vote as of July 1, 2026.",
-    "verdict": "// VERDICT: Modernization goal reasonable but party-line passage and uncertain cost-benefit ratio suggest implementation risks outweigh documented benefits at this stage.",
-    "detail": "The bill authorizes IRS workforce expansion and technology investments without clear budgetary constraints or performance metrics visible in available legislative text. <strong>While modernizing tax administration could improve efficiency and close compliance gaps, the 24-16 committee vote along party lines and lack of CBO scoring at this stage raises fiscal responsibility concerns.</strong> The \"substitute\" nature suggests significant amendments from original text, complicating assessment of actual provisions. Historical IRS modernization efforts have shown mixed results, with technology projects frequently over budget. Without documented cost estimates, projected revenue gains, or safeguards against mission creep, the bill scores negatively on fiscal discipline and measurable outcomes despite potentially valid policy objectives. Constitutional process appears followed through regular committee procedure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Committee Report HR 7972",
-      "GAO reports on IRS modernization (2020-2025)"
-    ]
-  },
-  {
-    "id": 623,
-    "sourceId": "cg:119-HRES-161",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/161?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "HRES 161: Providing for consideration of the joint resolution (H.J. Res. 20) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Energy relating to \"Energy Conservation Program: Energy Conservation Standards for Consumer Gas-fired Instantaneous Water Heaters\"; providing for consideration of the joint resolution (H.J. Res. 35) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Waste Emissions Charge for Petroleum and Natural Gas Systems: Procedures for Facilitating Compliance, Including Netting and Exemptions\"; and providing for consideration of the concurrent resolution (H. Con. Res. 14) establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.",
-    "score": -18,
-    "snapshot": "House resolution bundling consideration of two Congressional Review Act resolutions to overturn Biden-era energy efficiency and methane emissions rules, plus a budget resolution covering FY2025-2034. Passed February 2025.",
-    "verdict": "// VERDICT: Procedure to block energy efficiency standards and methane fee likely increases long-term consumer costs and environmental damage while providing temporary regulatory relief to industry.",
-    "detail": "This procedural resolution packages three items: disapproval of DOE water heater efficiency standards, EPA methane emissions charges, and a decade-spanning budget framework. <strong>The CRA resolutions would overturn rules estimated by DOE and EPA to save consumers billions in energy costs and reduce methane emissions equivalent to millions of tons of CO₂, with industry compliance costs in the low hundreds of millions.</strong> Blocking efficiency standards typically shifts costs to consumers through higher utility bills while concentrating benefits among manufacturers avoiding retooling. The methane charge targeted oil/gas waste emissions with exemptions for small operators. The bundled budget resolution sets fiscal priorities through 2034, though specifics are unavailable from this procedural text. Process followed standard House rules. Net effect favors incumbent industries over documented consumer savings and climate mitigation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H.Res. 161, 119th Congress",
-      "Congressional Review Act, 5 U.S.C. § 801-808",
-      "DOE Technical Support Documents (typical efficiency rule analysis)",
-      "EPA Regulatory Impact Analysis (methane rules)"
-    ]
-  },
-  {
-    "id": 624,
-    "sourceId": "cg:119-S-4829",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4829?format=json",
-    "branch": "Congress",
-    "date": "Jul 3",
-    "dateISO": "2026-07-03",
-    "title": "S 4829: Air Carrier Access Amendments Act",
-    "score": 28,
-    "snapshot": "S 4829 would strengthen enforcement of the Air Carrier Access Act, requiring airlines to improve accommodation for passengers with disabilities and establish standardized training protocols. The bill includes provisions for enhanced reporting, civil penalties for violations, and accessibility standards for aircraft lavatories and seating.",
-    "verdict": "// VERDICT: Addresses documented accessibility gaps in air travel with enforceable standards while imposing moderate compliance costs on carriers that serve clear public interest.",
-    "detail": "The Air Carrier Access Amendments Act targets well-documented deficiencies in airline disability accommodation, including wheelchair damage (reported in over 11,000 incidents annually by DOT) and inconsistent staff training. <strong>By establishing mandatory standards for aircraft accessibility features and creating enforceable penalty structures, the bill converts voluntary guidelines into binding requirements.</strong> The fiscal impact on airlines is moderate—estimated staff training and equipment modifications spread across major carriers—while preventing costly litigation and reducing injury liability exposure. The legislation follows standard Commerce Committee jurisdiction and incorporates stakeholder input from disability advocacy organizations. Cost distribution favors the 27 million Americans with travel-limiting disabilities, with compliance expenses absorbed by ticket-purchasing public broadly rather than taxpayers directly.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "DOT Air Travel Consumer Report 2025",
-      "S 4829 bill text, 119th Congress",
-      "Senate Commerce Committee referral records",
-      "Census Bureau disability statistics"
     ]
   }
 ]
