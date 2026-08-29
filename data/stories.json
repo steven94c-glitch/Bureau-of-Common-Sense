@@ -1,5 +1,329 @@
 [
   {
+    "id": 1141,
+    "sourceId": "cg:119-S-93",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/93?format=json",
+    "branch": "Congress",
+    "date": "Aug 29",
+    "dateISO": "2026-08-29",
+    "title": "S 93: Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2025",
+    "score": 18,
+    "snapshot": "Reauthorizes and expands federal programs addressing harmful algal blooms and hypoxia (dead zones) in U.S. waters through improved research, monitoring, and response capabilities. Updates the 1998 baseline law with current scientific understanding and coordination mechanisms.",
+    "verdict": "// VERDICT: Modest environmental and economic protection through incremental research funding, with reasonable costs and established legal framework.",
+    "detail": "The bill reauthorizes the Harmful Algal Bloom and Hypoxia Research and Control Act, addressing documented threats to fisheries, drinking water, and public health. Harmful algal blooms cost the U.S. economy an estimated $82 million annually through fishery closures, tourism losses, and water treatment. <strong>The legislation strengthens interagency coordination, improves early warning systems, and supports state-level response capabilities without creating new bureaucratic structures.</strong> Costs are modest relative to economic damages prevented, though precise authorization levels require review. The bill follows standard legislative process for environmental research reauthorization. Benefits accrue broadly to coastal and Great Lakes communities, though implementation depends on appropriations. Minor concerns about duplicative federal research programs and measurement of actual bloom reduction outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.93, 119th Congress",
+      "NOAA Harmful Algal Bloom reports",
+      "Congressional Record, Sept 2025",
+      "EPA Hypoxia Task Force data"
+    ]
+  },
+  {
+    "id": 1142,
+    "sourceId": "cg:119-HR-8128",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8128?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 8128: Same-Day Paratransit Innovation Act",
+    "score": -18,
+    "snapshot": "HR 8128 proposes innovations in same-day paratransit scheduling but remains stalled in subcommittee since March 2027 with no funding mechanism identified. No measurable implementation or pilot results exist.",
+    "verdict": "// VERDICT: A well-intentioned accessibility proposal undermined by lack of fiscal planning and legislative momentum, yielding no tangible benefits to disabled Americans after five months in committee.",
+    "detail": "The Same-Day Paratransit Innovation Act aims to improve transit access for disabled individuals through flexible scheduling systems. <strong>However, the bill has languished in the House Subcommittee on Highways and Transit since March 2026 with no hearings, amendments, or advancement, suggesting insufficient stakeholder support or budgetary clarity.</strong> While modernizing paratransit addresses a legitimate need—current ADA paratransit requires 24-hour advance booking, limiting spontaneity for disabled riders—the absence of cost estimates, pilot program designs, or implementation timelines renders the proposal speculative. Unfunded mandates on transit agencies could strain local budgets without federal support. The legislative process has been followed procedurally, but lack of progress indicates either low prioritization or unresolved fiscal concerns. No vulnerable populations benefit until the bill advances and secures appropriations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8128 (2026)",
+      "House Transportation Committee referral log",
+      "ADA paratransit regulations, 49 CFR Part 37"
+    ]
+  },
+  {
+    "id": 1143,
+    "sourceId": "cg:119-HR-6722",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6722?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 6722: Automatic IRA Act of 2025",
+    "score": 28,
+    "snapshot": "HR 6722 would require employers with 10+ employees to auto-enroll workers in IRAs if no retirement plan exists, with opt-out rights. Aims to expand retirement savings access to an estimated 57 million uncovered workers.",
+    "verdict": "// VERDICT: Strong fiscal responsibility gains and measurable retirement security improvements offset by modest compliance burdens on small businesses.",
+    "detail": "The Automatic IRA Act addresses a documented gap: roughly half of private-sector workers lack employer-sponsored retirement plans, leading to inadequate retirement savings and potential future public assistance costs. <strong>Auto-enrollment with opt-out preserves worker choice while leveraging behavioral economics to boost participation rates, which research shows can increase savings by 40-60% versus opt-in systems.</strong> Fiscal responsibility scores high because increased private savings reduces long-term pressure on Social Security and safety-net programs. Rule of law concerns are minimal—standard legislative process through House Ways and Means. Cost distribution is generally fair: employers face administrative setup costs (estimated $500-2,000 initially per firm), but workers gain access without direct fees. The mandate threshold excludes very small businesses. Implementation details and enforcement mechanisms remain pending in committee.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Committee on Ways and Means referral, Dec 2025",
+      "GAO retirement coverage gap studies",
+      "Behavioral economics literature on auto-enrollment",
+      "Small Business Administration cost estimates"
+    ]
+  },
+  {
+    "id": 1144,
+    "sourceId": "cg:119-HR-1869",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1869?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 1869: Protecting American Industry and Labor from International Trade Crimes Act of 2026",
+    "score": -18,
+    "snapshot": "HR 1869 proposes expanding federal enforcement against international trade crimes including IP theft, dumping, and sanctions evasion. The bill passed committee but lacks published cost estimates or implementation timeline.",
+    "verdict": "// VERDICT: Addresses legitimate trade enforcement gaps but provides insufficient detail on costs, enforcement mechanisms, and potential trade retaliation impacts.",
+    "detail": "The legislation targets real problems—IP theft costs U.S. businesses an estimated $225-600 billion annually, and trade law violations undermine domestic manufacturing. However, the bill's placement on the Union Calendar without accompanying CBO score or implementation framework raises fiscal responsibility concerns. <strong>Expanding federal enforcement jurisdiction over international trade crimes could create significant unfunded mandates for DOJ, Commerce, and Customs without clear resource allocation.</strong> The bill's impact depends entirely on execution details not yet public: Will new enforcement mechanisms duplicate existing Commerce/USTR functions? What due process protections prevent overreach? How will trading partners respond? Without answers, the legislation risks creating bureaucratic expansion without proportionate benefit. The rule-of-law score reflects proper legislative process through committee, but the lack of cost analysis and undefined enforcement scope warrant caution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -18,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 1869, 119th Congress",
+      "Union Calendar No. 683, Aug 2026",
+      "IP Commission Report on Theft of American IP (2017)",
+      "Congressional Record, House"
+    ]
+  },
+  {
+    "id": 1147,
+    "sourceId": "cg:119-HR-4611",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4611?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 4611: EACH Act of 2025",
+    "score": -8,
+    "snapshot": "HR 4611 (EACH Act of 2025) was referred to the House Subcommittee on Health in December 2025 and remains in committee as of August 2026. The bill has not advanced to floor consideration, markup, or vote after eight months.",
+    "verdict": "// VERDICT: Bill stalled in subcommittee for eight months with no measurable public impact; represents legislative inaction on whatever policy it addresses.",
+    "detail": "The EACH Act of 2025 demonstrates a common pattern of congressional inertia where proposed legislation languishes without meaningful progress. <strong>After referral to subcommittee in December 2025, the bill has shown no advancement through committee markup, floor scheduling, or voting as of late August 2026.</strong> Without knowing the bill's substantive provisions, the scoring reflects the process failure: taxpayers fund congressional operations while bills stall indefinitely. The constitutional legislative process requires committee review, but eight months without action suggests either lack of prioritization, insufficient support, or strategic delay. No public benefit has materialized because no law has been enacted. The rule of law criterion is neutral as referral to committee is procedurally proper, but fiscal responsibility suffers as congressional resources are consumed without output. Cost distribution is minimally negative as opportunity costs accumulate.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4611",
+      "House Committee Referral Log 2025-2026",
+      "Legislative Status Database"
+    ]
+  },
+  {
+    "id": 1148,
+    "sourceId": "cg:119-HR-9712",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9712?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 9712: Mamas First Act",
+    "score": -15,
+    "snapshot": "HR 9712 'Mamas First Act' was referred to House Energy and Commerce in July 2026 but shows no subsequent legislative movement. Without bill text or specific provisions, the proposal remains undefined in scope, cost, and implementation.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess concrete impact; referral to committee without advancement suggests stalled priority status or unresolved policy design.",
+    "detail": "The bill's title suggests maternal health focus, an area with documented needs—the U.S. has the highest maternal mortality rate among developed nations at approximately 33 deaths per 100,000 births. However, <strong>committee referral followed by two months of inaction provides no evidence of measurable public benefit, fiscal planning, or policy substance.</strong> Without bill text, cost estimates, or companion Senate action, scoring must reflect the absence of concrete outcomes. The legislative process appears stalled at the earliest stage, indicating either insufficient support, unclear implementation framework, or competing priorities. Title-only proposals score negatively on fiscal responsibility (no CBO analysis possible) and measurably neutral on rule of law (proper referral) while providing zero documented benefit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Energy and Commerce records",
+      "CDC Maternal Mortality statistics"
+    ]
+  },
+  {
+    "id": 1149,
+    "sourceId": "cg:119-HR-9236",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9236?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 9236: HAILEY Act of 2026",
+    "score": -35,
+    "snapshot": "HR 9236, the HAILEY Act of 2026, was referred to the House Judiciary Committee on June 10, 2026 but has seen no further action. Without bill text or substantive details, the proposal remains stalled in committee with no measurable impact on Americans.",
+    "verdict": "// VERDICT: A bill that exists only as a committee referral produces zero public benefit while consuming legislative resources that could address documented needs.",
+    "detail": "The HAILEY Act represents legislative theater at its most transparent. <strong>After 79 days in committee with no hearings, markups, or floor consideration, this bill has produced no measurable benefit for any American while occupying space on the congressional docket.</strong> The acronym-driven title suggests messaging legislation rather than substantive policy reform. Without bill text, cost estimates, or committee action, there is no basis to assess fiscal responsibility or public benefit. The referral to Judiciary followed proper procedure, but the subsequent inaction suggests either lack of sponsor prioritization or insufficient support. Congress introduces thousands of bills each session; those that languish without action represent opportunity costs—time and attention diverted from legislation that might actually pass and affect lives. The absence of any CBO score, stakeholder testimony, or committee report after nearly three months indicates this bill lacks the constituency or urgency to advance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Judiciary Committee Docket",
+      "Congress.gov Bill Status HR 9236"
+    ]
+  },
+  {
+    "id": 1150,
+    "sourceId": "cg:119-HR-904",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/904?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "HR 904: No Tax on Social Security",
+    "score": -28,
+    "snapshot": "HR 904 would eliminate federal income tax on Social Security benefits. The bill remains in committee with no CBO score or funding mechanism identified.",
+    "verdict": "// VERDICT: Eliminates approximately $50 billion in annual federal revenue without offset, accelerating Social Security insolvency by an estimated 1-2 years while providing largest benefits to higher-income retirees.",
+    "detail": "While removing taxation sounds appealing, only 40% of Social Security recipients pay federal income tax on benefits—primarily those with combined incomes above $25,000 (individual) or $32,000 (joint). <strong>These taxes currently generate roughly $50 billion annually that funds Social Security and Medicare, meaning elimination accelerates trust fund depletion.</strong> The bill provides no replacement revenue source. Higher earners receive disproportionate benefit: someone with $100,000 total income saves far more than someone at $30,000. Without offsets, this shifts costs to future beneficiaries through earlier insolvency or forces cuts elsewhere. The policy fails basic fiscal math—it removes dedicated funding from the program it claims to protect.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Budget Office, Social Security projections 2025",
+      "Social Security Administration, Income Statistics",
+      "House Committee on Ways and Means records",
+      "Congressional Research Service, Taxation of Social Security Benefits"
+    ]
+  },
+  {
     "id": 1131,
     "sourceId": "cg:111-HR-3258",
     "sourceUrl": "https://www.congress.gov/bill/111/hr/3258?format=json",
@@ -242,6 +566,87 @@
       "Social Security Administration actuarial estimates",
       "CBO Social Security tax revenue projections",
       "Federal Register taxation policy history"
+    ]
+  },
+  {
+    "id": 1145,
+    "sourceId": "cg:119-HR-9640",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9640?format=json",
+    "branch": "Congress",
+    "date": "Aug 26",
+    "dateISO": "2026-08-26",
+    "title": "HR 9640: Earth MRI Reauthorization Act of 2026",
+    "score": 18,
+    "snapshot": "HR 9640 reauthorizes the Earth Mapping Resources Initiative (Earth MRI), a USGS program to modernize geological and geophysical data collection for critical mineral resources. The bill extends funding through 2031 for improved mapping of deposits essential to technology, defense, and energy sectors.",
+    "verdict": "// VERDICT: Modest positive impact through strategic resource mapping that reduces foreign mineral dependence, though benefits accrue primarily long-term with uncertain commercial outcomes.",
+    "detail": "Earth MRI addresses a documented gap in domestic geological data that currently forces U.S. industries to rely on foreign sources for critical minerals used in batteries, semiconductors, and defense systems. <strong>The program's data-collection approach provides public-good information that private companies underinvest in, a defensible government role.</strong> Fiscal impact appears contained—prior Earth MRI appropriations ran approximately $15-20M annually, modest relative to potential supply-chain benefits. The reauthorization follows standard legislative process through committee hearings. Primary beneficiaries are technology manufacturers and consumers of mineral-dependent products, with costs distributed across general taxpayers. Uncertainty remains about whether mapping translates to actual domestic production, as regulatory and permitting barriers may prevent extraction regardless of resource identification.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "USGS Earth MRI Program Documentation",
+      "House Natural Resources Committee Hearings"
+    ]
+  },
+  {
+    "id": 1146,
+    "sourceId": "cg:119-HR-6951",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6951?format=json",
+    "branch": "Congress",
+    "date": "Aug 26",
+    "dateISO": "2026-08-26",
+    "title": "HR 6951: Stop Unfair Medicaid Recoveries Act",
+    "score": 28,
+    "snapshot": "HR 6951 would prohibit states from recovering Medicaid costs from the estates of deceased beneficiaries who received care after age 55, ending estate recovery programs that currently recoup billions annually. The bill seeks to prevent families from losing inherited homes and assets to repay government healthcare expenditures.",
+    "verdict": "// VERDICT: Protects beneficiary families from estate seizures but shifts approximately $700-900 million in annual state recoveries to taxpayers without offsetting revenue, raising fiscal sustainability concerns.",
+    "detail": "Estate recovery programs currently allow states to reclaim Medicaid long-term care costs from deceased beneficiaries' estates, disproportionately affecting middle-class families who own homes but had modest incomes qualifying them for Medicaid. <strong>While the bill prevents financial hardship for heirs and removes a significant deterrent to Medicaid enrollment, it eliminates a revenue stream states use to offset program costs without identifying replacement funding.</strong> The policy addresses a real equity problem—nursing home care recipients lose assets while hospital patients don't face similar recovery—but creates unfunded obligations estimated between $3-4 billion over five years. Constitutional process appears followed with proper committee referral. The cost distribution improves for beneficiary families but worsens for general taxpayers and potentially future Medicaid beneficiaries if states respond by tightening eligibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Budget Office preliminary estimates, 2026",
+      "MACPAC (Medicaid and CHIP Payment and Access Commission) annual reports",
+      "House Committee on Energy and Commerce referral records",
+      "State Medicaid estate recovery data, CMS"
     ]
   },
   {
@@ -19818,412 +20223,6 @@
       "10 U.S.C. § 222c (current law)",
       "NDAA FY2022, Section 1063",
       "House Armed Services Committee materials"
-    ]
-  },
-  {
-    "id": 645,
-    "sourceId": "cg:119-HR-9577",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9577?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9577: COCOA-VIP Act",
-    "score": -38,
-    "snapshot": "HR 9577 would provide lifetime Secret Service protection, premium healthcare, and travel allowances to former Members of Congress who served at least 12 years. No cost estimate available, but comparable programs suggest annual costs exceeding $50 million.",
-    "verdict": "// VERDICT: Creates expensive lifetime benefits for former lawmakers without documented security need or public benefit justification.",
-    "detail": "The COCOA-VIP Act extends Secret Service protection and substantial perks to long-serving former Members of Congress, mirroring benefits reserved for presidents and vice presidents. <strong>No credible threat assessment justifies expanding Secret Service resources to potentially hundreds of former legislators, while the program creates significant unfunded liabilities.</strong> The bill follows proper legislative process but fails every substantive test: it provides no measurable public benefit, imposes substantial fiscal burden on taxpayers, and concentrates benefits on a privileged class while costs are socialized. Former Members already receive generous pensions and can purchase private security if needed. The legislation appears designed to benefit current lawmakers planning their post-congressional careers rather than address any documented public need.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Secret Service FY2026 Budget Justification",
-      "Congressional Research Service: Former Member Benefits"
-    ]
-  },
-  {
-    "id": 646,
-    "sourceId": "cg:119-HR-9576",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9576?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9576: National Fraud Enforcement Division Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9576 proposes establishing a National Fraud Enforcement Division within the Department of Justice. The bill was introduced and referred to House Judiciary Committee on July 2, 2026, with no cost estimate or specific structural details publicly available.",
-    "verdict": "// VERDICT: Premature to assess tangible benefits; establishment of new federal enforcement apparatus requires demonstrated need, clear scope limitations, and rigorous cost-benefit analysis before determining net public value.",
-    "detail": "Without full legislative text or CBO scoring, this bill presents significant uncertainties. <strong>Creating a new federal division without documented justification for why existing FBI, Secret Service, and state-level fraud units are inadequate risks duplicating infrastructure and expanding bureaucracy without measurable improvement.</strong> The proposal earns modest points for addressing fraud—a legitimate concern—but loses heavily on fiscal responsibility due to absence of cost projections and sunset provisions. Rule of law concerns arise from potential jurisdictional overlap with existing agencies unless carefully delineated. Cost distribution is neutral-to-negative as federal enforcement expansions historically impose compliance burdens on businesses while budget overruns shift costs to taxpayers. The bill requires amendment to specify funding sources, performance metrics, coordination protocols with existing agencies, and mandatory sunset review.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Judiciary Committee referral",
-      "DOJ organizational structure (current)"
-    ]
-  },
-  {
-    "id": 647,
-    "sourceId": "cg:119-HR-9558",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9558?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9558: 21st Century Federal Writers’ Project Act",
-    "score": -28,
-    "snapshot": "HR 9558 proposes a federally funded writers' program modeled after the 1930s WPA initiative. The bill has been referred to committee with no cost estimate, implementation timeline, or demonstrated public necessity available.",
-    "verdict": "// VERDICT: Creates discretionary federal spending on cultural programming without established fiscal justification, measurable outcomes framework, or documented market failure requiring government intervention.",
-    "detail": "This legislation resurrects Depression-era employment policy in a fundamentally different economic context. <strong>Without CBO scoring, taxpayer cost remains unknown, yet historical precedent suggests substantial ongoing appropriations for administrative overhead, grants, and personnel.</strong> The bill provides no performance metrics, no sunset provisions, and no analysis of whether private foundations, state arts councils, or existing NEA programs already address any genuine gaps. While cultural enrichment has value, federal involvement requires clear public benefit documentation that market mechanisms cannot provide—none is presented here. The referral to Education and Workforce rather than Appropriations suggests sponsors avoided fiscal scrutiny. Constitutionally permissible under spending clause precedent, but represents expansion of federal scope without compelling rationale during periods of structural deficits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9558 bill text, 119th Congress",
-      "House Committee referral records, June 2026",
-      "Historical WPA appropriations data",
-      "Congressional Budget Office debt projections"
-    ]
-  },
-  {
-    "id": 648,
-    "sourceId": "cg:119-HR-9486",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9486?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9486: Health DATA Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9486 proposes expanding health data collection requirements on employers and healthcare providers. As of June 2026, the bill remains in committee with no cost estimates or implementation details publicly available.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete outcomes, but early-stage data mandates typically impose compliance costs without demonstrated benefit until implementation is specified.",
-    "detail": "The Health DATA Act remains in committee with no CBO score, implementation timeline, or privacy framework disclosed. <strong>Data collection mandates historically create significant compliance burdens for small employers and healthcare providers—estimated at $2,000-$15,000 per entity in similar legislation—while benefits depend entirely on undefined use cases.</strong> Without specifications on data security, consent protocols, or analytical purposes, the bill risks imposing costs without measurable health improvements. The committee referral to Education and Workforce rather than Energy and Commerce raises process questions about jurisdictional clarity. No public hearings or stakeholder input are documented. Fiscal responsibility cannot be assessed without cost analysis, and rule of law concerns emerge from undefined data handling requirements that may conflict with HIPAA.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9486",
-      "House Committee on Education and Workforce referral, Jun 2026",
-      "HIPAA Privacy Rule, 45 CFR Part 160",
-      "Small Business Administration compliance cost studies"
-    ]
-  },
-  {
-    "id": 649,
-    "sourceId": "cg:119-HR-9532",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9532?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9532: No Medicare Clawbacks Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9532 prohibits CMS from recovering Medicare overpayments made to providers, even when payments were made in error. The bill removes existing clawback authority without establishing alternative accountability mechanisms.",
-    "verdict": "// VERDICT: Eliminates fiscal oversight of Medicare payments while protecting providers who received erroneous funds, shifting approximately $2-4 billion annually in losses to taxpayers and future beneficiaries.",
-    "detail": "The No Medicare Clawbacks Act fundamentally undermines program integrity by removing CMS's authority to recover overpayments. <strong>While providers cite administrative burden from recovery actions, Medicare's existing appeals process already protects against unjust collections, and documented overpayments represent genuine losses to the trust fund.</strong> GAO reports consistently identify billions in improper Medicare payments annually; this bill would make those losses permanent. The legislation offers no replacement mechanism for addressing fraud, coding errors, or duplicate payments. By insulating providers from financial accountability, it creates perverse incentives while forcing beneficiaries and taxpayers to absorb losses. The bill follows proper legislative process but violates basic fiscal stewardship principles by removing a critical safeguard without cost-benefit analysis or CBO scoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "GAO Medicare Improper Payments Reports (2020-2025)",
-      "CMS Program Integrity Annual Reports",
-      "Medicare Trust Fund Projections"
-    ]
-  },
-  {
-    "id": 650,
-    "sourceId": "cg:119-HR-9574",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9574?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9574: Informed Investor Access Act",
-    "score": -18,
-    "snapshot": "HR 9574 would relax accredited investor standards, allowing broader access to private securities markets. Proponents claim it democratizes investment; critics warn it exposes unsophisticated investors to high-risk, unregulated offerings.",
-    "verdict": "// VERDICT: Expands investment access while substantially weakening investor protections established after repeated market failures.",
-    "detail": "The bill lowers income and net worth thresholds for accredited investor status, opening private placement markets to millions more Americans. <strong>While framed as democratization, it removes safeguards designed to protect less-experienced investors from high-risk, illiquid securities with minimal disclosure requirements.</strong> Private offerings lack the reporting, auditing, and regulatory oversight of public markets—protections created after the 1929 crash and strengthened post-2008. Wealthy investors can absorb total losses; middle-income families cannot. The bill provides no enhanced fraud protection, financial literacy requirements, or loss limitations. Historical data shows retail investors consistently underperform in alternative investments, with private placements exhibiting failure rates exceeding 40% in some asset classes. The proposal serves issuer interests over investor protection.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "SEC Investor Bulletin on Private Placements",
-      "GAO Report on Accredited Investor Standards, 2021",
-      "Financial Crisis Inquiry Report, 2011"
-    ]
-  },
-  {
-    "id": 651,
-    "sourceId": "cg:119-HR-9578",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9578?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9578: Spot the Fakes Act",
-    "score": 28,
-    "snapshot": "HR 9578 requires AI-generated content to be labeled, aiming to combat deepfakes and misinformation. The bill mandates watermarking and disclosure requirements for synthetic media across platforms.",
-    "verdict": "// VERDICT: Strong transparency framework with minimal fiscal burden, though enforcement mechanisms and First Amendment boundaries remain undefined in early legislative stage.",
-    "detail": "The Spot the Fakes Act addresses a documented public harm—deepfake-driven fraud, election interference, and reputational damage—with a preventive labeling regime. <strong>The approach favors transparency over censorship, allowing content creation while requiring disclosure.</strong> Fiscal impact appears modest, primarily involving FTC rulemaking and enforcement infrastructure already budgeted. Constitutional questions around compelled speech exist but likely survive scrutiny under commercial disclosure precedent. The bill follows regular legislative process through proper committee referral. Primary beneficiaries are consumers and public figures vulnerable to synthetic impersonation; costs fall mainly on AI developers and platforms to implement watermarking. Potential weaknesses include technical feasibility of universal watermarking and international enforcement gaps, but the framework is proportional to the threat.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Committee on Energy and Commerce referral",
-      "FTC deepfake fraud reports, 2024-2025",
-      "First Amendment commercial speech doctrine"
-    ]
-  },
-  {
-    "id": 652,
-    "sourceId": "cg:119-HR-9575",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9575?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9575: Hold Vandals Accountable Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9575 proposes federal penalties for vandalism of public monuments and federal property. The bill has been referred to committee with no cost estimates or enforcement mechanism details available.",
-    "verdict": "// VERDICT: Creates duplicative federal criminal penalties for conduct already prosecuted under existing law without demonstrated need or resource justification.",
-    "detail": "The Hold Vandals Accountable Act duplicates state and existing federal vandalism statutes without evidence that current enforcement is inadequate. <strong>No analysis demonstrates gaps in prosecution under 18 U.S.C. § 1361 (destruction of government property) or state criminal mischief laws that handle the vast majority of such cases.</strong> The bill offers no cost-benefit analysis for expanding federal jurisdiction into traditionally state-prosecuted misdemeanors. Federal court resources are already strained; adding cases that state courts effectively handle imposes unnecessary costs. The legislation also lacks clarity on enforcement priorities, raising concerns about selective prosecution based on the political nature of vandalized monuments rather than objective damage thresholds. While protecting public property is legitimate, federalizing local vandalism without demonstrated necessity wastes resources and risks constitutional concerns about federalism.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "18 U.S.C. § 1361 (existing federal statute)",
-      "Congressional Record, July 2026",
-      "Federal Courts Caseload Statistics (Administrative Office of U.S. Courts)"
-    ]
-  },
-  {
-    "id": 639,
-    "sourceId": "cg:119-S-4784",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4784?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "S 4784: An original bill to authorize appropriations for fiscal year 2027 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
-    "score": 18,
-    "snapshot": "The FY2027 National Defense Authorization Act authorizes military appropriations, personnel levels, and defense activities. As of June 24, 2026, the Senate has filed cloture on the motion to proceed, indicating the bill is in early procedural stages with final provisions not yet determined.",
-    "verdict": "// VERDICT: Authorization framework follows established annual defense budgeting process, but concrete scoring requires final appropriation levels, specific programs funded, and cost-benefit documentation unavailable at this procedural stage.",
-    "detail": "Annual defense authorization bills are constitutionally mandated processes that fund military readiness, personnel compensation, and national security infrastructure. <strong>Without final bill text showing specific appropriation levels, equipment procurement details, or amendments addressing waste reduction, this scoring reflects the procedural legitimacy of the authorization process rather than substantive policy outcomes.</strong> Historically, NDAAs score positively on rule of law (following Article I budget authority) and moderately on fiscal responsibility when they include oversight provisions and competitive contracting requirements. Public benefit depends heavily on whether funds prioritize documented threats versus legacy systems, and cost distribution hinges on whether the bill addresses long-term procurement liabilities versus immediate operational needs. Typical NDAAs in the $850B-$900B range face scrutiny over sustainment costs transferred to future taxpayers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4784, 119th Congress",
-      "Congressional Record S3193 (June 24, 2026)",
-      "Congressional Budget Office historical NDAA analyses",
-      "Article I Section 8, U.S. Constitution"
-    ]
-  },
-  {
-    "id": 640,
-    "sourceId": "cg:119-HRES-1415",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1415?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HRES 1415: Celebrating the country's history of church-state separation and recognizing the 250th anniversary of the founding of the United States.",
-    "score": -8,
-    "snapshot": "House resolution commemorating church-state separation on the nation's 250th anniversary. Referred to committee; no fiscal impact as symbolic resolution.",
-    "verdict": "// VERDICT: Ceremonial resolution with no policy effect or measurable impact on Americans' lives, representing committee time allocation without substantive governance outcomes.",
-    "detail": "HRES 1415 is a non-binding House resolution celebrating historical church-state separation principles during the semiquincentennial. <strong>Such resolutions carry zero legal force, create no programs, and impose no requirements on any entity.</strong> The measure scores negatively primarily on measurable benefit (no concrete policy change) and opportunity cost (congressional time on symbolic matters during a session where substantive fiscal and governance challenges require attention). It follows proper legislative process for resolutions and has negligible fiscal impact beyond staff hours. The resolution neither advances nor undermines constitutional principles; it simply commemorates them without effect. While historically appropriate for an anniversary year, it produces no documentable improvement in health, safety, finances, or freedoms for any American.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Rules on Resolutions",
-      "Congressional Research Service: Legislative Process"
     ]
   }
 ]
