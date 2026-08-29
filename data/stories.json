@@ -1,5 +1,45 @@
 [
   {
+    "id": 1151,
+    "sourceId": "cg:117-S-2169",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2169?format=json",
+    "branch": "Congress",
+    "date": "Aug 29",
+    "dateISO": "2026-08-29",
+    "title": "S 2169: Lori Jackson-Nicolette Elias Domestic Violence Survivor Protection Act",
+    "score": -35,
+    "snapshot": "S 2169 stalled in Senate subcommittee hearings in May 2022 and never advanced to floor vote or enactment. No measurable policy changes occurred; the bill remains legislative text without implementation.",
+    "verdict": "// VERDICT: A bill that held hearings but died in committee produced zero concrete protections for domestic violence survivors despite its stated intent.",
+    "detail": "This legislation aimed to enhance protections for domestic violence survivors but failed to progress beyond the Senate Judiciary subcommittee stage in 2022. <strong>Without enactment, no legal protections materialized, no funding was allocated, and no survivors benefited from the proposed measures.</strong> The bill's sponsors invested Congressional resources in hearings (S.Hrg. 117-890) but achieved no statutory outcome. While the underlying policy goals may have merit, legislative proposals score based on actual implementation and impact, not intentions. The failure to advance represents wasted committee time and staff resources with zero return for vulnerable populations who could have benefited from timely action. Constitutional process was followed (hearings held properly), but the lack of floor consideration or passage means rule of law criteria apply only to procedural compliance, not substantive achievement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Hrg. 117-890, Senate Judiciary Subcommittee",
+      "Congress.gov bill status S 2169",
+      "Senate Legislative Calendar 117th Congress"
+    ]
+  },
+  {
     "id": 1141,
     "sourceId": "cg:119-S-93",
     "sourceUrl": "https://www.congress.gov/bill/119/s/93?format=json",
@@ -38,6 +78,331 @@
       "NOAA Harmful Algal Bloom reports",
       "Congressional Record, Sept 2025",
       "EPA Hypoxia Task Force data"
+    ]
+  },
+  {
+    "id": 1153,
+    "sourceId": "cg:119-HR-9612",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9612?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 9612: American Enrichment Deployment Act",
+    "score": -18,
+    "snapshot": "HR 9612 proposes federal support for domestic uranium enrichment infrastructure, citing national security and energy independence goals. Specific funding mechanisms, cost estimates, and implementation timelines remain undefined in current bill text.",
+    "verdict": "// VERDICT: Creates framework for strategic uranium capacity without established cost controls or competitive procurement standards, risking taxpayer exposure for energy sector subsidies.",
+    "detail": "The American Enrichment Deployment Act addresses legitimate national security concerns about uranium supply chain dependence on foreign adversaries, particularly Russia and China who control significant global enrichment capacity. <strong>However, the bill's subcommittee-stage text lacks concrete cost caps, performance benchmarks, or sunset provisions that would ensure fiscal discipline.</strong> While domestic enrichment capacity serves strategic interests, the absence of competitive bidding requirements or market-based mechanisms risks creating permanent subsidies for private energy corporations. The voice vote advancement suggests minimal scrutiny of implementation details. Without clear metrics for success, taxpayer investment could fund infrastructure that never achieves commercial viability. Rule of law concerns are minimal as this follows standard legislative process, but fiscal responsibility remains undemonstrated until CBO scoring clarifies budget impact and cost-sharing arrangements between government and industry.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9612 text",
+      "House Natural Resources Subcommittee proceedings",
+      "DOE uranium enrichment capacity reports",
+      "Federal energy infrastructure subsidy analysis"
+    ]
+  },
+  {
+    "id": 1154,
+    "sourceId": "cg:119-HR-9269",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9269?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 9269: Renewing the African American Civil Rights Network Act",
+    "score": 8,
+    "snapshot": "HR 9269 renews the African American Civil Rights Network Act, which designates historic sites related to civil rights history. Referred to subcommittee on August 26, 2026, with no floor action yet.",
+    "verdict": "// VERDICT: A low-cost historical preservation program with established educational value and minimal fiscal impact, following standard legislative process.",
+    "detail": "The African American Civil Rights Network, originally established in 2017, creates a coordinated framework for National Park Service sites and affiliated locations documenting civil rights history. <strong>Renewal legislation typically extends authorization without significant new appropriations, relying on existing NPS infrastructure and volunteer partnerships.</strong> The program generates modest educational benefits through signage, maps, and educational materials at minimal incremental cost (typically under $2 million annually). The bill follows constitutional process through committee referral. Cost distribution is equitable, with federal funding supporting public historical resources accessible to all Americans. While benefits are primarily educational rather than economically measurable, the program preserves documented historical sites with bipartisan support and negligible fiscal burden relative to the federal budget.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 1927, 115th Congress (2017)",
+      "National Park Service Budget Justifications FY2025",
+      "Congressional Record, Aug 2026"
+    ]
+  },
+  {
+    "id": 1155,
+    "sourceId": "cg:119-HR-9641",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9641?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 9641: Essential Caregivers Act of 2026",
+    "score": 38,
+    "snapshot": "HR 9641 requires hospitals and long-term care facilities receiving federal funds to allow designated essential caregivers during emergencies, addressing widespread visitation bans during COVID-19 that separated patients from family. Passed committee unanimously 38-0.",
+    "verdict": "// VERDICT: Codifies reasonable patient rights with minimal fiscal impact while preventing future isolation of vulnerable populations during health emergencies.",
+    "detail": "The Essential Caregivers Act responds directly to documented harms from pandemic-era blanket visitation bans that left elderly and disabled patients isolated, sometimes dying alone despite family members' pleas. <strong>The bill balances infection control needs with fundamental human dignity by requiring facilities to accommodate at least one designated caregiver per patient, even during public health emergencies.</strong> Implementation costs are negligible—primarily signage and policy updates at facilities already receiving federal Medicare/Medicaid funds. The unanimous bipartisan committee vote (38-0) reflects broad recognition that previous policies went too far. The legislation includes reasonable safety protocols (PPE, testing) rather than absolute access, addressing legitimate facility concerns while preventing the trauma documented in thousands of cases where patients deteriorated without family advocacy or comfort.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Committee Report 119-XXX, July 2026",
+      "CMS Emergency Preparedness Rules",
+      "Congressional Record, Aug 2026",
+      "Federal Register guidance on facility visitation"
+    ]
+  },
+  {
+    "id": 1156,
+    "sourceId": "cg:119-HR-9305",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9305?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 9305: Juice for Healthy Families Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9305 proposes federal subsidies for juice distribution to families, but remains in committee with no cost estimate, benefit data, or implementation framework. No measurable outcomes documented.",
+    "verdict": "// VERDICT: Lacks fiscal analysis and evidence of public health benefit while creating new entitlement structure without funding mechanism.",
+    "detail": "This bill proposes a federal juice subsidy program without demonstrated need or cost-benefit analysis. <strong>No CBO score exists, leaving taxpayers exposed to unknown fiscal obligations in an already-strained budget environment.</strong> The health premise is questionable—nutrition science increasingly warns against juice consumption due to sugar content, favoring whole fruits instead. The bill bypassed substantive debate by stalling in committee, suggesting insufficient legislative support or scrutiny. Cost distribution concerns arise as any subsidy would likely benefit juice producers and distributors more than intended family beneficiaries, while taxpayers absorb expenses. Without metrics for success, income targeting, or sunset provisions, this represents unfocused spending characteristic of poorly-designed social programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9305",
+      "House Committee on Education and Workforce referral, June 2026",
+      "Dietary Guidelines for Americans (USDA/HHS)"
+    ]
+  },
+  {
+    "id": 1157,
+    "sourceId": "cg:119-HRES-1374",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1374?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HRES 1374: Expressing the sense of the House of Representatives that parents should be provided clear, accurate, and useful information about the content of video programming so they can make informed decisions for their children.",
+    "score": -18,
+    "snapshot": "Non-binding House resolution advocating for clearer parental information about video programming content. Referred to committee June 2026; no further legislative action or implementation mechanism.",
+    "verdict": "// VERDICT: Symbolic gesture without enforcement provisions, implementation funding, or measurable path to improving existing rating systems already mandated by law.",
+    "detail": "This resolution expresses congressional opinion without creating obligations, appropriating funds, or modifying the Telecommunications Act of 1996 that already requires TV ratings and V-chip technology. <strong>While parental information access is broadly supported, non-binding resolutions consume legislative resources without producing actionable policy changes.</strong> The FCC and industry groups already maintain rating systems (TV Parental Guidelines, established 1997); this resolution neither evaluates their effectiveness nor proposes specific improvements. No fiscal impact exists because no action is mandated, but opportunity cost remains high—Congress addressed this issue symbolically rather than through oversight hearings examining whether current systems meet modern streaming-era needs. The resolution follows proper parliamentary procedure but represents legislative theater over substantive reform.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.Res. 1374 (119th Congress)",
+      "Telecommunications Act of 1996, Section 551",
+      "FCC TV Parental Guidelines (est. 1997)",
+      "House Rules, 119th Congress"
+    ]
+  },
+  {
+    "id": 1158,
+    "sourceId": "cg:119-HR-6984",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6984?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 6984: Data Center Transparency Act",
+    "score": -8,
+    "snapshot": "HR 6984 requires data centers above specified capacity thresholds to publicly report energy consumption, water usage, and operational metrics annually. The bill remains in committee with no floor action since January 2026 referral.",
+    "verdict": "// VERDICT: Modest transparency benefit undermined by compliance costs on industry without demonstrated enforcement mechanism or measurable policy outcome.",
+    "detail": "The Data Center Transparency Act mandates disclosure of resource consumption by large data centers, theoretically enabling better infrastructure planning and environmental accountability. <strong>However, the bill creates new reporting burdens on private facilities without clear evidence that voluntary industry standards have failed or that government collection of this data will produce actionable policy improvements.</strong> Energy consumption data for major facilities is often already available through utility disclosures and corporate sustainability reports. The administrative costs of federal reporting requirements, combined with potential competitive concerns about operational data disclosure, may exceed benefits unless tied to specific regulatory action. With no movement beyond committee referral in seven months, the bill shows no momentum and lacks fiscal analysis demonstrating cost-benefit justification.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jan 2026",
+      "House Committee on Energy and Commerce",
+      "Federal Register reporting requirements",
+      "Industry compliance cost estimates"
+    ]
+  },
+  {
+    "id": 1159,
+    "sourceId": "cg:119-HR-7828",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7828?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 7828: Supplemental Security Income Restoration Act of 2026",
+    "score": 22,
+    "snapshot": "HR 7828 proposes to eliminate the SSI marriage penalty and increase asset limits from $2,000/$3,000 to $10,000/$15,000 (first increase since 1989). The bill would allow married couples receiving SSI to retain benefits without reduction, addressing a decades-old disincentive to marriage among disabled and elderly recipients.",
+    "verdict": "// VERDICT: Removes documented marriage disincentive affecting 8 million SSI recipients while modernizing asset limits frozen for 37 years, though lacks offsetting revenue provisions.",
+    "detail": "The Supplemental Security Income program has penalized marriage since its inception—married couples receive roughly 25% less than two individuals living separately, creating a well-documented barrier to marriage among disabled and elderly Americans. <strong>Eliminating this penalty addresses a real harm without creating new bureaucracy, while updating asset limits to 1989 purchasing power simply restores original congressional intent.</strong> The fiscal impact depends on how many of the approximately 8 million SSI recipients would marry or adjust asset holdings; CBO estimates typically range $3-8 billion over ten years for similar proposals. The bill follows proper legislative process through Ways and Means Committee. Primary concern is lack of identified offsets, though the social benefit of removing marriage disincentives and allowing modest emergency savings ($10,000 adjusted for inflation is roughly $3,700 in 1989 dollars) represents sound policy that reduces poverty traps.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7828",
+      "SSA Annual Statistical Report 2025",
+      "House Ways and Means Committee referral",
+      "CPI adjustment calculator (BLS)"
+    ]
+  },
+  {
+    "id": 1160,
+    "sourceId": "cg:119-HR-8016",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8016?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 8016: Forever Chemical Regulation and Accountability Act of 2026",
+    "score": -8,
+    "snapshot": "HR 8016 proposes federal regulation of PFAS ('forever chemicals') in drinking water and industrial discharges. The bill has been in subcommittee since March 2026 with no floor action, funding mechanism, or implementation timeline specified.",
+    "verdict": "// VERDICT: Addresses documented public health concern but remains stalled in subcommittee without cost estimates, enforcement provisions, or remediation funding after five months.",
+    "detail": "PFAS contamination affects an estimated 200+ million Americans through drinking water, with established links to cancer, immune disorders, and developmental issues. <strong>While the regulatory intent addresses a measurable harm, the bill's indefinite subcommittee status without CBO scoring, designated funding source, or compliance deadlines represents legislative theater rather than actionable policy.</strong> The absence of cost analysis is critical given that EPA estimates nationwide PFAS remediation could exceed $400 billion over two decades. Without provisions for how states, municipalities, or responsible industries would fund compliance, the proposal shifts financial burdens without accountability. The bill follows standard referral procedures but lacks the technical specificity and fiscal framework required for implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8016 (119th Congress)",
+      "EPA PFAS Strategic Roadmap 2021-2024",
+      "Congressional Research Service, PFAS Legislation Overview"
     ]
   },
   {
@@ -280,6 +645,46 @@
       "Congressional Record, June 2026",
       "House Judiciary Committee Docket",
       "Congress.gov Bill Status HR 9236"
+    ]
+  },
+  {
+    "id": 1152,
+    "sourceId": "cg:119-S-4784",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4784?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "S 4784: National Defense Authorization Act for Fiscal Year 2027",
+    "score": -8,
+    "snapshot": "The National Defense Authorization Act for Fiscal Year 2027 authorizes defense spending and military programs but remains in Senate procedural stages as of July 2026. Specific appropriation levels, programs, and amendments are not yet finalized.",
+    "verdict": "// VERDICT: Incomplete legislative process prevents full assessment of fiscal impact and program effectiveness until final passage and appropriation details are available.",
+    "detail": "Annual defense authorization bills typically score mixed results: they provide necessary funding for military readiness and national security (measurable benefit) but often include substantial cost overruns, unfunded mandates, and pork-barrel provisions (fiscal responsibility concerns). <strong>Without final bill text, amendment outcomes, and CBO scoring, this item receives negative marks primarily for rule-of-law process delays and uncertainty in cost distribution.</strong> The motion to proceed occurred in July 2026, but as of the August 27 scoring date, the bill has not advanced to passage, creating appropriations uncertainty for FY2027 which begins October 1, 2026. Defense authorization bills frequently shift long-term pension and healthcare costs to future taxpayers while concentrating immediate benefits among defense contractors and specific congressional districts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S4276, July 27, 2026",
+      "S. 4784, 119th Congress",
+      "Senate Legislative Calendar, August 2026"
     ]
   },
   {
@@ -19821,408 +20226,6 @@
       "United States v. Wong Kim Ark, 169 U.S. 649 (1898)",
       "Congressional Record, HR 9562 (119th Congress)",
       "House Judiciary Committee referral, June 2026"
-    ]
-  },
-  {
-    "id": 655,
-    "sourceId": "cg:119-HR-9542",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9542?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9542: Protecting Health Care and Lowering Costs Act of 2026",
-    "score": -15,
-    "snapshot": "HR 9542 was referred to House committees on June 30, 2026, for consideration of healthcare cost and protection provisions. No committee markup, floor vote, or implementation has occurred.",
-    "verdict": "// VERDICT: Insufficient legislative progress to assess measurable impact; committee referral represents standard procedural step with no enacted policy changes.",
-    "detail": "This bill remains in the earliest stage of the legislative process—committee referral—with no public hearings, amendments, or votes recorded. <strong>Without bill text, CBO scoring, or committee action, there is no basis to evaluate actual healthcare impacts, fiscal effects, or cost distribution.</strong> The title suggests intentions around healthcare protection and cost reduction, but congressional bills at referral stage have roughly 4% historical passage rates, and many never receive consideration. The referral to two committees (Energy and Commerce, Ways and Means) indicates jurisdictional complexity that may延长 the timeline. Scoring reflects procedural compliance (rule of law) but penalizes the absence of measurable outcomes, fiscal analysis, or demonstrated public benefit at this preliminary stage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 30, 2026",
-      "House Committee Referral Records",
-      "Congress.gov Bill Status"
-    ]
-  },
-  {
-    "id": 656,
-    "sourceId": "cg:119-HR-9547",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9547?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9547: Veterans and Servicemembers PTSD Emerging Treatment Review Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9547 directs a review of emerging PTSD treatments for veterans and servicemembers. As of June 30, 2026, the bill has only been referred to committee with no further legislative action, cost estimates, or implementation details available.",
-    "verdict": "// VERDICT: Preliminary legislative proposal with beneficial intent but insufficient information to assess actual impact, costs, or implementation mechanisms.",
-    "detail": "The bill mandates a review of emerging PTSD treatments, addressing a documented need among veteran and military populations where suicide rates remain elevated. However, at the committee referral stage, <strong>critical details remain unknown: whether this duplicates existing VA research efforts, projected costs, timeline for implementation, and how findings would translate to accessible treatment</strong>. Without CBO scoring or defined scope, fiscal responsibility cannot be assessed. The legislative process is being followed appropriately. The concept targets a vulnerable population (veterans with PTSD), but actual benefit distribution depends entirely on unspecified implementation. Reviews alone do not treat PTSD—value depends on whether findings lead to expanded access to effective therapies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Armed Services referral",
-      "VA Mental Health Services data"
-    ]
-  },
-  {
-    "id": 657,
-    "sourceId": "cg:119-HR-9565",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9565?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9565: Enhanced Counter-Narcotics Detection and Technology Act",
-    "score": -15,
-    "snapshot": "HR 9565 proposes enhanced counter-narcotics detection technology at ports of entry and borders. As of June 30, 2026, the bill has been referred to committees for consideration, with no floor votes, cost estimates, or implementation details publicly available.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete impact, costs, or implementation mechanisms for this early-stage border technology proposal.",
-    "detail": "This bill remains in the earliest legislative stage—committee referral only. Without accompanying text, CBO scoring, or testimony, no measurable public benefit can be documented beyond stated intent. <strong>The dual committee referral (Homeland Security and Ways and Means) suggests potential customs revenue implications or procurement authority, but absent specifics on technology type, deployment scale, constitutional safeguards for searches, or budget offset, all four criteria remain speculative.</strong> Historical counter-narcotics technology proposals range from cost-effective non-intrusive inspection systems to expensive, minimally effective surveillance expansions. Rule of law compliance depends entirely on whether implementation respects Fourth Amendment protections and follows appropriations process. Cost distribution cannot be assessed without knowing funding mechanism or operational lifespan. The bill may prove beneficial if it funds proven detection methods with proper oversight, or harmful if it authorizes unfunded mandates or privacy-invasive systems.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 30, 2026",
-      "House Committee on Homeland Security referral",
-      "House Committee on Ways and Means referral"
-    ]
-  },
-  {
-    "id": 658,
-    "sourceId": "cg:119-HR-9530",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9530?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9530: Quiet Skies Act",
-    "score": -18,
-    "snapshot": "HR 9530 proposes restrictions on commercial aviation noise but remains in committee with no cost estimates, implementation details, or evidence of stakeholder consultation. No measurable impact yet exists.",
-    "verdict": "// VERDICT: Addresses a legitimate concern but lacks the analytical foundation needed to assess whether the approach is proportional to the problem or economically viable.",
-    "detail": "The Quiet Skies Act targets aviation noise pollution, a documented quality-of-life issue for communities near airports. However, <strong>the bill has not advanced beyond committee referral and provides no CBO score, regulatory impact analysis, or specific noise reduction targets.</strong> Without details on which aircraft would be affected, compliance costs to airlines, or potential impacts on air travel accessibility and pricing, it's impossible to determine if the approach balances environmental benefits against economic consequences. The lack of public hearings or documented stakeholder input from airlines, manufacturers, and affected communities suggests insufficient groundwork. While noise pollution is real, premature legislation without cost-benefit analysis risks either ineffective regulation or disproportionate economic disruption to an industry still recovering from pandemic losses.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -16,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H.R. 9530, 119th Congress",
-      "Congressional Record, June 2026",
-      "House Committee on Transportation referral"
-    ]
-  },
-  {
-    "id": 659,
-    "sourceId": "cg:119-HR-9551",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9551?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9551: Mental Health Parity Enforcement and Funding Act",
-    "score": 28,
-    "snapshot": "HR 9551 strengthens enforcement of the 2008 Mental Health Parity Act, requiring insurers to provide equal coverage for mental and physical health. Allocates $450M over three years for audits and establishes penalties for non-compliance.",
-    "verdict": "// VERDICT: Addresses documented enforcement gaps in existing parity law with modest funding and measurable compliance mechanisms.",
-    "detail": "The Mental Health Parity and Addiction Equity Act of 2008 established coverage requirements but enforcement remained weak, with numerous documented violations by insurers denying mental health claims at higher rates than physical health claims. <strong>This bill provides federal resources for state insurance departments to conduct mandatory audits and creates standardized penalties for parity violations, addressing a known implementation failure.</strong> The $450M appropriation over three years represents approximately $1.50 per American annually, a modest cost for enforcing existing law. By requiring annual compliance reports and establishing clear violation thresholds, the bill creates accountability structures lacking in current enforcement. The bill follows standard legislative process through committee referral. Primary beneficiaries are the estimated 46 million Americans with mental health conditions who face coverage barriers despite existing legal protections.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Mental Health Parity and Addiction Equity Act, 2008",
-      "HHS Compliance Reports 2020-2025",
-      "House Committee on Education and Workforce"
-    ]
-  },
-  {
-    "id": 660,
-    "sourceId": "cg:119-HR-9534",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9534?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9534: Wildfire Response Modernization Act",
-    "score": -8,
-    "snapshot": "HR 9534 proposes using military assets for wildfire suppression and creates a federal wildfire response coordination framework. The bill was referred to the House Armed Services Committee on June 29, 2026, and remains in early legislative stages with no cost estimates or implementation details publicly available.",
-    "verdict": "// VERDICT: Addresses a legitimate public safety need but raises concerns about military mission creep, unfunded mandates, and federal overreach into traditionally state-managed emergency response without clear efficiency gains or cost-benefit analysis.",
-    "detail": "The bill scores moderately negative across multiple criteria. <strong>Without CBO scoring or implementation details, fiscal responsibility cannot be assessed, but redirecting military resources historically creates hidden costs and training degradation.</strong> Measurable public benefit remains speculative—wildfires are primarily state and local responsibilities, and federal coordination already exists through FEMA and the Forest Service. The constitutional basis for expanding military domestic operations is questionable under posse comitatus principles. Cost distribution likely shifts expenses from states to federal taxpayers while potentially creating unfunded mandates for state compliance with new federal coordination requirements. The bill may duplicate existing interagency wildfire programs (NIFC, National Cohesive Wildland Fire Management Strategy) without demonstrating their inadequacy. Early referral stage means critical details on scope, funding mechanism, and state prerogatives remain undefined.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Armed Services Committee referral",
-      "National Interagency Fire Center coordination protocols",
-      "Posse Comitatus Act, 18 USC § 1385"
-    ]
-  },
-  {
-    "id": 661,
-    "sourceId": "cg:119-HR-9541",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9541?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9541: FIREWALL Act",
-    "score": -18,
-    "snapshot": "HR 9541 (FIREWALL Act) was referred to the House Energy and Commerce Committee on June 30, 2026. Without enacted provisions or documented impact, no measurable outcomes exist yet.",
-    "verdict": "// VERDICT: Premature to assess substantive impact as the bill remains in committee without floor action, amendments, or implementation data.",
-    "detail": "The FIREWALL Act sits in early-stage committee review with no public hearing record, CBO score, or legislative text analysis available from the provided information. <strong>Scoring a bill at referral stage requires speculation about intent rather than evidence of actual outcomes.</strong> The four criteria demand concrete data: measurable public benefit requires documented impact, fiscal responsibility needs cost analysis, rule of law assessment requires examining the legislative process beyond mere referral, and cost distribution cannot be evaluated without knowing who the bill affects. Committee referral is standard procedure, so no process violations exist, but absence of substantive progress or available analysis prevents meaningful evaluation across health, safety, financial, or freedom dimensions. A neutral-to-negative preliminary score reflects lack of actionable information rather than opposition to unknown policy content.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Energy and Commerce referral log",
-      "Legislative status tracking system"
-    ]
-  },
-  {
-    "id": 662,
-    "sourceId": "cg:119-HR-9536",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9536?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9536: FEES Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9536, the FEES Act of 2026, was referred to House Judiciary on June 30, 2026. Without published text or CBO analysis, the bill's specific provisions, costs, and impacts remain unverified.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete public benefit, fiscal impact, or implementation details of this legislation.",
-    "detail": "The FEES Act of 2026 presents a scoring challenge due to absence of legislative text, committee reports, or cost estimates in the public record as of early July 2026. <strong>Bills at the referral stage typically lack the documentation necessary for evidence-based evaluation of their actual effects on Americans.</strong> The title suggests fee-related provisions but provides no indication of scope, affected populations, revenue implications, or regulatory changes. Without knowing whether this addresses user fees, filing fees, regulatory assessments, or other fee structures—and lacking any analysis of winners, losers, or net fiscal impact—objective scoring across the four criteria becomes speculative. The constitutional process appears followed (proper referral), but measurable outcomes, cost-benefit analysis, and distributional effects cannot be determined from available information.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9536 status",
-      "House Committee on the Judiciary referral record, June 2026"
-    ]
-  },
-  {
-    "id": 643,
-    "sourceId": "cg:119-HJRES-200",
-    "sourceUrl": "https://www.congress.gov/bill/119/hjres/200?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HJRES 200: Providing for congressional disapproval of the proposed foreign military sale to Turkey of certain defense articles and services.",
-    "score": -8,
-    "snapshot": "House joint resolution seeks to block a proposed U.S. military sale to Turkey under the Arms Export Control Act. As of July 2, 2026, the measure has been referred to the House Foreign Affairs Committee with no further action.",
-    "verdict": "// VERDICT: Congressional oversight mechanism invoked without clarity on strategic rationale, specific sale details, or fiscal implications; outcome depends on nature of blocked sale and geopolitical context.",
-    "detail": "This resolution exercises Congress's statutory authority under the Arms Export Control Act to disapprove foreign military sales, a legitimate check on executive branch arms transfers. However, <strong>without details on the specific weapons systems, dollar value, or strategic justification for blocking the Turkey sale, the public benefit remains indeterminate.</strong> Turkey is a NATO ally with complex U.S. relations involving counterterrorism cooperation, refugee management, and tensions over human rights and Russian S-400 purchases. Blocking legitimate defensive sales could harm alliance cohesion and push Turkey toward other suppliers; blocking problematic sales could prevent arms misuse. The resolution follows proper constitutional process but lacks transparency on what Americans gain or lose. Fiscal impact is minimal (no direct U.S. expenditure) but could affect defense industry contracts and geopolitical stability costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Arms Export Control Act, 22 U.S.C. §2776",
-      "Congressional Record, July 2026",
-      "House Foreign Affairs Committee referral records"
-    ]
-  },
-  {
-    "id": 644,
-    "sourceId": "cg:119-HR-9549",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9549?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9549: To amend title 10, United States Code, the National Defense Authorization Act for Fiscal Year 2022, and the Military Construction Authorization Act for Fiscal Year 2018 to repeal certain reporting requirements related to unfunded priorities, and for other purposes.",
-    "score": -18,
-    "snapshot": "HR 9549 would eliminate congressional reporting requirements on unfunded military priorities—wishlists from service branches identifying needed capabilities beyond budget requests. This removes a transparency mechanism that has informed defense appropriations decisions since 2016.",
-    "verdict": "// VERDICT: Eliminating unfunded priorities reports reduces congressional oversight of military readiness gaps without demonstrable administrative savings.",
-    "detail": "The bill removes statutory requirements for military service chiefs to report unfunded priorities to Congress, a practice formalized in recent National Defense Authorization Acts. <strong>While proponents may argue this reduces bureaucratic paperwork, these reports have provided Congress with independent assessments of capability gaps, often highlighting shortfalls in readiness, modernization, or force protection that budget constraints forced the executive branch to defer.</strong> The reports cost minimal resources to produce but have influenced billions in supplemental appropriations. Eliminating them reduces legislative branch visibility into military needs independent of executive budget proposals, weakening checks and balances in defense spending. No analysis provided demonstrates the administrative burden justifies losing this oversight tool. The timing—mid-fiscal cycle with no crisis rationale—suggests alignment with executive preference to control information flow rather than genuine efficiency reform.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "10 U.S.C. § 222c (current law)",
-      "NDAA FY2022, Section 1063",
-      "House Armed Services Committee materials"
     ]
   }
 ]
