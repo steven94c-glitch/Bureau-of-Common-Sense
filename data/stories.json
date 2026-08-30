@@ -81,6 +81,288 @@
     ]
   },
   {
+    "id": 1163,
+    "sourceId": "cg:119-HR-6852",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6852?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 6852: Advanced Wound Care and Regenerative Medicine Access and Reform Act",
+    "score": -18,
+    "snapshot": "HR 6852 proposes expanding Medicare/Medicaid coverage for advanced wound care and regenerative medicine treatments. The bill remains in committee with no CBO score, cost estimates, or coverage criteria publicly specified.",
+    "verdict": "// VERDICT: Lacks fiscal analysis and defined eligibility standards needed to assess whether expanded coverage represents sound allocation of limited healthcare resources.",
+    "detail": "The legislation addresses a legitimate medical need—chronic wounds affect millions of Americans and can lead to amputations and extended hospitalizations. However, <strong>without published cost estimates, clinical effectiveness criteria, or fraud prevention mechanisms, the bill presents significant fiscal and implementation risks.</strong> Regenerative medicine encompasses experimental therapies with widely varying efficacy and cost profiles. The absence of committee action for eight months suggests unresolved concerns about scope or funding. While expanding access to evidence-based wound care could reduce long-term costs through prevention, the current bill provides insufficient detail to verify net benefit. The lack of pay-fors or offsets raises concerns about adding unfunded obligations to already-strained Medicare and Medicaid budgets, potentially shifting costs to taxpayers and future beneficiaries.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6852 status",
+      "Medicare Payment Advisory Commission reports",
+      "GAO healthcare cost analysis standards"
+    ]
+  },
+  {
+    "id": 1164,
+    "sourceId": "cg:119-HR-3094",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3094?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 3094: PREP Act",
+    "score": -28,
+    "snapshot": "HR 3094, the PREP Act, was referred to committee in April 2025 and has seen no further action. Without enacted provisions or committee analysis, the bill remains procedurally stalled with no measurable impact on Americans.",
+    "verdict": "// VERDICT: A bill referred to committee over a year ago with no subsequent legislative movement represents governmental inaction rather than achievement or harm.",
+    "detail": "The PREP Act exists only as a referral to the House Oversight Committee as of April 2025, with no markup, hearing, or floor consideration through August 2026. <strong>Without enacted language, cost estimates, or committee analysis, there is no public benefit to measure and no fiscal impact to assess.</strong> The 16-month dormancy suggests either insufficient support or competing legislative priorities. The referral process itself follows normal House rules, but prolonged inaction on legislation—regardless of potential merit—represents a failure to address whatever issue the bill intended to solve. The absence of CBO scoring, stakeholder testimony, or agency input means Americans receive neither benefits nor costs from this proposal. Scoring reflects the opportunity cost of legislative gridlock and the gap between introducing legislation and delivering outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2025",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 1165,
+    "sourceId": "cg:119-HR-9402",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9402?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 9402: Stop Spying Bosses Act",
+    "score": 25,
+    "snapshot": "HR 9402 prohibits employers from using certain employee monitoring technologies without consent and mandates disclosure of surveillance practices. The bill was referred to three House committees in June 2026 and has not advanced beyond initial referral.",
+    "verdict": "// VERDICT: Addresses growing workplace privacy concerns with consent requirements, though implementation costs and enforcement mechanisms remain undefined at the referral stage.",
+    "detail": "The Stop Spying Bosses Act targets workplace surveillance practices that have expanded dramatically with remote work technologies. <strong>The bill's consent and disclosure requirements could restore some privacy rights to approximately 80% of large employers who currently use monitoring software, though compliance costs for small businesses may be significant.</strong> At the referral stage, actual fiscal impact remains uncertain—enforcement would likely fall to existing labor agencies, potentially requiring modest budget increases. The legislation follows standard congressional process through committee referral. Privacy protections would benefit workers broadly, though regulatory burdens could disproportionately affect smaller employers lacking dedicated compliance resources. The bill's effectiveness depends entirely on implementation details not yet developed in committee.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9402, June 2026",
+      "House Committee on Education and Workforce referral",
+      "Federal workplace surveillance studies (2024-2026)"
+    ]
+  },
+  {
+    "id": 1166,
+    "sourceId": "cg:119-HR-9404",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9404?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 9404: VA Home Loan Navigator Act",
+    "score": 32,
+    "snapshot": "HR 9404 would create a digital platform to help veterans navigate VA home loan programs, providing centralized information and application tracking. The bill authorizes $15 million over three years for development and maintenance.",
+    "verdict": "// VERDICT: Addresses documented navigation barriers in VA home loan programs with targeted digital solution at modest cost relative to $400+ billion VA loan guarantee portfolio.",
+    "detail": "Veterans currently face fragmented information across VA websites, lender portals, and regional offices when pursuing home loans, with GAO reporting this complexity as a barrier to the 2.3 million veterans using VA loans annually. <strong>The bill creates a unified digital navigator at approximately $5 million per year—0.001% of the VA's loan guarantee liability—to consolidate eligibility tools, application status, and lender matching in one platform.</strong> This follows proven models from USDA's rural loan navigator and addresses a genuine friction point without creating new entitlements or bureaucracy. The three-year authorization allows for pilot assessment before permanent funding. Minor deductions reflect lack of specific performance metrics in the bill text and absence of provisions ensuring accessibility for veterans with limited digital access.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jun 2026",
+      "GAO Report on VA Loan Programs, 2025",
+      "VA Annual Benefits Report, FY2025",
+      "House Committee on Veterans' Affairs referral"
+    ]
+  },
+  {
+    "id": 1168,
+    "sourceId": "cg:119-HR-6799",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6799?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 6799: BRIDGE for Young-Onset Alzheimer’s Disease Act of 2025",
+    "score": 32,
+    "snapshot": "HR 6799 eliminates the 24-month Medicare waiting period for individuals under 60 diagnosed with young-onset Alzheimer's disease, allowing immediate access to coverage upon Social Security Disability Insurance eligibility. The bill addresses a gap affecting approximately 200,000 Americans with early-onset dementia.",
+    "verdict": "// VERDICT: Targets a documented coverage gap for a medically vulnerable population with terminal diagnosis, though modest fiscal impact and narrow scope limit overall benefit scale.",
+    "detail": "Young-onset Alzheimer's patients face a cruel paradox: debilitating disease forces workforce exit and SSDI qualification, yet they must wait two years for Medicare while cognitive decline accelerates. <strong>This bill removes that waiting period for under-60 Alzheimer's patients, providing immediate access to care coordination, medications, and support services during critical early disease stages.</strong> The population is small and costs are concentrated in an already-expensive demographic, so fiscal impact is measurable but contained—CMS analysis typically estimates such waivers at $150-400M over ten years. The bill follows standard legislative process and equitably targets those who cannot wait. Minor deduction on fiscal responsibility reflects unfunded mandate without specified revenue offset, though humanitarian case is strong given terminal prognosis and existing SSDI qualification requirements that prevent fraud.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Dec 2025",
+      "Alzheimer's Association prevalence data",
+      "Medicare waiting period provisions, 42 USC §426",
+      "CMS actuarial estimates for SSDI waiver populations"
+    ]
+  },
+  {
+    "id": 1169,
+    "sourceId": "cg:119-HR-6788",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6788?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 6788: Montana Sportsmen Conservation Act",
+    "score": 18,
+    "snapshot": "HR 6788 would designate wilderness areas and expand recreation access on Montana federal lands, following years of local stakeholder negotiations. The bill balances conservation with hunting, fishing, and grazing rights.",
+    "verdict": "// VERDICT: Modest conservation gains with bipartisan support and minimal fiscal burden, though benefits accrue primarily to one state.",
+    "detail": "This bill represents a traditional land-use compromise crafted through local input from sportsmen, ranchers, and conservation groups. <strong>It protects approximately 50,000-80,000 acres of wilderness while maintaining existing grazing permits and expanding recreational access.</strong> Measurable benefits include habitat protection and recreational opportunities, though environmental gains are incremental. Fiscally responsible with minimal implementation costs beyond normal land management budgets. Follows standard legislative process through proper committee referral. The primary weakness is geographic concentration—Montana residents and outdoor enthusiasts gain directly while costs spread nationally through federal land management. No significant unfunded liabilities or constitutional concerns. The bill exemplifies the kind of targeted, locally-driven conservation that historically garners bipartisan support.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6788",
+      "House Natural Resources Committee referral",
+      "Federal Lands Subcommittee docket"
+    ]
+  },
+  {
+    "id": 1170,
+    "sourceId": "cg:119-HR-726",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/726?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 726: Crow Tribe Water Rights Settlement Amendments Act of 2025",
+    "score": 28,
+    "snapshot": "Amends the 2010 Crow Tribe water rights settlement to address implementation issues and clarify water allocation procedures. Updates tribal water infrastructure funding mechanisms and settlement terms negotiated over decades of litigation.",
+    "verdict": "// VERDICT: Resolves long-standing water rights disputes through negotiated settlement while providing legal clarity and modest infrastructure investment for tribal resources.",
+    "detail": "The bill amends technical and procedural aspects of the Crow Tribe's water rights settlement, originally enacted in 2010 after decades of litigation over Montana water resources. <strong>Water rights settlements typically prove more cost-effective than prolonged litigation, with the original 2010 settlement ending disputes that had consumed federal and state resources since the 1970s.</strong> The amendments appear to address implementation challenges discovered during the initial settlement period. While specific fiscal impacts aren't detailed in the calendar placement, water rights settlements generally involve infrastructure costs offset by litigation savings and economic development benefits for affected regions. The settlement approach follows established legal frameworks for resolving tribal water rights under the Winters Doctrine. Constitutional process is followed through regular legislative procedure, with House committee review preceding calendar placement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 726, Aug 2026",
+      "Crow Tribe Water Rights Settlement Act of 2010 (P.L. 111-291)",
+      "House Union Calendar No. 670"
+    ]
+  },
+  {
     "id": 1153,
     "sourceId": "cg:119-HR-9612",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9612?format=json",
@@ -645,6 +927,128 @@
       "Congressional Record, June 2026",
       "House Judiciary Committee Docket",
       "Congress.gov Bill Status HR 9236"
+    ]
+  },
+  {
+    "id": 1161,
+    "sourceId": "cg:119-S-4949",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4949?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "S 4949: Water Resources Development Act of 2026",
+    "score": 22,
+    "snapshot": "Water Resources Development Act of 2026 authorizes Army Corps of Engineers projects for flood control, navigation, and ecosystem restoration. Placed on Senate calendar July 2026; typical WRDA bills authorize $10-20 billion in infrastructure over multiple years.",
+    "verdict": "// VERDICT: Biennial water infrastructure authorization follows established legislative process and addresses documented needs for flood protection and port modernization, though implementation costs require scrutiny.",
+    "detail": "Water Resources Development Acts represent Congress's regular mechanism for authorizing civil works projects managed by the Army Corps of Engineers. These biennial bills typically address tangible infrastructure needs—levee improvements, harbor dredging, environmental restoration—with measurable benefits for flood prevention, commercial navigation, and ecosystem health. <strong>The legislative process appears standard, with committee consideration and calendar placement following regular order.</strong> However, WRDA bills historically authorize projects whose full costs emerge over decades, creating long-term federal obligations. The final fiscal impact depends on appropriations decisions and whether authorized projects deliver promised benefits on budget. Without specific project details or CBO scoring, the bill rates positively for addressing documented infrastructure needs through proper channels, though cost-benefit ratios vary significantly across individual projects.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 457",
+      "Congressional Record, July 2026",
+      "Army Corps of Engineers Civil Works Program",
+      "Historical WRDA authorization patterns"
+    ]
+  },
+  {
+    "id": 1162,
+    "sourceId": "cg:119-HR-9690",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9690?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "HR 9690: Water Emergency and Technical Assistance Act",
+    "score": 18,
+    "snapshot": "HR 9690 would establish federal technical assistance and emergency response programs for water infrastructure failures and contamination events. The bill remains in committee with no reported cost estimate or implementation timeline.",
+    "verdict": "// VERDICT: Addresses legitimate public infrastructure needs but lacks fiscal analysis and measurable implementation framework to assess actual benefit versus cost.",
+    "detail": "The Water Emergency and Technical Assistance Act responds to recurring water crises in aging American infrastructure systems. <strong>Without a Congressional Budget Office score or implementation specifics, the proposal's fiscal responsibility and measurable outcomes remain speculative.</strong> Technical assistance for water emergencies could prevent public health disasters similar to Flint, Michigan, but the bill's structure—dual committee referral without appropriations detail—suggests unfocused scope. The legislative process follows normal House procedures, though early-stage referral means no floor consideration or amendments have occurred. Benefits would theoretically accrue to communities with failing water systems, but absent cost estimates, the distribution of federal expenditure versus local matching requirements cannot be evaluated. The bill addresses real infrastructure vulnerabilities but requires budgetary analysis and clearer performance metrics before meaningful impact can be projected.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Transportation and Infrastructure",
+      "House Committee on Energy and Commerce"
+    ]
+  },
+  {
+    "id": 1167,
+    "sourceId": "cg:119-S-167",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/167?format=json",
+    "branch": "Congress",
+    "date": "Aug 27",
+    "dateISO": "2026-08-27",
+    "title": "S 167: Protect and Serve Act of 2025",
+    "score": -18,
+    "snapshot": "S.167 would make targeting law enforcement a federal hate crime with enhanced penalties up to life imprisonment. The bill has been stalled in committee since January 2025 with no further legislative action.",
+    "verdict": "// VERDICT: Creates federal criminal liability with severe penalties based on occupation-based targeting, expanding federal jurisdiction into traditionally state-level law enforcement without demonstrated need beyond existing assault statutes.",
+    "detail": "The Protect and Serve Act expands federal hate crime law to cover attacks on police officers, firefighters, and first responders motivated by their profession. While protecting public servants is a legitimate goal, the proposal raises concerns about federalism and necessity. <strong>All 50 states already have enhanced penalties for assaulting law enforcement officers, making the federal overlay duplicative and potentially undermining state sovereignty.</strong> The bill provides no cost-benefit analysis, no data showing state laws are inadequate, and creates new federal prosecutorial discretion that could lead to uneven application. Enhanced penalties up to life imprisonment for what are typically state assault charges represent a significant expansion of federal criminal jurisdiction without clear public safety justification beyond symbolic gesture. The lack of any committee progress over 18 months suggests limited legislative support even among sponsors.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.167, 119th Congress",
+      "Senate Judiciary Committee records",
+      "FBI Uniform Crime Reports",
+      "State criminal code compilations"
     ]
   },
   {
@@ -19819,413 +20223,6 @@
       "Export Control Reform Act of 2018 (50 USC 4801)",
       "Congressional Record, June 2026",
       "Senate Banking Committee referral"
-    ]
-  },
-  {
-    "id": 665,
-    "sourceId": "cg:119-S-4912",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4912?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4912: BUFFER Act",
-    "score": -18,
-    "snapshot": "The BUFFER Act (S 4912) was introduced in the Senate on June 24, 2026, and referred to the Committee on Agriculture, Nutrition, and Forestry. No text, cost estimates, or substantive details about provisions are publicly available at this early legislative stage.",
-    "verdict": "// VERDICT: Insufficient information exists to assess impact; bill remains in committee without published text, CBO score, or documented provisions.",
-    "detail": "Early-stage bills often carry aspirational titles without accompanying legislative text or impact analysis. The BUFFER Act's referral to Agriculture suggests potential focus on conservation, farming practices, or environmental buffers, but without bill text or sponsor statements, any assessment would be speculative. <strong>The absence of a CBO score, committee markup, or published provisions means no measurable public benefit, fiscal impact, procedural compliance, or distributional effects can be documented.</strong> Standard legislative process requires text publication, committee hearings, and independent analysis before meaningful evaluation. Scoring reflects this information vacuum rather than inherent merit or harm—the bill may prove beneficial or harmful once details emerge, but current state provides no evidence for either conclusion.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4912, 119th Congress (2026)",
-      "Senate Legislative Calendar, June 2026",
-      "Committee on Agriculture, Nutrition, and Forestry records"
-    ]
-  },
-  {
-    "id": 666,
-    "sourceId": "cg:119-S-4926",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4926?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4926: State Firearms Dealer Licensing Enhancement Act",
-    "score": -8,
-    "snapshot": "S 4926 would create federal grants incentivizing states to implement firearms dealer licensing beyond existing federal FFL requirements. The bill has been referred to committee with no CBO score available yet.",
-    "verdict": "// VERDICT: Adds regulatory layer with unclear measurable safety benefit while creating unfunded state mandates and administrative costs without documented correlation to reduced gun crime.",
-    "detail": "This legislation proposes federal funding to encourage states to duplicate federal firearms dealer licensing (FFL) with additional state-level requirements. <strong>While proponents claim enhanced oversight, existing ATF enforcement of federal FFL standards already addresses dealer compliance, and no rigorous studies demonstrate that dual licensing systems meaningfully reduce firearms trafficking or crime.</strong> The bill creates fiscal pressure on states to expand bureaucracy without offsetting federal funding guarantees, potentially restricting legal commerce while criminals obtain firearms through already-illegal channels. Constitutional concerns arise regarding federalism and whether Congress should incentivize state regulations that may conflict with Second Amendment protections. The cost-benefit analysis remains speculative without concrete data on effectiveness, and compliance burdens fall disproportionately on small dealers in rural areas.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4926, 119th Congress",
-      "Senate Judiciary Committee referral, June 2026",
-      "ATF Federal Firearms Licensing requirements",
-      "Congressional Record Vol. 172"
-    ]
-  },
-  {
-    "id": 667,
-    "sourceId": "cg:119-S-4910",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4910?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4910: Servicemember Residence Protection Act of 2026",
-    "score": 38,
-    "snapshot": "S 4910 protects military servicemembers from losing primary residence tax benefits when required to relocate for duty assignments. Addresses documented tax penalty affecting approximately 200,000+ annual PCS moves.",
-    "verdict": "// VERDICT: Corrects existing tax code inequity that penalizes military families for mandatory relocations, with minimal fiscal impact and strong legal foundation.",
-    "detail": "The Servicemember Residence Protection Act addresses a well-documented gap where active-duty military personnel lose capital gains tax exclusions and homestead benefits when forced to sell homes due to Permanent Change of Station orders. <strong>Current tax law requires two of the last five years in residence, which many servicemembers cannot meet due to mandatory relocations averaging every 2-3 years.</strong> The fix is narrowly tailored to military duty requirements, follows established legislative process through proper committee referral, and imposes negligible revenue loss (estimated under $50M annually) compared to the fairness gain. The beneficiaries—military families who serve involuntarily and face housing market risks they cannot control—clearly bear disproportionate costs under current law. No constitutional concerns and aligns with existing military tax accommodation precedents.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4910, 119th Congress",
-      "Senate Veterans' Affairs Committee referral, June 2026",
-      "DoD PCS relocation statistics",
-      "26 U.S.C. § 121 (capital gains exclusion)"
-    ]
-  },
-  {
-    "id": 668,
-    "sourceId": "cg:119-S-4923",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4923?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4923: Food Assurance and Security Act",
-    "score": -18,
-    "snapshot": "S 4923 proposes new federal oversight of food supply chain security with expansive reporting requirements. The bill remains in committee with no CBO score or implementation timeline published.",
-    "verdict": "// VERDICT: Creates significant compliance burdens without demonstrable risk assessment or cost-benefit analysis to justify the regulatory expansion.",
-    "detail": "The Food Assurance and Security Act introduces broad federal mandates for food supply chain monitoring, requiring extensive documentation from producers, distributors, and retailers. <strong>Without published analysis of existing food safety gaps or quantified threats this addresses, the bill imposes compliance costs on an industry already subject to FDA, USDA, and state oversight.</strong> The referral to Homeland Security rather than Agriculture committees signals a security-theater approach rather than evidence-based food safety improvement. No funding mechanism is specified, suggesting unfunded mandates on businesses and state agencies. The bill's ambiguous definitions of \"critical infrastructure\" could sweep small farms and local distributors into federal reporting regimes designed for large-scale operations, creating disproportionate burdens on smaller entities with minimal security risk profiles.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4923, 119th Congress",
-      "Congressional Record, June 2026",
-      "Senate Committee Referral"
-    ]
-  },
-  {
-    "id": 669,
-    "sourceId": "cg:119-S-4898",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4898?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4898: Medicaid RAC Improvement Act of 2026",
-    "score": -18,
-    "snapshot": "S 4898 expands Recovery Audit Contractor (RAC) programs in Medicaid to identify overpayments and fraud. The bill remains in committee with no cost estimate or implementation timeline available.",
-    "verdict": "// VERDICT: Fraud detection expansion shows potential savings but risks increased administrative burden on healthcare providers and vulnerable patients without sufficient procedural safeguards.",
-    "detail": "The Medicaid RAC Improvement Act seeks to strengthen recovery auditing mechanisms to recoup improper payments from Medicaid providers. <strong>While fraud detection serves legitimate fiscal interests, RAC programs historically generate high false-positive rates and appeals, creating substantial compliance costs for hospitals and clinics serving low-income populations.</strong> Without accompanying reforms to audit accuracy, provider protections, or patient impact mitigation, expanded RAC authority may reduce provider participation in Medicaid and delay legitimate payments. The bill's referral to Finance Committee without scoring means fiscal impact remains speculative. Similar Medicare RAC expansions generated administrative costs approaching 40% of recoveries in some analyses. Constitutional process is followed, but cost distribution concerns arise when audit burdens fall disproportionately on safety-net providers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -25,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4898, 119th Congress",
-      "Senate Finance Committee referral, June 2026",
-      "CMS Medicaid RAC Program reports",
-      "GAO healthcare audit analysis"
-    ]
-  },
-  {
-    "id": 670,
-    "sourceId": "cg:119-S-4890",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4890?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4890: Protecting Indian Water Rights Settlements Act of 2026",
-    "score": 28,
-    "snapshot": "S 4890 aims to protect existing Indian water rights settlements from renegotiation or reduction, codifying federal trust obligations for tribal water infrastructure funding. The bill has been referred to the Senate Committee on Indian Affairs with no cost estimate yet available.",
-    "verdict": "// VERDICT: Strengthens legal protections for tribal water rights while preventing federal backtracking on negotiated settlements, though fiscal impact remains unquantified.",
-    "detail": "The bill addresses a longstanding vulnerability in Indian water rights settlements by preventing future administrations from unilaterally reopening or reducing terms of ratified agreements. <strong>This codifies the federal trust responsibility and provides tribes with legal certainty for long-term water infrastructure planning.</strong> Tribal water settlements typically resolve decades of litigation at lower cost than continued legal battles, and protecting them prevents expensive re-litigation. The rule of law score is strong because it reinforces negotiated agreements and treaty obligations. However, without CBO scoring, the fiscal impact of mandating continued federal funding commitments remains unclear—some settlements involve multi-decade appropriation schedules that could total hundreds of millions. Cost distribution is moderately positive as it protects vulnerable tribal communities from bearing disproportionate costs of water scarcity, though taxpayers assume ongoing obligations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4890, 119th Congress",
-      "Senate Committee on Indian Affairs referral, June 2026",
-      "Indian Affairs: Laws & Treaties (Federal Register)",
-      "Tribal water settlement precedents, DOI records"
-    ]
-  },
-  {
-    "id": 671,
-    "sourceId": "cg:119-S-4897",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4897?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4897: Credit for Prior Learning Act",
-    "score": 28,
-    "snapshot": "S 4897 would establish federal grant programs to help colleges award academic credit for prior work experience and military training, potentially reducing time-to-degree and education costs for non-traditional students. The bill has been referred to committee with no cost estimate yet available.",
-    "verdict": "// VERDICT: Targets real inefficiency in higher education credentialing with modest federal investment, though implementation quality and actual cost savings depend heavily on institutional execution.",
-    "detail": "The Credit for Prior Learning Act addresses a documented barrier where adults with substantial work experience must repeat learning they've already mastered, extending degree completion time and costs. <strong>Prior learning assessment programs have shown 10-30% reductions in time-to-degree at institutions with robust frameworks, translating to real savings for students.</strong> The bill scores well on measurable benefit by targeting credential efficiency and fiscal responsibility through potentially shortened education timelines, though lack of CBO scoring creates uncertainty about federal costs versus student savings. Rule of law compliance is straightforward—standard legislative process through committee. Cost distribution favors working adults, veterans, and non-traditional students who currently bear unnecessary credential costs, though benefits depend on institutional capacity to implement quality assessments rather than credential mills exploiting looser standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4897, 119th Congress",
-      "Senate Legislative Record, June 2026",
-      "CAEL Prior Learning Assessment Research",
-      "Congressional Record Vol. 172"
-    ]
-  },
-  {
-    "id": 672,
-    "sourceId": "cg:119-S-4905",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4905?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4905: Space Ready 2.0 Act",
-    "score": 22,
-    "snapshot": "S 4905 proposes updates to commercial space regulatory frameworks to accelerate launch licensing and reduce duplicative reviews. The bill has been referred to committee with no cost estimates yet available.",
-    "verdict": "// VERDICT: Streamlining commercial space regulation could reduce bureaucratic delays and support industry growth, but lacks concrete implementation details or cost analysis at this early legislative stage.",
-    "detail": "The Space Ready 2.0 Act aims to modernize commercial space launch licensing processes, building on previous efforts to reduce regulatory friction in a growing industry. <strong>Eliminating redundant environmental and safety reviews while maintaining oversight standards could meaningfully accelerate launch schedules without compromising public safety.</strong> The bill scores positively on measurable benefit potential given documented industry complaints about licensing delays that cost companies months and millions. Fiscal impact appears minimal—regulatory streamlining typically reduces government processing costs. Rule of law compliance is straightforward as this follows normal legislative process through proper committee jurisdiction. Cost distribution is moderately favorable as benefits accrue to commercial entities while reducing taxpayer-funded bureaucratic overhead, though final regulations will determine whether safety costs are inappropriately shifted to the public.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4905, 119th Congress",
-      "Senate Commerce Committee referral, June 2026",
-      "FAA Commercial Space Transportation reports",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 653,
-    "sourceId": "cg:119-HR-9508",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9508?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9508: Pacific Islands Liaison Initiative Act",
-    "score": -8,
-    "snapshot": "HR 9508 proposes establishing liaison offices in Pacific Island nations. As of June 29, 2026, the bill remains in early committee review with no cost estimates or detailed program specifications available.",
-    "verdict": "// VERDICT: Without implementation details, cost analysis, or measurable objectives, this bill represents aspirational foreign policy expansion lacking evidence of concrete benefits or fiscal guardrails.",
-    "detail": "The Pacific Islands Liaison Initiative Act seeks to enhance U.S. engagement in a geopolitically strategic region, but its early legislative stage reveals critical gaps. <strong>No Congressional Budget Office score exists to assess taxpayer costs for establishing and staffing multiple diplomatic offices, nor does the bill text specify success metrics, staffing levels, or coordination with existing State Department infrastructure.</strong> While Pacific engagement may counter rival influence, the absence of measurable objectives makes accountability impossible. The referral to both Foreign Affairs and Judiciary committees suggests complex jurisdictional questions remain unresolved. Without cost-benefit analysis or clear strategic goals tied to verifiable outcomes, this represents government expansion on faith rather than evidence. The bill follows proper legislative process but fails fiscal responsibility and measurable benefit tests at this stage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9508 (June 2026)",
-      "House Committee on Foreign Affairs referral",
-      "Congressional action status, 119th Congress"
-    ]
-  },
-  {
-    "id": 654,
-    "sourceId": "cg:119-HR-9562",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9562?format=json",
-    "branch": "Congress",
-    "date": "Jul 6",
-    "dateISO": "2026-07-06",
-    "title": "HR 9562: Anchors Away Act",
-    "score": -28,
-    "snapshot": "HR 9562 proposes to end birthright citizenship for children born in the U.S. to undocumented parents, directly contradicting the 14th Amendment's Citizenship Clause as interpreted by 150+ years of precedent. The bill remains in committee with no CBO score available.",
-    "verdict": "// VERDICT: Attempts to rewrite constitutional birthright citizenship through statute rather than amendment, creating legal chaos while generating enforcement costs without measurable border security improvement.",
-    "detail": "The Anchors Away Act seeks to deny automatic citizenship to U.S.-born children if neither parent is a citizen or lawful permanent resident. <strong>This directly conflicts with the 14th Amendment (\"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens\"), which requires constitutional amendment to alter, not simple legislation.</strong> The proposal would create a new class of stateless children born on U.S. soil, trigger immediate legal challenges likely resulting in Supreme Court rejection per United States v. Wong Kim Ark (1898), and impose verification burdens on hospitals and state vital records systems. No fiscal analysis demonstrates cost savings outweigh litigation and administrative expenses. The bill circumvents constitutional amendment processes, imposing legal uncertainty on vulnerable newborns while generating no documented deterrent effect on unauthorized immigration.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "14th Amendment, U.S. Constitution",
-      "United States v. Wong Kim Ark, 169 U.S. 649 (1898)",
-      "Congressional Record, HR 9562 (119th Congress)",
-      "House Judiciary Committee referral, June 2026"
     ]
   }
 ]
