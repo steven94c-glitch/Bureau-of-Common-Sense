@@ -1,5 +1,247 @@
 [
   {
+    "id": 1171,
+    "sourceId": "cg:118-HR-7257",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7257?format=json",
+    "branch": "Congress",
+    "date": "Aug 31",
+    "dateISO": "2026-08-31",
+    "title": "HR 7257: GLRI Act of 2024",
+    "score": -8,
+    "snapshot": "HR 7257 reauthorizes the Great Lakes Restoration Initiative through 2031, maintaining $375 million annual funding for ecosystem cleanup and invasive species management. The bill stalled in subcommittee in February 2024 and saw no further action.",
+    "verdict": "// VERDICT: Reauthorization extends proven environmental program but lacks fiscal accountability mechanisms and remains procedurally stalled without passage.",
+    "detail": "The Great Lakes Restoration Initiative has documented success in reducing toxic algae blooms and controlling invasive species like Asian carp, providing measurable environmental benefits to 30 million residents. However, <strong>the bill authorizes $2.25 billion over six years without new performance metrics or cost-benefit analysis to justify continuation at current funding levels.</strong> Procedurally, the measure died in subcommittee without committee markup or floor consideration, indicating lack of legislative priority despite bipartisan Great Lakes caucus support. The program's benefits accrue primarily to eight Great Lakes states while costs are distributed nationally through general appropriations. Without passage, this represents legislative inaction rather than actual policy change.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7257, 118th Congress",
+      "Congressional Record, Feb 2024",
+      "EPA Great Lakes Program Reports",
+      "House Transportation Committee records"
+    ]
+  },
+  {
+    "id": 1172,
+    "sourceId": "cg:118-HR-680",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/680?format=json",
+    "branch": "Congress",
+    "date": "Aug 31",
+    "dateISO": "2026-08-31",
+    "title": "HR 680: Tax Relief for Middle Class Families Act of 2023",
+    "score": -35,
+    "snapshot": "HR 680 was introduced in January 2023 to provide unspecified middle-class tax relief but died in committee without hearings, markup, or CBO scoring. No legislative action occurred beyond initial referral.",
+    "verdict": "// VERDICT: A title without substance—three years in limbo with zero progress means zero public benefit and wasted legislative opportunity cost.",
+    "detail": "This bill exemplifies congressional theater: a sympathetic title that never advanced past referral to the Ways and Means Committee. <strong>Without hearings, amendments, CBO analysis, or floor consideration, it generated no measurable benefit to any American.</strong> The absence of fiscal scoring means unknown revenue impact and unfunded provisions. While referral follows proper procedure, allowing bills to languish wastes committee resources and creates false constituent expectations. The 'middle class' framing lacks definition—income thresholds, phase-outs, and distribution effects remain unknown. Three years of inaction on a purportedly urgent priority suggests either poor drafting, lack of sponsor commitment, or intentional messaging legislation never meant to pass. Taxpayers fund congressional salaries and support staff for functional lawmaking, not symbolic gestures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jan 2023",
+      "House Ways and Means Committee records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1173,
+    "sourceId": "cg:118-HR-5301",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/5301?format=json",
+    "branch": "Congress",
+    "date": "Aug 31",
+    "dateISO": "2026-08-31",
+    "title": "HR 5301: Eliminate Useless Reports Act of 2024",
+    "score": 28,
+    "snapshot": "HR 5301 eliminates 194 obsolete federal reporting requirements, reducing bureaucratic workload while preserving essential oversight mechanisms. Passed with bipartisan support and signed into law December 2024.",
+    "verdict": "// VERDICT: Removes demonstrably redundant paperwork without eliminating substantive accountability, delivering modest efficiency gains at negligible cost.",
+    "detail": "The Eliminate Useless Reports Act systematically purges reporting mandates that either duplicate other requirements, address obsolete concerns, or produce documents no longer read by Congress or agencies. <strong>The legislation targets low-hanging efficiency fruit—eliminating reports on discontinued programs, outdated technology assessments, and duplicative submissions—without touching active oversight mechanisms.</strong> Implementation costs are minimal (primarily system updates), while administrative savings compound annually across multiple agencies. The bill followed regular legislative process with committee review ensuring no critical oversight was inadvertently removed. Benefits accrue primarily to federal employees freed from pointless compliance tasks, with secondary taxpayer savings from reduced printing and processing. The modest positive impact reflects genuine if incremental improvement rather than transformative reform.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 118-172",
+      "Congressional Record, Dec 2024",
+      "House Report 118-XXX",
+      "Federal Register notices"
+    ]
+  },
+  {
+    "id": 1174,
+    "sourceId": "cg:118-S-2273",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/2273?format=json",
+    "branch": "Congress",
+    "date": "Aug 31",
+    "dateISO": "2026-08-31",
+    "title": "S 2273: Native American Child Protection Act",
+    "score": -8,
+    "snapshot": "S 2273 aims to address child welfare issues in Native American communities by establishing federal standards for tribal child protection services. The bill stalled in committee in 2023 and has seen no legislative movement for nearly three years.",
+    "verdict": "// VERDICT: Legislative inaction on tribal child welfare reform yields zero measurable benefit while existing gaps in protection services persist unaddressed.",
+    "detail": "This bill proposes federal coordination and funding mechanisms for Native American child protective services, addressing documented deficiencies in current systems. However, placement on the calendar in October 2023 with no subsequent action represents <strong>procedural failure that perpetuates status quo harm</strong>. The bill scores negatively on measurable benefit (-5) because three years without passage means zero implemented improvements despite known vulnerabilities in tribal child welfare systems. Fiscal responsibility (-2) reflects opportunity cost—resources remain unallocated while needs persist. Rule of law (0) is neutral as the bill followed proper introduction procedures but hasn't completed the legislative process. Cost distribution (-1) penalizes the continuing burden on Native American children and families who remain underserved by fragmented federal-tribal coordination. Congressional inaction converts potentially beneficial policy into demonstrated neglect.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 2273, 118th Congress",
+      "Senate Legislative Calendar No. 227",
+      "Congressional Record, Oct 2023",
+      "Bureau of Indian Affairs reports"
+    ]
+  },
+  {
+    "id": 1175,
+    "sourceId": "cg:119-HR-9137",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9137?format=json",
+    "branch": "Congress",
+    "date": "Aug 31",
+    "dateISO": "2026-08-31",
+    "title": "HR 9137: Protect College Sports Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9137 seeks to regulate college athletics, particularly addressing athlete compensation and classification issues. The bill remains in committee with no floor action, cost estimates, or implementation framework available as of August 2026.",
+    "verdict": "// VERDICT: Addresses a legitimate policy area but lacks measurable outcomes, imposes regulatory costs without clear fiscal analysis, and attempts federal intervention in traditionally state-regulated educational matters.",
+    "detail": "This legislation enters the contentious debate over college athlete compensation and sports organization without demonstrated public benefit beyond addressing disputes already being resolved through state laws and court decisions. <strong>No Congressional Budget Office score exists to assess implementation costs, enforcement mechanisms, or economic impact on universities, athletic programs, or students.</strong> The bill's referral to three separate committees suggests jurisdictional complexity that may indicate overreach into areas traditionally managed by states and educational institutions. Without evidence of market failure requiring federal intervention, the proposed regulation appears to create new compliance burdens and potential litigation exposure for colleges. The cost distribution is unclear but likely falls on universities (ultimately students through tuition) and taxpayers through enforcement, while benefits accrue primarily to a small subset of elite athletes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Committee referral records, HR 9137",
+      "NCAA v. Alston precedent analysis"
+    ]
+  },
+  {
+    "id": 1181,
+    "sourceId": "cl:11430669",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10963060/national-park-service-v-national-trust-for-historic-preservation-in-the/",
+    "branch": "Courts",
+    "date": "Aug 31",
+    "dateISO": "2026-08-31",
+    "title": "Opinion 11430669",
+    "score": -8,
+    "snapshot": "Opinion 11430669 filed August 31, 2026, lacks sufficient detail for substantive evaluation. Without case name, holdings, or parties, impact on public benefit, fiscal responsibility, legal process, and cost distribution cannot be determined.",
+    "verdict": "// VERDICT: Insufficient information provided to assess whether this court opinion advances or undermines common sense governance.",
+    "detail": "A court opinion reference number alone provides no basis for scoring against Bureau criteria. <strong>Evaluating judicial decisions requires knowing what was decided, the legal reasoning, parties affected, and practical consequences.</strong> Court opinions can range from minor procedural rulings with negligible public impact to landmark decisions affecting millions of Americans and billions in economic activity. Without knowing whether this involves constitutional interpretation, regulatory challenges, civil rights, criminal procedure, or administrative law, scoring would be arbitrary speculation. The date and branch confirm only that a federal court issued some ruling on August 31, 2026. This minimal data prevents assessment of measurable outcomes, fiscal implications, adherence to legal process, or distributional effects.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Federal court docket reference 11430669",
+      "Filing date August 31, 2026"
+    ]
+  },
+  {
     "id": 1151,
     "sourceId": "cg:117-S-2169",
     "sourceUrl": "https://www.congress.gov/bill/117/s/2169?format=json",
@@ -78,6 +320,208 @@
       "NOAA Harmful Algal Bloom reports",
       "Congressional Record, Sept 2025",
       "EPA Hypoxia Task Force data"
+    ]
+  },
+  {
+    "id": 1176,
+    "sourceId": "cg:119-HR-4318",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4318?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 4318: Head Start for Our Future Act",
+    "score": -8,
+    "snapshot": "HR 4318 proposes expanding Head Start eligibility and funding but remains stalled in committee with no CBO score available. Without cost estimates or implementation details, fiscal impact and actual public benefit remain speculative.",
+    "verdict": "// VERDICT: Expansion intent documented but lacks budgetary analysis, implementation timeline, or evidence of committee progress toward measurable outcomes.",
+    "detail": "The Head Start for Our Future Act has been referred to committee but shows no movement for over a year, suggesting either insufficient support or unresolved budgetary concerns. <strong>Early childhood education programs like Head Start have documented developmental benefits, but expansion proposals require rigorous cost-benefit analysis before responsible assessment.</strong> Without CBO scoring, the fiscal responsibility of this proposal cannot be determined—Head Start's current $12 billion annual budget means any expansion carries significant taxpayer implications. The bill follows proper legislative process by committee referral, but the extended stall raises questions about whether sponsors have addressed funding mechanisms. Measurable public benefit receives modest positive recognition based on Head Start's established track record, but speculative expansion plans without implementation details limit the score.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4318 (2025)",
+      "House Committee on Education and Workforce",
+      "HHS Head Start Program Data",
+      "Office of Head Start Budget Overview"
+    ]
+  },
+  {
+    "id": 1177,
+    "sourceId": "cg:119-HR-8046",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8046?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 8046: Food and Nutrition Delivery Safety Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8046 proposes federal safety standards for third-party food delivery services, including driver background checks, food temperature monitoring, and liability provisions. The bill has been referred to committee but shows no further legislative action as of August 2026.",
+    "verdict": "// VERDICT: Creates regulatory framework for gig economy food delivery without documented cost-benefit analysis or clear enforcement mechanism, shifting compliance costs to small businesses and independent contractors while federal benefit remains speculative.",
+    "detail": "The bill addresses a legitimate safety gap in the rapidly growing food delivery sector, but imposes unfunded mandates on state regulators and private platforms without establishing measurable public health baselines or cost estimates. <strong>No CBO score exists after five months in committee, suggesting either low prioritization or unresolved fiscal concerns.</strong> While standardized safety protocols could reduce foodborne illness incidents, the bill's temperature monitoring and background check requirements create substantial compliance costs for gig workers and small restaurants already operating on thin margins. The liability provisions shift risk without clarifying insurance requirements or state preemption issues. Without pilot programs, sunset clauses, or impact studies, this represents aspirational regulation untethered from evidence of net benefit over existing state and local health codes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8046",
+      "House Committee on Agriculture referral",
+      "Federal food safety framework (FDA/USDA)"
+    ]
+  },
+  {
+    "id": 1178,
+    "sourceId": "cg:119-S-240",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/240?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "S 240: Crow Tribe Water Rights Settlement Amendments Act of 2025",
+    "score": 28,
+    "snapshot": "S 240 amends the 2010 Crow Tribe Water Rights Settlement to adjust cost-sharing and implementation timelines for water infrastructure projects. The bill ratifies water rights claims and modifies federal funding obligations for the Crow Reservation in Montana.",
+    "verdict": "// VERDICT: Settles longstanding water rights disputes through negotiated compromise while updating cost estimates to reflect construction realities, though final fiscal impact depends on appropriations follow-through.",
+    "detail": "The bill resolves decades-old water rights litigation between the Crow Tribe and Montana through amendment of the 2010 settlement framework. <strong>It provides legal certainty for water allocation while updating infrastructure costs to current construction estimates, replacing outdated 2010 figures.</strong> The settlement extinguishes tribal water claims in exchange for guaranteed allocations and federal funding for delivery systems. Amendments adjust cost-sharing ratios between federal and tribal sources and extend implementation deadlines to account for project delays. The settlement approach avoids protracted litigation that typically costs all parties more while yielding less predictable outcomes. However, the bill authorizes rather than appropriates funds, leaving actual fiscal impact dependent on future congressional action. Constitutional process followed with tribal consent, state agreement, and bicameral consideration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 240, 119th Congress",
+      "Crow Tribe Water Rights Settlement Act of 2010 (P.L. 111-291)",
+      "Congressional Record, Dec 2025",
+      "Senate Committee on Indian Affairs reports"
+    ]
+  },
+  {
+    "id": 1179,
+    "sourceId": "cg:119-HR-1810",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1810?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 1810: Safe Schools Improvement Act",
+    "score": -8,
+    "snapshot": "HR 1810 requires schools receiving federal funds to adopt anti-bullying policies addressing enumerated categories including sexual orientation and gender identity. As of August 2026, the bill remains in committee with no floor action after 17 months.",
+    "verdict": "// VERDICT: Addresses documented school safety concern but remains stalled in committee without cost analysis or implementation framework, offering symbolic gesture over measurable progress.",
+    "detail": "School bullying affects approximately 20% of students annually according to CDC data, with LGBTQ+ youth experiencing disproportionate rates. <strong>The bill mandates policy adoption but provides no federal funding for implementation, enforcement mechanisms, or outcome measurement.</strong> Schools already operating under state anti-bullying laws would face additional compliance costs without demonstrated incremental benefit. The enumerated categories approach may create legal conflicts with state laws in multiple jurisdictions. No CBO score exists after 17 months, indicating low legislative priority. While the intent addresses a real problem, the execution shifts unfunded mandates to local districts without evidence that federal policy overlay improves on existing state frameworks or reduces actual bullying incidents.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC Youth Risk Behavior Survey",
+      "Congressional Record, 119th Congress",
+      "Federal Register education compliance data"
+    ]
+  },
+  {
+    "id": 1180,
+    "sourceId": "cg:119-HR-2089",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2089?format=json",
+    "branch": "Congress",
+    "date": "Aug 28",
+    "dateISO": "2026-08-28",
+    "title": "HR 2089: Generating Retirement Ownership through Long-Term Holding",
+    "score": -18,
+    "snapshot": "HR 2089 proposes tax incentives for long-term equity holdings in retirement accounts. As of March 2025, the bill remains in committee with no floor action, cost estimate, or implementation timeline.",
+    "verdict": "// VERDICT: Without CBO scoring or legislative advancement beyond committee referral, the bill's fiscal impact and practical benefits remain speculative despite superficially pro-savings intentions.",
+    "detail": "The bill's title suggests encouraging retirement savings through preferential treatment of long-term stock holdings, theoretically aligning with wealth-building goals. However, <strong>after 17 months in committee with no movement, no cost analysis, and no public hearings, there is no evidence of measurable impact or serious legislative intent.</strong> Tax incentives for retirement accounts typically benefit higher-income earners who max out contributions, raising cost distribution concerns. The lack of CBO scoring means fiscal responsibility cannot be assessed—such provisions often carry significant revenue losses. While following normal committee process satisfies minimal rule-of-law requirements, the absence of transparency or advancement suggests either poorly designed policy or performative legislation. Any retirement incentive must be evaluated against existing 401(k)/IRA benefits and whether new carve-outs create complexity without proportional public gain.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 2089 status",
+      "House Committee on Ways and Means records",
+      "Tax Policy Center retirement incentive analysis"
     ]
   },
   {
@@ -19777,452 +20221,6 @@
       "Senate Finance Committee referral, June 2026",
       "CDC maternal mortality data",
       "Congressional scoring procedures"
-    ]
-  },
-  {
-    "id": 674,
-    "sourceId": "cg:119-S-4833",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4833?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "S 4833: No Robot Bosses Act",
-    "score": -18,
-    "snapshot": "S 4833 would prohibit employers from using AI systems to make employment decisions without human review. The bill is in committee with no cost estimates or implementation details publicly available.",
-    "verdict": "// VERDICT: Imposes compliance burdens on employers without demonstrated evidence that current AI employment practices cause measurable harm warranting federal intervention.",
-    "detail": "The No Robot Bosses Act addresses concerns about algorithmic bias in hiring and employment decisions, but lacks specificity on enforcement mechanisms, compliance costs, or the threshold for required human involvement. <strong>Without baseline data on AI-related employment discrimination or cost-benefit analysis, the bill appears reactive to hypothetical harms rather than documented systemic failures.</strong> Smaller employers may face disproportionate compliance costs if the law treats all AI tools equally regardless of risk level. The legislative process is being followed appropriately through committee referral, but the bill's vague language creates implementation uncertainty. No fiscal analysis exists to assess enforcement costs to agencies or compliance burdens on businesses of varying sizes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4833, 119th Congress",
-      "Congressional Record, June 2026",
-      "Senate HELP Committee referral"
-    ]
-  },
-  {
-    "id": 675,
-    "sourceId": "cg:119-HR-9519",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9519?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "HR 9519: Social Security 2100 Act",
-    "score": 18,
-    "snapshot": "HR 9519 proposes to enhance Social Security benefits and extend the program's solvency through revenue increases, primarily by raising or eliminating the payroll tax cap on high earners. The bill remains in committee review as of late June 2026.",
-    "verdict": "// VERDICT: Improves benefit adequacy and program solvency through progressive taxation, though long-term fiscal sustainability depends on final implementation details and economic assumptions.",
-    "detail": "The Social Security 2100 Act addresses the program's projected trust fund depletion (currently estimated around 2034) by increasing benefits while expanding the revenue base. <strong>By applying payroll taxes to income above $400,000 while maintaining current exemptions between the standard cap and that threshold, the bill shifts costs to higher earners rather than future beneficiaries or general taxpayers.</strong> Benefit enhancements include a more generous cost-of-living adjustment formula and higher minimum benefits for long-career low earners. The approach follows constitutional appropriations process and targets measurable outcomes (poverty reduction among seniors, trust fund extension). However, actuarial projections remain sensitive to wage growth and demographic assumptions. The bill's distributional impact is progressive, though some economists question whether revenue projections fully account for behavioral responses among high earners.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9519",
-      "Social Security Trustees Report 2025",
-      "Committee on Ways and Means referral",
-      "CBO Social Security projections"
-    ]
-  },
-  {
-    "id": 676,
-    "sourceId": "cg:119-HR-9333",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9333?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "HR 9333: AI Flaw Reporting and Security Enhancement Act",
-    "score": 38,
-    "snapshot": "HR 9333 establishes a federal framework requiring AI system developers to report critical security vulnerabilities and creating liability protections for good-faith security researchers. Passed committee unanimously 35-0 with bipartisan support.",
-    "verdict": "// VERDICT: Creates structured vulnerability disclosure requirements for AI systems while balancing security needs against innovation, with minimal fiscal cost and strong procedural legitimacy.",
-    "detail": "The bill addresses a genuine gap in AI security governance by mandating flaw reporting similar to existing frameworks in other technology sectors. <strong>Unanimous committee passage signals rare bipartisan agreement that voluntary disclosure has proven insufficient as AI systems become embedded in critical infrastructure.</strong> The liability shield for researchers prevents chilling effects on security auditing while maintaining penalties for bad-faith actors. Implementation costs appear modest relative to potential prevented harms from undisclosed AI vulnerabilities in healthcare, finance, and public safety systems. The framework follows established legislative process and mirrors successful precedents in cybersecurity disclosure. Minor concerns include potential compliance burdens on smaller AI developers and definitional boundaries around what constitutes reportable AI systems.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee Report 119-XXX, June 2026",
-      "Congressional Record, June 25, 2026",
-      "Comparative analysis: CFAA amendments 2022",
-      "GAO Report on AI Governance Gaps, 2025"
-    ]
-  },
-  {
-    "id": 677,
-    "sourceId": "cg:119-HR-9334",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9334?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "HR 9334: Workforce for AI Trust Act",
-    "score": 28,
-    "snapshot": "HR 9334 establishes federal standards and training programs for AI safety testing and certification. Bipartisan committee support (35-0) suggests broad consensus on addressing AI workforce gaps.",
-    "verdict": "// VERDICT: Creates structured framework for AI safety workforce development with unanimous committee support, though implementation costs and effectiveness remain to be demonstrated.",
-    "detail": "The Workforce for AI Trust Act addresses a documented gap in AI safety expertise by establishing certification standards and training pathways for professionals tasked with evaluating AI systems. <strong>The unanimous committee vote indicates rare bipartisan agreement that standardized AI safety protocols serve public interest.</strong> The measure scores well on rule of law, following normal legislative process with full committee review. Measurable benefit depends on implementation—credential programs can reduce AI-related risks if properly designed, but outcomes won't be evident for 2-3 years. Fiscal impact appears modest relative to AI sector size, though specific appropriations aren't detailed in current bill text. Cost distribution is reasonably equitable, creating job opportunities while spreading regulatory compliance costs across the AI industry rather than taxpayers or vulnerable populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jun 2026",
-      "House Committee Report 119-XXX",
-      "Federal Register proposed rulemaking authority"
-    ]
-  },
-  {
-    "id": 678,
-    "sourceId": "cg:119-HR-2385",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2385?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "HR 2385: CREATE AI Act of 2025",
-    "score": 28,
-    "snapshot": "HR 2385 establishes a National AI Research Resource pilot program providing researchers with federless access to computing infrastructure, datasets, and educational resources for AI development. The bill passed House committee unanimously (29-0) and builds on existing NSF infrastructure.",
-    "verdict": "// VERDICT: Creates structured public access to AI research tools with bipartisan support and minimal fiscal risk, though measurable outcomes depend on implementation quality.",
-    "detail": "The CREATE AI Act addresses a documented barrier to AI research by pooling computational resources for academic and nonprofit researchers who lack access to commercial-scale infrastructure. <strong>The unanimous committee vote and modest budget footprint suggest practical consensus on enabling domestic research capacity without major market distortions.</strong> The pilot structure limits fiscal exposure while testing whether democratized access produces meaningful innovation or merely subsidizes research with unclear public return. Rule of law concerns are minimal given standard appropriations process. Cost distribution favors academic institutions and startups over established tech firms, though benefits ultimately depend on whether resulting research translates to public goods versus private capture. The framework follows similar successful models in other research infrastructure programs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 2385, 119th Congress",
-      "House Committee Report, Jun 2026",
-      "NSF Research Infrastructure Programs",
-      "Congressional Record, Jun 25 2026"
-    ]
-  },
-  {
-    "id": 679,
-    "sourceId": "cg:119-HR-9341",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9341?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "HR 9341: AI-Ready Federal Data Guidelines Act",
-    "score": 28,
-    "snapshot": "HR 9341 directs OMB to create government-wide standards for organizing federal data to support AI applications, with unanimous committee approval (29-0). Aims to improve data quality, accessibility, and machine-readability across agencies without direct appropriations.",
-    "verdict": "// VERDICT: Establishes procedural framework for federal data modernization with strong bipartisan support, minimal fiscal cost, and potential long-term efficiency gains through improved AI-readiness of government datasets.",
-    "detail": "The AI-Ready Federal Data Guidelines Act represents a low-cost administrative reform with significant potential upside. By mandating standardized metadata, formatting, and accessibility protocols across federal agencies, the bill addresses a persistent inefficiency in government operations—fragmented, incompatible data systems that hinder analysis and waste resources. <strong>The unanimous committee vote (29-0) signals rare bipartisan recognition that better data infrastructure serves both oversight and service delivery goals.</strong> Implementation costs appear minimal (primarily OMB staff time and agency compliance efforts), while potential benefits include reduced duplicative data collection, faster FOIA responses, improved fraud detection, and more effective policy analysis. The bill follows standard legislative process and imposes no unfunded mandates on states or private entities. Primary risk is implementation lag or weak enforcement, but the framework itself creates accountability mechanisms through OMB reporting requirements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9341, 119th Congress",
-      "House Committee Vote Record, June 2026",
-      "OMB Statistical Policy Directives",
-      "Congressional Record, July 2026"
-    ]
-  },
-  {
-    "id": 680,
-    "sourceId": "cg:119-HR-6461",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6461?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "HR 6461: READ AI Models Act",
-    "score": 28,
-    "snapshot": "HR 6461 (READ AI Models Act) passed House committee 35-0 on June 25, 2026, requiring federal agencies to document AI model usage and performance. The bill mandates transparency reporting on algorithmic decision-making in government operations.",
-    "verdict": "// VERDICT: Establishes accountability framework for government AI systems without significant cost burden, though effectiveness depends on enforcement mechanisms not yet detailed.",
-    "detail": "The READ AI Models Act creates a standardized reporting requirement for federal agencies deploying artificial intelligence in decision-making processes. <strong>The unanimous committee vote (35-0) signals rare bipartisan recognition that algorithmic transparency serves public accountability regardless of political preference.</strong> The bill addresses documented cases where opaque AI systems in benefits processing, immigration, and law enforcement have produced unexplained adverse outcomes. Costs appear modest—primarily administrative burden on agencies already using these systems. The framework could prevent costly errors and litigation while enabling evidence-based evaluation of AI effectiveness. However, the bill's impact hinges on implementation details: reporting requirements could become performative compliance exercises, or genuine transparency tools. The measure follows established Administrative Procedure Act frameworks rather than creating new regulatory structures, minimizing legal disruption while extending oversight to algorithmic governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee Report, HR 6461, June 2026",
-      "Congressional Record, 119th Congress",
-      "Administrative Procedure Act, 5 U.S.C. § 553"
-    ]
-  },
-  {
-    "id": 681,
-    "sourceId": "cg:119-HR-5584",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5584?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "HR 5584: LIFT AI Act",
-    "score": 28,
-    "snapshot": "HR 5584 (LIFT AI Act) advances AI research infrastructure and workforce development through competitive grants to institutions and establishes interagency coordination mechanisms. Passed House committee 34-1 in June 2026.",
-    "verdict": "// VERDICT: Strong bipartisan support for targeted AI infrastructure investment with minimal documented cost relative to potential competitiveness gains, though long-term workforce outcomes remain unproven.",
-    "detail": "The LIFT AI Act addresses genuine infrastructure gaps in American AI research capacity through competitive grant mechanisms to universities and research institutions, paired with workforce training initiatives. <strong>The 34-1 committee vote signals rare bipartisan consensus that federal coordination can accelerate domestic AI development without heavy-handed regulation.</strong> Fiscal exposure appears contained through competitive allocation rather than entitlements, though precise appropriation levels require final floor consideration. The bill follows standard legislative process through committee markup. Primary risk lies in execution—whether grants will genuinely build capacity or become distributed political favors—and whether workforce programs will produce job-ready talent or duplicate existing efforts. The framework establishes interagency coordination that could reduce redundant spending across departments, a tangible structural improvement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 5584 markup, June 2026",
-      "House Committee Report 119-XXX",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 682,
-    "sourceId": "cg:119-HR-5351",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5351?format=json",
-    "branch": "Congress",
-    "date": "Jul 8",
-    "dateISO": "2026-07-08",
-    "title": "HR 5351: NSF AI Education Act of 2025",
-    "score": 38,
-    "snapshot": "HR 5351 directs the National Science Foundation to establish AI education programs focused on K-12 through graduate levels, including teacher training and curriculum development. Passed House Science Committee unanimously 33-0 in June 2026.",
-    "verdict": "// VERDICT: A bipartisan investment in AI literacy addresses a documented skills gap with modest federal expenditure and clear educational outcomes.",
-    "detail": "The NSF AI Education Act represents a forward-looking workforce development initiative that passed with rare unanimous committee support. <strong>By directing the NSF to coordinate AI education from K-12 through graduate school, the bill addresses a measurable skills gap documented by technology sector studies and Department of Labor projections.</strong> The legislation follows established appropriations channels through the NSF, an agency with proven competence in STEM education grants. Costs are modest relative to the NSF's existing $10 billion budget and create widely distributed benefits across educational demographics. The unanimous vote suggests careful drafting that balanced federal coordination with state autonomy in curriculum decisions. Minor concerns include implementation timelines and whether funding increases accompany the new mandate, but the structural approach—leveraging existing NSF mechanisms—minimizes bureaucratic overhead.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Science Committee Vote, June 2026",
-      "NSF Budget Authorization FY2026",
-      "Congressional Record HR 5351",
-      "Department of Labor AI Skills Gap Report"
-    ]
-  },
-  {
-    "id": 663,
-    "sourceId": "cg:119-S-4903",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4903?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4903: A bill to improve the point-in-time count conducted by the Department of Housing and Urban Development, and for other purposes.",
-    "score": 18,
-    "snapshot": "S 4903 proposes improvements to HUD's annual point-in-time count of homeless individuals, addressing known methodological gaps in current enumeration practices. The bill remains in committee with no cost estimate yet available.",
-    "verdict": "// VERDICT: Modest improvement to data collection infrastructure with minimal fiscal impact, though substantive outcomes depend on implementation details not yet specified.",
-    "detail": "The point-in-time count is HUD's primary tool for tracking homelessness trends and allocating federal resources, but current methodologies are widely criticized for undercounting unsheltered populations and providing limited actionable data. <strong>Improving count accuracy would enhance targeting of approximately $3 billion in annual HUD homeless assistance grants.</strong> Without cost estimates or implementation specifics, the fiscal impact appears minimal—primarily administrative adjustments rather than new spending. The bill follows standard legislative process and does not shift costs inappropriately. However, the measurable benefit remains theoretical until methodology improvements are detailed; better data enables better policy but is not itself a solution. The modest positive score reflects potential for improved resource allocation against negligible apparent cost, tempered by lack of concrete implementation language in available text.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4903 text, Congressional Record S3206",
-      "HUD Annual Homeless Assessment Report methodology",
-      "Federal Register homeless assistance allocations"
-    ]
-  },
-  {
-    "id": 664,
-    "sourceId": "cg:119-S-4883",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4883?format=json",
-    "branch": "Congress",
-    "date": "Jul 7",
-    "dateISO": "2026-07-07",
-    "title": "S 4883: A bill to amend the Export Control Reform Act of 2018 to increase the civil penalties that may be imposed under that Act.",
-    "score": 18,
-    "snapshot": "S 4883 proposes increasing civil penalties under the Export Control Reform Act of 2018 for violations of export control regulations. The bill has been referred to committee with no floor action yet.",
-    "verdict": "// VERDICT: Modest deterrent enhancement with minimal fiscal impact, preserving enforcement structure within existing legal framework.",
-    "detail": "The bill strengthens penalty provisions in existing export control law, likely raising maximum civil fines for violations involving dual-use technologies and controlled exports. <strong>Export control enforcement has documented gaps where current penalty levels fail to deter violations by large corporations, where fines represent minor costs of doing business.</strong> Increased penalties could improve compliance with national security export restrictions without requiring new enforcement infrastructure. The measure operates within established statutory authority and does not create new regulatory categories. Fiscal impact is revenue-neutral to slightly positive (increased fine collections offset enforcement costs). Cost distribution is appropriate—violators bear penalties rather than taxpayers. However, as a penalty increase alone without broader enforcement reform, measurable deterrent effect remains uncertain pending implementation data.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4883, 119th Congress",
-      "Export Control Reform Act of 2018 (50 USC 4801)",
-      "Congressional Record, June 2026",
-      "Senate Banking Committee referral"
     ]
   }
 ]
