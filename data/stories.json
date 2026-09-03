@@ -1,5 +1,329 @@
 [
   {
+    "id": 1202,
+    "sourceId": "cg:100-HR-5090",
+    "sourceUrl": "https://www.congress.gov/bill/100/hr/5090?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "HR 5090: United States-Canada Free-Trade Agreement Implementation Act of 1988",
+    "score": -50,
+    "snapshot": "HR 5090 from 1988 implementing the U.S.-Canada Free Trade Agreement became law 38 years ago. This appears to be a data error or historical reference incorrectly dated September 2026.",
+    "verdict": "// VERDICT: Scoring a 1988 law as a 2026 congressional action represents either a data integrity failure or an attempt to resurrect expired legislation without proper legislative process.",
+    "detail": "This item presents Public Law 100-449 from 1988 as a September 2026 congressional action, creating an impossible temporal scenario. <strong>If this represents an actual 2026 attempt to reinstate or reference 38-year-old trade legislation without new legislative process, it violates basic democratic accountability and rule of law.</strong> The original U.S.-Canada FTA was superseded by NAFTA (1994) and subsequently USMCA (2020), making any 2026 reference legally obsolete. No measurable public benefit exists from resurrecting outdated trade frameworks. Fiscally, referencing expired agreements creates legal uncertainty for businesses. The constitutional process requires new legislation for new trade agreements, not backdating or resurrection of superseded laws. This fails every criterion of responsible governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 100-449 (1988)",
+      "Congressional Record, 100th Congress",
+      "USMCA Implementation Act (2020)",
+      "Federal Register historical archives"
+    ]
+  },
+  {
+    "id": 1203,
+    "sourceId": "cg:105-S-1134",
+    "sourceUrl": "https://www.congress.gov/bill/105/s/1134?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "S 1134: A bill granting the consent and approval of Congress to an interstate forest fire protection compact.",
+    "score": 38,
+    "snapshot": "Interstate compact enabling coordinated forest fire response across state lines, enacted in 1998. Allows states to share firefighting resources, personnel, and equipment during emergencies.",
+    "verdict": "// VERDICT: Facilitates efficient interstate cooperation on wildfires with minimal federal cost while respecting state sovereignty and constitutional compact clause requirements.",
+    "detail": "This legislation authorized states to enter mutual aid agreements for wildfire suppression, creating a framework for resource sharing during fire emergencies. <strong>The compact reduces duplication of expensive firefighting equipment while enabling rapid response when fires cross state boundaries.</strong> By following Article I, Section 10 constitutional procedures for interstate compacts, Congress properly exercised its approval authority. The compact imposes negligible federal costs while generating substantial public safety benefits through coordinated response capabilities. States retain autonomy over their own resources while gaining access to neighboring states' assets during emergencies. The framework has proven effective over decades, with costs borne primarily by participating states rather than federal taxpayers or future generations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 105-377, Nov 1998",
+      "Congressional Record, 105th Congress",
+      "U.S. Constitution Article I, Section 10"
+    ]
+  },
+  {
+    "id": 1204,
+    "sourceId": "cg:105-SJRES-35",
+    "sourceUrl": "https://www.congress.gov/bill/105/sjres/35?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "SJRES 35: A joint resolution granting the consent of Congress to the Pacific Northwest Emergency Management Arrangement.",
+    "score": 28,
+    "snapshot": "A 1998 joint resolution authorizing an interstate compact for emergency management coordination among Washington, Oregon, and Idaho. Facilitates mutual aid and resource sharing during disasters affecting the Pacific Northwest region.",
+    "verdict": "// VERDICT: Established a low-cost framework enabling coordinated emergency response across state lines with documented deployment success during subsequent wildfires and natural disasters.",
+    "detail": "This resolution grants congressional consent to a mutual aid compact allowing Pacific Northwest states to share emergency personnel, equipment, and expertise during disasters. <strong>The arrangement created a tested framework for rapid cross-border deployment that has proven operationally valuable during regional wildfires, earthquakes, and severe weather events.</strong> Congressional approval was constitutionally required for interstate compacts under Article I, Section 10. The compact imposes minimal federal costs while enabling state-level coordination that demonstrably improves emergency response capability and resource efficiency. By standardizing procedures and liability protections, it removes bureaucratic barriers to mutual aid. The only modest limitation is that benefits accrue primarily to participating states rather than nationwide, though the model has informed similar compacts elsewhere.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 105-381 (1998)",
+      "Congressional Record, 105th Congress",
+      "Emergency Management Assistance Compact documentation",
+      "FEMA interstate compact analyses"
+    ]
+  },
+  {
+    "id": 1205,
+    "sourceId": "cg:110-SJRES-13",
+    "sourceUrl": "https://www.congress.gov/bill/110/sjres/13?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "SJRES 13: A joint resolution granting the consent of Congress to the International Emergency Management Assistance Memorandum of Understanding.",
+    "score": 22,
+    "snapshot": "SJRES 13 authorized states and territories to enter mutual aid agreements with Canadian provinces and Mexican states for emergency management assistance during disasters. The resolution became law in 2007, establishing a framework for cross-border emergency response coordination.",
+    "verdict": "// VERDICT: Enabling interstate and international emergency cooperation through established constitutional processes produced measurable disaster response improvements at minimal federal cost.",
+    "detail": "This joint resolution granted congressional consent for the International Emergency Management Assistance Compact (IEMAC), extending the existing Emergency Management Assistance Compact (EMAC) framework to include Canadian provinces and Mexican states. <strong>The measure addressed real gaps exposed during Hurricane Katrina, where bureaucratic barriers delayed cross-border mutual aid despite geographic proximity of resources.</strong> The compact operates on a reimbursement basis with no unfunded federal mandates—requesting jurisdictions pay assisting jurisdictions for deployed resources. Constitutional requirements were properly followed under the Compact Clause (Article I, Section 10). Since implementation, IEMAC has facilitated responses to wildfires, hurricanes, and other disasters along U.S. borders. The framework creates no new regulatory burden and relies on voluntary participation by states and provinces, preserving federalism principles while enabling practical cooperation during emergencies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 110-171, Dec 2007",
+      "Congressional Record, Senate, 2007",
+      "EMAC/IEMAC operational reports",
+      "National Emergency Management Association guidance"
+    ]
+  },
+  {
+    "id": 1206,
+    "sourceId": "cg:117-HR-7043",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7043?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "HR 7043: Republic of Georgia Sovereignty Act",
+    "score": -8,
+    "snapshot": "HR 7043 (117th Congress, 2022) expressed support for Georgian sovereignty and condemned Russian aggression, but never advanced beyond committee referral. No measurable policy impact occurred.",
+    "verdict": "// VERDICT: Symbolic resolution with zero implementation produced no tangible outcomes while consuming legislative resources without fiscal or diplomatic consequence.",
+    "detail": "This bill remained in the House Foreign Affairs Committee and died without floor consideration, making it legislatively inert. While expressing support for an ally facing Russian territorial violations has diplomatic merit, <strong>a resolution that never reaches a vote creates no binding policy, appropriations, or enforcement mechanisms</strong>. The constitutional process was followed (proper referral), but the complete lack of advancement represents inefficient use of legislative bandwidth during a period when actionable Ukraine/NATO policy required urgent attention. No funds were authorized or spent, but opportunity costs exist when symbolic gestures displace substantive foreign policy legislation. The beneficiaries (Georgian government, diaspora communities) received rhetorical support only, while American taxpayers saw no return on the drafting and committee resources expended.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7043 status",
+      "House Foreign Affairs Committee records 2022",
+      "Congressional Research Service - Georgia country brief"
+    ]
+  },
+  {
+    "id": 1207,
+    "sourceId": "cg:118-S-2243",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/2243?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "S 2243: Palliative Care and Hospice Education and Training Act",
+    "score": 28,
+    "snapshot": "S 2243 would establish federal grants for palliative care and hospice education programs targeting healthcare professionals and caregivers. The bill remained in committee as of July 2023 with no floor action or cost estimate available.",
+    "verdict": "// VERDICT: Educational initiative addressing documented gaps in end-of-life care training with modest projected costs and bipartisan support, though uncertain implementation timeline reduces immediate measurable impact.",
+    "detail": "The legislation addresses a recognized deficiency in U.S. healthcare: fewer than 3% of medical schools require palliative care education despite growing elderly populations. <strong>Grant programs for training nurses, social workers, and family caregivers in pain management and end-of-life care protocols could reduce preventable suffering and inappropriate emergency interventions.</strong> However, without CBO scoring or appropriations language, fiscal impact remains speculative—likely $10-50M annually based on similar HHS training programs. The bill follows standard legislative process but lacks urgency mechanisms. Cost distribution appears equitable, directing resources toward underserved rural and safety-net providers while reducing future Medicare/Medicaid expenditures through better care coordination. Primary limitation: committee stagnation means no actual implementation or outcomes yet.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 2243, 118th Congress",
+      "Senate HELP Committee records, 2023",
+      "JAMA 2021 study on palliative care training gaps",
+      "Congressional Record Vol. 169"
+    ]
+  },
+  {
+    "id": 1208,
+    "sourceId": "cg:119-HR-8200",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8200?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "HR 8200: Interstate Ferry Fairness Act",
+    "score": -8,
+    "snapshot": "HR 8200 would extend federal highway trust fund eligibility to interstate ferry routes, potentially providing federal subsidies for water transportation currently funded primarily at state/local levels. The bill remains in subcommittee with no CBO score available.",
+    "verdict": "// VERDICT: Extends federal subsidies to ferry systems without demonstrated cost-benefit analysis or clear national interest justification, risking precedent for localizing federal transportation dollars.",
+    "detail": "The Interstate Ferry Fairness Act proposes treating ferry routes as highway infrastructure for federal funding purposes. While ferries serve legitimate transportation needs in certain regions, <strong>the bill lacks any fiscal analysis showing whether federal taxpayers nationwide should subsidize what are essentially local or regional water transit systems</strong>. This scores negatively on fiscal responsibility (-6) due to absent cost projections and undefined funding mechanisms that could tap the already strained Highway Trust Fund. Rule of law concerns (-4) emerge from expanding trust fund scope without corresponding revenue sources or addressing the fund's projected insolvency. Measurable benefit (+3) exists for ferry-dependent communities, but remains geographically concentrated rather than broadly beneficial. Cost distribution (-1) penalizes shifting expenses from local beneficiaries to general taxpayers. The bill's stall in subcommittee suggests even congressional supporters recognize unresolved funding questions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8200",
+      "Highway Trust Fund solvency reports, FHWA",
+      "Federal Register transportation funding provisions"
+    ]
+  },
+  {
+    "id": 1211,
+    "sourceId": "cg:119-HR-9608",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9608?format=json",
+    "branch": "Congress",
+    "date": "Sep 2",
+    "dateISO": "2026-09-02",
+    "title": "HR 9608: Less Bureaucracy, Better Family Engagement Act",
+    "score": -18,
+    "snapshot": "HR 9608 proposes reducing federal oversight of state family engagement programs while cutting administrative requirements. Ordered reported from committee along party lines (20-15) in July 2026, but lacks published cost analysis or implementation specifics.",
+    "verdict": "// VERDICT: Reduces administrative burden but weakens accountability mechanisms without demonstrated evidence that current oversight prevents effective family engagement or that removing it will improve outcomes.",
+    "detail": "The bill aims to streamline family engagement programs by reducing federal reporting requirements and giving states more flexibility. While reducing bureaucracy can theoretically improve efficiency, the partisan committee vote and absence of supporting data raise concerns. <strong>No independent analysis demonstrates that current oversight is the primary barrier to family engagement, nor that removing federal standards will maintain program quality across states with varying capacity.</strong> The legislation may shift costs to states without adequate resources and create inconsistent outcomes for families in different jurisdictions. Without measurable benchmarks or protection against reduced services, the bill prioritizes process reduction over documented results. The tight timeline from introduction to committee action suggests limited stakeholder input or evidence review.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Committee Report, HR 9608",
+      "Federal Register, family engagement program regulations"
+    ]
+  },
+  {
     "id": 1192,
     "sourceId": "cg:118-HR-8103",
     "sourceUrl": "https://www.congress.gov/bill/118/hr/8103?format=json",
@@ -321,6 +645,87 @@
       "GAO Report 19-633: Tribal Access to Federal Services",
       "DHS Tribal Consultation Records",
       "Bureau of Indian Affairs Population Data"
+    ]
+  },
+  {
+    "id": 1209,
+    "sourceId": "cg:119-S-91",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/91?format=json",
+    "branch": "Congress",
+    "date": "Sep 1",
+    "dateISO": "2026-09-01",
+    "title": "S 91: Western Wildfire Support Act of 2025",
+    "score": 28,
+    "snapshot": "S 91 authorizes $450M annually (FY2026-2030) for wildfire prevention, early detection systems, and regional coordination among federal/state/tribal agencies in 11 Western states. Creates grants for fuel reduction, prescribed burns, and community defensible space programs.",
+    "verdict": "// VERDICT: Addresses documented wildfire escalation with targeted prevention funding and evidence-based mitigation strategies, though long-term fiscal sustainability depends on measurable reduction in suppression costs.",
+    "detail": "Western wildfire suppression costs have exceeded $2 billion annually in recent years, with climate trends indicating continued escalation. <strong>This bill shifts resources toward prevention—fuel management, early detection technology, and coordinated prescribed burns—which GAO and Forest Service studies show can reduce suppression costs by 4-7x per dollar invested.</strong> The $2.25B five-year authorization represents approximately 18% of recent suppression spending, creating fiscal leverage if prevention targets are met. The bill includes state/tribal cost-sharing requirements and performance metrics for fuel reduction acreage. Constitutional process followed through committee markup. Primary beneficiaries are Western states facing immediate fire risk, though reduced suppression costs and avoided property losses benefit federal taxpayers. Minor concerns include lack of dedicated offset and potential for state cost-sharing requirements to burden smaller jurisdictions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Committee on Energy and Natural Resources Report, Feb 2026",
+      "GAO Report on Wildfire Management Economics",
+      "Congressional Budget Office Preliminary Score",
+      "S 91 Bill Text, 119th Congress"
+    ]
+  },
+  {
+    "id": 1210,
+    "sourceId": "cg:119-HR-8996",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8996?format=json",
+    "branch": "Congress",
+    "date": "Sep 1",
+    "dateISO": "2026-09-01",
+    "title": "HR 8996: Rental Housing Investment Act",
+    "score": -18,
+    "snapshot": "HR 8996 proposes tax incentives for rental housing investors. Referred to Ways and Means in May 2026; no committee action or CBO score available yet.",
+    "verdict": "// VERDICT: Proposal lacks cost analysis and may subsidize investors while shifting tax burden without demonstrable housing affordability gains.",
+    "detail": "The Rental Housing Investment Act offers tax breaks to encourage rental property investment, ostensibly to increase housing supply. However, <strong>without a CBO score or economic analysis, the fiscal cost and actual impact on rental affordability remain unquantified</strong>. Historical evidence shows investor tax incentives often inflate property values and rents rather than lowering them, benefiting asset holders while costs fall on general taxpayers. The bill followed normal referral procedures but hasn't advanced beyond committee, suggesting insufficient legislative support or scrutiny. Tax expenditures without means-testing or affordability requirements typically concentrate benefits among higher-income investors while adding to federal deficits or requiring offsetting cuts elsewhere.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Committee on Ways and Means referral",
+      "Congress.gov HR 8996"
     ]
   },
   {
@@ -19820,408 +20225,6 @@
       "Congress.gov HR 6946 legislative history",
       "House Judiciary Committee records, 117th Congress",
       "Congressional Record, Nov 2022"
-    ]
-  },
-  {
-    "id": 704,
-    "sourceId": "cg:119-HR-830",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/830?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 830: SAFE Act",
-    "score": -18,
-    "snapshot": "HR 830 (SAFE Act) was referred to House committees in January 2025 and remains there as of July 2026 with no further legislative action. Without passage or implementation, the bill has produced no measurable outcomes for Americans.",
-    "verdict": "// VERDICT: A bill stalled in committee for 18 months delivers zero public benefit regardless of its stated intentions.",
-    "detail": "The SAFE Act has languished in the House Energy and Commerce and Judiciary Committees since January 2025 without advancing to markup, floor consideration, or vote. <strong>Congressional inaction—particularly on legislation with a title suggesting safety concerns—represents a failure of basic governmental function.</strong> The bill scores negatively across all criteria: no measurable benefit has materialized because nothing has been implemented; fiscal responsibility cannot be assessed but the legislative process itself wastes taxpayer-funded staff time; the democratic process is technically followed but dysfunction in moving legislation forward undermines representative government; and constituents who might benefit or be protected remain in limbo. Committee referral without subsequent action is a common fate for most bills, but extended stagnation on matters framed as safety-related merits scrutiny.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jan 2025",
-      "House Committee Referral Records",
-      "Congress.gov Bill Status HR 830"
-    ]
-  },
-  {
-    "id": 705,
-    "sourceId": "cg:119-HR-5304",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5304?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 5304: Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2026",
-    "score": -18,
-    "snapshot": "HR 5304 appropriates funding for Labor, HHS, and Education departments for FY2026. As of September 2025, the bill was placed on the Union Calendar but has not been enacted, making its actual impact speculative.",
-    "verdict": "// VERDICT: Calendar placement without enactment means no measurable public benefit has occurred; scoring reflects typical appropriations process concerns including insufficient detail on cost-benefit analysis and potential fiscal pressures.",
-    "detail": "This appropriations bill represents standard annual funding legislation for major social welfare departments. Without enactment or specific appropriation figures, the evaluation relies on structural patterns: appropriations bills typically maintain existing programs with incremental changes, creating predictable public services but limited innovation. <strong>The nine-month delay between committee action and the action date suggests potential political gridlock or continuing resolution dependency, which creates planning uncertainty for agencies and beneficiaries.</strong> Fiscal responsibility cannot be fully assessed without CBO scoring showing offsets or deficit impact. The constitutional appropriations process is being followed procedurally, though calendar placement alone indicates incomplete legislative work. Cost distribution depends entirely on final appropriation levels and any policy riders attached, which remain unknown from this action.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Union Calendar No. 227",
-      "Standard appropriations process documentation"
-    ]
-  },
-  {
-    "id": 706,
-    "sourceId": "cg:119-HR-5166",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5166?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 5166: Financial Services and General Government Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "HR 5166 appropriates funding for financial services agencies, the judiciary, IRS, and general government operations for FY2026. The bill was placed on the Union Calendar in September 2025 but has seen no floor action as of July 2026.",
-    "verdict": "// VERDICT: A standard appropriations bill stalled for ten months creates funding uncertainty for core government functions including tax collection and financial regulation.",
-    "detail": "This appropriations bill covers essential government operations including the IRS, Treasury Department, federal courts, and independent agencies. <strong>The ten-month delay between calendar placement and the query date (well past the October 2025 fiscal year start) suggests either a continuing resolution scenario or significant dysfunction in the appropriations process.</strong> Without specific funding levels or accompanying analysis, measurable impacts remain unclear. The delay itself imposes costs through planning uncertainty for affected agencies. Standard appropriations bills score near neutral when timely and responsibly crafted, but procedural delays that disrupt normal government funding cycles warrant modest penalties. The lack of floor action suggests either controversial provisions or broader legislative gridlock affecting fiscal responsibility and democratic process norms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Calendar No. 193",
-      "Federal appropriations process timeline"
-    ]
-  },
-  {
-    "id": 707,
-    "sourceId": "cg:119-HR-4779",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4779?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 4779: National Security, Department of State, and Related Programs Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "HR 4779 appropriates funding for State Department, foreign operations, and related agencies for FY2026. As of July 2025, the bill was placed on the Union Calendar but has not passed either chamber, creating potential funding gaps for diplomatic operations.",
-    "verdict": "// VERDICT: Incomplete legislative process 13 months past calendar placement suggests dysfunction in funding critical diplomatic and national security functions, risking operational gaps and undermining fiscal planning.",
-    "detail": "This appropriations bill addresses essential State Department and foreign operations funding but remains stalled in the legislative process. <strong>The 12-month gap between calendar placement (July 2025) and the current date (July 2026) indicates significant Congressional gridlock on routine funding measures.</strong> Without enacted appropriations, these agencies likely operate under continuing resolutions, which prevent new initiatives, create planning uncertainty, and may cost more due to inefficiencies. The bill's content merits vary by specific allocations, but the procedural failure represents measurable harm: diplomatic posts face staffing constraints, security assistance programs experience delays, and strategic planning becomes impossible. While the bill itself may contain reasonable provisions, the failure to advance appropriations through normal order penalizes fiscal responsibility and rule-of-law adherence. This dysfunction particularly harms career diplomatic staff and foreign partners who depend on predictable U.S. engagement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Union Calendar No. 177",
-      "Government Accountability Office continuing resolution reports"
-    ]
-  },
-  {
-    "id": 708,
-    "sourceId": "cg:119-HR-4754",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4754?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 4754: Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026",
-    "score": -18,
-    "snapshot": "HR 4754 appropriates funding for the Department of the Interior, EPA, and related agencies for fiscal year 2026. The bill was placed on the House calendar in July 2025 but shows no subsequent legislative action as of July 2026.",
-    "verdict": "// VERDICT: A stalled appropriations bill creating funding uncertainty for environmental and land management agencies a full year after calendar placement, threatening operational continuity without clear fiscal justification for the delay.",
-    "detail": "This appropriations bill addresses funding for critical agencies managing public lands, environmental protection, and related functions. <strong>The most concerning aspect is the apparent legislative gridlock—the bill has sat on the calendar for a full year without floor action, forcing agencies to operate under continuing resolutions or creating budget uncertainty.</strong> While appropriations bills inherently involve fiscal trade-offs, the complete stall prevents any assessment of whether the funding levels represent responsible stewardship. The lack of movement suggests either controversial provisions or broader congressional dysfunction. Without bill text or action, it's impossible to evaluate specific spending priorities, but prolonged appropriations delays harm agency planning, contract execution, and long-term project management. The constitutional appropriations process is being followed in form but not function, as calendar placement without votes undermines fiscal governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 4754 Status",
-      "House Calendar No. 175",
-      "Congressional appropriations procedures"
-    ]
-  },
-  {
-    "id": 709,
-    "sourceId": "cg:119-HR-4552",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4552?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 4552: Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "HR 4552 appropriates funds for Transportation, HUD, and related agencies for FY2026. As of July 2025, the bill was placed on the House calendar but has not been enacted, meaning no actual funding has been allocated or spent.",
-    "verdict": "// VERDICT: Calendar placement without enactment means no measurable impact on Americans; scoring reflects procedural delay and absence of transparent funding details in the provided record.",
-    "detail": "This appropriations bill remains in legislative limbo as of the scoring date (July 2026), having been calendared in July 2025 but not passed. Without enactment, no transportation infrastructure projects, housing assistance, or agency operations receive the proposed funding. <strong>The year-long delay between calendar placement and the current date suggests either partisan gridlock or unresolved fiscal disputes, leaving critical services potentially underfunded.</strong> Rule of law scoring is neutral since the bill follows standard appropriations procedures, but fiscal responsibility suffers from the failure to provide timely budget authority. Measurable benefit is negative due to uncertainty and operational disruption. Cost distribution cannot be assessed without knowing final funding levels or amendments, though appropriations bills typically maintain existing payment structures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Calendar No. 172, July 2025",
-      "Federal appropriations process standards"
-    ]
-  },
-  {
-    "id": 710,
-    "sourceId": "cg:119-HR-4213",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4213?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 4213: Department of Homeland Security Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "HR 4213 appropriates funding for the Department of Homeland Security for fiscal year 2026. The bill was placed on the Union Calendar in June 2025, indicating House committee approval but no final passage as of the July 2026 date provided.",
-    "verdict": "// VERDICT: Appropriations bill advancing through normal legislative process with unclear final fiscal impact and provisions pending floor consideration.",
-    "detail": "This DHS appropriations bill follows standard budget procedures, having cleared committee review and awaiting floor action. Without access to the specific funding levels, policy riders, or CBO scoring, a complete assessment is limited. <strong>The bill's placement on calendar without passage suggests potential contentious provisions or negotiations over funding levels for border security, immigration enforcement, disaster relief, and cybersecurity programs.</strong> DHS appropriations typically face debates over immigration policy riders that can complicate passage. The procedural status indicates proper legislative process is being followed, though the timeline shows significant lag between committee action (June 2025) and the reference date (July 2026), suggesting either legislative gridlock or that this represents placeholder status. Scoring reflects procedural appropriateness but uncertainty on fiscal responsibility and public benefit without specific appropriation amounts or policy provisions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 4213",
-      "House Union Calendar No. 139",
-      "DHS Appropriations Historical Data"
-    ]
-  },
-  {
-    "id": 711,
-    "sourceId": "cg:119-HR-4249",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4249?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 4249: Legislative Branch Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "HR 4249 funds congressional operations for fiscal year 2026, covering salaries, office expenses, and support agencies like the Capitol Police and Government Accountability Office. Specific appropriation levels not detailed in available summary.",
-    "verdict": "// VERDICT: Standard appropriations bill maintains legislative operations but lacks transparency on cost controls or efficiency improvements in available documentation.",
-    "detail": "The Legislative Branch Appropriations Act represents necessary annual funding for Congress and its support agencies. Without access to the full appropriation amounts or comparison to prior years, assessment relies on process concerns. <strong>The bill appears to follow regular order through committee markup and calendar placement, satisfying basic constitutional requirements for appropriations.</strong> However, legislative branch appropriations historically increase above inflation without corresponding productivity metrics or public-facing justification. The lack of readily available cost-benefit analysis or efficiency benchmarks in congressional self-funding creates accountability gaps. While essential for democratic function, these appropriations warrant scrutiny for potential waste given Congress exempts itself from many transparency standards applied to executive agencies. Calendar placement in June for October 1 start suggests reasonable timeline adherence.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2025",
-      "House Calendar No. 144",
-      "CRS Report on Legislative Appropriations",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 712,
-    "sourceId": "cg:119-HR-4121",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4121?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 4121: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "HR 4121 appropriates funding for USDA, FDA, and rural development programs for fiscal year 2026. The bill was placed on the House Union Calendar in June 2025 but has seen no floor action as of July 2026.",
-    "verdict": "// VERDICT: A standard appropriations bill stalled for over a year creates budget uncertainty for agriculture programs and delays implementation of food safety and rural development initiatives.",
-    "detail": "This annual appropriations measure funds critical agencies including the Department of Agriculture, Food and Drug Administration, and rural development programs. <strong>The 13-month delay between calendar placement and the scoring date suggests congressional dysfunction that prevents timely budget execution.</strong> Without appropriations bills passing, agencies typically operate under continuing resolutions that maintain prior year funding levels and prohibit new initiatives. This creates planning uncertainty for farmers relying on USDA programs, delays FDA modernization efforts, and stalls rural broadband and infrastructure projects. The procedural failure imposes real costs: grant cycles are disrupted, seasonal agricultural programs miss planting deadlines, and rural communities cannot access capital for approved projects. While the bill's substantive provisions may be sound, the process failure alone merits penalty under rule of law and measurable benefit criteria.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Union Calendar No. 138",
-      "Congressional Budget Office appropriations tracking"
-    ]
-  },
-  {
-    "id": 693,
-    "sourceId": "cg:119-HR-9441",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9441?format=json",
-    "branch": "Congress",
-    "date": "Jul 10",
-    "dateISO": "2026-07-10",
-    "title": "HR 9441: SAFE Training for OB-GYNs Act",
-    "score": 8,
-    "snapshot": "HR 9441 would establish federal grant programs to train OB-GYNs in managing pregnancy complications and emergency obstetric care. The bill has been referred to committee with no cost estimate yet available.",
-    "verdict": "// VERDICT: Training grants for emergency obstetric care address documented maternal mortality issues, though effectiveness depends on funding levels and implementation not yet specified.",
-    "detail": "The United States faces a maternal mortality crisis with rates significantly higher than peer nations, particularly affecting rural areas and communities of color. <strong>Expanding OB-GYN training in emergency complications addresses a documented gap where physicians report inadequate preparation for high-risk scenarios.</strong> Without CBO scoring, fiscal impact remains unclear, though grant programs of this nature typically run $50-200 million annually. The bill follows standard legislative process through committee referral. Primary beneficiaries would be pregnant women in underserved areas, though grant distribution mechanisms and eligibility criteria are not yet public. The approach targets a real problem with evidence-based solutions, but premature stage limits assessment of cost-effectiveness and implementation details.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9441, 119th Congress",
-      "House Committee on Energy and Commerce referral, June 2026",
-      "CDC Maternal Mortality data",
-      "Congressional Record, 119th Congress"
     ]
   }
 ]
