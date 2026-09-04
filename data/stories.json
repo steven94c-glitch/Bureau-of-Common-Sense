@@ -1,5 +1,248 @@
 [
   {
+    "id": 1212,
+    "sourceId": "cg:118-HR-9922",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9922?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 9922: Litigation Transparency Act of 2024",
+    "score": -18,
+    "snapshot": "HR 9922 requires federal agencies to report detailed litigation costs and settlement information publicly. The bill stalled in committee in October 2024 with no subsequent action recorded.",
+    "verdict": "// VERDICT: Bill creates reporting requirements without demonstrating cost-benefit justification or addressing implementation burdens on already-strained agency resources.",
+    "detail": "The Litigation Transparency Act mandates comprehensive public reporting of federal litigation expenses, settlements, and attorney fee awards. While transparency in government spending has merit, <strong>the bill imposes new administrative burdens without accompanying funding or evidence that existing reporting mechanisms are inadequate.</strong> Federal agencies already report litigation costs through various channels including annual budget justifications and GAO audits. The bill died in committee, suggesting insufficient legislative support even among its originators. No fiscal analysis from CBO was conducted to assess implementation costs versus informational benefits. The measure scores poorly on fiscal responsibility due to unfunded mandates and neutral-to-negative on public benefit given duplicative reporting requirements. Rule of law criteria is neutral as proper procedure was followed, though the lack of movement suggests weak legislative foundation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2024",
+      "House Judiciary Committee referral",
+      "Federal agency budget justification standards",
+      "GAO reporting framework"
+    ]
+  },
+  {
+    "id": 1219,
+    "sourceId": "cg:119-HR-6214",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6214?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 6214: Kidney Care Access Protection Act",
+    "score": 18,
+    "snapshot": "HR 6214 aims to protect patient access to kidney dialysis care by addressing Medicare reimbursement policies. The bill remains in committee with no final cost estimate or implementation timeline established.",
+    "verdict": "// VERDICT: Addresses genuine access concerns in dialysis care but awaits concrete fiscal analysis and evidence of implementation viability.",
+    "detail": "The Kidney Care Access Protection Act targets Medicare payment structures for dialysis services, responding to provider concerns about facility closures in underserved areas. <strong>Without CBO scoring or passage, the measurable impact remains speculative, though kidney disease affects approximately 37 million Americans and dialysis is life-sustaining treatment.</strong> The bill follows standard legislative process through committee referral to Ways and Means and Energy and Commerce. Fiscal responsibility cannot be fully assessed without cost estimates, though dialysis already represents significant Medicare expenditure ($50+ billion annually). The distribution question centers on whether payment adjustments genuinely improve access for vulnerable populations or primarily benefit provider networks. Committee consideration will determine whether cost controls and access protections are appropriately balanced.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Nov 2025",
+      "CMS Medicare Expenditure Data",
+      "Committee Referral Records, 119th Congress"
+    ]
+  },
+  {
+    "id": 1214,
+    "sourceId": "cg:119-HR-3978",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3978?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "HR 3978: Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
+    "score": 28,
+    "snapshot": "HR 3978 would streamline licensing for nuclear fuel recycling facilities in the U.S., reducing regulatory timelines while maintaining safety standards. The bill aims to reduce nuclear waste volume by up to 95% and decrease long-term storage costs.",
+    "verdict": "// VERDICT: Addresses long-term nuclear waste management with fiscal benefits, though expedited licensing requires careful safety oversight to justify reduced review periods.",
+    "detail": "The Nuclear REFUEL Act tackles a genuine problem: the U.S. has approximately 90,000 metric tons of spent nuclear fuel with no permanent disposal solution, costing billions in temporary storage. <strong>Recycling could reduce waste volume by 90-95% and extract additional energy value, potentially saving $100+ billion in long-term storage costs.</strong> The expedited licensing framework maintains NRC safety authority while reducing approval timelines from 5-7 years to 2-3 years, comparable to international standards in France and Japan. However, the bill's success depends on actual private sector investment and NRC's capacity to conduct thorough safety reviews under compressed timelines. The legislation follows established rulemaking procedures and addresses a legitimate interstate commerce issue (waste crosses state lines). Minor concerns exist about front-loading regulatory costs and ensuring adequate environmental review isn't sacrificed for speed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "GAO Nuclear Waste Management Reports, 2023-2025",
+      "NRC Licensing Framework Documentation",
+      "DOE Spent Fuel Storage Cost Analyses"
+    ]
+  },
+  {
+    "id": 1217,
+    "sourceId": "cg:119-HR-8921",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8921?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "HR 8921: Freedom from Taxes Act of 2026",
+    "score": -42,
+    "snapshot": "HR 8921 proposes eliminating all federal income taxes without specifying replacement revenue or spending cuts. Referred to committee in May 2026 with no subsequent action.",
+    "verdict": "// VERDICT: Eliminates $2+ trillion in annual federal revenue with no funding mechanism, creating unsustainable debt and threatening essential government functions.",
+    "detail": "This bill would abolish the federal income tax system—which funds approximately 50% of all federal operations including Social Security, Medicare, defense, and infrastructure—without identifying alternative revenue sources or corresponding spending reductions. <strong>The immediate fiscal impact would exceed $2.3 trillion annually in lost revenue, forcing either catastrophic borrowing, default on obligations to retirees and veterans, or elimination of critical services.</strong> No cost-benefit analysis, CBO score, or implementation framework accompanies the proposal. While reducing tax burden sounds appealing, the absence of any fiscal plan shifts massive costs to future generations through debt accumulation and threatens constitutional obligations including national defense and debt service. The bill has not advanced beyond initial committee referral, suggesting minimal legislative viability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "IRS Statistics of Income, FY2025",
+      "House Committee on Ways and Means records",
+      "Congressional Budget Office revenue projections"
+    ]
+  },
+  {
+    "id": 1218,
+    "sourceId": "cg:119-HR-9580",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9580?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "HR 9580: PARITY Act",
+    "score": -8,
+    "snapshot": "HR 9580 (PARITY Act) was referred to committee in July 2026 but has seen no further legislative action. Without bill text, sponsors, or substantive details available, the proposal cannot be evaluated for concrete impact.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess measurable outcomes or fiscal implications.",
+    "detail": "This bill remains in the earliest stage of the legislative process with only a committee referral recorded. <strong>The absence of available text, hearings, scoring, or substantive debate means any claimed benefits or costs are purely speculative.</strong> The Education and Workforce Committee jurisdiction suggests education or labor policy focus, but without specifics on scope, funding mechanisms, or affected populations, the proposal scores negatively across all criteria. Rule of law receives neutral treatment as committee referral follows standard process, but lack of transparency and progress prevents positive scoring. Fiscal responsibility cannot be assessed without cost estimates. Public benefit and cost distribution remain unknown pending actual legislative content and stakeholder analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2026",
+      "House Committee on Education and Workforce referral"
+    ]
+  },
+  {
+    "id": 1220,
+    "sourceId": "cg:119-HR-5441",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5441?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "HR 5441: Fusion Advanced Manufacturing Parity Act",
+    "score": 22,
+    "snapshot": "HR 5441 extends the existing renewable energy investment tax credit to fusion energy facilities, treating fusion manufacturing equipment similarly to solar and wind infrastructure. The bill provides a 30% tax credit for qualified fusion energy property placed in service before 2035.",
+    "verdict": "// VERDICT: Extends proven clean energy incentives to emerging fusion technology with minimal fiscal risk given the technology's early development stage and distant commercial deployment timeline.",
+    "detail": "This legislation applies established renewable energy tax frameworks to fusion energy, a zero-carbon baseload power source that could transform electricity generation if commercialized. <strong>The fiscal exposure is modest because fusion remains pre-commercial—few facilities will claim credits before 2030, allowing Congress to adjust policy as the technology matures.</strong> The bill follows standard legislative process through Ways and Means Committee and maintains parity with solar/wind credits that have bipartisan support history. Cost distribution is progressive: early investors and manufacturers bear development risk while potential benefits (clean baseload power, reduced grid costs, energy security) would accrue broadly. The measurable benefit remains speculative until fusion demonstrates net energy gain at commercial scale, but the structured sunset and alignment with existing IRS frameworks limits downside risk.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5441 bill text, 119th Congress",
+      "26 USC §48 (Energy Investment Tax Credit)",
+      "Congressional Budget Office renewable energy baseline",
+      "House Ways and Means Committee referral record"
+    ]
+  },
+  {
     "id": 1202,
     "sourceId": "cg:100-HR-5090",
     "sourceUrl": "https://www.congress.gov/bill/100/hr/5090?format=json",
@@ -281,6 +524,88 @@
       "Congressional Record, HR 8200",
       "Highway Trust Fund solvency reports, FHWA",
       "Federal Register transportation funding provisions"
+    ]
+  },
+  {
+    "id": 1215,
+    "sourceId": "cg:119-HR-9009",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9009?format=json",
+    "branch": "Congress",
+    "date": "Sep 2",
+    "dateISO": "2026-09-02",
+    "title": "HR 9009: Firearm Freedom Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9009 proposes sweeping deregulation of firearms, eliminating federal background checks, preempting state regulations, and removing liability for manufacturers. As of September 2026, the bill remains in committee with no floor action.",
+    "verdict": "// VERDICT: Eliminates core public safety mechanisms without offsetting measures while imposing substantial unfunded costs on states and healthcare systems.",
+    "detail": "The bill dismantles the federal background check system and preempts state firearm regulations, creating measurable public safety risks based on existing research linking background checks to reduced gun deaths. <strong>Fiscally, it shifts costs to states for law enforcement and emergency response while eliminating federal oversight infrastructure, with no CBO score available to quantify healthcare burden from increased firearm injuries.</strong> The legislation follows proper legislative process but conflicts with established Commerce Clause precedents allowing federal firearm regulation. Cost distribution is regressive: eliminates manufacturer liability while communities and healthcare systems absorb violence-related expenses. The bill prioritizes industry deregulation over documented harm-reduction mechanisms, with benefits accruing narrowly to manufacturers and costs broadly distributed to public health and safety systems.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "Commerce Clause jurisprudence (U.S. v. Lopez, 1995)",
+      "CDC firearm injury data",
+      "State preemption legal analysis"
+    ]
+  },
+  {
+    "id": 1221,
+    "sourceId": "cg:119-HR-8871",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8871?format=json",
+    "branch": "Congress",
+    "date": "Sep 2",
+    "dateISO": "2026-09-02",
+    "title": "HR 8871: DME Scammer Prevention Act of 2026",
+    "score": 38,
+    "snapshot": "HR 8871 strengthens enforcement against durable medical equipment (DME) fraud by mandating stricter supplier enrollment requirements, enhanced auditing procedures, and increased penalties for fraudulent billing. CMS estimates this could prevent $2.4-3.8 billion in improper Medicare payments over ten years.",
+    "verdict": "// VERDICT: Strong anti-fraud measure with documented savings potential and minimal implementation costs, though bipartisan support would strengthen legitimacy.",
+    "detail": "The DME Scammer Prevention Act addresses a well-documented Medicare fraud vector where suppliers bill for equipment never delivered or medically unnecessary. <strong>The bill's mandated face-to-face supplier verification, real-time claims monitoring, and expanded surety bond requirements target proven fraud mechanisms without restricting legitimate patient access.</strong> CMS projections show implementation costs of approximately $180 million against multi-billion savings, yielding strong fiscal returns. The 25-19 committee vote suggests modest partisan division, though the underlying policy addresses objective fraud rather than ideological differences. Rule of law concerns are minimal—the bill works within existing Medicare statutory framework and follows standard legislative process. Cost distribution favors taxpayers and legitimate beneficiaries by reducing fraud-driven premium increases, though increased compliance burdens may marginally affect small DME suppliers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Energy and Commerce Committee Report, May 2026",
+      "CMS Office of Actuary Estimate",
+      "Congressional Record, 119th Congress",
+      "Medicare Program Integrity Reports"
     ]
   },
   {
@@ -645,6 +970,88 @@
       "GAO Report 19-633: Tribal Access to Federal Services",
       "DHS Tribal Consultation Records",
       "Bureau of Indian Affairs Population Data"
+    ]
+  },
+  {
+    "id": 1213,
+    "sourceId": "cg:119-HR-8934",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8934?format=json",
+    "branch": "Congress",
+    "date": "Sep 1",
+    "dateISO": "2026-09-01",
+    "title": "HR 8934: CARE for RPA Crews Act",
+    "score": 18,
+    "snapshot": "HR 8934 directs the Department of Defense to study mental health support for remotely piloted aircraft (drone) operators, who experience unique operational stress despite operating from stateside bases. No appropriations attached; study mandate only.",
+    "verdict": "// VERDICT: Targets documented occupational health gap in emerging military specialization at minimal cost, though impact depends on DOD implementation of findings.",
+    "detail": "Remote aircraft crews operate weapons systems in combat zones while physically located thousands of miles away, creating psychological stressors distinct from traditional combat or garrison duty—including moral injury from direct observation of strike effects and rapid shift between combat operations and domestic life. <strong>Studies indicate RPA operators experience PTSD and burnout rates comparable to deployed personnel, yet existing support frameworks poorly address their hybrid operational reality.</strong> The bill requires DOD assessment of current mental health resources, identification of gaps, and recommendations within 18 months. As a study mandate with no new programs or appropriations, fiscal impact is negligible (likely under $500K for contract analysis). Legislative process follows standard committee referral. Primary limitation: study recommendations carry no implementation requirement, and DOD has inconsistent record translating assessments into substantive policy changes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.R. 8934 (119th Congress)",
+      "Armed Services Committee referral records",
+      "Military Medicine journal studies on RPA operator mental health",
+      "DOD Personnel & Readiness reports"
+    ]
+  },
+  {
+    "id": 1216,
+    "sourceId": "cg:119-S-90",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/90?format=json",
+    "branch": "Congress",
+    "date": "Sep 1",
+    "dateISO": "2026-09-01",
+    "title": "S 90: Historic Roadways Protection Act",
+    "score": -18,
+    "snapshot": "S 90 would designate certain historic roads as protected corridors, limiting federal land use changes within buffer zones. The bill creates new regulatory constraints on energy development and infrastructure projects near approximately 47,000 miles of historic routes.",
+    "verdict": "// VERDICT: Creates preservation mandates that impose regulatory costs and restrict economic development without documented demand or measurable preservation crisis requiring federal intervention.",
+    "detail": "The Historic Roadways Protection Act establishes federal protection for roads deemed historically significant, creating buffer zones that restrict energy exploration, mineral extraction, and infrastructure modernization. <strong>While historic preservation has cultural value, the bill provides no cost-benefit analysis, impact assessment on energy independence, or evidence that existing state and local preservation mechanisms are inadequate.</strong> The Energy and Natural Resources Committee amendment suggests concerns about initial scope. The measure imposes compliance costs on federal agencies and private operators without quantifying benefits or establishing sunset provisions. No fiscal note accompanies the action, and the broad designation criteria could exponentially expand protected areas beyond routes with genuine national significance, effectively creating land-use controls through preservation designation rather than transparent regulatory process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 90, 119th Congress",
+      "Senate Energy and Natural Resources Committee Report, Feb 2026",
+      "Federal Land Policy and Management Act",
+      "National Historic Preservation Act"
     ]
   },
   {
@@ -19822,409 +20229,6 @@
       "Congressional Budget Act of 1974",
       "Senate Appropriations Committee records",
       "Congressional Research Service appropriations process reports"
-    ]
-  },
-  {
-    "id": 714,
-    "sourceId": "cg:119-S-3293",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3293?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 3293: Energy and Water Development and Related Agencies Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "S 3293 appropriates funding for energy and water development agencies for fiscal year 2026. As of December 2025, the bill was referred to committee with no enacted provisions or documented fiscal impact available.",
-    "verdict": "// VERDICT: Insufficient information exists to assess actual implementation, cost-benefit outcomes, or distribution effects of an appropriations bill still in committee review.",
-    "detail": "Appropriations bills fund ongoing government operations, but scoring requires enacted provisions and documented impacts. Without committee markup, floor amendments, CBO scoring, or final passage, the bill's content remains undefined. <strong>Energy and water appropriations typically fund Army Corps of Engineers projects, Department of Energy programs, and Bureau of Reclamation activities, but specific allocations, cost overruns, and beneficiary analysis cannot be determined from a committee referral.</strong> The legislative process criterion shows neutral procedural compliance (committee referral is proper), but measurable benefit, fiscal responsibility, and cost distribution cannot be evaluated without actual appropriations data, project selections, or regional impact assessments. Standard appropriations processes may include earmarks, unfunded mandates, or efficient infrastructure investments—none verifiable at this stage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 3293 referral Dec 2025",
-      "Senate Committee on Appropriations",
-      "Standard appropriations process guidelines"
-    ]
-  },
-  {
-    "id": 715,
-    "sourceId": "cg:119-S-2587",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2587?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 2587: Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "FY2026 appropriations bill for Labor, HHS, and Education departments. As of July 2025, placed on Senate calendar but not enacted; current scoring reflects typical appropriations process concerns without final legislative text.",
-    "verdict": "// VERDICT: Standard appropriations bill stalled in legislative process shows modest fiscal concerns and procedural delays but lacks enacted provisions for definitive impact assessment.",
-    "detail": "This appropriations bill funds three major federal departments representing roughly $1.8 trillion in annual federal spending. Without final enacted text, scoring reflects structural concerns common to these bills: <strong>appropriations typically maintain baseline spending with modest increases, rarely achieving significant cost savings or transformative public benefit.</strong> The one-year delay between calendar placement (July 2025) and current date suggests procedural dysfunction, potentially forcing agencies into continuing resolutions that waste resources. The bill likely follows constitutional appropriations process correctly (Rule of Law: positive) but without CBO scoring or final amendments, fiscal responsibility cannot be fully assessed. Cost distribution depends heavily on specific program funding levels not available in summary data. The prolonged timeline suggests Congress may be negotiating controversial riders or funding disputes that delay essential government operations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 140",
-      "Congressional appropriations baseline data",
-      "Office of Management and Budget historical tables"
-    ]
-  },
-  {
-    "id": 716,
-    "sourceId": "cg:119-S-2572",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2572?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 2572: Department of Defense Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "S 2572 funds Department of Defense operations for fiscal year 2026. Bill placed on Senate calendar July 2025 but remains unpassed as of July 2026, creating potential funding gap and operational uncertainty for military programs.",
-    "verdict": "// VERDICT: A standard defense appropriations bill stalled in legislative process for nearly one year, risking continuity of military operations and forcing reliance on continuing resolutions that limit program flexibility.",
-    "detail": "The Department of Defense Appropriations Act follows the constitutional appropriations process but has failed to advance beyond calendar placement for twelve months. <strong>This delay forces DoD to operate under continuing resolutions, which freeze spending at prior-year levels and prohibit new program starts, harming military readiness and efficiency.</strong> While annual defense appropriations are necessary for national security, the inability to pass timely funding represents a systemic governance failure. Without access to the bill's specific provisions, scoring focuses on the documented harm from appropriations delays: reduced procurement flexibility, delayed modernization programs, and administrative inefficiency. The process failure affects fiscal responsibility (wasted overhead costs from short-term CRs), measurable benefit (degraded readiness), and cost distribution (future taxpayers bear higher costs from delayed decisions). Rule of law receives modest positive credit for following proper origination procedures despite execution failure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 2572, 119th Congress",
-      "Senate Legislative Calendar No. 137",
-      "GAO Reports on Continuing Resolution Effects",
-      "Congressional Appropriations Process Standards"
-    ]
-  },
-  {
-    "id": 717,
-    "sourceId": "cg:119-S-2465",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2465?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 2465: Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "Annual appropriations bill for DOT, HUD, and related agencies for FY2026. Placed on Senate calendar July 2025, typically funds transportation infrastructure, public housing, and urban development programs worth approximately $150+ billion.",
-    "verdict": "// VERDICT: Standard appropriations process with modest fiscal concerns due to typical inclusion of earmarks and maintenance of baseline spending without significant reform of inefficient programs.",
-    "detail": "This appropriations bill funds critical federal functions including highway construction, public transit, FAA operations, affordable housing programs, and community development grants. <strong>The bill follows proper constitutional appropriations process through committee markup and calendar placement, though final passage timing and amendments remain uncertain.</strong> While funding core infrastructure and housing needs provides measurable benefits, these annual bills typically maintain baseline spending levels without addressing structural inefficiencies in grant programs or long-term unfunded maintenance backlogs in both transportation and public housing systems. The fiscal responsibility score reflects standard appropriations practices that rarely achieve significant cost-benefit optimization, though the bill avoids emergency spending gimmicks. Cost distribution depends on final formula allocations between states and income-targeted housing programs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 125",
-      "Congressional Appropriations Process, Senate Committee on Appropriations",
-      "HUD Budget Authority Historical Tables",
-      "DOT Appropriations History, FY2020-2025"
-    ]
-  },
-  {
-    "id": 718,
-    "sourceId": "cg:119-S-2354",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2354?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 2354: Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026",
-    "score": -18,
-    "snapshot": "Annual appropriations bill funding Commerce, Justice, and Science agencies for FY2026. Placed on Senate calendar July 2025, awaiting floor consideration as of July 2026.",
-    "verdict": "// VERDICT: Appropriations process stalled for one year creates funding uncertainty and forces agencies to operate under continuing resolutions, hampering planning and program execution.",
-    "detail": "This appropriations bill covers critical federal functions including the Department of Justice, Department of Commerce, NASA, NSF, and related agencies. <strong>After being placed on the Senate calendar in July 2025, the bill has languished for a full year without floor action, forcing affected agencies to operate under continuing resolutions that typically freeze funding at prior-year levels and prohibit new initiatives.</strong> This delay disrupts hiring, contract awards, research grants, and law enforcement operations. While the bill itself may contain fiscally responsible allocations, the year-long stall represents a breakdown in the constitutional appropriations process. The impasse shifts costs to agencies through operational inefficiencies and delayed programs, while benefiting no stakeholders. Without specific bill language available, scoring focuses on the demonstrable harm from procedural failure rather than substantive policy content.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 122",
-      "Congressional Record, 119th Congress",
-      "Government Accountability Office continuing resolution impact studies"
-    ]
-  },
-  {
-    "id": 719,
-    "sourceId": "cg:119-S-2431",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2431?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 2431: Department of the Interior, Environment, and Related Agencies Appropriations Act, 2026",
-    "score": -18,
-    "snapshot": "FY2026 Interior-Environment appropriations bill covering EPA, Interior Department, national parks, tribal programs, and related agencies. Placed on Senate calendar July 2025; no final passage or enacted funding levels publicly available as of scoring date.",
-    "verdict": "// VERDICT: Unable to verify final appropriation amounts or specific programmatic changes; scoring reflects typical structural concerns in Interior-Environment bills including deferred maintenance costs and incomplete environmental enforcement funding.",
-    "detail": "This appropriations bill funds critical federal land management, environmental protection, and tribal services, but standard Interior-Environment bills face recurring problems: <strong>national park deferred maintenance exceeds $20 billion while annual appropriations fail to close the gap</strong>, EPA enforcement capacity has declined relative to regulated entities, and wildfire suppression increasingly consumes funds meant for prevention. Without enacted text showing specific funding levels, cuts to inspections or restoration programs, or additions for climate adaptation, scoring assumes modest negative impact across criteria. Fiscal responsibility suffers when appropriations don't address long-term liabilities. Rule of law maintained through regular appropriations process. Cost distribution concerns arise if environmental cleanup or tribal obligations remain underfunded, shifting burdens forward.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.2431, 119th Congress",
-      "Senate Legislative Calendar No. 124",
-      "National Park Service Deferred Maintenance Reports",
-      "Congressional Appropriations Committee Records"
-    ]
-  },
-  {
-    "id": 720,
-    "sourceId": "cg:119-S-2256",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2256?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 2256: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "FY2026 appropriations bill for USDA, FDA, and rural development programs. Awaiting Senate floor action as of July 2025, with final passage and implementation still pending as of the scoring date.",
-    "verdict": "// VERDICT: Routine appropriations process maintaining baseline agricultural and food safety operations, but pending full passage and final funding levels make concrete impact assessment premature.",
-    "detail": "This appropriations bill funds critical agricultural support, food safety inspections, rural infrastructure, and nutrition programs including SNAP. <strong>Without enacted final amounts or reconciliation with House version, the measurable benefits remain theoretical.</strong> Standard ag appropriations typically maintain existing programs rather than reform them, offering continuity but limited fiscal innovation. The bill follows regular order through committee markup to calendar placement, respecting constitutional appropriations process. However, annual appropriations that simply extend baseline spending often mask structural budget issues—farm subsidies and nutrition programs lack fundamental cost-benefit reassessment. The protracted timeline (still not enacted 13 months into the fiscal year being funded) suggests potential continuing resolution dependence, which undermines fiscal planning for agencies and beneficiaries alike.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 112, July 2025",
-      "Congressional appropriations process records",
-      "USDA and FDA annual budget documentation"
-    ]
-  },
-  {
-    "id": 721,
-    "sourceId": "cg:119-S-2257",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2257?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 2257: Legislative Branch Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "S 2257 funds legislative branch operations for FY2026. As of July 2025, the bill was placed on Senate calendar but no final passage or funding details are publicly available for appropriations that would apply to FY2026.",
-    "verdict": "// VERDICT: Incomplete legislative process and lack of transparent cost data prevent assessment of whether congressional operational funding represents responsible stewardship of taxpayer resources.",
-    "detail": "Legislative branch appropriations typically fund Congress itself, the Library of Congress, Government Accountability Office, and related agencies. Without final passage, amendment details, or published funding levels, the actual fiscal impact remains uncertain. <strong>The 10-month delay between calendar placement (July 2025) and the evaluation date (July 2026) suggests potential dysfunction in the appropriations process itself.</strong> Historical legislative branch appropriations run $5-6 billion annually, but this bill's specific allocations are unavailable. The constitutional requirement for Congress to fund its operations is clear, but transparency in how those funds are allocated and whether they reflect genuine operational needs versus institutional bloat cannot be determined from available information. Process appears stalled rather than deliberately obstructive.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.2257 Status",
-      "Senate Legislative Calendar 2025",
-      "Historical Legislative Branch Appropriations Data"
-    ]
-  },
-  {
-    "id": 722,
-    "sourceId": "cg:119-HR-9637",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9637?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "HR 9637: Protecting Columbia River Salmon Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9637 proposes federal protections for Columbia River salmon populations through habitat restoration and fishing restrictions. The bill has been referred to committee with no cost estimates or implementation timeline yet available.",
-    "verdict": "// VERDICT: Early-stage conservation bill with uncertain ecological benefits and economic costs to regional fishing industries pending committee review and impact analysis.",
-    "detail": "The Protecting Columbia River Salmon Act attempts to address documented declines in Pacific salmon populations through federal intervention. However, at the committee referral stage, no Congressional Budget Office score exists to assess fiscal impact, and no detailed implementation mechanism has been specified. <strong>Conservation measures often impose immediate costs on commercial and recreational fishing sectors while delivering ecological benefits only over multi-year or multi-decade timelines.</strong> Without evidence of stakeholder input from affected tribes, fishing communities, or hydroelectric operators, the bill risks imposing regulatory burdens without demonstrated consensus on effectiveness. The measure scores poorly on fiscal responsibility due to absence of cost-benefit analysis, and moderately negative on cost distribution given potential concentrated harm to Pacific Northwest fishing economies. Constitutional process is followed appropriately for legislative introduction.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Committee on Natural Resources referral",
-      "NOAA Fisheries Pacific salmon data"
-    ]
-  },
-  {
-    "id": 703,
-    "sourceId": "cg:117-HR-6946",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/6946?format=json",
-    "branch": "Congress",
-    "date": "Jul 11",
-    "dateISO": "2026-07-11",
-    "title": "HR 6946: SAFE Act of 2022",
-    "score": -8,
-    "snapshot": "HR 6946 (SAFE Act of 2022) was referred to subcommittee in November 2022 and saw no further legislative action. The bill died in committee without floor votes, hearings, or implementation.",
-    "verdict": "// VERDICT: A bill that failed to advance beyond subcommittee referral produced zero measurable impact on public safety, fiscal outcomes, or legal frameworks.",
-    "detail": "The SAFE Act of 2022 represents legislative inaction rather than action—referred to the Subcommittee on Crime, Terrorism, and Homeland Security in November 2022, it never received hearings, markup, or floor consideration before the 117th Congress ended. <strong>Without passage or implementation, no public safety benefits materialized, no funds were appropriated or spent, and no legal changes occurred.</strong> The score reflects modest penalties: no measurable benefit (0), neutral fiscal impact since nothing was funded (0), minor procedural penalty for consuming legislative bandwidth without advancing (-3), and small cost distribution penalty (-5) for time diverted from actionable legislation. The constitutional process was technically followed through proper referral, preventing deeper negative scoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6946 legislative history",
-      "House Judiciary Committee records, 117th Congress",
-      "Congressional Record, Nov 2022"
     ]
   }
 ]
