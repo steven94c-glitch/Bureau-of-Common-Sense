@@ -1,5 +1,288 @@
 [
   {
+    "id": 1222,
+    "sourceId": "cg:117-HR-6406",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6406?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 6406: Stronger Engagement for Indian Health Needs Act of 2022",
+    "score": -35,
+    "snapshot": "HR 6406 was referred to subcommittee in January 2022 and never advanced. No legislative action occurred in over 4 years, producing zero measurable benefit for Indian Health Service needs despite stated intent.",
+    "verdict": "// VERDICT: A bill that died in subcommittee without hearings, votes, or implementation cannot improve health outcomes or fiscal responsibility.",
+    "detail": "The Stronger Engagement for Indian Health Needs Act was introduced with ostensibly positive goals but represents a complete legislative failure. <strong>After referral to subcommittee in January 2022, the bill received no hearings, no markup, no floor consideration, and no enactment through September 2026—a 56-month span of inaction.</strong> This produces no public health benefit for underserved Indigenous communities who face documented health disparities. The opportunity cost is substantial: congressional time and constituent expectations were invested in a proposal that yielded nothing. While the bill itself imposed no fiscal burden (it never passed), the failure to address Indian Health Service capacity gaps perpetuates existing inefficiencies and unmet needs. The procedural record shows proper referral but complete abandonment thereafter, wasting the legislative process without violating it.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6406 status",
+      "Congressional Record 117th Congress",
+      "House Committee on Natural Resources proceedings"
+    ]
+  },
+  {
+    "id": 1223,
+    "sourceId": "cg:117-HR-4267",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4267?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 4267: Multi-State Worker Tax Fairness Act of 2021",
+    "score": -18,
+    "snapshot": "HR 4267 would standardize interstate tax rules for remote workers, preventing states from taxing non-residents working remotely unless physically present 30+ days. Bill stalled in subcommittee since November 2022, never advanced.",
+    "verdict": "// VERDICT: Died in committee without floor consideration, producing zero measurable impact while failing to address documented compliance burdens on interstate workers.",
+    "detail": "The Multi-State Worker Tax Fairness Act attempted to resolve genuine tax complexity for remote workers facing multiple state tax obligations. <strong>However, the bill never progressed beyond subcommittee referral in 2022, meaning it consumed legislative resources without producing any actual relief.</strong> The 30-day physical presence threshold could have simplified compliance for millions, but constitutional concerns about federal interference in state taxation authority likely contributed to its death. With remote work increasing post-pandemic, the problem persists unaddressed. Congressional inaction here represents a failure to resolve a documented issue affecting workers in high-tax states who briefly work elsewhere, leaving confusing state-by-state rules intact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4267",
+      "House Judiciary Committee records 2022",
+      "Federal tax compliance studies"
+    ]
+  },
+  {
+    "id": 1224,
+    "sourceId": "cg:117-S-1887",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1887?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "S 1887: Multi-State Worker Tax Fairness Act of 2021",
+    "score": 18,
+    "snapshot": "S 1887 would prevent states from taxing workers who perform fewer than 30 days of work within their borders, replacing the current patchwork of state thresholds. The bill died in committee in 2021 and saw no action in the 117th Congress.",
+    "verdict": "// VERDICT: Addresses a legitimate compliance burden for mobile workers and employers but produced no measurable impact having never passed committee or received floor consideration.",
+    "detail": "The Multi-State Worker Tax Fairness Act attempted to standardize interstate tax rules for employees working across state lines, a problem amplified by remote work. <strong>By establishing a uniform 30-day threshold before states could impose income tax withholding, it would reduce administrative complexity for businesses and eliminate surprise tax bills for workers making brief cross-border trips.</strong> The proposal had bipartisan appeal in addressing real friction in the federal system. However, it raised legitimate concerns about state revenue loss and federalism, as income taxation has traditionally been a state prerogative. The bill never advanced beyond referral to Finance Committee, receiving no hearings, markup, or CBO score. Without enactment, it generated zero public benefit despite addressing a genuine problem. The concept remains sound but requires negotiation on revenue impacts and state sovereignty questions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1887, 117th Congress",
+      "Congress.gov Legislative Record",
+      "Senate Finance Committee Referral, May 2021"
+    ]
+  },
+  {
+    "id": 1225,
+    "sourceId": "cg:118-HR-10026",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/10026?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 10026: Multi-State Worker Tax Fairness Act of 2024",
+    "score": 28,
+    "snapshot": "HR 10026 would establish a 30-day threshold before states can tax non-resident remote workers, preventing taxation on brief business travel or temporary remote work. The bill standardizes multi-state tax rules that currently create compliance burdens for workers and employers operating across state lines.",
+    "verdict": "// VERDICT: Creates reasonable federal floor for remote worker taxation while reducing compliance costs and preventing double taxation, though raises federalism questions about state revenue authority.",
+    "detail": "The legislation addresses a legitimate problem created by the remote work revolution: workers face confusing, conflicting state tax rules when working temporarily across state lines. <strong>By establishing a 30-day safe harbor, the bill prevents the absurd situation where a business trip triggers multi-state tax filing requirements.</strong> This reduces compliance costs for individuals and businesses while still allowing states to tax workers with substantial economic presence. The fiscal impact on states is likely modest—most remote workers stay in one location long enough to trigger taxation anyway—while compliance savings for taxpayers and employers are real. Constitutional concerns exist about federal preemption of state tax authority, but Congress has Commerce Clause power to regulate interstate economic activity. The bill passed the House in 2024 but stalled in committee, suggesting bipartisan support tempered by state government opposition.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 10026, 118th Congress",
+      "Congressional Record, Oct 2024",
+      "Mobile Workforce Coalition estimates",
+      "State tax authority analyses"
+    ]
+  },
+  {
+    "id": 1226,
+    "sourceId": "cg:118-HR-2535",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/2535?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 2535: Stronger Engagement for Indian Health Needs Act of 2023",
+    "score": -8,
+    "snapshot": "HR 2535 aimed to improve tribal consultation in Indian Health Service operations but stalled in subcommittee in May 2023, never advancing to floor consideration or enactment. No measurable policy changes resulted.",
+    "verdict": "// VERDICT: A consultation improvement bill that died in subcommittee without implementation produces zero public benefit despite reasonable intent.",
+    "detail": "The Stronger Engagement for Indian Health Needs Act sought to enhance tribal nation involvement in IHS decision-making processes—a potentially valuable procedural reform given chronic underfunding and quality issues in Indian health care. However, <strong>the bill never escaped the Subcommittee on Indian and Insular Affairs after its May 2023 referral, meaning no consultation mechanisms were established and no tribal input processes were strengthened.</strong> Legislative failure carries opportunity cost: Congress spent time drafting and introducing a bill that addressed documented shortcomings in tribal consultation frameworks, but the initiative produced no concrete outcome. Without passage, Native American communities saw no enhanced engagement rights, IHS operations remained unchanged, and the status quo persisted. The bill's abandonment represents a missed low-cost opportunity to improve governance processes in a healthcare system serving approximately 2.6 million people, with no fiscal impact but also no delivered value.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 118th Congress",
+      "House Committee on Natural Resources proceedings",
+      "Indian Health Service consultation frameworks"
+    ]
+  },
+  {
+    "id": 1227,
+    "sourceId": "cg:118-HR-3988",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3988?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 3988: ARTICLE ONE Act",
+    "score": -18,
+    "snapshot": "The ARTICLE ONE Act seeks to restrict executive branch regulatory authority by requiring congressional approval for major rules and limiting agency interpretive deference. The bill passed committee but stalled without floor vote or enactment as of December 2024.",
+    "verdict": "// VERDICT: Creates procedural gridlock that would slow essential regulatory responses while shifting technical rulemaking burdens onto an already-dysfunctional Congress without demonstrable improvements to accountability or outcomes.",
+    "detail": "This legislation fundamentally restructures federal rulemaking by eliminating Chevron deference and mandating Congressional Review Act approval for economically significant regulations. <strong>While proponents argue it restores legislative primacy, the practical effect would paralyze agencies addressing time-sensitive issues—from food safety recalls to financial fraud—by forcing 535 legislators to vote on technical rules they lack expertise to evaluate.</strong> Congress currently struggles to pass basic appropriations; adding hundreds of regulatory approval votes creates bottlenecks without corresponding public benefit. The bill provides no funding for expanded congressional capacity, offers no faster alternative process for emergencies, and ignores that existing CRA already allows Congress to overturn rules. The Supreme Court's 2024 Loper Bright decision already eliminated Chevron deference, making portions redundant. Cost-benefit analysis is absent regarding regulatory delays' economic impact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 3988 (118th Congress)",
+      "House Calendar No. 764, Dec 2024",
+      "Congressional Review Act (5 USC 801-808)",
+      "Loper Bright v. Raimondo, 603 U.S. ___ (2024)"
+    ]
+  },
+  {
+    "id": 1232,
+    "sourceId": "cl:11435097",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10967483/national-republican-congressional-committee-v-brown/",
+    "branch": "Courts",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "Opinion 11435097",
+    "score": 18,
+    "snapshot": "Supreme Court grants stay allowing Republican party committees to access favorable broadcast rates (lowest unit charge) for political advertising during 2026 midterms. Fourth Circuit had invalidated an FCC notice extending these rates beyond individual candidates to party committees and joint fundraising groups.",
+    "verdict": "// VERDICT: The Court corrects a likely jurisdictional error that would have disrupted established advertising rates weeks before an election, preserving existing rules pending proper appellate review.",
+    "detail": "The ruling addresses a procedural irregularity where the Fourth Circuit ruled while an FCC application was still pending, contradicting uniform practice in other circuits. <strong>The stay prevents immediate disruption of broadcast pricing arrangements during the critical pre-election period, allowing normal appellate process to proceed.</strong> The jurisdictional question—whether courts can review agency actions before the agency completes its own review—has clear precedent favoring the stay. The underlying policy dispute (whether party committees merit favorable rates) remains unresolved, but preventing last-minute rule changes preserves stability for all participants. The decision applies existing statutory language about sequential review requirements rather than creating new law, and affects both parties' access to advertising equally under current FCC rules.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 26A274, Sept 2026",
+      "47 U.S.C. §155(c)(7) & §315(b)",
+      "Council Tree Communications v. FCC, 503 F.3d 284",
+      "Hollingsworth v. Perry, 558 U.S. 183"
+    ]
+  },
+  {
     "id": 1212,
     "sourceId": "cg:118-HR-9922",
     "sourceUrl": "https://www.congress.gov/bill/118/hr/9922?format=json",
@@ -78,6 +361,87 @@
       "Congressional Record, Nov 2025",
       "CMS Medicare Expenditure Data",
       "Committee Referral Records, 119th Congress"
+    ]
+  },
+  {
+    "id": 1229,
+    "sourceId": "cg:119-S-3044",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3044?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "S 3044: Wildfire Emissions Prevention Act of 2025",
+    "score": -8,
+    "snapshot": "S 3044 proposes federal regulations on wildfire emissions but remains in committee with no enacted provisions, cost estimates, or implementation framework as of September 2026.",
+    "verdict": "// VERDICT: A bill stalled in committee for nearly a year offers no measurable public benefit while creating regulatory uncertainty without defined scope or fiscal impact.",
+    "detail": "The Wildfire Emissions Prevention Act has languished in the Senate Environment and Public Works Committee since October 2025 with no movement toward passage. Without bill text, CBO scoring, or committee reports available, the proposal's actual mechanisms remain unknown. <strong>Wildfire emissions represent a genuine environmental and public health concern, but a perpetually stalled bill provides zero tangible benefit while potentially discouraging state-level innovation through federal preemption uncertainty.</strong> The extended committee delay suggests either serious implementation concerns or lack of legislative priority. Any wildfire emissions framework would require coordination across federal land management agencies, state forestry departments, and private landowners—a complex undertaking that demands clear authority and funding. The absence of fiscal analysis after 11 months raises questions about unfunded mandates on states or agencies already managing wildfire response. Rule of law concerns are minimal as the bill follows normal legislative process, but the protracted inaction while wildfire seasons intensify represents a failure of responsive governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.3044 status (119th Congress)",
+      "Senate Environment and Public Works Committee records",
+      "Congressional Research Service - Legislative Process"
+    ]
+  },
+  {
+    "id": 1231,
+    "sourceId": "cg:119-HR-5817",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5817?format=json",
+    "branch": "Congress",
+    "date": "Sep 3",
+    "dateISO": "2026-09-03",
+    "title": "HR 5817: Disqualifying Dual Loyalty Act of 2025",
+    "score": -42,
+    "snapshot": "HR 5817 would prohibit individuals holding dual citizenship from serving in Congress or certain federal positions. The bill remains in committee with no floor action since October 2025 referral.",
+    "verdict": "// VERDICT: Constitutionally problematic legislation that targets naturalized citizens' equal representation rights without demonstrating measurable security benefits.",
+    "detail": "This bill creates a categorical disqualification for dual citizens serving in Congress, directly conflicting with Article I qualifications (age, citizenship duration, residency) and equal protection principles. <strong>The Constitution already requires citizenship and includes an oath of allegiance; layering additional loyalty tests on naturalized citizens versus native-born creates a two-tier citizenship system.</strong> No evidence suggests dual citizens pose documented security risks in legislative roles beyond existing clearance processes and oath requirements. The measure fails fiscal responsibility by inviting expensive litigation challenging its constitutionality. Cost distribution is severely inequitable, as it exclusively burdens Americans who acquired citizenship through birth abroad or naturalization while native-born Americans face no such restriction. The bill violates rule of law by attempting to override constitutional qualifications through statute.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "U.S. Constitution Article I, Sections 2-3",
+      "Congressional Record, 119th Congress",
+      "Schneider v. Rusk, 377 U.S. 163 (1964)",
+      "House Committee on House Administration records"
     ]
   },
   {
@@ -524,6 +888,87 @@
       "Congressional Record, HR 8200",
       "Highway Trust Fund solvency reports, FHWA",
       "Federal Register transportation funding provisions"
+    ]
+  },
+  {
+    "id": 1228,
+    "sourceId": "cg:119-HR-6633",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6633?format=json",
+    "branch": "Congress",
+    "date": "Sep 2",
+    "dateISO": "2026-09-02",
+    "title": "HR 6633: High-Capacity Grid Act",
+    "score": 32,
+    "snapshot": "HR 6633 mandates federal investment in high-voltage transmission infrastructure to increase grid capacity and reliability, with bipartisan committee support (49-0). Aims to address bottlenecks limiting renewable energy deployment and interstate electricity transfer.",
+    "verdict": "// VERDICT: Strong bipartisan support for measurable infrastructure upgrade with documented grid congestion problems, though final fiscal impact depends on appropriations and cost-sharing mechanisms in final text.",
+    "detail": "The High-Capacity Grid Act addresses a documented infrastructure deficit—the US electric grid faces transmission capacity constraints that limit renewable energy integration and interstate power flows during peak demand. <strong>The unanimous committee vote suggests rare consensus on necessity, though implementation costs and regional cost allocation remain critical variables.</strong> Grid modernization has quantifiable benefits: reduced blackout risk, lower wholesale electricity costs through competition, and enabling renewable energy deployment that market forces already favor. Federal involvement is justified where interstate coordination failures prevent private investment. Score reflects strong public benefit potential and procedural legitimacy, with modest fiscal responsibility concerns pending appropriations detail and uncertainty about whether costs are front-loaded investment or ongoing subsidies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6633 markup",
+      "DOE Grid Capacity Reports 2024-2025",
+      "House Committee on Energy and Commerce proceedings",
+      "Federal Energy Regulatory Commission transmission studies"
+    ]
+  },
+  {
+    "id": 1230,
+    "sourceId": "cg:119-HR-5828",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5828?format=json",
+    "branch": "Congress",
+    "date": "Sep 2",
+    "dateISO": "2026-09-02",
+    "title": "HR 5828: Dads Matter Act of 2025",
+    "score": -15,
+    "snapshot": "HR 5828 'Dads Matter Act of 2025' was referred to the House Committee on Energy and Commerce in October 2025 and remains there as of September 2026. No substantive legislative action, funding authorization, or implementation has occurred.",
+    "verdict": "// VERDICT: A bill stalled in committee for nearly a year produces zero measurable impact while consuming legislative bandwidth that could address active policy needs.",
+    "detail": "This legislation has been dormant in committee for 11 months without hearings, markup, or floor consideration. <strong>Regardless of the bill's stated intent regarding paternal involvement, a proposal that never advances beyond referral generates no public benefit, incurs no fiscal cost, and affects no legal framework.</strong> The extended inaction suggests either insufficient stakeholder support, inadequate drafting, or competing legislative priorities. Congressional committees receive thousands of referrals annually; bills that languish without action represent opportunity costs in a legislative calendar with finite floor time. Without text details, implementation plans, or cost estimates from CBO, the proposal exists purely in aspirational form. The constitutional process permits indefinite committee consideration, but prolonged inertia on family policy issues—if the title indicates substance—represents a failure to translate concern into governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5828 status",
+      "House Committee on Energy and Commerce records",
+      "Congressional Research Service bill tracking"
     ]
   },
   {
@@ -19784,451 +20229,6 @@
       "Congressional Record, July 2025",
       "House Committee Referral Records",
       "Congress.gov Bill Status HR 4606"
-    ]
-  },
-  {
-    "id": 723,
-    "sourceId": "cg:119-HR-9490",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9490?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 9490: Bank Failure Accountability Act",
-    "score": -18,
-    "snapshot": "HR 9490 proposes accountability measures for bank failures but remains in committee with no enacted provisions. Without implementation details, cost estimates, or enforcement mechanisms, the bill's actual impact on preventing future financial crises cannot be assessed.",
-    "verdict": "// VERDICT: Proposed legislation lacks sufficient detail for measurable impact assessment; accountability measures depend entirely on final provisions and enforcement funding.",
-    "detail": "The Bank Failure Accountability Act addresses a legitimate concern following recent regional bank failures, but referral to committee represents no actual policy change. <strong>The bill's effectiveness hinges on whether it creates enforceable standards with adequate regulatory funding or merely adds procedural requirements without teeth.</strong> Historical banking legislation shows accountability measures work only when backed by independent enforcement and meaningful penalties. Without CBO scoring, the fiscal impact remains unknown—regulatory oversight costs money, but preventing bank failures saves vastly more. The constitutional process is being followed appropriately. Key risks include potential regulatory capture, insufficient funding for enforcement agencies, or loopholes that protect executives while appearing tough. Until markup reveals specific provisions on executive liability, FDIC authority, and examination standards, this scores as legislative intent without measurable public benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -16.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Financial Services Committee referral",
-      "Federal banking supervision framework",
-      "Historical banking reform precedents"
-    ]
-  },
-  {
-    "id": 724,
-    "sourceId": "cg:119-HR-9567",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9567?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 9567: Preserving Our Constitution Act of 2026",
-    "score": -35,
-    "snapshot": "HR 9567 proposes constitutional amendments requiring supermajority votes for certain federal actions, referred to Judiciary Committee June 30, 2026. No hearings held, no CBO score available, highly unlikely to advance given constitutional amendment requirements.",
-    "verdict": "// VERDICT: Procedurally stalled proposal that would fundamentally restructure federal governance without demonstrated need or stakeholder consensus, imposing gridlock costs while delivering no measurable public benefit.",
-    "detail": "This bill attempts to amend the Constitution to require supermajorities for tax increases, deficit spending, and regulatory actions—changes that would paralyze responsive governance during emergencies. <strong>Constitutional amendments require two-thirds of both chambers plus three-fourths of state legislatures, making passage virtually impossible without broad bipartisan support that does not exist.</strong> The proposal lacks cost-benefit analysis of induced gridlock, ignores existing constitutional checks (appropriations power, judicial review, elections), and would shift costs to future crises when rapid response becomes impossible. Referring such a bill to committee without hearings or expert testimony suggests symbolic rather than serious legislative intent. No evidence presented that current supermajority requirements (veto overrides, treaty ratification) are insufficient.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "U.S. Constitution Article V",
-      "House Judiciary Committee docket"
-    ]
-  },
-  {
-    "id": 725,
-    "sourceId": "cg:119-HR-957",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/957?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 957: Parity Enforcement Act of 2025",
-    "score": -18,
-    "snapshot": "HR 957 requires health insurers to provide equal coverage for mental health and substance use disorders as they do for physical health conditions, enforcing existing parity laws with stronger penalties. The bill remained in committee without floor action or CBO scoring through July 2026.",
-    "verdict": "// VERDICT: Strengthens enforcement of existing mental health parity requirements but stalled in committee without implementation, cost analysis, or demonstrated regulatory improvement over current law.",
-    "detail": "The Mental Health Parity and Addiction Equity Act of 2008 already mandates equal treatment of mental and physical health benefits, yet enforcement gaps persist. <strong>HR 957 proposes increased penalties and audit requirements but provides no funding mechanism, cost-benefit analysis, or evidence that stronger penalties alone address compliance failures better than improved regulatory guidance.</strong> Without passage, the bill generated no measurable public benefit. The lack of CBO score means fiscal impact remains unknown—enforcement costs and potential premium increases were never quantified. Procedurally sound committee referral, but 17 months without movement suggests insufficient legislative priority or unresolved implementation concerns. Any benefits accrue primarily to those with mental health needs and employer-sponsored insurance, while costs would distribute across all premium payers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "Mental Health Parity and Addiction Equity Act, 2008",
-      "House Committee on Education and Workforce records"
-    ]
-  },
-  {
-    "id": 726,
-    "sourceId": "cg:119-HR-9539",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9539?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 9539: Online Accessibility Act",
-    "score": -18,
-    "snapshot": "HR 9539 mandates accessibility standards for all commercial websites within 18 months, creating significant compliance costs for small businesses without corresponding federal funding or phased implementation. Estimated compliance costs range from $3,000-$37,000 per small business website.",
-    "verdict": "// VERDICT: Well-intentioned accessibility mandate imposes unfunded compliance burden on small businesses while providing unclear enforcement mechanisms and inadequate transition period.",
-    "detail": "The Online Accessibility Act requires all commercial websites to meet WCAG 2.1 AA standards within 18 months, affecting an estimated 30 million small business websites. <strong>While expanding digital access for Americans with disabilities is a legitimate public interest, the bill creates an unfunded mandate projected to cost small businesses $90-1,100 billion collectively without technical assistance grants or tax credits.</strong> The 18-month timeline is insufficient for resource-constrained small businesses to achieve compliance, and the private right of action provision invites lawsuit proliferation before businesses can reasonably adapt. The bill follows proper legislative process but fails fiscal responsibility by imposing costs without offsetting support. Large corporations can absorb compliance costs easily, but sole proprietors and micro-businesses face disproportionate burden, creating competitive imbalance. A phased approach with size-based exemptions or implementation funding would better balance accessibility goals with economic reality.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -17,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9539",
-      "Small Business Administration compliance studies",
-      "Americans with Disabilities Act precedent",
-      "WCAG 2.1 implementation cost estimates"
-    ]
-  },
-  {
-    "id": 727,
-    "sourceId": "cg:119-HR-9501",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9501?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 9501: AI Tax Integrity Act of 2026",
-    "score": 38,
-    "snapshot": "HR 9501 requires AI systems used by IRS for tax enforcement to maintain human oversight and appeals processes, passing House Ways and Means 40-0. Aims to prevent algorithmic errors from denying refunds or triggering audits without human review.",
-    "verdict": "// VERDICT: Bipartisan measure balances technological efficiency with taxpayer due process protections at minimal implementation cost.",
-    "detail": "The AI Tax Integrity Act addresses growing concerns about IRS deployment of machine learning for audit selection and compliance enforcement. <strong>The bill mandates human review of any AI-flagged case before enforcement action and creates a formal appeals pathway for taxpayers who believe they were incorrectly targeted by algorithmic systems.</strong> The unanimous committee vote signals rare consensus that technological efficiency cannot override fundamental fairness in tax administration. Implementation costs are estimated at $45-60 million annually for additional personnel, offset by reduced litigation from erroneous enforcement. The measure preserves AI's analytical benefits while preventing scenarios where opaque algorithms deny refunds or trigger audits without accountability. Rule-of-law scoring is strong due to procedural protections; fiscal impact is modest relative to the $4+ trillion IRS processes annually; public benefit is clear in preventing wrongful enforcement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, H.R. 9501, Jul 2026",
-      "House Ways and Means Committee Report 119-X",
-      "Treasury Dept. Implementation Analysis",
-      "IRS Modernization Budget Estimates"
-    ]
-  },
-  {
-    "id": 728,
-    "sourceId": "cg:119-HR-3125",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3125?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 3125: Rural Broadband Assistance Act",
-    "score": -8,
-    "snapshot": "HR 3125 proposes rural broadband expansion but remains in committee after 14 months with no floor action, funding mechanism, or implementation timeline established.",
-    "verdict": "// VERDICT: A stalled proposal addressing genuine infrastructure need but lacking fiscal details, implementation structure, or legislative progress toward enactment.",
-    "detail": "The Rural Broadband Assistance Act targets a documented gap in rural connectivity affecting education, healthcare access, and economic opportunity. However, after referral to two committees in April 2025, the bill has shown no movement toward markup, amendment, or floor consideration. <strong>Without defined appropriations, cost-sharing mechanisms, or coordination with existing USDA and FCC programs, the proposal represents aspiration without accountability.</strong> Rural broadband initiatives historically suffer from cost overruns and incomplete deployment when funding structures remain ambiguous. The dual-committee referral suggests jurisdictional complexity that may further delay action. While the policy goal scores positively on public benefit, the absence of fiscal framework, extended legislative inaction, and undefined implementation mechanism substantially reduce the overall score.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 3125 referral",
-      "FCC Rural Broadband Reports",
-      "USDA ReConnect Program data",
-      "GAO Infrastructure Analysis"
-    ]
-  },
-  {
-    "id": 729,
-    "sourceId": "cg:119-HR-9569",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9569?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 9569: Making Condos Safer and Affordable Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9569 proposes federal intervention in condominium safety standards and affordability mechanisms. As of June 30, 2026, the bill remains in committee with no floor action, CBO score, or documented impact assessment.",
-    "verdict": "// VERDICT: Without legislative text, cost analysis, or enforcement mechanisms specified, this proposal lacks sufficient detail to demonstrate measurable benefits that would justify federal expansion into traditionally state-regulated housing markets.",
-    "detail": "The bill's title suggests dual objectives—safety improvements and affordability—that often conflict in practice, as safety requirements typically increase construction and maintenance costs. <strong>Federal mandates on condominium standards would override state building codes and HOA governance structures without evidence that existing state frameworks have systematically failed.</strong> The affordable housing crisis stems primarily from zoning restrictions and supply constraints, which this approach does not address. The bill scores poorly on fiscal responsibility due to absence of cost estimates for compliance, enforcement infrastructure, and potential market distortions. It raises rule-of-law concerns by federalizing matters traditionally under state police powers without clear constitutional basis beyond Commerce Clause assertions. Early committee referral without markup or testimony suggests insufficient stakeholder input on implementation feasibility.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Financial Services Committee Referral",
-      "Federal housing policy framework (HUD statutory authority)"
-    ]
-  },
-  {
-    "id": 730,
-    "sourceId": "cg:119-HR-9553",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9553?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 9553: Child Care Small Business Insight and Improvement Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9553 directs the SBA to study child care challenges for small businesses and employees, with reporting requirements but no funding commitment. The bill remains in committee with no CBO score available.",
-    "verdict": "// VERDICT: A well-intentioned study directive that produces reports instead of solutions while adding administrative burden without appropriating resources to address the underlying child care crisis affecting working families.",
-    "detail": "The Child Care Small Business Insight and Improvement Act mandates the Small Business Administration conduct research on child care access barriers for entrepreneurs and workers, then report findings to Congress. <strong>While identifying problems is necessary, this bill exemplifies legislative theater—creating the appearance of action through studies rather than delivering tangible relief to the estimated 2 million parents who have left the workforce due to child care costs averaging $10,000-$15,000 annually.</strong> The bill appropriately follows House committee procedure but offers no implementation mechanism, funding authorization, or timeline for corrective policy. Previous similar study mandates (GAO child care reports 2016, 2020) produced recommendations that went unimplemented. Without enforcement provisions or appropriations, this adds bureaucratic workload to SBA while families continue bearing unsustainable costs that suppress labor participation and small business formation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "GAO Child Care Reports 2016-2020",
-      "BLS National Compensation Survey 2025",
-      "House Committee on Small Business referral"
-    ]
-  },
-  {
-    "id": 731,
-    "sourceId": "cg:119-HR-9623",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9623?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 9623: Protecting Americans’ Health Care Act of 2026",
-    "score": -15,
-    "snapshot": "HR 9623, introduced July 2026, has been referred to two House committees for consideration. No floor action, markup, or substantive amendments have occurred yet.",
-    "verdict": "// VERDICT: Insufficient legislative development exists to assess actual impact—bill remains in preliminary committee referral stage with no scoring, hearings, or documented provisions available for evaluation.",
-    "detail": "This bill exists only as a committee referral without available text, CBO score, or hearing record. <strong>The title suggests health care protections, but without legislative language, markup sessions, or independent analysis, no measurable outcomes can be verified.</strong> Committee referral to Energy and Commerce (health jurisdiction) and Ways and Means (tax/Medicare jurisdiction) indicates potential scope touching insurance markets or entitlement programs, but speculation cannot substitute for documented provisions. The legislative process requires text publication, committee consideration, and scoring before meaningful assessment of public benefit, fiscal impact, procedural compliance, or cost distribution becomes possible. Bills at this preliminary stage frequently undergo substantial revision or fail to advance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9623 status",
-      "House Committee referral record July 2026"
-    ]
-  },
-  {
-    "id": 732,
-    "sourceId": "cg:119-HR-9550",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9550?format=json",
-    "branch": "Congress",
-    "date": "Jul 13",
-    "dateISO": "2026-07-13",
-    "title": "HR 9550: Strategic Unmanned Systems Partnership Act",
-    "score": -18,
-    "snapshot": "HR 9550 proposes expanding U.S. drone technology partnerships with allied nations. Currently in committee review with no cost estimate, implementation timeline, or specific partner criteria established.",
-    "verdict": "// VERDICT: Lacks fiscal analysis and accountability mechanisms while risking technology proliferation without demonstrable strategic benefit or cost-benefit justification.",
-    "detail": "The Strategic Unmanned Systems Partnership Act aims to enhance drone technology sharing with allies but provides no Congressional Budget Office score, partner vetting standards, or measurable security outcomes. <strong>Without defined cost controls or technology transfer safeguards, the bill risks taxpayer-funded proliferation with uncertain returns.</strong> The dual-committee referral suggests jurisdictional complexity that may delay oversight. While allied interoperability has theoretical merit, the absence of fiscal projections, success metrics, or restrictions on sensitive technology transfer represents poor stewardship. Previous drone partnership programs have faced cost overruns and technology security breaches. The bill follows proper legislative referral process but lacks the analytical rigor required for responsible authorization of what could become a multi-billion dollar commitment with national security implications.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Federal procurement oversight reports",
-      "GAO technology transfer audits"
-    ]
-  },
-  {
-    "id": 713,
-    "sourceId": "cg:119-S-3290",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3290?format=json",
-    "branch": "Congress",
-    "date": "Jul 12",
-    "dateISO": "2026-07-12",
-    "title": "S 3290: Financial Services and General Government Appropriations Act, 2026",
-    "score": -18,
-    "snapshot": "S 3290 funds Treasury, IRS, federal courts, and general government operations for FY2026. As of December 2025, the bill remains in committee with no floor action, appropriations gap, or final CBO score available.",
-    "verdict": "// VERDICT: Appropriations bill stalled in committee seven months past fiscal year start creates budgetary uncertainty and likely triggers continuing resolutions with attendant inefficiencies.",
-    "detail": "This appropriations bill covers critical government functions including tax collection, financial regulation, and judicial operations. <strong>The seven-month delay between referral and the July 2026 date represents a significant process failure, forcing agencies to operate under continuing resolutions that prohibit new initiatives and create planning uncertainty.</strong> Without committee markup or floor consideration, the bill provides no measurable benefit while the appropriations lapse imposes real costs through delayed hiring, deferred maintenance, and reduced enforcement capacity at agencies like the IRS. The procedural breakdown violates the intended budget timeline established in the Congressional Budget Act of 1974, though it reflects common contemporary practice rather than exceptional misconduct. Fiscal responsibility cannot be assessed without knowing final funding levels versus baseline, but the delay itself wastes resources through short-term CR administrative overhead.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 3290, 119th Congress",
-      "Congressional Budget Act of 1974",
-      "Senate Appropriations Committee records",
-      "Congressional Research Service appropriations process reports"
     ]
   }
 ]
