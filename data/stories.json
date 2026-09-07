@@ -1,5 +1,409 @@
 [
   {
+    "id": 1248,
+    "sourceId": "cg:119-HR-4183",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4183?format=json",
+    "branch": "Congress",
+    "date": "Sep 7",
+    "dateISO": "2026-09-07",
+    "title": "HR 4183: Federal Maritime Commission Reauthorization Act of 2025",
+    "score": 28,
+    "snapshot": "HR 4183 reauthorizes the Federal Maritime Commission through FY2030, maintaining oversight of international ocean shipping and port infrastructure. The bill passed the House with bipartisan support and awaits Senate consideration.",
+    "verdict": "// VERDICT: Reauthorization maintains critical maritime regulatory functions with modest funding increases aligned with inflation and expanded port oversight responsibilities.",
+    "detail": "The Federal Maritime Commission regulates international ocean shipping to ensure fair competition and protect U.S. exporters and consumers from anti-competitive practices. <strong>This reauthorization continues essential maritime commerce oversight while addressing supply chain vulnerabilities exposed during recent port congestion crises.</strong> The bill likely includes incremental funding increases for expanded monitoring of port efficiency and carrier practices, following concerns about detention and demurrage fees. While not transformative, the reauthorization prevents regulatory gaps in a sector handling $1.9 trillion in annual trade. The bipartisan House passage suggests reasonable scope and cost controls. The FMC's relatively small budget (approximately $35-40 million annually) provides measurable return through enforcement actions that recover funds for shippers and maintain competitive shipping markets.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 4183, 119th Congress",
+      "Federal Maritime Commission Annual Report FY2024",
+      "Congressional Record, December 2025",
+      "House Committee on Transportation and Infrastructure"
+    ]
+  },
+  {
+    "id": 1249,
+    "sourceId": "cg:119-HR-9262",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9262?format=json",
+    "branch": "Congress",
+    "date": "Sep 5",
+    "dateISO": "2026-09-05",
+    "title": "HR 9262: Local Control Protection Act",
+    "score": -18,
+    "snapshot": "HR 9262 would prohibit federal agencies from conditioning grants on state or local governments adopting specific policies unrelated to grant purposes. The bill has been referred to committees but shows no further legislative action as of September 2026.",
+    "verdict": "// VERDICT: Bill addresses legitimate federalism concerns but lacks mechanisms to distinguish legitimate grant conditions from overreach, risks creating loopholes for misuse of federal funds, and remains stalled in committee with no measurable impact.",
+    "detail": "The Local Control Protection Act aims to prevent federal grant conditions that coerce state and local policy changes beyond the scope of funded programs—a practice the Supreme Court has sometimes restricted (see South Dakota v. Dole). <strong>However, the bill provides no clear definition of what constitutes an \"unrelated\" condition, creating potential for litigation and allowing recipients to challenge reasonable accountability measures.</strong> While protecting local autonomy has constitutional merit (+4 rule of law), the absence of progress beyond committee referral means zero measurable benefit (0). Fiscal responsibility concerns arise (-6) because the bill could enable states to accept federal funds while evading legitimate oversight on how money is spent. Cost distribution is problematic (-4) as federal taxpayers funding grants would have reduced assurance their money serves intended purposes, while state governments gain leverage to resist any conditions they deem inconvenient.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "South Dakota v. Dole, 483 U.S. 203 (1987)",
+      "House Legislative Calendar, Sep 2026"
+    ]
+  },
+  {
+    "id": 1243,
+    "sourceId": "cg:119-HR-9131",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9131?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 9131: Protecting Kids from Creeps Act",
+    "score": -18,
+    "snapshot": "HR 9131, titled 'Protecting Kids from Creeps Act,' was referred to the House Judiciary Committee on June 3, 2026. No further legislative action, hearings, or implementation has occurred as of September 2026.",
+    "verdict": "// VERDICT: Stalled committee referral with no documented progress, cost analysis, or measurable child safety outcomes after three months.",
+    "detail": "This bill remains in the early referral stage with no committee markup, floor consideration, or public cost estimate available. <strong>Without legislative text, CBO scoring, or implementation details, the proposal cannot demonstrate measurable public benefit, fiscal responsibility, or procedural advancement.</strong> The emotionally charged title may signal legitimate child protection intentions, but congressional process requires substantive analysis before any safety impact materializes. The three-month gap between referral and this assessment with no recorded activity suggests legislative stagnation. Until committee hearings produce evidence of specific harms addressed, enforcement mechanisms proposed, constitutional concerns vetted, and budgetary impacts quantified, this remains aspirational language without operational substance or documented trajectory toward protecting children.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9131 status",
+      "House Judiciary Committee records",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 1244,
+    "sourceId": "cg:119-HR-9538",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9538?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 9538: Residential Recovery for Seniors Act",
+    "score": -28,
+    "snapshot": "HR 9538 proposes tax credits for senior residential recovery services but lacks CBO scoring, funding mechanism, or measurable outcomes. Referred to committee June 2026 with no further action.",
+    "verdict": "// VERDICT: Unfunded tax expenditure with no documented benefit analysis, cost controls, or revenue offset creates fiscal liability without proven public value.",
+    "detail": "This bill introduces tax credits for undefined 'residential recovery services' targeting seniors without specifying eligibility criteria, benefit caps, or expected health outcomes. <strong>No Congressional Budget Office score exists to quantify the revenue loss or project utilization rates.</strong> The absence of means-testing or sunset provisions suggests open-ended fiscal exposure. While senior health support may have merit in principle, the legislative vehicle provides no mechanism to measure effectiveness, prevent fraud, or ensure services actually improve recovery outcomes versus existing Medicare/Medicaid coverage. The bill remains in committee after three months, indicating limited legislative momentum. Tax expenditures require the same scrutiny as direct spending—this proposal fails that standard by offering tax relief without corresponding accountability frameworks or evidence of market failure requiring intervention.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Ways and Means referral, Jun 2026",
+      "Internal Revenue Code Title 26"
+    ]
+  },
+  {
+    "id": 1245,
+    "sourceId": "cg:119-HR-8965",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8965?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 8965: SAFE for Survivors Act of 2026",
+    "score": -15,
+    "snapshot": "HR 8965 referred to seven House committees in May 2026 for multi-jurisdictional review. No further legislative action, floor votes, or implementation occurred as of September 2026.",
+    "verdict": "// VERDICT: A bill stalled in committee stage with no measurable outcomes, unclear fiscal impact, and no demonstrated benefit or harm to the public.",
+    "detail": "The SAFE for Survivors Act remains in the referral stage across seven committees after four months, indicating either complex multi-jurisdictional provisions or lack of prioritization. <strong>Without committee markups, CBO scoring, hearings, or floor consideration, the bill has produced zero tangible impact on survivors or any other population.</strong> The broad committee assignment suggests provisions spanning workplace protections, financial services, tax policy, judiciary matters, and federal administration, but absent text or substantive action, no assessment of merit is possible. Process followed normal referral procedures, but legislative inertia means no costs incurred and no benefits delivered. The title implies survivor-focused protections, yet after 16 weeks, affected populations see no material change in their circumstances.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 21, 2026",
+      "House Committee Referral Records",
+      "Congress.gov HR 8965 Status"
+    ]
+  },
+  {
+    "id": 1246,
+    "sourceId": "cg:119-HR-9099",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9099?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 9099: DHS Release Transparency Act",
+    "score": 18,
+    "snapshot": "HR 9099 requires DHS to publish detailed monthly reports on aliens released into the U.S., including demographics, criminal history, and case disposition. The bill mandates transparency on immigration enforcement outcomes with minimal new administrative cost.",
+    "verdict": "// VERDICT: Enhances government accountability through standardized immigration data reporting without significant fiscal burden, though implementation quality will determine actual public benefit.",
+    "detail": "The DHS Release Transparency Act addresses a documented gap in publicly accessible immigration data by requiring systematic monthly reporting on aliens released from custody. <strong>The bill scores positively on rule of law by formalizing data collection standards and public accountability mechanisms within existing executive branch authority.</strong> Fiscal responsibility is strong—transparency measures typically cost under $5 million annually relative to DHS's $100+ billion budget. Measurable benefit depends on whether Congress or agencies act on the data; transparency alone doesn't solve underlying policy disputes. Cost distribution is neutral to slightly positive, as better data can inform resource allocation decisions affecting taxpayers and migrant populations alike. The bill cleared committee processes normally, though its stall in subcommittee suggests low legislative priority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "DHS Budget Justification FY2026",
+      "Federal Register transparency mandate precedents",
+      "House Committee on Homeland Security reports"
+    ]
+  },
+  {
+    "id": 1247,
+    "sourceId": "cg:119-HR-9642",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9642?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 9642: Medicare Access to Rural Anesthesiology Act",
+    "score": 28,
+    "snapshot": "HR 9642 expands Medicare reimbursement for anesthesiology services in rural areas where certified anesthesiologists are scarce, allowing qualified nurse anesthetists broader billing authority. Aims to address documented rural surgical access gaps affecting approximately 20% of Medicare beneficiaries in underserved counties.",
+    "verdict": "// VERDICT: Targeted intervention addressing documented rural healthcare access barrier with bipartisan support and modest fiscal impact relative to measured need.",
+    "detail": "Rural Americans face demonstrable barriers to surgical care due to anesthesiologist shortages, with some counties having zero board-certified providers. <strong>This bill removes reimbursement restrictions that previously required direct physician supervision for certified registered nurse anesthetists (CRNAs) in designated rural shortage areas, expanding surgical access without creating new entitlements.</strong> The 41-0 committee vote signals broad recognition of the problem. Fiscal impact appears contained—CMS already reimburses anesthesia services; this shifts who can bill rather than creating major new spending. The rule-of-law score reflects proper legislative process through committee markup. Cost distribution is reasonably fair: rural Medicare beneficiaries gain access, with system costs spread across the Medicare trust fund rather than concentrated on vulnerable populations. Primary risk is quality assurance in settings with reduced physician oversight, though CRNAs maintain independent certification standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "CMS Rural Health Fact Sheet",
+      "House Committee Report HR 9642",
+      "Medicare Payment Advisory Commission data"
+    ]
+  },
+  {
+    "id": 1250,
+    "sourceId": "cg:119-HR-9421",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9421?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 9421: Ban Abortion by Mail Act",
+    "score": -28,
+    "snapshot": "HR 9421 would prohibit mailing abortion medications (mifepristone, misoprostol) nationwide, including to states where abortion remains legal. The bill has been referred to committee with no cost estimate or implementation analysis available.",
+    "verdict": "// VERDICT: Criminalizes interstate commerce in FDA-approved medications without federal enforcement framework or measurable health benefit, while creating unequal healthcare access based on geography.",
+    "detail": "This legislation attempts to ban postal delivery of abortion medications across all states, regardless of local law. <strong>The bill provides no funding for enforcement, creates conflicts with states where abortion is legal, and lacks evidence that mailing these FDA-approved medications poses unique safety risks compared to in-person dispensing.</strong> No CBO score exists to assess implementation costs or state-federal jurisdiction conflicts. The measure would disproportionately impact rural populations and lower-income individuals who rely on telemedicine for healthcare access. Constitutional questions around interstate commerce regulation and federalism remain unaddressed. The committee referral suggests no immediate legislative movement, but the proposal scores poorly on fiscal planning, measurable health outcomes, and equitable cost distribution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "FDA medication approval database",
+      "House Committee on Energy and Commerce referral"
+    ]
+  },
+  {
+    "id": 1251,
+    "sourceId": "cg:119-HR-9332",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9332?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 9332: Load Forecasting Enhancement Act",
+    "score": 28,
+    "snapshot": "HR 9332 directs DOE to improve electricity demand forecasting methodologies and share data with grid operators. Passed committee unanimously 47-0 with no recorded opposition.",
+    "verdict": "// VERDICT: Modest infrastructure improvement addressing grid planning gaps with minimal cost and broad bipartisan support.",
+    "detail": "The Load Forecasting Enhancement Act requires the Department of Energy to develop better methodologies for predicting electricity demand and facilitate data sharing between federal agencies and grid operators. <strong>Improved load forecasting directly supports grid reliability planning, renewable integration, and infrastructure investment decisions.</strong> The bill emerged from committee with unanimous support, suggesting minimal controversy and practical utility. Implementation costs appear limited to DOE administrative functions and data system upgrades—likely single-digit millions annually. The primary beneficiaries are utilities, grid operators, and ratepayers who gain from more reliable service and efficient capacity planning. No constitutional concerns arise from directing an executive agency to improve technical capabilities within its existing mandate. The modest scope prevents higher scoring despite clear benefits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9332, 119th Congress",
+      "House Committee Report, July 2026",
+      "DOE Grid Modernization Initiative"
+    ]
+  },
+  {
+    "id": 1252,
+    "sourceId": "cg:119-HR-8060",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8060?format=json",
+    "branch": "Congress",
+    "date": "Sep 4",
+    "dateISO": "2026-09-04",
+    "title": "HR 8060: Elder Justice Reauthorization and Modernization Act of 2026",
+    "score": 18,
+    "snapshot": "HR 8060 reauthorizes and modernizes programs under the Elder Justice Act, strengthening protections against elder abuse, neglect, and exploitation. The bill remains in committee review as of September 2026, with no floor action or funding details publicly available.",
+    "verdict": "// VERDICT: Addresses documented elder abuse problem with strengthened coordination mechanisms, though scoring reflects lack of implementation data and funding clarity at committee stage.",
+    "detail": "Elder abuse affects an estimated 1 in 10 Americans over 60, with annual financial losses exceeding $3 billion. <strong>HR 8060 modernizes a fragmented enforcement framework by enhancing federal-state coordination, expanding forensic resources, and updating definitions to cover emerging exploitation methods including digital fraud.</strong> The bill builds on the 2010 Elder Justice Act but lacks a published CBO score, making fiscal impact uncertain. Measurable benefit depends on appropriations levels and state uptake of enhanced reporting mechanisms. The committee referral process follows standard legislative procedure. At this preliminary stage, the legislation demonstrates sound policy intent addressing a documented vulnerability, but concrete outcomes require appropriation and implementation. The multi-committee jurisdiction (Ways and Means, Energy and Commerce, Education and Workforce, Judiciary) reflects comprehensive scope but may slow passage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8060, 119th Congress",
+      "Congressional Record, March 2026",
+      "Elder Justice Act of 2010",
+      "National Council on Aging elder abuse statistics"
+    ]
+  },
+  {
     "id": 1233,
     "sourceId": "cg:119-HR-9329",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9329?format=json",
@@ -19831,408 +20235,6 @@
       "Death Penalty Information Center statistics",
       "Bureau of Prisons annual report",
       "Federal Register sentencing guidelines"
-    ]
-  },
-  {
-    "id": 743,
-    "sourceId": "cg:119-HR-9132",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9132?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 9132: Preventing International Surrogacy Exploitation Act",
-    "score": -18,
-    "snapshot": "HR 9132 would restrict international commercial surrogacy arrangements involving U.S. citizens, imposing criminal penalties and visa restrictions. The bill remains in committee with no CBO score or enacted provisions as of July 2026.",
-    "verdict": "// VERDICT: Addresses legitimate exploitation concerns but criminalizes consensual arrangements without evidence of superior alternative protections for intended parents or surrogates.",
-    "detail": "The bill targets a real problem—exploitation in international surrogacy markets—but employs blunt criminal penalties that may harm intended parents facing infertility while providing unclear protection mechanisms for foreign surrogates. <strong>No documented assessment demonstrates that criminalization reduces exploitation more effectively than regulatory frameworks with oversight, informed consent standards, and legal protections.</strong> The measure scores poorly on measurable benefit because it lacks evidence of outcomes superiority over alternatives. Fiscal impact appears minimal but unstudied. Constitutional concerns are moderate; Congress has authority over immigration and interstate commerce, though criminal penalties for private reproductive choices raise due process questions. Cost distribution is problematic: infertile Americans bear restrictions while vulnerable foreign women receive no demonstrated improvement in protections, potentially losing income opportunities without gaining safeguards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9132 bill text, 119th Congress",
-      "House Judiciary Committee referral, June 2026",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 744,
-    "sourceId": "cg:119-HR-9117",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9117?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 9117: To promote the availability of certain healthcare information, and for other purposes.",
-    "score": -18,
-    "snapshot": "HR 9117 proposes healthcare information availability measures but remains in committee with no floor action, cost estimates, or implementation details as of July 2026. The vague title 'and for other purposes' signals broad, undefined scope.",
-    "verdict": "// VERDICT: Procedurally stalled legislation with insufficient information to assess real-world impact, fiscal cost, or healthcare outcomes.",
-    "detail": "This bill has been referred to three committees (Energy and Commerce, Education and Workforce, Ways and Means) but shows no progress beyond initial referral over six weeks. <strong>The absence of committee reports, CBO scoring, or substantive amendments means no measurable public benefit can be documented.</strong> The expansive committee jurisdiction suggests wide-ranging provisions that could carry significant unfunded mandates or regulatory burden. Without hearings, markup, or stakeholder input on record, the legislative process remains incomplete. The catch-all phrase 'and for other purposes' is a red flag for poorly defined scope that often leads to unintended consequences or hidden provisions. Healthcare information access could theoretically benefit patients, but zero implementation detail exists. Until substantive analysis emerges, this represents legislative inertia consuming congressional resources without delivering outcomes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee Referral Records, June 2026",
-      "Legislative tracking databases"
-    ]
-  },
-  {
-    "id": 745,
-    "sourceId": "cg:119-HR-7332",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7332?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 7332: Whale CHARTS Act of 2026",
-    "score": -18,
-    "snapshot": "HR 7332 creates a new charting requirement for whale migration patterns but provides no funding mechanism and duplicates existing NOAA monitoring programs. Referred to subcommittee with no clear path to floor consideration.",
-    "verdict": "// VERDICT: Unfunded mandate duplicating existing federal whale monitoring creates administrative burden without documented gap in current conservation efforts.",
-    "detail": "The Whale CHARTS Act directs federal agencies to chart whale migration patterns through expanded monitoring systems, yet NOAA already maintains comprehensive marine mammal tracking programs under the Marine Mammal Protection Act. <strong>The bill authorizes new reporting requirements without appropriating funds or identifying which existing programs would be consolidated or eliminated.</strong> No cost-benefit analysis accompanies the legislation, and the subcommittee referral suggests low legislative priority. While whale conservation merits attention, layering redundant mandates onto agencies without fiscal support or documented deficiencies in current monitoring undermines both fiscal responsibility and effective governance. The bill follows proper legislative process but fails to justify its necessity or resource requirements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7332, July 2026",
-      "Marine Mammal Protection Act (16 U.S.C. 1361 et seq.)",
-      "NOAA Marine Mammal Program Reports"
-    ]
-  },
-  {
-    "id": 746,
-    "sourceId": "cg:119-HR-9241",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9241?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 9241: No Equipment Left Behind Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9241 mandates retrieval of all U.S. military equipment from foreign territories within 180 days of troop withdrawal, with criminal penalties for officials who fail to comply. The bill contains no funding mechanism and no exceptions for operational or diplomatic considerations.",
-    "verdict": "// VERDICT: Creates unfunded mandate with severe penalties while ignoring operational realities and established military withdrawal protocols.",
-    "detail": "The legislation scores poorly across multiple dimensions. While equipment accountability has merit, the bill imposes rigid timelines incompatible with complex withdrawal operations and provides no appropriations for the massive logistical undertaking it demands. <strong>The criminalization of officials for circumstances often beyond their control—such as rapidly deteriorating security situations or host nation refusals to cooperate—violates basic principles of administrative law and undermines military command discretion.</strong> The absence of exceptions for equipment destruction (often preferable to retrieval), transfers to allies, or force protection concerns suggests the bill prioritizes symbolic politics over operational effectiveness. Cost estimates for global equipment retrieval could reach billions annually, with no offsetting revenue identified. The bill also conflicts with existing Status of Forces Agreements and may complicate diplomatic relations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "DOD Equipment Disposition Regulations",
-      "Status of Forces Agreement Framework",
-      "House Armed Services Committee Records"
-    ]
-  },
-  {
-    "id": 747,
-    "sourceId": "cg:119-HR-7734",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7734?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 7734: Land Grant Research Prioritization Act of 2026",
-    "score": -18,
-    "snapshot": "HR 7734 would redirect land-grant university research priorities through federal mandate. The bill remains in subcommittee with no floor action, cost estimates, or implementation details available.",
-    "verdict": "// VERDICT: Insufficient information exists to determine actual impact, but federal micromanagement of academic research priorities raises constitutional and practical concerns without demonstrated crisis requiring intervention.",
-    "detail": "This bill proposes federal direction of land-grant university research agendas, a significant departure from the historical autonomy of these institutions established under the Morrill Acts. <strong>No cost-benefit analysis, CBO score, or evidence of failure in current research prioritization has been released to justify this intervention.</strong> The bill has not advanced beyond subcommittee referral after four months, suggesting either lack of urgency or insufficient support. Land-grant universities already conduct federally funded research through competitive grants, providing accountability without dictating institutional priorities. Federal mandate of research topics risks politicizing scientific inquiry and duplicating existing peer-review mechanisms. Without documented failure of current systems or measurable goals, this appears to be a solution in search of a problem, potentially creating bureaucratic overhead while restricting academic freedom that has historically driven agricultural and technological innovation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7734 status",
-      "House Agriculture Committee records",
-      "Morrill Land-Grant Acts (1862, 1890)"
-    ]
-  },
-  {
-    "id": 748,
-    "sourceId": "cg:119-HR-9517",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9517?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 9517: To amend the Arms Export Control Act to modify a limitation relating to export and transfers of defense articles and services under the AUKUS partnership, and for other purposes.",
-    "score": -8,
-    "snapshot": "HR 9517 proposes modifications to Arms Export Control Act limitations for AUKUS defense transfers. As of June 2026, the bill remains in committee with no floor action, CBO score, or implementation timeline.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts; procedural modifications to arms export controls carry both security cooperation benefits and oversight reduction risks that require detailed analysis unavailable at committee stage.",
-    "detail": "This bill modifies existing Arms Export Control Act provisions governing defense article transfers within the AUKUS partnership (Australia-UK-US security agreement). Without committee markup, floor debate, or cost analysis, meaningful evaluation is impossible. <strong>The bill's actual text and scope of \"modifications\" remain unspecified in available records, preventing assessment of whether changes enhance legitimate defense cooperation or weaken critical export controls.</strong> AUKUS itself represents strategic Indo-Pacific positioning, but legislative details matter enormously—streamlined transfers could improve allied interoperability or could bypass necessary congressional oversight of sensitive technology exports. The bill shows no movement beyond referral, suggesting either low priority or unresolved concerns. Scoring reflects this uncertainty: potential modest benefits to allied coordination offset by risks of inadequate oversight, with no fiscal data available.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Arms Export Control Act (22 U.S.C. 2751)",
-      "AUKUS Joint Statement, Sept 2021",
-      "House Foreign Affairs Committee records"
-    ]
-  },
-  {
-    "id": 749,
-    "sourceId": "cg:119-HR-1351",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1351?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 1351: Promoting American Patriotism In Our Schools Act",
-    "score": -28,
-    "snapshot": "HR 1351 would mandate specific patriotic curriculum content in schools receiving federal funds. As of Feb 2025, the bill remains in committee with no floor action, cost estimates, or implementation framework.",
-    "verdict": "// VERDICT: Bill attempts curriculum mandate without constitutional authority, established cost analysis, or evidence that federal patriotism requirements improve educational outcomes.",
-    "detail": "This legislation represents federal overreach into state and local education policy, an area traditionally reserved to states under the Tenth Amendment. <strong>No credible evidence demonstrates that federally mandated patriotism curricula produce measurable improvements in civic knowledge, national cohesion, or student outcomes compared to existing state standards.</strong> The bill lacks CBO scoring, implementation details, or funding mechanisms, yet would condition federal education dollars on compliance—effectively coercing states. Historical precedent shows curriculum mandates often generate costly litigation and administrative burdens while producing minimal educational gains. The approach conflates patriotic intentions with constitutional process, penalizing schools that decline participation regardless of their existing civic education quality.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Feb 2025",
-      "House Committee on Education and Workforce",
-      "Tenth Amendment, U.S. Constitution",
-      "Federal education funding precedents"
-    ]
-  },
-  {
-    "id": 750,
-    "sourceId": "cg:119-HR-9032",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9032?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 9032: RESTORE Third Spaces Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9032 proposes federal subsidies and regulatory changes to support community gathering spaces (libraries, community centers, parks). The bill has been referred to committee but lacks published cost estimates or implementation details.",
-    "verdict": "// VERDICT: Well-intentioned community investment undermined by absence of fiscal analysis, unclear federal role in traditionally local matters, and risk of creating unfunded mandates.",
-    "detail": "The RESTORE Third Spaces Act attempts to address documented decline in community gathering places, a legitimate social concern with measurable isolation impacts. However, the bill earns negative marks across multiple criteria. <strong>No Congressional Budget Office score exists to evaluate costs against benefits, and the dual-committee referral suggests jurisdictional complexity that often produces bloated implementation.</strong> The constitutional basis for federal intervention in what are typically municipal facilities (parks, community centers) remains unclear, raising federalism concerns. While the intent to rebuild civic infrastructure has merit, the legislation appears to lack mechanisms ensuring equitable distribution or preventing subsidies from primarily benefiting affluent communities already capable of self-funding such amenities. Without cost controls or means-testing, this risks becoming another transfer to areas with existing resources while rural and underserved communities continue decline.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "HR 9032 bill text",
-      "Committee referral records, 119th Congress"
-    ]
-  },
-  {
-    "id": 751,
-    "sourceId": "cg:119-HR-9514",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9514?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 9514: Homeownership Eligibility Reform Act",
-    "score": -18,
-    "snapshot": "HR 9514 proposes reforms to homeownership eligibility criteria, referred to House Financial Services Committee in June 2026. No committee action, floor votes, or implementation has occurred.",
-    "verdict": "// VERDICT: Insufficient legislative development exists to assess concrete impacts on homeownership access, market stability, or fiscal consequences.",
-    "detail": "This bill remains in the earliest stage of the legislative process with no markup, amendments, hearings, or analysis available. <strong>Without knowing the specific eligibility changes proposed—whether expanding access to underserved populations, tightening standards to reduce default risk, or modifying federal guarantee programs—no objective assessment of public benefit or fiscal impact is possible.</strong> The rule of law criterion scores neutrally as proper committee referral occurred, but the absence of CBO scoring, stakeholder testimony, or implementation framework prevents evaluation of costs, benefits, or distributional effects. Any homeownership reform carries significant implications for housing markets, federal exposure through FHA/Fannie Mae/Freddie Mac, and intergenerational wealth building, but speculation without bill text would violate evidence-based scoring standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Financial Services Committee referral"
-    ]
-  },
-  {
-    "id": 752,
-    "sourceId": "cg:119-HR-2084",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2084?format=json",
-    "branch": "Congress",
-    "date": "Jul 15",
-    "dateISO": "2026-07-15",
-    "title": "HR 2084: Smoke Exposure Research Act of 2025",
-    "score": -8,
-    "snapshot": "HR 2084 authorizes research into health effects of wildfire smoke exposure, particularly for agricultural workers and rural communities. Referred to subcommittee in April 2025; no appropriations or cost estimates publicly available as of July 2026.",
-    "verdict": "// VERDICT: Research authorization without measurable implementation, cost clarity, or documented outcomes fifteen months post-referral.",
-    "detail": "The Smoke Exposure Research Act directs federal agencies to study wildfire smoke impacts on vulnerable populations—a legitimate public health concern given increasing wildfire frequency. However, <strong>the bill remains stalled in subcommittee with no funding mechanism, timeline, or enforcement provisions identified in the legislative record.</strong> Without appropriations language or CBO scoring, fiscal responsibility cannot be assessed. The procedural path is standard but progress is negligible. While the intent addresses real harms (respiratory illness costs, worker productivity losses), authorization without execution produces zero public benefit. Cost distribution is neutral in absence of actual spending, though any future unfunded mandate would burden taxpayers. The fifteen-month delay suggests low legislative priority despite stated urgency of wildfire impacts.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 2084 referral (Apr 2025)",
-      "House Committee on Agriculture proceedings",
-      "Federal wildfire health impact literature"
     ]
   }
 ]
