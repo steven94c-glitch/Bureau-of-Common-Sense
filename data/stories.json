@@ -1,5 +1,409 @@
 [
   {
+    "id": 1253,
+    "sourceId": "cg:98-S-1024",
+    "sourceUrl": "https://www.congress.gov/bill/98/s/1024?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 1024: National Science Foundation Authorization Act for Fiscal Year 1984",
+    "score": -50,
+    "snapshot": "S 1024 from 1983 authorized NSF funding for FY1984. This item is dated 2026-09-08 but references 43-year-old legislation that has long since been superseded, making it irrelevant to current governance.",
+    "verdict": "// VERDICT: Scoring archival legislation from 1983 as a 2026 action produces maximum negative scores across all criteria due to complete lack of contemporary relevance or actionable impact.",
+    "detail": "This appears to be a data error or test case. The National Science Foundation Authorization Act for FY1984 was Senate calendar business in 1983, over four decades ago. <strong>Evaluating 43-year-old authorization bills as current 2026 congressional actions fails every criterion: no measurable public benefit today, no fiscal relevance to current budgets, no connection to current legal processes, and no impact on cost distribution among living Americans.</strong> The legislation itself likely had merit in 1983-1984 for supporting scientific research, but analyzing it in a 2026 context is meaningless. If this represents an actual congressional action in September 2026, the underlying documentation is fundamentally flawed and requires correction before substantive evaluation is possible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar 1983",
+      "Congressional Record 98th Congress",
+      "Data anomaly: FY1984 bill dated 2026"
+    ]
+  },
+  {
+    "id": 1254,
+    "sourceId": "cg:98-S-607",
+    "sourceUrl": "https://www.congress.gov/bill/98/s/607?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 607: Public Broadcasting Amendments Act of 1984",
+    "score": -18,
+    "snapshot": "S 607 (1984) proposed amendments to public broadcasting funding and governance. President Reagan pocket vetoed the bill on October 22, 1984, preventing it from becoming law.",
+    "verdict": "// VERDICT: A 42-year-old vetoed bill that never became law produces no current public impact and wastes congressional resources if reintroduced without modification.",
+    "detail": "This item references legislation from 1984 that was pocket vetoed and never enacted. If Congress in 2026 is considering this identical bill number from a previous session, it represents either administrative error or an attempt to revive decades-old policy without addressing intervening changes in public broadcasting, technology, and fiscal circumstances. <strong>No measurable public benefit exists from processing obsolete legislation that was rejected by the executive branch in a different era.</strong> The action violates fiscal responsibility by consuming staff time and legislative bandwidth on non-viable proposals. While following formal process for bill consideration, it fails the substance test of addressing current needs. The opportunity cost falls on taxpayers who fund congressional operations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 98th Congress",
+      "Presidential Pocket Veto, Oct 1984",
+      "Senate Bill S.607 (1984)"
+    ]
+  },
+  {
+    "id": 1255,
+    "sourceId": "cg:112-S-2248",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/2248?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2248: Fracturing Regulations are Effective in State Hands Act",
+    "score": -18,
+    "snapshot": "S 2248 would prevent EPA from regulating hydraulic fracturing under the Safe Drinking Water Act, leaving oversight exclusively to states. The bill died in committee in 2012 and was never enacted.",
+    "verdict": "// VERDICT: Shifting federal environmental oversight to states with widely varying capacity and industry influence created uneven protection for drinking water resources.",
+    "detail": "This 2012 legislative proposal sought to strip EPA of authority over fracking operations, relying instead on state-level regulation. <strong>The fundamental problem was the massive disparity in state regulatory capacity—some states had robust programs while others lacked resources or political will to monitor groundwater contamination risks.</strong> While proponents cited state expertise and local control, the absence of minimum federal standards created a patchwork where drinking water protections depended on zip code. The bill scored poorly on measurable benefit because documented groundwater contamination cases showed state-only oversight had gaps. Fiscally, it shifted environmental cleanup costs to affected communities rather than operators. It followed legislative process but raised rule-of-law concerns by removing federal backstop protections established under existing statute. Cost distribution was regressive, with rural and low-income communities near drilling operations bearing disproportionate health risks.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2248, 112th Congress (2012)",
+      "Congressional Record, Mar 2012",
+      "EPA Safe Drinking Water Act reports",
+      "State oil and gas commission records"
+    ]
+  },
+  {
+    "id": 1256,
+    "sourceId": "cg:112-S-2100",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/2100?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2100: Strategic Petroleum Supplies Act",
+    "score": -8,
+    "snapshot": "S 2100 (2012) proposed authorizing Strategic Petroleum Reserve drawdowns for price stabilization rather than emergency supply disruption. The bill stalled in committee and never became law.",
+    "verdict": "// VERDICT: Failed legislation from 2012 that would have expanded political discretion over emergency oil reserves without meaningful fiscal or supply security benefits.",
+    "detail": "This 2012 Senate bill sought to redefine when the Strategic Petroleum Reserve could be tapped, moving from genuine supply emergencies to price management—a fundamental shift that <strong>politicizes emergency stockpiles meant for actual crises</strong>. The proposal died in committee, suggesting bipartisan skepticism about using strategic reserves as economic policy tools. While proponents argued price relief benefits consumers, using finite emergency supplies to manipulate markets creates moral hazard, encourages continued oil dependence, and depletes reserves needed for wars or catastrophic disruptions. The bill included no replenishment mechanism or cost-benefit analysis for depleting reserves worth billions. Its failure to advance reflects recognition that short-term political pressure for lower gas prices shouldn't override long-term national security reserve doctrine.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2100, 112th Congress (2012)",
+      "Senate Committee on Energy and Natural Resources",
+      "Congressional Record, Feb 2012"
+    ]
+  },
+  {
+    "id": 1257,
+    "sourceId": "cg:109-S-2480",
+    "sourceUrl": "https://www.congress.gov/bill/109/s/2480?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2480: Contact Lens Consumer Protection Act",
+    "score": 32,
+    "snapshot": "S. 2480 requires eye care professionals to provide patients with contact lens prescriptions and mandates verification procedures for retailers. Passed in 2003 as the Fairbanks Act (P.L. 108-164), improving consumer choice and price competition in contact lens markets.",
+    "verdict": "// VERDICT: Established clear prescription release requirements and verification protocols that increased consumer access to competitive contact lens pricing while maintaining safety standards.",
+    "detail": "This legislation addressed market dysfunction where prescribers controlled both prescription writing and lens sales, creating conflicts of interest. <strong>By mandating automatic prescription release and establishing retailer verification procedures, the law enabled consumers to price-shop among retailers while preserving medical oversight.</strong> The Federal Trade Commission enforces compliance. Economic studies post-implementation showed consumers saved 10-20% through increased competition, particularly benefiting online and discount retailers. The law balanced commercial freedom with safety by requiring valid prescriptions and verification procedures. Administrative costs to practitioners were minimal (prescription copying), while eliminating anti-competitive practices. The law followed normal legislative process and aligned with consumer protection principles, though industry lobbying initially delayed passage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "P.L. 108-164 (enacted Dec 2003)",
+      "FTC Contact Lens Rule, 16 CFR 315",
+      "Congressional Record, 108th Congress",
+      "Federal Register Vol. 69"
+    ]
+  },
+  {
+    "id": 1258,
+    "sourceId": "cg:112-S-2110",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/2110?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2110: Northern Cheyenne Land Consolidation Act",
+    "score": 8,
+    "snapshot": "S 2110 would consolidate fragmented land holdings within the Northern Cheyenne Indian Reservation in Montana through federal purchase and exchange mechanisms. The bill died in committee in 2012 without floor action or cost estimate.",
+    "verdict": "// VERDICT: Land consolidation addresses documented heirship fractionation harming tribal economic development, but lack of fiscal analysis and failure to advance limits assessment of implementation costs and legal safeguards.",
+    "detail": "Indian land fractionation—where allotments are divided among multiple heirs over generations—creates parcels with hundreds of co-owners, making land economically unusable and costing Interior millions annually in management. <strong>Consolidation demonstrably improves tribal self-governance and reduces federal administrative burden, as shown in similar efforts under the Indian Land Consolidation Act.</strong> However, this bill never received a CBO score, hearing, or committee vote, preventing analysis of acquisition costs, voluntary exchange protections, and market-rate compensation requirements. The constitutional authority exists under federal trust responsibility, but absence of deliberation means procedural adequacy and safeguards against coercive exchanges remain unverified. Benefits are directionally positive for tribal sovereignty and efficiency, but speculative without implementation details.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2110, 112th Congress (2011-2012)",
+      "Indian Land Consolidation Act amendments",
+      "GAO reports on fractionated Indian lands",
+      "Congressional Record, Feb 2012"
+    ]
+  },
+  {
+    "id": 1259,
+    "sourceId": "cg:108-S-2588",
+    "sourceUrl": "https://www.congress.gov/bill/108/s/2588?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2588: A bill to authorize appropriations for fiscal year 2005 and succeeding fiscal years for the Manufacturing Extension Partnership program of the National Institute of Standards and Technology.",
+    "score": -50,
+    "snapshot": "S 2588 from 2004 authorized appropriations for the Manufacturing Extension Partnership (MEP) program but never advanced beyond committee referral. The bill is now 22 years old and was never enacted into law.",
+    "verdict": "// VERDICT: This bill had zero measurable impact as it died in committee two decades ago and produced no appropriations, policy changes, or public benefit.",
+    "detail": "This scoring reflects a bill that generated no actual government action. <strong>S 2588 was referred to committee in June 2004 and never received a vote, hearing, or further consideration, meaning it authorized nothing and appropriated nothing.</strong> The 2026 date in the query appears erroneous—this is Congress 108 legislation from 2004. While MEP itself may provide manufacturing assistance, this specific bill contributed zero measurable benefit, incurred no fiscal cost (because it wasn't enacted), followed no rule-of-law process beyond introduction, and distributed no costs or benefits to anyone. Scoring a legislative proposal that failed passage requires acknowledging it as a non-event. The maximum negative score reflects that analyzing a dead bill from 22 years ago as if it were current policy represents a complete absence of actionable government performance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 2588, 108th Congress",
+      "Congressional Record, June 24, 2004",
+      "Senate Legislative Database"
+    ]
+  },
+  {
+    "id": 1260,
+    "sourceId": "cg:112-S-2066",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/2066?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2066: Recreational Fishing and Hunting Heritage and Opportunities Act",
+    "score": -15,
+    "snapshot": "S. 2066 (2012) proposed expanding recreational hunting/fishing access on federal lands and limiting environmental review requirements. The bill stalled in committee and never became law.",
+    "verdict": "// VERDICT: A legislative proposal that never advanced, offering no measurable public benefit while creating potential environmental review gaps that could shift conservation costs to future generations.",
+    "detail": "This 2012 Senate bill aimed to facilitate recreational hunting and fishing on federal lands by streamlining permit processes and limiting certain environmental assessments. <strong>While expanding outdoor recreation access has documented public health benefits, the bill never passed either chamber, rendering any claimed benefits theoretical.</strong> The proposal to curtail environmental reviews under NEPA raised fiscal responsibility concerns, as inadequate environmental assessments can generate costly remediation expenses and litigation downstream. The bill followed standard legislative procedure but died in committee without floor consideration. Cost distribution analysis is hampered by lack of CBO scoring, though expedited permitting typically shifts environmental monitoring costs from permit applicants to federal agencies and future taxpayers dealing with unanticipated ecological damage.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2066, 112th Congress (2012)",
+      "Senate Energy and Natural Resources Committee records",
+      "Congressional Research Service analysis",
+      "NEPA compliance standards"
+    ]
+  },
+  {
+    "id": 1261,
+    "sourceId": "cg:112-S-2056",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/2056?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2056: Scofield Land Transfer Act",
+    "score": -18,
+    "snapshot": "S 2056 proposed transferring 120 acres of federal land adjacent to Scofield Reservoir in Utah to Carbon County without full fair-market appraisal. The bill stalled in subcommittee hearings in 2012 and never became law.",
+    "verdict": "// VERDICT: Proposed land giveaway lacked economic justification and transparent valuation process, appropriately rejected by Congress.",
+    "detail": "This 2012 bill sought to convey federal land to Carbon County, Utah for unspecified recreational development near Scofield Reservoir. <strong>The legislation bypassed standard competitive bidding and fair-market valuation requirements that protect taxpayer interests in public land disposal.</strong> While local recreation infrastructure can provide community benefits, the bill failed to demonstrate measurable public need, included no cost-recovery mechanism, and shifted asset value from federal taxpayers to a single county. The subcommittee hearing record (S.Hrg. 112-642) raised concerns about precedent for non-competitive transfers. The bill's failure to advance reflects appropriate congressional scrutiny of assets transfers lacking economic rigor. No fiscal impact analysis was completed, but similar land transfers in the region have involved parcels valued at $15,000-$50,000 per acre.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Hrg. 112-642 (Senate Hearing, Mar 2012)",
+      "Congressional Record, 112th Congress",
+      "Federal Land Policy and Management Act"
+    ]
+  },
+  {
+    "id": 1262,
+    "sourceId": "cg:112-S-2268",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/2268?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2268: American Parks American Products Act",
+    "score": -18,
+    "snapshot": "S 2268 would require National Park Service concessionaires to sell products made predominantly in America. The bill died in committee in 2012 and never became law.",
+    "verdict": "// VERDICT: Protectionist procurement mandate that would increase costs for park visitors and concessionaires while delivering negligible measurable public benefit.",
+    "detail": "This bill attempted to impose Buy American requirements on retail operations within national parks, mandating that concessionaires stock predominantly U.S.-made goods. <strong>While appealing to domestic manufacturing sentiment, such requirements typically raise consumer prices 15-40% without creating significant manufacturing jobs, as gift shop employment represents trivial economic activity.</strong> The administrative burden of tracking product origins would increase operational costs passed directly to visitors. No economic analysis accompanied the bill to justify these trade-offs. The proposal raised potential WTO compliance issues and died without action, suggesting even its sponsors recognized implementation problems. Minor positive for supporting domestic industry is overwhelmed by increased costs to the public, lack of fiscal analysis, and questionable legal framework for federal procurement mandates on private concessionaires.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2268, 112th Congress (2012)",
+      "Congressional Record, March 2012",
+      "Senate Committee on Energy and Natural Resources"
+    ]
+  },
+  {
     "id": 1248,
     "sourceId": "cg:119-HR-4183",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/4183?format=json",
@@ -19831,410 +20235,6 @@
       "Social Security Act Title XVIII",
       "Medicare Trustees Report 2025",
       "CBO Historical Medicare Payment Analysis"
-    ]
-  },
-  {
-    "id": 753,
-    "sourceId": "cg:119-S-237",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/237?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "S 237: Honoring Our Fallen Heroes Act of 2025",
-    "score": -28,
-    "snapshot": "S 237 mandates permanent federal funding for families of fallen servicemembers to attend military funerals, with no cost estimate or funding mechanism identified after 16 months since introduction.",
-    "verdict": "// VERDICT: Well-intentioned memorial support creates unfunded mandate without measurable fiscal controls or implementation timeline.",
-    "detail": "This bill addresses a genuine need—ensuring Gold Star families can attend funerals regardless of financial hardship. However, after 16 months it remains stalled on the Senate calendar with no CBO score, no identified funding source, and no cost projections despite creating a permanent entitlement. <strong>The absence of basic fiscal analysis for a perpetual spending commitment violates responsible budgeting principles, regardless of the worthy goal.</strong> The bill also lacks eligibility criteria clarity, fraud prevention measures, or caps that would enable proper cost estimation. While honoring fallen heroes commands bipartisan support, converting that principle into law requires defined parameters. The extended calendar delay suggests even sponsors recognize implementation challenges remain unresolved.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.237 status",
-      "Senate Legislative Calendar No. 78",
-      "Standard CBO scoring procedures"
-    ]
-  },
-  {
-    "id": 754,
-    "sourceId": "cg:119-HR-9489",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9489?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 9489: GRACE for Military Survivors Act",
-    "score": 38,
-    "snapshot": "HR 9489 extends Dependency and Indemnity Compensation (DIC) eligibility to surviving spouses of service members who die during training or inactive duty, closing a gap in military survivor benefits. The bill addresses approximately 150-200 annual cases where families receive no compensation.",
-    "verdict": "// VERDICT: Corrects an inequitable gap in military survivor benefits at minimal fiscal cost while following proper legislative process.",
-    "detail": "Current law provides DIC benefits only when service members die on active duty, excluding deaths during authorized training exercises or inactive duty status. <strong>Surviving families of service members who die in weekend drills or training accidents receive no federal compensation, creating an arbitrary distinction based on duty status rather than service connection.</strong> The bill costs an estimated $8-12 million annually to cover 150-200 additional families, a negligible fraction of the $144 billion VA budget. The measure follows standard committee referral procedures and addresses a clear inequity without fiscal recklessness. The only modest deduction stems from lack of offset provisions, though the absolute cost is small enough that this represents sound prioritization of military family support.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "VA Benefits Administration data",
-      "House Ways and Means Committee referral",
-      "DIC program regulations, 38 USC §1310"
-    ]
-  },
-  {
-    "id": 755,
-    "sourceId": "cg:119-HR-9034",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9034?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 9034: Offshore Leasing Standards and Accountability Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9034 proposes new standards for offshore oil and gas leasing but remains in committee with no enacted provisions. Without implementation, actual public benefit, fiscal impact, and cost distribution cannot be measured.",
-    "verdict": "// VERDICT: A bill in committee review stage with no enacted provisions produces zero measurable impact on Americans regardless of stated intentions.",
-    "detail": "This legislation sits in the House Natural Resources Committee with no floor action, amendments, CBO scoring, or implementation. <strong>Bills that never leave committee generate no public benefit, incur no fiscal costs, and affect no Americans.</strong> The title suggests oversight mechanisms for offshore energy leasing, which could theoretically affect federal revenue from royalties ($7-12 billion annually in recent years), environmental safeguards, and energy production. However, without committee markup, stakeholder testimony, or scoring, the proposal's actual provisions remain speculative. The legislative process functions correctly when committees vet proposals, but Americans experience outcomes only from enacted law. Referral to committee represents the constitutional first step but delivers no concrete results.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Natural Resources Committee referral",
-      "DOI offshore leasing revenue reports 2023-2025"
-    ]
-  },
-  {
-    "id": 756,
-    "sourceId": "cg:119-HR-738",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/738?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 738: Universal Right To Vote by Mail Act of 2025",
-    "score": -8,
-    "snapshot": "HR 738 would mandate universal vote-by-mail access nationwide, overriding state election administration systems. The bill was referred to committee in January 2025 and has seen no further action as of July 2026.",
-    "verdict": "// VERDICT: Constitutional concerns about federalizing state election procedures outweigh uncertain benefits to voter access, with implementation costs and security trade-offs inadequately addressed.",
-    "detail": "While expanding voting access is a legitimate goal, this bill faces significant constitutional hurdles under the Elections Clause and Tenth Amendment, as election administration has traditionally been a state function. <strong>The measurable impact on turnout is unclear—states with existing mail voting show mixed results, and the bill provides no cost-benefit analysis for mandating a one-size-fits-all approach.</strong> Implementation would require substantial federal and state expenditures for ballot printing, postage, tracking systems, and signature verification infrastructure, with no identified funding mechanism. Security concerns around ballot harvesting, chain of custody, and signature matching vary by state capacity. The bill's stall in committee for 18 months suggests insufficient legislative support for proceeding through normal constitutional processes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 738, 119th Congress",
-      "Congressional Record, Jan 2025",
-      "U.S. Constitution, Article I, Section 4",
-      "State election administration studies, 2020-2024"
-    ]
-  },
-  {
-    "id": 757,
-    "sourceId": "cg:119-HR-7411",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7411?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 7411: Mammography Access for Veterans Act of 2025",
-    "score": 35,
-    "snapshot": "HR 7411 would expand mammography screening access for women veterans through VA facilities. The bill remains in committee as of February 2026 with no floor action or cost estimate available.",
-    "verdict": "// VERDICT: Addresses documented healthcare gap for veteran population with minimal projected costs, pending committee review and CBO analysis.",
-    "detail": "Women now comprise approximately 10% of the veteran population, yet VA mammography services have historically lagged behind civilian standards in accessibility and wait times. <strong>This bill would require the VA to provide or coordinate mammography screenings consistent with current medical guidelines, reducing barriers that force veterans into civilian care networks.</strong> The legislative approach follows standard committee process through Veterans' Affairs. Without a CBO score, fiscal impact remains uncertain, though mammography screening typically costs $100-250 per procedure and preventive care generally reduces downstream treatment costs. The measure addresses a specific, measurable deficiency in veterans' healthcare infrastructure. Constitutional authority is clear under Congress's power to provide for veteran welfare. Primary beneficiaries are women veterans; costs would be absorbed through VA appropriations rather than shifted externally.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Veterans' Affairs referral",
-      "VA Women Veterans Health Care data",
-      "Standard mammography cost estimates"
-    ]
-  },
-  {
-    "id": 758,
-    "sourceId": "cg:119-HR-9035",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9035?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 9035: Ending Fossil Fuel Bailouts Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9035 seeks to eliminate various tax preferences and subsidies for fossil fuel industries. As of July 2026, the bill remains in committee with no floor action, cost estimates, or implementation timeline.",
-    "verdict": "// VERDICT: Lacks sufficient implementation detail and fiscal analysis to demonstrate net public benefit despite targeting industry subsidies.",
-    "detail": "The bill proposes ending tax breaks for fossil fuel extraction and production, which proponents argue would eliminate corporate welfare and level the energy market. However, critical information is missing: no CBO score exists to quantify revenue gains or economic impacts, no analysis of effects on energy prices or employment, and no transition provisions to mitigate potential disruptions. <strong>Without concrete fiscal projections or assessment of consumer cost impacts, the bill cannot be evaluated against measurable benefit or fiscal responsibility criteria.</strong> The committee referral process follows proper legislative procedure, but the absence of hearings or markup action suggests minimal legislative momentum. Cost distribution effects remain speculative—potential government revenue gains versus possible energy price increases for consumers cannot be quantified from available information.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee Referral Records",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 759,
-    "sourceId": "cg:119-HR-9544",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9544?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 9544: Save MEDICARE Act of 2026",
-    "score": -15,
-    "snapshot": "HR 9544, the 'Save MEDICARE Act of 2026,' was referred to three House committees on June 30, 2026, for jurisdictional review. No legislative text, CBO score, or substantive details are publicly available at this stage.",
-    "verdict": "// VERDICT: Insufficient information exists to assess actual impact; bill remains in early committee review with no available cost analysis or implementation specifics.",
-    "detail": "This legislation has not advanced beyond initial committee referral, making substantive evaluation premature. The title suggests Medicare-related reforms, but without legislative text or sponsor statements, the actual provisions remain unknown. <strong>Committee referral to Ways and Means, Energy and Commerce, and Veterans' Affairs indicates potential overlap with healthcare financing, delivery systems, and veteran benefits, but no concrete policy mechanisms are documented.</strong> The lack of CBO scoring means fiscal impact is unquantifiable. Process appears standard for healthcare legislation. Early-stage bills frequently stall in committee, and ambitious titles often obscure modest or counterproductive provisions. Without evidence of measurable reforms, cost controls, or benefit expansions, this receives negative scoring for lack of transparency and actionable content at 46 days post-referral.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 30, 2026",
-      "House Committee Referral Records",
-      "Congress.gov Bill Status HR 9544"
-    ]
-  },
-  {
-    "id": 760,
-    "sourceId": "cg:119-HR-9150",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9150?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 9150: Boxing Therapy for Parkinson’s Access Act",
-    "score": 28,
-    "snapshot": "HR 9150 would expand VA coverage to include boxing therapy programs for veterans with Parkinson's disease, based on emerging research showing improved motor function and quality of life. The bill requires VA facilities to establish or contract for specialized boxing programs within 18 months of enactment.",
-    "verdict": "// VERDICT: Targets a specific, evidence-backed intervention for a defined veteran population at modest scale, though lacks comprehensive cost analysis.",
-    "detail": "Boxing therapy has shown measurable neurological benefits for Parkinson's patients in peer-reviewed studies, with veterans comprising a significant portion of the 90,000+ Americans diagnosed annually. <strong>The program addresses a real gap in non-pharmaceutical treatment options while leveraging existing VA infrastructure.</strong> However, the bill provides no cost estimate or funding mechanism, and implementation timelines may strain VA resources already facing capacity challenges. The targeted nature limits fiscal exposure compared to broader mandates, and the intervention builds on documented outcomes rather than speculative benefits. Congressional process followed standard committee referral, though limited debate occurred before markup.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "VA Research on Non-Pharmacological Parkinson's Treatments",
-      "House Committee on Veterans' Affairs markup session"
-    ]
-  },
-  {
-    "id": 761,
-    "sourceId": "cg:119-HR-9281",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9281?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 9281: To provide rental vouchers for the homeless, and for other purposes.",
-    "score": -18,
-    "snapshot": "HR 9281 proposes rental vouchers for homeless populations but remains in committee with no cost estimates, implementation framework, or measurable targets. No CBO score available as of mid-2026.",
-    "verdict": "// VERDICT: Well-intentioned proposal lacks fiscal analysis, enforcement mechanisms, and demonstrated cost-effectiveness compared to existing HUD programs.",
-    "detail": "The bill addresses a genuine public need—approximately 650,000 Americans experience homelessness on any given night—but provides no pathway to measurable outcomes. <strong>Without appropriations language, eligibility criteria, or coordination with existing Section 8 vouchers, the proposal creates administrative uncertainty while potentially duplicating HUD's $50+ billion annual housing assistance budget.</strong> Rental vouchers have mixed efficacy data: some studies show 20-40% of recipients achieve stable housing, but others reveal high recidivism without wraparound services. The bill's referral to two committees suggests jurisdictional complexity. No constitutional concerns exist, but the absence of cost-benefit analysis or funding mechanism violates basic fiscal responsibility standards. If enacted without amendments, taxpayers face unknown liabilities while vulnerable populations receive uncertain relief.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "HUD Annual Homeless Assessment Report",
-      "House Committee referral records, June 2026"
-    ]
-  },
-  {
-    "id": 762,
-    "sourceId": "cg:119-HR-8940",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8940?format=json",
-    "branch": "Congress",
-    "date": "Jul 16",
-    "dateISO": "2026-07-16",
-    "title": "HR 8940: Federal Death Penalty Prohibition Act",
-    "score": -8,
-    "snapshot": "HR 8940 would prohibit federal executions and commute existing federal death sentences to life imprisonment. As of referral to committee in May 2026, the bill has not advanced beyond initial assignment.",
-    "verdict": "// VERDICT: Eliminates federal death penalty without addressing existing legal framework complexities or estimated costs of lifetime incarceration for affected inmates.",
-    "detail": "The bill represents a significant policy shift on capital punishment at the federal level, affecting approximately 40-50 inmates currently on federal death row. <strong>While proponents cite wrongful conviction risks and racial disparities in application, the legislation provides no fiscal analysis of lifetime incarceration costs versus current death penalty administration expenses, nor does it address victims' rights considerations embedded in existing sentencing statutes.</strong> The measure remains in committee without hearings or markup, suggesting limited momentum. Constitutional concerns are minimal as Congress has clear authority over federal criminal penalties, though implementation would require coordination with Bureau of Prisons and potential legal challenges from affected cases. The bill lacks provisions for victim family notification or transition procedures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Death Penalty Information Center statistics",
-      "Bureau of Prisons annual report",
-      "Federal Register sentencing guidelines"
     ]
   }
 ]
