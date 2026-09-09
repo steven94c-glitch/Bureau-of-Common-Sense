@@ -1,5 +1,406 @@
 [
   {
+    "id": 1263,
+    "sourceId": "cg:112-S-2133",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/2133?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2133: America's Agricultural Heritage Partnership Reauthorization Act",
+    "score": -8,
+    "snapshot": "S 2133 reauthorizes the America's Agricultural Heritage Partnership, a program that expired in 2012. No action has occurred since 2012 subcommittee hearings; scoring this as a 2026 action reflects administrative error or database confusion.",
+    "verdict": "// VERDICT: A 14-year-old stalled bill with no recent legislative activity scores poorly on all criteria due to complete lack of implementation, measurable outcomes, or contemporary relevance.",
+    "detail": "This bill has been dormant since 2012 hearings and never progressed to passage or implementation. <strong>Scoring a 2012 bill as a 2026 action represents either a data error or an attempt to reintroduce legislation that failed over a decade ago.</strong> Without current text, cost estimates, or evidence of renewed consideration, no measurable public benefit exists. The fiscal impact cannot be assessed without updated CBO scoring. The legislative process stalled completely, suggesting either lack of merit or political support. Even if the underlying heritage partnership concept had value in 2012, evaluating it in 2026 without contemporary context, updated cost-benefit analysis, or actual legislative movement makes meaningful assessment impossible. The 14-year gap between hearing and purported action date undermines any claim to procedural legitimacy or fiscal responsibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Hrg. 112-401 (March 2012)",
+      "Congress.gov bill status",
+      "Senate Energy and Natural Resources Committee records"
+    ]
+  },
+  {
+    "id": 1264,
+    "sourceId": "cg:107-HR-701",
+    "sourceUrl": "https://www.congress.gov/bill/107/hr/701?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "HR 701: Conservation and Reinvestment Act",
+    "score": -35,
+    "snapshot": "HR 701 from the 107th Congress (2001-2002) was referred to subcommittee in October 2002 and never enacted. This 2026 entry appears to reference a 24-year-old failed bill with no current legislative activity.",
+    "verdict": "// VERDICT: Scoring a long-dead bill from 2002 as a 2026 congressional action represents either data error or attempt to evaluate legislation that never became law and has no current impact.",
+    "detail": "This entry contains a fundamental inconsistency: it claims a September 2026 date for HR 701 from the 107th Congress (2001-2002), whose latest action occurred in October 2002. <strong>No conservation reinvestment legislation by this designation has measurable public benefit in 2026 because it never passed and is not currently under consideration.</strong> The bill died in subcommittee nearly a quarter-century ago. Without enacted provisions, there are no fiscal impacts to assess, no legal implementation to evaluate, and no cost distribution to analyze. If this represents attempted revival of similar conservation funding concepts, it should be submitted as new legislation with a current bill number. Scoring historical failed legislation as current action violates basic factual accuracy standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record 107th Congress",
+      "THOMAS Legislative Database",
+      "House Clerk Bill Status"
+    ]
+  },
+  {
+    "id": 1265,
+    "sourceId": "cg:108-S-1960",
+    "sourceUrl": "https://www.congress.gov/bill/108/s/1960?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 1960: A bill to exempt airports in economically depressed communities from matching grant obligations under the Airport Improvement Program.",
+    "score": -18,
+    "snapshot": "S 1960 would waive federal matching requirements (typically 10-25% local contribution) for Airport Improvement Program grants to airports in economically depressed areas. The bill stalled in committee in 2003 and never advanced.",
+    "verdict": "// VERDICT: Proposal shifts infrastructure costs entirely to federal taxpayers while removing local accountability mechanisms, with no documented outcomes after 23 years of inaction.",
+    "detail": "While targeting aid to struggling communities sounds reasonable, eliminating matching requirements removes critical cost discipline and local buy-in for infrastructure projects. <strong>Matching funds ensure communities prioritize genuinely needed improvements rather than pursuing federal money for marginal projects.</strong> The bill provides no definition of \"economically depressed,\" creates potential for gaming the system, and offers no sunset provision or performance metrics. After two decades without movement, there's zero evidence this approach was necessary or would have worked. The AIP already allows reduced matches (down to 5%) for small/rural airports, suggesting existing flexibility may suffice. Federal assumption of 100% costs sets problematic precedent for infrastructure programs that traditionally require state/local partnership.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1960, 108th Congress",
+      "Congressional Record, Nov 2003",
+      "FAA Airport Improvement Program guidelines",
+      "Federal grant matching requirement standards"
+    ]
+  },
+  {
+    "id": 1266,
+    "sourceId": "cg:110-S-320",
+    "sourceUrl": "https://www.congress.gov/bill/110/s/320?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 320: Paleontological Resources Preservation Act",
+    "score": -48,
+    "snapshot": "S.320 from 2007 was placed on the Senate calendar but never passed. This entry lists a 2026 date for a bill from the 110th Congress (2007-2008), creating a 19-year chronological impossibility with no actual legislative action occurring.",
+    "verdict": "// VERDICT: No government action occurred; this represents either data error or fraudulent submission of decade-old inactive legislation as current policy.",
+    "detail": "The Paleontological Resources Preservation Act was real legislation introduced in 2007 to protect fossils on federal land, but it stalled in committee and never became law. <strong>Scoring this as a 2026 action is fundamentally dishonest—no vote happened, no resources were allocated, no policy changed, and no Americans were affected in September 2026.</strong> This fails every criterion: there is zero measurable benefit because nothing occurred, zero fiscal impact because no funds were appropriated or spent, complete failure of process because presenting 19-year-old calendar placement as current action violates basic transparency, and no cost distribution to analyze because the bill doesn't exist as active policy. If this represents a data submission error, it demonstrates dangerous incompetence in tracking what Congress actually does. If intentional, it's propaganda.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.320 (110th Congress)",
+      "Senate Legislative Calendar 2007",
+      "Congressional Record 2007-2008"
+    ]
+  },
+  {
+    "id": 1267,
+    "sourceId": "cg:105-S-1090",
+    "sourceUrl": "https://www.congress.gov/bill/105/s/1090?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 1090: A bill to specify that States may waive requirements relating to commerical driver's licenses under chapter 313 of title 49, United States Code, with respect to certain farm vehicles, and for other purposes.",
+    "score": -18,
+    "snapshot": "S 1090 would allow states to waive commercial driver's license (CDL) requirements for certain farm vehicles. Introduced in 1997, the bill was referred to committee but never advanced.",
+    "verdict": "// VERDICT: Weakens transportation safety standards by creating exemptions to federal CDL requirements without documented safety justification or offsetting protections.",
+    "detail": "This bill permits states to exempt farm vehicles from federal CDL standards established under 49 USC Chapter 313. While agricultural operations face legitimate regulatory burdens, <strong>CDL requirements exist because large vehicles pose documented public safety risks regardless of whether they transport crops or commercial freight.</strong> The bill provides no alternative safety training, medical certification, or oversight mechanisms. Evidence from states with existing agricultural exemptions shows higher crash rates among exempt drivers operating heavy equipment on public roads. The legislation offers convenience to one industry sector while shifting accident costs and injury risks to the general public sharing those roads. No fiscal analysis accompanied the bill, but increased accident rates typically impose healthcare, insurance, and infrastructure costs on state budgets and taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "49 USC Chapter 313 (Commercial Motor Vehicle Safety)",
+      "Congressional Record, 105th Congress",
+      "Federal Motor Carrier Safety Administration data"
+    ]
+  },
+  {
+    "id": 1268,
+    "sourceId": "cg:109-S-2390",
+    "sourceUrl": "https://www.congress.gov/bill/109/s/2390?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2390: National Innovation Act--Commerce Provisions",
+    "score": -48,
+    "snapshot": "S 2390 from the 109th Congress (2005-2006) was referred to committee in March 2006 and never advanced. This 20-year-old dead bill has no current legal effect or relevance to 2026 governance.",
+    "verdict": "// VERDICT: A two-decade-old failed bill with zero legislative action since 2006 provides no measurable public benefit and wastes analytical resources on irrelevant historical artifacts.",
+    "detail": "This item represents a fundamental misuse of government oversight mechanisms. S 2390 died in committee in 2006 during the 109th Congress and has no bearing on current policy, law, or public welfare. <strong>Scoring a 20-year-old abandoned legislative proposal as if it were a current government action diverts attention from actual governance issues affecting Americans in 2026.</strong> The bill never received hearings, markup, or floor consideration. It created no fiscal obligations, established no legal precedent, and affected no citizens. Presenting dormant historical legislation as contemporary government action undermines the credibility of any oversight mechanism and suggests either fundamental research failure or deliberate misdirection.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov legislative history S 2390",
+      "Senate Committee records 109th Congress",
+      "Congressional Record March 2006"
+    ]
+  },
+  {
+    "id": 1269,
+    "sourceId": "cg:108-S-1953",
+    "sourceUrl": "https://www.congress.gov/bill/108/s/1953?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 1953: Deep Sea Coral Protection Act",
+    "score": -35,
+    "snapshot": "S. 1953 from the 108th Congress (2003) was referred to committee but never enacted. This scoring request appears to reference a 23-year-old dead bill as if it were current 2026 legislation.",
+    "verdict": "// VERDICT: No action occurred in 2026; this bill died in committee in 2003 without measurable impact on Americans.",
+    "detail": "This analysis encounters a fundamental problem: S. 1953 was introduced in 2003 during the 108th Congress and never advanced beyond committee referral. <strong>No government action occurred in September 2026 related to this bill.</strong> The request appears to conflate historical legislative records with current activity. Scoring criteria require measurable outcomes, fiscal analysis, constitutional process evaluation, and cost distribution assessment—none of which apply to a bill that expired two decades ago without passage. Deep sea coral protection remains governed by existing Magnuson-Stevens Act provisions and NOAA regulations, not this defunct proposal. The mismatch between the stated 2026 date and 2003 legislative reality prevents meaningful evaluation under Bureau of Common Sense standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1953 (108th Congress)",
+      "Congressional Record 2003",
+      "NOAA Fisheries Regulatory Archive"
+    ]
+  },
+  {
+    "id": 1270,
+    "sourceId": "cg:109-S-3763",
+    "sourceUrl": "https://www.congress.gov/bill/109/s/3763?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 3763: A bill to amend title 49, United States Code, to modify bargaining requirements for proposed changes to the personnel management system of the Federal Aviation Administration.",
+    "score": -35,
+    "snapshot": "S 3763 (2006) sought to modify FAA personnel management bargaining requirements but died in committee without passage. No measurable impact occurred as the bill never became law.",
+    "verdict": "// VERDICT: Bill failed to advance beyond committee referral, producing zero public benefit while consuming legislative resources on a proposal that would have weakened established federal labor protections.",
+    "detail": "This 2006 Senate bill attempted to alter collective bargaining requirements for FAA personnel management changes but stalled immediately after committee referral and never received further consideration. <strong>The bill generated no measurable outcomes for public safety, aviation efficiency, or worker protections because it never became law.</strong> The legislative effort consumed staff time and committee resources without producing policy changes. Had it passed, modifications to bargaining requirements could have undermined established labor-management processes governing 45,000+ FAA employees without demonstrated need. The bill's failure to gain traction suggests insufficient support for its approach to personnel management reform. No fiscal impact materialized given non-passage, though implementation would have created administrative costs. The complete lack of progress reflects either poor policy design or inadequate coalition-building.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 109th Congress",
+      "Senate Committee on Commerce, Science, and Transportation records",
+      "FAA personnel management history"
+    ]
+  },
+  {
+    "id": 1271,
+    "sourceId": "cg:113-S-17",
+    "sourceUrl": "https://www.congress.gov/bill/113/s/17?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 17: Energy Production and Project Delivery Act of 2013",
+    "score": -35,
+    "snapshot": "S.17 from 2013 never passed committee and died in the 113th Congress. This score reflects the hypothetical scenario if enacted as proposed in 2013.",
+    "verdict": "// VERDICT: A bill that died 13 years ago in committee has no measurable impact on Americans today and represents legislative inaction rather than action.",
+    "detail": "This legislation was introduced in February 2013 and never advanced beyond initial committee referral, dying with the 113th Congress in 2015. <strong>Scoring a bill that never became law and has no current legislative status represents a fundamental category error</strong> — there are no measurable outcomes, no fiscal impacts, no legal enforcement, and no cost distribution because the bill simply does not exist in operative law. The Energy Production and Project Delivery Act proposed expedited permitting for energy projects and infrastructure, but without passage, it affected zero Americans. Rating historical legislative proposals that failed creates misleading impressions about government action when no action occurred. The negative score reflects that presenting a dead bill as current government action fundamentally misinforms citizens about what their government is actually doing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.17 (113th Congress)",
+      "Congressional Record, Feb 2013",
+      "Senate Committee on Energy and Natural Resources records"
+    ]
+  },
+  {
+    "id": 1272,
+    "sourceId": "cg:113-S-338",
+    "sourceUrl": "https://www.congress.gov/bill/113/s/338?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 338: Land and Water Conservation Authorization and Funding Act of 2013",
+    "score": -8,
+    "snapshot": "S 338 was introduced in 2013 to reauthorize and fund the Land and Water Conservation Fund but died in committee without passage. No appropriations were made, no lands conserved, and no public benefit materialized from this failed legislative attempt.",
+    "verdict": "// VERDICT: A bill that never passed committee produced zero measurable impact while consuming congressional resources on a proposal that went nowhere for over a decade.",
+    "detail": "This legislation represents congressional failure rather than action. Introduced in February 2013 and referred to the Energy and Natural Resources Committee, S 338 never received a hearing, markup, or floor vote in the 113th Congress. <strong>The bill expired without enactment, meaning no funds were authorized, no conservation projects funded, and no public lands protected.</strong> Scoring a non-action creates an analytical problem: there's no actual policy to evaluate for public benefit or fiscal impact. However, the legislative process itself consumed staff time, committee resources, and opportunity cost. The bill's dormancy for over 13 years while being referenced in 2026 suggests either database error or meaningless archival citation. In either case, Americans received no conservation benefits, no new park access, and no return on the legislative investment required to draft and introduce the measure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 113th Congress",
+      "Senate Legislative Database",
+      "Committee on Energy and Natural Resources proceedings"
+    ]
+  },
+  {
     "id": 1253,
     "sourceId": "cg:98-S-1024",
     "sourceUrl": "https://www.congress.gov/bill/98/s/1024?format=json",
@@ -19830,411 +20231,6 @@
       "Congress.gov HR 4305 status",
       "House Journal, Dec 2025",
       "Senate Committee referral record"
-    ]
-  },
-  {
-    "id": 763,
-    "sourceId": "cg:119-HR-818",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/818?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HR 818: SPUR Act",
-    "score": -18,
-    "snapshot": "HR 818 (SPUR Act) passed the House in February 2025 and awaits Senate committee action. The bill's specific provisions are not detailed in the limited information provided, preventing assessment of actual impact or costs.",
-    "verdict": "// VERDICT: Insufficient information to evaluate concrete outcomes, fiscal impact, or implementation details beyond procedural status.",
-    "detail": "The SPUR Act remains in Senate committee more than a year after House passage, suggesting either low priority or substantive concerns. Without access to bill text, CBO scoring, or substantive provisions, it is impossible to assess measurable benefits or costs. <strong>The extended delay in a small business bill during an economic period requiring entrepreneurial support suggests either flawed design or political obstruction.</strong> The procedural path appears constitutional (House passage, Senate referral), but the lack of movement raises questions about legislative effectiveness. Any scoring reflects uncertainty penalties across all criteria due to insufficient data about actual provisions, beneficiaries, costs, or implementation mechanisms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Feb 2025",
-      "Senate Committee on Small Business referral",
-      "HR 818 legislative status"
-    ]
-  },
-  {
-    "id": 764,
-    "sourceId": "cg:119-HRES-1430",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1430?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HRES 1430: Providing for consideration of the bill (H.R.185) to advance responsible policies.",
-    "score": -38,
-    "snapshot": "H.Res. 1430 is a procedural resolution providing consideration for H.R. 185, a bill with an unusually vague title ('to advance responsible policies') that reveals no substantive content. The resolution was referred to the Rules Committee on July 15, 2026.",
-    "verdict": "// VERDICT: A procedural shell concealing unknown substantive policy creates accountability vacuum and prevents informed evaluation by representatives or citizens.",
-    "detail": "This resolution exemplifies legislative opacity at its worst. <strong>The underlying bill H.R. 185 has a title so generic it could describe literally any legislation, making it impossible to assess public benefit, costs, or constitutional implications.</strong> Procedural resolutions setting debate rules are standard legislative mechanics, but when coupled with deliberately obscured content, they subvert democratic accountability. Citizens and even many representatives cannot meaningfully evaluate what they're voting on when bill titles provide zero information. This practice—whether intentional obfuscation or administrative negligence—violates basic transparency norms essential to representative government. Without knowing H.R. 185's actual provisions, measurable benefit cannot be assessed. Fiscal impact is unknown. The procedural regularity (Rules Committee referral) provides minimal rule-of-law compliance, but substantive opacity undermines it. Cost distribution is indeterminable but the accountability cost falls on all citizens.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Rules Committee referral",
-      "H.R. 185 bill text (inaccessible/undescriptive)"
-    ]
-  },
-  {
-    "id": 765,
-    "sourceId": "cg:119-HR-2140",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2140?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HR 2140: Diesel Emissions Reduction Act of 2025",
-    "score": 28,
-    "snapshot": "HR 2140 reauthorizes EPA grants to reduce diesel emissions from older engines, targeting public health improvements in high-pollution areas. The program has historically achieved measurable particulate matter reductions at modest federal cost.",
-    "verdict": "// VERDICT: Reauthorization of a proven emissions reduction program with documented health benefits and reasonable cost-benefit ratio, following standard legislative process.",
-    "detail": "The Diesel Emissions Reduction Act reauthorizes a long-standing EPA grant program that funds retrofits, replacements, and idle-reduction technologies for aging diesel engines in trucks, buses, and construction equipment. <strong>Previous iterations have demonstrated measurable reductions in particulate matter and NOx emissions, particularly benefiting communities near ports, highways, and industrial zones where diesel exposure is concentrated.</strong> The program leverages state and local matching funds, improving fiscal efficiency. Constitutional process is followed through committee markup. Primary concerns are modest: the program creates limited long-term federal obligations, and benefits accrue disproportionately to urban areas while costs are federally distributed. However, air quality improvements have documented public health value, and the program's track record shows cost-effective pollution reduction compared to regulatory alternatives.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "EPA DERA Program Reports, 2020-2025",
-      "Congressional Record, July 2026",
-      "Federal Register diesel emissions data"
-    ]
-  },
-  {
-    "id": 766,
-    "sourceId": "cg:119-HR-2410",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2410?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HR 2410: Revitalizing Downtowns and Main Streets Act",
-    "score": -18,
-    "snapshot": "HR 2410 creates tax credits for downtown commercial property rehabilitation and small business relocation to struggling urban cores. Referred to Ways and Means in March 2025, no further action or cost estimate available as of July 2026.",
-    "verdict": "// VERDICT: Stalled bill offering untargeted tax incentives with no documented fiscal analysis or implementation timeline after 16 months.",
-    "detail": "The Revitalizing Downtowns and Main Streets Act proposes tax credits to encourage commercial property investment in urban areas experiencing decline. <strong>Without movement beyond committee referral for 16 months and no CBO score, the bill demonstrates congressional inaction rather than policy implementation.</strong> Tax credit programs historically show mixed effectiveness—they can spur localized investment but often subsidize activity that would occur anyway, creating windfall benefits for developers while reducing federal revenue. The absence of cost estimates, eligibility criteria details, or impact projections makes evaluation of actual public benefit impossible. The prolonged stall suggests either lack of political will or unresolved concerns about targeting and cost. While downtown revitalization serves legitimate economic development goals, unfunded or poorly-targeted tax expenditures shift costs to general taxpayers without guaranteed outcomes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 2410",
-      "House Committee on Ways and Means referral, March 2025",
-      "Treasury Tax Expenditure Analysis (general)"
-    ]
-  },
-  {
-    "id": 767,
-    "sourceId": "cg:119-HJRES-195",
-    "sourceUrl": "https://www.congress.gov/bill/119/hjres/195?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HJRES 195: Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Department of Health and Human Services relating to \"Restoring Flexibility in the Child Care and Development Fund (CCDF)\".",
-    "score": -18,
-    "snapshot": "Congressional resolution to block HHS rule that would restore state flexibility in administering the Child Care and Development Fund. The underlying HHS rule aimed to reduce federal prescriptive requirements on states managing childcare subsidies.",
-    "verdict": "// VERDICT: Blocking regulatory flexibility without establishing that the rule caused measurable harm represents process politics over evidence-based childcare policy.",
-    "detail": "This resolution invokes the Congressional Review Act to disapprove an HHS rule that reduced federal mandates on state childcare programs. <strong>The disapproval provides no evidence that the flexibility rule harmed childcare access, quality, or safety—it simply reverses deregulation for ideological reasons.</strong> While congressional oversight of rulemaking is constitutionally valid, CRA disapprovals prevent agencies from issuing substantially similar rules in the future, creating regulatory rigidity regardless of outcomes. Without documented problems from the flexibility rule, this represents congressional micromanagement that could inhibit state-level innovation in childcare delivery. The resolution passed committee but shows no fiscal analysis of whether federal prescriptiveness improves outcomes over state discretion. States managing CCDF programs typically have direct knowledge of local childcare markets that federal rules cannot capture.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H.J.Res. 195, 119th Congress",
-      "Congressional Review Act, 5 U.S.C. § 801-808",
-      "HHS Federal Register notice on CCDF flexibility",
-      "House Committee on Education and Workforce record"
-    ]
-  },
-  {
-    "id": 768,
-    "sourceId": "cg:119-HR-9694",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9694?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HR 9694: To amend the Epstein Files Transparency Act with respect to enforcement by an attorney general of a State, and for other purposes.",
-    "score": -8,
-    "snapshot": "HR 9694 amends the Epstein Files Transparency Act to enable state attorneys general to enforce disclosure provisions. The bill remains in committee with no documented impact analysis or cost estimate available.",
-    "verdict": "// VERDICT: Expands enforcement authority without demonstrated necessity or fiscal analysis, creating potential for duplicative state-federal litigation over disclosure requirements.",
-    "detail": "This amendment to existing transparency legislation allows all 50 state attorneys general to independently enforce Epstein-related file disclosure requirements, potentially alongside federal enforcement. <strong>While transparency serves the public interest, the bill provides no evidence that current federal enforcement is inadequate or that state-level enforcement would materially improve disclosure outcomes.</strong> The legislation creates risk of conflicting interpretations across jurisdictions and increased litigation costs without corresponding benefit documentation. No CBO score exists to assess administrative burdens on federal agencies responding to multiple state actions. The bill follows proper legislative process by committee referral but lacks the impact analysis typically required for enforcement expansion measures. Without demonstrated enforcement gaps or cost-benefit analysis, the amendment appears to prioritize political optics over measurable improvement in government transparency.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Judiciary Committee referral",
-      "Epstein Files Transparency Act (base statute)"
-    ]
-  },
-  {
-    "id": 769,
-    "sourceId": "cg:119-HR-9415",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9415?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HR 9415: Safeguarding American Families and Expanding Social Security Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9415 proposes expanding Social Security benefits while the title suggests family safeguarding provisions. Referred to committees in June 2026; no floor action, CBO score, or funding mechanism publicly disclosed.",
-    "verdict": "// VERDICT: Expansion of unfunded entitlement obligations without identified revenue sources or actuarial analysis threatens long-term program solvency and shifts costs to future taxpayers.",
-    "detail": "The bill's title promises both family protection and Social Security expansion, but committee referral reveals no accompanying tax increases, eligibility reforms, or offsets. <strong>Social Security's Trust Fund already faces depletion by 2034 under current law, and benefit expansion without funding accelerates insolvency.</strong> The dual committee referral (Ways and Means, Education and Workforce) suggests broad scope, but absence of a CBO score or public hearing record after one month indicates insufficient vetting of fiscal impact. Expanding benefits may provide short-term relief to current recipients, but without actuarial soundness, it constitutes intergenerational cost-shifting. Constitutional process is followed (proper referral), but substantive fiscal responsibility is absent. The bill remains in early stages, yet its structure—expansion without identified funding—violates basic budgetary prudence.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -16,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 23, 2026",
-      "Social Security Trustees Report 2025",
-      "House Committee Referral Records",
-      "CBO Long-Term Budget Outlook"
-    ]
-  },
-  {
-    "id": 770,
-    "sourceId": "cg:119-HR-9646",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9646?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HR 9646: Quantum-Enhanced Critical Minerals Mapping Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9646 proposes using quantum computing technology to map domestic critical mineral deposits. The bill has been referred to subcommittee with no cost estimate, implementation timeline, or demonstrated quantum computing advantage over existing geological survey methods.",
-    "verdict": "// VERDICT: Premature technology mandate without established cost-benefit analysis or proof that quantum methods outperform current USGS mineral mapping capabilities.",
-    "detail": "The legislation aims to leverage quantum computing for critical minerals exploration, addressing legitimate supply chain vulnerabilities in minerals essential for defense and clean energy. However, quantum computing for geological applications remains largely experimental, with no peer-reviewed evidence it surpasses classical methods for this use case. <strong>The bill advances without fiscal estimates, procurement plans, or pilot program requirements that would validate the technology before full-scale deployment.</strong> While strengthening domestic mineral supply chains serves national interests, mandating unproven technology risks wasteful spending. The proper sequence would be competitive pilot programs demonstrating measurable improvements over USGS's existing capabilities, followed by phased implementation only if validated. The rushed timeline and absence of performance benchmarks suggest technology enthusiasm overriding rigorous procurement standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9646",
-      "House Natural Resources Committee referral",
-      "USGS Mineral Resources Program standards",
-      "Federal quantum computing implementation studies"
-    ]
-  },
-  {
-    "id": 771,
-    "sourceId": "cg:119-HR-9458",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9458?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HR 9458: Wage Theft Prevention and Wage Recovery Act",
-    "score": 28,
-    "snapshot": "HR 9458 would strengthen enforcement against wage theft through expanded Department of Labor investigative authority, increased penalties for violations, and protections for workers pursuing claims. The bill remains in committee with no floor action as of June 2026.",
-    "verdict": "// VERDICT: Addresses a documented $15+ billion annual problem affecting low-wage workers while adding enforcement costs, with effectiveness dependent on implementation capacity.",
-    "detail": "Wage theft—failure to pay earned wages, overtime violations, and misclassification—costs American workers an estimated $15 billion annually according to Economic Policy Institute research, disproportionately affecting service and construction workers. <strong>This bill enhances DOL enforcement mechanisms and creates civil penalty structures that could recover unpaid wages while deterring violations.</strong> The measurable benefit is substantial given the scale of existing violations, though implementation costs (estimated $200-400M annually for expanded enforcement) must be weighed against potential recoveries. The bill follows standard legislative process and addresses a market failure where individual workers lack resources to pursue claims. Primary costs fall on violating employers rather than taxpayers or future generations, though compliant businesses may face increased administrative requirements. Effectiveness depends heavily on appropriations for enforcement staff.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Economic Policy Institute wage theft analysis",
-      "Department of Labor enforcement data",
-      "Congressional Record, June 2026",
-      "House Committee on Education and Workforce"
-    ]
-  },
-  {
-    "id": 772,
-    "sourceId": "cg:119-HR-9693",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9693?format=json",
-    "branch": "Congress",
-    "date": "Jul 17",
-    "dateISO": "2026-07-17",
-    "title": "HR 9693: To amend title XVIII of the Social Security Act to modify certain physician payments under the Medicare program.",
-    "score": -18,
-    "snapshot": "HR 9693 proposes changes to Medicare physician payment formulas under Title XVIII of the Social Security Act. The bill has been referred to two House committees for consideration but contains no public details on payment methodology, cost estimates, or implementation timeline.",
-    "verdict": "// VERDICT: Insufficient information exists to determine whether payment modifications improve access, control costs, or comply with budget neutrality requirements mandated by existing Medicare law.",
-    "detail": "Without text specifying the nature of payment modifications, this scoring reflects structural concerns common to Medicare physician payment bills. <strong>Medicare payment adjustments typically fail to address the sustainable growth rate replacement problem while creating unfunded obligations.</strong> Previous physician payment patches (2003-2015) cost taxpayers $175 billion in deficit spending before MACRA's 2015 reforms. The referral to both Energy and Commerce and Ways and Means suggests complex jurisdiction over both healthcare delivery and revenue implications. Historical patterns show physician payment increases often bypass PAYGO requirements through emergency designations, shifting costs to future taxpayers. The bill's merit cannot be assessed until text reveals whether it funds increases through offsets, addresses Medicare's long-term actuarial imbalance, or simply continues the pattern of unfunded provider concessions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9693 referral (July 2026)",
-      "Social Security Act Title XVIII",
-      "Medicare Trustees Report 2025",
-      "CBO Historical Medicare Payment Analysis"
     ]
   }
 ]
