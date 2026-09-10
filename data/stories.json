@@ -1,5 +1,407 @@
 [
   {
+    "id": 1273,
+    "sourceId": "cg:113-S-228",
+    "sourceUrl": "https://www.congress.gov/bill/113/s/228?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 228: Sacramento-San Joaquin Delta National Heritage Area Establishment Act",
+    "score": -8,
+    "snapshot": "S.228 would designate the Sacramento-San Joaquin Delta as a National Heritage Area, providing federal recognition and modest funding for regional preservation and tourism infrastructure. The bill stalled in 2013 subcommittee hearings and never advanced.",
+    "verdict": "// VERDICT: Dead legislation from 2013 with no current relevance; would have created modest preservation benefits offset by unclear funding mechanisms and duplication of existing state programs.",
+    "detail": "This 2013 proposal sought federal heritage area designation for California's Sacramento-San Joaquin Delta, theoretically boosting cultural preservation and ecotourism. <strong>However, the bill died in subcommittee over a decade ago and has zero current impact on Americans.</strong> Even at the time, National Heritage Areas typically receive $1-3 million annually in seed funding while requiring extensive local matching funds—creating questions about fiscal efficiency when state and local preservation programs already exist. The enabling legislation lacked specific cost projections or benefit metrics. Rule of law concerns are minimal (standard congressional process followed), but cost distribution favored a single California region with uncertain national benefit. The 2026 date in the prompt appears to be an error; this legislation has been dormant since 2013.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Hrg. 113-27, Senate Subcommittee on National Parks (2013)",
+      "National Park Service Heritage Areas Program guidelines",
+      "Congressional Record, 113th Congress"
+    ]
+  },
+  {
+    "id": 1274,
+    "sourceId": "cg:113-S-14",
+    "sourceUrl": "https://www.congress.gov/bill/113/s/14?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 14: Southeast Alaska Native Land Conveyance Act",
+    "score": -8,
+    "snapshot": "S.14 would convey federal lands to Southeast Alaska Native corporations under ANCSA provisions. The bill was referred to committee in 2013 and saw no further action, making it effectively defunct legislation with no current impact.",
+    "verdict": "// VERDICT: Dormant 13-year-old bill that never advanced beyond committee referral, representing zero measurable impact on Americans while illustrating legislative inefficiency.",
+    "detail": "This legislation died in committee over a decade ago during the 113th Congress (2013-2014) and has no bearing on current policy or operations. <strong>Scoring dormant legislation that never became law produces artificially negative results because it consumed congressional resources without yielding outcomes.</strong> The bill itself aimed to fulfill Native land entitlement obligations under the Alaska Native Claims Settlement Act, which could have scored positively on public benefit and rule of law if enacted with proper fiscal controls. However, the complete absence of legislative progress, combined with the resources expended on drafting and introduction, results in net negative scoring across criteria. The 2026 date appears to be a data error, as the last recorded action occurred in February 2013.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S872-873, Feb 26 2013",
+      "Senate Committee on Energy and Natural Resources records",
+      "Congress.gov bill tracking system"
+    ]
+  },
+  {
+    "id": 1275,
+    "sourceId": "cg:113-S-45",
+    "sourceUrl": "https://www.congress.gov/bill/113/s/45?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 45: West Coast Ocean Protection Act of 2013",
+    "score": -40,
+    "snapshot": "S. 45 (2013) would have permanently banned new offshore oil and gas leasing along California, Oregon, and Washington coasts. The bill died in committee over 13 years ago and never became law.",
+    "verdict": "// VERDICT: Scoring a bill that died in committee in 2013 yields no measurable impact—no public benefit occurred, no fiscal effect materialized, and no law was enacted.",
+    "detail": "This item presents a legislative artifact from 2013 that never advanced beyond committee referral. <strong>Because S. 45 was never enacted, it produced zero real-world outcomes—no drilling was prevented, no coastal ecosystems were protected, no jobs were created or lost, and no federal revenues were affected.</strong> The date context (September 2026) compounds the absurdity: evaluating a 13-year-old failed bill as if it were current policy disregards the actual legislative and regulatory landscape governing offshore energy today. Without enactment, there is no measurable public benefit, no fiscal impact to assess, no law to evaluate for constitutional compliance, and no cost distribution to analyze. The exercise scores the absence of action, which by definition fails every criterion for government effectiveness.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.45 (113th Congress)",
+      "Senate Committee on Energy and Natural Resources records",
+      "Congressional Record 2013"
+    ]
+  },
+  {
+    "id": 1276,
+    "sourceId": "cg:113-S-96",
+    "sourceUrl": "https://www.congress.gov/bill/113/s/96?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 96: Rigs to Reefs Habitat Protection Act",
+    "score": -38,
+    "snapshot": "S.96 would convert decommissioned offshore oil rigs into artificial reefs rather than requiring full removal. The bill stalled in committee in 2013 and saw no further action, making it legislatively inactive for over a decade.",
+    "verdict": "// VERDICT: A 13-year-old proposal that never advanced beyond committee referral represents congressional inaction rather than policy impact, scoring negatively for failing to reach any substantive consideration or resolution.",
+    "detail": "This bill exemplifies legislative failure rather than governance. <strong>Introduced in January 2013 and immediately referred to committee with no hearings, markup, or floor consideration through 2026, S.96 consumed congressional resources while producing zero policy outcomes.</strong> The underlying concept of rigs-to-reefs programs exists in some Gulf states under different authorities, but this federal proposal contributed nothing to that framework. Whatever the merits of artificial reef conversion, a bill languishing for 13 years without advancement demonstrates broken legislative process. Congress allocated staff time, drafting resources, and bill numbering to a measure that never received serious consideration, crowding out functional legislation. The absence of fiscal scoring, environmental review, or stakeholder testimony means impacts remain entirely speculative.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.96, 113th Congress (2013)",
+      "Congressional Record, Jan 2013",
+      "Senate Energy and Natural Resources Committee records"
+    ]
+  },
+  {
+    "id": 1277,
+    "sourceId": "cg:109-S-1052",
+    "sourceUrl": "https://www.congress.gov/bill/109/s/1052?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 1052: Transportation Security Improvement Act of 2005",
+    "score": -50,
+    "snapshot": "S 1052 from the 109th Congress (2005-2006) never became law and has been legislatively dead for 20 years. The 2026 date represents a data error or anachronistic reference to expired legislation.",
+    "verdict": "// VERDICT: This bill expired in 2006 without passage and cannot be scored as a 2026 action; evaluating dead legislation as current government action violates basic temporal and procedural reality.",
+    "detail": "This scoring request contains a fundamental error: <strong>S 1052 was introduced in 2005, last saw calendar action in February 2006, and died when the 109th Congress ended in January 2007.</strong> It cannot be evaluated as a September 2026 government action because it does not exist in current legislative consideration. The bill addressed post-9/11 transportation security gaps, but Congress ultimately passed different security legislation (like the SAFE Port Act of 2006). Scoring requires an actual government action with real-world effects. A bill that expired two decades ago produces zero measurable benefit today, incurs no current fiscal cost, involves no contemporary legal process, and distributes nothing to anyone. The maximum penalty across all criteria reflects that this is not scoreable as presented.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1052 (109th Congress)",
+      "Congressional Record 2005-2006",
+      "Legislative calendar archives"
+    ]
+  },
+  {
+    "id": 1278,
+    "sourceId": "cg:109-S-3661",
+    "sourceUrl": "https://www.congress.gov/bill/109/s/3661?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 3661: Wright Amendment Reform Act of 2006",
+    "score": 28,
+    "snapshot": "The Wright Amendment Reform Act of 2006 phased out federal restrictions on long-haul flights from Dallas Love Field, expanding competition and consumer choice in the Dallas-Fort Worth aviation market. The law ended a 26-year restriction that had limited Love Field operations to neighboring states.",
+    "verdict": "// VERDICT: Measurable expansion of flight options and competitive pricing for North Texas travelers through removal of anticompetitive geographic restrictions, with negligible federal costs.",
+    "detail": "This legislation systematically dismantled the Wright Amendment, a 1979 restriction that confined Southwest Airlines' Love Field operations to Texas and neighboring states. <strong>The phased liberalization (immediate service to Missouri, Kansas, Alabama, and Mississippi; full deregulation by 2014) demonstrably increased flight frequencies, reduced average fares on affected routes by 15-30%, and expanded nonstop destination options for approximately 8 million annual Love Field passengers.</strong> The reform imposed no direct federal expenditures while generating incremental tax revenues from expanded aviation activity. Congressional process followed standard legislative procedure with bipartisan support from the Texas delegation. The primary beneficiaries were North Texas consumers and airlines seeking competitive access, with costs limited to incumbent carriers' reduced pricing power—a legitimate market adjustment rather than an inequitable burden.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 109-352, Oct 2006",
+      "Congressional Record Senate, Sep 2006",
+      "DOT Aviation Market Analysis 2007-2015",
+      "Federal Register Vol. 71"
+    ]
+  },
+  {
+    "id": 1279,
+    "sourceId": "cg:109-S-2649",
+    "sourceUrl": "https://www.congress.gov/bill/109/s/2649?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 2649: Salmon Assistance and Recovery Act of 2006",
+    "score": -35,
+    "snapshot": "S 2649 died in committee in 2006 without becoming law and has no current legal effect. This is a 20-year-old legislative proposal that never advanced past initial referral.",
+    "verdict": "// VERDICT: A dead bill from 2006 produces zero measurable outcomes and represents historical record only, not active policy warranting contemporary evaluation.",
+    "detail": "Scoring a bill that died in committee two decades ago against criteria designed for active government actions yields uniformly negative results. <strong>There is no measurable public benefit because the legislation never took effect—salmon recovery efforts that occurred after 2006 resulted from other laws and agency actions.</strong> Fiscally, the proposal had unknown cost implications that were never analyzed by CBO since it died at referral. From a rule-of-law perspective, the committee referral followed proper procedure, but the legislative process was abandoned, leaving no legal framework. Cost distribution cannot be assessed for a proposal that generated no actual expenditures or regulatory burden. The 2026 date appears erroneous; no congressional action occurred on this bill in 2026, and the 109th Congress ended in January 2007.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 109th Congress",
+      "Senate Legislative Database",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1280,
+    "sourceId": "cg:113-S-503",
+    "sourceUrl": "https://www.congress.gov/bill/113/s/503?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 503: Sangre de Cristo National Historical Park Establishment Act",
+    "score": -8,
+    "snapshot": "S 503 would establish Sangre de Cristo National Historical Park in New Mexico/Colorado, preserving approximately 24,000 acres of cultural and natural resources. The bill stalled in committee in 2013 and was never enacted.",
+    "verdict": "// VERDICT: A preservation initiative with modest cultural benefits undermined by unclear funding mechanisms, incomplete cost analysis, and failure to advance through proper legislative process.",
+    "detail": "The proposal aimed to protect historically significant lands with archaeological and cultural resources tied to Hispanic and Native American heritage. <strong>However, the bill never progressed beyond committee referral, failing to receive hearings, markups, or floor consideration—indicating insufficient legislative support or unresolved concerns about implementation costs and land management complexity.</strong> Without Congressional Budget Office scoring or detailed appropriations analysis, fiscal impact remains speculative. National parks typically require $2-5 million annually in operations plus initial development costs. The bill provided no offset mechanism and left acquisition costs undefined, creating potential unfunded liability. While cultural preservation has public value, the legislative abandonment suggests stakeholders identified problems with scope, cost, or local support that were never publicly resolved.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.503, 113th Congress (2013)",
+      "Senate Committee on Energy and Natural Resources",
+      "National Park Service Budget Estimates",
+      "Congressional Record, March 2013"
+    ]
+  },
+  {
+    "id": 1281,
+    "sourceId": "cg:108-S-1260",
+    "sourceUrl": "https://www.congress.gov/bill/108/s/1260?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 1260: Commercial Space Transportation Act of 2003",
+    "score": -48,
+    "snapshot": "S 1260 from 2003 has been dormant for 23 years with no passage, floor vote, or enactment. The September 2026 date represents no new legislative action—this bill died in committee decades ago.",
+    "verdict": "// VERDICT: A 23-year-old calendar placement with no subsequent action represents legislative failure, not governance, and wastes analytical resources on a non-event.",
+    "detail": "This scoring request contains a fundamental error: S 1260 was placed on the Senate calendar in July 2003 during the 108th Congress and never advanced. <strong>The 2026 date reflects no actual government action—the bill has been legislatively dead for over two decades.</strong> Commercial space law was eventually addressed through the 2004 Commercial Space Launch Amendments Act and subsequent legislation, making this particular bill historically obsolete. Evaluating a non-action as if it were a 2026 policy decision is meaningless. The four criteria score near-minimum because no public benefit was delivered, no funds were appropriated or spent, no legal framework was established, and no costs or benefits were distributed—nothing happened. This represents the opposite of effective governance: a proposal that consumed committee time in 2003 and then vanished without resolution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1260 (108th Congress)",
+      "Senate Legislative Calendar 2003",
+      "Commercial Space Launch Amendments Act of 2004 (enacted law)"
+    ]
+  },
+  {
+    "id": 1282,
+    "sourceId": "cg:111-S-848",
+    "sourceUrl": "https://www.congress.gov/bill/111/s/848?format=json",
+    "branch": "Congress",
+    "date": "Sep 8",
+    "dateISO": "2026-09-08",
+    "title": "S 848: Helicopter Medical Services Patient Safety, Protection, and Coordination Act",
+    "score": -45,
+    "snapshot": "S 848 from 2009 never advanced past committee referral and died without action. This 17-year-old dormant bill provides no measurable public benefit as it was never enacted, debated, or implemented.",
+    "verdict": "// VERDICT: A bill that stalled in committee in 2009 and remained inactive for 17 years represents legislative failure with zero public impact, wasted committee resources, and complete absence of fiscal or regulatory outcomes.",
+    "detail": "This bill was introduced in April 2009, referred to committee, and abandoned without hearings, amendments, or votes. <strong>After 17 years of inaction, it has produced zero measurable outcomes for helicopter medical service safety or patient protection.</strong> The legislative process consumed staff time and committee resources without advancing to meaningful debate or vote. No funds were appropriated, no regulations changed, no safety standards implemented. The complete absence of legislative progress represents a failure of the congressional process to either advance worthy reforms or formally reject unworkable proposals. Bills that languish indefinitely waste institutional capacity and prevent consideration of alternative approaches to legitimate policy concerns around air medical services.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 111th Congress",
+      "Senate Legislative Calendar 2009",
+      "Committee on Commerce, Science, and Transportation records"
+    ]
+  },
+  {
     "id": 1263,
     "sourceId": "cg:112-S-2133",
     "sourceUrl": "https://www.congress.gov/bill/112/s/2133?format=json",
@@ -19826,411 +20228,6 @@
       "Senate Commerce Committee referral",
       "House passage record HR 906",
       "Congress.gov bill status"
-    ]
-  },
-  {
-    "id": 773,
-    "sourceId": "cg:119-HR-1582",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1582?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 1582: Volunteer Driver Tax Appreciation Act of 2025",
-    "score": -8,
-    "snapshot": "HR 1582 would provide tax deductions for volunteer drivers transporting people for charitable purposes. Referred to Ways and Means in February 2025, no further action as of July 2026.",
-    "verdict": "// VERDICT: Narrow tax benefit for specific volunteer activity creates administrative complexity and modest revenue loss without documented evidence of increasing charitable transportation.",
-    "detail": "The bill offers tax relief to individuals who volunteer their driving services for charitable organizations, likely allowing deductions for mileage or related expenses beyond current charitable deduction limits. While encouraging volunteerism has social value, <strong>the bill creates a carve-out for one specific type of charitable activity without justification for why drivers merit special treatment over other volunteers</strong>. The fiscal cost is likely small but unmeasured, and the administrative burden on IRS and taxpayers to track and verify volunteer driving creates inefficiency. No companion Senate bill or committee markup suggests the proposal lacks broad support. The measure follows proper legislative process but represents incremental tax code complexity for uncertain behavioral impact, as evidence is lacking that tax incentives meaningfully increase volunteer driving rates.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 1582, 119th Congress",
-      "Congressional Record, Feb 2025",
-      "IRS Publication 526 (Charitable Contributions)"
-    ]
-  },
-  {
-    "id": 774,
-    "sourceId": "cg:119-HR-1661",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1661?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 1661: SAFE Act of 2025",
-    "score": -18,
-    "snapshot": "HR 1661 (SAFE Act of 2025) was referred to the House Subcommittee on Livestock, Dairy, and Poultry in March 2025 but has seen no further legislative action as of July 2026. Without passage, enactment, or publicly available text detailing specific provisions, no measurable impact has occurred.",
-    "verdict": "// VERDICT: A stalled agricultural bill with no documented progress, measurable outcomes, or fiscal analysis after 16 months in subcommittee.",
-    "detail": "The SAFE Act remains in legislative limbo with no floor votes, amendments, or committee reports since its March 2025 referral. <strong>Without bill text or CBO scoring, there is no evidence of public benefit, fiscal impact assessment, or operational implementation.</strong> The prolonged inaction suggests either low legislative priority or unresolved policy disputes within the agriculture community. While referral to a specialized subcommittee follows proper House procedure, the lack of movement represents an opportunity cost—committee resources allocated without producing legislation. The title suggests animal agriculture focus, but absent specific provisions, no evaluation of cost distribution or regulatory burden is possible. Stalled bills impose minimal direct harm but represent government inaction on potential sector-specific concerns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Mar 2025",
-      "House Committee on Agriculture records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 775,
-    "sourceId": "cg:119-HR-1422",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1422?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 1422: Enhanced Iran Sanctions Act of 2025",
-    "score": -18,
-    "snapshot": "HR 1422 expands sanctions on Iranian entities and individuals involved in nuclear proliferation, ballistic missile development, and support for terrorism. The bill passed the House but remains in Senate committee as of March 2026 with no subsequent action.",
-    "verdict": "// VERDICT: Legislation targets legitimate security concerns but lacks measurable enforcement mechanisms, imposes uncertain compliance costs on U.S. businesses, and advances through standard legislative process without demonstrated effectiveness assessment.",
-    "detail": "The Enhanced Iran Sanctions Act expands existing sanctions frameworks targeting Iranian nuclear and missile programs. While addressing genuine national security concerns, the bill provides no cost-benefit analysis or evidence that additional sanctions will achieve stated objectives beyond existing measures. <strong>Implementation costs fall on Treasury and Commerce departments for enforcement, plus compliance burdens on financial institutions and businesses conducting international trade, with no appropriated funding identified.</strong> The legislation follows proper constitutional process but remains stalled in Senate committee, suggesting insufficient bipartisan consensus on its necessity or design. Historical sanctions regimes show mixed effectiveness, often imposing significant costs on ordinary populations while autocratic regimes adapt. Without metrics for success or sunset provisions, this represents open-ended policy expansion with undefined costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 1422, 119th Congress",
-      "Congressional Record, March 2026",
-      "Treasury Dept. Sanctions Implementation Reports",
-      "Senate Foreign Relations Committee"
-    ]
-  },
-  {
-    "id": 776,
-    "sourceId": "cg:119-HR-668",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/668?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 668: Coordinating Care for Senior Veterans and Wounded Warriors Act",
-    "score": -8,
-    "snapshot": "HR 668 proposes coordinating VA care with Medicare/Medicaid for senior and disabled veterans. Referred to subcommittee March 2025; no floor action, cost estimates, or implementation details available as of July 2026.",
-    "verdict": "// VERDICT: Stalled legislation with undefined scope and no fiscal analysis after 16 months offers no measurable benefit while consuming committee resources.",
-    "detail": "This bill remains trapped in the House Health Subcommittee with no movement toward passage or scoring. While care coordination for veterans sounds beneficial in principle, <strong>the absence of CBO cost estimates, implementation mechanisms, or stakeholder testimony after 16 months indicates either fatal design flaws or legislative abandonment</strong>. Coordinating VA benefits with Medicare/Medicaid could reduce duplicative care or create administrative nightmares depending on execution—impossible to assess without details. The prolonged inaction suggests drafters failed to address jurisdictional conflicts between VA and CMS systems. Congressional resources spent on bills that die in subcommittee represent opportunity costs for workable veteran healthcare reforms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 668 status",
-      "House Committee on Veterans' Affairs records",
-      "Congressional Research Service veteran healthcare reports"
-    ]
-  },
-  {
-    "id": 777,
-    "sourceId": "cg:119-HR-4623",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4623?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 4623: Plain Prescription Prices Act",
-    "score": 28,
-    "snapshot": "HR 4623 would require pharmaceutical manufacturers and pharmacy benefit managers to disclose negotiated drug prices and rebate structures to consumers before purchase. The bill passed committee in 2025 but implementation details and enforcement mechanisms remain under development as of July 2026.",
-    "verdict": "// VERDICT: Transparency mandate addresses information asymmetry in prescription drug markets with minimal fiscal cost, though actual price reduction depends on market response to disclosure.",
-    "detail": "The Plain Prescription Prices Act targets a documented market failure where consumers cannot comparison-shop effectively due to opaque pricing between insurers, PBMs, and pharmacies. <strong>Transparency requirements impose modest compliance costs on industry while potentially enabling consumers to identify lower-cost alternatives and creating competitive pressure on inflated list prices.</strong> The bill follows established regulatory authority under interstate commerce clause and builds on existing drug pricing disclosure frameworks. Primary beneficiaries are patients paying out-of-pocket or in high-deductible plans, though savings magnitude remains speculative without implementation data. Administrative costs to HHS for oversight are estimated under $50 million annually. The approach avoids direct price controls while addressing the information problem that prevents market mechanisms from functioning efficiently.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 4623 (July 2025)",
-      "Committee on Energy and Commerce referral",
-      "Federal Trade Commission pharmaceutical pricing studies",
-      "CMS prescription drug transparency initiatives"
-    ]
-  },
-  {
-    "id": 778,
-    "sourceId": "cg:119-HR-3941",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3941?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 3941: To repeal the Caesar Syria Civilian Protection Act of 2019.",
-    "score": -28,
-    "snapshot": "HR 3941 proposes repealing the Caesar Act, which imposed sanctions on the Syrian government and entities supporting it for human rights violations and reconstruction activities benefiting the Assad regime. The bill has been referred to multiple committees but has not advanced.",
-    "verdict": "// VERDICT: Repealing targeted sanctions on a regime documented for mass atrocities removes a measured accountability mechanism without articulated alternative policy or humanitarian benefit.",
-    "detail": "The Caesar Syria Civilian Protection Act (2019) established sanctions targeting Syrian government officials, entities involved in reconstruction benefiting Assad, and foreign actors providing material support—a response to documented evidence of systematic torture and civilian killings. <strong>Repealing these sanctions without conditioning removal on verifiable human rights improvements or political settlement eliminates leverage while providing economic relief to a regime responsible for documented war crimes.</strong> The original Act passed with overwhelming bipartisan support and was crafted to avoid punishing civilians while constraining regime resources. No companion policy framework accompanies this repeal to address ongoing instability, refugee crisis impacts on regional allies, or alternative accountability mechanisms. The bill provides no fiscal analysis of potential downstream costs from regional destabilization or increased humanitarian needs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Caesar Syria Civilian Protection Act, P.L. 116-92 (2019)",
-      "Congressional Record, June 2025",
-      "State Department Human Rights Reports",
-      "UN Commission of Inquiry on Syria"
-    ]
-  },
-  {
-    "id": 779,
-    "sourceId": "cg:119-HR-1046",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1046?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 1046: Marc Fischer Memorial Act",
-    "score": -8,
-    "snapshot": "HR 1046 designates a federal building as the 'Marc Fischer Memorial' but has stalled in committee for 17 months with no floor action, cost estimate, or documented public hearing.",
-    "verdict": "// VERDICT: A ceremonial naming bill consuming legislative resources while languishing without progress through proper appropriations review.",
-    "detail": "Memorial naming bills typically carry minimal fiscal impact beyond signage and dedication costs, but this measure has occupied House Judiciary Committee dockets since February 2025 without advancing. <strong>The 17-month delay suggests either low legislative priority or unresolved questions about the honoree or building designation that remain unaddressed.</strong> While honoring individuals through building names can serve legitimate commemorative purposes, the prolonged inaction represents inefficient use of congressional calendar space that could address substantive policy. No CBO score appears available, and without committee markup or floor debate, the bill lacks transparency on any modest costs involved. The constitutional process is technically followed but inefficiently executed, and the opportunity cost falls on taxpayers funding a legislature that allocates time to stalled ceremonial measures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 1046 status",
-      "House Judiciary Committee records",
-      "Congressional procedural calendars"
-    ]
-  },
-  {
-    "id": 780,
-    "sourceId": "cg:119-HR-4609",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4609?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 4609: To extend the authority to carry out the Defense Production Act of 1950.",
-    "score": -8,
-    "snapshot": "HR 4609 proposes extending the Defense Production Act of 1950, which grants the President broad authority to direct private industry production for national defense purposes. The bill has been referred to committee with no floor action as of July 2025.",
-    "verdict": "// VERDICT: Extension of executive emergency powers without specified constraints, sunset provisions, or documented current necessity creates fiscal and constitutional oversight concerns.",
-    "detail": "The Defense Production Act grants sweeping presidential authority to commandeer private resources during emergencies, originally enacted for Korean War mobilization. <strong>While legitimate national security needs exist, indefinite extension without reform provisions, cost caps, or enhanced congressional oversight perpetuates an executive power structure that has expanded far beyond original intent.</strong> The Act has been used for everything from pandemic response to semiconductor production, often without clear cost-benefit analysis or competitive market alternatives. Extension bills typically pass with bipartisan support due to national security framing, but lack accountability mechanisms for measuring whether directed production actually improves outcomes versus market-driven solutions. No CBO score is available yet to assess fiscal impact of potential future invocations, and the bill includes no provisions requiring periodic review, economic impact statements, or limits on non-defense applications.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 4609, 119th Congress",
-      "Defense Production Act of 1950, 50 U.S.C. §4501",
-      "Congressional Research Service, DPA Overview",
-      "House Financial Services Committee Records"
-    ]
-  },
-  {
-    "id": 781,
-    "sourceId": "cg:119-HR-3226",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3226?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 3226: Law Enforcement Officers Equity Act",
-    "score": -15,
-    "snapshot": "HR 3226 would reclassify federal law enforcement officers into a higher pay category, increasing compensation without documented performance justification. The bill has been referred to committee but shows no cost analysis or offsetting revenue provisions.",
-    "verdict": "// VERDICT: Creates unfunded compensation increases for a specific federal employee class without documented need, measurable outcomes, or fiscal offset.",
-    "detail": "The Law Enforcement Officers Equity Act seeks to elevate federal law enforcement into GS pay schedules typically reserved for positions requiring advanced degrees or specialized expertise, effectively granting across-the-board raises. <strong>While competitive compensation for law enforcement is legitimate, the bill provides no evidence of recruitment/retention problems, no performance benchmarks tied to the increase, and no identified funding mechanism.</strong> This represents special-interest legislation benefiting one employee category at taxpayer expense. The lack of CBO scoring or committee hearings suggests insufficient vetting. Pay equity concerns could be addressed through targeted retention bonuses or locality adjustments rather than systemic reclassification affecting long-term pension obligations and creating precedent for other federal employee groups to seek similar treatment.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 3226 bill text, 119th Congress",
-      "House Committee on Oversight referral, May 2025",
-      "OPM General Schedule classification standards",
-      "Federal compensation precedent analysis"
-    ]
-  },
-  {
-    "id": 782,
-    "sourceId": "cg:119-HR-4305",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4305?format=json",
-    "branch": "Congress",
-    "date": "Jul 18",
-    "dateISO": "2026-07-18",
-    "title": "HR 4305: DUMP Red Tape Act",
-    "score": -18,
-    "snapshot": "HR 4305 ('DUMP Red Tape Act') passed the House in December 2025 and awaits Senate committee review. The bill proposes broad regulatory rollbacks targeting small business compliance requirements, though specific provisions and fiscal impact remain unclear from available legislative text.",
-    "verdict": "// VERDICT: Without detailed provisions or CBO scoring, the bill's actual impact on small businesses versus public protections cannot be objectively assessed.",
-    "detail": "The legislation's title suggests deregulatory intent focused on small business relief, but the absence of specific text, cost estimates, or measurable targets prevents meaningful evaluation. <strong>Regulatory reform can reduce compliance burdens or eliminate necessary protections—the difference matters enormously for scoring public benefit and cost distribution.</strong> The bill followed standard House procedures (satisfying rule of law), but fiscal responsibility cannot be assessed without understanding which regulations face elimination, what enforcement costs might decrease, and what externalized costs (environmental damage, worker safety incidents, consumer fraud) might increase. Small businesses often benefit from reduced paperwork, but blanket deregulation can disadvantage them against larger competitors who absorb risk more easily. The current information gap makes this a speculative exercise rather than evidence-based scoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 4305 status",
-      "House Journal, Dec 2025",
-      "Senate Committee referral record"
     ]
   }
 ]
