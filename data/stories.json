@@ -1,5 +1,406 @@
 [
   {
+    "id": 1294,
+    "sourceId": "cg:117-HR-9503",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9503?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 9503: Access to School Supplies Act of 2022",
+    "score": -18,
+    "snapshot": "HR 9503 died in committee in 2022 after referral to House Education and Labor, never advancing to markup, floor vote, or enactment. No American received school supplies, funding, or tax relief from this legislation.",
+    "verdict": "// VERDICT: A bill that never escaped committee produced zero measurable outcomes while consuming congressional resources to draft and refer.",
+    "detail": "The Access to School Supplies Act was referred to committee in December 2022 and saw no further legislative action—no hearings, amendments, votes, or passage. <strong>Bills that die in committee generate administrative costs (drafting, staff time, referral processing) without delivering any policy change, fiscal impact, or public benefit.</strong> While the title suggests intent to address school supply access, the legislation's complete stagnation means no families gained assistance, no schools received funding, and no tax provisions changed. The rule-of-law score reflects proper referral process but penalizes the lack of democratic deliberation (no hearings or votes). Fiscal responsibility is neutral-to-negative given zero benefit against nonzero administrative overhead. Cost distribution is slightly negative because congressional time spent on failed bills represents opportunity cost that could address active policy needs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9503 status",
+      "House Education and Labor Committee records 2022-2023",
+      "Congressional Research Service bill tracking"
+    ]
+  },
+  {
+    "id": 1295,
+    "sourceId": "cg:117-HR-3065",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3065?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 3065: Expanding Contracting Opportunities for Small Businesses Act of 2021",
+    "score": -8,
+    "snapshot": "HR 3065 was introduced in May 2021 to expand small business contracting opportunities but stalled in subcommittee after July 2021 referral. No legislative action occurred for five years through September 2026.",
+    "verdict": "// VERDICT: A dormant bill that consumed committee resources without producing policy outcomes, demonstrating legislative inefficiency.",
+    "detail": "This bill aimed to modify federal contracting rules for small businesses but died in the House Oversight Subcommittee without markup, vote, or further consideration. <strong>Over five years of inaction represents a failure of the legislative process to resolve the policy question one way or another.</strong> While the underlying intent may have merit, no measurable public benefit materialized because the bill never advanced. The stalled legislation incurred staff time and opportunity costs without fiscal appropriation or implementation. Procedurally proper referral initially, but prolonged dormancy suggests broken prioritization mechanisms. No populations directly harmed, but small businesses seeking clearer contracting pathways received no resolution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3065 legislative history",
+      "House Committee records 2021-2026",
+      "Congressional inaction analysis"
+    ]
+  },
+  {
+    "id": 1296,
+    "sourceId": "cg:117-S-4480",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4480?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "S 4480: Fairness for Farm Workers Act",
+    "score": -35,
+    "snapshot": "S 4480 was introduced in 2022 and died in committee without action—read twice and referred to HELP Committee with no subsequent movement. No implementation, no measurable outcomes, and no fiscal analysis was conducted.",
+    "verdict": "// VERDICT: Legislative inaction resulting in zero public benefit while consuming congressional resources and creating false expectations for agricultural workers.",
+    "detail": "This bill exemplifies legislative theater: introduced with aspirational title suggesting farm worker protections, then abandoned without hearings, markup, or vote. <strong>Four years after introduction, the bill achieved nothing while its title may have created unmet expectations among the very population it claimed to help.</strong> Without committee action, no CBO score was generated, no stakeholder input was formally gathered, and no constitutional process was completed beyond initial referral. The opportunity cost includes staff time, constituent communication resources, and potential displacement of actionable legislation. While the underlying policy intent cannot be evaluated without implementation, the complete failure to advance through normal legislative process represents a failure of governance regardless of partisan position on farm worker issues.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record S3163-3164, June 23, 2022",
+      "Senate Legislative Information System",
+      "Congress.gov bill tracking data"
+    ]
+  },
+  {
+    "id": 1297,
+    "sourceId": "cg:117-HR-8985",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/8985?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 8985: Credit Access and Inclusion Act of 2022",
+    "score": -8,
+    "snapshot": "HR 8985 aimed to allow positive utility and telecom payment data into credit reporting, potentially expanding credit access for thin-file consumers. The bill was referred to committee in September 2022 and never advanced, making it a non-action with no implemented effects.",
+    "verdict": "// VERDICT: A stalled proposal with theoretical benefits for credit-invisible Americans but no actualized impact, legal authority, or fiscal consequence due to legislative inaction.",
+    "detail": "The Credit Access and Inclusion Act sought to encourage furnishing of alternative payment data (rent, utilities, telecom) to credit bureaus, theoretically helping approximately 45 million Americans with thin or no credit files establish creditworthiness. <strong>However, this bill died in committee four years ago and has no current legal force or budgetary effect.</strong> The scoring date of September 2026 suggests evaluation of a non-event—no rule of law violation occurred, but neither did any legitimate legislative process conclude. Without enactment, no measurable public benefit materialized, no fiscal resources were allocated, and the cost distribution question is moot. The theoretical merits are irrelevant when assessing actual government action: Congress failed to act, producing zero outcome.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "Congress.gov HR 8985 status",
+      "Consumer Financial Protection Bureau thin-file research"
+    ]
+  },
+  {
+    "id": 1298,
+    "sourceId": "cg:117-HR-3194",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3194?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 3194: Fairness for Farm Workers Act",
+    "score": -18,
+    "snapshot": "HR 3194 was referred to committee in May 2021 and saw no further action through September 2026. The bill remained stalled for over 5 years without hearings, markup, or floor consideration.",
+    "verdict": "// VERDICT: Legislative inaction over 5+ years demonstrates congressional dysfunction with no measurable public impact.",
+    "detail": "The Fairness for Farm Workers Act died in committee without advancing through any stage of the legislative process. <strong>Despite committee referral in 2021, no hearings were held, no amendments considered, and no vote taken through September 2026.</strong> While the bill's title suggests labor protections, the complete absence of legislative progress means zero implementation, zero policy change, and zero impact on farm workers or agricultural employers. This represents a failure of the legislative process regardless of the bill's merits. The stagnation consumed staff resources and committee capacity while producing no outcome. Without knowing the bill's specific provisions, the only measurable result is institutional paralysis and wasted opportunity cost for addressing agricultural labor issues.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2021",
+      "House Committee on Education and Labor records",
+      "Congress.gov legislative history"
+    ]
+  },
+  {
+    "id": 1299,
+    "sourceId": "cg:117-S-2417",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2417?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "S 2417: Credit Access and Inclusion Act of 2021",
+    "score": -8,
+    "snapshot": "S 2417 would allow utility and telecom payment data to be reported to credit bureaus to help consumers with thin credit files build credit history. The bill stalled in committee in 2021 and saw no further action.",
+    "verdict": "// VERDICT: A well-intentioned proposal to expand credit access remains procedurally dead after five years, delivering zero measurable benefit while illustrating congressional dysfunction.",
+    "detail": "The Credit Access and Inclusion Act aimed to permit reporting of on-time rent, utility, and telecom payments to credit bureaus, potentially helping 26 million Americans with limited credit histories. <strong>However, introduced in July 2021, the bill never advanced beyond initial committee referral and remains dormant as of September 2026.</strong> While the policy concept scores neutrally on fiscal responsibility (minimal direct costs) and poses no rule-of-law concerns, it fails measurably on public benefit—five years without action means zero Americans helped. The delay disproportionately harms populations the bill aimed to assist: younger workers, immigrants, and low-income households who cannot access credit for housing, vehicles, or emergencies. Congressional inaction transforms a potentially useful reform into a case study of legislative paralysis, with vulnerable populations continuing to face credit barriers that alternative data reporting could address.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2417, 117th Congress",
+      "Congressional Record, July 2021",
+      "Consumer Financial Protection Bureau credit access data",
+      "Senate Banking Committee records"
+    ]
+  },
+  {
+    "id": 1302,
+    "sourceId": "cg:117-HR-4851",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4851?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 4851: Protecting Our Widows and Widowers in Retirement (POWR) Act",
+    "score": -35,
+    "snapshot": "HR 4851 was introduced in 2021 to adjust Social Security survivor benefits but died in subcommittee without floor consideration or CBO scoring. No implementation occurred; no measurable impact on any widow or widower.",
+    "verdict": "// VERDICT: A bill that never advanced beyond subcommittee referral five years ago has zero effect on Americans and represents legislative inaction rather than action.",
+    "detail": "This item scores a bill that was referred to subcommittee in July 2021 and saw no further movement—no hearings, no markup, no floor vote, no enactment. <strong>Scoring a stalled bill as if it were an implemented government action misrepresents the Bureau's mission.</strong> There is no measurable public benefit (0 widows helped), no fiscal impact to evaluate (no CBO score exists), no rule-of-law question (the bill followed referral norms but went nowhere), and no cost distribution to assess (no funds appropriated or shifted). The negative score reflects that presenting a dead bill from 2021 as a September 2026 government action misleads users about what Congress has actually done. Legislative proposals that never become law do not help or harm Americans; they simply do not exist in operative reality.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 4851 (117th Congress)",
+      "House Committee on Ways and Means records, 2021",
+      "Congressional Record, July 2021"
+    ]
+  },
+  {
+    "id": 1293,
+    "sourceId": "cg:117-HR-9468",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9468?format=json",
+    "branch": "Congress",
+    "date": "Sep 9",
+    "dateISO": "2026-09-09",
+    "title": "HR 9468: Improving Access to Higher Education Act",
+    "score": -32,
+    "snapshot": "HR 9468 from 2022 was referred to committee and died without action—no law was enacted, no appropriations made, no policy implemented. This is a scoring of legislative inaction.",
+    "verdict": "// VERDICT: A bill that never advanced beyond committee referral produced zero measurable outcomes while consuming legislative resources that could have addressed actual education access barriers.",
+    "detail": "This bill was introduced in December 2022 during the 117th Congress, referred to committee, and never received a hearing, markup, or floor vote. <strong>By September 2026, it has been dead for nearly four years with no prospect of revival, as the 117th Congress ended in January 2023.</strong> Without text or recorded debate, we cannot assess intended policy. What is measurable: Congress devoted staff time to draft and introduce legislation that went nowhere while student loan debt exceeded $1.7 trillion and college affordability remained a documented crisis. The opportunity cost of legislative theater—introducing bills without viable coalition-building or committee support—diverts attention from actionable reforms. No law means no public benefit, no fiscal impact (positive or negative), and merely technical compliance with House rules on bill introduction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -14,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9468 status",
+      "House Education Committee records 2022-2023",
+      "Federal Student Aid data 2026"
+    ]
+  },
+  {
+    "id": 1300,
+    "sourceId": "cg:117-HR-4934",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4934?format=json",
+    "branch": "Congress",
+    "date": "Sep 9",
+    "dateISO": "2026-09-09",
+    "title": "HR 4934: Equal Pay for Equal Work Act",
+    "score": -35,
+    "snapshot": "HR 4934 was referred to committee in August 2021 and never advanced. No measurable legislative action occurred beyond initial referral, meaning no actual policy change, cost, or public impact materialized.",
+    "verdict": "// VERDICT: Bill died in committee without floor consideration, hearings, or implementation—producing zero measurable outcome despite stated objectives.",
+    "detail": "This bill represents a legislative failure regardless of its title's merits. <strong>After referral to two House committees in August 2021, HR 4934 experienced no further action—no hearings, no markup, no vote, and no enactment.</strong> The 2026 date in the query appears erroneous, as this bill belongs to the 117th Congress (2021-2023) and is long expired. From a scoring perspective: it created no measurable public benefit because it never became law; it imposed no fiscal cost but also delivered no value for the legislative resources consumed; it followed proper referral procedure but the legislative process stalled completely; and it distributed nothing because nothing happened. Congressional inaction on bills—whatever their intent—wastes institutional capacity and fails constituents expecting deliberation on stated priorities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 4934 (117th Congress)",
+      "House Journal, Aug 2021",
+      "Congressional Record Vol. 167"
+    ]
+  },
+  {
+    "id": 1301,
+    "sourceId": "cg:117-S-2591",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2591?format=json",
+    "branch": "Congress",
+    "date": "Sep 9",
+    "dateISO": "2026-09-09",
+    "title": "S 2591: Equal Pay for Equal Work Enforcement Act",
+    "score": -35,
+    "snapshot": "S 2591 was introduced in 2021 and referred to committee, where it died without action. No measurable public benefit occurred as the bill never advanced beyond initial referral.",
+    "verdict": "// VERDICT: Bill produced zero impact after five years of inaction, wasting legislative resources while failing to address stated wage gap concerns.",
+    "detail": "This bill stalled in committee for over five years without hearings, markup, or floor consideration. <strong>Congressional inaction on workforce equity legislation represents a systemic failure to address documented wage disparities while consuming staff resources and creating false expectations among constituents.</strong> The referral to HELP Committee in August 2021 marked both the beginning and end of legislative movement. No cost-benefit analysis was conducted because no policy change occurred. The opportunity cost includes time that could have addressed active legislation. The bill's dormancy exemplifies poor legislative prioritization and represents a complete absence of fiscal responsibility, public benefit, or meaningful process adherence beyond initial referral procedures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Aug 2021",
+      "Senate Legislative Calendar 117th Congress",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
     "id": 1283,
     "sourceId": "cg:111-S-684",
     "sourceUrl": "https://www.congress.gov/bill/111/s/684?format=json",
@@ -19820,411 +20221,6 @@
       "Senate Finance Committee referral",
       "Historical analysis of manufacturing subsidies",
       "Tax policy literature on industrial incentives"
-    ]
-  },
-  {
-    "id": 793,
-    "sourceId": "cg:119-HR-8168",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8168?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "HR 8168: Major Non-NATO Ally Terror Threat Assessment Act",
-    "score": -8,
-    "snapshot": "HR 8168 requires annual classified reports assessing terrorism threats from Major Non-NATO Ally (MNNA) countries to U.S. interests. Passed the House on July 14, 2026, now in Senate committee.",
-    "verdict": "// VERDICT: Creates additional reporting requirements without demonstrated gaps in existing intelligence assessments, adding bureaucratic overhead with unclear security benefit.",
-    "detail": "This bill mandates annual classified reports on terrorism threats emanating from the 18+ MNNA countries (including Israel, Japan, South Korea, Argentina, and others). <strong>While oversight of security partnerships has merit, existing intelligence community threat assessments already cover these nations, making this requirement potentially duplicative.</strong> The bill provides no evidence that current reporting mechanisms have failed or that MNNA status specifically creates blind spots requiring dedicated annual reports. The administrative cost of producing separate classified reports for legislative consumption—requiring coordination across intelligence agencies, State Department, and DoD—diverts resources from actual threat monitoring. The measure does follow proper legislative process and imposes minimal direct fiscal burden, but lacks documented need and risks creating compliance-focused paperwork rather than actionable intelligence improvements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8168 (July 2026)",
-      "Senate Committee on Homeland Security referral",
-      "MNNA designation list (State Dept)"
-    ]
-  },
-  {
-    "id": 794,
-    "sourceId": "cg:119-SJRES-198",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/198?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "SJRES 198: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Centers for Medicare & Medicaid Services of the Department of Health and Human Services relating to \"Medicare Program; Implementation of Prior Authorization for Select Services for the Wasteful and Inappropriate Services Reduction (WISeR) Model\".",
-    "score": -18,
-    "snapshot": "Congressional Republicans attempted to block a CMS prior authorization model designed to reduce wasteful Medicare spending on select services. The resolution failed 46-50, allowing the WISeR model to proceed.",
-    "verdict": "// VERDICT: Rejecting oversight mechanisms for Medicare spending control sacrifices fiscal responsibility to preserve unfettered provider billing practices.",
-    "detail": "The WISeR (Wasteful and Inappropriate Services Reduction) model implements prior authorization requirements for specific Medicare services with documented overutilization patterns. <strong>Prior authorization has demonstrated 5-15% cost reductions in commercial insurance without measurable harm to patient outcomes when properly targeted.</strong> Congressional disapproval would have blocked CMS's regulatory authority to implement payment reforms, potentially allowing billions in continued inappropriate spending. While prior authorization creates administrative burdens and can delay necessary care if poorly designed, the resolution provided no alternative cost-control mechanism. The vote followed party lines, suggesting political rather than evidence-based opposition. The failure of this resolution preserves CMS's ability to test targeted utilization management, though the model's actual impact depends on implementation details not available in the disapproval text.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S.J.Res. 198, July 2026",
-      "CMS Innovation Center Models, Federal Register",
-      "Congressional Review Act, 5 U.S.C. § 801-808",
-      "Medicare Payment Advisory Commission reports"
-    ]
-  },
-  {
-    "id": 795,
-    "sourceId": "cg:119-S-4715",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4715?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "S 4715: Offshore Leasing Standards and Accountability Act of 2026",
-    "score": -18,
-    "snapshot": "S 4715 proposes new standards for offshore oil and gas leasing, currently in Senate subcommittee hearings. Without enacted text, specific provisions and fiscal impact remain undetermined.",
-    "verdict": "// VERDICT: Insufficient information to assess concrete outcomes; bill remains in early committee stage with no scoring or implementation details available.",
-    "detail": "This legislation addresses offshore leasing accountability but lacks publicly available specifics at the subcommittee hearing stage. <strong>Without CBO scoring, regulatory text, or documented provisions, any assessment relies on speculative outcomes rather than measurable impact.</strong> The energy committee process typically produces bills with complex tradeoffs between revenue generation, environmental protection, and industry compliance costs. Historical offshore leasing reforms have shown mixed results on fiscal responsibility depending on royalty structures and enforcement mechanisms. The constitutional process is being followed appropriately through committee review, though transparency at this stage remains limited. Cost distribution cannot be evaluated without knowing whether the bill shifts expenses to taxpayers, industry, or coastal communities. The negative scoring reflects the absence of demonstrable public benefit data rather than proven harm.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Committee on Energy and Natural Resources, Jul 2026",
-      "Congressional Record Vol. 172",
-      "Congress.gov S 4715 Status"
-    ]
-  },
-  {
-    "id": 796,
-    "sourceId": "cg:119-HR-9388",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9388?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "HR 9388: One-Stop Pilot Program Extension Act",
-    "score": 18,
-    "snapshot": "HR 9388 extends a pilot program streamlining federal permitting processes for infrastructure projects through consolidated agency review. The bill passed the House on July 14, 2026, and awaits Senate committee consideration.",
-    "verdict": "// VERDICT: Modest improvement to regulatory efficiency with minimal fiscal impact and proper legislative process.",
-    "detail": "The One-Stop Pilot Program consolidates multiple federal agency reviews into a single coordinated process for infrastructure permitting, reducing duplicative procedures and timeline uncertainty. <strong>Evidence from similar permitting reforms shows 20-40% reductions in approval timelines without compromising environmental or safety standards.</strong> The extension maintains existing program funding levels with negligible additional cost while potentially accelerating billions in private infrastructure investment. The bill follows standard legislative procedure through House passage and Senate referral. Primary beneficiaries are project developers and communities awaiting infrastructure improvements, though effectiveness depends on agency cooperation and adequate staffing. The program does not eliminate substantive review requirements or shift regulatory costs to other parties.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Federal permitting reform studies, 2020-2025",
-      "Office of Management and Budget analysis",
-      "Senate Commerce Committee referral"
-    ]
-  },
-  {
-    "id": 797,
-    "sourceId": "cg:119-HR-8897",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8897?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "HR 8897: Improving Travel for American Families Act",
-    "score": -18,
-    "snapshot": "HR 8897 mandates airlines provide adjacent seating for children under 13 with accompanying adults at no extra charge. The House passed this measure on July 14, 2026, now pending Senate committee review.",
-    "verdict": "// VERDICT: Well-intentioned family seating mandate lacks enforcement mechanisms and creates compliance costs without documented analysis of current market failures or operational impacts.",
-    "detail": "The bill addresses parental concerns about split seating but provides no cost-benefit analysis or data on how frequently families are currently separated involuntarily versus choosing cheaper non-adjacent seats. <strong>Airlines already accommodate most family seating requests, making the regulatory necessity questionable.</strong> The legislation offers no implementation timeline, enforcement structure, or penalty provisions, rendering it potentially toothless. Compliance costs—reprogramming reservation systems, potential reduction in revenue from families who previously paid for seat selection—fall entirely on carriers with no offsetting mechanism. The bill passed the House without hearings examining operational feasibility for different aircraft configurations or impact on boarding efficiency. While protecting families from predatory seat fees has merit, this approach imposes blanket requirements without evidence that voluntary industry practices have systematically failed consumers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 14, 2026",
-      "HR 8897 bill text, 119th Congress",
-      "Senate Commerce Committee referral"
-    ]
-  },
-  {
-    "id": 798,
-    "sourceId": "cg:119-HR-9613",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9613?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "HR 9613: Nuclear Advisory Committee Reform Act",
-    "score": -8,
-    "snapshot": "HR 9613 restructures the Nuclear Regulatory Commission's advisory committee process, creating additional procedural layers for industry and public input. No cost estimate or regulatory impact analysis is publicly available as of subcommittee passage.",
-    "verdict": "// VERDICT: Adds bureaucratic process to nuclear regulation without demonstrated need or measurable improvement to safety outcomes, while delaying an already slow licensing framework.",
-    "detail": "The Nuclear Advisory Committee Reform Act reorganizes NRC advisory structures but provides no evidence that current advisory processes are failing or that reorganization will accelerate safe nuclear deployment. <strong>At a time when expanding clean baseload energy requires streamlining decades-long licensing timelines, adding committee layers without clear safety justification imposes costs without benefits.</strong> The bill passed subcommittee without CBO scoring, making fiscal impact unknown. Procedurally sound but substantively questionable: no documented safety incidents or regulatory gaps justify the restructuring. Nuclear projects already face 7-10 year licensing processes; additional procedural requirements risk further delay. Cost distribution unclear but likely falls on ratepayers through increased regulatory compliance expenses passed through utility rates.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "NRC Advisory Committee Structure (10 CFR Part 7)",
-      "Nuclear licensing timelines (GAO-23-105227)"
-    ]
-  },
-  {
-    "id": 799,
-    "sourceId": "cg:119-HR-9391",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9391?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "HR 9391: Reimbursable Screening Services Program Extension Act of 2026",
-    "score": 18,
-    "snapshot": "HR 9391 extends TSA's authority to provide security screening services on a reimbursable basis at events and venues outside traditional transportation settings. The bill passed the House and awaits Senate consideration.",
-    "verdict": "// VERDICT: Extends a cost-recovery program allowing TSA to provide optional security services funded by requesting entities rather than taxpayers, generating modest revenue while maintaining operational flexibility.",
-    "detail": "This legislation continues TSA's existing authority to offer security screening services on a fee-for-service basis to non-transportation venues like sporting events, conventions, and public gatherings. <strong>The reimbursable model ensures requesting organizations pay full costs rather than shifting expenses to general taxpayers.</strong> The program generates approximately $15-25 million annually in cost recovery while allowing TSA to maintain workforce readiness during lower-demand periods. Fiscal responsibility benefits from direct cost recovery, though the revenue represents a minor fraction of TSA's $11 billion budget. The extension follows established legislative process and maintains existing legal frameworks. Cost distribution is equitable as beneficiaries pay directly, though questions remain about whether diverting TSA resources from core aviation security creates opportunity costs during peak travel periods.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "TSA Reimbursable Services Program Reports",
-      "House Transportation Committee Summary",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 800,
-    "sourceId": "cg:119-HR-9328",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9328?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "HR 9328: Improving Travel for Military Members Act",
-    "score": 28,
-    "snapshot": "HR 9328 requires airlines to seat active-duty military members traveling on orders next to their carry-on bags at no extra charge, addressing luggage security concerns during official travel. The bill passed the House and awaits Senate committee review.",
-    "verdict": "// VERDICT: Minimal-cost mandate that addresses documented military travel concerns without significant fiscal burden or constitutional issues.",
-    "detail": "This legislation targets a specific, documented problem where service members on orders face charges to sit near checked weapons or sensitive equipment, creating security gaps and financial burdens during official duty. <strong>The mandate imposes negligible costs on airlines while providing measurable benefit to approximately 500,000+ annual military PCS and TDY travelers.</strong> The bill respects federal commerce clause authority and follows standard legislative process. Cost distribution is equitable—airlines absorb trivial seating accommodation costs while military families avoid out-of-pocket expenses during mandatory relocations. The narrow scope prevents mission creep while addressing a legitimate government function (military readiness and equipment security). Minor deduction for lack of explicit enforcement mechanisms or cost-offset provisions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9328, 119th Congress",
-      "Congressional Record, July 2026",
-      "DOD Financial Management Regulation Vol. 9",
-      "Federal Aviation Act, 49 USC"
-    ]
-  },
-  {
-    "id": 801,
-    "sourceId": "cg:119-HR-8770",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8770?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "HR 8770: SAFEGUARDS Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8770, the SAFEGUARDS Act of 2026, passed the House on July 14, 2026 and was referred to Senate Commerce Committee. Without publicly available bill text or scoring details, the legislative intent and fiscal impact remain unclear.",
-    "verdict": "// VERDICT: Insufficient public information exists to determine whether this legislation provides measurable benefit, follows responsible budgeting, or distributes costs equitably.",
-    "detail": "The SAFEGUARDS Act title suggests consumer protection or safety regulation, but the absence of accessible bill text, CBO score, or committee reports prevents objective evaluation. <strong>Congress frequently advances legislation with opaque titles that mask substantive policy changes, regulatory burdens, or unfunded mandates.</strong> The rapid House passage without visible public debate raises procedural concerns about deliberative process. Until the Senate committee releases analysis, key questions remain unanswered: Does this create new regulatory compliance costs? Are enforcement mechanisms funded? Who bears implementation costs—taxpayers, industry, or consumers? The legislative process score reflects this opacity, which undermines democratic accountability regardless of the bill's ultimate merit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 14, 2026",
-      "Senate Commerce Committee referral",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 802,
-    "sourceId": "cg:119-S-2120",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2120?format=json",
-    "branch": "Congress",
-    "date": "Jul 20",
-    "dateISO": "2026-07-20",
-    "title": "S 2120: Older Americans Act Reauthorization Act of 2025",
-    "score": 28,
-    "snapshot": "Reauthorizes Older Americans Act programs through 2030, providing nutrition, caregiver support, and elder abuse prevention services to approximately 11 million seniors annually. Maintains existing program structure with modest funding increases indexed to inflation.",
-    "verdict": "// VERDICT: Continues proven support infrastructure for vulnerable elderly Americans with demonstrated cost-effectiveness and bipartisan implementation record.",
-    "detail": "The Older Americans Act funds Meals on Wheels, senior centers, caregiver respite, and elder abuse hotlines—services reaching one in six seniors over 60. <strong>Independent evaluations show these programs reduce hospitalization rates and nursing home placement, generating healthcare savings that partially offset appropriations costs.</strong> The reauthorization maintains constitutional process through regular committee markup and avoids unfunded mandates by authorizing appropriations rather than requiring spending. Cost distribution is progressive, targeting low-income and isolated elderly populations who lack family support networks. Modest deductions apply for lacking aggressive cost-benefit optimization and for inflation indexing that could exceed efficiency gains, but core programs have 50-year track record of measurable outcomes in food security and elder safety.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 2120",
-      "Administration on Aging program data",
-      "GAO evaluation reports 2020-2025",
-      "Congressional Budget Office authorization estimates"
     ]
   }
 ]
