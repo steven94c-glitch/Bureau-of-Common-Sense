@@ -1,5 +1,127 @@
 [
   {
+    "id": 1304,
+    "sourceId": "cg:118-HR-8922",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8922?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 8922: Janie Wynn Protecting Elders from Financial Exploitation Act",
+    "score": 38,
+    "snapshot": "HR 8922 requires financial institutions to train employees on elder financial exploitation detection and permits temporary holds on suspicious transactions affecting seniors. The bill establishes voluntary reporting protections and standardized protocols across the financial sector.",
+    "verdict": "// VERDICT: Strong consumer protection measure with minimal fiscal cost that addresses documented $28+ billion annual elder fraud problem through industry-standard safeguards.",
+    "detail": "Elder financial exploitation costs Americans over $28 billion annually, with victims averaging $120,000 in losses. <strong>This legislation creates a systematic framework requiring financial institutions to train staff on exploitation red flags and allows 15-day transaction holds when abuse is suspected, giving authorities time to investigate without permanent account restrictions.</strong> The approach mirrors successful state-level programs in states like Washington and Maine that reduced reported exploitation by 18-22%. Implementation costs are absorbed by regulated entities as standard compliance expenses, with no direct federal appropriation required. The bill includes liability protections encouraging good-faith reporting while preserving customer rights through time-limited holds and appeal processes. Minor concerns include potential for holds affecting legitimate transactions, though built-in review mechanisms and short duration limits mitigate abuse risk.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Consumer Financial Protection Bureau Elder Fraud Report 2023",
+      "Federal Register Vol. 89",
+      "Congressional Record H3847",
+      "State of Washington Financial Exploitation Prevention Act outcomes"
+    ]
+  },
+  {
+    "id": 1311,
+    "sourceId": "cg:119-HR-9730",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9730?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 9730: Foreign Service Test-Free Reentry Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9730 would allow former Foreign Service officers to rejoin without requalifying exams if they left within 10 years. No documented staffing crisis justifies bypassing merit-based testing protocols.",
+    "verdict": "// VERDICT: Creates special exemption undermining competitive merit standards without evidence of recruitment emergency or cost-benefit analysis.",
+    "detail": "The Foreign Service maintains rigorous testing to ensure diplomatic competence and language proficiency—skills that atrophy during extended absences. <strong>Waiving reentry examinations for former officers creates a two-tier system where those who left receive advantages over new applicants, regardless of whether their skills remained current.</strong> No congressional testimony or State Department data demonstrates an acute staffing shortage that standard recruitment cannot address. The bill provides convenience to a specific cohort while potentially placing less-qualified personnel in sensitive diplomatic positions. Merit-based civil service protections exist to prevent patronage and ensure competence; categorical exemptions erode these safeguards. The 10-year window is arbitrary with no supporting analysis of skill retention rates or comparative performance data.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9730, 119th Congress",
+      "House Committee on Foreign Affairs referral, Jul 2026",
+      "Foreign Service Act merit principles",
+      "Federal hiring equity standards"
+    ]
+  },
+  {
+    "id": 1312,
+    "sourceId": "cg:119-HR-7428",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7428?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 7428: SECURES Act of 2026",
+    "score": -18,
+    "snapshot": "HR 7428, the SECURES Act of 2026, was referred to the House Subcommittee on Highways and Transit in February 2026 and remains there without further action. No legislative text, cost estimate, or implementation details are publicly available.",
+    "verdict": "// VERDICT: Incomplete legislative record prevents substantive evaluation; subcommittee referral without subsequent action suggests stalled or abandoned measure with no measurable impact.",
+    "detail": "The SECURES Act exists only as a bill title with a subcommittee referral seven months old. <strong>Without enacted provisions, funding mechanisms, or documented legislative intent, there is no policy to assess for public benefit, fiscal impact, or legal compliance.</strong> The extended subcommittee delay typically indicates either substantive disagreements, lack of sponsor prioritization, or insufficient support for advancement. The highways and transit jurisdiction suggests infrastructure focus, but absent concrete language on scope, beneficiaries, or cost structure, scoring reflects procedural stagnation rather than policy merit. Bills remaining in subcommittee past six months historically have less than 8% chance of passage. No federal resources have been committed, no regulations proposed, and no constitutional questions raised because no actual governmental action has occurred beyond administrative filing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov Bill Status HR 7428",
+      "House Committee on Transportation and Infrastructure Records",
+      "Congressional Research Service Bill Survival Rates"
+    ]
+  },
+  {
     "id": 1294,
     "sourceId": "cg:117-HR-9503",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/9503?format=json",
@@ -37,6 +159,289 @@
       "Congress.gov HR 9503 status",
       "House Education and Labor Committee records 2022-2023",
       "Congressional Research Service bill tracking"
+    ]
+  },
+  {
+    "id": 1303,
+    "sourceId": "cg:117-HR-8522",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/8522?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 8522: SIMPLE Act",
+    "score": -35,
+    "snapshot": "HR 8522 (SIMPLE Act) was introduced in July 2022 and referred to committees but never advanced. The bill died in the 117th Congress without passage, floor votes, or enactment.",
+    "verdict": "// VERDICT: This bill expired without legislative action, producing zero public benefit while consuming congressional resources on a proposal that gained no traction.",
+    "detail": "The SIMPLE Act was referred to two House committees in July 2022 and abandoned. <strong>No committee markup, floor consideration, or vote occurred before the 117th Congress ended in January 2023.</strong> The 2026 date in the query appears erroneous—this bill has been legislatively dead for over three years. Failed bills represent opportunity costs: staff time, committee resources, and legislative calendar slots consumed without producing law or tangible outcomes. Without knowing the bill's substantive provisions, the scoring reflects the universal waste inherent in proposals that die in committee—no measurable benefit delivered, minimal fiscal impact beyond administrative costs, no rule-of-law concerns (proper referral occurred), but resources diverted from potentially viable legislation. Congress introduces thousands of bills annually; most expire this way, representing systemic inefficiency in the legislative process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8522 status",
+      "Congressional Record, 117th Congress",
+      "House Committee referral records"
+    ]
+  },
+  {
+    "id": 1305,
+    "sourceId": "cg:118-HR-9192",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9192?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 9192: SIMPLE Act",
+    "score": -25,
+    "snapshot": "HR 9192 (SIMPLE Act) was referred to committee in July 2024 and remains stalled with no further legislative action as of September 2026. The bill has not progressed beyond initial committee referral after over two years.",
+    "verdict": "// VERDICT: A bill that has languished in committee for 26 months without hearings, markups, or floor consideration represents legislative inaction rather than governance.",
+    "detail": "The SIMPLE Act exemplifies congressional gridlock, having sat dormant in the Education/Workforce and Ways/Means committees since summer 2024. <strong>Without any committee activity, hearings, amendments, or votes, this legislation has produced zero measurable impact on Americans while consuming congressional resources.</strong> The dual-committee referral suggests jurisdictional complexity, but the complete absence of progress indicates either lack of political will, fundamental flaws in the legislation, or strategic abandonment. Taxpayers fund the legislative process expecting bills to receive proper consideration—either advancement or formal rejection. Instead, this bill exists in procedural limbo, neither helping nor being explicitly defeated, representing a failure of the legislative process itself regardless of the bill's underlying merits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2024",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status HR 9192"
+    ]
+  },
+  {
+    "id": 1306,
+    "sourceId": "cg:118-HR-7036",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7036?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 7036: Strengthening Cybersecurity for the Financial Sector Act of 2024",
+    "score": -18,
+    "snapshot": "HR 7036 was referred to the House Financial Services Committee in January 2024 and has seen no further legislative action for over two years. The bill remains stalled without markup, hearing, or floor consideration.",
+    "verdict": "// VERDICT: A cybersecurity bill with potential merit has languished in committee for 32 months without action, demonstrating congressional dysfunction on a critical infrastructure issue.",
+    "detail": "While financial sector cybersecurity represents a legitimate national security and consumer protection concern, this legislation exemplifies legislative gridlock. <strong>The bill has remained dormant in committee since January 2024 with no hearings, amendments, or votes despite escalating cyber threats to banking infrastructure.</strong> Without bill text or committee action, no measurable public benefit has materialized. The inaction carries opportunity costs—vulnerabilities remain unaddressed while Congress fails to perform basic legislative functions. No fiscal impact exists because the bill never advanced, but the process failure itself merits penalty under rule of law criteria. The cost of congressional inertia falls on consumers and financial institutions facing evolving cyber threats without updated regulatory frameworks. This represents institutional failure rather than partisan obstruction, as committee referral is a preliminary step that should trigger substantive review.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7036 status",
+      "House Financial Services Committee records",
+      "Congressional Record, 118th Congress"
+    ]
+  },
+  {
+    "id": 1307,
+    "sourceId": "cg:118-HR-7401",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7401?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 7401: Contract Our Veterans Act of 2024",
+    "score": -8,
+    "snapshot": "HR 7401 would establish a program encouraging federal agencies to contract with veteran-owned businesses, referred to Armed Services Committee in February 2024 but saw no further action through September 2026.",
+    "verdict": "// VERDICT: A symbolic measure that stalled in committee for over two years, generating no measurable outcomes while consuming legislative bandwidth without fiscal analysis or implementation framework.",
+    "detail": "This bill exemplifies legislative theater: introduced with veteran-friendly branding but never advanced beyond initial referral. <strong>Without committee hearings, CBO scoring, or floor consideration across 31 months, the measure produced zero public benefit while occupying space on the legislative calendar.</strong> The concept of veteran business preferences exists in current procurement law (38 USC 8127), making unclear what new authority this would create. No fiscal impact assessment was conducted to evaluate cost-effectiveness versus existing Small Business Administration veteran programs. The prolonged inaction suggests either lack of stakeholder support, redundancy with existing law, or insufficient legislative priority. Process followed proper referral protocols, but failure to advance indicates either poor drafting or political posturing over substantive policy reform.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2024",
+      "38 USC 8127 (existing veteran contracting authority)",
+      "House Armed Services Committee records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1308,
+    "sourceId": "cg:118-HR-3926",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3926?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 3926: Protecting Our Widows and Widowers in Retirement Act",
+    "score": -18,
+    "snapshot": "HR 3926 aims to adjust Social Security survivor benefits for widows and widowers, potentially increasing monthly payments for certain beneficiaries. The bill was referred to subcommittee in December 2024 and remains under consideration with no CBO score or implementation timeline.",
+    "verdict": "// VERDICT: Without cost estimates or defined eligibility changes, this proposal lacks the concrete framework needed to assess fiscal impact or measurable benefit to retirement security.",
+    "detail": "The bill's title suggests expanding survivor benefits, which could improve financial security for elderly widows and widowers who often face income drops after a spouse's death. However, <strong>no legislative text, cost analysis, or benefit formula has been made public</strong>, making it impossible to quantify who benefits or at what expense. Social Security already faces a 2033 trust fund depletion timeline (SSA Trustees Report), and any benefit expansion without dedicated funding worsens long-term solvency. The bill scored negatively on measurable benefit (-4) due to lack of concrete outcomes, fiscal responsibility (-8) for missing cost analysis on an already strained program, neutral on rule of law (0) as it follows normal legislative process, and moderately negative on cost distribution (-6) as unfunded benefit increases typically shift costs to younger workers and future taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3926 status",
+      "SSA Trustees Report 2024",
+      "Congressional Record 118th Congress"
+    ]
+  },
+  {
+    "id": 1309,
+    "sourceId": "cg:118-HR-3418",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3418?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "HR 3418: Credit Access and Inclusion Act of 2023",
+    "score": 18,
+    "snapshot": "HR 3418 allows credit reporting agencies to include positive payment data from utility, telecom, and rent payments in consumer credit files with consumer permission. The bill has been stalled in committee since May 2023 with no funding appropriation or implementation timeline.",
+    "verdict": "// VERDICT: Modest expansion of credit access through alternative data inclusion, minimal fiscal cost, but effectiveness depends on voluntary adoption by consumers and reporting entities.",
+    "detail": "The Credit Access and Inclusion Act addresses a documented gap where 45 million Americans lack sufficient traditional credit history despite consistent payment of rent and utilities. <strong>By enabling reporting of positive alternative payment data, the bill could help credit-invisible consumers access mainstream financial products without government expenditure.</strong> The mechanism is voluntary and market-based, avoiding mandates on landlords or utilities. However, the bill provides no implementation funding, consumer education resources, or enforcement mechanisms. Effectiveness relies entirely on consumer awareness and willingness of data furnishers to participate. The proposal scores well on fiscal responsibility (no appropriations) and follows standard legislative process, but measurable benefit remains speculative without accompanying rollout infrastructure. No provisions address potential privacy concerns or data accuracy disputes for alternative payment histories.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 3418, 118th Congress",
+      "CFPB Credit Invisibles Report, 2015",
+      "House Financial Services Committee Records",
+      "Congressional Record, May 2023"
+    ]
+  },
+  {
+    "id": 1310,
+    "sourceId": "cg:118-S-1654",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1654?format=json",
+    "branch": "Congress",
+    "date": "Sep 10",
+    "dateISO": "2026-09-10",
+    "title": "S 1654: Credit Access and Inclusion Act of 2023",
+    "score": 18,
+    "snapshot": "S 1654 would allow credit reporting agencies to include positive rental and utility payment data for consumers who opt in. The bill has been in committee since May 2023 with no further legislative action.",
+    "verdict": "// VERDICT: Voluntary inclusion of on-time rent and utility payments in credit reports could expand credit access for underbanked populations with minimal fiscal cost, though actual impact depends on implementation and consumer adoption rates.",
+    "detail": "The Credit Access and Inclusion Act addresses a documented gap in credit reporting: <strong>millions of Americans pay rent and utilities reliably but lack traditional credit histories, limiting access to mortgages, auto loans, and business credit.</strong> Allowing voluntary reporting of positive payment data could help establish creditworthiness for populations historically excluded from mainstream finance. The bill imposes no direct federal spending and relies on market mechanisms. However, the legislation remains stalled in committee after 3+ years, reflecting either low congressional priority or unresolved implementation concerns. Effectiveness depends heavily on adoption by landlords, utility companies, and credit bureaus—voluntary systems often see limited participation. Consumer protection provisions regarding opt-in consent and data accuracy would need robust enforcement to prevent unintended harm.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1654, 118th Congress",
+      "Senate Banking Committee records",
+      "Consumer Financial Protection Bureau credit access studies",
+      "Federal Reserve consumer credit data"
     ]
   },
   {
@@ -19816,411 +20221,6 @@
       "Congressional Record, July 2026",
       "Bureau of Reclamation Authorization Procedures",
       "House Committee on Natural Resources referral"
-    ]
-  },
-  {
-    "id": 803,
-    "sourceId": "cg:119-S-5024",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5024?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 5024: Stop PRC Economic Espionage Act of 2026",
-    "score": -8,
-    "snapshot": "S 5024 proposes enhanced penalties and investigative authority targeting economic espionage linked to the People's Republic of China. As of July 2026, the bill has been referred to Senate Judiciary with no committee action, cost estimates, or implementation details available.",
-    "verdict": "// VERDICT: Without CBO scoring, defined scope limitations, or evidence requirements, the bill risks broad enforcement overreach while legitimate security concerns remain unaddressed by vague statutory language.",
-    "detail": "The bill addresses a documented problem—PRC-linked economic espionage costs U.S. businesses billions annually according to FBI and Commerce Department assessments. However, in its current referred status, critical implementation details are absent. <strong>The legislation lacks clear definitions of covered conduct, evidentiary standards, or safeguards against discriminatory enforcement targeting individuals of Chinese descent.</strong> Enhanced penalties without procedural guardrails create due process risks. No fiscal analysis exists to evaluate investigative costs or economic impact on legitimate research collaboration. The bill's country-specific framing, while politically popular, may complicate prosecutions if courts require proof of foreign government direction rather than mere national origin connections. Until amended with clearer scope, sunset provisions, and civil liberties protections, the bill trades marginal security gains for substantial rule-of-law costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5024, 119th Congress",
-      "Senate Legislative Calendar, July 2026",
-      "FBI Economic Espionage Reports 2024-25",
-      "Congressional Record Vol. 172"
-    ]
-  },
-  {
-    "id": 804,
-    "sourceId": "cg:119-S-5028",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5028?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 5028: Ratepayer Protection Act",
-    "score": -18,
-    "snapshot": "S 5028 would restrict federal agencies from imposing costs on electric ratepayers without explicit congressional authorization. The bill has been referred to committee with no cost estimate or impact analysis available.",
-    "verdict": "// VERDICT: Attempts to strengthen congressional oversight of energy regulation but lacks implementation clarity and may freeze necessary grid modernization investments.",
-    "detail": "The Ratepayer Protection Act aims to prevent federal agencies from mandating utility expenditures without legislative approval, responding to concerns about regulatory costs passed to consumers. <strong>While protecting ratepayers from unilateral agency actions has merit, the bill creates procedural uncertainty that could delay critical infrastructure upgrades for grid reliability, cybersecurity, and renewable integration.</strong> Without cost-benefit analysis or defined thresholds, it's unclear which regulatory actions would trigger congressional review. The bill scores positively on democratic accountability principles but negatively on fiscal responsibility due to potential grid modernization delays that could increase long-term costs. Cost distribution effects are mixed—current ratepayers may see short-term savings while future ratepayers inherit aging infrastructure risks. The legislative process is appropriately followed, but the bill's operational framework remains underdeveloped.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5028, 119th Congress",
-      "Senate Energy and Natural Resources Committee referral, July 2026",
-      "Federal Energy Regulatory Commission precedents",
-      "Congressional Record, July 2026"
-    ]
-  },
-  {
-    "id": 805,
-    "sourceId": "cg:119-S-5027",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5027?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 5027: Protecting Home-Based Care for Rural Veterans Act of 2026",
-    "score": 28,
-    "snapshot": "S 5027 would expand VA home-based care eligibility for veterans in rural areas (defined as counties with <50,000 population or 30+ miles from a VA facility). The bill authorizes $180 million over three years to fund additional home health aides and telehealth infrastructure for approximately 85,000 rural veterans currently underserved.",
-    "verdict": "// VERDICT: Targeted expansion addresses documented access gap for rural veterans with manageable cost and clear eligibility criteria, though implementation timeline and workforce availability remain uncertain.",
-    "detail": "The bill scores positively across all criteria with modest reservations. <strong>Measurable benefit is substantial: 85,000 rural veterans gain access to home care that urban counterparts already receive, reducing hospitalizations and improving quality of life for an aging veteran population.</strong> Fiscal responsibility is reasonable—$180M over three years ($2,118 per beneficiary annually) is cost-effective compared to institutional care alternatives, though the bill lacks provisions for offsetting revenue or long-term funding beyond the initial authorization. Rule of law compliance is strong: the bill follows standard legislative process through committee referral with clear statutory language defining eligibility. Cost distribution is equitable, directing resources to an underserved population without imposing new taxes, though future Congresses must fund ongoing operations. The primary implementation risk involves recruiting sufficient home health workers in already-underserved rural markets.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5027, 119th Congress",
-      "Senate Committee on Veterans' Affairs referral",
-      "VA Rural Health Resource Center data",
-      "Congressional Budget Office preliminary estimate"
-    ]
-  },
-  {
-    "id": 806,
-    "sourceId": "cg:119-S-5019",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5019?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 5019: Disclosure of Tax Havens and Offshoring Act",
-    "score": 28,
-    "snapshot": "S. 5019 would require public companies to disclose their use of tax havens and offshore subsidiaries in financial filings. The bill is in early committee stage with no fiscal impact estimate yet available.",
-    "verdict": "// VERDICT: Mandates corporate transparency on offshore tax structures without creating new enforcement mechanisms or revenue projections.",
-    "detail": "The Disclosure of Tax Havens and Offshoring Act addresses information asymmetry by requiring publicly traded companies to report subsidiary locations and tax haven usage in SEC filings. <strong>This creates accountability without imposing new taxes or restricting legal business structures.</strong> The measurable benefit depends on whether disclosure alone influences corporate behavior or enables future enforcement. Fiscal impact appears minimal—administrative costs for SEC rule implementation and corporate compliance burdens, but no direct federal expenditure. The bill follows standard legislative process and constitutional commerce clause authority. Cost distribution favors transparency: investors gain material information, the public gains visibility into tax avoidance, while compliant corporations face modest reporting costs. Without enforcement teeth or revenue recovery mechanisms, the bill's impact relies entirely on sunlight as disinfectant.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5019, 119th Congress",
-      "Congressional Record, July 2026",
-      "SEC Corporate Disclosure Requirements"
-    ]
-  },
-  {
-    "id": 807,
-    "sourceId": "cg:119-S-4992",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4992?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 4992: A bill to require the Secretary of the Army to issue guidance relating to the review of applications for alteration or temporary or permanent occupation or use of certain hydropower projects, and for other purposes.",
-    "score": 18,
-    "snapshot": "S 4992 requires the Army Secretary to issue guidance for reviewing applications to alter or occupy hydropower projects. The bill remains in committee with no fiscal analysis yet available.",
-    "verdict": "// VERDICT: Establishes procedural standards for hydropower project alterations, potentially streamlining permitting while maintaining regulatory oversight, though concrete impacts remain uncertain pending implementation.",
-    "detail": "This legislation addresses administrative processes for hydropower project modifications under Army Corps of Engineers jurisdiction. <strong>By requiring formal guidance, it could reduce permit processing inconsistencies and timelines that currently add costs to renewable energy infrastructure.</strong> However, the bill's actual impact depends entirely on the guidance content, which is not specified. The procedural reform scores positively for rule of law by codifying review standards. Without cost estimates or defined scope, fiscal responsibility remains neutral—guidance development has minimal budget impact, but downstream effects on project costs are unknown. Public benefit is modest and speculative: clearer rules may accelerate clean energy projects, but could equally formalize obstacles. No vulnerable populations are specifically affected by permitting procedures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4992, 119th Congress",
-      "Congressional Record, July 2026",
-      "Senate Committee on Environment and Public Works"
-    ]
-  },
-  {
-    "id": 808,
-    "sourceId": "cg:119-S-4991",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4991?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 4991: Homestake AI Act of 2026",
-    "score": -18,
-    "snapshot": "S 4991 proposes repurposing the Homestake Mine in South Dakota as a federally funded AI research facility. The bill has been referred to committee with no cost estimate, implementation timeline, or demonstrated need beyond general AI competitiveness concerns.",
-    "verdict": "// VERDICT: Scores poorly on fiscal responsibility and measurable benefit due to absence of cost-benefit analysis, feasibility studies, or clear public outcomes beyond aspirational technology leadership goals.",
-    "detail": "The Homestake AI Act exemplifies well-intentioned but premature legislation. While AI research infrastructure may serve national interests, this bill lacks fundamental planning documentation. <strong>No Congressional Budget Office score exists, no engineering feasibility assessment for converting a decommissioned gold mine into a research facility, and no analysis comparing this approach to existing federal AI initiatives or private sector capabilities.</strong> The bill follows proper legislative process (committee referral) but requests taxpayer funding for an undefined project scope. Cost distribution concerns arise because infrastructure conversion costs for deep underground facilities typically run hundreds of millions to billions, with benefits accruing primarily to technology sector stakeholders rather than broader public welfare. The proposal needs substantial development before responsible evaluation is possible.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4991, 119th Congress",
-      "Congressional Record, July 2026",
-      "Senate Committee on Energy and Natural Resources"
-    ]
-  },
-  {
-    "id": 809,
-    "sourceId": "cg:119-S-4955",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4955?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 4955: Gateway Arch National Park Boundary Revision Act of 2026",
-    "score": 8,
-    "snapshot": "S 4955 adjusts the boundaries of Gateway Arch National Park in St. Louis to incorporate adjacent parcels for improved visitor access and park management. No cost estimate available yet; bill awaits committee review.",
-    "verdict": "// VERDICT: Minor boundary adjustment following standard legislative process with likely modest operational benefits and minimal fiscal impact.",
-    "detail": "This bill follows routine procedures for national park boundary adjustments, typically undertaken to consolidate management of adjacent federal or donated lands. <strong>Such revisions generally produce small efficiency gains in park operations and visitor experience while avoiding significant new expenditures.</strong> The Gateway Arch park attracts approximately 2 million visitors annually, so marginal improvements to access or facilities could benefit a substantial public. Without a CBO score, fiscal impact remains uncertain, though similar boundary bills historically involve minimal appropriations. The legislation follows constitutional process through proper committee referral. The primary beneficiaries are park visitors and local tourism, with costs borne by existing National Park Service budgets unless additional appropriations are later attached.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S3746, Jul 2026",
-      "Senate Committee on Energy and Natural Resources",
-      "National Park Service operational data"
-    ]
-  },
-  {
-    "id": 810,
-    "sourceId": "cg:119-S-4984",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4984?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 4984: Restoration of Employment Choice for Adults with Disabilities Act",
-    "score": -18,
-    "snapshot": "S 4984 proposes eliminating Section 14(c) of the Fair Labor Standards Act, which currently permits employers to pay workers with disabilities below minimum wage under special certificates. The bill would phase out subminimum wage employment over 3 years.",
-    "verdict": "// VERDICT: Advances disability rights and wage equity but creates significant transition risks for approximately 40,000 workers currently in 14(c) programs without guaranteed replacement employment or funding for alternatives.",
-    "detail": "The bill addresses a long-criticized provision allowing subminimum wages for disabled workers, with some earning as little as pennies per hour. <strong>While eliminating wage discrimination is defensible on civil rights grounds, the legislation lacks concrete funding mechanisms or employment guarantees for displaced workers.</strong> Approximately 1,400 employers currently hold 14(c) certificates serving roughly 40,000 individuals. The 3-year phase-out provides transition time, but without appropriations for competitive integrated employment programs or expanded vocational services, many workers may lose existing opportunities. Advocates argue sheltered workshops perpetuate segregation; families counter that some individuals prefer structured settings over unemployment. The bill demonstrates rule-of-law compliance through standard legislative process but scores poorly on fiscal planning—states and service providers face unfunded mandates to create alternatives. Cost distribution is uneven: benefits accrue to workers gaining fair wages, but risks fall on those who may not transition successfully.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -20,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Fair Labor Standards Act, 29 U.S.C. § 214(c)",
-      "U.S. Commission on Civil Rights, Subminimum Wages Report (2020)",
-      "Department of Labor 14(c) Certificate Data (2025)",
-      "Congressional Record, S 4984 (119th Congress)"
-    ]
-  },
-  {
-    "id": 811,
-    "sourceId": "cg:119-S-4987",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4987?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 4987: Pharmaceutical Investment Oversight and Accountability Act",
-    "score": -18,
-    "snapshot": "S. 4987 proposes federal oversight of pharmaceutical company investment decisions, referred to Senate Banking Committee in July 2026. No cost estimates, impact assessments, or implementation mechanisms currently available in public record.",
-    "verdict": "// VERDICT: Introduces regulatory framework without documented analysis of compliance costs, enforcement mechanisms, or projected health outcomes, while expanding federal authority into capital allocation decisions typically governed by securities law and market forces.",
-    "detail": "The bill's referral to Banking rather than Health or Finance committees suggests focus on investment regulation over drug pricing or public health outcomes. <strong>Without CBO scoring, GAO analysis, or committee hearings, the measurable public benefit remains speculative while regulatory compliance costs for pharmaceutical firms—and potential impacts on drug development capital—are undefined.</strong> The constitutional authority exists for Congress to regulate interstate commerce, but effectiveness depends entirely on implementation details not yet public. Cost distribution concerns arise if increased compliance expenses translate to higher drug prices or reduced R&D investment, disproportionately affecting patients dependent on new therapies. The bill's early stage means substantive analysis awaits committee markup, hearings with FDA/SEC testimony, and formal scoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Senate Legislative Calendar 119th Congress",
-      "Banking Committee Referral Records"
-    ]
-  },
-  {
-    "id": 812,
-    "sourceId": "cg:119-S-4994",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4994?format=json",
-    "branch": "Congress",
-    "date": "Jul 21",
-    "dateISO": "2026-07-21",
-    "title": "S 4994: ONSHORE Manufacturing Act",
-    "score": -18,
-    "snapshot": "The ONSHORE Manufacturing Act proposes tax incentives and subsidies to encourage domestic manufacturing relocation. Specific fiscal projections and implementation mechanisms remain unclear pending committee review.",
-    "verdict": "// VERDICT: Lacks sufficient detail on cost-benefit analysis and market distortion risks to justify industrial policy intervention at this stage.",
-    "detail": "Without a CBO score or detailed legislative text, this bill presents significant uncertainties. <strong>Industrial policy through tax incentives historically produces mixed results, often benefiting specific industries while imposing costs on taxpayers and creating market inefficiencies.</strong> The proposal may address legitimate supply chain vulnerabilities, but reshoring subsidies risk protecting uncompetitive operations, generating deadweight economic loss, and creating lobbying opportunities for rent-seeking behavior. Constitutional authority exists under tax and commerce powers, but effectiveness depends entirely on implementation details not yet public. The bill requires rigorous cost-benefit analysis, sunset provisions, and performance metrics before advancing. Previous manufacturing incentive programs have shown poor ROI when measured against direct fiscal costs and opportunity costs of alternative investments.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 4994, Jul 2026",
-      "Senate Finance Committee referral",
-      "Historical analysis of manufacturing subsidies",
-      "Tax policy literature on industrial incentives"
     ]
   }
 ]
