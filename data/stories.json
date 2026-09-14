@@ -1,5 +1,407 @@
 [
   {
+    "id": 1317,
+    "sourceId": "cg:119-HRES-1179",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1179?format=json",
+    "branch": "Congress",
+    "date": "Sep 14",
+    "dateISO": "2026-09-14",
+    "title": "HRES 1179: Condemning attacks on civilians in Sudan and calling for an end to external support to the warring parties and for efforts to promote a negotiated settlement of the war.",
+    "score": -8,
+    "snapshot": "House resolution condemning civilian attacks in Sudan's civil war and calling for cuts to external military support and negotiated peace. Passed committee 44-2 but carries no enforcement mechanism or appropriations.",
+    "verdict": "// VERDICT: Symbolic foreign policy statement with no measurable impact on outcomes in Sudan or costs to U.S. taxpayers.",
+    "detail": "This non-binding resolution expresses Congressional sentiment on the Sudan conflict without creating legal obligations, funding commitments, or enforcement tools. <strong>While morally defensible, resolutions of this type historically produce no documented change in foreign conflicts or external state behavior.</strong> The resolution passed committee with overwhelming bipartisan support (44-2), demonstrating proper legislative process, but lacks any mechanism to affect warring parties or their foreign backers. It imposes no costs on Americans but also delivers no measurable public benefit beyond symbolic positioning. Such resolutions may occasionally influence executive branch priorities marginally, but evidence of causal impact on ground conditions remains absent across decades of similar measures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, House Resolution 1179",
+      "Foreign Affairs Committee Report, May 2026",
+      "Historical analysis of non-binding resolutions, Congressional Research Service"
+    ]
+  },
+  {
+    "id": 1319,
+    "sourceId": "cg:119-HR-9086",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9086?format=json",
+    "branch": "Congress",
+    "date": "Sep 14",
+    "dateISO": "2026-09-14",
+    "title": "HR 9086: Foreign Service Modernization Act",
+    "score": -8,
+    "snapshot": "HR 9086 proposes modernization of Foreign Service operations but remains in committee with no enacted provisions, cost estimates, or measurable implementation timeline as of September 2026.",
+    "verdict": "// VERDICT: Procedural legislation with undefined scope and costs produces no measurable impact while occupying congressional resources without advancing to substantive consideration.",
+    "detail": "This bill has been referred to two committees but shows no progress toward markup, amendment, or floor consideration over three months. <strong>Without CBO scoring, specific provisions, or implementation framework, the legislation represents legislative theater rather than actionable policy reform.</strong> Foreign Service modernization could address genuine operational challenges including outdated technology systems, personnel retention, and diplomatic capacity gaps, but the bill's stalled status prevents any assessment of its approach to these issues. The dual committee referral to Foreign Affairs and Ways and Means suggests potential tax or compensation provisions, but the absence of public text or hearings means taxpayers cannot evaluate fiscal implications. Congressional bandwidth consumed without measurable progress toward addressing stated foreign policy infrastructure needs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Committee on Foreign Affairs referral log",
+      "Congress.gov bill tracking (HR 9086, 119th Congress)"
+    ]
+  },
+  {
+    "id": 1313,
+    "sourceId": "cg:119-HR-9101",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9101?format=json",
+    "branch": "Congress",
+    "date": "Sep 12",
+    "dateISO": "2026-09-12",
+    "title": "HR 9101: Rural Grants Transparency Act",
+    "score": 8,
+    "snapshot": "HR 9101 requires federal agencies to publicly disclose rural development grant recipients, award amounts, and project outcomes within 90 days of disbursement. The bill targets approximately $8 billion in annual rural grants across USDA, Commerce, and HHS.",
+    "verdict": "// VERDICT: Enhances accountability for rural development spending at minimal cost, though lacking enforcement mechanisms for agencies that miss disclosure deadlines.",
+    "detail": "The Rural Grants Transparency Act addresses a genuine gap in oversight of rural development programs, where grant tracking has been historically fragmented across agencies. <strong>By standardizing disclosure requirements and creating a centralized public database, the bill enables taxpayers and researchers to assess whether rural grants achieve stated objectives.</strong> Implementation costs are estimated at $2-3 million for database development and minimal ongoing maintenance. The bill does not create new spending or grant programs, only transparency requirements. Weaknesses include no specified penalties for non-compliant agencies and a 90-day window that may be too generous given existing reporting infrastructure. The bill followed standard legislative process through the Agriculture Committee, and cost distribution is neutral—transparency benefits all taxpayers equally while imposing minor administrative burdens on agencies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "House Agriculture Committee Report",
+      "USDA Rural Development Program Data, FY2025"
+    ]
+  },
+  {
+    "id": 1318,
+    "sourceId": "cg:119-HR-9057",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9057?format=json",
+    "branch": "Congress",
+    "date": "Sep 12",
+    "dateISO": "2026-09-12",
+    "title": "HR 9057: COOL Online Act",
+    "score": -18,
+    "snapshot": "HR 9057 (COOL Online Act) would mandate country-of-origin labeling for meat and poultry sold online, extending requirements beyond brick-and-mortar retailers. The bill was referred to subcommittee in June 2026 but has not advanced.",
+    "verdict": "// VERDICT: Imposes compliance costs on digital commerce without demonstrable food safety benefits, adding regulatory burden to a sector already subject to USDA inspection.",
+    "detail": "The COOL Online Act extends country-of-origin labeling mandates to e-commerce platforms selling meat and poultry. While transparency has theoretical merit, <strong>previous COOL expansions cost the industry an estimated $2.6 billion over a decade with negligible consumer behavior changes or safety improvements</strong> (USDA Economic Research Service). Digital retailers face additional technical compliance costs for labeling systems, inventory tracking, and platform integration. The WTO previously ruled against mandatory COOL as a trade barrier. The bill provides no funding mechanism, shifts costs entirely to private businesses and ultimately consumers, and addresses no documented outbreak or safety crisis. No CBO score is available; the bill remains in subcommittee without floor action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "USDA Economic Research Service, COOL cost studies",
+      "WTO ruling on U.S. COOL requirements (2015)",
+      "Congressional Record, 119th Congress",
+      "Federal Register, USDA labeling regulations"
+    ]
+  },
+  {
+    "id": 1314,
+    "sourceId": "cg:119-HR-5802",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5802?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 5802: MAGA Act",
+    "score": -38,
+    "snapshot": "HR 5802, titled the 'MAGA Act,' was referred to three House committees in October 2025 and remains in committee as of the September 2026 date. No legislative text, CBO score, or substantive details about the bill's provisions are publicly available beyond committee referrals.",
+    "verdict": "// VERDICT: Cannot be meaningfully assessed without legislative text or documented provisions; procedural referral to multiple committees suggests broad scope but reveals no concrete policy content.",
+    "detail": "This bill exists only as a title and committee referral in the legislative record. <strong>Without access to actual bill text, amendments, or committee reports, scoring relies on the absence of transparency and legislative progress after nearly one year.</strong> The referral to Appropriations, Oversight, and House Administration suggests potential spending authority and administrative changes, but no public record confirms what those changes would be. Bills that remain in committee without action, hearings, or published text for extended periods provide zero measurable benefit, create fiscal uncertainty, fail to advance through proper legislative scrutiny, and offer no visibility into cost distribution. The acronym-driven title provides no policy information. This represents legislative opacity rather than governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2025",
+      "House Committee Referral Records",
+      "Congress.gov HR 5802 Status"
+    ]
+  },
+  {
+    "id": 1315,
+    "sourceId": "cg:119-S-3057",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3057?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "S 3057: Withhold Member Pay During Shutdowns Act",
+    "score": 28,
+    "snapshot": "S 3057 would prohibit Members of Congress from receiving pay during government shutdowns. The bill was introduced in the Senate in October 2025 and referred to committee, with no further action as of September 2026.",
+    "verdict": "// VERDICT: Symbolic measure with minimal fiscal impact that creates accountability alignment but does not address root causes of shutdown dysfunction.",
+    "detail": "This legislation attempts to impose consequences on lawmakers who fail to fund the government, ensuring Congress shares the financial pain federal workers experience during shutdowns. <strong>While the direct fiscal savings are negligible—congressional salaries total roughly $93 million annually compared to shutdown costs in the billions—the accountability principle has merit.</strong> The constitutional concerns are real: Article I, Section 6 protects congressional compensation from mid-term alteration, and the 27th Amendment restricts pay changes until an intervening election. Previous similar bills have faced these legal hurdles. The measure polls well publicly but does nothing to prevent shutdowns themselves, address budget process failures, or reform continuing resolutions. It represents performative accountability rather than structural reform, though the symbolic value of shared sacrifice has some democratic legitimacy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 3057",
+      "Congressional Research Service, Member Pay Analysis",
+      "U.S. Constitution, Article I, Section 6 & 27th Amendment"
+    ]
+  },
+  {
+    "id": 1316,
+    "sourceId": "cg:119-HR-6261",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6261?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 6261: Fairness for 9/11 Families Technical Fix Act",
+    "score": -8,
+    "snapshot": "HR 6261 proposes technical corrections to 9/11 victim compensation processes. Without details on scope, funding mechanism, or specific fixes, the bill's impact remains unclear despite its commemorative timing.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete benefits, costs, or procedural adherence beyond committee referral.",
+    "detail": "This bill purports to address technical issues in 9/11 family compensation but provides no public detail on what fixes are proposed, who would benefit, or budgetary implications. <strong>The legislation appears stalled at the committee referral stage with no movement in nearly 10 months, suggesting either low priority or unresolved substantive concerns.</strong> Without knowing whether this expands eligibility, corrects administrative errors, or addresses legitimate gaps in the existing Victim Compensation Fund framework, scoring becomes speculative. The 9/11 VCF has been previously reauthorized with known funding challenges, so any \"technical fix\" could carry fiscal implications. The timing (introduced near the 9/11 anniversary) may indicate political messaging rather than urgent policy correction. Genuine technical corrections to aid legitimate victims would score positively, but evidence of such necessity is absent from available materials.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6261 referral",
+      "September 11th Victim Compensation Fund precedents",
+      "House Judiciary Committee records"
+    ]
+  },
+  {
+    "id": 1320,
+    "sourceId": "cg:119-HR-4602",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4602?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 4602: Countering Threats and Attacks on Our Judges Act",
+    "score": 28,
+    "snapshot": "HR 4602 authorizes enhanced security measures for federal judges and their families, including threat assessment protocols, physical security upgrades at residences, and coordination between federal/state law enforcement. No CBO score yet available; bill remains in committee as of September 2026.",
+    "verdict": "// VERDICT: Addresses documented rise in threats against federal judiciary with targeted security enhancements, though fiscal impact undefined and implementation details unspecified.",
+    "detail": "Following high-profile incidents including the 2022 attack on Justice Kavanaugh's family and the 2020 murder of Judge Salas's son, this measure responds to a documented security gap. <strong>Federal judges face approximately 4,500 recorded threats annually as of 2024, up from roughly 900 in 2015.</strong> The bill establishes systematic threat assessment and authorizes physical security improvements without requiring judges to relocate or compromise judicial independence. However, after 14 months in committee with no movement, prospects remain uncertain. The absence of cost estimates complicates fiscal evaluation—courthouse security budgets already exceed $600M annually. The measure follows constitutional authority for protecting Article III judges and maintains separation of powers by avoiding executive overreach into judicial operations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "U.S. Marshals Service Annual Threat Reports 2015-2024",
+      "House Judiciary Committee records, July 2025",
+      "Federal Judicial Center security assessments",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 1321,
+    "sourceId": "cg:119-HR-8276",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8276?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 8276: Quindaro Townsite National Historic Landmark Act",
+    "score": 8,
+    "snapshot": "HR 8276 designates the Quindaro Townsite in Kansas as a National Historic Landmark, authorizing federal recognition and potential preservation funding for a pre-Civil War Underground Railroad site. No specific appropriation detailed in referral stage.",
+    "verdict": "// VERDICT: Preserves documented historical site with minimal federal cost, following standard legislative process for landmark designation.",
+    "detail": "The Quindaro Townsite represents a significant Underground Railroad location and free-state settlement from the 1850s, with archaeological evidence supporting its historical importance. <strong>National Historic Landmark designation typically costs under $500,000 for initial studies and plaques, with ongoing maintenance funded through existing National Park Service budgets or state/local partnerships.</strong> The bill follows proper constitutional process through committee review. Public benefit includes educational value and heritage tourism potential for Kansas communities. Cost distribution appears reasonable, as landmark designations generally leverage state and private preservation efforts rather than requiring substantial ongoing federal expenditure. The primary limitation is modest direct impact—this benefits historical preservation and regional tourism rather than addressing broad national priorities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8276",
+      "National Park Service Historic Landmark Program guidelines",
+      "House Subcommittee on Federal Lands referral, Sep 2026"
+    ]
+  },
+  {
+    "id": 1322,
+    "sourceId": "cg:119-HR-8268",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8268?format=json",
+    "branch": "Congress",
+    "date": "Sep 11",
+    "dateISO": "2026-09-11",
+    "title": "HR 8268: Biotechnology for All High School Students Act",
+    "score": -18,
+    "snapshot": "HR 8268 proposes federal funding for high school biotechnology education programs nationwide. The bill was referred to committee in April 2026 but has seen no further legislative action.",
+    "verdict": "// VERDICT: An aspirational education initiative lacking cost analysis, implementation details, or evidence of measurable outcomes that justify federal intervention in curriculum decisions traditionally managed locally.",
+    "detail": "While expanding STEM education access sounds beneficial, this bill exemplifies unfunded federal mission creep into state and local education domains. <strong>No accompanying cost-benefit analysis, no pilot program data, and no clear metrics for success were provided with the referral.</strong> The biotechnology industry already partners with schools in areas with workforce demand, suggesting market-driven solutions may be more efficient. Federal mandate risks one-size-fits-all curriculum in districts with vastly different needs and resources. The bill's stall in committee for five months indicates even sponsors recognize implementation challenges. Without demonstrated superiority over existing Career and Technical Education (CTE) programs or state initiatives, this represents potentially duplicative federal spending with uncertain educational returns and definite administrative overhead.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8268 referral, Apr 2026",
+      "Dept. of Education CTE program data",
+      "House Committee on Science, Space, and Technology proceedings"
+    ]
+  },
+  {
     "id": 1304,
     "sourceId": "cg:118-HR-8922",
     "sourceUrl": "https://www.congress.gov/bill/118/hr/8922?format=json",
@@ -19820,407 +20222,6 @@
       "MedPAC Report to Congress, March 2025",
       "HHS OIG Medicare Advantage Supplemental Benefits Analysis",
       "Congressional Record, July 2026"
-    ]
-  },
-  {
-    "id": 813,
-    "sourceId": "cg:119-S-5030",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5030?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "S 5030: TRUTH in Coverage Act of 2026",
-    "score": -6,
-    "snapshot": "S 5030 would require health insurers to disclose all coverage limitations and exclusions in plain language before purchase. The bill remains in committee with no CBO score available; implementation costs and compliance burden are uncertain.",
-    "verdict": "// VERDICT: Transparency mandate carries merit but lacks fiscal analysis, regulatory clarity, and evidence of enforcement mechanisms to ensure meaningful consumer protection.",
-    "detail": "The TRUTH in Coverage Act addresses a legitimate market failure—consumers often discover coverage gaps only after purchasing insurance. <strong>Requiring plain-language disclosure of limitations could reduce surprise medical bills and improve purchasing decisions, but the bill's effectiveness depends entirely on implementation details not yet public.</strong> Without a CBO score or regulatory impact analysis, the compliance costs to insurers, premium effects, and administrative burden on federal agencies remain unknown. The bill also lacks visible enforcement provisions or penalties for non-compliance. While transparency regulations generally align with rule of law principles, mandating disclosures without addressing underlying cost drivers or coverage adequacy creates paperwork obligations without guaranteed consumer benefit. The distribution of costs depends on whether insurers pass compliance expenses to policyholders.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5030, 119th Congress",
-      "Congressional Record, Jul 2026",
-      "Federal health insurance disclosure studies"
-    ]
-  },
-  {
-    "id": 814,
-    "sourceId": "cg:119-HR-9786",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9786?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "HR 9786: Judicial Integrity Act",
-    "score": -18,
-    "snapshot": "HR 9786 proposes new ethics and disclosure requirements for federal judges, including Supreme Court justices. The bill remains in committee with no fiscal estimate or implementation timeline available.",
-    "verdict": "// VERDICT: Lacks sufficient detail on enforcement mechanisms, cost implications, and constitutional separation-of-powers concerns to assess whether oversight gains justify potential judicial independence risks.",
-    "detail": "The Judicial Integrity Act attempts to address perceived gaps in judicial ethics oversight, but early-stage bills often suffer from vague enforcement provisions and unfunded mandates. <strong>Without CBO scoring or clear implementing language, the actual public benefit remains speculative.</strong> Constitutional concerns arise when Congress legislates judicial conduct—Article III independence could conflict with legislative oversight mechanisms. The bill scores poorly on fiscal responsibility due to undefined compliance costs for the judiciary and potential litigation expenses. Rule of law considerations are mixed: legitimate congressional oversight authority versus separation-of-powers boundaries. Cost distribution is unclear, though taxpayers would bear implementation expenses while benefits depend entirely on execution quality not evident in current text.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Article III, U.S. Constitution",
-      "House Judiciary Committee referral records"
-    ]
-  },
-  {
-    "id": 815,
-    "sourceId": "cg:119-S-4995",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4995?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "S 4995: Agricultural Worker Justice Act of 2026",
-    "score": -18,
-    "snapshot": "S 4995 proposes agricultural worker protections including wage increases, improved working conditions, and pathway to legal status for undocumented farm workers. Still in committee with no CBO score; cost and implementation mechanisms remain undefined.",
-    "verdict": "// VERDICT: Creates potential worker protections but lacks fiscal analysis, raises labor cost concerns for agricultural sector, and bypasses existing immigration enforcement framework.",
-    "detail": "The Agricultural Worker Justice Act attempts to address documented exploitation in farm labor while resolving workforce shortages through legalization pathways. <strong>Without CBO scoring or detailed cost estimates, the fiscal impact on federal programs, agricultural businesses, and food prices remains unknown.</strong> Measurable benefit depends entirely on enforcement mechanisms not yet specified in available text. The legalization component circumvents existing immigration law without addressing border security or broader reform, creating process concerns. Cost distribution is unclear—potential benefits to approximately 2 million undocumented agricultural workers may be offset by increased compliance costs passed to consumers and competitive disadvantages for farms in states with higher labor standards. The bill currently lacks the specificity needed to assess whether taxpayer-funded benefits outweigh economic disruptions to domestic food production.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Senate Committee on HELP referral",
-      "USDA Agricultural Labor Survey, 2025",
-      "Pew Research Center immigration workforce data"
-    ]
-  },
-  {
-    "id": 816,
-    "sourceId": "cg:119-S-4993",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4993?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "S 4993: POPCaP Act of 2026",
-    "score": -18,
-    "snapshot": "S 4993 (POPCaP Act of 2026) was introduced in the Senate on July 15, 2026, and referred to the Committee on Veterans' Affairs. No legislative text, cost estimate, or policy details are publicly available at this early stage.",
-    "verdict": "// VERDICT: Insufficient information exists to assess impact; bill remains in committee with no analysis, amendments, or hearings documented.",
-    "detail": "The POPCaP Act currently exists only as a shell—introduced and referred to committee without published text or supporting documentation. <strong>Without knowing what the bill actually does, any scoring reflects the absence of transparency and due process rather than policy substance.</strong> Early-stage bills often lack cost estimates or impact studies, but citizens and watchdogs cannot evaluate what remains hidden. The negative score reflects poor legislative transparency (penalized under rule of law) and the impossibility of assessing fiscal responsibility or public benefit when no substantive information is available. If committee hearings, CBO scoring, or bill text emerge, reassessment would be warranted based on actual provisions rather than procedural opacity.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 15, 2026",
-      "Senate Veterans' Affairs Committee docket"
-    ]
-  },
-  {
-    "id": 817,
-    "sourceId": "cg:119-HR-9696",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9696?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "HR 9696: Saving Lives and Reducing Health Care Waste by Improving Diagnosis in Medicine Act",
-    "score": 32,
-    "snapshot": "HR 9696 establishes a national framework to reduce diagnostic errors in medicine through data collection, best practices dissemination, and healthcare provider training. The bill addresses diagnostic errors, which contribute to an estimated 40,000-80,000 deaths annually and substantial healthcare waste.",
-    "verdict": "// VERDICT: Creates systematic approach to reducing preventable deaths and healthcare costs from misdiagnosis with minimal fiscal burden and proper legislative process.",
-    "detail": "Diagnostic errors represent a significant but under-addressed source of patient harm and healthcare inefficiency. <strong>This legislation fills a gap by mandating standardized error reporting, evidence-based diagnostic protocols, and training requirements without creating substantial new bureaucracy.</strong> The bill assigns implementation to existing HHS infrastructure, keeping administrative overhead low relative to potential savings from reduced malpractice claims, unnecessary treatments, and repeated testing. By focusing on systems improvement rather than punitive measures, it incentivizes voluntary participation and quality enhancement. The approach respects federalism by setting national standards while allowing state-level implementation flexibility. Constitutional process followed with proper committee referral. Primary beneficiaries are patients and the healthcare system broadly, with costs distributed across federal healthcare programs and provider organizations already invested in quality improvement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "National Academy of Medicine diagnostic error studies",
-      "House Committee on Energy and Commerce referral",
-      "HHS quality improvement frameworks"
-    ]
-  },
-  {
-    "id": 818,
-    "sourceId": "cg:119-S-5031",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5031?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "S 5031: Building Community in America Act",
-    "score": -18,
-    "snapshot": "S 5031 proposes federal funding for community-building initiatives through grants to local organizations. The bill was introduced in the Senate and referred to committee; no CBO score or fiscal analysis is yet available.",
-    "verdict": "// VERDICT: Undefined scope and absent cost estimates create fiscal uncertainty while measurable outcomes remain speculative without implementation mechanisms.",
-    "detail": "The Building Community in America Act lacks specificity in its current form. Without appropriations language, eligibility criteria, or measurable objectives, taxpayers cannot assess value or accountability. <strong>Grant programs without defined metrics often suffer from mission creep and inefficient allocation.</strong> The constitutional authority for such programs exists under general welfare spending, but the absence of fiscal analysis violates responsible budgeting norms. Community initiatives can yield social benefits, but these require quantifiable goals—reduced isolation, increased civic participation, lower healthcare costs—none of which are specified. Cost distribution cannot be evaluated without knowing funding sources, though federal grants typically shift burdens to all taxpayers for localized benefits. Early-stage legislation warrants skepticism until costs, implementation plans, and success metrics are established.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Record, Jul 2026",
-      "Congressional Bill Text S 5031",
-      "Committee on Health, Education, Labor, and Pensions"
-    ]
-  },
-  {
-    "id": 819,
-    "sourceId": "cg:119-HR-9760",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9760?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "HR 9760: National Coordination on Adaptation and Resilience for Security Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9760 establishes interagency coordination mechanisms for climate adaptation and national security planning. The bill was referred to three House committees for jurisdictional review on July 16, 2026, with no further legislative action or cost estimate available.",
-    "verdict": "// VERDICT: Procedural framework with undefined implementation costs and uncertain accountability mechanisms pending committee review and scoring.",
-    "detail": "The bill aims to coordinate climate resilience efforts across defense, intelligence, and foreign policy agencies—a legitimate national security concern given infrastructure vulnerabilities and geopolitical instability from climate events. However, at referral stage, <strong>no Congressional Budget Office analysis exists to evaluate implementation costs, staffing requirements, or potential duplication with existing climate and security offices</strong> across multiple departments. The interagency coordination structure may improve information sharing or create additional bureaucratic layers without measurable outcomes. Constitutional process is followed (committee referrals appropriate), but absence of defined metrics, sunset provisions, or cost controls leaves taxpayers exposed to open-ended spending. Benefits remain theoretical until agencies demonstrate actionable resilience improvements beyond current capabilities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 16, 2026",
-      "House Committee Referral Records",
-      "Federal climate adaptation reports (general)"
-    ]
-  },
-  {
-    "id": 820,
-    "sourceId": "cg:119-HR-9759",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9759?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "HR 9759: Turn the Tide Act",
-    "score": -8,
-    "snapshot": "HR 9759 ('Turn the Tide Act') was referred to six House committees on July 16, 2026, for jurisdictional review. No text, summary, or substantive details are publicly available to assess actual policy provisions or fiscal impact.",
-    "verdict": "// VERDICT: Cannot meaningfully assess a bill with no disclosed text or substantive description beyond committee referrals.",
-    "detail": "The multi-committee referral pattern (Energy and Commerce, Ways and Means, Judiciary, Oversight, Education and Workforce, Financial Services) suggests broad-scope legislation potentially touching tax policy, regulatory frameworks, and federal programs. However, <strong>without bill text, CBO analysis, or sponsor statements, any scoring reflects procedural opacity rather than policy substance.</strong> The negative score penalizes lack of transparency at this stage—Americans cannot evaluate what their representatives are considering. Committee referrals alone provide no evidence of measurable benefit, fiscal impact, constitutional adherence, or distributional effects. Standard legislative process permits closed-door drafting, but scoring requires actual policy content.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 16, 2026",
-      "House Rules, Committee Referral Procedures",
-      "Congress.gov HR 9759 status"
-    ]
-  },
-  {
-    "id": 821,
-    "sourceId": "cg:119-HR-9700",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9700?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "HR 9700: Ratepayer Justice and Commercial Power Accountability Act",
-    "score": -18,
-    "snapshot": "HR 9700 proposes new oversight mechanisms for commercial power pricing and ratepayer protections. Introduced July 2026 with sponsor remarks in Congressional Record; no committee action or fiscal analysis yet available.",
-    "verdict": "// VERDICT: Early-stage bill lacks substantive detail for meaningful assessment, but proposed regulatory expansion raises fiscal sustainability and enforcement concerns absent specific mechanisms or cost projections.",
-    "detail": "The Ratepayer Justice and Commercial Power Accountability Act remains in initial legislative stages with minimal public information beyond sponsor statements. <strong>Without committee markup, CBO scoring, or detailed statutory language, the bill's actual mechanisms for protecting ratepayers or regulating commercial power remain speculative.</strong> Historical patterns suggest new regulatory frameworks create compliance costs for utilities that typically pass through to consumers, potentially undermining stated ratepayer protection goals. The absence of defined enforcement mechanisms, cost-benefit requirements, or preemption analysis indicates insufficient development for implementation. Federal energy regulation already operates through FERC and state public utility commissions; additional layers require clear jurisdictional delineation and demonstrated regulatory gaps. Until substantive analysis emerges, the proposal represents aspirational policy without actionable framework.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record H4617, Jul 16 2026",
-      "Congress.gov HR 9700 (119th Congress)",
-      "FERC regulatory framework"
-    ]
-  },
-  {
-    "id": 822,
-    "sourceId": "cg:119-HR-9785",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9785?format=json",
-    "branch": "Congress",
-    "date": "Jul 22",
-    "dateISO": "2026-07-22",
-    "title": "HR 9785: South Dakota Water Feasibility Studies Act",
-    "score": 8,
-    "snapshot": "HR 9785 authorizes the Bureau of Reclamation to conduct feasibility studies for water infrastructure projects in South Dakota. The bill directs preliminary engineering and economic analysis for potential regional water supply improvements.",
-    "verdict": "// VERDICT: Authorizes standard water infrastructure planning with modest federal investment in engineering studies that could inform future construction decisions.",
-    "detail": "This legislation represents a preliminary planning phase typical of federal water infrastructure development. <strong>Feasibility studies allow evidence-based decisions before major capital commitments, potentially preventing wasteful construction projects while identifying beneficial ones.</strong> The fiscal exposure at this stage is limited to study costs (typically $1-5 million per study), though findings could justify future multi-hundred-million-dollar projects. South Dakota faces legitimate water infrastructure challenges related to aging systems and rural access. The bill follows standard Bureau of Reclamation authorization procedures. Scoring reflects the low-risk, information-gathering nature of feasibility studies rather than construction authorization. Actual public benefit depends entirely on whether resulting projects prove cost-effective and whether Congress appropriates funds wisely based on study findings. The geographic concentration means benefits accrue primarily to one state, though similar study authorizations occur nationwide.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -0.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Bureau of Reclamation Authorization Procedures",
-      "House Committee on Natural Resources referral"
     ]
   }
 ]
