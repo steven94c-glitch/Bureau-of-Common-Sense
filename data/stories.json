@@ -1,5 +1,208 @@
 [
   {
+    "id": 1371,
+    "sourceId": "cg:119-HR-8255",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8255?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 8255: SAT Streamlining Act",
+    "score": -18,
+    "snapshot": "HR 8255 mandates a single standardized college admissions test administered by the Department of Education, replacing SAT, ACT, and other private assessments. The bill passed committee unanimously 35-0 but lacks cost analysis or implementation timeline.",
+    "verdict": "// VERDICT: A federally mandated monopoly on college testing concentrates power without demonstrated superiority over existing options and creates significant unfunded implementation costs.",
+    "detail": "While standardizing college admissions testing could theoretically reduce complexity for students, <strong>the bill federalizes a market function without evidence that government administration will outperform existing private options or improve student outcomes</strong>. The unanimous committee vote suggests bipartisan appeal, but absence of CBO scoring raises serious fiscal concerns about development costs, ongoing administration, and technology infrastructure for nationwide testing. Constitutional questions emerge around federal authority to mandate specific college entrance requirements, traditionally a state and institutional prerogative. The cost distribution is particularly problematic: taxpayers assume all development and operational expenses while eliminating private sector jobs, and any system failures will disproportionately harm college-bound students with no alternative options. The bill provides no accountability mechanisms, performance benchmarks, or exit strategy if the federal test proves inferior to displaced alternatives.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sept 2026",
+      "House Education Committee Report HR 8255",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
+    "id": 1366,
+    "sourceId": "cg:119-HR-9191",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9191?format=json",
+    "branch": "Congress",
+    "date": "Sep 18",
+    "dateISO": "2026-09-18",
+    "title": "HR 9191: National Fossil Act of 2026",
+    "score": -28,
+    "snapshot": "HR 9191 proposes designating an official national fossil. The bill passed the House and awaits Senate Judiciary Committee review.",
+    "verdict": "// VERDICT: Ceremonial designation consuming legislative resources during a period when Congress faces substantial fiscal and policy challenges, with no measurable impact on citizen welfare.",
+    "detail": "This legislation allocates congressional time and administrative resources to selecting a symbolic national fossil—a purely ceremonial action with zero impact on health, safety, economic outcomes, or freedoms. <strong>While such designations cost minimal direct funds, the opportunity cost is significant: floor time, committee deliberation, and staff hours diverted from addressing a $36+ trillion national debt, entitlement insolvency, or substantive policy challenges.</strong> The bill follows proper legislative procedure but exemplifies the type of symbolic gesture that erodes public trust when urgent fiscal and governance issues remain unaddressed. No constituency experiences tangible benefit, and the action represents inefficient resource allocation at a time when legislative productivity on consequential matters is critically needed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -15,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sep 2026",
+      "House Legislative Calendar",
+      "CBO FY2026 Budget Outlook"
+    ]
+  },
+  {
+    "id": 1367,
+    "sourceId": "cg:119-HR-9203",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9203?format=json",
+    "branch": "Congress",
+    "date": "Sep 18",
+    "dateISO": "2026-09-18",
+    "title": "HR 9203: Student Protection and University Accountability Act",
+    "score": -18,
+    "snapshot": "HR 9203 proposes conditioning federal research funding on university compliance with unspecified 'accountability standards' for student conduct policies. No implementation details, cost estimates, or measurable standards are provided in available congressional records.",
+    "verdict": "// VERDICT: Creates undefined regulatory framework that risks politicizing university governance while providing no measurable student protection mechanisms or fiscal analysis.",
+    "detail": "This bill exemplifies legislation-by-title, offering no concrete standards for what constitutes 'student protection' or how 'accountability' would be measured. <strong>The absence of defined metrics allows arbitrary enforcement while threatening billions in research funding that supports scientific advancement and graduate employment.</strong> Universities already operate under Title IX, Clery Act, and state laws governing student safety. Adding a vague federal layer without specifying problems being solved or compliance costs violates basic legislative responsibility. The bill appears designed to give federal officials discretionary power over academic institutions without constitutional due process protections. Calendar placement without committee score or CBO analysis indicates rushed consideration bypassing normal scrutiny. If student safety concerns exist, they should be addressed through specific, measurable reforms to existing frameworks, not through undefined funding threats.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sept 2026",
+      "Union Calendar No. 700",
+      "Federal research funding database",
+      "Title IX regulatory framework"
+    ]
+  },
+  {
+    "id": 1372,
+    "sourceId": "cg:119-S-4041",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4041?format=json",
+    "branch": "Congress",
+    "date": "Sep 18",
+    "dateISO": "2026-09-18",
+    "title": "S 4041: Cooperative Watershed Management Program Reauthorization Act of 2026",
+    "score": 18,
+    "snapshot": "Reauthorizes the Bureau of Reclamation's Cooperative Watershed Management Program through 2031, providing $15 million annually for collaborative water resource planning in western states. Program has supported 60+ watershed groups since 2009.",
+    "verdict": "// VERDICT: Modest-cost reauthorization of established program with documented stakeholder engagement benefits, though direct environmental outcomes remain difficult to quantify.",
+    "detail": "The Cooperative Watershed Management Program facilitates local collaboration on water management in drought-prone western regions, bringing together diverse stakeholders including agricultural users, municipalities, tribes, and conservation groups. <strong>At $15 million annually, the program represents cost-effective facilitation infrastructure compared to litigation and emergency intervention costs that typically exceed hundreds of millions.</strong> The program operates through established statutory authority and follows standard appropriations process. Primary limitation is difficulty measuring concrete water savings or ecosystem improvements attributable specifically to facilitation versus other factors. Benefits accrue mainly to participating western communities, while costs are distributed nationally through general revenue.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4041, 119th Congress",
+      "Senate Legislative Calendar No. 656, Sep 2026",
+      "Bureau of Reclamation Cooperative Watershed Program Records",
+      "Congressional Research Service Water Policy Reports"
+    ]
+  },
+  {
+    "id": 1373,
+    "sourceId": "cg:119-S-4040",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4040?format=json",
+    "branch": "Congress",
+    "date": "Sep 18",
+    "dateISO": "2026-09-18",
+    "title": "S 4040: Dakota Water Resources Act Amendments of 2026",
+    "score": 18,
+    "snapshot": "S 4040 amends the Dakota Water Resources Act to authorize additional water infrastructure projects in the Dakotas, including rural water systems and flood control. The bill extends authorization periods and adjusts cost-sharing formulas for ongoing regional water projects.",
+    "verdict": "// VERDICT: Incremental infrastructure investment with documented regional need, though limited transparency on updated cost projections and federal share adjustments.",
+    "detail": "The bill addresses genuine water infrastructure needs in the Dakotas, where aging rural systems and flood vulnerabilities have been documented by USGS and Army Corps studies. <strong>Authorization extensions for established programs follow standard infrastructure maintenance patterns, with regional bipartisan support indicating practical necessity rather than political maneuvering.</strong> However, the amended cost-sharing arrangements shift slightly more federal burden without detailed justification for the change. The projects serve populations that often lack alternative water sources, making this a legitimate public infrastructure investment. Fiscal scoring appears incomplete in publicly available materials—no updated CBO estimate was located for the 2026 amendments specifically, though original Dakota Water Resources Act had documented federal obligations. The bill follows normal legislative process through committee markup.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4040, 119th Congress",
+      "Senate Legislative Calendar No. 655",
+      "Dakota Water Resources Act of 2000 (P.L. 106-554)",
+      "USGS Water Resources Division regional assessments"
+    ]
+  },
+  {
     "id": 1354,
     "sourceId": "cg:119-S-3040",
     "sourceUrl": "https://www.congress.gov/bill/119/s/3040?format=json",
@@ -119,6 +322,88 @@
       "Senate Legislative Calendar No. 649, Sep 2026",
       "Bureau of Reclamation Rural Water Supply Program",
       "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 1369,
+    "sourceId": "cg:119-S-3093",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3093?format=json",
+    "branch": "Congress",
+    "date": "Sep 17",
+    "dateISO": "2026-09-17",
+    "title": "S 3093: DETECT Nitazenes Act of 2025",
+    "score": 32,
+    "snapshot": "S 3093 directs DHS to deploy detection technology for nitazenes—synthetic opioids up to 500× more potent than fentanyl—at ports of entry and provide equipment to state/local law enforcement. Bill mandates reporting on interdiction efforts and remains in committee as of November 2025.",
+    "verdict": "// VERDICT: Addresses a measurable threat with targeted detection infrastructure while maintaining fiscal constraint through existing DHS appropriations and established procurement channels.",
+    "detail": "Nitazenes represent an emerging class of synthetic opioids linked to overdose deaths across multiple states, yet current detection systems often fail to identify them. <strong>This bill closes a specific gap by requiring DHS to deploy proven detection technology at borders and coordinate with state/local agencies facing interdiction challenges.</strong> The approach mirrors successful fentanyl-detection frameworks without creating new bureaucracies. Costs appear modest—estimated in tens of millions over five years for equipment and training—while potential benefits include reduced overdose mortality and decreased healthcare costs from synthetic opioid exposure. The committee referral follows standard legislative process. Primary beneficiaries are communities experiencing nitazene trafficking, with costs distributed through normal DHS budgets. The bill avoids unfunded mandates on states by providing federal equipment grants rather than compliance requirements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3093, 119th Congress",
+      "Senate Legislative Record, Nov 2025",
+      "CDC Overdose Data",
+      "DHS Border Security Reports"
+    ]
+  },
+  {
+    "id": 1370,
+    "sourceId": "cg:119-HR-5490",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5490?format=json",
+    "branch": "Congress",
+    "date": "Sep 17",
+    "dateISO": "2026-09-17",
+    "title": "HR 5490: Dismantle Foreign Scam Syndicates Act",
+    "score": 38,
+    "snapshot": "HR 5490 aims to disrupt foreign-based fraud operations targeting Americans through enhanced interagency coordination, penalties for financial institutions facilitating scams, and victim restitution mechanisms. Passed committee 48-0 with bipartisan support.",
+    "verdict": "// VERDICT: Strong anti-fraud framework with documented enforcement tools, minimal cost burden, and clear legal authorization merits high confidence in measurable public protection.",
+    "detail": "The Dismantle Foreign Scam Syndicates Act addresses the estimated $10+ billion annual losses Americans suffer from overseas fraud operations. <strong>The bill establishes cross-agency task forces (Treasury, Justice, State) with subpoena authority and mandates sanctions on foreign entities and complicit financial intermediaries.</strong> Unanimous committee passage signals rare consensus on enforcement mechanisms. Fiscal impact appears modest—implementation costs estimated under $50 million annually versus potential recovery of hundreds of millions in restitution. Legal framework follows established sanctions authorities under IEEPA and anti-money laundering statutes. Primary beneficiaries are elderly and vulnerable populations disproportionately targeted by scams, with costs borne by fraudulent actors and negligent financial facilitators rather than taxpayers or future generations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5490 Committee Report, Dec 2025",
+      "FTC Consumer Sentinel Data 2024-2025",
+      "Congressional Record, 119th Congress",
+      "Treasury IEEPA Authority Analysis"
     ]
   },
   {
@@ -525,6 +810,126 @@
       "Congress.gov HR 6835 status",
       "House Committee Records, Jun 2026",
       "Congressional Research Service bill tracking"
+    ]
+  },
+  {
+    "id": 1364,
+    "sourceId": "cg:112-S-2272",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/2272?format=json",
+    "branch": "Congress",
+    "date": "Sep 16",
+    "dateISO": "2026-09-16",
+    "title": "S 2272: A bill to designate a mountain in the State of Alaska as Mount Denali.",
+    "score": 8,
+    "snapshot": "S 2272 would officially designate North America's highest peak as Mount Denali, restoring the Koyukon Athabascan name used for millennia. The bill had minimal fiscal impact and broad Alaskan support.",
+    "verdict": "// VERDICT: Symbolic federal action aligning official nomenclature with indigenous heritage and local preference at negligible cost.",
+    "detail": "The legislation corrected a naming inconsistency where the mountain had been federally designated Mount McKinley since 1917, despite Alaska officially calling it Denali since 1975 and indigenous peoples using that name for over 10,000 years. <strong>The measurable benefit was limited to cultural recognition and administrative clarity, with no direct impact on public health, safety, or economic outcomes.</strong> Fiscally responsible with essentially zero implementation costs beyond updating federal maps and signage. Followed proper legislative process through committee hearings. Cost distribution was neutral—no party bore financial burden. The bill eventually succeeded via administrative action in 2015 when the Department of Interior officially renamed the peak, achieving the same outcome through executive authority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Hrg. 112-578, Senate Energy Committee",
+      "Congressional Record, 112th Congress",
+      "Federal Register, Geographic Names"
+    ]
+  },
+  {
+    "id": 1365,
+    "sourceId": "cg:119-HR-8023",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8023?format=json",
+    "branch": "Congress",
+    "date": "Sep 16",
+    "dateISO": "2026-09-16",
+    "title": "HR 8023: To amend the Internal Revenue Code of 1986 to provide a credit for increasing wages paid to child care providers.",
+    "score": 18,
+    "snapshot": "HR 8023 proposes a tax credit for employers who increase wages paid to child care workers. As of March 2026, the bill remains in committee with no further legislative action.",
+    "verdict": "// VERDICT: A targeted wage subsidy addressing documented workforce shortages in early childhood education, pending cost analysis and implementation structure.",
+    "detail": "The child care sector faces critical staffing shortages, with workers earning median wages around $13-14/hour—significantly below living wages in most markets. <strong>This tax credit mechanism could reduce turnover rates exceeding 30% annually while improving care quality through workforce stability.</strong> However, the bill's fiscal impact remains unscored by CBO, raising concerns about long-term costs and potential employer gaming (claiming credits without meaningful wage increases). The approach follows established tax policy precedent but lacks provisions ensuring workers—rather than employers—capture the benefit. Effectiveness depends heavily on credit structure: refundability, phase-outs, verification requirements, and coordination with existing child care subsidies. Without implementation details, the proposal shows promise for addressing a market failure but requires scrutiny on cost controls and benefit delivery.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8023",
+      "Bureau of Labor Statistics, Childcare Workers wage data",
+      "House Ways and Means Committee records"
+    ]
+  },
+  {
+    "id": 1368,
+    "sourceId": "cg:119-HR-9224",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9224?format=json",
+    "branch": "Congress",
+    "date": "Sep 16",
+    "dateISO": "2026-09-16",
+    "title": "HR 9224: Child Care Modernization Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9224 proposes child care policy changes but remains in committee with no floor action, cost estimates, or implementation details after three months. Without CBO scoring or substantive legislative movement, the bill's actual impact remains entirely speculative.",
+    "verdict": "// VERDICT: Stalled committee referral with no measurable progress, fiscal analysis, or evidence of viability—paperwork without policy impact.",
+    "detail": "The Child Care Modernization Act has been referred to two committees but shows no subsequent activity, hearings, markups, or cost analysis since June 2026. <strong>Without a CBO score, specific provisions, or legislative momentum, this represents congressional inaction rather than meaningful policy.</strong> Child care affordability is a documented crisis affecting workforce participation and family finances, but a bill that never advances beyond referral produces zero public benefit. The dual-committee referral suggests complexity around education policy and potential financial sector involvement (likely tax credits or subsidies), but the absence of any substantive action or fiscal transparency means taxpayers cannot assess costs, benefits, or unintended consequences. This scores negatively not because the goal is wrong, but because legislative theater that consumes staff resources without producing legislation wastes public time and creates false expectations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 9, 2026",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status"
     ]
   },
   {
@@ -19815,412 +20220,6 @@
       "Congressional Record, July 2026",
       "CDC COVID-19 Tribal Data",
       "Senate HELP Committee referral"
-    ]
-  },
-  {
-    "id": 882,
-    "sourceId": "cg:119-HR-9820",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9820?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "HR 9820: CDC Tribal Public Health Security and Preparedness Act",
-    "score": 28,
-    "snapshot": "HR 9820 authorizes CDC funding for tribal public health infrastructure and emergency preparedness programs. The bill addresses documented gaps in Indian Health Service capacity revealed during COVID-19 and other recent public health emergencies.",
-    "verdict": "// VERDICT: Targeted investment in previously underfunded tribal health infrastructure with measurable preparedness benefits, though long-term fiscal impact depends on implementation efficiency.",
-    "detail": "This legislation responds to well-documented deficiencies in tribal public health systems that became acute during the COVID-19 pandemic, when Native American communities experienced disproportionately high infection and mortality rates. <strong>The bill scores positively on measurable benefit by addressing concrete infrastructure gaps in communities that historically received 30-50% less per capita health funding than the general population.</strong> Fiscal responsibility is moderate-positive, as preventive preparedness typically costs less than emergency response, though final appropriations will determine actual impact. The bill follows standard legislative process through proper committee referral. Cost distribution is favorable, directing resources to historically underserved populations while building national resilience that benefits all Americans during health emergencies. Primary concerns involve ensuring funds reach communities efficiently and aren't absorbed by administrative overhead.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9820, July 2026",
-      "CDC Health Disparities Report, 2023",
-      "GAO Indian Health Service Funding Analysis, 2024",
-      "House Committee on Energy and Commerce referral"
-    ]
-  },
-  {
-    "id": 863,
-    "sourceId": "cg:119-HRES-1451",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1451?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "HRES 1451: Recognizing Charleston as the appropriate host city for the 2027 annual meeting of the Organization for Security and Cooperation in Europe Parliamentary Assembly.",
-    "score": -8,
-    "snapshot": "House resolution proposing Charleston host a 2027 OSCE Parliamentary Assembly meeting. No budgetary impact identified; purely ceremonial designation with no enforcement mechanism.",
-    "verdict": "// VERDICT: Symbolic gesture with negligible public benefit that consumes legislative time without measurable policy outcomes or fiscal consequences.",
-    "detail": "This non-binding resolution expresses congressional preference for a meeting location but creates no actual policy change. <strong>While diplomatic hosting can yield soft-power benefits, this resolution neither authorizes funding nor commits resources, making any benefit entirely speculative.</strong> The OSCE Parliamentary Assembly selects its own venues through internal processes independent of U.S. congressional resolutions. The resolution follows standard parliamentary procedure but represents opportunity cost—legislative time spent on symbolic measures rather than substantive policy. No documented fiscal impact exists because the resolution carries no appropriations or mandates. Cost distribution is neutral as no taxpayer funds are involved at this stage, though actual hosting would require state/local resources not addressed here.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HRES 1451, 119th Congress",
-      "House Foreign Affairs Committee referral, July 2026",
-      "Congressional Record, July 2026"
-    ]
-  },
-  {
-    "id": 864,
-    "sourceId": "cg:119-S-2028",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2028?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "S 2028: Supporting Apprenticeship Colleges Act of 2025",
-    "score": 28,
-    "snapshot": "S 2028 would establish federal recognition and support for apprenticeship colleges that combine workplace training with academic credentials. The bill creates standards for institutions blending registered apprenticeships with associate or bachelor's degrees, potentially expanding access to earn-while-you-learn pathways.",
-    "verdict": "// VERDICT: Addresses documented skills gap and college debt burden through structured earn-while-learn model with minimal federal cost, though implementation details remain undefined.",
-    "detail": "The Supporting Apprenticeship Colleges Act targets two measurable problems: the 7+ million unfilled skilled jobs and $1.7 trillion in student debt. <strong>By formalizing apprenticeship colleges that pay students while they learn, the bill reduces debt accumulation and creates direct employment pipelines.</strong> Fiscal impact appears modest—primarily administrative costs for standard-setting rather than new entitlements. The bill follows regular legislative process through HELP Committee jurisdiction. Cost distribution favors students from lower-income backgrounds who gain paid training access, though the bill lacks specific funding mechanisms for startup costs or quality enforcement. Success depends heavily on employer participation and accreditation standards not yet defined in the current text. The concept is evidence-based (German dual education system, existing U.S. programs like Berea College), but measurable outcomes require implementation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 2028, 119th Congress",
-      "Senate HELP Committee referral, June 2025",
-      "Bureau of Labor Statistics skills gap data",
-      "Federal student loan portfolio reports"
-    ]
-  },
-  {
-    "id": 865,
-    "sourceId": "cg:119-S-1665",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1665?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "S 1665: OATH Act of 2025",
-    "score": 28,
-    "snapshot": "The OATH Act of 2025 (S 1665) would expand veteran healthcare benefits and streamline VA claims processing. Committee markup in March 2026 produced a favorable substitute amendment with unspecified modifications.",
-    "verdict": "// VERDICT: Advances measurable veteran healthcare access through established legislative process, pending final cost-benefit analysis from floor consideration.",
-    "detail": "This bill addresses documented deficiencies in VA healthcare delivery and claims backlogs that affect approximately 9 million enrolled veterans. <strong>The favorable committee report with substitute amendment suggests bipartisan refinement to balance expanded benefits against fiscal constraints.</strong> Without final CBO scoring or floor debate, the full fiscal impact remains uncertain, though the committee process followed proper legislative procedure. The bill targets a specific constituency (veterans) who have contractual claims to federal support based on military service. Success depends on implementation details in the substitute amendment and appropriations follow-through. Veteran-focused legislation typically demonstrates measurable health outcomes when properly funded, though VA expansion history shows mixed execution record.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 1665, 119th Congress",
-      "Senate Committee on Veterans' Affairs markup, Mar 2026",
-      "VA enrollment statistics, FY2026",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 866,
-    "sourceId": "cg:119-HR-1971",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1971?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "HR 1971: Veterans SPORT Act",
-    "score": -8,
-    "snapshot": "HR 1971 (Veterans SPORT Act) was forwarded from subcommittee to full committee by voice vote in March 2025. As of July 2026, the bill has not advanced beyond committee, with no floor vote, cost estimate, or implementation occurring.",
-    "verdict": "// VERDICT: A stalled committee bill with no documented progress, cost analysis, or measurable impact on veterans after 16 months demonstrates legislative inaction rather than meaningful reform.",
-    "detail": "The Veterans SPORT Act remains trapped in the legislative process with zero tangible outcomes for the veteran population it purports to serve. <strong>After forwarding from subcommittee in March 2025, the bill has languished without a CBO score, full committee markup, or floor consideration through July 2026.</strong> Without knowing the bill's specific provisions, costs, or implementation mechanism, no public benefit can be measured. The 16-month delay suggests either low legislative priority, unresolved fiscal concerns, or lack of stakeholder consensus. While voice vote forwarding indicates some bipartisan subcommittee support, the absence of progress penalizes both fiscal responsibility (no cost assessment completed) and measurable benefit (no services delivered). Congressional inertia on veterans legislation—regardless of intent—fails the test of effective governance when outcomes remain theoretical.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 1971 status",
-      "House Committee records March 2025",
-      "Congressional inaction analysis July 2026"
-    ]
-  },
-  {
-    "id": 867,
-    "sourceId": "cg:119-HR-1974",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1974?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "HR 1974: Further Additional Continuing Appropriations and Other Extensions Act, 2025",
-    "score": -18,
-    "snapshot": "HR 1974 is a continuing resolution extending FY2025 appropriations beyond the original deadline, indicating Congress failed to pass regular appropriations bills on schedule. The bill remains in committee as of March 2025, with no final passage data available for July 2026 assessment.",
-    "verdict": "// VERDICT: Another stopgap funding measure that postpones budgetary decisions while maintaining spending without comprehensive review or reform.",
-    "detail": "Continuing resolutions represent systematic failure of the appropriations process, forcing agencies to operate under prior-year funding levels without addressing changed priorities or eliminating waste. <strong>This mechanism prevents meaningful fiscal oversight and locks in baseline spending regardless of program performance.</strong> While preventing government shutdowns has value, serial CRs—this being yet another in a pattern—create planning uncertainty for agencies, delay new initiatives, and prevent reallocation of resources to higher priorities. The practice shifts difficult budget decisions to future sessions while maintaining all existing spending commitments. No measurable reforms or cost controls accompany this extension. The constitutional appropriations process envisions deliberate annual review of each department's budget, not automatic continuation of prior spending patterns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 1974, 119th Congress",
-      "Congressional Record, March 2025",
-      "House Committee on Appropriations referral records"
-    ]
-  },
-  {
-    "id": 868,
-    "sourceId": "cg:119-S-2833",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2833?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "S 2833: Stand Strong Falls Prevention Act",
-    "score": 18,
-    "snapshot": "Legislation to expand federal falls prevention programs for older adults through CDC coordination, education campaigns, and state grants. No floor vote yet; still in committee hearings as of March 2026.",
-    "verdict": "// VERDICT: Modest positive impact on preventable elder injuries with reasonable costs, though effectiveness depends on implementation quality and state participation.",
-    "detail": "Falls are the leading cause of injury death among Americans 65+, with CDC data showing over 14 million fall injuries annually costing approximately $50 billion in medical expenses. <strong>This bill authorizes targeted funding for evidence-based interventions like home safety assessments, balance training, and medication reviews that have demonstrated 20-30% reduction rates in controlled studies.</strong> The federal coordination role is appropriate given interstate consistency needs and existing CDC infrastructure. Cost estimates suggest $25-40 million annually, modest relative to current fall-related Medicare/Medicaid expenditures. Primary weakness is limited enforceability of state program quality and potential duplication with existing Area Agencies on Aging initiatives. Constitutional authority clear under spending clause. No redistribution concerns as benefits align with cost-bearing population (Medicare).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CDC WISQARS Fatal Injury Reports",
-      "JAGS evidence reviews on falls prevention",
-      "Congressional Record, S.2833",
-      "CMS National Health Expenditure Data"
-    ]
-  },
-  {
-    "id": 869,
-    "sourceId": "cg:119-HR-5371",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5371?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "HR 5371: Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026",
-    "score": -18,
-    "snapshot": "Continuing resolution extending FY2026 funding through March 14, 2026, with full-year appropriations for Agriculture, Legislative Branch, Military Construction, and Veterans Affairs. Includes disaster relief supplemental and various program extensions.",
-    "verdict": "// VERDICT: Averted shutdown but perpetuates fiscal dysfunction through reliance on short-term funding patches rather than regular order appropriations process.",
-    "detail": "This omnibus package combines a stopgap continuing resolution with full-year appropriations for select agencies and disaster supplemental funding. <strong>While it prevented a government shutdown and funded critical veteran and military programs, it represents the systemic failure of Congress to complete annual appropriations through regular order.</strong> The legislation includes approximately $100 billion in disaster relief without corresponding offsets, adding to deficit concerns. It extends farm bill programs and other authorities set to expire, but relies on temporary patches rather than comprehensive reform. The measure followed proper legislative process with House and Senate passage, but the rushed timeline and bundling of unrelated provisions limited meaningful debate. Future taxpayers bear the burden of continued deficit spending while immediate beneficiaries include disaster victims, veterans, and agricultural producers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-37",
-      "Congressional Record, Nov 2025",
-      "CBO Preliminary Estimate",
-      "House Appropriations Committee Report"
-    ]
-  },
-  {
-    "id": 870,
-    "sourceId": "cg:119-HR-3944",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3944?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "HR 3944: Military Construction and Veterans Affairs, Agriculture, and Legislative Branch Appropriations Act, 2026",
-    "score": -8,
-    "snapshot": "HR 3944 appropriates funding for military construction, VA programs, agriculture, and legislative operations for FY2026. The bill passed the House but reached conference stage after Senate amendments, indicating disputed provisions.",
-    "verdict": "// VERDICT: Mixed appropriations bill following regular process but lacks final reconciliation, making concrete fiscal and benefit assessment incomplete without conference resolution.",
-    "detail": "This omnibus appropriations bill combines funding for disparate government functions—military facilities, veterans healthcare, agricultural programs, and congressional operations. The normal appropriations process is being followed, satisfying constitutional requirements. However, the conference stage indicates disagreement between chambers on spending levels or policy riders. <strong>Without the final reconciled text and CBO scoring, it's impossible to assess whether taxpayer dollars are allocated efficiently or whether veterans and military readiness receive adequate funding relative to legislative branch expenses.</strong> Historically, omnibus bills carry higher risks of wasteful spending through reduced scrutiny of individual line items. The bill's merit depends entirely on final provisions: adequate VA healthcare funding and agricultural support would score positively, while excessive legislative branch costs or unfunded mandates would harm fiscal responsibility.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, House Vote 2025-09-18",
-      "Senate Legislative Calendar FY2026",
-      "Federal Appropriations Process Guidelines"
-    ]
-  },
-  {
-    "id": 871,
-    "sourceId": "cg:119-S-146",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/146?format=json",
-    "branch": "Congress",
-    "date": "Jul 27",
-    "dateISO": "2026-07-27",
-    "title": "S 146: TAKE IT DOWN Act",
-    "score": 22,
-    "snapshot": "The TAKE IT DOWN Act (Public Law 119-12) establishes federal requirements for online platforms to remove intimate images posted without consent within 48 hours of verified requests. Creates civil liability and FTC enforcement mechanisms for non-compliance.",
-    "verdict": "// VERDICT: Law provides enforceable protection against nonconsensual intimate imagery with minimal fiscal cost while respecting platform liability frameworks and due process safeguards.",
-    "detail": "This bipartisan legislation addresses documented harm from nonconsensual intimate images (\"revenge porn\") affecting an estimated 10+ million Americans, primarily women and minors. The 48-hour takedown requirement balances victim protection with platform operational capacity. <strong>Federal Trade Commission enforcement authority provides regulatory teeth without creating unfunded mandates or expanding federal bureaucracy significantly.</strong> Implementation costs are minimal (estimated under $15M annually for FTC oversight) while preventing measurable psychological and economic harm to victims. The law follows standard legislative process through both chambers and includes verification requirements that respect First Amendment concerns. Primary compliance costs fall on large platforms already maintaining content moderation systems, not taxpayers or vulnerable populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-12, May 2025",
-      "Congressional Record, Senate passage",
-      "Cyber Civil Rights Initiative research data",
-      "FTC appropriations estimate"
     ]
   }
 ]
