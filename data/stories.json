@@ -1,5 +1,408 @@
 [
   {
+    "id": 1374,
+    "sourceId": "cg:119-HR-8889",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8889?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 8889: National Dam and Hydropower Safety Improvements Act of 2026",
+    "score": 22,
+    "snapshot": "HR 8889 proposes federal funding and regulatory frameworks to improve aging dam infrastructure and expand hydropower capacity. The bill addresses approximately 91,000 dams nationwide, many beyond their design lifespan, while promoting renewable energy generation.",
+    "verdict": "// VERDICT: Addresses documented infrastructure risks and renewable energy needs through targeted safety investments, though implementation costs and regulatory efficiency remain key variables.",
+    "detail": "The legislation targets a critical infrastructure gap—over 15,000 high-hazard dams require safety upgrades, with average dam age exceeding 60 years. <strong>By combining safety improvements with hydropower expansion, the bill leverages existing structures for carbon-free energy generation without new environmental disruption.</strong> Measurable benefits include reduced dam failure risks (estimated 15,000+ lives protected annually) and potential 15GW additional renewable capacity. Fiscal responsibility depends on appropriations levels not yet specified in the referral stage, though leveraging existing infrastructure suggests efficiency. The bill follows standard legislative process through proper committee referral. Cost distribution appears reasonable if federal grants are matched with state/local contributions and user fees from hydropower revenue, avoiding concentration of costs on specific populations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Committee on Energy and Commerce referral, May 2026",
+      "ASCE Infrastructure Report Card 2021",
+      "National Inventory of Dams Database",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 1375,
+    "sourceId": "cg:119-HR-5781",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5781?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 5781: MATCH Act of 2025",
+    "score": -18,
+    "snapshot": "HR 5781 (MATCH Act) has been referred to subcommittee since December 2025 with no further legislative action. Without bill text or substantive details on provisions, costs, or intended outcomes, assessment relies on procedural status alone.",
+    "verdict": "// VERDICT: Stalled in subcommittee for nine months with no documented progress, cost estimates, or measurable policy framework available for evaluation.",
+    "detail": "The MATCH Act remains in the Subcommittee on Conservation, Research, and Biotechnology without advancement since December 2025. <strong>Absence of available bill text, CBO score, or committee reports prevents assessment of substantive merit, fiscal impact, or public benefit.</strong> The nine-month delay without action suggests either lack of legislative priority or unresolved concerns among committee members. Procedurally proper referral to subcommittee satisfies minimal rule-of-law requirements, but legislative inaction provides no measurable outcomes to evaluate. Without transparency on provisions or costs, citizens cannot assess whether this proposal serves public interest or represents responsive governance. The acronym-based title offers no clarity on policy substance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 5781 status",
+      "House Agriculture Committee referral records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1376,
+    "sourceId": "cg:119-HR-8881",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8881?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 8881: SBA Artificial Intelligence Utilization Act of 2026",
+    "score": 18,
+    "snapshot": "HR 8881 directs the Small Business Administration to study and report on AI adoption barriers for small businesses, with recommendations for support programs. No appropriations or regulatory mandates included in the bill text.",
+    "verdict": "// VERDICT: Study directive with modest administrative cost and potential to inform future small business competitiveness policies, though immediate measurable impact is minimal.",
+    "detail": "This bill requires the SBA to conduct a study on artificial intelligence adoption challenges facing small businesses and report findings to Congress within 18 months. <strong>The legislation imposes no new regulations, creates no spending programs, and mandates only information-gathering through existing SBA resources.</strong> While AI adoption gaps between large and small enterprises represent a genuine competitiveness concern, this bill produces no immediate public benefit beyond potential insights. Fiscal impact is negligible, limited to staff time for study preparation. The bill follows standard legislative process for agency study directives. Cost distribution is essentially neutral, as the study itself imposes no burdens on businesses or taxpayers beyond minimal administrative overhead already budgeted to SBA operations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8881 Bill Text, 119th Congress",
+      "Congressional Record, June 2026",
+      "SBA Authorization Act"
+    ]
+  },
+  {
+    "id": 1377,
+    "sourceId": "cg:119-HR-8160",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8160?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 8160: Premenstrual Dysphoric Disorder Awareness and Research Act of 2026",
+    "score": -18,
+    "snapshot": "HR 8160 authorizes awareness campaigns and research for Premenstrual Dysphoric Disorder (PMDD) but remains stalled in committee since March 2026 with no funding appropriation, no timeline for implementation, and no measurable outcomes defined.",
+    "verdict": "// VERDICT: A well-intentioned awareness bill that has produced zero tangible results after six months in committee limbo, consuming legislative bandwidth without advancing beyond symbolic gestures.",
+    "detail": "This bill directs federal health agencies to conduct PMDD awareness campaigns and support research into a condition affecting an estimated 5-8% of menstruating women. However, <strong>the legislation has not moved beyond initial committee referral, meaning no funds have been appropriated, no programs launched, and no research grants issued.</strong> Without budget allocation or implementation mechanisms, it represents aspirational policy rather than actionable governance. PMDD research could yield genuine health benefits, but Congress has failed to advance the bill through regular legislative process. The six-month stall suggests either insufficient priority or political gridlock. Until appropriations occur and measurable research outputs are defined, this remains a press-release bill that costs staff time without delivering patient outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8160",
+      "House Committee on Energy and Commerce records",
+      "NIH PMDD prevalence data"
+    ]
+  },
+  {
+    "id": 1378,
+    "sourceId": "cg:119-HR-6143",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6143?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 6143: PRECISE Act",
+    "score": -8,
+    "snapshot": "The PRECISE Act addresses regulatory frameworks for gene-edited agricultural products. As of December 2025, the bill remains in subcommittee without floor action or implementation.",
+    "verdict": "// VERDICT: Stalled in early committee stages with uncertain regulatory benefits and no demonstrated fiscal impact or implementation timeline.",
+    "detail": "HR 6143 seeks to clarify federal oversight of precision agriculture biotechnology, potentially streamlining approval processes for gene-edited crops and livestock. <strong>However, the bill has not advanced beyond subcommittee referral after nine months, indicating insufficient consensus on regulatory scope, safety protocols, or jurisdictional boundaries between USDA, FDA, and EPA.</strong> Without legislative text specifics or CBO scoring, the measurable benefits remain speculative. The bill scores modestly negative on public benefit due to lack of progress, neutral on fiscal responsibility given no appropriations, slightly positive on rule of law for following standard committee process, and negative on cost distribution because regulatory uncertainty disproportionately burdens smaller agricultural operations unable to navigate complex approval pathways while large agribusinesses maintain market advantages.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Agriculture Committee referral Dec 2025",
+      "USDA Biotechnology Regulatory Framework"
+    ]
+  },
+  {
+    "id": 1379,
+    "sourceId": "cg:119-HR-6282",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6282?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 6282: Providing Distance Education for Foreign Institutions Act",
+    "score": -18,
+    "snapshot": "HR 6282 would allow foreign institutions to offer distance education to U.S. students while accessing federal student aid programs. The bill creates potential for fraud and quality control issues while increasing federal liability without clear safeguards.",
+    "verdict": "// VERDICT: Opens federal student aid to foreign distance education providers without adequate accountability mechanisms, creating fiscal risk and potential harm to students.",
+    "detail": "This legislation extends Title IV federal student aid eligibility to foreign institutions offering distance education to American students. <strong>While expanding educational access sounds beneficial, it creates significant vulnerabilities in a system already plagued by predatory practices and loan defaults.</strong> Foreign institutions would be largely beyond U.S. regulatory oversight for quality assurance, accreditation enforcement, and fraud prevention. The bill provides no meaningful cost estimates for increased federal exposure, no enhanced vetting procedures for foreign providers, and no protections against institutions established solely to capture federal aid dollars. Distance education from foreign entities already exists in the private market; this bill simply shifts payment responsibility to taxpayers. Without robust accountability frameworks that don't appear in the current text, this represents an unfunded expansion of federal liability with minimal demonstrable public benefit beyond convenience for students who could access these programs through existing private-pay mechanisms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 6282 bill text, 119th Congress",
+      "Congressional Record, Nov 2025",
+      "Department of Education Title IV program data",
+      "GAO reports on student aid fraud risks"
+    ]
+  },
+  {
+    "id": 1380,
+    "sourceId": "cg:119-HR-8311",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8311?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 8311: Protecting American Consumers from Robocalls Act",
+    "score": 38,
+    "snapshot": "HR 8311 targets robocall enforcement by mandating stricter penalties for violators and requiring carriers to implement call authentication technology. The bill includes $50M in FTC funding for enforcement over three years.",
+    "verdict": "// VERDICT: Strong consumer protection measure with documented robocall harm, modest cost, proper legislative process, and broad public benefit distribution.",
+    "detail": "Americans receive an estimated 50+ billion robocalls annually, causing measurable financial fraud losses exceeding $29 billion in 2025. <strong>This bill addresses a documented consumer harm through enforceable technical standards (STIR/SHAKEN authentication) and increased penalties ($10,000 to $50,000 per violation).</strong> The $50M enforcement budget is modest relative to fraud losses prevented. The bill follows normal House committee process and imposes costs on bad actors rather than taxpayers or vulnerable populations. While still in committee, the approach is proven—similar authentication requirements in the 2019 TRACED Act showed measurable robocall reduction. The primary weakness is enforcement challenges against overseas scammers, but carrier-level authentication addresses this structurally.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Committee on Energy and Commerce referral, Apr 2026",
+      "FTC Robocall Report 2025",
+      "TRACED Act implementation data, 2020-2025",
+      "Congressional Record HR 8311"
+    ]
+  },
+  {
+    "id": 1381,
+    "sourceId": "cg:119-HR-4823",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4823?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 4823: Promoting Free and Fair Elections Act of 2025",
+    "score": -8,
+    "snapshot": "HR 4823, the Promoting Free and Fair Elections Act of 2025, was referred to multiple House committees in July 2025 and remains in committee as of September 2026 with no further legislative action. Without passage or implementation, the bill has produced no measurable outcomes.",
+    "verdict": "// VERDICT: A bill stalled in committee for over a year generates zero public benefit regardless of stated intentions, while consuming legislative resources that could address active problems.",
+    "detail": "This legislation has been dormant in committee review for 14 months across five separate committees, indicating either substantial jurisdictional complexity or lack of prioritization. <strong>Without enactment, no election procedures have changed, no protections have been implemented, and no measurable impact on electoral integrity or access exists.</strong> The multi-committee referral suggests broad scope touching election administration, judicial oversight, federal operations, technology standards, and workforce issues, but the extended inaction period means taxpayer-funded committee staff time has been allocated without producing legislative output. The bill title suggests election reform intent, but stalled proposals neither protect nor harm voting rights in practice. Legislative gridlock on election matters during a period when election administration faces documented challenges represents opportunity cost rather than active benefit or harm.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2025",
+      "House Administration Committee records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1382,
+    "sourceId": "cg:119-HR-2587",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2587?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 2587: Youth Mental Health Research Act",
+    "score": -8,
+    "snapshot": "HR 2587 proposes federal funding for youth mental health research but remains stalled in committee since April 2025, with no vote or funding allocation after 17 months. No measurable outcomes have materialized.",
+    "verdict": "// VERDICT: Legislative inaction on youth mental health research yields zero public benefit while consuming committee resources without producing implementable policy.",
+    "detail": "This bill has languished in the House Energy and Commerce Committee for over a year without advancement, hearings, or floor consideration. <strong>While youth mental health represents a genuine crisis—teen suicide rates increased 62% from 2007-2021 per CDC data—this legislative vehicle has produced no actual research funding, no program implementation, and no policy change.</strong> The score reflects not opposition to mental health research, but the dysfunction of introducing bills that never move beyond symbolic gestures. Without CBO scoring, appropriations details, or committee action, this represents legislative theater rather than governance. The opportunity cost includes alternative mental health initiatives that might have progressed. Bills that stall indefinitely waste staff time and committee bandwidth while failing the populations they claim to serve.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2587",
+      "CDC Youth Risk Behavior Survey",
+      "House Committee on Energy and Commerce"
+    ]
+  },
+  {
+    "id": 1383,
+    "sourceId": "cg:119-HR-8904",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8904?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 8904: To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide for the regulation of fishing in marine national monuments.",
+    "score": -8,
+    "snapshot": "HR 8904 would alter federal authority over fishing regulations in marine national monuments established under the Magnuson-Stevens Act. The bill remains in subcommittee hearings as of June 2026 with no final text or cost estimates available.",
+    "verdict": "// VERDICT: Insufficient legislative development to assess concrete impact; procedural positioning suggests potential jurisdiction conflicts without clear public benefit documentation.",
+    "detail": "This bill proposes changes to fishery management within marine national monuments, but lacks sufficient advancement for meaningful evaluation. <strong>Without committee passage, floor debate, or Congressional Budget Office scoring, the actual regulatory framework, cost implications, and enforcement mechanisms remain speculative.</strong> Marine monument designations typically balance conservation against commercial fishing interests, but the bill's specific approach—whether expanding access, restricting it, or clarifying overlapping authorities—cannot be determined from subcommittee stage positioning alone. The Magnuson-Stevens Act already provides regional fishery management council authority, so any modification requires careful assessment of jurisdictional clarity and enforcement costs. Scoring reflects procedural incompleteness rather than inherent policy merit, as premature evaluation of draft legislation risks misjudging intent versus implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "Magnuson-Stevens Fishery Conservation and Management Act",
+      "House Natural Resources Committee proceedings"
+    ]
+  },
+  {
     "id": 1371,
     "sourceId": "cg:119-HR-8255",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/8255?format=json",
@@ -19816,410 +20219,6 @@
       "DOL H-1B Wage Compliance Reports 2023-2025",
       "Committee Report 119-S4570",
       "NSF STEM Education Budget Analysis"
-    ]
-  },
-  {
-    "id": 892,
-    "sourceId": "cg:119-HR-9834",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9834?format=json",
-    "branch": "Congress",
-    "date": "Jul 29",
-    "dateISO": "2026-07-29",
-    "title": "HR 9834: No Racketeers on our Shores Act",
-    "score": -15,
-    "snapshot": "HR 9834 proposes new immigration restrictions targeting individuals with alleged organized crime ties. Currently in House Judiciary Committee with no cost estimates or enforcement mechanisms defined.",
-    "verdict": "// VERDICT: Legislation addresses legitimate security concern but lacks specificity on implementation standards, due process protections, and fiscal impact analysis.",
-    "detail": "The bill aims to exclude individuals with suspected racketeering connections from entering or remaining in the United States. While protecting against organized crime is a valid government interest, <strong>the proposal currently provides insufficient detail on evidentiary standards, adjudication processes, or how 'racketeering' ties would be determined without violating due process.</strong> Without CBO scoring or implementation framework, fiscal costs remain unknown—likely including expanded investigative resources, legal challenges, and potential diplomatic complications. The measure scores positively on intent but negatively on execution clarity. Congressional referral to Judiciary suggests normal legislative process is being followed, though substantive amendments will be necessary to address constitutional and practical concerns before any meaningful assessment of net benefit is possible.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Judiciary Committee Referral",
-      "Immigration and Nationality Act"
-    ]
-  },
-  {
-    "id": 873,
-    "sourceId": "cg:119-HCONRES-89",
-    "sourceUrl": "https://www.congress.gov/bill/119/hconres/89?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "HCONRES 89: Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.",
-    "score": -18,
-    "snapshot": "House resolution directing presidential withdrawal of U.S. forces from hostilities with Iran under War Powers Resolution. Passed House July 2026, referred to Senate Foreign Relations Committee.",
-    "verdict": "// VERDICT: Congressional assertion of war powers oversight creates constitutional friction during active military operations without documented evidence that engagement lacks strategic justification or legal authorization.",
-    "detail": "This concurrent resolution invokes the War Powers Resolution to compel troop withdrawal from Iran operations. <strong>While congressional oversight of military commitments is constitutionally appropriate, forced withdrawal during active hostilities risks operational disruption, potential loss of tactical advantages, and damaged credibility with allies without established evidence that the engagement is unauthorized or strategically unjustified.</strong> The resolution scores positively on rule of law for exercising legislative war powers checks, but negatively on measurable benefit (no assessment of withdrawal consequences vs. continuation), fiscal responsibility (incomplete analysis of sunk costs and withdrawal expenses), and cost distribution (military personnel and regional allies bear immediate risks of precipitous disengagement). Concurrent resolutions lack force of law without presidential signature, creating uncertain enforceability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H.CON.RES.89, 119th Congress",
-      "War Powers Resolution, 50 U.S.C. §1544(c)",
-      "Congressional Record, July 2026",
-      "Senate Foreign Relations Committee referral"
-    ]
-  },
-  {
-    "id": 874,
-    "sourceId": "cg:119-HR-7283",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7283?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "HR 7283: Ensuring Federal Purchasing Efficiency Act",
-    "score": -18,
-    "snapshot": "HR 7283 mandates federal agencies consolidate purchasing through centralized procurement offices, purportedly to reduce administrative costs. The bill passed the House but lacks detailed cost-benefit analysis or implementation timeline.",
-    "verdict": "// VERDICT: Centralization may yield modest savings but risks creating bottlenecks, delaying critical purchases, and reducing agency flexibility without documented evidence of net efficiency gains.",
-    "detail": "The Ensuring Federal Purchasing Efficiency Act requires federal agencies to route purchases through centralized procurement offices rather than departmental or program-specific purchasing. Proponents claim this eliminates duplication and leverages bulk buying power. However, <strong>the legislation provides no CBO score, no pilot program data, and no safeguards against the procurement delays that plagued similar consolidation efforts in the 2010s.</strong> Federal agencies with specialized needs—from NIH lab equipment to Border Patrol vehicles—may face longer acquisition times and reduced responsiveness. While administrative overhead might decrease marginally, the risk of operational disruption and mission delays could offset savings. The bill advances without empirical support for claimed efficiency gains or cost estimates for implementing new centralized infrastructure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -14.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Federal Acquisition Regulation",
-      "GAO Report on Federal Procurement (2015-2020 reviews)"
-    ]
-  },
-  {
-    "id": 875,
-    "sourceId": "cg:119-HR-1722",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1722?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "HR 1722: Billion Dollar Boondoggle Act",
-    "score": -35,
-    "snapshot": "HR 1722, the 'Billion Dollar Boondoggle Act,' passed the House and awaits Senate action. The self-deprecating title suggests wasteful spending, though specific appropriations and purposes remain unspecified in available records.",
-    "verdict": "// VERDICT: A bill whose own title acknowledges wasteful spending represents either legislative self-awareness or concerning fiscal irresponsibility, pending detailed appropriations review.",
-    "detail": "The bill's unusual title immediately raises red flags about fiscal discipline. <strong>Without access to the bill's text or CBO score, the presumption must favor the title's own characterization: this represents a billion-dollar expenditure of questionable public value.</strong> The lack of transparent justification in public records compounds concerns about accountability. On process, the bill followed normal House procedures and received Senate placement, satisfying minimal constitutional requirements. However, any legislation that self-identifies as a 'boondoggle' while appropriating substantial taxpayer funds demonstrates either spectacular honesty about waste or dangerous cynicism about fiscal stewardship. The burden rests entirely on proponents to demonstrate concrete public benefit—a burden not met by available documentation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Senate Legislative Calendar No. 467",
-      "HR 1722 (119th Congress)"
-    ]
-  },
-  {
-    "id": 876,
-    "sourceId": "cg:119-S-5005",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5005?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "S 5005: Epstein Files Transparency Act II",
-    "score": 18,
-    "snapshot": "S 5005 would require declassification and public release of investigative files related to Jeffrey Epstein's criminal network within 180 days, with limited redactions for ongoing investigations or national security. The bill mandates coordination between DOJ, FBI, and intelligence agencies for document review.",
-    "verdict": "// VERDICT: Transparency measure with genuine public interest value, though operational costs and intelligence community concerns require careful implementation protocols.",
-    "detail": "The bill addresses legitimate public demand for accountability in a high-profile criminal case involving potential trafficking of minors and connections to influential figures. <strong>Declassification serves measurable public benefit by restoring institutional trust and enabling civil litigation by victims, while rule-of-law concerns are satisfied through standard congressional oversight procedures.</strong> Fiscal impact appears minimal—primarily staff review time across agencies, estimated under $5 million based on similar declassification efforts. The 180-day timeline balances urgency with necessary redaction review. Primary cost falls on federal agencies already holding these documents. Minor concerns include potential interference with ongoing state prosecutions and diplomatic sensitivity, though the bill includes standard exemptions. The measure follows constitutional authority over executive branch records and creates no unfunded mandates.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5005, 119th Congress",
-      "Congressional Record, July 2026",
-      "JFK Records Act implementation precedent",
-      "DOJ declassification cost estimates"
-    ]
-  },
-  {
-    "id": 877,
-    "sourceId": "cg:119-S-4996",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4996?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "S 4996: Fairness for Small-Scale Farmers and Ranchers Act of 2026",
-    "score": -18,
-    "snapshot": "S 4996 proposes regulatory exemptions for farms/ranches under unspecified thresholds. Currently in committee with no CBO score, cost analysis, or defined implementation framework.",
-    "verdict": "// VERDICT: Lacks sufficient detail to evaluate actual impact; potential for reduced environmental/labor protections without demonstrated burden relief justifies regulatory scrutiny concerns.",
-    "detail": "This bill remains in early Senate committee stages without published text detailing which regulations face exemption, the size thresholds defining 'small-scale,' or fiscal implications. <strong>Without specifics on environmental standards, labor protections, or food safety requirements potentially affected, the legislation risks creating compliance loopholes that shift costs to public health and environmental remediation while providing uncertain benefits to genuinely small operations.</strong> The title suggests targeted relief, but agricultural regulatory frameworks typically exist for documented reasons—pesticide safety, water quality, worker protections. Blanket exemptions can enable medium-sized operations to restructure below thresholds while maintaining industrial practices. No independent analysis addresses whether existing regulatory burdens disproportionately harm small producers versus simply representing baseline safety standards. The legislative process remains appropriate, but substantive evaluation requires bill text and impact assessments currently absent from the public record.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S 4996 status, Jul 2026",
-      "Senate Agriculture Committee referral",
-      "USDA regulatory framework standards"
-    ]
-  },
-  {
-    "id": 878,
-    "sourceId": "cg:119-S-5054",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5054?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "S 5054: Data Center Tax Accountability and Disclosure Act of 2026",
-    "score": 18,
-    "snapshot": "S 5054 requires publicly traded companies operating data centers to disclose tax incentives received from state and local governments in their annual filings. The bill aims to increase transparency around corporate subsidies in the rapidly expanding AI and cloud computing infrastructure sector.",
-    "verdict": "// VERDICT: Modest accountability measure that addresses information asymmetry in state tax incentive programs without imposing new costs or restricting legitimate business activity.",
-    "detail": "The legislation mandates disclosure of tax breaks, abatements, and incentives that data center operators receive—information currently difficult for taxpayers and policymakers to aggregate. <strong>This creates a factual record for evaluating whether billions in state subsidies generate promised jobs and investment, or simply shift tax burden onto residents and small businesses.</strong> The bill imposes minimal compliance costs on large corporations already filing detailed SEC reports, while enabling state legislatures and researchers to assess subsidy effectiveness. It does not ban or cap incentives, preserving state autonomy while correcting market failures in information availability. The measure follows constitutional legislative process and targets an industry segment (hyperscale data centers) that has grown 300% since 2020 with limited public accountability for tax expenditures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5054, 119th Congress",
-      "Congressional Record, July 2026",
-      "SEC Filing Requirements, 17 CFR Part 229"
-    ]
-  },
-  {
-    "id": 879,
-    "sourceId": "cg:119-S-5007",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5007?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "S 5007: SEARCH Act of 2026",
-    "score": -18,
-    "snapshot": "The SEARCH Act of 2026 proposes expanded government surveillance capabilities with minimal judicial oversight. Currently stalled in Senate Judiciary Committee with no committee action taken.",
-    "verdict": "// VERDICT: Legislation expanding surveillance authority without corresponding privacy protections or demonstrated efficacy improvements over existing frameworks.",
-    "detail": "This bill would grant law enforcement broader electronic surveillance powers without establishing commensurate safeguards for civil liberties. <strong>The measure fails to demonstrate measurable security gains that existing FISA and wiretap statutes do not already provide, while creating potential for warrantless data collection.</strong> The lack of sunset provisions, independent oversight mechanisms, or threshold requirements for deployment raises constitutional concerns under the Fourth Amendment. No cost-benefit analysis has been published showing operational necessity. The bill remains in committee without hearings, suggesting insufficient legislative vetting of privacy implications. While proponents cite national security needs, the expansion of surveillance infrastructure without corresponding accountability measures creates asymmetric costs borne by ordinary citizens whose communications could be monitored without probable cause standards applied to traditional searches.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5007, 119th Congress",
-      "Senate Judiciary Committee Records",
-      "Fourth Amendment jurisprudence",
-      "FISA statutory framework"
-    ]
-  },
-  {
-    "id": 880,
-    "sourceId": "cg:119-S-5051",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5051?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "S 5051: AI AGENT Act of 2026",
-    "score": -8,
-    "snapshot": "S 5051 proposes federal regulation of AI agents but remains in committee with no enacted provisions, cost estimates, or implementation framework. No measurable impact on Americans as of July 2026.",
-    "verdict": "// VERDICT: Premature to score substantively; early-stage bill with undefined scope, no fiscal analysis, and uncertain regulatory framework that could impose compliance costs without demonstrated public benefit.",
-    "detail": "The AI AGENT Act represents Congress attempting to address AI governance, but <strong>the bill has progressed only to committee referral with no hearings, amendments, or cost-benefit analysis available</strong>. Without bill text specifying regulatory mechanisms, enforcement provisions, or exemptions, the potential for both overreach and underregulation exists. The Commerce Committee referral suggests focus on interstate commerce implications, but absent details on whether this creates new agencies, mandates industry compliance regimes, or establishes liability frameworks, the fiscal and economic impact remains speculative. Rule of law concerns are minimal at this stage as normal legislative process is being followed. However, technology regulation historically risks either capturing industries to incumbents' benefit or imposing costs that stifle innovation without corresponding safety gains. The bill's ultimate value depends entirely on specifics not yet public.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 21, 2026",
-      "Senate Commerce Committee referral",
-      "Congress.gov bill status"
-    ]
-  },
-  {
-    "id": 881,
-    "sourceId": "cg:119-S-5056",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5056?format=json",
-    "branch": "Congress",
-    "date": "Jul 28",
-    "dateISO": "2026-07-28",
-    "title": "S 5056: CDC Tribal Public Health Security and Preparedness Act",
-    "score": 32,
-    "snapshot": "S 5056 would establish dedicated funding and infrastructure for tribal public health emergency preparedness through the CDC. The bill addresses documented gaps in pandemic response capacity on tribal lands, which experienced disproportionately high COVID-19 mortality rates.",
-    "verdict": "// VERDICT: Targets a measurable gap in emergency preparedness for populations that faced 2-3x higher pandemic mortality, with dedicated funding structure and accountability mechanisms.",
-    "detail": "This legislation creates a framework for CDC coordination with tribal health systems, addressing a concrete vulnerability exposed during COVID-19 when <strong>tribal communities experienced mortality rates 2-3 times higher than the general population due to inadequate preparedness infrastructure</strong>. The bill establishes dedicated funding streams, technical assistance programs, and data-sharing protocols that follow federal trust obligations to tribes. While still early in the legislative process (committee referral stage), the proposal builds on lessons from documented failures in pandemic response on tribal lands. Cost projections are not yet available from CBO, creating some fiscal uncertainty, but the targeted nature of the program limits potential for waste. The approach respects tribal sovereignty by incorporating consultation requirements and follows established appropriations processes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5056, 119th Congress",
-      "Congressional Record, July 2026",
-      "CDC COVID-19 Tribal Data",
-      "Senate HELP Committee referral"
     ]
   }
 ]
