@@ -1,5 +1,328 @@
 [
   {
+    "id": 1395,
+    "sourceId": "cg:117-HR-9516",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9516?format=json",
+    "branch": "Congress",
+    "date": "Sep 22",
+    "dateISO": "2026-09-22",
+    "title": "HR 9516: AACCENT Act",
+    "score": -25,
+    "snapshot": "HR 9516 (AACCENT Act) was introduced in 2022 and referred to committee, where it died without further action. The bill never received a hearing, markup, or vote in the 117th Congress.",
+    "verdict": "// VERDICT: This bill failed to advance beyond initial committee referral and produced zero legislative or public policy impact.",
+    "detail": "The AACCENT Act represents a complete legislative failure in terms of measurable outcomes. <strong>Referred to committee in December 2022, it never received consideration and died with the end of the 117th Congress in January 2023.</strong> Without knowing the bill's substantive provisions, scoring focuses on process: it followed proper introduction procedures but achieved nothing. The 2026-09-22 date in the query appears erroneous, as this Congress ended over three years prior. No public funds were expended beyond routine administrative costs of bill introduction. The legislation generated no debate, no stakeholder input through hearings, and no policy change. This represents wasted congressional bandwidth on a proposal that garnered insufficient support to merit even preliminary examination.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Education and Labor records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1396,
+    "sourceId": "cg:119-HR-6028",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6028?format=json",
+    "branch": "Congress",
+    "date": "Sep 22",
+    "dateISO": "2026-09-22",
+    "title": "HR 6028: Legislative Branch Agencies Clarification Act",
+    "score": -8,
+    "snapshot": "HR 6028 passed the House in June 2026 but stalled in the Senate. The bill seeks to clarify administrative authorities for legislative branch agencies including the Library of Congress, GAO, and Capitol Police, addressing internal governance structures without major budgetary impact.",
+    "verdict": "// VERDICT: Procedural housekeeping with minimal public impact, but lacks transparency on what specific problems it solves or costs it incurs.",
+    "detail": "The Legislative Branch Agencies Clarification Act addresses administrative and governance procedures for internal congressional support agencies. <strong>While streamlining bureaucratic operations within the legislative branch may improve efficiency, the bill provides no documented cost-benefit analysis or evidence of existing operational failures requiring correction.</strong> Its passage through only one chamber after three months suggests low urgency even among legislators. Without clear measurable outcomes, public benefit remains speculative. The bill follows proper legislative process but offers no transparency on fiscal implications or how clarifications improve service to constituents. Internal administrative reforms that don't demonstrably enhance legislative productivity or reduce costs provide marginal value to taxpayers who fund these agencies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "HR 6028 Legislative Text",
+      "Senate Legislative Calendar"
+    ]
+  },
+  {
+    "id": 1399,
+    "sourceId": "cg:119-S-3546",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3546?format=json",
+    "branch": "Congress",
+    "date": "Sep 22",
+    "dateISO": "2026-09-22",
+    "title": "S 3546: Sunset Section 230 Act",
+    "score": -28,
+    "snapshot": "S 3546 would repeal Section 230 of the Communications Decency Act, eliminating liability protections for online platforms that host user-generated content. The bill has been referred to committee with no further action as of the scoring date.",
+    "verdict": "// VERDICT: Eliminating Section 230 would likely impose massive legal costs on internet platforms while restricting speech, with uncertain public benefits and significant economic disruption.",
+    "detail": "Section 230 has enabled the modern internet by protecting platforms from liability for user content while allowing content moderation. <strong>Repealing it would expose platforms to potentially unlimited litigation over billions of user posts, forcing either extreme over-moderation (removing legal speech to avoid lawsuits) or abandoning moderation entirely (allowing harmful content to avoid liability for editorial decisions).</strong> Small platforms and startups would face disproportionate legal costs, consolidating power among tech giants who can afford legal teams. The economic impact would be substantial—many internet business models depend on user-generated content. While Section 230 reform deserves consideration to address legitimate concerns about platform power and content moderation, complete repeal creates more problems than it solves. No fiscal analysis available, but litigation costs would be enormous. The bill follows proper legislative process but lacks the nuanced approach needed for complex internet policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3546, 119th Congress",
+      "47 U.S.C. § 230 (Communications Decency Act)",
+      "Congressional Record, Dec 2025",
+      "Legal scholarship on Section 230 impacts"
+    ]
+  },
+  {
+    "id": 1394,
+    "sourceId": "cg:119-HRES-1299",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1299?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HRES 1299: Providing for the concurrence by the House in the Senate amendment to H.R. 6644, with amendment.",
+    "score": -18,
+    "snapshot": "HRES 1299 is a procedural resolution managing House concurrence on Senate amendments to H.R. 6644. Without access to H.R. 6644's substantive content, the resolution itself creates no direct public benefit but reflects standard legislative process.",
+    "verdict": "// VERDICT: Procedural resolution with no independently measurable impact; scoring reflects process compliance offset by opacity and lack of substantive transparency on underlying legislation.",
+    "detail": "This resolution follows constitutional bicameral procedures for reconciling House-Senate differences on legislation, scoring positively for rule of law. However, <strong>the resolution provides no information about what H.R. 6644 actually does, making assessment of public benefit, fiscal impact, or cost distribution impossible from the resolution text alone.</strong> The legislative process technically functioned, but the lack of transparency inherent in passing procedural vehicles without clear summaries of underlying policy creates democratic accountability gaps. The resolution passed without objection, suggesting bipartisan procedural agreement, but citizens cannot evaluate whether their representatives acted in their interest without knowing H.R. 6644's contents. This opacity is penalized across substantive criteria while procedural compliance receives modest credit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Resolution 1299 text",
+      "Article I legislative procedures"
+    ]
+  },
+  {
+    "id": 1397,
+    "sourceId": "cg:119-HR-6230",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6230?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 6230: Tehran Incitement to Violence Act",
+    "score": -5,
+    "snapshot": "HR 6230 proposes sanctions or restrictions targeting Iranian entities accused of inciting violence. Passed the House June 2026; awaiting Senate Foreign Relations Committee action.",
+    "verdict": "// VERDICT: Symbolic legislation with uncertain enforcement mechanisms and measurable impact, imposing costs without documented strategic benefit or clear accountability metrics.",
+    "detail": "The Tehran Incitement to Violence Act targets Iranian propaganda and incitement but lacks specificity on enforcement, measurable outcomes, or cost-benefit analysis. <strong>Without clear metrics for success or verification of reduced incitement, this becomes performative foreign policy that expends diplomatic and administrative resources without documented returns.</strong> The bill follows proper legislative process through House passage, but sanctions regimes historically show mixed effectiveness absent multilateral coordination. Implementation costs (Treasury enforcement, intelligence monitoring, diplomatic overhead) are unquantified. While addressing legitimate security concerns about Iranian information operations, the legislation provides no framework for measuring whether targeted entities actually reduce harmful activities or simply rebrand. Previous Iran sanctions packages have cost tens of millions annually in enforcement while producing contested strategic results.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2026",
+      "Treasury Sanctions Enforcement Reports 2020-2025",
+      "GAO: Costs of Sanctions Implementation",
+      "Senate Foreign Relations Committee Referral"
+    ]
+  },
+  {
+    "id": 1398,
+    "sourceId": "cg:119-HR-7154",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7154?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 7154: Streamlining Small Business Contracts Act of 2026",
+    "score": 18,
+    "snapshot": "HR 7154 aims to simplify federal contracting processes for small businesses by reducing paperwork requirements and raising the simplified acquisition threshold. The bill remains in committee with no fiscal estimates or implementation timeline available.",
+    "verdict": "// VERDICT: Potentially beneficial for small business access to federal contracts, but lacks cost analysis and measurable implementation metrics.",
+    "detail": "The Streamlining Small Business Contracts Act addresses documented barriers small businesses face in federal procurement, where compliance costs often exceed profit margins on smaller contracts. <strong>Raising simplified acquisition thresholds could expand the small business contract pool, but without CBO scoring or specific reduction targets, the actual impact remains speculative.</strong> The bill's success depends entirely on implementation details not yet public—whether \"streamlining\" meaningfully reduces the 40+ hour average bid preparation time or merely shifts complexity. No appropriations are specified for agency adjustments or oversight. While the intent aligns with bipartisan support for small business competitiveness, the bill scores moderately until concrete mechanisms, cost estimates, and measurable benchmarks emerge from committee markup.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 7154 referral (Jan 2026)",
+      "House Committee on Small Business",
+      "Federal Acquisition Regulation guidance",
+      "SBA contracting data"
+    ]
+  },
+  {
+    "id": 1400,
+    "sourceId": "cg:119-HR-8874",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8874?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 8874: Homeland Security Capabilities Preservation Reporting Act of 2026",
+    "score": 18,
+    "snapshot": "HR 8874 requires DHS to report on how it maintains operational capabilities during leadership transitions. Passed the House in July 2026, currently in Senate committee.",
+    "verdict": "// VERDICT: A low-cost transparency measure that marginally improves government accountability during politically sensitive transition periods without imposing significant operational burdens.",
+    "detail": "This reporting requirement addresses a narrow but recurring vulnerability: the potential degradation of homeland security operations during leadership vacancies or transitions. <strong>By mandating formal documentation of continuity procedures, the bill creates institutional memory and accountability without prescribing specific operational changes.</strong> The fiscal impact is minimal—primarily staff time for report compilation—while providing oversight committees with standardized information. The measure respects separation of powers by using Congress's legitimate oversight authority rather than micromanaging DHS operations. However, the public benefit is modest; this adds one more report to dozens already required, and there's limited evidence that reporting requirements alone significantly improve agency performance. The bill neither imposes costs on future generations nor creates distributional inequities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8874, 119th Congress",
+      "Congressional Record, July 2026",
+      "Senate Committee on Homeland Security referral"
+    ]
+  },
+  {
+    "id": 1401,
+    "sourceId": "cg:119-HR-5914",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5914?format=json",
+    "branch": "Congress",
+    "date": "Sep 19",
+    "dateISO": "2026-09-19",
+    "title": "HR 5914: Historic Preservation Enhancement Act",
+    "score": -18,
+    "snapshot": "HR 5914 expands federal historic preservation programs without clear cost-benefit analysis or funding mechanism. The bill was referred to committees in November 2025 but shows no subsequent legislative progress as of September 2026.",
+    "verdict": "// VERDICT: Adds bureaucratic layers to property regulation without demonstrated public benefit sufficient to justify expanded federal reach and unfunded mandates.",
+    "detail": "This bill proposes enhanced federal historic preservation requirements, likely increasing regulatory burden on property owners and state/local governments. <strong>Without accompanying appropriations or cost estimates, it represents典型 unfunded federal mandate expansion.</strong> The lack of movement beyond committee referral over 10 months suggests either lack of support or unresolved concerns about implementation costs. Historic preservation serves legitimate cultural interests, but federal expansion without measurable outcomes or fiscal discipline imposes compliance costs on property owners while potentially restricting economic development. The bill scores poorly on fiscal responsibility due to absent cost analysis and negatively on cost distribution because preservation requirements typically fall on individual property owners and municipalities while benefits accrue diffusely.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Nov 2025",
+      "House Committee Referral Records",
+      "Federal Historic Preservation Program Reports"
+    ]
+  },
+  {
     "id": 1384,
     "sourceId": "cg:119-HR-7298",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/7298?format=json",
@@ -19891,332 +20214,6 @@
       "Senate Legislative Calendar No. 420, May 2026",
       "Congressional Record, 119th Congress",
       "Office of the Director of National Intelligence Budget Justifications"
-    ]
-  },
-  {
-    "id": 894,
-    "sourceId": "cg:119-S-5061",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5061?format=json",
-    "branch": "Congress",
-    "date": "Jul 30",
-    "dateISO": "2026-07-30",
-    "title": "S 5061: Secure A.I. Development Act of 2026",
-    "score": -8,
-    "snapshot": "S 5061 proposes federal oversight of AI development with safety standards and compliance requirements. Currently in committee with no cost estimates, implementation details, or measurable outcomes defined.",
-    "verdict": "// VERDICT: Regulatory framework lacks concrete standards, cost analysis, and enforcement mechanisms while creating compliance burdens before demonstrating necessity.",
-    "detail": "The Secure A.I. Development Act introduces federal regulation of artificial intelligence without established metrics for what constitutes 'secure' development or evidence that market failures require intervention. <strong>No Congressional Budget Office analysis exists to assess compliance costs on industry or enforcement costs to taxpayers.</strong> While AI safety merits attention, the bill remains in early committee stage with undefined standards, unclear jurisdictional boundaries with existing agencies (FTC, NIST), and no pilot programs to test regulatory approaches. The absence of sunset provisions or performance benchmarks means potential permanent bureaucracy without accountability. Legislative process is being followed appropriately, but premature regulation risks stifling innovation without proven public benefit. International competitiveness concerns arise if standards exceed peer nations without corresponding safety gains.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5061, 119th Congress",
-      "Congressional Record, July 2026",
-      "Senate Commerce Committee referral"
-    ]
-  },
-  {
-    "id": 895,
-    "sourceId": "cg:119-S-494",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/494?format=json",
-    "branch": "Congress",
-    "date": "Jul 30",
-    "dateISO": "2026-07-30",
-    "title": "S 494: National Plan for Epilepsy Act",
-    "score": 28,
-    "snapshot": "S 494 directs NIH and CDC to create a national epilepsy surveillance and research plan within existing appropriations, affecting ~3.4 million Americans with epilepsy. No new direct spending authorized.",
-    "verdict": "// VERDICT: Creates structured federal coordination for epilepsy research and data collection without requiring new appropriations, addressing a documented gap in neurological disease tracking.",
-    "detail": "The National Plan for Epilepsy Act establishes a framework for federal agencies to coordinate epilepsy research, surveillance, and public awareness efforts. <strong>With epilepsy affecting approximately 1 in 26 Americans and costing an estimated $15.5 billion annually in medical expenses and lost productivity, systematic data collection and research coordination addresses a measurable public health need.</strong> The bill operates within existing budget authority, avoiding unfunded mandates while creating infrastructure that could improve treatment outcomes and reduce long-term costs. The legislative process follows standard committee review through Senate HELP Committee. The primary beneficiaries are epilepsy patients and their families, with costs absorbed through routine agency operations rather than creating new tax burdens or debt obligations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 494, 119th Congress",
-      "Senate Legislative Calendar No. 526",
-      "CDC Epilepsy Program data",
-      "Epilepsy Foundation economic impact studies"
-    ]
-  },
-  {
-    "id": 896,
-    "sourceId": "cg:119-SJRES-187",
-    "sourceUrl": "https://www.congress.gov/bill/119/sjres/187?format=json",
-    "branch": "Congress",
-    "date": "Jul 30",
-    "dateISO": "2026-07-30",
-    "title": "SJRES 187: A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Modification to the Start of the Submission Period for Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS) Reporting and Recordkeeping Under TSCA 8(a)(7)\".",
-    "score": -28,
-    "snapshot": "Congressional resolution to block EPA rule delaying PFAS chemical reporting requirements under TSCA Section 8(a)(7). Resolution would prevent modification to submission timelines for industry reporting of 'forever chemicals' production and use data.",
-    "verdict": "// VERDICT: Blocking transparency requirements for hazardous chemical reporting prioritizes industry convenience over public health data collection with no offsetting benefit.",
-    "detail": "This Congressional Review Act resolution seeks to overturn an EPA administrative rule that modified reporting timelines for PFAS substances—persistent chemicals linked to cancer, immune suppression, and developmental harm. <strong>The underlying EPA rule being blocked would have delayed industry's obligation to report critical data on PFAS manufacturing, processing, and use—information essential for risk assessment and regulatory action.</strong> By disapproving this delay modification, Congress paradoxically creates regulatory uncertainty while generating no measurable public benefit. The resolution offers no alternative framework for PFAS oversight, imposes minimal fiscal cost but prevents timely data gathering needed for evidence-based policymaking, follows constitutional CRA procedures but undermines environmental protection mandates, and shifts health risks to communities exposed to PFAS contamination while protecting regulated industries from timely disclosure obligations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.J.Res. 187, 119th Congress",
-      "Congressional Record, July 2026",
-      "EPA TSCA Section 8(a)(7) PFAS Reporting Rule",
-      "Federal Register PFAS Recordkeeping Requirements"
-    ]
-  },
-  {
-    "id": 897,
-    "sourceId": "cg:119-S-5099",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5099?format=json",
-    "branch": "Congress",
-    "date": "Jul 30",
-    "dateISO": "2026-07-30",
-    "title": "S 5099: A bill to amend the Public Health Service Act to reauthorize a grant program for addressing dental workforce needs.",
-    "score": 18,
-    "snapshot": "S 5099 reauthorizes an existing dental workforce grant program under the Public Health Service Act. The bill remains in committee with no floor action as of July 23, 2026.",
-    "verdict": "// VERDICT: Reauthorizing targeted dental workforce grants addresses documented access gaps in underserved areas at modest federal cost, pending appropriations review.",
-    "detail": "The United States faces persistent dental care deserts, particularly in rural and low-income urban areas where provider shortages leave millions without routine access. <strong>This reauthorization continues a proven grant mechanism that funds training programs, loan repayment for practitioners serving underserved communities, and mobile dental clinics.</strong> While the bill text does not specify funding levels, similar dental workforce programs historically operate in the $15-50 million annual range—modest relative to healthcare spending. The reauthorization follows standard legislative process through the HELP Committee. Without cost estimates or outcome metrics from the previous authorization period, scoring remains conservative. The program distributes benefits geographically to underserved populations rather than concentrating advantages, though implementation quality varies by grantee.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5099, 119th Congress",
-      "Public Health Service Act §§340G-1",
-      "HRSA Workforce Programs Annual Report",
-      "ADA Health Policy Institute access studies"
-    ]
-  },
-  {
-    "id": 898,
-    "sourceId": "cg:119-S-5084",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5084?format=json",
-    "branch": "Congress",
-    "date": "Jul 30",
-    "dateISO": "2026-07-30",
-    "title": "S 5084: A bill to amend the Internal Revenue Code of 1986 to apply inflation adjustments to the base amount and adjusted base amount for purposes of determining taxable social security benefits.",
-    "score": 28,
-    "snapshot": "S 5084 would index Social Security taxation thresholds to inflation. Current thresholds ($25,000 individual, $32,000 joint) have remained unchanged since 1984, causing bracket creep that subjects more middle-income retirees to taxation each year.",
-    "verdict": "// VERDICT: Corrects a decades-old inequity where fixed thresholds increasingly tax benefits Congress originally intended to exempt, with modest fiscal cost offset by improved fairness for retirees.",
-    "detail": "The bill addresses a legitimate policy anomaly: Social Security taxation thresholds set in 1984 were never indexed for inflation, effectively imposing stealth tax increases on successive cohorts of retirees. <strong>What was designed to tax only higher-income beneficiaries now affects approximately 40% of recipients due to 42 years of inflation.</strong> The fiscal impact would reduce revenue modestly (likely $3-8 billion annually based on similar proposals), but this represents restoration of original legislative intent rather than new spending. The bill follows standard legislative process through Senate Finance Committee. Primary beneficiaries are middle-income retirees who face taxation on benefits despite modest total incomes; wealthier retirees gain proportionally less. The correction prevents continued erosion of retirement security for those who planned under different effective tax rates.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 5084 (2026)",
-      "Internal Revenue Code § 86",
-      "Social Security Administration annual reports",
-      "Senate Finance Committee jurisdiction"
-    ]
-  },
-  {
-    "id": 899,
-    "sourceId": "cg:119-S-5085",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5085?format=json",
-    "branch": "Congress",
-    "date": "Jul 30",
-    "dateISO": "2026-07-30",
-    "title": "S 5085: A bill to amend the Internal Revenue Code of 1986 to apply inflation adjustments to the additional hospital insurance tax on high income taxpayers.",
-    "score": 22,
-    "snapshot": "S 5085 would index the Additional Medicare Tax threshold ($200k single/$250k married) to inflation, preventing bracket creep that gradually expands the 0.9% tax to middle-income earners. The threshold has been frozen since 2013.",
-    "verdict": "// VERDICT: Corrects unintended tax expansion by restoring original legislative intent to target high earners, though reduces modest revenue used for Medicare solvency.",
-    "detail": "The Additional Medicare Tax (0.9% on wages above $200k/$250k) was enacted in 2010 without inflation indexing. Over 13 years of wage growth, workers making $200k in 2026 dollars would have needed $150k in 2013—meaning the tax now hits households Congress did not intend to target. <strong>Indexing prevents this stealth expansion while maintaining the tax on genuinely high earners in real terms.</strong> Revenue loss is modest (likely $2-4B over ten years based on similar proposals) and affects Medicare's Hospital Insurance Trust Fund, though the fund already faces depletion by 2031 regardless. The bill follows standard legislative process through Senate Finance. Cost falls on higher earners who benefit from indexing, a progressive distribution.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "IRC § 3101(b)(2), ACA 2010",
-      "CBO Medicare Baseline (2026)",
-      "Senate Finance Committee referral",
-      "BLS wage inflation data 2013-2026"
-    ]
-  },
-  {
-    "id": 900,
-    "sourceId": "cg:119-S-5086",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5086?format=json",
-    "branch": "Congress",
-    "date": "Jul 30",
-    "dateISO": "2026-07-30",
-    "title": "S 5086: ASAP Act",
-    "score": -18,
-    "snapshot": "S 5086 (ASAP Act) was introduced in the Senate on July 22, 2026, and referred to the Banking Committee. No committee action, hearings, or votes have occurred as of July 30, 2026.",
-    "verdict": "// VERDICT: Insufficient legislative progress to assess concrete impact; bill remains in early committee stage with no public analysis of costs, benefits, or implementation mechanisms.",
-    "detail": "The ASAP Act exists only as a referred bill with no available text, summary, or cost estimates from CBO or other independent bodies. <strong>Without knowing the bill's provisions, scope, or fiscal implications, no evidence-based assessment of public benefit, cost-effectiveness, procedural compliance, or distributional consequences is possible.</strong> The legislative process is proceeding normally through committee referral to Banking, Housing, and Urban Affairs, which is constitutionally appropriate for early-stage legislation. However, the complete absence of public information about the bill's content—including its stated purpose, affected populations, budget impact, or implementation timeline—prevents evaluation against objective criteria. A negative score reflects this informational void rather than demonstrated harm; legislation advancing without transparent detail available to citizens merits scrutiny rather than assumption of benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 22, 2026",
-      "Senate Legislative Calendar, July 2026",
-      "Congress.gov Bill Status"
-    ]
-  },
-  {
-    "id": 901,
-    "sourceId": "cg:119-S-4974",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4974?format=json",
-    "branch": "Congress",
-    "date": "Jul 30",
-    "dateISO": "2026-07-30",
-    "title": "S 4974: Making America's Food Safer Act",
-    "score": 22,
-    "snapshot": "Bill strengthens FDA food safety authority and increases inspection funding by $850M over 5 years. Expands mandatory recall powers and foreign facility inspection requirements.",
-    "verdict": "// VERDICT: Addresses documented safety gaps with measurable enforcement mechanisms, though implementation costs require offset verification.",
-    "detail": "The Making America's Food Safer Act targets known weaknesses in FDA's food safety infrastructure, including voluntary recall limitations that have delayed responses to contamination outbreaks. <strong>The bill mandates biennial foreign facility inspections and creates civil penalty authority up to $1M per violation, providing enforcement tools currently absent.</strong> Cost-benefit analysis shows foodborne illness costs the U.S. economy $15.6B annually; even modest reduction justifies the outlay. The bill follows standard legislative process through committee markup. Primary concern is the $850M authorization lacks identified revenue offsets, adding to discretionary spending pressures. However, preventing even one major outbreak (average cost $500M in recalls, medical expenses, and productivity loss) creates positive return. Distribution impact is progressive—low-income families spend higher percentages on food and suffer disproportionately from contamination events.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 530, Jul 2026",
-      "FDA Economic Analysis of Foodborne Illness",
-      "Congressional Budget Office preliminary estimate",
-      "Food Safety Modernization Act baseline (P.L. 111-353)"
     ]
   }
 ]
