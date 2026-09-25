@@ -1,5 +1,450 @@
 [
   {
+    "id": 1422,
+    "sourceId": "cg:119-HR-9317",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9317?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "HR 9317: BUSES Act",
+    "score": -18,
+    "snapshot": "HR 9317 ('BUSES Act') advanced from subcommittee to full committee by voice vote in July 2026. No final passage, cost estimate, or implementation details are publicly available.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete impact, but the premature advancement without public cost analysis or measurable outcome specifications raises fiscal and transparency concerns.",
+    "detail": "The BUSES Act remains in committee with no CBO score, published text details, or defined measurable outcomes in the public record. <strong>Voice vote advancement without documented cost-benefit analysis circumvents fiscal accountability standards expected for transportation legislation.</strong> The acronym suggests bus-related infrastructure or transit funding, but without specifics on route planning, ridership projections, maintenance obligations, or federal vs. state cost-sharing, any public benefit remains speculative. Congressional procedure was nominally followed at the subcommittee level, but opacity around funding mechanisms and beneficiary distribution prevents assessment of whether costs fall disproportionately on taxpayers versus actual transit users or whether the bill creates unfunded mandates for localities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9317 status",
+      "House Transportation Committee records",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
+    "id": 1423,
+    "sourceId": "cg:119-HR-6678",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6678?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "HR 6678: Senior Legal Hotline Act of 2025",
+    "score": 28,
+    "snapshot": "HR 6678 establishes federal grants for state-based legal hotlines serving seniors aged 60+, providing free legal advice on matters like housing, healthcare access, and consumer fraud. Initial appropriations estimated at $15-20 million annually.",
+    "verdict": "// VERDICT: Creates modest-cost infrastructure addressing documented unmet legal needs among elderly Americans, particularly for those unable to afford private counsel.",
+    "detail": "The Senior Legal Hotline Act targets a demonstrated gap in access to justice for older Americans, who face disproportionate rates of scams, housing disputes, and benefits navigation challenges. <strong>Federal support for state legal aid hotlines represents efficient service delivery, leveraging existing infrastructure while maintaining state flexibility in implementation.</strong> The program's cost remains relatively contained compared to broader entitlement spending, and telephone hotlines provide scalable access without requiring seniors to travel. The bill follows standard legislative process through committee referral. Minor concerns include potential overlap with existing Legal Services Corporation programs and lack of specific fraud prevention mechanisms in grant distribution, though these can be addressed in implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Dec 2025",
+      "Legal Services Corporation Annual Reports",
+      "Senate Special Committee on Aging testimony, 2024-25"
+    ]
+  },
+  {
+    "id": 1425,
+    "sourceId": "cg:119-HR-9682",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9682?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "HR 9682: Cure Hepatitis C Act of 2026",
+    "score": 32,
+    "snapshot": "HR 9682 proposes federal initiative to eliminate hepatitis C through expanded screening, treatment access, and medication price negotiations. Targets elimination by 2030, affecting approximately 2.4 million Americans with chronic HCV infection.",
+    "verdict": "// VERDICT: Strong public health case with proven treatment efficacy, but success depends on implementation costs and pharmaceutical pricing negotiations not yet detailed in committee referrals.",
+    "detail": "Hepatitis C is curable with direct-acting antivirals achieving 95%+ cure rates, making elimination feasible unlike many chronic diseases. The bill addresses a documented public health burden where untreated HCV leads to cirrhosis, liver cancer, and approximately 14,000 annual deaths. <strong>The measurable benefit is clear: every dollar spent on HCV treatment saves an estimated $3-5 in downstream healthcare costs from prevented liver disease.</strong> However, the bill remains in committee with no CBO score, leaving fiscal impact uncertain. Success hinges on negotiating medication prices (currently $20,000-30,000 per treatment course) and expanding Medicaid/Medicare coverage. Rule of law score reflects proper legislative process through multiple committee jurisdictions. Cost distribution favors vulnerable populations (incarcerated individuals, low-income communities) who bear disproportionate HCV burden but may lack treatment access without federal intervention.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9682 referral July 2026",
+      "CDC Viral Hepatitis Surveillance Report",
+      "Clinical evidence on DAA cure rates",
+      "Healthcare cost-effectiveness analyses HCV treatment"
+    ]
+  },
+  {
+    "id": 1428,
+    "sourceId": "cg:119-HRES-854",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/854?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "HRES 854: Commemorating the seventh anniversary of the murder of Jamal Khashoggi and calling for accountability.",
+    "score": -8,
+    "snapshot": "A resolution commemorating journalist Jamal Khashoggi's 2018 murder and calling for accountability from Saudi Arabia. No binding legal effect or appropriations; purely symbolic expression of congressional sentiment.",
+    "verdict": "// VERDICT: Symbolic gesture with no measurable policy impact, minimal fiscal cost, but raises questions about productive use of legislative time during chamber procedures.",
+    "detail": "This commemorative resolution expresses Congress's position on a foreign policy matter without creating enforceable law or allocating resources. While honoring a journalist's murder and advocating for human rights accountability aligns with democratic values, <strong>the resolution produces no concrete public benefit beyond political signaling</strong>. The fiscal impact is negligible—limited to administrative processing costs. From a rule-of-law perspective, the resolution follows proper House procedures but represents time spent on non-binding statements rather than substantive legislation. The cost distribution is neutral as taxpayer resources consumed are minimal. Commemorative resolutions serve a legitimate expressive function in foreign policy discourse, but lack the measurable outcomes or fiscal responsibility considerations that characterize impactful governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2025",
+      "House Resolution procedures, Congressional Research Service",
+      "Foreign Affairs Committee referral records"
+    ]
+  },
+  {
+    "id": 1429,
+    "sourceId": "cg:119-S-4709",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4709?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "S 4709: UNLOCK AUKUS Act",
+    "score": 22,
+    "snapshot": "The UNLOCK AUKUS Act streamlines export controls and technology sharing among the U.S., U.K., and Australia under the AUKUS security partnership, particularly for submarine technology and advanced defense capabilities. Aims to reduce regulatory friction for trilateral defense cooperation without compromising security reviews.",
+    "verdict": "// VERDICT: Facilitates defense industrial cooperation with close allies through targeted export reform while maintaining security safeguards, addressing documented bureaucratic delays in strategic partnership.",
+    "detail": "The legislation addresses real inefficiencies in current International Traffic in Arms Regulations (ITAR) that have delayed critical technology transfers to AUKUS partners, despite these being among America's closest allies with compatible security standards. <strong>By creating a streamlined license-free zone for pre-approved defense articles between the three nations, the Act reduces administrative costs and accelerates delivery timelines for submarine construction and other joint programs.</strong> The fiscal impact is modest—primarily administrative savings offset by initial system setup costs—while enabling faster deployment of deterrent capabilities in the Indo-Pacific. Constitutional process followed through regular committee consideration. The primary beneficiaries are defense contractors and the three allied governments, with broader strategic benefits for regional stability. Minor concerns exist about potential technology leakage, though existing security frameworks and partner vetting processes remain in place.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4709, 119th Congress",
+      "Senate Legislative Calendar No. 517",
+      "AUKUS Partnership Framework (DOD, 2021)",
+      "Congressional Record, July 2026"
+    ]
+  },
+  {
+    "id": 1430,
+    "sourceId": "cg:119-S-4708",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4708?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "S 4708: Arctic Security and Diplomacy Act",
+    "score": 18,
+    "snapshot": "The Arctic Security and Diplomacy Act addresses growing strategic competition in the Arctic region through enhanced diplomatic presence, infrastructure investment, and coordination mechanisms. The bill authorizes funding for Arctic programs and establishes a framework for U.S. leadership in polar governance.",
+    "verdict": "// VERDICT: Proactive response to documented Arctic geopolitical shifts with reasonable authorization levels, though implementation costs and measurable outcomes remain uncertain pending appropriations.",
+    "detail": "This legislation responds to accelerating Arctic activity from Russia and China with a structured diplomatic and security approach. <strong>The bill balances strategic necessity against fiscal prudence by authorizing rather than appropriating funds, allowing budget scrutiny through normal channels.</strong> Authorization levels appear modest relative to infrastructure needs in Alaska and diplomatic requirements. The framework follows constitutional treaty and foreign policy processes. Primary beneficiaries include Arctic state communities and national security interests, while costs distribute across general revenues. The bill's effectiveness depends heavily on execution and whether appropriations materialize. Without specific spending figures or demonstrated outcomes from pilot programs, the measurable benefit score remains cautious. Rule of law compliance is strong given proper legislative procedure through committee consideration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4708, 119th Congress",
+      "Senate Legislative Calendar No. 516",
+      "Congressional Record, July 2026",
+      "Senate Foreign Relations Committee Report"
+    ]
+  },
+  {
+    "id": 1431,
+    "sourceId": "cg:119-S-4723",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4723?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "S 4723: Eliminate PRC Organized Crime Act",
+    "score": -18,
+    "snapshot": "S 4723 proposes broad sanctions and asset freezes targeting Chinese organized crime networks, including triads and human trafficking operations. The bill authorizes extensive Treasury and State Department enforcement actions without specified budgetary allocation or clear evidentiary standards.",
+    "verdict": "// VERDICT: While targeting organized crime is legitimate, the bill's vague definitions, lack of due process protections, and potential for diplomatic escalation outweigh measurable benefits without demonstrated superiority to existing anti-crime tools.",
+    "detail": "The Eliminate PRC Organized Crime Act aims to combat Chinese transnational criminal organizations through sanctions and visa restrictions. However, <strong>the legislation provides minimal procedural safeguards for designation, risking overreach and false positives that could harm legitimate businesses or individuals.</strong> Existing statutes (IEEPA, Magnitsky Act, RICO) already address organized crime and human trafficking; this bill's added value remains unclear. The fiscal impact is unstated—enforcement requires State Department, Treasury, and intelligence resources without appropriations. Diplomatically, blanket targeting of \"PRC-linked\" entities risks retaliatory measures affecting American interests in Asia. The bill follows regular legislative process but lacks the precision and accountability mechanisms necessary for extraordinary enforcement powers. Without concrete evidence that current tools are insufficient, this appears more performative than substantive.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4723, 119th Congress",
+      "Senate Legislative Calendar No. 518",
+      "International Emergency Economic Powers Act",
+      "Federal Register, sanctions procedures"
+    ]
+  },
+  {
+    "id": 1432,
+    "sourceId": "cl:11451385",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10983722/department-of-homeland-security-v-league-of-women-voters/",
+    "branch": "Courts",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "Opinion 11451385",
+    "score": -18,
+    "snapshot": "Supreme Court granted stay allowing DHS to resume modified SAVE program using SSA records for bulk voter citizenship verification despite lower court rulings that program violated Social Security Act, Privacy Act, and APA procedural requirements.",
+    "verdict": "// VERDICT: Procedural bypass and privacy concerns outweigh uncertain election integrity gains from bulk database matching with known error rates.",
+    "detail": "The Court's stay permits resumption of a program that lower courts found violated three separate statutory frameworks governing data privacy and administrative procedure. <strong>The modified SAVE program allows bulk searches of SSA records without completing required notice-and-comment rulemaking, creating documented risks of erroneous citizenship challenges against naturalized citizens whose records lag actual status.</strong> While citizenship verification serves legitimate interests, the program's expansion via executive order rather than legislative process, combined with SSA database accuracy concerns demonstrated by plaintiff Doe 4's case, suggests measurable harm to lawful voters. The stay prioritizes expedited implementation over statutory compliance and procedural safeguards that exist precisely to prevent government overreach in sensitive areas like voting rights and personal data.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 26A308 (Sept. 2026)",
+      "Exec. Order 14248, 90 Fed. Reg. 14006 (2025)",
+      "District Court ruling, No. 25-cv-3501 (D.D.C.)",
+      "Social Security Act; Privacy Act of 1974"
+    ]
+  },
+  {
+    "id": 1424,
+    "sourceId": "cg:119-HRES-666",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/666?format=json",
+    "branch": "Congress",
+    "date": "Sep 24",
+    "dateISO": "2026-09-24",
+    "title": "HRES 666: Supporting the goals of Overdose Awareness Day and strengthening efforts to combat the opioid crisis in the United States.",
+    "score": -8,
+    "snapshot": "HRES 666 is a non-binding House resolution supporting Overdose Awareness Day and expressing commitment to combat the opioid crisis. Referred to committee in August 2025, no further action as of September 2026.",
+    "verdict": "// VERDICT: Symbolic gesture with zero enforcement mechanism or funding while overdose deaths continue unabated.",
+    "detail": "This resolution embodies the pathology of performative legislature: acknowledging a crisis that kills over 100,000 Americans annually while allocating no resources and mandating no action. <strong>House resolutions express sentiment but create no law, appropriate no funds, and impose no requirements on federal agencies.</strong> The opioid crisis demands harm reduction programs, treatment capacity expansion, and border interdiction funding—none of which this resolution provides. Referring such measures to committee where they languish for over a year demonstrates institutional failure to match rhetoric with remediation. The resolution scores positively only for following proper legislative procedure and costs nothing, but delivers nothing measurable while families bury overdose victims.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "CDC Overdose Mortality Statistics",
+      "House Rules on Resolutions"
+    ]
+  },
+  {
+    "id": 1426,
+    "sourceId": "cg:119-HRES-671",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/671?format=json",
+    "branch": "Congress",
+    "date": "Sep 24",
+    "dateISO": "2026-09-24",
+    "title": "HRES 671: Prioritizing mental health to the same degree as physical health to address the epidemics of suicide and drug overdose in the United States.",
+    "score": -15,
+    "snapshot": "House resolution expressing support for prioritizing mental health equally with physical health, referred to committee September 2025. No binding policy changes, funding mechanisms, or implementation requirements.",
+    "verdict": "// VERDICT: Non-binding resolution with aspirational goals but no measurable mechanisms, funding, or enforcement to address stated crises.",
+    "detail": "This resolution acknowledges genuine public health crises—suicide and overdose deaths claim over 100,000 American lives annually—but offers only symbolic support without actionable policy. <strong>Resolutions expressing sentiment cost taxpayer money for legislative time while creating no enforceable change.</strong> The measure scores poorly on measurable benefit because it mandates nothing: no funding streams, no regulatory changes, no healthcare system reforms. Fiscal responsibility is slightly negative due to opportunity cost—Congress spent time on non-binding text rather than substantive mental health legislation. Rule of law is neutral; the process is proper but accomplishes no legal effect. Cost distribution is marginally negative because vulnerable populations suffering these epidemics receive no tangible help, only stated concern. If Congress genuinely prioritizes mental health parity, it should pass enforceable legislation with appropriations, not aspirational statements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sept 2025",
+      "CDC WONDER Database (mortality statistics)",
+      "House Resolution procedure guidelines"
+    ]
+  },
+  {
+    "id": 1427,
+    "sourceId": "cg:119-HR-5864",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5864?format=json",
+    "branch": "Congress",
+    "date": "Sep 24",
+    "dateISO": "2026-09-24",
+    "title": "HR 5864: Improving Police CARE Act",
+    "score": -8,
+    "snapshot": "HR 5864, the Improving Police CARE Act, was introduced in the House and referred to the Judiciary Committee in October 2025. No legislative text, cost estimate, or committee action has been publicly released as of the referenced September 2026 date.",
+    "verdict": "// VERDICT: Insufficient information exists to assess actual impact, as the bill remains in committee without public text, scoring, or implementation details.",
+    "detail": "This legislation has not progressed beyond initial committee referral, making objective evaluation impossible. <strong>Without bill text, CBO scoring, or committee testimony, claims about police support mechanisms, mental health resources, or operational improvements cannot be verified.</strong> The title suggests focus on officer wellness (CARE potentially indicating mental health or support services), but intentions stated in titles do not constitute measurable outcomes. No fiscal analysis exists to evaluate cost-benefit tradeoffs. Legislative process appears standard for initial referral, but the 11-month stall in committee without public hearings or amendments suggests either low priority or unresolved concerns. Scoring reflects this vacuum of verifiable information rather than ideological opposition to police support measures, which could score positively with proper documentation of efficacy and responsible funding mechanisms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5864 record",
+      "House Judiciary Committee docket",
+      "Congressional Record Oct 2025"
+    ]
+  },
+  {
     "id": 1412,
     "sourceId": "cg:119-S-4677",
     "sourceUrl": "https://www.congress.gov/bill/119/s/4677?format=json",
@@ -19768,455 +20213,6 @@
       "Senate Finance Committee referral, July 2026",
       "IRS Publication 590-A/B (retirement account complexity baseline)",
       "Congressional Record, Vol. 172"
-    ]
-  },
-  {
-    "id": 923,
-    "sourceId": "cg:119-HR-9491",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9491?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "HR 9491: Prison to Proprietorship Act",
-    "score": -18,
-    "snapshot": "HR 9491 proposes federal support for formerly incarcerated individuals starting businesses. As of June 2026, the bill remains in committee with no floor action, cost estimate, or implementation framework.",
-    "verdict": "// VERDICT: Without CBO scoring, implementation details, or recidivism outcome data from pilot programs, this proposal presents unmeasured fiscal risk and unproven public benefit despite addressing a real reentry challenge.",
-    "detail": "The bill targets a genuine social problem—over 600,000 Americans leave prison annually with unemployment rates exceeding 27% within one year of release. <strong>However, no cost estimate exists, no oversight mechanism is specified, and no evidence from comparable federal programs demonstrates that entrepreneurship grants reduce recidivism or create sustainable employment.</strong> Previous SBA initiatives for disadvantaged populations have shown mixed results, with default rates on microloans to high-risk populations ranging 15-40% in state pilots. The bill's referral to committee suggests minimal legislative momentum. Without rigorous eligibility screening, fraud prevention, or outcome measurement requirements visible in the text, taxpayer funds could subsidize failed ventures while displacing existing small business support programs that serve law-abiding citizens.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9491 (June 2026)",
-      "Bureau of Justice Statistics, Prisoner Reentry",
-      "SBA Microloan Program Reports (2020-2025)",
-      "House Committee on Small Business referral"
-    ]
-  },
-  {
-    "id": 924,
-    "sourceId": "cg:119-HR-9852",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9852?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "HR 9852: Slow Down Act",
-    "score": -38,
-    "snapshot": "HR 9852 would mandate nationwide speed limit reductions on federal highways without documented safety analysis or cost-benefit study. No committee hearings held; referred to Transportation Committee but lacks fiscal impact assessment.",
-    "verdict": "// VERDICT: Proposes sweeping transportation restrictions without supporting evidence of net safety benefit or economic impact analysis.",
-    "detail": "The bill mandates reduced speed limits across federal highway systems but provides no empirical data demonstrating improved safety outcomes versus economic costs. <strong>Transportation research consistently shows that artificially low speed limits reduce compliance and can increase accident rates when speed variance among vehicles rises.</strong> The measure imposes substantial economic costs through increased travel times, higher fuel consumption from sub-optimal speeds, and reduced productivity—none quantified in the proposal. Constitutionally, federal highway speed regulation exceeds enumerated powers; the 1995 National Highway System Designation Act returned speed limit authority to states. The bill bypasses cost-benefit analysis required for major federal rules and shifts economic burden to commercial transport, commuters, and rural Americans who depend on highway travel while offering no measurable safety data to justify restrictions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Federal Highway Administration safety data",
-      "National Highway System Designation Act (1995)",
-      "House Committee on Transportation records"
-    ]
-  },
-  {
-    "id": 925,
-    "sourceId": "cg:119-S-5065",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5065?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "S 5065: Help Grandfamilies Prevent Child Abuse Act",
-    "score": 32,
-    "snapshot": "Bill would establish grant programs supporting kinship caregivers (grandparents and relatives raising children) to prevent child abuse and neglect. Authorizes $50 million annually for training, respite care, and support services targeting approximately 2.7 million children in kinship care nationwide.",
-    "verdict": "// VERDICT: Targeted intervention addressing documented child welfare gap with proven cost-effectiveness compared to foster care alternatives.",
-    "detail": "Kinship care arrangements cost taxpayers significantly less than traditional foster care ($7,000 vs. $30,000+ annually per child) while producing better child outcomes according to HHS data. <strong>The bill addresses a structural vulnerability where 2.7 million children live with relatives who often lack formal support systems, increasing abuse/neglect risk.</strong> The $50 million authorization represents approximately 0.02% of annual child welfare spending while potentially preventing costly interventions. However, the bill remains in committee without CBO score, and effectiveness depends entirely on implementation quality and state participation. Grant structure follows established federal-state partnership models used in child welfare programs. No constitutional or procedural concerns; benefits concentrated on vulnerable children with minimal intergenerational cost shifting.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5065, 119th Congress",
-      "HHS Kinship Care Statistics 2025",
-      "Congressional Record, July 2026",
-      "Child Welfare Cost Analysis, GAO"
-    ]
-  },
-  {
-    "id": 926,
-    "sourceId": "cg:119-S-5062",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5062?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "S 5062: FAIR DME Appeals Act",
-    "score": 28,
-    "snapshot": "S 5062 streamlines Medicare appeals for durable medical equipment suppliers by establishing faster timelines and reducing administrative burdens. Aims to reduce payment delays that cause cash flow problems for small medical equipment providers.",
-    "verdict": "// VERDICT: Modest procedural improvement addressing documented Medicare appeals backlog affecting medical equipment suppliers, with minimal fiscal impact and no constitutional concerns.",
-    "detail": "The FAIR DME Appeals Act targets a well-documented problem: Medicare appeals for durable medical equipment claims currently face severe backlogs, with decisions often taking years. Suppliers—frequently small businesses—struggle with cash flow when legitimate claims are delayed. <strong>The bill accelerates timelines and clarifies procedures without expanding coverage or changing eligibility standards, making it a low-cost administrative reform.</strong> Fiscal impact is minimal; faster resolution may slightly reduce interest on delayed payments but primarily reallocates existing administrative resources. The reform follows standard legislative process through Senate Finance Committee. Cost distribution is moderately positive—it helps small DME suppliers without imposing new taxes or shifting burdens to beneficiaries or future generations. Limited score reflects modest scope: it fixes a procedural bottleneck rather than achieving transformative public benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Senate Finance Committee referral",
-      "Medicare Payment Advisory Commission reports on appeals backlogs",
-      "Federal Register DME administrative procedures"
-    ]
-  },
-  {
-    "id": 927,
-    "sourceId": "cg:119-S-221",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/221?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "S 221: Extending Limits of United States Customs Waters Act of 2025",
-    "score": -18,
-    "snapshot": "S 221 would extend U.S. customs enforcement waters beyond current territorial limits, expanding federal jurisdiction for customs inspection and seizure operations. The bill remains in Senate Finance Committee with no cost estimate or implementation plan available.",
-    "verdict": "// VERDICT: Extends enforcement authority without documented need, raising constitutional concerns about extraterritorial reach while lacking fiscal analysis or demonstrated smuggling gap requiring expanded waters.",
-    "detail": "This legislation expands customs enforcement jurisdiction into international waters, granting federal agents broader search and seizure powers. <strong>Without accompanying data on smuggling patterns, cost-benefit analysis, or international law compliance review, the expansion represents a speculative enforcement tool rather than a targeted solution to documented problems.</strong> The bill's referral to Finance rather than Judiciary suggests focus on revenue collection over constitutional process. No CBO score exists to evaluate implementation costs, technology requirements, or international coordination expenses. Expanding enforcement waters impacts maritime commerce, fishing operations, and international relations, yet the bill provides no evidence these costs are justified by measurable smuggling losses. Historical customs expansions have proven costly without proportional interdiction improvements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.221, 119th Congress",
-      "Senate Finance Committee referral, Jan 2025",
-      "U.S. Customs and Border Protection jurisdictional guidelines",
-      "United Nations Convention on the Law of the Sea"
-    ]
-  },
-  {
-    "id": 928,
-    "sourceId": "cg:119-HR-1968",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1968?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "HR 1968: Full-Year Continuing Appropriations and Extensions Act, 2025",
-    "score": -28,
-    "snapshot": "HR 1968 extended FY2025 appropriations through September 2025 without regular order budgeting. Congress avoided shutdown but perpetuated baseline spending increases without program review or prioritization.",
-    "verdict": "// VERDICT: Continuing resolutions preserve government operations while abandoning fiscal discipline, locking in prior-year spending levels without evaluating current needs or eliminating waste.",
-    "detail": "Continuing resolutions represent a systematic failure of congressional budgeting responsibility. <strong>By funding government on autopilot at previous levels, HR 1968 eliminated any opportunity to reallocate resources toward higher priorities or terminate ineffective programs.</strong> This mechanism increases baseline spending annually through automatic inflation adjustments while bypassing the scrutiny individual appropriations bills would receive. The temporary nature creates planning uncertainty for agencies and contractors, often resulting in inefficient end-of-year spending rushes. While avoiding shutdown costs (estimated $2-6 billion in prior incidents), CRs perpetuate approximately $1.7 trillion in annual discretionary spending without meaningful oversight. The practice has become normalized—FY2025 marked the 14th consecutive year beginning under CR rather than passed appropriations. This abdicates Congress's constitutional power of the purse and shifts fiscal decisions to bureaucratic inertia rather than democratic deliberation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 119-4",
-      "Congressional Research Service: Continuing Resolutions Overview",
-      "GAO Report on CR Operational Impacts",
-      "Congressional Budget Office FY2025 Baseline"
-    ]
-  },
-  {
-    "id": 929,
-    "sourceId": "cg:119-HR-9842",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9842?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "HR 9842: State Offices of Women’s Health Support and Expansion Act",
-    "score": 18,
-    "snapshot": "HR 9842 would authorize federal grants to state-level offices of women's health, expanding coordination and resource distribution for maternal mortality prevention, reproductive health access, and chronic disease management affecting women. No appropriations amount specified in the bill text as of committee referral.",
-    "verdict": "// VERDICT: Targets documented public health gaps in maternal outcomes and preventive care with established state infrastructure, though fiscal impact remains undefined pending appropriations.",
-    "detail": "The bill addresses measurable disparities—U.S. maternal mortality rates exceed peer nations by 2-3x, with pronounced racial inequities. <strong>State women's health offices have demonstrated coordination value in 38 states, improving screening rates and reducing duplicative programs.</strong> However, the bill provides authorization without specific funding levels, complicating fiscal responsibility assessment. Process follows normal legislative order through committee review. The cost distribution depends on future appropriations; if funded through general revenue without offsets, it shifts costs broadly while concentrating benefits in states with weakest current infrastructure. The preventive health focus may generate long-term savings through early intervention, but unfunded authorization creates uncertainty.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9842 text, 119th Congress",
-      "CDC Maternal Mortality Data 2024",
-      "Congressional Record, July 2026",
-      "National Academy of Medicine report on state health offices"
-    ]
-  },
-  {
-    "id": 930,
-    "sourceId": "cg:119-S-1954",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1954?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "S 1954: Biosimilar Red Tape Elimination Act",
-    "score": 32,
-    "snapshot": "S 1954 streamlines FDA approval pathways for biosimilar medications, reducing duplicative testing requirements while maintaining safety standards. Expected to accelerate market entry of lower-cost alternatives to expensive biologic drugs.",
-    "verdict": "// VERDICT: Reduces regulatory barriers to biosimilar competition without compromising patient safety, likely decreasing prescription drug costs for millions of Americans.",
-    "detail": "The Biosimilar Red Tape Elimination Act addresses a significant market failure where complex approval processes delay cheaper alternatives to biologic medications that often cost $50,000-$100,000 annually. <strong>By eliminating redundant clinical trial requirements already satisfied in other jurisdictions while preserving FDA safety review, the bill creates a faster pathway for proven medications to reach patients.</strong> Biosimilars typically cost 15-35% less than reference biologics; accelerating their availability could save Medicare/Medicaid billions while improving access for privately insured patients. The legislation follows established procedures through committee consideration and maintains FDA's ultimate approval authority, ensuring medical safety standards remain intact. Primary beneficiaries are patients requiring expensive biologic treatments and taxpayers funding public health programs, with minimal implementation costs to FDA.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 521, July 2026",
-      "FDA Biosimilar Approval Data",
-      "Congressional Budget Office pharmaceutical cost analyses",
-      "Federal Register biosimilar guidance documents"
-    ]
-  },
-  {
-    "id": 931,
-    "sourceId": "cg:119-HR-8735",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8735?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "HR 8735: American Sovereignty and Monterey Historic Military Site Study Act",
-    "score": -8,
-    "snapshot": "HR 8735 authorizes a study to evaluate designating a Monterey military site as a National Historic Landmark. The bill remains in subcommittee hearings as of May 2026 with no floor vote scheduled.",
-    "verdict": "// VERDICT: A procedurally sound but premature evaluation of a study authorization with uncertain costs and undefined public benefit scope.",
-    "detail": "The legislation directs the National Park Service to conduct a Special Resource Study of a Monterey-area military installation for potential National Historic Landmark designation. <strong>While preserving military heritage has cultural value, the bill provides no cost estimate, timeline, or criteria for what constitutes national significance worth federal resources.</strong> Subcommittee hearings suggest concerns about duplicating existing state preservation efforts. The \"American Sovereignty\" framing appears rhetorically disconnected from a local historic site study, raising questions about legislative intent versus actual content. Without CBO scoring or committee reports detailing expected expenditures, fiscal responsibility cannot be assessed. The procedural pathway follows standard legislative order, but the substantive case for federal involvement over state or private preservation remains undeveloped.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Natural Resources Committee Calendar",
-      "National Park Service Special Resource Study Guidelines"
-    ]
-  },
-  {
-    "id": 932,
-    "sourceId": "cg:119-HR-4795",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4795?format=json",
-    "branch": "Congress",
-    "date": "Aug 3",
-    "dateISO": "2026-08-03",
-    "title": "HR 4795: Protect Economic and Academic Freedom Act of 2025",
-    "score": -18,
-    "snapshot": "HR 4795 proposes restricting federal funding to universities that divest from or boycott Israel-related entities. The bill passed committee 24-9 but lacks publicly available cost estimates or impact assessments at this stage.",
-    "verdict": "// VERDICT: Imposes federal financial penalties on academic institutions for investment decisions without documented fiscal analysis or clear constitutional precedent for compelled investment speech.",
-    "detail": "This legislation conditions federal research grants and student aid on universities' investment policies regarding Israel, effectively penalizing institutions that participate in BDS (Boycott, Divestment, Sanctions) movements. <strong>While supporters frame this as protecting economic freedom, the mechanism restricts institutional autonomy over fiduciary decisions and may expose taxpayers to litigation costs over First Amendment concerns.</strong> No CBO score is available showing implementation costs or quantifying affected institutions. The bill advances a foreign policy objective through domestic education funding without measurable metrics for success. Constitutional scholars have raised concerns about compelled speech and academic freedom. The approach bypasses direct diplomatic channels, instead using financial coercion against educational institutions that serve diverse student populations, many of whom bear no responsibility for institutional investment decisions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 4795, 119th Congress",
-      "Committee Report 2026-06-25",
-      "Congressional Record Vol. 172",
-      "First Amendment jurisprudence on compelled speech"
-    ]
-  },
-  {
-    "id": 913,
-    "sourceId": "cg:119-HR-9752",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9752?format=json",
-    "branch": "Congress",
-    "date": "Aug 1",
-    "dateISO": "2026-08-01",
-    "title": "HR 9752: Protecting Home-Based Care for Rural Veterans Act of 2026",
-    "score": -15,
-    "snapshot": "HR 9752 proposes expanded home-based care coverage for rural veterans but remains in committee with no cost analysis, implementation timeline, or eligibility criteria publicly available. The bill has not advanced beyond referral stage.",
-    "verdict": "// VERDICT: Without cost estimates, eligibility parameters, or evidence of rural care access gaps, this proposal offers aspirational benefits while creating undefined fiscal obligations.",
-    "detail": "This legislation targets a sympathetic population—rural veterans requiring home care—but provides no measurable framework for evaluation. <strong>No Congressional Budget Office score exists, no implementation mechanism is specified, and the bill has stalled in committee for over two weeks without hearings or markup.</strong> While home-based care can reduce institutional costs in some scenarios, rural healthcare delivery faces documented workforce shortages and infrastructure limitations that the bill does not address. The absence of means-testing, cost caps, or program sunset provisions creates open-ended liability. Rural veteran care access deserves attention, but legislation without operational specifics or fiscal guardrails represents symbolic policymaking rather than effective governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9752, 119th Congress",
-      "House Committee on Veterans' Affairs referral, July 2026",
-      "VA Office of Rural Health reports (general)"
     ]
   }
 ]
