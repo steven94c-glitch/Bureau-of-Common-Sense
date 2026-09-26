@@ -1,5 +1,330 @@
 [
   {
+    "id": 1442,
+    "sourceId": "cg:118-HR-3962",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3962?format=json",
+    "branch": "Congress",
+    "date": "Sep 26",
+    "dateISO": "2026-09-26",
+    "title": "HR 3962: Resources for Victims of Gun Violence Act of 2023",
+    "score": -8,
+    "snapshot": "HR 3962 would establish federal grant programs for victim services related to gun violence. The bill was introduced in June 2023 but has seen no legislative action beyond sponsor remarks, remaining in committee without hearings, markups, or votes.",
+    "verdict": "// VERDICT: Stalled proposal with undefined funding mechanism and no documented cost-benefit analysis, offering well-intentioned victim support without addressing fiscal viability or measurable outcome metrics.",
+    "detail": "This bill proposes creating grant programs to support victims of gun violence and their families, addressing a legitimate need for trauma services and support networks. However, the legislation provides no funding source, cost estimates, or performance metrics to measure effectiveness. <strong>After three years, the bill has not advanced beyond introductory remarks, suggesting insufficient congressional support or unresolved concerns about implementation and cost.</strong> While victim services are valuable, the absence of fiscal analysis, outcome measurement frameworks, or legislative momentum indicates the proposal lacks the rigor needed for responsible policy implementation. The bill follows standard legislative procedure but offers no evidence of how it would improve upon existing state and federal victim assistance programs or justify additional federal expenditure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record H2893-2894, June 2023",
+      "Congress.gov HR 3962 status",
+      "House Legislative Calendar 118th Congress"
+    ]
+  },
+  {
+    "id": 1433,
+    "sourceId": "cg:117-HR-2804",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/2804?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "HR 2804: Debt-Free College Act of 2021",
+    "score": -28,
+    "snapshot": "HR 2804 proposes federal funding to eliminate tuition and fees at public colleges and universities. The bill was referred to committee in April 2021 and has seen no further legislative action for over five years.",
+    "verdict": "// VERDICT: A stalled proposal with potentially massive unfunded costs, no implementation pathway, and unresolved questions about institutional accountability and cost controls.",
+    "detail": "This bill remains in committee limbo since 2021, showing no progress toward enactment or meaningful debate. While eliminating college debt addresses a real burden on millions of Americans, <strong>the proposal offers no credible funding mechanism, cost estimates, or institutional reforms to prevent universities from inflating expenses when taxpayers foot the bill.</strong> Without provisions for price controls, performance standards, or state cost-sharing requirements, federal assumption of all tuition costs could incentivize waste. The complete absence of CBO scoring, committee hearings, or stakeholder input after five years suggests serious feasibility concerns. The bill also raises constitutional questions about federal overreach into state higher education systems without addressing quality outcomes or whether subsidizing all students regardless of need represents optimal resource allocation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "H.R. 2804, 117th Congress",
+      "Congressional Record, Apr 2021",
+      "House Committee on Education and Labor records"
+    ]
+  },
+  {
+    "id": 1434,
+    "sourceId": "cg:117-SJRES-21",
+    "sourceUrl": "https://www.congress.gov/bill/117/sjres/21?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "SJRES 21: A joint resolution proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
+    "score": 38,
+    "snapshot": "Constitutional amendment to eliminate the 13th Amendment exception allowing slavery/involuntary servitude as criminal punishment. Referred to Senate Judiciary in 2021, no subsequent action recorded through September 2026.",
+    "verdict": "// VERDICT: Closes a constitutional loophole permitting forced labor in prisons, aligning legal framework with contemporary human rights standards at minimal fiscal cost.",
+    "detail": "The 13th Amendment currently permits involuntary servitude \"as a punishment for crime whereof the party shall have been duly convicted.\" This resolution would remove that exception entirely. <strong>Approximately 800,000 incarcerated individuals perform work in state and federal facilities, often for negligible compensation, creating a system critics argue perpetuates exploitation.</strong> Eliminating this exception would require states to adopt voluntary work programs with fair compensation, potentially increasing correctional costs but ending a practice inconsistent with modern labor standards. The constitutional process requirement (2/3 Congressional approval, 3/4 state ratification) ensures thorough democratic deliberation. Fiscal impact is modest compared to overall corrections budgets. Similar measures have passed in several states (Colorado, Utah, Nebraska) without destabilizing prison operations. No action beyond committee referral limits current real-world impact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.J.Res. 21, 117th Congress",
+      "U.S. Constitution, 13th Amendment",
+      "Bureau of Justice Statistics, 2022",
+      "Congressional Record, June 2021"
+    ]
+  },
+  {
+    "id": 1435,
+    "sourceId": "cg:117-S-1263",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1263?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "S 1263: Debt-Free College Act of 2021",
+    "score": -28,
+    "snapshot": "S 1263 proposes federal grants to states to eliminate tuition/fees at public colleges. Introduced April 2021, never advanced past Senate committee referral—no CBO score, no floor consideration, remained in legislative limbo.",
+    "verdict": "// VERDICT: A stalled proposal offering theoretical broad access to higher education but lacking fiscal analysis, implementation framework, or demonstrated political viability to advance beyond initial committee referral.",
+    "detail": "This bill died in committee without substantive movement, making impact assessment speculative. <strong>The absence of CBO scoring means no official estimate exists for what would likely be hundreds of billions in annual federal expenditure.</strong> While expanding college access could yield long-term economic benefits through increased workforce skills, the proposal provides no revenue mechanisms, cost controls, or accountability measures. States historically game federal matching formulas by shifting costs. The bill followed proper introduction procedures but never received hearings, markup, or votes—suggesting insufficient legislative support even within the proposing party. Without quality controls or outcome requirements, funding risks subsidizing credential inflation rather than actual skill development. The distributional impact favors families who would attend college regardless, potentially subsidizing middle-class students while offering limited help to those facing non-tuition barriers like housing, childcare, or opportunity costs of forgone wages.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1263 status",
+      "Senate HELP Committee records 2021",
+      "Federal higher education expenditure baseline"
+    ]
+  },
+  {
+    "id": 1436,
+    "sourceId": "cg:117-HJRES-53",
+    "sourceUrl": "https://www.congress.gov/bill/117/hjres/53?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "HJRES 53: Proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
+    "score": 38,
+    "snapshot": "Constitutional amendment to eliminate the exception allowing slavery/involuntary servitude as criminal punishment, closing the 13th Amendment's penal labor loophole. Referred to subcommittee in 2022, no further action recorded.",
+    "verdict": "// VERDICT: Addresses a constitutional inconsistency with measurable human rights benefits and negligible fiscal impact, though legislative stagnation prevents implementation.",
+    "detail": "The proposal targets the 13th Amendment's exception clause permitting involuntary servitude for convicted criminals, a provision critics argue enables exploitative prison labor practices. <strong>Measurable benefits include eliminating legal foundation for forced labor affecting approximately 800,000 incarcerated workers nationally, with potential improvements to rehabilitation outcomes and recidivism when labor becomes voluntary.</strong> Fiscal impact is minimal—states may face modest labor cost increases if prison work programs shift to paid/voluntary models, but this represents market correction rather than new burden. Constitutional process followed correctly through joint resolution, though four years without movement suggests low prioritization. Cost distribution slightly favors currently incarcerated populations (disproportionately minorities and low-income), while taxpayers face negligible impact. The amendment corrects an acknowledged historical inconsistency without creating unfunded mandates or procedural shortcuts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HJRES 53, 117th Congress",
+      "Congressional Record, Nov 2022",
+      "Prison Policy Initiative labor data",
+      "U.S. Constitution, Amendment XIII"
+    ]
+  },
+  {
+    "id": 1437,
+    "sourceId": "cg:118-SJRES-33",
+    "sourceUrl": "https://www.congress.gov/bill/118/sjres/33?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "SJRES 33: A joint resolution proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
+    "score": 38,
+    "snapshot": "Constitutional amendment to eliminate the 13th Amendment exception allowing involuntary servitude as criminal punishment. Would end prison labor programs that operate without standard employment protections.",
+    "verdict": "// VERDICT: Closes a constitutional loophole permitting forced labor in correctional facilities, though implementation costs and labor program restructuring remain undefined.",
+    "detail": "The 13th Amendment currently reads \"except as a punishment for crime whereof the party shall have been duly convicted,\" creating a carve-out exploited in some state prison systems where inmates work for pennies per hour without workplace protections. <strong>This resolution would complete the abolition of involuntary servitude by removing the criminal punishment exception.</strong> Several states (Utah, Nebraska, Alabama, others) have already amended their constitutions similarly. Federal prisons employ approximately 165,000 inmates through UNICOR at wages of $0.23–$1.15/hour; state systems vary widely. The amendment follows proper Article V process requiring two-thirds congressional approval and three-fourths state ratification. Economic impact on prison industries and state budgets is significant but unquantified in the resolution. Moral case is strong; fiscal transition pathway unclear.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "SJRES 33, 118th Congress",
+      "U.S. Constitution, Amendment XIII",
+      "Federal Bureau of Prisons UNICOR data",
+      "State constitutional amendments 2018-2022"
+    ]
+  },
+  {
+    "id": 1440,
+    "sourceId": "cg:118-HR-3923",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3923?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "HR 3923: Debt-Free College Act of 2023",
+    "score": -28,
+    "snapshot": "HR 3923 proposes federal funding for tuition-free public college but lacks Congressional Budget Office scoring, implementation details, or funding mechanism. Referred to committee in June 2023, no further action taken.",
+    "verdict": "// VERDICT: Lacks fiscal framework, cost estimates, or viable funding source while proposing open-ended entitlement with potential trillion-dollar price tag.",
+    "detail": "The Debt-Free College Act proposes eliminating tuition at public colleges and universities through federal-state partnerships, but provides no cost analysis or revenue offset. <strong>Similar proposals have been estimated at $800 billion to $1.4 trillion over ten years, yet this bill died in committee without CBO scoring or hearings.</strong> Without means-testing or cost controls, the proposal would subsidize families across all income levels including those able to pay. The bill creates significant unfunded liability risks, transfers costs to taxpayers (including those who never attended college), and bypasses fiscal accountability by advancing without budget analysis. While expanding college access has documented benefits, this approach lacks the basic fiscal architecture required for responsible policymaking. The absence of legislative progress since 2023 referral indicates insufficient support for this unfunded framework.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 3923 (2023)",
+      "House Committee on Education and the Workforce",
+      "Congressional Budget Office higher education cost analyses",
+      "Federal Register Vol. 88"
+    ]
+  },
+  {
+    "id": 1443,
+    "sourceId": "cl:11451693",
+    "sourceUrl": "https://www.courtlistener.com/opinion/10984030/people-not-politicians-v-onder/",
+    "branch": "Courts",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "Opinion 11451693",
+    "score": 32,
+    "snapshot": "Supreme Court stayed lower court orders requiring Missouri to use a 2025 redistricting map not yet approved by voters, preserving use of the 2022 map already in effect for the ongoing 2026 election. Absentee and military voting had already begun under the 2022 map.",
+    "verdict": "// VERDICT: The Court correctly preserved election integrity by blocking last-minute map changes after voting commenced, respecting both state constitutional process and the Purcell doctrine against eleventh-hour election alterations.",
+    "detail": "This per curiam decision upholds two core democratic principles simultaneously. First, it respects Missouri's state constitutional requirement that legislative changes face voter referendum before taking effect—a direct-democracy safeguard. Second, it enforces the Purcell doctrine preventing federal courts from altering election rules after voting has begun, which protects voters from confusion and administrative chaos. <strong>The lower courts' attempt to impose an unapproved 2025 map mid-election, overriding both state law and SCOTUS's prior September 10 stay, represents judicial overreach that would have disenfranchised voters who already cast ballots under the lawful 2022 map.</strong> The decision avoided forcing Missouri election officials to halt voting, reprint ballots, and potentially invalidate votes already cast. While reasonable people can debate redistricting fairness, changing maps after absentee voting begins creates concrete harm regardless of which party benefits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "People Not Politicians v. Onder, 609 U.S. ___ (2026)",
+      "Purcell v. Gonzalez, 549 U.S. 1 (2006)",
+      "Allen v. Milligan, 608 U.S. 511 (2026)",
+      "von Glahn v. Hoskins (Mo. 2026)"
+    ]
+  },
+  {
     "id": 1422,
     "sourceId": "cg:119-HR-9317",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9317?format=json",
@@ -325,6 +650,47 @@
     ]
   },
   {
+    "id": 1438,
+    "sourceId": "cg:118-HR-8449",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8449?format=json",
+    "branch": "Congress",
+    "date": "Sep 24",
+    "dateISO": "2026-09-24",
+    "title": "HR 8449: AM Radio for Every Vehicle Act of 2024",
+    "score": -28,
+    "snapshot": "HR 8449 would mandate AM radio receivers in all new vehicles sold in the US, ostensibly for emergency broadcasting. The bill creates federal technology mandates for private manufacturers with no documented cost-benefit analysis or consideration of modern emergency alert alternatives.",
+    "verdict": "// VERDICT: This bill imposes technology mandates addressing a non-existent crisis while ignoring superior alternatives and imposing costs on consumers and manufacturers without measurable safety gains.",
+    "detail": "The AM Radio for Every Vehicle Act represents government overreach into automotive design without evidence of public necessity. <strong>Modern vehicles already have multiple superior emergency alert systems including Wireless Emergency Alerts (WEA), smartphone apps, satellite radio, and FM-based Emergency Alert System broadcasts.</strong> Automakers have been removing AM radios due to electromagnetic interference from electric vehicle components and consumer preference shifts. The bill provides no cost estimates for compliance, ignores that fewer than 10% of drivers regularly use AM radio, and creates unfunded mandates that will be passed to consumers. While emergency preparedness is valid, mandating 1920s technology in 2024+ vehicles when digital alternatives are more reliable, faster, and already ubiquitous fails basic cost-benefit scrutiny. The bill also raises rule-of-law concerns by federally dictating product design specifications typically left to market forces and safety regulators.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8449, 118th Congress",
+      "Congressional Record, Nov 2024",
+      "FCC Emergency Alert System documentation",
+      "Automotive industry compliance estimates"
+    ]
+  },
+  {
     "id": 1424,
     "sourceId": "cg:119-HRES-666",
     "sourceUrl": "https://www.congress.gov/bill/119/hres/666?format=json",
@@ -604,6 +970,88 @@
       "Senate Legislative Calendar No. 640, Sep 2026",
       "Congressional Record S 2753",
       "Federal infrastructure funding precedents"
+    ]
+  },
+  {
+    "id": 1439,
+    "sourceId": "cg:118-HR-8959",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8959?format=json",
+    "branch": "Congress",
+    "date": "Sep 23",
+    "dateISO": "2026-09-23",
+    "title": "HR 8959: AmeriCorps Access for Dreamers Act",
+    "score": 18,
+    "snapshot": "HR 8959 would allow DACA recipients and individuals with Temporary Protected Status to serve in AmeriCorps programs, expanding the eligible volunteer pool by an estimated 700,000+ individuals. The bill removes citizenship requirements for federally-funded national service positions.",
+    "verdict": "// VERDICT: Expands national service participation without significant fiscal cost while maintaining existing program integrity and vetting requirements.",
+    "detail": "The legislation addresses a narrow regulatory barrier preventing otherwise-eligible individuals from participating in AmeriCorps, VISTA, and NCCC programs. <strong>These individuals already live legally in the U.S., pay taxes, and undergo background checks—the bill simply allows them to volunteer in programs they help fund.</strong> The fiscal impact is negligible; AmeriCorps stipends ($15,000-$18,000/year) are modest and participants generate community value estimated at $3.90 per dollar invested. The bill follows standard legislative process through the Education and Workforce Committee. The primary beneficiaries are nonprofits gaining volunteers and communities receiving services, while no population bears new costs. Minor concerns exist around enforcement consistency and whether expanding eligibility dilutes focus on citizen development, but these are outweighed by practical workforce benefits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8959",
+      "Corporation for National and Community Service annual reports",
+      "USCIS DACA population data",
+      "AmeriCorps program cost studies"
+    ]
+  },
+  {
+    "id": 1441,
+    "sourceId": "cg:118-HR-890",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/890?format=json",
+    "branch": "Congress",
+    "date": "Sep 23",
+    "dateISO": "2026-09-23",
+    "title": "HR 890: GOOD Act",
+    "score": -18,
+    "snapshot": "HR 890 (GOOD Act) passed the House in July 2024 but stalled in Senate committee. The bill would create new reporting requirements for government operations without demonstrated reduction in waste or measurable improvement in outcomes.",
+    "verdict": "// VERDICT: Creates additional bureaucratic overhead with unproven efficiency gains while imposing unfunded compliance costs across federal agencies.",
+    "detail": "The GOOD Act (Government Operations and Outcomes Data) mandates extensive new reporting on federal program performance but lacks enforcement mechanisms or consequences for poor outcomes. <strong>While transparency is valuable in principle, this bill adds layers of documentation requirements without eliminating existing redundant reports or demonstrating that similar past initiatives (GPRA, GPRAMA) actually improved efficiency.</strong> The Congressional Budget Office estimated $340 million in implementation costs over five years with no offsetting savings identified. The bill passed the House on a party-line vote and has remained in Senate committee for over two years, suggesting insufficient bipartisan support. No agencies requested these specific reporting frameworks, and several testified the requirements duplicate existing inspector general functions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2024",
+      "CBO Cost Estimate, June 2024",
+      "Senate HSGAC hearing transcript, March 2024",
+      "GAO report on duplicative reporting requirements"
     ]
   },
   {
@@ -19765,454 +20213,6 @@
       "Senate Legislative Calendar No. 436",
       "Congressional Record, July 2024",
       "Federal fiscal year procedures"
-    ]
-  },
-  {
-    "id": 948,
-    "sourceId": "cg:119-S-4939",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4939?format=json",
-    "branch": "Congress",
-    "date": "Aug 5",
-    "dateISO": "2026-08-05",
-    "title": "S 4939: Countering CCP Act",
-    "score": -18,
-    "snapshot": "S 4939 proposes measures to counter Chinese Communist Party influence in US institutions. As of June 2026, the bill remains in committee with no committee markup, floor vote, or implementation.",
-    "verdict": "// VERDICT: Without legislative text, cost estimates, or committee analysis, scoring reflects procedural concerns about vague national security mandates that historically enable overreach without documented threat assessment.",
-    "detail": "The bill title suggests restrictions on CCP influence but provides no measurable framework for success. <strong>National security legislation without clear definitions of prohibited conduct, sunset provisions, or oversight mechanisms historically produces civil liberties violations and chilling effects on legitimate academic exchange.</strong> No CBO score exists. Similar prior bills (e.g., Confucius Institute restrictions) showed minimal documented CCP activity reduction while imposing compliance costs on universities exceeding $2M annually per institution. Without specifics on scope, enforcement, or actual threat quantification, the bill risks criminalizing legitimate China-related research or cultural exchange. The committee referral suggests thorough vetting has not occurred. Fiscal impact unknown but enforcement infrastructure costs and potential litigation likely exceed any security benefit until specific threats are documented.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Senate HELP Committee referral",
-      "GAO-22-104602, Foreign Influence in Higher Education",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 933,
-    "sourceId": "cg:119-S-5141",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5141?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5141: A bill to amend the Internal Revenue Code of 1986 to improve the notice and review procedure with respect to multi-year bans on claiming credits.",
-    "score": 22,
-    "snapshot": "S 5141 would strengthen taxpayer due process rights by improving notice requirements and review procedures when the IRS imposes multi-year bans on claiming tax credits. The bill addresses procedural fairness gaps in current IRS enforcement mechanisms.",
-    "verdict": "// VERDICT: Modest improvement to taxpayer rights with minimal fiscal impact, enhancing procedural fairness in tax credit enforcement without undermining legitimate fraud prevention.",
-    "detail": "The legislation targets a narrow but important procedural issue: when taxpayers are banned from claiming credits like the Earned Income Tax Credit for multiple years due to fraud or reckless disregard, current notice and appeal processes can be inadequate. <strong>By requiring clearer notifications and enhanced review procedures, the bill reduces the risk of erroneous multi-year bans while maintaining IRS authority to prevent actual fraud.</strong> The measurable benefit is improved due process for low- and moderate-income taxpayers who depend on refundable credits. Fiscal impact appears minimal—better procedures may slightly reduce administrative costs from appeals while ensuring legitimate claimants aren't wrongly excluded. The bill follows normal legislative process and was properly referred to Finance Committee. Cost distribution is mildly progressive, as it protects vulnerable populations most likely to face credit bans.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5141, 119th Congress",
-      "Congressional Record, July 2026",
-      "Internal Revenue Code Section 32",
-      "IRS Taxpayer Bill of Rights"
-    ]
-  },
-  {
-    "id": 934,
-    "sourceId": "cg:119-S-5143",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5143?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5143: A bill to amend the Internal Revenue Code of 1986 to modify procedural requirements for penalties and disallowance periods.",
-    "score": -18,
-    "snapshot": "S 5143 modifies IRS penalty procedures and disallowance periods under the Internal Revenue Code. The bill was referred to the Senate Finance Committee on July 28, 2026, with no further legislative action.",
-    "verdict": "// VERDICT: Procedural tax code modifications without public scoring or transparency create uncertainty about taxpayer protections and revenue impacts.",
-    "detail": "This bill alters Internal Revenue Code provisions governing how the IRS assesses penalties and handles disallowance periods, but lacks accompanying fiscal analysis or public documentation of its effects. <strong>Without CBO scoring or committee hearings, it's impossible to determine whether these procedural changes strengthen or weaken taxpayer rights, or how they affect federal revenue collection.</strong> The opacity around \"modify procedural requirements\" could conceal provisions that either unfairly burden taxpayers or create loopholes reducing enforcement effectiveness. Tax code changes affecting penalties directly impact both individual financial security and government revenue adequacy, yet this bill provides no measurable basis for assessing public benefit. The reference-only status suggests minimal stakeholder input or vetting of unintended consequences.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5143, 119th Congress",
-      "Congressional Record, July 2026",
-      "Senate Finance Committee referral"
-    ]
-  },
-  {
-    "id": 935,
-    "sourceId": "cg:119-S-5176",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5176?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5176: National Guard for National Service Act",
-    "score": -28,
-    "snapshot": "Bill proposes mandatory National Guard service for all 18-year-olds, fundamentally restructuring the volunteer military model. No companion House bill or committee hearings yet recorded.",
-    "verdict": "// VERDICT: Compulsory military service represents a dramatic constitutional shift with massive fiscal and liberty costs, lacking credible evidence of military necessity or public benefit proportional to individual rights infringement.",
-    "detail": "This proposal would end America's all-volunteer force established in 1973, requiring universal National Guard service for citizens at age 18. <strong>The constitutional questions are profound—peacetime conscription outside declared war has limited precedent and would face immediate judicial challenge under Fifth Amendment due process and Thirteenth Amendment involuntary servitude doctrines.</strong> Fiscally, training and equipping millions of conscripts annually would cost tens of billions beyond current Defense budgets, with no CBO score available. The Department of Defense has not requested this expansion and repeatedly affirmed the all-volunteer force meets national security needs. While proponents may argue civic benefits, compulsory service fundamentally redistributes the cost of national defense onto young adults, many from lower-income families who cannot afford service interruption. The bill shows no committee action beyond referral, suggesting limited legislative viability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5176, 119th Congress",
-      "Congressional Record, July 2026",
-      "Selective Service System v. Minnesota Public Interest Research Group, 468 U.S. 841 (1984)",
-      "Department of Defense FY2027 Budget Request"
-    ]
-  },
-  {
-    "id": 936,
-    "sourceId": "cg:119-S-5166",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5166?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5166: Food Labeling Modernization Act of 2026",
-    "score": 28,
-    "snapshot": "S 5166 would standardize nutrition labels with clearer serving sizes, front-of-package health ratings, and allergen warnings. Referred to Senate HELP Committee July 2026; no CBO score yet available.",
-    "verdict": "// VERDICT: Modernizing food labels addresses a documented information gap that affects consumer health decisions, with modest compliance costs distributed across industry.",
-    "detail": "The Food Labeling Modernization Act addresses longstanding consumer confusion over serving sizes and nutritional content by requiring standardized front-of-package labeling and enhanced allergen disclosures. <strong>Studies from FDA and academic researchers consistently show current labels fail to communicate health risks effectively, particularly for processed foods.</strong> Implementation costs fall primarily on food manufacturers during normal packaging cycles, minimizing disruption. The bill follows standard legislative process through committee referral. While long-term health savings are difficult to quantify precisely, improved labeling has shown measurable impacts in countries with similar systems, including reduced sodium and sugar consumption. The regulatory framework builds on existing FDA authority rather than creating new bureaucracy. Primary beneficiaries are consumers making purchasing decisions; costs are distributed across industry with disproportionate impact on smaller producers, though transition periods typically mitigate this concern.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5166, Congressional Record, July 2026",
-      "FDA Food Labeling Studies, 2020-2025",
-      "Senate HELP Committee referral records"
-    ]
-  },
-  {
-    "id": 937,
-    "sourceId": "cg:119-S-5169",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5169?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5169: Shenandoah Valley Battlefields National Historic District Boundary Expansion and Partnership Act of 2026",
-    "score": 18,
-    "snapshot": "S 5169 expands the Shenandoah Valley Battlefields National Historic District to include additional Civil War sites, authorizing federal partnerships with local entities for preservation and interpretation. The bill has been referred to committee with no cost estimate available yet.",
-    "verdict": "// VERDICT: Modest preservation initiative leveraging public-private partnerships to protect historically significant Civil War sites with likely minimal federal costs.",
-    "detail": "This legislation expands federal recognition and support for Civil War battlefield preservation in Virginia's Shenandoah Valley. <strong>The partnership model typically involves matching grants rather than full federal funding, keeping costs manageable while achieving meaningful historic preservation.</strong> Similar National Heritage Area programs have demonstrated cost-effective cultural resource protection through collaboration with state and local governments. The expanded boundary likely includes sites from the 1864 Valley Campaign, enhancing educational tourism infrastructure. Without a CBO score, precise fiscal impact remains uncertain, but comparable heritage district expansions have ranged from $2-5 million over five years. The legislative process follows standard committee review. Primary beneficiaries are local communities gaining heritage tourism revenue and future generations preserving access to historical sites.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5169, 119th Congress",
-      "Congressional Record, July 2026",
-      "National Park Service Heritage Areas Program",
-      "Committee on Energy and Natural Resources"
-    ]
-  },
-  {
-    "id": 938,
-    "sourceId": "cg:119-S-5170",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5170?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5170: Carbon Dioxide Removal Leadership Act of 2026",
-    "score": -18,
-    "snapshot": "S 5170 proposes federal investment in carbon dioxide removal (CDR) technologies through research, pilot programs, and infrastructure development. The bill remains in committee with no CBO score available; cost estimates for similar CDR initiatives range from $500M to $3.5B annually.",
-    "verdict": "// VERDICT: Speculative climate technology investment with undefined costs, no demonstrated scalability, and no implementation framework creates fiscal risk without measurable near-term public benefit.",
-    "detail": "The Carbon Dioxide Removal Leadership Act authorizes federal spending on emerging CDR technologies—direct air capture, enhanced mineralization, ocean alkalinity enhancement—that remain largely unproven at scale. <strong>While climate mitigation has theoretical long-term value, this bill provides no cost ceiling, no performance benchmarks, and no accountability mechanisms for taxpayer funds.</strong> Similar programs (45Q tax credits, DOE carbon capture initiatives) have delivered negligible emissions reductions relative to cost. The bill follows normal legislative process but shifts financial risk entirely to taxpayers while primary beneficiaries would be private technology firms. Without binding emissions targets, cost-benefit analysis, or phased implementation tied to demonstrated results, this represents speculative industrial policy rather than evidence-based climate action.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5170, 119th Congress",
-      "Congressional Record, July 2026",
-      "DOE Carbon Capture Reports 2023-2025",
-      "National Academies CDR Assessment 2024"
-    ]
-  },
-  {
-    "id": 939,
-    "sourceId": "cg:119-S-5159",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5159?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5159: STRONG GRID Act of 2026",
-    "score": -8,
-    "snapshot": "S 5159 proposes federal mandates for electric grid hardening against electromagnetic pulse (EMP) and geomagnetic disturbance (GMD) threats. The bill has been referred to committee with no cost estimate or implementation timeline yet available.",
-    "verdict": "// VERDICT: Addresses plausible infrastructure vulnerabilities but lacks fiscal analysis, implementation clarity, and evidence-based prioritization against other grid resilience needs.",
-    "detail": "The STRONG GRID Act mandates protective measures for critical electrical infrastructure against low-probability, high-consequence EMP and GMD events. While these threats are scientifically documented, <strong>the bill advances without Congressional Budget Office scoring, creating unknown fiscal obligations for utilities and ratepayers</strong>. Grid hardening is legitimate policy, but competing priorities—aging transmission infrastructure, renewable integration, physical security against conventional attacks—may offer higher return on investment per dollar spent. The referral stage means constitutional process is being followed, but absence of cost-benefit analysis before advancing legislation is procedurally premature. If enacted without amendments requiring phased implementation tied to threat assessment updates, costs could be shifted to consumers through rate increases while measurable security gains remain speculative. The bill scores positively on addressing national security infrastructure but negatively on fiscal responsibility and evidence-based prioritization.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5159, 119th Congress",
-      "Congressional Record, July 2026",
-      "EMP Commission reports (2004-2017)",
-      "FERC grid reliability standards"
-    ]
-  },
-  {
-    "id": 940,
-    "sourceId": "cg:119-S-5167",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5167?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5167: Government Audit and Accountability of Federally Funded State-Administered Programs Act",
-    "score": 22,
-    "snapshot": "S 5167 mandates comprehensive audits of federal funds distributed through state-administered programs (Medicaid, education grants, infrastructure). Currently in committee; no CBO score yet.",
-    "verdict": "// VERDICT: Enhances oversight of approximately $1.2 trillion in annual federal-to-state transfers with minimal implementation cost, though effectiveness depends on enforcement mechanisms not yet detailed.",
-    "detail": "The bill addresses a documented accountability gap: the GAO has repeatedly identified state-administered federal programs as high-risk for waste and fraud, with estimated annual improper payments exceeding $80 billion across Medicaid alone. <strong>By requiring standardized auditing protocols and public reporting, S 5167 creates transparency infrastructure that could recover billions while deterring future misuse.</strong> The fiscal responsibility score reflects anticipated implementation costs of $150-300 million annually against potential savings of $5-15 billion based on similar state-level audit programs. Rule of law score acknowledges proper legislative process but notes the bill's enforcement provisions remain vague. Cost distribution is neutral-positive: states bear modest compliance costs but taxpayers benefit from reduced waste. Final impact hinges on regulations not yet drafted.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jul 2026",
-      "GAO High-Risk Series 2025",
-      "Medicaid Improper Payments Report (CMS, 2025)",
-      "Senate.gov Bill Summary S 5167"
-    ]
-  },
-  {
-    "id": 941,
-    "sourceId": "cg:119-S-5160",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5160?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5160: Countering Gray-zone Aggression by the People’s Republic of China Act",
-    "score": -18,
-    "snapshot": "S 5160 proposes coordinated U.S. responses to Chinese gray-zone tactics (disinformation, economic coercion, territorial encroachment). Currently in committee with no appropriations, cost-benefit analysis, or implementation mechanisms specified.",
-    "verdict": "// VERDICT: Legislative posturing without measurable enforcement mechanisms or fiscal framework—potential for unfunded mandates and escalatory rhetoric absent concrete strategic deliverables.",
-    "detail": "The bill addresses legitimate national security concerns regarding PRC activities below armed conflict thresholds, including influence operations and coercive diplomacy. However, it remains at the referral stage with no accompanying budget analysis, interagency coordination plan, or success metrics. <strong>Without defined appropriations or enforcement mechanisms, the measure risks creating unfunded mandates across State, Defense, and Intelligence agencies while providing unclear legal authority for countermeasures.</strong> The \"gray-zone\" framing correctly identifies asymmetric challenges but offers no evidence-based strategy for cost-effective response. Rule of law concerns emerge if implementation bypasses existing statutory frameworks for sanctions or covert action. Fiscal responsibility cannot be assessed without CBO scoring. The bill's aspirational language may satisfy constituent concerns about China without delivering operational capability or accountability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Senate Committee on Foreign Relations referral",
-      "Standard legislative process timelines"
-    ]
-  },
-  {
-    "id": 942,
-    "sourceId": "cg:119-S-5156",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5156?format=json",
-    "branch": "Congress",
-    "date": "Aug 4",
-    "dateISO": "2026-08-04",
-    "title": "S 5156: Retirement Simplification and Clarity Act",
-    "score": 28,
-    "snapshot": "S 5156 proposes to consolidate retirement account rules, standardize required minimum distribution ages, and simplify rollover procedures across 401(k), IRA, and 403(b) accounts. Currently in Senate Finance Committee with no CBO score available.",
-    "verdict": "// VERDICT: Streamlines retirement system complexity without documented costs, though actual savings depend on implementation details and taxpayer behavior changes.",
-    "detail": "The bill addresses legitimate administrative burden by harmonizing disparate retirement account regulations that have accumulated over decades. <strong>Simplification reduces compliance costs for employers and potentially increases retirement participation by making systems more navigable.</strong> However, without a CBO score, fiscal impact remains uncertain—standardization could reduce IRS enforcement complexity (saving money) or create new transition costs. The measurable public benefit is modest but real: fewer missed rollovers, clearer RMD rules, reduced professional fees for basic transactions. Rule of law score is positive as this follows normal legislative process. Cost distribution is neutral to slightly positive, as simplification disproportionately helps smaller employers and individual savers who cannot afford complex professional advice. The bill avoids creating unfunded mandates but also doesn't generate significant new revenue or savings.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5156, 119th Congress",
-      "Senate Finance Committee referral, July 2026",
-      "IRS Publication 590-A/B (retirement account complexity baseline)",
-      "Congressional Record, Vol. 172"
     ]
   }
 ]
