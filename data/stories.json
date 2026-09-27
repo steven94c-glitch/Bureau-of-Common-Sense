@@ -1,5 +1,46 @@
 [
   {
+    "id": 1450,
+    "sourceId": "cg:118-S-1893",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1893?format=json",
+    "branch": "Congress",
+    "date": "Sep 26",
+    "dateISO": "2026-09-26",
+    "title": "S 1893: Resources for Victims of Gun Violence Act of 2023",
+    "score": -15,
+    "snapshot": "S 1893 proposes federal grants to support victims of gun violence and their families but remains stalled in committee since June 2023 with no cost estimate, implementation plan, or measurable outcomes defined.",
+    "verdict": "// VERDICT: Without CBO scoring, implementation details, or evidence of cost-effectiveness from similar programs, this unfunded proposal scores negatively despite compassionate intent.",
+    "detail": "This bill authorizes grants for counseling, legal assistance, and support services for gun violence victims—addressing a real need given approximately 48,000 annual gun deaths in the U.S. However, <strong>three years in committee without movement to markup or scoring demonstrates legislative inaction rather than governance.</strong> No cost estimate exists, no success metrics are defined, and no evidence suggests this approach outperforms existing victim compensation programs or community-based initiatives. The absence of fiscal analysis means potential duplication with existing DOJ Office for Victims of Crime grants cannot be assessed. While the intent addresses legitimate suffering, the complete lack of development, oversight mechanisms, or funding strategy represents aspirational legislation without accountability for implementation or outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1893, 118th Congress",
+      "Senate Judiciary Committee records",
+      "CDC WISQARS fatal injury data",
+      "DOJ Office for Victims of Crime programs"
+    ]
+  },
+  {
     "id": 1442,
     "sourceId": "cg:118-HR-3962",
     "sourceUrl": "https://www.congress.gov/bill/118/hr/3962?format=json",
@@ -37,6 +78,88 @@
       "Congressional Record H2893-2894, June 2023",
       "Congress.gov HR 3962 status",
       "House Legislative Calendar 118th Congress"
+    ]
+  },
+  {
+    "id": 1444,
+    "sourceId": "cg:118-HJRES-72",
+    "sourceUrl": "https://www.congress.gov/bill/118/hjres/72?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "HJRES 72: Proposing an amendment to the Constitution of the United States to prohibit the use of slavery and involuntary servitude as a punishment for a crime.",
+    "score": 38,
+    "snapshot": "Constitutional amendment to eliminate the exception in the 13th Amendment that permits slavery and involuntary servitude as criminal punishment. Referred to House Judiciary in June 2023, no further action as of September 2026.",
+    "verdict": "// VERDICT: Closes a constitutional loophole permitting forced labor in prisons, aligning modern practice with stated values at negligible fiscal cost.",
+    "detail": "The 13th Amendment currently permits involuntary servitude for convicted criminals, a provision used to justify unpaid or underpaid prison labor affecting approximately 800,000 incarcerated individuals. <strong>This resolution would eliminate that exception, requiring states to compensate incarcerated workers fairly or make labor genuinely voluntary.</strong> The measurable benefit includes improved rehabilitation outcomes and reduced exploitation, though implementation details remain undefined. Fiscal impact is minimal at federal level; states using prison labor may face modest cost increases but gain workforce development benefits. The amendment follows proper constitutional process requiring two-thirds congressional approval and three-fourths state ratification. Cost distribution is progressive, benefiting a vulnerable population while spreading implementation costs across state budgets. The proposal has stalled in committee for over three years without floor consideration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "H.J.Res.72, 118th Congress",
+      "13th Amendment, U.S. Constitution",
+      "Congressional Record, June 2023",
+      "Bureau of Justice Statistics, Prison Labor Data"
+    ]
+  },
+  {
+    "id": 1449,
+    "sourceId": "cg:118-S-1848",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1848?format=json",
+    "branch": "Congress",
+    "date": "Sep 25",
+    "dateISO": "2026-09-25",
+    "title": "S 1848: Debt-Free College Act of 2023",
+    "score": -28,
+    "snapshot": "S 1848 proposes federal funding to eliminate tuition at public colleges and universities. Introduced June 2023, referred to committee with no further action as of the scoring date (September 2026).",
+    "verdict": "// VERDICT: Fails on fiscal responsibility and cost distribution, offering no credible funding mechanism while shifting massive long-term obligations to taxpayers without addressing underlying cost drivers in higher education.",
+    "detail": "The bill proposes eliminating tuition at public institutions—potentially benefiting millions—but provides no sustainable funding model or cost controls. <strong>Without addressing why college costs have outpaced inflation by 3x over 40 years, this creates a blank check that rewards institutional inefficiency.</strong> The proposal lacks means-testing, meaning wealthy families receive identical subsidies as working-class families. No CBO score exists, but comparable proposals estimate $800 billion to $1.5 trillion over 10 years. The bill remains stalled in committee with no hearings or markup, indicating minimal legislative viability. While increased college access could yield economic returns, the absence of quality standards, cost containment, or workforce alignment means taxpayers fund degrees regardless of labor market value or completion rates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -22,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1848, 118th Congress (2023)",
+      "Senate Committee on HELP referral record",
+      "CBO estimates on similar proposals (2017-2022)",
+      "National Center for Education Statistics tuition data"
     ]
   },
   {
@@ -647,6 +770,169 @@
       "Exec. Order 14248, 90 Fed. Reg. 14006 (2025)",
       "District Court ruling, No. 25-cv-3501 (D.D.C.)",
       "Social Security Act; Privacy Act of 1974"
+    ]
+  },
+  {
+    "id": 1445,
+    "sourceId": "cg:118-HR-5444",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/5444?format=json",
+    "branch": "Congress",
+    "date": "Sep 24",
+    "dateISO": "2026-09-24",
+    "title": "HR 5444: Diesel Emissions Reduction Act of 2023",
+    "score": -18,
+    "snapshot": "HR 5444 would authorize funding for diesel engine retrofits and replacements to reduce emissions. The bill stalled in subcommittee in 2023 and remains inactive as of September 2026, producing no measurable outcomes despite three years passing.",
+    "verdict": "// VERDICT: A well-intentioned environmental measure that has delivered zero public benefit due to legislative inaction, while the diesel fleet it targeted continues operating without upgrades.",
+    "detail": "This bill sought to reduce harmful particulate emissions from older diesel engines through federal grants for retrofits and replacements. <strong>After 37 months in congressional limbo with no floor vote, committee markup, or implementation, the legislation has achieved nothing while diesel emissions continue unabated.</strong> The environmental and health benefits remain purely theoretical. No taxpayer funds were spent (scoring neutrally on fiscal responsibility), but the failure to advance legislation through proper legislative channels represents a dysfunction in the rule of law criterion. The cost of inaction falls disproportionately on communities near diesel corridors—typically lower-income areas—who continue breathing polluted air while Congress fails to act.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sep 2023",
+      "House Committee on Energy and Commerce records",
+      "EPA National Emissions Inventory data"
+    ]
+  },
+  {
+    "id": 1446,
+    "sourceId": "cg:118-S-1669",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1669?format=json",
+    "branch": "Congress",
+    "date": "Sep 24",
+    "dateISO": "2026-09-24",
+    "title": "S 1669: AM Radio for Every Vehicle Act of 2023",
+    "score": -18,
+    "snapshot": "S.1669 would mandate AM radio receivers in all new vehicles sold in the U.S., imposing design requirements on automakers. The bill stalled in committee in 2023 with no recent legislative movement as of September 2026.",
+    "verdict": "// VERDICT: Mandates outdated technology in vehicles at industry expense without demonstrated public safety benefit, failing cost-benefit analysis while creating unfunded private-sector compliance costs.",
+    "detail": "This bill requires manufacturers to install AM radio capability in all new vehicles, citing emergency alert access. However, <strong>modern vehicles already receive Wireless Emergency Alerts via cellular networks, NOAA weather alerts, and multiple digital channels</strong>, making AM radio redundant for public safety. The automotive industry estimates $3.8 billion in compliance costs due to electromagnetic interference shielding required for electric vehicles, costs passed to consumers. No credible analysis demonstrates AM radio provides unique emergency benefits unavailable through existing systems. The mandate favors AM broadcasters economically while imposing design constraints on manufacturers. Congressional authority exists but intervening in product design for marginal safety claims while ignoring fiscal impact represents poor governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1669, 118th Congress",
+      "Senate Legislative Calendar No. 208",
+      "Consumer Technology Association cost analysis, 2023",
+      "FCC Wireless Emergency Alerts documentation"
+    ]
+  },
+  {
+    "id": 1447,
+    "sourceId": "cg:118-S-1332",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1332?format=json",
+    "branch": "Congress",
+    "date": "Sep 24",
+    "dateISO": "2026-09-24",
+    "title": "S 1332: Recognizing the Role of Direct Support Professionals Act",
+    "score": 8,
+    "snapshot": "S.1332 formally recognizes Direct Support Professionals (DSPs) who provide care for individuals with disabilities, establishing a National Recognition Week and encouraging workforce development without creating new federal spending requirements.",
+    "verdict": "// VERDICT: Symbolic recognition of critical care workforce with minimal fiscal impact, though lacks enforcement mechanisms to address documented wage and retention crises.",
+    "detail": "Direct Support Professionals serve approximately 7 million Americans with intellectual and developmental disabilities, yet face median wages below $15/hour and annual turnover rates exceeding 40%. <strong>This resolution acknowledges their role and encourages states to improve training and compensation, but creates no federal mandate or funding stream to address the workforce crisis.</strong> The bill scores positively for raising awareness of an undervalued profession critical to vulnerable populations and follows proper legislative process. However, it provides no measurable intervention on wage stagnation, benefits gaps, or staffing shortages that directly compromise care quality. The symbolic nature limits public benefit while avoiding fiscal cost. Cost distribution remains neutral as the resolution imposes no requirements on states or employers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1332, 118th Congress",
+      "Bureau of Labor Statistics, Healthcare Support Occupations 2024",
+      "National Core Indicators workforce surveys",
+      "Congressional Record, March 2024"
+    ]
+  },
+  {
+    "id": 1448,
+    "sourceId": "cg:118-S-2195",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/2195?format=json",
+    "branch": "Congress",
+    "date": "Sep 24",
+    "dateISO": "2026-09-24",
+    "title": "S 2195: Diesel Emissions Reduction Act of 2023",
+    "score": 22,
+    "snapshot": "Reauthorizes EPA grant programs to retrofit or replace older diesel engines in trucks, buses, and equipment, reducing particulate matter and NOx emissions. Program has historically achieved 2-3x health benefit per dollar spent.",
+    "verdict": "// VERDICT: Evidence-based pollution reduction with documented cost-effectiveness, though modest scale limits overall impact.",
+    "detail": "The Diesel Emissions Reduction Act reauthorizes proven EPA grant programs targeting high-emission diesel engines in freight, transit, and off-road equipment. <strong>Historical program data shows every dollar invested yields $2-3 in health benefits through reduced asthma, cardiovascular events, and premature deaths from particulate pollution.</strong> Environmental justice communities near ports and freight corridors see disproportionate benefits. Fiscal impact is modest—typical authorization around $100M annually against documented health savings exceeding $200M. Process follows standard legislative authorization through Senate Environment Committee. Primary limitation is scale: addresses only fraction of legacy diesel fleet. Cost-sharing requirements ensure state/local buy-in rather than pure federal expenditure. No significant unfunded mandates or constitutional concerns.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "EPA Diesel Emissions Quantifier (DEQ) database",
+      "Congressional Research Service, Clean Air Act Programs",
+      "S. 2195, 118th Congress",
+      "Senate Committee on Environment and Public Works report"
     ]
   },
   {
@@ -19931,288 +20217,6 @@
       "Congressional Record, Feb 2024",
       "TSA TWIC Program Guidelines",
       "Bureau of Justice Statistics recidivism data"
-    ]
-  },
-  {
-    "id": 949,
-    "sourceId": "cg:119-HR-9540",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9540?format=json",
-    "branch": "Congress",
-    "date": "Aug 7",
-    "dateISO": "2026-08-07",
-    "title": "HR 9540: Community Housing Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9540 referred to committees in June 2026 with no further action. No text, CBO score, or substantive details available to assess actual policy impact or cost.",
-    "verdict": "// VERDICT: Insufficient legislative progress to evaluate outcomes; bill remains in committee with no scoring, hearings, or documented provisions.",
-    "detail": "This bill exists only as a committee referral with no publicly available text, cost estimate, or hearing record as of August 2026. <strong>Without knowing the specific mechanisms, funding levels, eligibility criteria, or implementation details, any claimed benefit to community housing is purely speculative.</strong> The dual committee referral suggests tax and appropriations components, but the absence of CBO analysis means fiscal impact is unknown. Committee referrals following standard House procedure satisfy basic legislative norms, but lack of progress over six weeks indicates no urgency or stakeholder consensus. Generic housing bills can range from effective supply incentives to unfunded mandates that shift costs to states or future taxpayers—this one provides no evidence either way.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9540 status",
-      "House Committee on Financial Services referral log",
-      "Congressional Record, June 30, 2026"
-    ]
-  },
-  {
-    "id": 957,
-    "sourceId": "cg:119-S-3061",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3061?format=json",
-    "branch": "Congress",
-    "date": "Aug 6",
-    "dateISO": "2026-08-06",
-    "title": "S 3061: HUD Transparency Act of 2025",
-    "score": -8,
-    "snapshot": "S 3061 requires HUD to publicly disclose detailed information about grant recipients, project outcomes, and spending data within 90 days of obligation. Bill remains in committee with no floor action as of October 2025.",
-    "verdict": "// VERDICT: Transparency proposal with minimal implementation costs stalled in committee without measurable impact on HUD operations or public accountability.",
-    "detail": "The HUD Transparency Act mandates disclosure requirements that could improve oversight of federal housing expenditures, addressing a legitimate governance gap. <strong>However, the bill has not advanced beyond initial committee referral in ten months, producing zero actual transparency gains while consuming legislative resources.</strong> Without passage, this represents aspirational policy rather than actionable reform. The administrative costs of compliance would be modest (estimated under $5M annually for database infrastructure), but no appropriation has been made. Process follows normal legislative procedure with no constitutional concerns. The theoretical beneficiaries—taxpayers and housing program participants—receive no value from a stalled bill, while HUD operations continue without the mandated disclosures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 3061, 119th Congress",
-      "Senate Banking Committee referral, Oct 2025",
-      "Congressional Record"
-    ]
-  },
-  {
-    "id": 958,
-    "sourceId": "cg:119-S-3097",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3097?format=json",
-    "branch": "Congress",
-    "date": "Aug 6",
-    "dateISO": "2026-08-06",
-    "title": "S 3097: Health Information Privacy Reform Act",
-    "score": -18,
-    "snapshot": "S 3097 proposes reforms to health information privacy rules but lacks specific implementation details or cost analysis in available legislative text. The bill remains in committee calendar without floor consideration or CBO scoring.",
-    "verdict": "// VERDICT: Insufficient legislative development prevents meaningful assessment of privacy protections versus compliance burdens and enforcement mechanisms.",
-    "detail": "Without enacted text, floor debate, or committee reports detailing S 3097's provisions, any privacy reform evaluation remains speculative. Health information privacy involves substantial compliance infrastructure—HIPAA modifications typically require multi-year implementation periods and impose costs on healthcare providers, insurers, and technology vendors. <strong>Calendar placement without accompanying cost-benefit analysis suggests the bill may expand regulatory requirements without quantifying impacts on healthcare delivery or patient outcomes.</strong> Privacy enhancements could benefit Americans if they address genuine vulnerabilities like data breaches or unauthorized sharing, but overly prescriptive rules often increase administrative overhead without proportional security gains. The absence of CBO scoring or GAO review at this legislative stage indicates premature evaluation. Rule of law concerns are minimal for bills in normal committee process, though eventual passage would require constitutional adherence to Commerce Clause limitations on federal health regulation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 538, Aug 2026",
-      "Congress.gov S 3097 status",
-      "HIPAA regulatory framework (45 CFR Parts 160, 164)"
-    ]
-  },
-  {
-    "id": 960,
-    "sourceId": "cg:119-S-4954",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4954?format=json",
-    "branch": "Congress",
-    "date": "Aug 6",
-    "dateISO": "2026-08-06",
-    "title": "S 4954: Citizenship Act of 2026",
-    "score": -18,
-    "snapshot": "S 4954 proposes comprehensive immigration reform including a pathway to citizenship for approximately 11 million undocumented immigrants, increased border security funding, and reformed legal immigration quotas. The bill remains in committee with no CBO score available.",
-    "verdict": "// VERDICT: Without cost estimates or enforcement mechanisms defined, the bill presents substantial fiscal uncertainty while addressing a longstanding policy gap through untested statutory frameworks.",
-    "detail": "The Citizenship Act represents a major legislative proposal addressing immigration status for millions while expanding border infrastructure and revising visa systems. <strong>Absent a CBO score or detailed implementation timeline, the fiscal impact remains speculative, with historical estimates for similar proposals ranging from $25-200 billion over ten years depending on enforcement costs and economic contributions from newly legalized workers.</strong> The pathway to citizenship component could generate tax revenue and reduce underground economy activity, but enforcement provisions lack specificity. The bill faces constitutional scrutiny regarding executive vs. legislative authority over immigration, and cost distribution questions arise around who funds integration services, potential labor market effects on current citizens, and long-term entitlement obligations. Early committee stage means procedural legitimacy is intact, but substantive details require significant development.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 4954",
-      "Senate Judiciary Committee referral, Jul 2026",
-      "Historical CBO immigration analyses 2013-2021"
-    ]
-  },
-  {
-    "id": 961,
-    "sourceId": "cg:119-HR-6380",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6380?format=json",
-    "branch": "Congress",
-    "date": "Aug 6",
-    "dateISO": "2026-08-06",
-    "title": "HR 6380: Chiricahua National Park Act",
-    "score": 32,
-    "snapshot": "HR 6380 redesignates Chiricahua National Monument in Arizona as a National Park, expanding boundaries by approximately 16,000 acres and incorporating adjacent wilderness areas. The bill authorizes land acquisitions from willing sellers and increases federal protection for the Chiricahua Apache homeland.",
-    "verdict": "// VERDICT: Establishes stronger conservation protections and local economic benefits through enhanced park status while following standard legislative process, though long-term maintenance obligations require modest increased appropriations.",
-    "detail": "The Chiricahua National Park Act converts a long-established monument into a national park, a designation change that typically increases visitation 15-30% based on historical precedent at similar redesignations. <strong>The expansion incorporates ecologically significant lands through voluntary acquisition only, avoiding eminent domain concerns while protecting critical wildlife corridors.</strong> Fiscal impact is modest—national parks generate approximately $10 in local economic activity per $1 of federal investment according to National Park Service economic studies. The bill passed committee with bipartisan support following standard legislative procedures. Primary costs involve increased NPS staffing and infrastructure maintenance, estimated at $3-5 million annually. The legislation includes consultation requirements with the San Carlos Apache Tribe and Fort Sill Apache Tribe, addressing historical and cultural significance. Cost distribution favors local Arizona communities through tourism revenue while spreading federal maintenance costs across general appropriations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 6380, 119th Congress",
-      "Senate Energy and Natural Resources Committee Report, July 2026",
-      "National Park Service Economic Impact Studies",
-      "Federal Register"
-    ]
-  },
-  {
-    "id": 950,
-    "sourceId": "cg:119-HR-7784",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7784?format=json",
-    "branch": "Congress",
-    "date": "Aug 6",
-    "dateISO": "2026-08-06",
-    "title": "HR 7784: Secure Tracks Act",
-    "score": -8,
-    "snapshot": "HR 7784, the Secure Tracks Act, was introduced in the House and referred to subcommittee in March 2026. No further legislative action, amendments, cost estimates, or implementation details are publicly available as of August 2026.",
-    "verdict": "// VERDICT: Insufficient information exists to assess substantive impact; the bill remains in preliminary committee review with no scoring, hearings, or documented provisions accessible for evaluation.",
-    "detail": "The Secure Tracks Act has not advanced beyond subcommittee referral after five months, providing no substantive record for analysis. <strong>Without committee reports, CBO scoring, text amendments, or stakeholder testimony, any assessment of public benefit, fiscal impact, procedural compliance, or distributional effects would be speculative.</strong> The title suggests rail security provisions, but congressional titles often mask actual content. Standard legislative process allows extended committee review, so no procedural violation is evident, though lack of movement may indicate low priority, contentious provisions, or strategic delay. The stalled status prevents meaningful scoring on measurable outcomes or fiscal responsibility. Minimal negative score reflects opportunity cost of congressional time with no documented progress toward addressing any identified rail security gap.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7784",
-      "House Transportation Committee referral, Mar 2026",
-      "Congress.gov bill status"
-    ]
-  },
-  {
-    "id": 944,
-    "sourceId": "cg:118-S-4678",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4678?format=json",
-    "branch": "Congress",
-    "date": "Aug 5",
-    "dateISO": "2026-08-05",
-    "title": "S 4678: Legislative Branch Appropriations Act, 2025",
-    "score": -8,
-    "snapshot": "S 4678 funds Legislative Branch operations for FY2025, covering congressional salaries, support agencies, and administrative costs. The bill stalled in Senate with no floor action since July 2024 calendar placement.",
-    "verdict": "// VERDICT: Routine appropriation delayed 13 months past fiscal year start demonstrates institutional dysfunction that undermines basic governmental operations.",
-    "detail": "This Legislative Branch appropriations bill follows standard constitutional process but exemplifies severe congressional breakdown. <strong>Placing a routine FY2025 funding bill on the calendar in July 2024, then failing to act for over a year while the fiscal year ended September 2024, represents fundamental failure of basic governance.</strong> The delay likely forced reliance on continuing resolutions, creating budgetary uncertainty and inefficiency. While the bill itself funds legitimate constitutional functions (congressional operations, GAO, Library of Congress), the 13-month paralysis between calendar placement and the August 2026 review date suggests either complete abandonment or displacement by crisis management. This pattern of chronic appropriations failure increases costs through short-term funding mechanisms and prevents rational resource planning across legislative support agencies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4678, 118th Congress",
-      "Senate Legislative Calendar No. 436",
-      "Congressional Record, July 2024",
-      "Federal fiscal year procedures"
     ]
   }
 ]
