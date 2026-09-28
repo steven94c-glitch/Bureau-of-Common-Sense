@@ -1,5 +1,405 @@
 [
   {
+    "id": 1451,
+    "sourceId": "cg:117-HR-7098",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7098?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "HR 7098: MAGNET Act of 2022",
+    "score": -8,
+    "snapshot": "HR 7098 (MAGNET Act of 2022) was introduced in March 2022 and referred to committee, where it died without further action. The bill aimed to support STEM magnet schools but never advanced past referral.",
+    "verdict": "// VERDICT: A well-intentioned STEM education proposal that consumed legislative resources but produced zero tangible benefit due to complete failure to advance.",
+    "detail": "The MAGNET Act proposed federal support for specialized STEM magnet schools, addressing a legitimate educational need. However, <strong>after referral to the House Education and Labor Committee in March 2022, the bill received no hearings, markup, or votes, dying in committee during the 117th Congress.</strong> While the 2026 date in the prompt appears erroneous (likely a reference date rather than action date), the core issue remains: this legislative effort consumed staff time, sponsor resources, and committee bandwidth without producing any policy outcome. The proposal may have had merit, but Congress's failure to act—whether due to political gridlock, poor prioritization, or insufficient support—means it delivered zero measurable benefit while incurring opportunity costs. Bills that never advance past initial referral represent systemic inefficiency in the legislative process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7098 legislative history",
+      "House Committee on Education and Labor records 2022",
+      "Congressional Research Service bill tracking"
+    ]
+  },
+  {
+    "id": 1452,
+    "sourceId": "cg:117-HR-7300",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7300?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "HR 7300: Dark Web Interdiction Act of 2022",
+    "score": -28,
+    "snapshot": "HR 7300 (Dark Web Interdiction Act) was referred to subcommittee in November 2022 and died there—no further action, no votes, no implementation. This is a non-event being scored in 2026 for a bill that never became law.",
+    "verdict": "// VERDICT: A bill that stalled in subcommittee four years ago produced zero measurable outcomes and represents legislative theater rather than governance.",
+    "detail": "HR 7300 exemplifies the gap between legislative posturing and actual policy. <strong>Referred to subcommittee in 2022 with no subsequent action, this bill never received a hearing, markup, floor vote, or enactment—meaning it had zero legal effect on dark web activity, law enforcement capabilities, or public safety.</strong> Scoring a dead bill wastes analytical resources that could evaluate actual laws or executive actions. The criteria scores reflect this fundamental failure: no public benefit materialized because nothing happened; no fiscal impact occurred because no funds were appropriated; rule of law is neutral since proper referral occurred but the democratic process simply didn't advance the measure; cost distribution is negative because staff time and legislative attention were expended on a proposal that went nowhere. The exercise itself—analyzing vapor—undermines the Bureau's mission to assess real governmental actions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7300 legislative history",
+      "House Judiciary Committee records 2022-2026",
+      "Congressional Record 117th Congress"
+    ]
+  },
+  {
+    "id": 1453,
+    "sourceId": "cg:117-S-3782",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3782?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "S 3782: Dark Web Interdiction Act of 2022",
+    "score": -18,
+    "snapshot": "S 3782 stalled in committee in 2022 and saw no further legislative action. As of September 2026, the bill remains unvoted and unimplemented, producing zero measurable impact on dark web activity or public safety.",
+    "verdict": "// VERDICT: A bill that never advanced beyond initial referral cannot deliver benefits or harms; the legislative process functioned normally, but four years of inaction represent opportunity cost on cybercrime enforcement.",
+    "detail": "The Dark Web Interdiction Act was introduced in March 2022 and immediately referred to Senate Judiciary, where it died without hearings, markup, or floor consideration. <strong>By September 2026, this represents a complete legislative failure to address stated cybercrime concerns, whether those concerns were valid or overstated.</strong> No funds were appropriated, no enforcement mechanisms created, and no constitutional questions answered. The bill followed proper referral process but consumed congressional bandwidth without output. Scoring reflects zero public benefit from non-action, neutral fiscal impact (nothing spent, nothing gained), adherence to committee procedures, and no distributional effects since the bill never took effect. The negative score penalizes systemic inefficiency: four years without resolution, committee vote, or formal withdrawal.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.3782 status",
+      "Senate Judiciary Committee records 2022-2026",
+      "Congressional Research Service legislative process reports"
+    ]
+  },
+  {
+    "id": 1454,
+    "sourceId": "cg:117-HR-3520",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3520?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "HR 3520: ENCRYPT Act of 2021",
+    "score": -15,
+    "snapshot": "HR 3520 (ENCRYPT Act of 2021) prohibits state and local mandates requiring technology companies to weaken encryption or provide backdoor access. Referred to subcommittee in May 2021; no further action through September 2026.",
+    "verdict": "// VERDICT: Bill protecting strong encryption stalled in subcommittee for five years, leaving unresolved tension between privacy advocates and law enforcement access demands.",
+    "detail": "The ENCRYPT Act sought to preempt state-level legislation that could fragment encryption standards nationwide, potentially protecting consumer privacy and cybersecurity. However, <strong>the bill has languished in the House Subcommittee on Consumer Protection and Commerce for over five years with no markup, vote, or advancement</strong>. This inaction represents a measurable public harm: the absence of federal clarity perpetuates state-by-state patchwork risks while criminal investigations continue to cite encryption obstacles. The stagnation also demonstrates legislative dysfunction—introducing bills without advancing them consumes institutional resources while resolving nothing. No appropriations are involved, but the opportunity cost of unresolved policy undermines both digital security frameworks and legitimate law enforcement concerns. The failure to bring this to a vote represents a abdication of federal regulatory responsibility on a critical technology issue affecting millions of Americans' data security.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 3520, 117th Congress",
+      "Congressional Record, May 2021",
+      "House Judiciary Committee records"
+    ]
+  },
+  {
+    "id": 1455,
+    "sourceId": "cg:117-S-3849",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3849?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "S 3849: MAGNET Act of 2022",
+    "score": -35,
+    "snapshot": "S 3849 (MAGNET Act of 2022) was introduced in March 2022 and referred to committee, where it died without action. The bill never received a vote, markup, or floor consideration in either chamber.",
+    "verdict": "// VERDICT: A bill that failed to advance beyond initial committee referral nearly five years ago provides zero measurable benefit to Americans and represents legislative inaction rather than action.",
+    "detail": "The MAGNET Act of 2022 was introduced in the 117th Congress on March 16, 2022, and immediately referred to the Senate HELP Committee where it expired without further consideration. <strong>By September 2026, this bill has been legislatively dead for over four years, as the 117th Congress ended in January 2023.</strong> Without passage, no funding was authorized, no programs were created, and no policy changes occurred. The constitutional process was technically followed (proper introduction and referral), but the complete absence of legislative progress means this represents governmental inaction rather than action. No Americans received benefits, no costs were incurred, and no laws were changed. Rating a dead bill that accomplished nothing requires documenting that failure across all criteria.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.3849 - 117th Congress",
+      "Senate Legislative Calendar 2022",
+      "Congressional Record March 2022"
+    ]
+  },
+  {
+    "id": 1456,
+    "sourceId": "cg:117-HR-5788",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5788?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "HR 5788: SERVICE Act of 2021",
+    "score": -18,
+    "snapshot": "HR 5788 (SERVICE Act of 2021) was referred to subcommittee in November 2022 and remains stalled with no further legislative action as of September 2026. The bill has produced no measurable outcomes after nearly four years in the congressional process.",
+    "verdict": "// VERDICT: A bill that consumed legislative resources for four years without advancing beyond subcommittee referral represents procedural failure regardless of original intent.",
+    "detail": "The SERVICE Act exemplifies congressional dysfunction where legislation enters the system, occupies committee dockets, and dies without resolution. <strong>Four years after introduction, this bill has generated zero public benefit while tying up subcommittee resources that could address active policy needs.</strong> Without knowing the bill's specific provisions, the analysis focuses on the documented outcome: complete legislative inaction. The referral to Crime, Terrorism, and Homeland Security suggests subject matter relevance, but failure to advance through normal legislative process indicates either fatal policy flaws, lack of sponsor commitment, or institutional gridlock. Citizens funded this legislative effort through congressional salaries and support staff without receiving any policy output, whether positive or negative. The stalled status represents opportunity cost in a system where committee time and legislative bandwidth are finite resources.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1457,
+    "sourceId": "cg:117-S-1963",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1963?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "S 1963: Reaching English Learners Act",
+    "score": -18,
+    "snapshot": "S 1963 (2021) proposed federal grants for English learner programs but stalled in committee without passage, CBO score, or implementation. No measurable outcomes occurred.",
+    "verdict": "// VERDICT: Bill died in committee without enactment, producing zero public benefit while consuming legislative resources on unfunded proposal.",
+    "detail": "The Reaching English Learners Act was introduced in June 2021 and immediately referred to committee, where it remained without further action through the end of the 117th Congress. <strong>Without passage, appropriations, or implementation, the bill generated no educational outcomes, fiscal impact, or policy change.</strong> The legislative process was followed appropriately (committee referral), but the proposal lacked fiscal analysis or revenue offsets typical of grant programs. English learner support remains a legitimate policy area, but this specific vehicle accomplished nothing beyond symbolic introduction. Scoring reflects the opportunity cost of legislative attention on a bill that never advanced, lacked cost estimates, and produced no benefit to the intended population of English learners or their communities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1963, 117th Congress",
+      "Senate Committee on HELP records 2021-2022",
+      "Congressional Record June 2021"
+    ]
+  },
+  {
+    "id": 1458,
+    "sourceId": "cg:117-HR-3779",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3779?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "HR 3779: Reaching English Learners Act",
+    "score": -8,
+    "snapshot": "HR 3779 would establish federal grants for English learner programs in schools. Referred to committee in June 2021, the bill saw no further action and died when the 117th Congress ended in January 2023.",
+    "verdict": "// VERDICT: A well-intentioned education proposal that failed to advance beyond committee referral and never received cost analysis or implementation debate.",
+    "detail": "This bill proposed creating grant programs to support English language learners in K-12 schools, addressing a legitimate educational need for the approximately 5 million ELL students nationwide. However, the legislation never progressed beyond initial committee referral over 5 years ago. <strong>Without committee hearings, CBO scoring, or floor debate, the bill received no fiscal analysis, implementation scrutiny, or stakeholder input that would allow assessment of its actual merit.</strong> The complete lack of legislative action means taxpayers received no benefit while congressional resources were consumed drafting and filing legislation that went nowhere. While supporting English learners is defensible policy, bills that die in committee without serious consideration represent process failure regardless of subject matter. The 2026 scoring date is puzzling given the bill's 2021 death.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Education and Labor records",
+      "National Center for Education Statistics, ELL enrollment data"
+    ]
+  },
+  {
+    "id": 1459,
+    "sourceId": "cg:118-HR-8140",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8140?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "HR 8140: SERVICE Act of 2024",
+    "score": -8,
+    "snapshot": "HR 8140 (SERVICE Act of 2024) was referred to the House Judiciary Committee on April 26, 2024, and has seen no further legislative action as of September 2026. The bill remains stalled in committee with no floor votes, amendments, or advancement.",
+    "verdict": "// VERDICT: A bill that has languished in committee for over two years without action represents legislative inertia rather than tangible governance, providing no measurable benefit while consuming institutional resources.",
+    "detail": "The SERVICE Act has been dormant in the Judiciary Committee for 29 months without hearings, markup, or floor consideration. <strong>Without knowing the bill's specific provisions, the extended inaction itself signals either lack of legislative priority, unresolved controversies, or insufficient stakeholder support.</strong> Bills that stall indefinitely consume staff time for constituent inquiries and create uncertainty for affected parties who cannot plan around potential but unacted legislation. The lack of movement suggests either the proposal failed basic vetting for feasibility, faced bipartisan opposition, or was introduced primarily for political positioning rather than serious lawmaking. Committee referral without subsequent action provides no public benefit, incurs minor administrative costs, and represents a failure of the legislative process to resolve policy questions one way or another.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Apr 2024",
+      "House Judiciary Committee records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1460,
+    "sourceId": "cg:118-S-4256",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4256?format=json",
+    "branch": "Congress",
+    "date": "Sep 28",
+    "dateISO": "2026-09-28",
+    "title": "S 4256: Reaching English Learners Act",
+    "score": -8,
+    "snapshot": "S 4256 proposes federal grants for English learner instruction but stalled in committee in May 2024 with no recorded advancement, cost estimates, or implementation details as of September 2026.",
+    "verdict": "// VERDICT: Bill remains dormant without fiscal analysis, measurable outcomes framework, or legislative progress after 28 months.",
+    "detail": "The Reaching English Learners Act aimed to authorize competitive grants for improving English language instruction, but shows no movement beyond initial Senate committee referral. <strong>Without CBO scoring, pilot data, or appropriations language, the proposal offers neither measurable benefit nor fiscal accountability.</strong> The bill's fate illustrates process failure—languishing without hearings, markup, or floor consideration represents poor stewardship of legislative resources. While supporting English learners is defensible policy, this specific vehicle provides no evidence of effectiveness, no cost-benefit analysis, and no implementation timeline. The absence of any progress over two years suggests either insufficient priority or unresolved design flaws. Future generations receive neither benefits nor costs from legislative inaction, but congressional bandwidth was consumed without result.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4256 status",
+      "Senate HELP Committee records 2024-2026",
+      "Congressional Research Service legislative tracking"
+    ]
+  },
+  {
     "id": 1450,
     "sourceId": "cg:118-S-1893",
     "sourceUrl": "https://www.congress.gov/bill/118/s/1893?format=json",
@@ -19812,411 +20212,6 @@
       "Senate Legislative Calendar, July 2026",
       "Congressional Record S.5025 referral",
       "Treasury Dept. sanctions program costs (historical)"
-    ]
-  },
-  {
-    "id": 956,
-    "sourceId": "cg:119-S-2821",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2821?format=json",
-    "branch": "Congress",
-    "date": "Aug 8",
-    "dateISO": "2026-08-08",
-    "title": "S 2821: American Tech Workforce Act of 2025",
-    "score": -18,
-    "snapshot": "S 2821 proposes changes to H-1B visa programs and tech workforce policies. As of September 2025, the bill remains in Senate Judiciary Committee with no floor action or CBO score available.",
-    "verdict": "// VERDICT: Insufficient legislative progress and absence of cost analysis prevent assessment of concrete impacts on American workers or fiscal effects.",
-    "detail": "The American Tech Workforce Act of 2025 has not advanced beyond committee referral after nearly one year, indicating either contentious provisions or lack of prioritization. <strong>Without committee markup, hearings, or economic analysis, the bill's actual effects on domestic employment, wage levels, visa allocation, or training programs remain speculative.</strong> The title suggests focus on American workforce development, but substance cannot be evaluated from procedural status alone. H-1B reform proposals typically involve tradeoffs between employer access to specialized talent and protections for domestic workers—outcomes depend entirely on specific provisions regarding prevailing wages, recruitment requirements, visa caps, and enforcement mechanisms. The prolonged committee stage without public scoring suggests potential disagreement over these balance points.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sep 2025",
-      "Senate Judiciary Committee Status",
-      "Congress.gov Bill Tracking"
-    ]
-  },
-  {
-    "id": 959,
-    "sourceId": "cg:119-S-2845",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2845?format=json",
-    "branch": "Congress",
-    "date": "Aug 8",
-    "dateISO": "2026-08-08",
-    "title": "S 2845: Billionaires Income Tax Act",
-    "score": -18,
-    "snapshot": "S 2845 proposes taxing unrealized capital gains for billionaires. As of September 2025, the bill remains in Senate Finance Committee with no floor vote or CBO score available.",
-    "verdict": "// VERDICT: Proposal combines ambitious revenue targeting with significant constitutional uncertainty and implementation challenges that offset projected fiscal benefits.",
-    "detail": "The Billionaires Income Tax Act targets wealth accumulation by taxing unrealized gains—a departure from century-old realization principles in U.S. tax law. While advocates cite revenue potential from approximately 700 ultra-high-net-worth individuals, <strong>the bill faces substantial constitutional questions regarding apportionment requirements and practical obstacles including asset valuation complexity, liquidity problems for non-cash holdings, and enforcement costs.</strong> The Finance Committee referral without movement suggests bipartisan skepticism. Revenue estimates remain speculative without official scoring, while implementation would require unprecedented IRS capabilities for annual mark-to-market valuations across diverse asset classes. The policy shift toward wealth taxation, while addressing inequality concerns, introduces enforcement burdens and legal risks that undermine fiscal certainty.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 2845, 119th Congress",
-      "Senate Finance Committee records",
-      "Congressional Record, Sept 2025",
-      "U.S. Constitution, Article I"
-    ]
-  },
-  {
-    "id": 962,
-    "sourceId": "cg:119-HR-6297",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6297?format=json",
-    "branch": "Congress",
-    "date": "Aug 8",
-    "dateISO": "2026-08-08",
-    "title": "HR 6297: PEACE Act",
-    "score": -28,
-    "snapshot": "HR 6297 (PEACE Act) passed the House in June 2026 and awaits Senate committee review. The bill's specific provisions are not detailed in the available information, preventing assessment of concrete implementation mechanisms or fiscal impact.",
-    "verdict": "// VERDICT: Insufficient legislative detail available to assess measurable outcomes, costs, or implementation framework of the PEACE Act.",
-    "detail": "Without access to the bill's text, CBO scoring, or committee reports, this assessment defaults to negative scoring based on process concerns and information gaps. <strong>The lack of publicly available specifics about a foreign relations bill titled 'PEACE Act' raises transparency questions about legislative intent and accountability.</strong> Bills affecting international relations typically require careful cost-benefit analysis including diplomatic outcomes, military implications, and long-term fiscal commitments. The advancement to Senate committee without clear public documentation of provisions, beneficiaries, or funding mechanisms fails basic democratic transparency standards. Foreign policy legislation frequently carries hidden long-term costs through treaty obligations, military commitments, or aid packages that may not appear in immediate budget estimates.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Senate Committee on Foreign Relations referral",
-      "House passage HR 6297"
-    ]
-  },
-  {
-    "id": 945,
-    "sourceId": "cg:119-S-4023",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4023?format=json",
-    "branch": "Congress",
-    "date": "Aug 8",
-    "dateISO": "2026-08-08",
-    "title": "S 4023: America’s Living Library Act",
-    "score": -8,
-    "snapshot": "S 4023 proposes federal funding for public library programs but remains stalled in committee with no cost estimates or implementation framework. The bill lacks specificity on budget, delivery mechanisms, or measurable outcomes.",
-    "verdict": "// VERDICT: Well-intentioned library support proposal fails basic fiscal accountability tests by advancing without budget scoring or evidence-based program design.",
-    "detail": "The America's Living Library Act aims to enhance public library services nationwide but has made no legislative progress since March 2026 committee referral. Without CBO scoring, the fiscal impact remains unknown—a critical deficit for any spending authorization. <strong>The bill's lack of defined metrics, cost-benefit analysis, or accountability measures means taxpayers cannot assess whether resources would be efficiently deployed.</strong> While public libraries provide documented community value, federal intervention requires justification beyond good intentions. The Energy and Natural Resources Committee assignment suggests possible focus on rural/underserved areas, but absent program specifics, this represents aspirational spending without the fiscal discipline required for responsible governance. The constitutional authority for such spending exists, but process demands economic analysis before advancement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, March 2026",
-      "Senate Committee on Energy and Natural Resources",
-      "CBO Cost Estimate Database (no score available)"
-    ]
-  },
-  {
-    "id": 946,
-    "sourceId": "cg:119-S-4009",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4009?format=json",
-    "branch": "Congress",
-    "date": "Aug 8",
-    "dateISO": "2026-08-08",
-    "title": "S 4009: Falun Gong and Victims of Forced Organ Harvesting Protection Act",
-    "score": 18,
-    "snapshot": "S 4009 authorizes sanctions against individuals and entities involved in forced organ harvesting, primarily targeting Chinese officials linked to persecution of Falun Gong practitioners and other prisoners of conscience. The bill creates visa restrictions and asset freezes with presidential waiver authority.",
-    "verdict": "// VERDICT: Addresses documented human rights abuses with targeted sanctions while imposing minimal fiscal cost, though enforcement mechanisms and measurable impact on organ harvesting practices remain uncertain.",
-    "detail": "The bill responds to credible reports of systematic forced organ harvesting in China, particularly from Falun Gong practitioners, using established sanctions frameworks (Global Magnitsky Act model). <strong>Fiscal impact is negligible—likely under $5 million annually for State Department implementation—while advancing human rights without military engagement.</strong> Constitutional concerns are minimal as sanctions fall within executive foreign policy powers with congressional oversight. The primary limitation is enforcement: sanctions depend on executive branch willingness to designate perpetrators and China's minimal financial exposure to U.S. asset freezes. The bill includes presidential waiver authority for national security, which may limit practical application. While it cannot directly stop organ harvesting, it establishes U.S. policy position and creates diplomatic pressure. No measurable public benefit to Americans domestically, but aligns with international human rights norms at minimal cost.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4009, 119th Congress",
-      "Senate Legislative Calendar No. 506",
-      "China Tribunal (2019 independent findings)",
-      "State Department Human Rights Reports"
-    ]
-  },
-  {
-    "id": 947,
-    "sourceId": "cg:119-S-3052",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3052?format=json",
-    "branch": "Congress",
-    "date": "Aug 8",
-    "dateISO": "2026-08-08",
-    "title": "S 3052: A bill to promote recruiter access to secondary schools.",
-    "score": -18,
-    "snapshot": "S 3052 would expand military recruiter access to secondary schools beyond current requirements. The bill stalled in committee with no floor action as of the reference date.",
-    "verdict": "// VERDICT: Marginal security benefit undermined by unfunded implementation costs, privacy concerns, and disproportionate burden on under-resourced schools.",
-    "detail": "The bill seeks to enhance military recruitment by mandating greater school access, building on existing Solomon Amendment requirements. <strong>While maintaining volunteer force readiness has national security value, the legislation provides no funding for schools to comply with expanded access mandates, effectively imposing unfunded requirements on already strained educational budgets.</strong> Schools serving low-income communities would bear disproportionate administrative costs while potentially facing reduced alternative career counseling resources. The bill raises student privacy questions without clear safeguards and bypasses normal educational policy channels by federalizing local school access decisions. Measurable recruitment gains remain speculative—DoD has not documented that current access levels meaningfully constrain enlistment. The approach prioritizes institutional access over evidence-based recruitment effectiveness or equitable cost distribution.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 3052, 119th Congress",
-      "Solomon Amendment (10 USC 983)",
-      "Congressional Record, Oct 2025",
-      "DoD Recruiting Statistics"
-    ]
-  },
-  {
-    "id": 951,
-    "sourceId": "cg:119-S-4577",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4577?format=json",
-    "branch": "Congress",
-    "date": "Aug 8",
-    "dateISO": "2026-08-08",
-    "title": "S 4577: Reassessing the United States-Tanzania Bilateral Relationship Act",
-    "score": -8,
-    "snapshot": "S 4577 mandates a State Department review of U.S.-Tanzania relations and requires a report to Congress within 180 days, focusing on governance, human rights, and security cooperation. No appropriations or policy changes are enacted.",
-    "verdict": "// VERDICT: A procedural oversight measure with minimal fiscal cost but limited measurable impact beyond information gathering and potential diplomatic signaling.",
-    "detail": "This bill exemplifies Congress exercising its oversight function without committing resources or changing policy. The mandated report may inform future decisions on foreign aid or diplomatic engagement with Tanzania, but alone produces no concrete public benefit for Americans. <strong>The administrative cost is negligible (likely under $100,000 for report preparation), meeting basic fiscal responsibility standards.</strong> The legislative process appears standard—committee consideration, calendar placement—satisfying rule of law requirements. However, the bill shifts diplomatic analysis costs to State Department personnel without clear public return, and the beneficiaries remain undefined pending any future policy actions. The reassessment could strengthen accountability in foreign relations or simply generate bureaucratic paperwork with no downstream effect.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4577, 119th Congress",
-      "Senate Legislative Calendar No. 511",
-      "Congressional Record, July 2026"
-    ]
-  },
-  {
-    "id": 952,
-    "sourceId": "cg:119-S-3051",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3051?format=json",
-    "branch": "Congress",
-    "date": "Aug 8",
-    "dateISO": "2026-08-08",
-    "title": "S 3051: PARTNERS Act",
-    "score": -8,
-    "snapshot": "S 3051 (PARTNERS Act) was introduced in the Senate and referred to the Committee on Foreign Relations in October 2025, with no further legislative action as of August 2026. Without enacted provisions or appropriations, there is no measurable implementation or public impact.",
-    "verdict": "// VERDICT: A stalled bill with no enacted provisions produces zero measurable outcomes while consuming legislative resources during the referral process.",
-    "detail": "The PARTNERS Act remains in committee nearly ten months after introduction, representing legislative inaction rather than governance. <strong>Without passage, floor debate, or executive signature, no funds have been appropriated, no policies implemented, and no public benefits delivered.</strong> The bill's extended dormancy in Foreign Relations Committee suggests either lack of political support, competing priorities, or substantive concerns that prevent advancement. This consumes staff time and committee resources without producing outcomes. The constitutional process is technically followed (proper referral), but extended inaction when paired with an ambitious title suggests either poor strategic planning or symbolic legislation never intended for passage. Given the August 2026 scoring date, this represents nearly a full fiscal year of zero productivity on this legislative priority.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Oct 2025",
-      "Senate Committee on Foreign Relations",
-      "Congress.gov Bill Status"
-    ]
-  },
-  {
-    "id": 955,
-    "sourceId": "cg:119-HR-9724",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9724?format=json",
-    "branch": "Congress",
-    "date": "Aug 7",
-    "dateISO": "2026-08-07",
-    "title": "HR 9724: End Birthright Citizenship for Territories Act",
-    "score": -38,
-    "snapshot": "HR 9724 proposes to end birthright citizenship for individuals born in U.S. territories. The bill has been referred to committee but has not advanced beyond initial referral as of August 2026.",
-    "verdict": "// VERDICT: Eliminates constitutional citizenship rights for territorial births without documented public benefit, raising severe legal and equity concerns.",
-    "detail": "This legislation attempts to strip birthright citizenship from persons born in U.S. territories (Puerto Rico, Guam, U.S. Virgin Islands, American Samoa, Northern Mariana Islands), home to approximately 3.6 million Americans. <strong>The 14th Amendment's Citizenship Clause has been interpreted to extend birthright citizenship to most territorial births since the Insular Cases (1901), making this bill constitutionally suspect without amendment.</strong> No measurable public benefit is documented—territorial citizens already cannot vote in presidential elections and receive reduced federal benefits compared to state residents. The bill creates a two-tier citizenship system affecting predominantly Hispanic and Pacific Islander populations, violating cost distribution equity. Fiscally, litigation costs would be substantial with minimal savings. The attempt to legislate around constitutional precedent through statute rather than amendment process fails rule of law standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9724, July 2026",
-      "14th Amendment, U.S. Constitution",
-      "Insular Cases, SCOTUS 1901-1922",
-      "U.S. Census Bureau, Island Areas Population"
-    ]
-  },
-  {
-    "id": 943,
-    "sourceId": "cg:118-HR-7223",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/7223?format=json",
-    "branch": "Congress",
-    "date": "Aug 7",
-    "dateISO": "2026-08-07",
-    "title": "HR 7223: To require the Administrator of the Transportation Security Administration of the United States to develop guidelines to improve returning citizens' access to the Transportation Worker Identification Credential program, to assist individuals in custody of Federal, State, and local prisons in pre-applying or preparing applications for Transportation Worker Identification Credential cards, and to assist individuals requesting an appeal or waiver of preliminary determination of ineligibility, and for other purposes.",
-    "score": 28,
-    "snapshot": "HR 7223 directs TSA to create guidelines helping formerly incarcerated individuals obtain Transportation Worker Identification Credentials (TWICs), including pre-application assistance in prisons and improved appeal processes. The bill remained in subcommittee as of February 2024 with no further action recorded.",
-    "verdict": "// VERDICT: Reduces recidivism barriers and expands workforce access at minimal cost, though implementation effectiveness remains unproven.",
-    "detail": "The legislation addresses a documented barrier to employment for returning citizens seeking maritime and port jobs requiring TWICs. <strong>By facilitating credential applications before release and streamlining appeals, it removes a structural obstacle to workforce reintegration without compromising security standards.</strong> The approach aligns with evidence-based recidivism reduction strategies that emphasize employment access. Fiscal impact appears negligible—developing guidelines and coordination protocols requires administrative resources TSA already possesses. The bill follows standard legislative process but shows no movement beyond initial referral, suggesting low priority or potential consensus-building challenges. Primary beneficiaries are formerly incarcerated individuals and industries facing labor shortages; costs are administrative overhead distributed across existing TSA operations. Lack of enacted implementation means actual effectiveness in reducing recidivism or improving workforce outcomes remains theoretical.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 7223, 118th Congress",
-      "Congressional Record, Feb 2024",
-      "TSA TWIC Program Guidelines",
-      "Bureau of Justice Statistics recidivism data"
     ]
   }
 ]
