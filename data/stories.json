@@ -1,5 +1,407 @@
 [
   {
+    "id": 1492,
+    "sourceId": "cg:117-HR-2749",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/2749?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "HR 2749: Lethal Means Safety Training Act",
+    "score": -8,
+    "snapshot": "HR 2749 would authorize federal grants for firearm safety training programs focused on suicide prevention, particularly safe storage education. The bill was referred to subcommittee in July 2021 and saw no further action through 2026.",
+    "verdict": "// VERDICT: A narrowly-focused suicide prevention initiative with modest costs that stalled in committee without passage, producing no measurable outcomes five years after introduction.",
+    "detail": "The bill aimed to address firearm suicide through lethal means counseling—a proven intervention in clinical settings. However, <strong>it never progressed beyond subcommittee referral, meaning zero dollars were appropriated and no training programs were implemented</strong>. While the approach has evidence support (states with higher safe storage rates show lower youth suicide rates), legislative inaction means no public benefit materialized. The fiscal impact would have been minimal—likely tens of millions annually for grants—but constitutional process was followed through proper committee referral. The score reflects a well-intentioned but ultimately ineffective legislative effort: appropriate procedural handling cannot overcome complete failure to enact, and Americans received neither the potential safety benefits nor any fiscal burden from this dormant proposal.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 2749 status",
+      "Congressional Record 117th Congress",
+      "CDC suicide prevention data",
+      "RAND Corporation firearm research"
+    ]
+  },
+  {
+    "id": 1493,
+    "sourceId": "cg:117-S-3352",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3352?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 3352: FAIR Fees Act of 2021",
+    "score": -18,
+    "snapshot": "S 3352 would regulate airline baggage and change fees, requiring transparency and reasonableness standards. Introduced December 2021, referred to committee with no further action—bill died without passage or implementation.",
+    "verdict": "// VERDICT: A consumer protection measure that never advanced beyond committee referral and produced zero actual benefit while consuming legislative resources.",
+    "detail": "This bill aimed to address airline fee practices through federal regulation of baggage and ticket change charges. While consumer frustration with airline fees is documented, the legislation stalled immediately after introduction and never received hearings, markup, or votes. <strong>No measurable public benefit occurred because the bill never became law.</strong> The proposal raised fiscal responsibility concerns by potentially creating new regulatory overhead at DOT without clear cost-benefit analysis. Procedurally, the bill followed normal legislative process but accomplished nothing—it was referred to committee and abandoned. From a cost distribution perspective, the intent was consumer protection, but the actual outcome was zero protection while airline fee practices continued unchanged. The 2026 date in the prompt appears erroneous as this is a 2021 bill from the 117th Congress that has long since expired.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.3352 (117th Congress)",
+      "Senate Legislative Calendar 2021-2022",
+      "Committee on Commerce, Science, and Transportation Records"
+    ]
+  },
+  {
+    "id": 1494,
+    "sourceId": "cg:117-HR-6215",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6215?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "HR 6215: FAIR Fees Act of 2021",
+    "score": -8,
+    "snapshot": "HR 6215 (FAIR Fees Act of 2021) was introduced in December 2021 and referred to the House Subcommittee on Aviation, where it has remained without further action for nearly five years. The bill aimed to address aviation fee structures but never advanced beyond committee.",
+    "verdict": "// VERDICT: A stalled aviation fee reform bill that consumed legislative resources without producing measurable outcomes or regulatory changes.",
+    "detail": "The FAIR Fees Act represents legislative inertia at taxpayer expense. <strong>After nearly five years in subcommittee with no hearings, votes, or amendments, this bill has generated zero public benefit while occupying Congressional agenda space and staff resources.</strong> Without passage, there are no fiscal impacts to evaluate, though the administrative costs of maintaining dormant legislation—committee staff time, tracking systems, and opportunity costs—represent pure waste. The bill followed proper referral procedures but exemplifies systemic dysfunction when legislation languishes indefinitely. The cost falls on taxpayers who fund Congressional operations expecting productive lawmaking, not performative bill introductions that die quietly in committee. Aviation stakeholders gained no fee clarity, consumers saw no relief, and the legislative process demonstrated its capacity for theater over governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6215 status",
+      "House Transportation Committee records",
+      "Congressional Research Service legislative tracking"
+    ]
+  },
+  {
+    "id": 1497,
+    "sourceId": "cg:118-S-4714",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4714?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 4714: Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2024",
+    "score": -8,
+    "snapshot": "S 4714 would regulate AI-generated content in federal elections by requiring disclosures on synthetic media in political ads. Introduced July 2024, referred to committee with no further action as of October 2026.",
+    "verdict": "// VERDICT: Bill remains stalled in committee for over two years despite bipartisan concern about AI election interference, resulting in no regulatory framework as technology rapidly advances.",
+    "detail": "The FAIR Elections Act addresses a genuine vulnerability in electoral integrity by targeting deepfakes and AI-generated political content. However, <strong>the bill has languished in the Senate Rules Committee for 27 months without markup, hearing, or vote</strong>, leaving a regulatory vacuum during the 2024 and upcoming 2026 election cycles when AI capabilities have expanded exponentially. The inaction represents institutional failure to address a documented threat to democratic processes. While the bill's specific provisions require evaluation, Congress's paralysis on election security technology—regardless of partisan composition—demonstrates dysfunction. The cost of inaction includes continued voter manipulation risk and erosion of electoral confidence, though quantifying these harms is difficult. No fiscal impact analysis exists for a bill that never advanced.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4714, 118th Congress",
+      "Senate Legislative Calendar 2024-2026",
+      "Congressional Record, July 2024"
+    ]
+  },
+  {
+    "id": 1495,
+    "sourceId": "cg:118-S-4271",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4271?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "S 4271: New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act",
+    "score": 18,
+    "snapshot": "S 4271 would establish a framework for federal agencies to coordinate with New Mexico land grant-mercedes communities on traditional uses of federal lands, including grazing, firewood collection, and cultural practices. The bill creates consultation requirements but includes no mandatory land transfers or new appropriations.",
+    "verdict": "// VERDICT: Moderate positive score for preserving historic rights and cultural practices with minimal fiscal impact, though enforcement mechanisms remain undefined.",
+    "detail": "This legislation addresses a legitimate historical issue—Spanish and Mexican land grants dating to the 1600s-1800s that were partially absorbed into federal holdings, disrupting traditional community uses. The bill scores well on measurable benefit by codifying consultation processes that could restore access to grazing, timber, and cultural sites for affected communities. <strong>Fiscal responsibility is strong as the bill requires no new appropriations and relies on existing agency frameworks.</strong> Rule of law considerations are mixed: while the bill respects property rights by not mandating transfers, it creates consultation obligations that could complicate federal land management. Cost distribution is equitable, benefiting specific communities without imposing burdens on others. The primary weakness is implementation uncertainty—consultation requirements without binding outcomes may produce minimal tangible change.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4271, 118th Congress",
+      "Congressional Record, May 2024",
+      "Federal Register land grant history"
+    ]
+  },
+  {
+    "id": 1496,
+    "sourceId": "cg:118-S-5352",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/5352?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "S 5352: American Renewable Energy Act of 2024",
+    "score": -8,
+    "snapshot": "S 5352, the American Renewable Energy Act of 2024, was introduced in the Senate and referred to committee in November 2024, with no subsequent action through October 2026. The bill remains in committee without hearings, markup, or floor consideration.",
+    "verdict": "// VERDICT: A bill that has languished in committee for nearly two years without legislative progress represents procedural stagnation rather than measurable policy impact.",
+    "detail": "After nearly two years since referral to the Senate Energy and Natural Resources Committee, S 5352 has produced no documented legislative outcomes. Without committee hearings, CBO scoring, or floor debate, there is no measurable public benefit to evaluate. <strong>The bill's extended dormancy in committee reflects either lack of consensus or legislative prioritization failures, but does not violate procedural rules.</strong> No fiscal impact can be assessed without markup or analysis. The legislative process technically follows constitutional procedure—bills often die in committee—but the extended inaction on energy policy during a period of significant energy sector transformation represents a missed opportunity for deliberative governance. Without bill text or substantive committee action, cost distribution and specific policy mechanisms remain unknown.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov Legislative Status S 5352",
+      "Senate Energy and Natural Resources Committee Records 2024-2026"
+    ]
+  },
+  {
+    "id": 1498,
+    "sourceId": "cg:118-HR-8262",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8262?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "HR 8262: New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act",
+    "score": -8,
+    "snapshot": "HR 8262 mandates federal agencies to coordinate with New Mexico land grant communities on traditional use access but creates no enforcement mechanism or funding. Referred to committee in May 2024 with no subsequent action through October 2026.",
+    "verdict": "// VERDICT: Creates consultation requirements without budget allocation or binding dispute resolution, producing administrative burden with uncertain practical benefits for land grant communities.",
+    "detail": "The bill requires federal land managers to coordinate with New Mexico land grant-mercedes communities regarding traditional uses like grazing, firewood gathering, and cultural practices on federal lands. While recognizing historical land tenure injustices dating to the Treaty of Guadalupe Hidalgo, <strong>the legislation provides no appropriations, creates no enforceable rights, and establishes only advisory consultation processes.</strong> Federal agencies gain new coordination duties without resources. Land grant communities receive formal recognition but no guarantee of access outcomes. The bill's two-year legislative inaction suggests limited congressional priority. Without funding or teeth, this produces paperwork requirements for agencies while leaving substantive access disputes unresolved through existing administrative and judicial channels.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 8262, 118th Congress",
+      "Congressional Record, May 2024",
+      "Federal Land Policy and Management Act",
+      "Treaty of Guadalupe Hidalgo (1848)"
+    ]
+  },
+  {
+    "id": 1499,
+    "sourceId": "cg:118-HR-10139",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/10139?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "HR 10139: American Renewable Energy Act of 2024",
+    "score": -18,
+    "snapshot": "HR 10139 has been referred to committee but shows no further legislative activity for nearly two years. Without passage, implementation, or documented outcomes, the bill exists only as a proposal with no measurable impact on Americans.",
+    "verdict": "// VERDICT: A stalled committee referral with zero legislative progress or public impact after 23 months represents procedural inaction rather than governance.",
+    "detail": "This bill was referred to the House Committee on Energy and Commerce in November 2024 and has remained there without markup, hearing, or floor consideration through October 2026. <strong>Regardless of the bill's potential merits regarding renewable energy, legislative proposals that never advance beyond initial referral produce no measurable public benefit, incur no fiscal costs, and affect no citizens.</strong> The lack of committee action suggests either insufficient support, competing priorities, or deliberate obstruction. While referral to committee follows proper parliamentary procedure, the extended inaction represents a failure of the legislative process to deliver outcomes. Without knowing the bill's specific provisions, cost estimates, or intended beneficiaries, scoring focuses on the documented reality: two years of taxpayer-funded deliberation with zero progress toward law.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Nov 2024",
+      "House Committee on Energy and Commerce records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1500,
+    "sourceId": "cg:118-HR-883",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/883?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "HR 883: Stop the Wait Act of 2023",
+    "score": -8,
+    "snapshot": "HR 883 would eliminate the mandatory 5-month waiting period for Social Security Disability Insurance (SSDI) benefits. As of December 2024, the bill remains in subcommittee with no floor vote or CBO score available.",
+    "verdict": "// VERDICT: Eliminates a waiting period that causes documented hardship for disabled workers, but lacks cost analysis and remains legislatively stalled after nearly two years.",
+    "detail": "The Stop the Wait Act addresses a genuine problem: disabled workers currently must wait five months after disability onset before receiving SSDI benefits, creating financial crisis for many with no income. <strong>However, the bill has not advanced beyond subcommittee referral since 2024, has no CBO cost estimate, and provides no revenue offset for what would be billions in accelerated benefit payments.</strong> While the human cost of the waiting period is real and documented in Social Security Administration data, responsible policymaking requires understanding fiscal impact. The stalled legislative process and absence of fiscal analysis outweigh the policy merit. The constitutional process has been followed thus far, but incompleteness prevents full assessment of cost distribution impacts on the disability trust fund and future beneficiaries.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 883, 118th Congress",
+      "Congressional Record, Dec 2024",
+      "Social Security Administration disability program data",
+      "House Subcommittee on Social Security referral"
+    ]
+  },
+  {
+    "id": 1501,
+    "sourceId": "cg:118-HR-3233",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3233?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "HR 3233: Diversify Act",
+    "score": -18,
+    "snapshot": "HR 3233 (DIVERSIFY Act) was referred to committee in May 2023 and saw no further legislative action. The bill remained in committee without markup, votes, or implementation.",
+    "verdict": "// VERDICT: A bill that never advanced beyond initial committee referral produced zero measurable impact on Americans while consuming legislative resources.",
+    "detail": "The DIVERSIFY Act represents a common Congressional failure mode: introduction without execution. <strong>Referred to two committees in May 2023, the bill died without hearings, amendments, or floor consideration.</strong> While the bill's title suggests workforce or educational diversity initiatives, no concrete policy ever materialized for evaluation. The legislative process consumed staff time, committee resources, and docket space across Education/Workforce and Budget committees without producing law, regulatory guidance, or appropriations. This pattern—introduction for political positioning rather than serious legislative intent—wastes institutional capacity. Without enacted provisions, there are no measurable benefits, no fiscal commitments to assess, but also a modest opportunity cost in diverting attention from actionable legislation. The referral to Budget Committee suggests potential spending implications that were never scrutinized.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2023",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status HR 3233"
+    ]
+  },
+  {
     "id": 1482,
     "sourceId": "cg:117-HR-6583",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/6583?format=json",
@@ -19817,408 +20219,6 @@
       "Congress.gov HR 10564 status",
       "House Committee on Education and the Workforce records",
       "Congressional Record, 118th Congress"
-    ]
-  },
-  {
-    "id": 1008,
-    "sourceId": "cg:119-HR-8749",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8749?format=json",
-    "branch": "Congress",
-    "date": "Aug 11",
-    "dateISO": "2026-08-11",
-    "title": "HR 8749: SAFE through Medicare Act",
-    "score": -18,
-    "snapshot": "HR 8749 was referred to committee in May 2026 but has not advanced beyond initial referral. Without bill text or substantive legislative action, no measurable impact can be assessed.",
-    "verdict": "// VERDICT: Insufficient legislative progress to evaluate public impact; bill remains stalled in committee with no recorded votes or amendments.",
-    "detail": "The SAFE through Medicare Act exists only as a committee referral with no available text, cost analysis, or substantive legislative record. <strong>A bill that never leaves committee produces zero public benefit regardless of its title.</strong> The dual-committee referral to Energy and Commerce plus Ways and Means suggests healthcare financing provisions, but without CBO scoring, markup sessions, or floor consideration, there is no evidence of fiscal planning, public benefit design, or distributional effects. The legislative process has been followed to the minimal extent of proper committee referral, but three months of inaction signals either lack of sponsor commitment or controversial provisions requiring negotiation. No resources have been expended beyond administrative overhead, but no progress toward any stated policy goal has occurred.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee Referral Log",
-      "Congress.gov HR 8749"
-    ]
-  },
-  {
-    "id": 1009,
-    "sourceId": "cg:119-HR-8990",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8990?format=json",
-    "branch": "Congress",
-    "date": "Aug 11",
-    "dateISO": "2026-08-11",
-    "title": "HR 8990: Protect Domestic Oil and Gas Small Business Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8990 proposes subsidies or regulatory relief for small oil and gas producers. As of May 2026, the bill remains in committee with no passage, CBO score, or implementation.",
-    "verdict": "// VERDICT: Without passage or cost analysis, this bill represents未实现 policy with uncertain fiscal impact and questionable climate alignment in 2026.",
-    "detail": "This legislation targeting small oil and gas businesses lacks measurable outcomes since it never advanced beyond committee referral. <strong>The absence of a CBO score prevents assessment of taxpayer costs, while subsidizing fossil fuel extraction in 2026 conflicts with documented climate science and international commitments.</strong> The bill followed proper legislative process by committee referral, satisfying procedural requirements. However, directing benefits to a specific industry segment while externalizing climate and health costs to the general public raises equity concerns. Without evidence of job creation numbers, energy security improvements, or cost-benefit analysis, the proposal scores poorly on measurable benefit and fiscal responsibility. The 'small business' framing may obscure larger industry benefits through pass-through structures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 8990 status",
-      "House Committee on Energy and Commerce records",
-      "IPCC Sixth Assessment Report"
-    ]
-  },
-  {
-    "id": 991,
-    "sourceId": "cg:104-S-848",
-    "sourceUrl": "https://www.congress.gov/bill/104/s/848?format=json",
-    "branch": "Congress",
-    "date": "Aug 10",
-    "dateISO": "2026-08-10",
-    "title": "S 848: A bill to grant the consent of Congress to an amendment of the Historic Chattahoochee Compact between the States of Alabama and Georgia.",
-    "score": 8,
-    "snapshot": "S.848 granted congressional consent to amend an interstate compact between Alabama and Georgia regarding the Chattahoochee River. The bill was ultimately superseded by H.R.2064 in May 1996.",
-    "verdict": "// VERDICT: Minor administrative action enabling two states to update their water management agreement through proper constitutional process with negligible federal cost.",
-    "detail": "Interstate compacts require congressional consent under the Constitution's Compact Clause. This bill facilitated Alabama and Georgia's ability to modernize their historic water-sharing arrangement for the Chattahoochee River basin. <strong>The action scores positively on rule of law for following required constitutional procedures and imposes no federal fiscal burden.</strong> Public benefit is modest but real—enabling states to manage shared water resources more effectively benefits regional populations dependent on the river for drinking water, recreation, and commerce. Cost distribution is neutral as this is a state-level agreement. The bill was procedurally absorbed into H.R.2064, indicating routine legislative housekeeping rather than controversy. No documented implementation costs or negative externalities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.848, 104th Congress",
-      "U.S. Constitution, Article I, Section 10",
-      "Congressional Record, May 1996",
-      "H.R.2064, 104th Congress"
-    ]
-  },
-  {
-    "id": 992,
-    "sourceId": "cg:104-S-956",
-    "sourceUrl": "https://www.congress.gov/bill/104/s/956?format=json",
-    "branch": "Congress",
-    "date": "Aug 10",
-    "dateISO": "2026-08-10",
-    "title": "S 956: An Act to establish a Commission on Structural Alternatives for the Courts of Appeals.",
-    "score": -8,
-    "snapshot": "S 956 (104th Congress, 1996) proposed creating a commission to study structural alternatives for federal appellate courts. The bill was referred to subcommittee in March 1996 and died without enactment.",
-    "verdict": "// VERDICT: A study commission on court structure that consumed legislative resources but produced no actionable reforms or measurable improvements to judicial efficiency.",
-    "detail": "This bill exemplifies low-impact procedural legislation that creates bureaucratic overhead without delivering concrete benefits. <strong>Establishing a commission to study court structures—rather than implementing specific reforms—defers action while incurring administrative costs.</strong> The bill died in subcommittee, suggesting even Congress recognized limited value. No evidence exists of operational improvements, reduced case backlogs, or cost savings that would have justified the commission's expense. While judicial efficiency matters, creating study bodies without implementation mandates typically produces reports that gather dust. The fiscal cost was modest but wasted, and the process followed normal legislative channels without constitutional concerns. The primary harm is opportunity cost: legislative time spent on a commission rather than substantive court reforms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 104th Congress",
-      "Legislative history S 956",
-      "House Judiciary Committee records 1996"
-    ]
-  },
-  {
-    "id": 993,
-    "sourceId": "cg:104-S-1340",
-    "sourceUrl": "https://www.congress.gov/bill/104/s/1340?format=json",
-    "branch": "Congress",
-    "date": "Aug 10",
-    "dateISO": "2026-08-10",
-    "title": "S 1340: Livestock Concentration Report Act",
-    "score": -18,
-    "snapshot": "S 1340 (104th Congress, 1995) required USDA reporting on livestock market concentration but died at the House desk in December 1995. The bill never became law and produced no measurable outcomes.",
-    "verdict": "// VERDICT: Legislative effort to track agricultural consolidation failed to advance, delivering zero public benefit while consuming congressional resources on a stalled transparency measure.",
-    "detail": "This bill mandated USDA studies on livestock industry concentration—a legitimate policy concern given consolidation's impact on independent farmers and market competition. However, the legislation stalled after Senate passage and never received House consideration. <strong>The 31-year time lag between the bill's death (1995) and the rating date (2026) means any market concentration problems it aimed to address went unmonitored through three decades of accelerating agricultural consolidation.</strong> The failure to enact even basic reporting requirements represents a missed opportunity for data-driven policymaking. While the bill itself imposed minimal fiscal costs, the absence of concentration data may have enabled anticompetitive practices that harmed farmers and consumers. The procedural failure—passing one chamber but dying without floor action in the other—exemplifies legislative gridlock that prevents even modest transparency measures from implementation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 104th Congress",
-      "Senate Legislative Calendar 1995-96",
-      "USDA Agricultural Market Reports"
-    ]
-  },
-  {
-    "id": 994,
-    "sourceId": "cg:104-S-1628",
-    "sourceUrl": "https://www.congress.gov/bill/104/s/1628?format=json",
-    "branch": "Congress",
-    "date": "Aug 10",
-    "dateISO": "2026-08-10",
-    "title": "S 1628: A bill to amend title 17, United States Code, relating to the copyright interests of certain musical performances, and for other purposes.",
-    "score": -18,
-    "snapshot": "S 1628 (104th Congress, 1996) proposed amendments to copyright law for musical performances but died in committee without passage or implementation. No measurable public impact occurred as the bill never became law.",
-    "verdict": "// VERDICT: A legislative proposal that never advanced beyond committee referral cannot be scored for public benefit, fiscal impact, or distributional effects since it produced no actual policy change.",
-    "detail": "This bill was introduced in March 1996 during the 104th Congress and referred to the Judiciary Committee, where it died without further action. <strong>Scoring a 30-year-old failed legislative proposal from 1996 as a 2026 government action represents a fundamental category error.</strong> The bill created no law, imposed no costs, generated no benefits, and affected no citizens. While copyright reform for musical performances could theoretically serve public interests depending on specific provisions, this particular measure never received hearings, markup, floor consideration, or vote. The exercise of scoring non-enacted historical legislation against current outcomes violates the premise of evaluating actual government actions. Penalties applied reflect: absence of any measurable outcome (criterion 1), no fiscal impact to assess (criterion 2), normal legislative process followed but no completion (criterion 3), and no actual cost distribution since the bill failed (criterion 4).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 104th Congress (1996)",
-      "THOMAS Legislative Information System",
-      "Senate Judiciary Committee Records"
-    ]
-  },
-  {
-    "id": 995,
-    "sourceId": "cg:112-S-355",
-    "sourceUrl": "https://www.congress.gov/bill/112/s/355?format=json",
-    "branch": "Congress",
-    "date": "Aug 10",
-    "dateISO": "2026-08-10",
-    "title": "S 355: Espionage Statutes Modernization Act of 2011",
-    "score": -35,
-    "snapshot": "S.355 was introduced in 2011 to modernize espionage statutes but died in committee without passage, hearings, or any legislative action beyond referral. No law was enacted, no appropriations made, and no policy implemented.",
-    "verdict": "// VERDICT: This bill never became law and produced zero measurable impact on Americans after 15 years of legislative inaction.",
-    "detail": "The Espionage Statutes Modernization Act of 2011 was referred to the Senate Judiciary Committee on February 15, 2011, and never emerged. <strong>Without committee hearings, markup, floor votes, or enactment, this legislative proposal created no legal framework, allocated no resources, and changed no outcomes for national security or civil liberties.</strong> Rating a non-enacted bill requires evaluating the opportunity cost of congressional attention and the failure to address stated problems. The 15-year gap between introduction and this 2026 assessment date demonstrates complete legislative abandonment. No fiscal impact occurred because no funds were authorized or appropriated. No rule of law questions arise from proper committee referral, but the failure to act on stated espionage statute concerns represents neglect of legislative responsibility. The cost distribution is neutral in direct terms but negative in that unresolved legal ambiguities in espionage law may have imposed hidden costs on defendants, journalists, and national security operations during the intervening years.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S755-756, Feb 15 2011",
-      "Congress.gov Bill Status S.355 (112th Congress)",
-      "Senate Judiciary Committee Records 2011-2012"
-    ]
-  },
-  {
-    "id": 996,
-    "sourceId": "cg:104-S-1632",
-    "sourceUrl": "https://www.congress.gov/bill/104/s/1632?format=json",
-    "branch": "Congress",
-    "date": "Aug 10",
-    "dateISO": "2026-08-10",
-    "title": "S 1632: A bill to prohibit persons convicted of a crime involving domestic violence from owning or possessing firearms, and for other purposes.",
-    "score": 38,
-    "snapshot": "S 1632 (104th Congress, 1996) prohibited firearm possession by those convicted of domestic violence misdemeanors, closing a gap that previously allowed domestic abusers to legally own guns. Became law as the Lautenberg Amendment.",
-    "verdict": "// VERDICT: Addressed a documented public safety gap by preventing domestic abusers from accessing firearms, with measurable reduction in domestic violence homicides and minimal fiscal impact.",
-    "detail": "This legislation closed the 'boyfriend loophole' and misdemeanor loophole in federal gun laws, preventing individuals convicted of domestic violence from purchasing or possessing firearms. <strong>Studies post-implementation showed states enforcing similar provisions experienced 10-15% reductions in intimate partner gun homicides.</strong> The measure imposed no significant federal costs—background check systems already existed and required only database updates. Constitutional challenges were resolved in favor of the law (U.S. v. Hayes, 2009), affirming Congress followed proper legislative process under the Commerce Clause. The law applied equally regardless of socioeconomic status, protecting vulnerable populations (primarily women) without creating unfunded mandates or shifting costs to future generations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 104-208 (1996)",
-      "U.S. v. Hayes, 555 U.S. 415 (2009)",
-      "American Journal of Public Health, 'Firearm Prohibitions and DV' (2017)",
-      "Congressional Record S9628 (Aug 1996)"
-    ]
-  },
-  {
-    "id": 997,
-    "sourceId": "cg:112-S-348",
-    "sourceUrl": "https://www.congress.gov/bill/112/s/348?format=json",
-    "branch": "Congress",
-    "date": "Aug 10",
-    "dateISO": "2026-08-10",
-    "title": "S 348: Judicial Transparency and Ethics Enhancement Act of 2011",
-    "score": -35,
-    "snapshot": "S.348 from 2011 never advanced beyond committee referral and was never enacted into law. This scoring request appears to contain a date error (2026-08-10) for a bill from the 112th Congress (2011-2013).",
-    "verdict": "// VERDICT: A bill that died in committee 15 years ago produced zero measurable impact on judicial transparency, consumed legislative resources without result, and represents failed process rather than actionable policy.",
-    "detail": "The Judicial Transparency and Ethics Enhancement Act was introduced in February 2011, referred to Senate Judiciary, and never received a hearing, markup, or vote. <strong>Bills that die in committee generate no public benefit, impose no fiscal cost beyond minimal administrative overhead, follow normal legislative process, and distribute no costs because they never become law.</strong> The severe negative score reflects the fundamental disconnect: this is being evaluated in 2026 as if it were current legislation, when it has been dead for 15 years. Any purported 2026 date represents either data error or resurrection of long-dead legislation. Without enactment, there are no CBO scores, implementation costs, or real-world effects to evaluate. The bill's original intent regarding judicial ethics is irrelevant to scoring actual outcomes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.348, 112th Congress",
-      "Senate Legislative Calendar 2011-2013",
-      "Congressional Record Feb 2011"
-    ]
-  },
-  {
-    "id": 998,
-    "sourceId": "cg:102-SJRES-3",
-    "sourceUrl": "https://www.congress.gov/bill/102/sjres/3?format=json",
-    "branch": "Congress",
-    "date": "Aug 10",
-    "dateISO": "2026-08-10",
-    "title": "SJRES 3: A joint resolution proposing an amendment to the Constitution of the United States relative to equal rights for women and men.",
-    "score": -35,
-    "snapshot": "SJRES 3 is a constitutional amendment from 1991 proposing equal rights protections for women and men, referred to subcommittee and never advanced. The date listed (2026-08-10) appears to be a data error; no congressional action occurred on this dormant 35-year-old resolution.",
-    "verdict": "// VERDICT: A 1991 equal rights amendment proposal that died in subcommittee generates no measurable 2026 impact and represents no actual government action to evaluate.",
-    "detail": "This entry contains a fundamental error: SJRES 3 from the 102nd Congress (1991-1992) has been legislatively dead for over three decades, last seeing action in January 1991 when referred to subcommittee. <strong>No congressional activity occurred in August 2026 on this resolution.</strong> Constitutional amendments proposing sex-based equal protection have historical significance, but a dormant proposal produces zero measurable outcomes, incurs no fiscal costs, involves no constitutional process (because it never advanced), and affects no population. The scoring reflects that phantom legislation cannot be assessed on objective criteria. If this represents a data processing error conflating historical records with current dates, the system requires correction. If attempting to revive ERA-type legislation, that would require new bill introduction and actual legislative process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 102nd Congress (1991-1992)",
-      "Senate Joint Resolutions Database",
-      "Constitutional Amendment Tracking Records"
     ]
   }
 ]
