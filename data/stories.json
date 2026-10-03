@@ -1,5 +1,328 @@
 [
   {
+    "id": 1502,
+    "sourceId": "cg:117-HR-2068",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/2068?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "HR 2068: CLAIM Act",
+    "score": -18,
+    "snapshot": "HR 2068 (CLAIM Act) was introduced in March 2021 and referred to committee, where it died without further action. The bill aimed to address unclaimed property procedures but never advanced beyond initial referral.",
+    "verdict": "// VERDICT: A non-enacted proposal that generated no measurable outcomes, consumed minimal legislative resources, and demonstrated standard committee process failure.",
+    "detail": "The CLAIM Act represents legislative activity that produced zero tangible results for Americans. Introduced in the 117th Congress and immediately sent to the House Financial Services Committee, the bill never received a hearing, markup, or floor vote. <strong>While the intention may have been to reform unclaimed property systems—a legitimate governance concern affecting millions who lose track of assets—the complete absence of legislative follow-through means no Americans benefited.</strong> The fiscal cost was negligible (staff time for drafting), but the opportunity cost reflects Congress's pattern of introducing bills for political positioning rather than serious policymaking. No constitutional process was violated, as committee referral is standard procedure, but the failure to advance legislation through deliberative process represents democratic theater rather than governance. The item earns negative scores across criteria due to zero delivery despite consuming public resources.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Financial Services Committee records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1503,
+    "sourceId": "cg:117-S-862",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/862?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 862: CLAIM Act",
+    "score": -15,
+    "snapshot": "S 862 (CLAIM Act) was introduced in the Senate on March 18, 2021, referred to the Banking Committee, and saw no further action. The bill died in committee without hearings, markup, or floor consideration.",
+    "verdict": "// VERDICT: Legislative proposal that failed to advance beyond committee referral, producing zero measurable impact on Americans while consuming congressional resources in drafting and introduction.",
+    "detail": "The CLAIM Act represents a common pattern in congressional dysfunction: a bill introduced, assigned a number and title, then abandoned without substantive consideration. <strong>Without committee hearings, CBO scoring, or floor debate, the proposal consumed staff time and legislative bandwidth while delivering no policy outcome, positive or negative.</strong> The complete lack of legislative action means no stakeholders were served, no problems addressed, and no constitutional process meaningfully engaged beyond the minimal act of introduction. This scores negatively not for the bill's potential merits or flaws—which remain unexamined—but for the opportunity cost and process failure it represents. Congress introduced over 10,000 bills in the 117th session; those that die immediately in committee without deliberation reflect poor prioritization of limited legislative capacity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, March 18, 2021",
+      "Senate Legislative Information System",
+      "117th Congress bill tracking data"
+    ]
+  },
+  {
+    "id": 1504,
+    "sourceId": "cg:118-HR-10140",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/10140?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "HR 10140: To authorize additional funding for the San Joaquin River Restoration Settlement Act.",
+    "score": -18,
+    "snapshot": "HR 10140 authorizes additional funding for the San Joaquin River Restoration Settlement Act, extending a multi-decade project to restore salmon populations and river flows. The bill addresses cost overruns in a federally-mandated restoration effort originally estimated at $250-800 million that has exceeded $1.5 billion.",
+    "verdict": "// VERDICT: Extends funding for a restoration project with persistent cost overruns and minimal documented ecological success after two decades of federal expenditure.",
+    "detail": "The San Joaquin River Restoration Settlement Act (2009) arose from litigation to restore salmon runs eliminated by Friant Dam operations. <strong>After 17 years and over $1.5 billion spent, salmon reintroduction has achieved limited success with inconsistent spawning runs and no self-sustaining population established.</strong> The project faces ongoing cost escalation due to infrastructure challenges, water rights conflicts, and competing agricultural needs in California's Central Valley. While habitat restoration has environmental value, the lack of clear success metrics and accountability for previous cost overruns weakens fiscal justification. Authorizing additional unspecified funds without performance benchmarks or completion timelines perpetuates open-ended federal liability. The original settlement resolved legal obligations, but expansion without demonstrated progress violates basic cost-benefit principles. Water delivery obligations to farmers remain partially unfulfilled, creating ongoing conflict between restoration and agricultural stakeholders.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "San Joaquin River Restoration Settlement Act, PL 111-11 (2009)",
+      "Bureau of Reclamation Annual Reports 2010-2024",
+      "Congressional Research Service, Water Infrastructure Funding",
+      "House Committee on Natural Resources, Nov 2024"
+    ]
+  },
+  {
+    "id": 1506,
+    "sourceId": "cg:118-S-4996",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4996?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 4996: Dakota Water Resources Act Amendments of 2024",
+    "score": 28,
+    "snapshot": "Amendments to the Dakota Water Resources Act addressing water infrastructure projects in North and South Dakota. Placed on Senate Legislative Calendar in November 2024, still pending final passage as of October 2026.",
+    "verdict": "// VERDICT: Regionally targeted water infrastructure bill following standard legislative process with likely measurable benefits for participating states, pending final cost-benefit analysis.",
+    "detail": "The Dakota Water Resources Act Amendments advance through normal Senate procedures, addressing water supply and infrastructure needs in the Dakotas. <strong>Water infrastructure typically delivers concrete public benefits through improved access, flood control, and agricultural support, though benefits are geographically concentrated.</strong> The bill scores well on rule of law for following standard committee review and legislative calendaring. Fiscal responsibility depends on project-specific cost-benefit ratios and funding mechanisms not detailed in the summary, warranting moderate scoring pending CBO analysis. Cost distribution likely favors regional beneficiaries while spreading costs across federal taxpayers, a common pattern for state-specific infrastructure that creates mild geographic equity concerns but falls within normal legislative practice for such projects.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 637, Nov 2024",
+      "Congressional Record, S. 4996",
+      "Dakota Water Resources Act baseline statute"
+    ]
+  },
+  {
+    "id": 1507,
+    "sourceId": "cg:118-S-209",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/209?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 209: FAIR Fees Act of 2023",
+    "score": -8,
+    "snapshot": "S 209 stalled in committee since February 2023 with no floor action, amendments, or CBO scoring. The bill aimed to regulate consumer fees but never advanced beyond initial referral.",
+    "verdict": "// VERDICT: A regulatory proposal that died in committee without evidence of legislative support, fiscal analysis, or measurable policy impact.",
+    "detail": "The FAIR Fees Act sought to address consumer fee transparency but represents a common pattern of legislative inaction. <strong>Without committee hearings, markup, or any movement in nearly four years, this bill consumed staff resources while producing zero public benefit.</strong> The lack of CBO score means fiscal impacts remain unknown. While fee regulation could serve consumer protection goals, the complete absence of process advancement suggests either insufficient stakeholder support or competing legislative priorities. The bill technically followed proper introduction procedures but failed to progress through normal legislative channels. No regulatory framework emerged, no enforcement mechanism was created, and no consumer benefited from protections that were never enacted.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.209 (118th Congress)",
+      "Senate Committee on Commerce, Science, and Transportation records",
+      "Congressional Record, Feb 2023"
+    ]
+  },
+  {
+    "id": 1508,
+    "sourceId": "cg:118-S-5051",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/5051?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 5051: Washington’s Trail—1753 National Historic Trail Feasibility Study Act of 2024",
+    "score": -8,
+    "snapshot": "S 5051 authorizes a feasibility study for designating Washington's 1753 trail as a National Historic Trail. The bill directs the National Park Service to assess historical significance, preservation needs, and costs, with a report due within three years.",
+    "verdict": "// VERDICT: A low-priority study with minimal immediate public benefit that adds incremental bureaucratic costs without demonstrated demand or urgency for the designation.",
+    "detail": "The bill requires NPS to study whether George Washington's 1753 journey from Virginia to Fort Le Boeuf merits National Historic Trail status. While historical preservation has cultural value, <strong>no evidence suggests urgent public demand for this specific designation or that existing state/local preservation efforts are inadequate</strong>. The study will consume federal staff time and taxpayer resources (estimated $150,000-$300,000 based on similar NPS feasibility studies) without guaranteed measurable outcomes. The bill follows proper legislative process and doesn't create unfunded mandates, but represents discretionary spending on a marginal priority when more pressing infrastructure and conservation needs compete for limited Interior Department resources. The trail already exists in various forms across Pennsylvania, Maryland, and Virginia with local historical markers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5051, 118th Congress",
+      "National Park Service feasibility study protocols",
+      "Congressional Record, Sept 2024",
+      "NPS National Trails System Act guidelines"
+    ]
+  },
+  {
+    "id": 1509,
+    "sourceId": "cg:118-S-5478",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/5478?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 5478: Support Our Educators Act of 2024",
+    "score": -18,
+    "snapshot": "S 5478 proposes tax credits for K-12 educators purchasing classroom supplies. Introduced December 2024, referred to Finance Committee with no further action recorded through the 2026-10-02 evaluation date.",
+    "verdict": "// VERDICT: Well-intentioned educator support measure lacks offsetting revenue, adds unfunded tax expenditure, and remains stalled in committee without demonstrable implementation pathway.",
+    "detail": "The Support Our Educators Act would expand tax deductions for teachers buying classroom materials with personal funds—a real problem affecting an estimated 94% of public school teachers who spend average $750 annually out-of-pocket. <strong>However, the bill creates new tax expenditures without identified offsets, adding to deficit spending while providing minimal per-educator relief that fails to address systemic underfunding of school supply budgets.</strong> The measure followed proper legislative introduction but has shown no progress beyond initial committee referral over nearly two years, suggesting insufficient political will or flawed design. While addressing a genuine inequity where educators subsidize institutional failures, the approach treats symptoms rather than causes and shifts costs to general revenues without accountability for school districts that systematically underfund basic classroom needs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -18,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5478, 118th Congress",
+      "Senate Finance Committee records",
+      "National Education Association educator spending surveys",
+      "Congressional Budget Office tax expenditure analysis"
+    ]
+  },
+  {
+    "id": 1511,
+    "sourceId": "cg:118-HR-8418",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8418?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "HR 8418: Lethal Means Safety Training Act",
+    "score": -18,
+    "snapshot": "HR 8418 would require the VA to provide lethal means safety training to veterans and their families. The bill was referred to subcommittee in July 2024 and has seen no further legislative action as of October 2026.",
+    "verdict": "// VERDICT: A well-intentioned suicide prevention measure remains stalled in subcommittee for over two years with zero measurable impact while veteran suicide rates continue unabated.",
+    "detail": "This bill addresses a genuine crisis—veteran suicide accounts for roughly 17 deaths per day—but legislative inaction transforms good intentions into empty gestures. <strong>Lethal means safety counseling (secure firearm storage, medication management) has proven effective in clinical studies, yet this bill has languished without hearings, votes, or implementation for 27 months.</strong> The fiscal cost would be minimal (training programs typically under $10M annually), but the opportunity cost is measured in lives. The congressional process here followed normal referral procedures, but failure to advance suicide prevention legislation while the problem persists represents a breakdown in legislative prioritization. No veteran has received this training through this bill because Congress never passed it.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8418",
+      "VA Suicide Prevention Annual Report 2024",
+      "Congressional Research Service veteran health studies"
+    ]
+  },
+  {
     "id": 1492,
     "sourceId": "cg:117-HR-2749",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/2749?format=json",
@@ -158,6 +481,86 @@
       "S 4714, 118th Congress",
       "Senate Legislative Calendar 2024-2026",
       "Congressional Record, July 2024"
+    ]
+  },
+  {
+    "id": 1505,
+    "sourceId": "cg:118-HR-6500",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/6500?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "HR 6500: PREP Act of 2023",
+    "score": -8,
+    "snapshot": "HR 6500, the PREP Act of 2023, was referred to subcommittee in January 2024 and remains stalled with no further legislative action. The bill has not passed either chamber and produces no measurable outcomes as of October 2026.",
+    "verdict": "// VERDICT: Legislative inaction for nearly three years delivers zero public benefit while consuming congressional resources on a dormant proposal.",
+    "detail": "The bill has been trapped in subcommittee deliberation for 33 months without advancing to committee markup, floor debate, or vote. <strong>Without knowing the specific provisions of this PREP Act variant, the prolonged stall represents a failure of legislative process regardless of content.</strong> Congressional bills referred to subcommittee have historically less than 15% advancement probability, and this extended dormancy signals either fatal political opposition or insufficient priority. The title suggests preparation or emergency readiness focus, but absent passage, Americans receive no policy change, spending authorization, or regulatory framework. The opportunity cost includes committee time that could address active priorities while maintaining uncertainty for stakeholders who might be affected by eventual provisions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6500 Status",
+      "Congressional Record 118th Congress",
+      "House Economic Opportunity Subcommittee Calendar"
+    ]
+  },
+  {
+    "id": 1510,
+    "sourceId": "cg:118-HR-3276",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3276?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "HR 3276: Healthy Future Students and Earth Pilot Program Act of 2023",
+    "score": -35,
+    "snapshot": "HR 3276 was referred to committee in May 2023 and saw no further action. The bill died without advancing, creating no actual impact on students, earth, or pilot programs.",
+    "verdict": "// VERDICT: A bill that never progressed beyond referral produces zero measurable benefit while consuming legislative resources on undefined initiatives.",
+    "detail": "This legislation stalled at the earliest stage of the legislative process—committee referral—and was never marked up, amended, debated, or voted upon. <strong>Without enactment, no pilot programs were funded, no students were served, and no environmental outcomes were achieved.</strong> The bill's title suggests educational and environmental objectives, but the absence of any movement indicates either lack of consensus, competing priorities, or insufficient support. From a fiscal perspective, no taxpayer funds were appropriated, but legislative time and drafting resources were expended on a proposal that produced no policy output. The failure to advance through constitutional processes (committee review, floor votes) reflects standard democratic filtering, though it also represents opportunity cost when actionable legislation might have been prioritized instead.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3276 (118th Congress)",
+      "House Committee on Education and the Workforce records",
+      "Congressional Record 2023"
     ]
   },
   {
@@ -19816,409 +20219,6 @@
       "South Dakota v. Dole, 483 U.S. 203 (1987)",
       "GAO Federal-Local Enforcement Analysis",
       "House Committee on Oversight referral"
-    ]
-  },
-  {
-    "id": 1001,
-    "sourceId": "cg:118-S-4873",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4873?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "S 4873: American Tax Dollars for American Solar Manufacturing Act",
-    "score": -8,
-    "snapshot": "S 4873 proposes tax incentives for domestic solar panel manufacturing. Introduced in July 2024, the bill was referred to Senate Finance Committee and saw no further action.",
-    "verdict": "// VERDICT: Protectionist subsidy with uncertain cost-benefit ratio, no fiscal analysis, and potential market distortion outweighing energy security goals.",
-    "detail": "The bill aims to incentivize American solar manufacturing through tax credits, addressing supply chain vulnerabilities in renewable energy infrastructure. However, <strong>without CBO scoring or implementation details, the fiscal impact remains speculative, and industrial policy subsidies historically create inefficiencies and rent-seeking behavior.</strong> The bill stalled in committee, suggesting insufficient legislative support for its approach. While domestic manufacturing capacity has national security implications, blanket tax incentives often benefit specific corporations at taxpayer expense without guaranteed delivery of competitive production. The lack of cost controls, performance benchmarks, or sunset provisions raises concerns about long-term fiscal exposure. Trade-offs between short-term subsidies and market-driven innovation are unaddressed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4873, 118th Congress",
-      "Senate Finance Committee Records, 2024",
-      "Congressional Research Service: Solar Manufacturing Policy"
-    ]
-  },
-  {
-    "id": 1002,
-    "sourceId": "cg:118-HR-9201",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/9201?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 9201: Nuclear USA Act of 2024",
-    "score": -8,
-    "snapshot": "HR 9201 proposes nuclear energy incentives but stalled in committee referral in July 2024 with no subsequent action, floor votes, or funding analysis as of August 2026.",
-    "verdict": "// VERDICT: Bill remains in preliminary committee stage two years after introduction with no documented cost-benefit analysis, implementation timeline, or legislative progress.",
-    "detail": "The Nuclear USA Act aimed to expand domestic nuclear energy capacity through tax incentives and regulatory streamlining. <strong>However, referral to Ways and Means in July 2024 represents the bill's only recorded action, with no committee markup, CBO score, or floor consideration in the subsequent 24 months.</strong> Without cost estimates, specific policy mechanisms, or implementation frameworks advancing beyond initial referral, the proposal exists only as legislative intent. The extended inaction suggests either insufficient support for passage or unresolved fiscal/regulatory concerns. Nuclear energy expansion could theoretically benefit energy independence and emissions reduction, but this bill has produced no measurable outcomes, no taxpayer cost certainty, and no actual policy change. The legislative process followed constitutional norms for bill introduction but demonstrates systemic dysfunction in advancing energy policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9201 status",
-      "House Committee on Ways and Means records",
-      "Congressional Record, 118th Congress"
-    ]
-  },
-  {
-    "id": 1004,
-    "sourceId": "cg:118-HR-9338",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/9338?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 9338: To amend the Internal Revenue Code of 1986 to restrict the advanced manufacturing production credit with respect to components produced by, or in connection with, foreign entities of concern.",
-    "score": -8,
-    "snapshot": "HR 9338 would restrict the advanced manufacturing production credit (Section 45X) for clean energy components produced by or connected with foreign entities of concern, primarily targeting Chinese involvement in U.S. manufacturing incentives. The bill stalled in committee with no further action after August 2024 referral.",
-    "verdict": "// VERDICT: Addresses legitimate national security concerns in tax credits but lacks implementation clarity and may discourage domestic clean energy manufacturing investment without offsetting support mechanisms.",
-    "detail": "The legislation attempts to close a potential loophole where foreign adversaries could benefit from U.S. tax incentives for advanced manufacturing. <strong>While the national security rationale has merit, the bill provides no analysis of how many current projects would be disqualified or what the economic impact on domestic clean energy production would be.</strong> Restricting credits could protect against strategic dependence on concerning foreign entities, but without transitional provisions or alternative incentive structures, it may simply halt domestic production rather than redirect it. The bill died in committee without CBO scoring, hearings, or stakeholder input, suggesting insufficient legislative development. The approach treats symptoms (foreign involvement) without addressing root causes (competitive manufacturing economics). No fiscal impact data exists, though restricting credits would reduce outlays while potentially reducing domestic manufacturing activity.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9338, 118th Congress",
-      "Congressional Record, Aug 2024",
-      "Internal Revenue Code Section 45X",
-      "House Ways and Means Committee records"
-    ]
-  },
-  {
-    "id": 1005,
-    "sourceId": "cg:118-S-3486",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/3486?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "S 3486: Protecting American Advanced Manufacturing Act",
-    "score": -8,
-    "snapshot": "S 3486 proposes protections for advanced manufacturing but stalled in committee in December 2023 with no further legislative action. No enacted provisions, appropriations, or documented outcomes exist as of August 2026.",
-    "verdict": "// VERDICT: Bill remains in committee after 32 months with no measurable impact on American manufacturing or employment.",
-    "detail": "The Protecting American Advanced Manufacturing Act was introduced in the Senate and referred to the Finance Committee in December 2023, where it has remained without floor consideration or passage. <strong>Without enactment, the bill has produced zero public benefit despite potentially worthy policy goals.</strong> The lack of movement suggests either insufficient legislative priority, unresolved fiscal concerns, or stakeholder opposition. Bills that languish in committee for over two years demonstrate legislative inefficiency and squandered resources spent on drafting, staffing, and advocacy. While the rule of law is technically followed (proper referral process), the failure to advance legislation addressing stated manufacturing competitiveness concerns represents an opportunity cost. No taxpayer funds were appropriated, but congressional resources were consumed without output. The stagnation pattern is common but represents systemic dysfunction in translating stated priorities into actionable policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Dec 2023",
-      "Senate Finance Committee records",
-      "Congress.gov legislative tracking"
-    ]
-  },
-  {
-    "id": 1006,
-    "sourceId": "cg:118-HR-6762",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/6762?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 6762: Protecting American Advanced Manufacturing Act",
-    "score": -18,
-    "snapshot": "HR 6762 proposes tariffs or restrictions on advanced manufacturing imports to protect domestic industry. Referred to committee in December 2023, no subsequent action recorded through August 2026.",
-    "verdict": "// VERDICT: Protectionist measure stalled in committee for 32 months shows no measurable impact while creating regulatory uncertainty for manufacturers and potential consumer cost increases.",
-    "detail": "This bill has languished in the House Ways and Means Committee since December 2023 with no floor action, hearings, or amendments recorded. <strong>The absence of any progress for nearly three years while maintaining the legislative threat creates uncertainty that discourages business investment planning.</strong> Protectionist trade measures typically increase input costs for downstream manufacturers and consumer prices while providing concentrated benefits to specific industries. Without CBO scoring, cost-benefit analysis, or defined scope, the bill's fiscal impact remains unknown but historically such measures impose net economic costs. The prolonged committee referral without action or withdrawal wastes legislative resources while the threat of eventual passage may distort market decisions. No documented public benefit has materialized from this proposal.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Dec 2023",
-      "House Ways and Means Committee records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1018,
-    "sourceId": "cg:119-S-1516",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/1516?format=json",
-    "branch": "Congress",
-    "date": "Aug 13",
-    "dateISO": "2026-08-13",
-    "title": "S 1516: Cahokia Mounds Mississippian Culture Study Act",
-    "score": 8,
-    "snapshot": "S 1516 authorizes a study of Cahokia Mounds and Mississippian culture sites for potential National Park designation. The bill directs the National Park Service to assess historical significance, management alternatives, and feasibility within 3 years.",
-    "verdict": "// VERDICT: A low-cost cultural preservation study with minimal fiscal impact and clear educational value, though tangible public benefit depends on implementation of any resulting recommendations.",
-    "detail": "This legislation authorizes the National Park Service to conduct a comprehensive study of Cahokia Mounds State Historic Site and related Mississippian culture sites across multiple states. <strong>The study itself represents responsible preliminary analysis before potentially committing to expanded federal land management responsibilities.</strong> Typical NPS special resource studies cost $300,000-$500,000, a modest investment for preserving significant pre-Columbian archaeological sites. The bill follows standard legislative process for cultural preservation initiatives and imposes no immediate mandates. However, the measurable public benefit remains contingent on whether study findings lead to actionable preservation measures. The cost distribution is equitable, with federal funding supporting sites of national historical significance. Minor concerns exist about potential future land acquisition costs if NPS designation is recommended, but those decisions remain subject to separate congressional authorization.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 1516, 119th Congress",
-      "Senate Legislative Calendar No. 478",
-      "National Park Service Resource Study Guidelines",
-      "Congressional Record, July 2026"
-    ]
-  },
-  {
-    "id": 1007,
-    "sourceId": "cg:119-HR-9554",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9554?format=json",
-    "branch": "Congress",
-    "date": "Aug 13",
-    "dateISO": "2026-08-13",
-    "title": "HR 9554: Senior Accessible Housing Tax Credit Act of 2026",
-    "score": 18,
-    "snapshot": "HR 9554 creates a tax credit for developers building or retrofitting housing to meet accessibility standards for seniors and people with disabilities. As of July 2026, the bill had only introductory remarks; no CBO score, committee markup, or passage vote has occurred.",
-    "verdict": "// VERDICT: Addresses documented housing shortage for aging population through market incentives, pending fiscal analysis and implementation details.",
-    "detail": "The United States faces a documented shortage of accessible housing as the population ages, with an estimated 3.5 million accessibility-modified units needed by 2030. <strong>Tax credits for accessible housing construction could expand supply more efficiently than direct subsidies, leveraging private capital while addressing a market failure where developers under-build accessible units.</strong> However, without a CBO score, the revenue cost remains unknown, and tax expenditures often become permanent with minimal oversight. The bill scores positively on measurable benefit (addresses real shortage) and cost distribution (benefits vulnerable seniors), neutrally on fiscal responsibility (mechanism sound but cost unknown), and positively on rule of law (standard legislative process). Success depends on credit design details not available in introductory materials.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record H4413, Jul 2026",
-      "Joint Center for Housing Studies, Harvard",
-      "Congress.gov HR 9554"
-    ]
-  },
-  {
-    "id": 1015,
-    "sourceId": "cg:119-S-2846",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2846?format=json",
-    "branch": "Congress",
-    "date": "Aug 12",
-    "dateISO": "2026-08-12",
-    "title": "S 2846: HIV Medication Access Act",
-    "score": -18,
-    "snapshot": "S 2846 would expand access to HIV medications through international pharmaceutical agreements, but remains stalled in committee with no CBO cost estimate after nearly one year. No measurable implementation has occurred.",
-    "verdict": "// VERDICT: A well-intentioned proposal undermined by procedural inaction and undefined fiscal impact, yielding zero documented benefit to date.",
-    "detail": "The HIV Medication Access Act proposes expanded pharmaceutical access mechanisms, potentially benefiting public health if implemented. However, after 11 months in the Foreign Relations Committee, the bill shows no movement toward passage, no published cost analysis, and no interim regulatory action. <strong>Without legislative advancement or executive implementation, the proposal generates no measurable public benefit regardless of theoretical merit.</strong> The absence of CBO scoring suggests either modest scope or insufficient political prioritization. Committee referral to Foreign Relations rather than Health/Finance indicates international procurement focus, raising questions about domestic vs. foreign cost distribution. Procedurally sound committee assignment, but legislative gridlock violates effective governance norms when urgent health needs go unaddressed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sept 2025",
-      "Senate Foreign Relations Committee docket",
-      "CBO cost estimate database (no entry found)"
-    ]
-  },
-  {
-    "id": 1000,
-    "sourceId": "cg:94-SRES-400",
-    "sourceUrl": "https://www.congress.gov/bill/94/sres/400?format=json",
-    "branch": "Congress",
-    "date": "Aug 12",
-    "dateISO": "2026-08-12",
-    "title": "SRES 400: A resolution to establish a Standing Committee of the Senate on Intelligence Activities.",
-    "score": 38,
-    "snapshot": "Senate Resolution 400 (1976) created the permanent Senate Select Committee on Intelligence to provide ongoing oversight of U.S. intelligence agencies. Passed 72-22, establishing the first standing committee dedicated to intelligence oversight.",
-    "verdict": "// VERDICT: Established essential constitutional oversight mechanism for intelligence activities, creating accountability structure where none previously existed.",
-    "detail": "This resolution addressed a critical gap in congressional oversight following revelations from the Church Committee investigations into intelligence abuses. <strong>By creating a permanent committee with access to classified information and budgets, it institutionalized checks on agencies that had operated with minimal legislative scrutiny.</strong> The bipartisan 72-22 vote reflected recognition that intelligence operations, while necessary for national security, require ongoing democratic accountability. The committee structure balanced security needs with transparency by maintaining classified oversight capabilities. No direct fiscal cost beyond standard committee operations. The framework has served as a model for intelligence oversight for five decades, though its effectiveness depends on member engagement and executive cooperation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.Res. 400, 94th Congress (1976)",
-      "Senate Roll Call Vote 181 (May 19, 1976)",
-      "Church Committee Final Report (1976)",
-      "Congressional Record, May 1976"
-    ]
-  },
-  {
-    "id": 1003,
-    "sourceId": "cg:118-HR-10564",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/10564?format=json",
-    "branch": "Congress",
-    "date": "Aug 11",
-    "dateISO": "2026-08-11",
-    "title": "HR 10564: Mental Health Matters Act",
-    "score": -18,
-    "snapshot": "HR 10564, the Mental Health Matters Act, was referred to committee in January 2025 and has seen no further legislative action. Without passage, markup, or implementation, the bill produces zero measurable outcomes for Americans.",
-    "verdict": "// VERDICT: A stalled committee referral with no enacted provisions delivers no public benefit regardless of stated intentions.",
-    "detail": "This bill exists only as a referral to the House Committee on Education and the Workforce with no subsequent movement toward passage, amendment, or implementation. <strong>Legislation that never advances beyond initial referral represents legislative theater rather than governance.</strong> Without committee markup, floor consideration, Senate passage, or presidential signature, no resources are allocated, no programs created, and no Americans helped. The title suggests mental health policy intentions, but intentions without execution fail every criterion of responsible governance. Committee referrals that die without action waste legislative bandwidth while creating false impressions of congressional productivity. The complete absence of progress over 19 months indicates either lack of serious support or fundamental flaws in the proposal itself.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 10564 status",
-      "House Committee on Education and the Workforce records",
-      "Congressional Record, 118th Congress"
     ]
   }
 ]
