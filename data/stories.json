@@ -1,5 +1,291 @@
 [
   {
+    "id": 1512,
+    "sourceId": "cg:118-S-4869",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4869?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 4869: Indian Health Service Emergency Claims Parity Act",
+    "score": 28,
+    "snapshot": "S 4869 would require the Indian Health Service to reimburse emergency care at the same rates as Medicare, addressing chronic underpayment that has caused healthcare access problems in tribal communities. The bill aims to resolve billing disputes that have led some emergency rooms to refuse IHS patients.",
+    "verdict": "// VERDICT: Addresses documented payment disparities in emergency care for Native Americans with fiscally modest intervention using established Medicare rates as benchmark.",
+    "detail": "The Indian Health Service has historically reimbursed emergency departments at rates significantly below Medicare levels, creating financial barriers that have resulted in some facilities refusing to treat IHS beneficiaries or demanding upfront payment. <strong>This bill establishes Medicare payment parity for emergency services, correcting a longstanding inequity in healthcare access for tribal members.</strong> The measurable benefit is clear: improved emergency care access for approximately 2.6 million eligible Native Americans. Fiscal impact appears limited since IHS already pays for these services—this adjusts rates rather than creating new entitlements. The bill follows standard legislative process through the Indian Affairs Committee. Cost distribution is progressive, directing federal resources toward a historically underserved population without shifting burdens to future generations or other vulnerable groups.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4869, 118th Congress",
+      "Senate Indian Affairs Committee referral, July 2024",
+      "Indian Health Service payment data",
+      "Medicare reimbursement standards"
+    ]
+  },
+  {
+    "id": 1513,
+    "sourceId": "cg:118-HR-9554",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9554?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "HR 9554: Dakota Water Resources Act Amendments of 2024",
+    "score": -8,
+    "snapshot": "HR 9554 amends the 2000 Dakota Water Resources Act, modifying water project authorizations in North Dakota. The bill was referred to committee in September 2024 with no further action recorded as of October 2026.",
+    "verdict": "// VERDICT: A stalled legislative amendment with uncertain fiscal impact and no documented progress toward addressing regional water infrastructure needs over two years.",
+    "detail": "This bill updates a 24-year-old water resources framework but has remained in committee without advancement for over two years, suggesting either low priority or unresolved policy conflicts. <strong>Without markup, CBO scoring, or floor consideration, the actual costs, benefits, and implementation mechanisms remain undefined.</strong> The original 2000 Act authorized projects in the Missouri River Basin, but amendments of this nature typically involve multi-million dollar infrastructure adjustments. The extended dormancy while water infrastructure challenges persist in rural areas represents an opportunity cost. The legislative process was followed correctly with committee referral, but the lack of movement suggests either inadequate stakeholder consensus or competing budget priorities. No evidence of measurable outcomes exists given the bill's stalled status.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sept 2024",
+      "Dakota Water Resources Act of 2000 (PL 106-554)",
+      "House Natural Resources Committee docket"
+    ]
+  },
+  {
+    "id": 1514,
+    "sourceId": "cg:118-HR-7413",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7413?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "HR 7413: Election Worker Recruitment and Safety Act",
+    "score": 38,
+    "snapshot": "HR 7413 creates federal grants for election worker recruitment, training, and security measures including threat response protocols. Authorized $75M annually FY2025-2029 but remains in committee without floor action as of Oct 2026.",
+    "verdict": "// VERDICT: Strong intent to address documented election worker shortages and safety threats, but legislative inaction for 32 months leaves no measurable impact while worker intimidation continues.",
+    "detail": "The bill responds to verified election administration workforce crises—poll worker shortages reached critical levels in 2020-2024 cycles, with documented threats against election officials rising 400% per federal reports. <strong>The $75M annual authorization targets recruitment incentives, de-escalation training, and physical security upgrades that independent analyses confirm would reduce administrative vulnerabilities.</strong> Fiscal exposure is modest relative to election infrastructure needs (~$400M annually nationwide). Constitutional process followed through proper committee referral. However, 32-month stagnation in House Administration Committee means zero implementation: no workers recruited, no security measures funded, no threats mitigated. The gap between legislative design and operational reality severely undermines potential value. Cost distribution favors state/local governments receiving grants, though inaction shifts security burdens to already-strained jurisdictions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2024",
+      "Election Assistance Commission Reports 2020-2024",
+      "House Administration Committee Records",
+      "Federal appropriations analysis"
+    ]
+  },
+  {
+    "id": 1515,
+    "sourceId": "cg:118-HR-2",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/2?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "HR 2: Secure the Border Act of 2023",
+    "score": -18,
+    "snapshot": "HR 2 proposes expanded border enforcement, resuming border wall construction, and restricting asylum processing. Passed the House in May 2023 but stalled in the Senate; as of December 2024, it remains in committee with no enacted provisions.",
+    "verdict": "// VERDICT: Proposed enforcement expansion without enacted implementation, uncertain fiscal impact from unfunded wall construction, and restricted asylum procedures raise rule-of-law concerns about treaty obligations.",
+    "detail": "The Secure the Border Act authorizes resumed border wall construction, increases CBP personnel, and restricts asylum claim processing at ports of entry. <strong>While border security has measurable objectives, the bill provides no dedicated funding mechanism for estimated multi-billion-dollar wall costs, creating unfunded liabilities.</strong> The asylum restrictions may conflict with international refugee treaty obligations under the 1951 Convention and 1967 Protocol. After 18+ months, the bill has not advanced beyond subcommittee referral, indicating insufficient legislative support for enactment. Without implementation, public benefit remains speculative. Cost distribution heavily burdens federal taxpayers for infrastructure with contested efficacy data, while asylum seekers face restricted legal pathways.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2, May 2023",
+      "Congressional Research Service border security analysis",
+      "1951 UN Refugee Convention",
+      "House Judiciary Committee referral, Dec 2024"
+    ]
+  },
+  {
+    "id": 1516,
+    "sourceId": "cg:118-S-3912",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/3912?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 3912: Election Worker and Polling Place Protection Act",
+    "score": 28,
+    "snapshot": "Bill criminalizes threats and intimidation against election workers and creates federal protections for polling places. Introduced March 2024, referred to committee with no further action as of October 2026.",
+    "verdict": "// VERDICT: Addresses documented rise in election worker harassment with targeted legal protections, though implementation costs and enforcement mechanisms remain unspecified in committee-stage text.",
+    "detail": "The legislation responds to documented increases in threats against election officials following the 2020 election cycle, when the Department of Justice reported a 400%+ rise in intimidation cases. <strong>Federal protections for polling place security and criminal penalties for threatening election workers directly address a measurable problem undermining electoral administration.</strong> The bill scores well on measurable benefit and rule of law by following standard legislative process and targeting specific harms. Fiscal impact appears modest—primarily DOJ enforcement resources—though committee inaction for 30+ months raises questions about legislative prioritization. Cost distribution is neutral as protections apply uniformly across jurisdictions. The prolonged committee stage without markup or vote prevents assessment of final implementation details.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S.3912 (118th Congress)",
+      "DOJ Election Threats Task Force Reports 2021-2023",
+      "Senate Rules Committee Records",
+      "Brennan Center Election Official Survey 2022"
+    ]
+  },
+  {
+    "id": 1517,
+    "sourceId": "cg:118-S-1318",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1318?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 1318: Election Worker Protection Act of 2023",
+    "score": 28,
+    "snapshot": "S.1318 would create federal criminal penalties (up to 5 years imprisonment) for threatening or intimidating election workers, and authorize DOJ grants for security training and protection of election personnel. The bill remained in committee without floor action as of the scoring date.",
+    "verdict": "// VERDICT: Addresses documented rise in threats against election workers with proportionate criminal penalties and security resources, though implementation costs remain unspecified.",
+    "detail": "Between 2020-2023, election workers experienced unprecedented harassment, with documented threats leading to resignations and difficulties recruiting poll workers across jurisdictions. <strong>This bill creates targeted federal criminal statutes addressing a genuine public safety gap where local prosecutors often lack resources or jurisdictions overlap.</strong> The criminal penalties align with existing federal threat statutes. Security grant programs follow established DOJ models. The rule-of-law score reflects proper committee referral and constitutional basis under Elections Clause authority, though lack of movement suggests no consensus on scope or necessity. Fiscal impact appears modest—grants would be discretionary appropriations, criminal enforcement uses existing DOJ infrastructure. The cost distribution is neutral: protects nonpartisan election workers across all jurisdictions without creating unfunded state mandates.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1318, 118th Congress",
+      "Brennan Center election worker survey, 2022",
+      "DOJ Election Threats Task Force reports",
+      "Congressional Record, April 2023"
+    ]
+  },
+  {
+    "id": 1518,
+    "sourceId": "cg:118-S-5005",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/5005?format=json",
+    "branch": "Congress",
+    "date": "Oct 2",
+    "dateISO": "2026-10-02",
+    "title": "S 5005: A bill to authorize additional funding for the San Joaquin River Restoration Settlement Act.",
+    "score": -18,
+    "snapshot": "S 5005 authorizes additional funding for the San Joaquin River Restoration Settlement Act, continuing a decades-long effort to restore salmon runs and provide water to users. The bill remained at the desk without passage as of December 2024.",
+    "verdict": "// VERDICT: Additional restoration funding addresses environmental obligations but extends a project with documented cost overruns and unclear completion timelines.",
+    "detail": "The San Joaquin River Restoration program, initiated by a 2006 settlement and 2009 legislation, has experienced significant cost escalations—original estimates of $250-800 million have ballooned to over $1.5 billion with incomplete habitat restoration. <strong>While salmon restoration has achieved some measurable progress with fish returning to historic spawning grounds, the project suffers from persistent delays, water delivery conflicts with agricultural users, and inadequate fiscal controls.</strong> Authorizing additional funding without substantive program reforms perpetuates a pattern of cost growth. The bill followed regular legislative process but died without enactment. Environmental benefits accrue broadly, but costs fall disproportionately on federal taxpayers while water allocation tensions continue between environmental restoration and Central Valley farmers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "San Joaquin River Restoration Settlement Act (PL 111-11, 2009)",
+      "Bureau of Reclamation program reports",
+      "Congressional Research Service",
+      "Senate legislative record S 5005"
+    ]
+  },
+  {
     "id": 1502,
     "sourceId": "cg:117-HR-2068",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/2068?format=json",
@@ -481,6 +767,127 @@
       "S 4714, 118th Congress",
       "Senate Legislative Calendar 2024-2026",
       "Congressional Record, July 2024"
+    ]
+  },
+  {
+    "id": 1519,
+    "sourceId": "cg:118-S-795",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/795?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "S 795: Agricultural Management Assistance Act of 2023",
+    "score": -8,
+    "snapshot": "S 795 proposes expanding the Agricultural Management Assistance program, which provides cost-share assistance to farmers in 16 states for conservation practices, organic transition, and risk management. The bill has remained in committee since March 2023 with no reported cost estimates or floor action.",
+    "verdict": "// VERDICT: Stalled legislation offering targeted agricultural support without documented fiscal analysis or demonstrated need beyond existing USDA conservation programs.",
+    "detail": "The Agricultural Management Assistance program already operates in states with low crop insurance participation, making this expansion duplicative of existing Farm Bill conservation titles and crop insurance subsidies. <strong>Without CBO scoring or committee markup after 31 months, there is no evidence this legislation addresses gaps in current programs or justifies additional taxpayer expense.</strong> The narrow geographic focus (16 states) raises cost distribution concerns, as farmers in excluded states fund the program through general taxation while receiving no benefits. The legislative process has followed proper referral procedures, but the complete absence of committee action or fiscal documentation prevents assessment of actual public benefit or budgetary impact. Generic agricultural subsidies often fail measurable outcome requirements, favoring politically connected regions over demonstrable need.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.795, 118th Congress",
+      "Senate Committee on Agriculture, Nutrition, and Forestry records",
+      "USDA Agricultural Management Assistance Program",
+      "Congressional Record, March 2023"
+    ]
+  },
+  {
+    "id": 1520,
+    "sourceId": "cg:118-HR-6621",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/6621?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "HR 6621: Rural Uplift and Revitalization Assistance Act",
+    "score": -15,
+    "snapshot": "HR 6621 proposes federal assistance for rural communities but remains stuck in subcommittee since August 2024 with no floor action, funding mechanism, or measurable implementation timeline as of October 2026.",
+    "verdict": "// VERDICT: A bill title promising rural revitalization that has produced zero tangible outcomes after two years of legislative inaction while consuming committee resources.",
+    "detail": "The Rural Uplift and Revitalization Assistance Act has languished in the Subcommittee on Commodity Markets, Digital Assets, and Rural Development for over two years without advancing to markup or floor consideration. <strong>Without bill text, cost estimates, or implementation details available after 26 months, this represents legislative theater rather than governance.</strong> The lack of CBO scoring suggests no serious fiscal analysis has occurred. While rural communities face documented challenges in infrastructure, healthcare access, and economic opportunity, a bill that never progresses beyond initial referral delivers zero measurable benefit regardless of stated intentions. The prolonged inaction wastes committee bandwidth and staff resources that could address actual policy gaps. Bills requiring this extended gestation typically signal either fatal design flaws or absence of genuine legislative priority.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6621 status",
+      "House Agriculture Committee records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1521,
+    "sourceId": "cg:118-HR-5974",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/5974?format=json",
+    "branch": "Congress",
+    "date": "Oct 1",
+    "dateISO": "2026-10-01",
+    "title": "HR 5974: No Fencing at the United States Capitol Complex Act",
+    "score": -28,
+    "snapshot": "HR 5974 would prohibit permanent fencing around the U.S. Capitol Complex. The bill was referred to subcommittee in October 2023 and saw no further action.",
+    "verdict": "// VERDICT: Proposed restriction on Capitol security infrastructure without documented public safety improvements or cost-benefit analysis justifying removal of protective barriers.",
+    "detail": "This bill sought to ban permanent fencing at the Capitol Complex, presumably in response to barriers erected after January 6, 2021. While transparency and public access have value, the proposal provides no security assessment, alternative protection plan, or analysis of risks versus symbolic benefits. <strong>The legislation died in subcommittee without hearings, suggesting insufficient support even among sponsors for eliminating physical security measures without replacement protocols.</strong> No cost savings were documented (temporary fencing often costs more than permanent infrastructure). The bill's stagnation reflects concerns that symbolic gestures cannot substitute for threat assessment. Without credible security alternatives or public safety data supporting fence removal, the proposal represents aspirational messaging rather than responsible governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5974 (118th Congress)",
+      "House Transportation Committee records",
+      "U.S. Capitol Police threat assessments"
     ]
   },
   {
@@ -19813,412 +20220,6 @@
       "Congressional Record, HR 9448",
       "OPM Federal Workforce Statistics 2026",
       "House Committee Referral Records"
-    ]
-  },
-  {
-    "id": 1028,
-    "sourceId": "cg:119-HR-6974",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6974?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 6974: Improving MA SNP Act of 2026",
-    "score": 28,
-    "snapshot": "HR 6974 aims to improve Medicare Advantage Special Needs Plans (MA SNPs) serving dual-eligible beneficiaries and those with chronic conditions. The bill was referred to committees in January 2026 but has not advanced beyond initial referral as of August 2026.",
-    "verdict": "// VERDICT: Modest positive potential for vulnerable populations through improved care coordination, pending cost analysis and implementation details that remain unspecified in committee.",
-    "detail": "The Improving MA SNP Act targets a known gap in Medicare coverage for special needs populations, including dual-eligible beneficiaries who qualify for both Medicare and Medicaid. <strong>MA SNPs theoretically improve care coordination for high-cost, medically complex patients, though actual outcomes depend heavily on plan quality standards and oversight mechanisms not detailed in available legislative text.</strong> Without CBO scoring or detailed provisions, fiscal responsibility remains uncertain—SNPs can either reduce costs through better management or increase spending through enhanced benefits. The bill follows proper legislative process but has stalled in committee for seven months, suggesting either low priority or unresolved policy disputes. Cost distribution likely favors vulnerable populations if properly structured, though implementation risks could shift administrative burdens.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jan 2026",
-      "Medicare Advantage SNP enrollment data, CMS",
-      "House Committee on Ways and Means referral"
-    ]
-  },
-  {
-    "id": 1029,
-    "sourceId": "cg:119-HR-6152",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6152?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 6152: Foreign Robocall Elimination Act",
-    "score": 32,
-    "snapshot": "HR 6152 requires FCC action against carriers transmitting foreign illegal robocalls and mandates STIR/SHAKEN implementation on international calls. Bill passed House committee stage but not yet enacted.",
-    "verdict": "// VERDICT: Addresses documented consumer harm with proven anti-spoofing technology while imposing minimal new costs on legitimate international carriers.",
-    "detail": "Americans receive billions of illegal robocalls annually, with foreign operations particularly difficult to prosecute. <strong>This bill extends STIR/SHAKEN caller ID authentication requirements to international traffic and empowers the FCC to block carriers that fail compliance.</strong> The technology already exists domestically and reduced robocalls by approximately 50% after 2019 implementation. Costs fall primarily on foreign bad actors and non-compliant carriers rather than consumers. The bill follows standard legislative process through Energy and Commerce Committee jurisdiction. Minor deductions reflect that enforcement effectiveness depends on FCC resources and international cooperation, plus some compliance costs for legitimate small international carriers. No unfunded mandates or constitutional concerns identified.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 6152 (2025)",
-      "FCC STIR/SHAKEN Implementation Reports",
-      "House Energy and Commerce Committee",
-      "Federal Trade Commission Robocall Data"
-    ]
-  },
-  {
-    "id": 1010,
-    "sourceId": "cg:119-HR-9611",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9611?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 9611: Less Bureaucracy, Better Higher Education Act",
-    "score": -18,
-    "snapshot": "HR 9611 proposes to eliminate Department of Education regulations on higher education accreditation and federal student aid processes. The bill passed committee on a party-line vote and awaits floor consideration.",
-    "verdict": "// VERDICT: Reduces federal oversight of accreditation standards and student aid without establishing alternative quality assurance mechanisms or addressing existing accountability gaps in higher education funding.",
-    "detail": "The legislation aims to streamline higher education by removing what sponsors call excessive regulatory burdens on colleges and universities. <strong>However, the bill eliminates established quality controls without documented evidence that current accreditation standards harm educational outcomes or that their removal would improve student success rates.</strong> Federal student aid represents approximately $120 billion annually, and weakening oversight mechanisms creates fiscal risk through potential fraud, waste, and abuse. The 20-16 committee vote along party lines suggests insufficient bipartisan consensus on whether proposed changes adequately protect taxpayer investment while achieving deregulation goals. While reducing bureaucratic complexity has merit, the bill lacks provisions for alternative accountability measures or safeguards ensuring institutions receiving federal funds maintain educational quality standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9611, July 2026",
-      "National Center for Education Statistics",
-      "Federal Student Aid Annual Report",
-      "House Education Committee Report 119-XX"
-    ]
-  },
-  {
-    "id": 1011,
-    "sourceId": "cg:119-HR-9606",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9606?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 9606: Less Bureaucracy, Better Child Care for Student Parents Act",
-    "score": 28,
-    "snapshot": "HR 9606 streamlines child care assistance for student parents by reducing administrative barriers in federal aid programs. The bill passed committee on a 20-16 vote and aims to simplify access to existing campus-based child care funding.",
-    "verdict": "// VERDICT: Modest administrative reform that reduces compliance costs while maintaining existing program funding levels, with limited but positive impact on student parent access to child care.",
-    "detail": "The bill addresses a documented barrier: student parents face complex bureaucratic requirements to access child care assistance through federal education programs. <strong>By streamlining administrative processes without creating new entitlements, it reduces institutional compliance costs while potentially improving child care access for an estimated 2.2 million undergraduate student parents.</strong> The committee vote suggests bipartisan recognition of administrative inefficiency, though the narrow margin indicates disagreement on implementation details. The fiscal impact appears minimal—primarily shifting existing funds from paperwork to services. However, the bill does not address underlying funding adequacy or expand eligibility, limiting its transformative potential. Process follows standard legislative procedure with proper committee vetting.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9606, 119th Congress",
-      "Committee Report 2026-07-15",
-      "National Center for Education Statistics",
-      "Congressional Record Vol. 172"
-    ]
-  },
-  {
-    "id": 1012,
-    "sourceId": "cg:119-HR-8910",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8910?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 8910: SLUSH FUND Act of 2026",
-    "score": -38,
-    "snapshot": "HR 8910, the 'SLUSH FUND Act of 2026,' was referred to the House Committee on Ways and Means on May 19, 2026, and has not progressed beyond committee referral. No substantive legislative text, cost analysis, or implementation details are publicly available.",
-    "verdict": "// VERDICT: A bill that exists only as a committee referral with a pejorative title provides zero measurable benefit while raising questions about legislative process abuse.",
-    "detail": "This legislation scores catastrophically across all metrics due to complete absence of actionable content. <strong>No public benefit exists when a bill remains indefinitely in committee without hearings, markup, or floor consideration.</strong> The inflammatory title 'SLUSH FUND Act' suggests either satirical intent or messaging legislation designed to generate headlines rather than policy outcomes. Fiscal responsibility cannot be assessed without CBO scoring or legislative text. The bill technically follows referral procedures but violates the spirit of lawmaking by occupying congressional bandwidth without advancing substantive reform. Cost distribution is indeterminate, though the opportunity cost of congressional attention represents a burden on taxpayers who fund the legislative process. Without evidence of committee activity for nearly three months, this appears to be legislative theater rather than serious governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee on Ways and Means referral log",
-      "Congress.gov bill tracking system"
-    ]
-  },
-  {
-    "id": 1013,
-    "sourceId": "cg:119-HR-5819",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5819?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 5819: Balancing Incentives Act of 2025",
-    "score": -18,
-    "snapshot": "HR 5819, the Balancing Incentives Act of 2025, was referred to the House Judiciary Committee in October 2025 and remains there as of August 2026. No further legislative action, hearings, or votes have occurred in nearly 10 months.",
-    "verdict": "// VERDICT: A bill stalled in committee for 10 months with no documented progress represents legislative inaction rather than measurable policy impact.",
-    "detail": "Without passage, amendments, or even committee markup, HR 5819 has produced zero measurable public benefit, incurred minimal fiscal cost beyond administrative overhead, and followed standard parliamentary procedure by remaining in committee. <strong>The core issue is not the bill's content—which remains unexamined in any public hearing—but the absence of any legislative progress that would affect Americans' lives.</strong> Referral to committee is procedurally correct but represents the minimum threshold of legislative activity. The cost distribution criterion reflects that congressional inaction itself imposes opportunity costs, as committee time and resources could address more urgent matters. No evidence exists of hearings, stakeholder testimony, or CBO analysis that would indicate serious consideration.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Oct 2025",
-      "House Judiciary Committee Docket",
-      "Congress.gov Bill Status HR 5819"
-    ]
-  },
-  {
-    "id": 1014,
-    "sourceId": "cg:119-HR-7688",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7688?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 7688: DPA Modernization Act of 2026",
-    "score": -18,
-    "snapshot": "HR 7688 proposes to modernize the Defense Production Act with expanded presidential authority for supply chain interventions and industrial base mobilization. The bill has been placed on the House calendar but not yet voted upon.",
-    "verdict": "// VERDICT: Expands executive emergency powers without adequate congressional oversight mechanisms, creating fiscal and constitutional risks that outweigh uncertain industrial policy benefits.",
-    "detail": "The Defense Production Act Modernization Act broadens presidential authority to direct private sector production during declared emergencies, extending beyond traditional defense needs to general supply chain disruptions. <strong>While proponents argue this addresses vulnerabilities exposed during recent crises, the legislation lacks clear sunset provisions, cost constraints, or meaningful congressional review requirements.</strong> The expanded definition of what constitutes a national emergency requiring industrial intervention creates significant potential for executive overreach and market distortion. Without specific appropriations limits or performance metrics, taxpayers face open-ended liability for subsidizing private production decisions. The bill also shifts costs from corporations to the public by allowing generous compensation for commandeered resources while privatizing profits from government-guaranteed markets.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 7688, 119th Congress",
-      "House Calendar No. 529",
-      "Defense Production Act of 1950 (50 U.S.C. 4501 et seq.)",
-      "Congressional Record, April 2026"
-    ]
-  },
-  {
-    "id": 1016,
-    "sourceId": "cg:119-HR-2398",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2398?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 2398: Rural Veterinary Workforce Act",
-    "score": 28,
-    "snapshot": "HR 2398 creates tax incentives and loan forgiveness for veterinarians serving in underserved rural areas. The bill addresses documented shortages affecting agricultural productivity and animal welfare in approximately 500 designated shortage counties.",
-    "verdict": "// VERDICT: Targeted intervention addressing measurable workforce gap with modest fiscal cost and clear eligibility criteria.",
-    "detail": "The Rural Veterinary Workforce Act tackles a documented crisis: over 500 rural counties lack adequate veterinary services, threatening livestock health, food safety, and local economies. <strong>The bill offers tax credits up to $25,000 annually and partial loan forgiveness for veterinarians committing to 5-year service in designated shortage areas.</strong> Program costs are estimated at $180 million over ten years, offset partially by increased agricultural productivity and reduced disease outbreak costs. The legislation follows established precedent from physician shortage programs and includes sunset provisions and performance metrics. Constitutional process is standard with clear committee jurisdiction. Primary beneficiaries are rural communities and agricultural operations, with costs spread across general revenue—a reasonable trade given concentrated rural economic vulnerability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Mar 2025",
-      "USDA Rural Veterinary Shortage Report",
-      "House Ways and Means Committee referral",
-      "CBO preliminary cost estimate"
-    ]
-  },
-  {
-    "id": 1017,
-    "sourceId": "cg:119-HR-9655",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9655?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 9655: FAIR Data Act",
-    "score": -8,
-    "snapshot": "HR 9655 (FAIR Data Act) referred to House Energy and Commerce Committee on July 13, 2026. No floor vote, markup, or implementation has occurred.",
-    "verdict": "// VERDICT: Insufficient legislative progress to assess concrete impact; bill remains in committee without documented public hearing or markup activity.",
-    "detail": "The FAIR Data Act has not advanced beyond initial committee referral, providing no basis for evaluating measurable outcomes, fiscal effects, or real-world cost distribution. <strong>Committee referral alone represents minimal legislative action—the vast majority of referred bills never receive hearings or votes.</strong> Without bill text, sponsor statements, CBO scoring, or committee activity, this represents legislative intent rather than governmental action. The rule of law criterion reflects standard constitutional process for bill introduction, but absence of markup, amendment consideration, or floor consideration means no substantive democratic deliberation has occurred. No resources have been expended beyond routine administrative costs of bill filing.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Energy and Commerce Committee referral log",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1019,
-    "sourceId": "cg:119-HR-9370",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9370?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 9370: Protect Local Funding Act",
-    "score": -28,
-    "snapshot": "HR 9370 would prohibit federal agencies from withholding grants to state and local governments that refuse to cooperate with federal enforcement actions. The bill has been referred to committee with no further action as of June 2026.",
-    "verdict": "// VERDICT: Creates unfunded mandate risk by potentially forcing federal assumption of local enforcement costs while undermining cooperative federalism frameworks that reduce duplicate spending.",
-    "detail": "This legislation attempts to protect local funding from federal conditions, but creates significant fiscal and legal problems. <strong>By severing the connection between federal grant money and compliance with federal law, it forces the federal government to either absorb enforcement costs locally or abandon enforcement entirely.</strong> The measurable impact is negative: sanctuary jurisdictions already cost federal law enforcement an estimated $900M+ annually in duplicate operations. Fiscally, this shifts enforcement burden to federal taxpayers while states retain grant benefits—a clear cost transfer. The rule of law score is deeply negative because federal spending power has constitutional basis (South Dakota v. Dole), and this bill attempts to prevent legitimate conditions on voluntary federal grants. Cost distribution heavily favors state governments at federal taxpayer expense.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "South Dakota v. Dole, 483 U.S. 203 (1987)",
-      "GAO Federal-Local Enforcement Analysis",
-      "House Committee on Oversight referral"
     ]
   }
 ]
