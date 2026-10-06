@@ -1,5 +1,412 @@
 [
   {
+    "id": 1533,
+    "sourceId": "cg:118-HR-8623",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8623?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "HR 8623: PROVE Act",
+    "score": -8,
+    "snapshot": "HR 8623 (PROVE Act) would require documentary proof of citizenship for voter registration in federal elections. The bill was referred to committee in June 2024 and saw no further action.",
+    "verdict": "// VERDICT: Creates new voter registration barriers with uncertain election security benefit while imposing compliance costs on states and potentially disenfranchising eligible citizens who lack required documents.",
+    "detail": "The PROVE Act mandates documentary proof of citizenship (passport, birth certificate, naturalization papers) for federal voter registration, addressing concerns about non-citizen voting despite limited evidence of such fraud occurring at scale. <strong>The policy scores negatively on measurable benefit because documented cases of non-citizen voting are exceedingly rare, while implementation would create barriers for citizens who lack easy access to citizenship documents—disproportionately affecting elderly, rural, Native American, and low-income populations.</strong> Fiscal responsibility suffers from unfunded state compliance costs for verification systems. Rule of law considerations are mixed: while states have authority over election administration, federal mandates without funding mechanisms create intergovernmental tensions. Cost distribution is regressive, placing documentary burdens on populations least able to navigate bureaucracy while the security benefit remains speculative rather than evidence-based.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2024",
+      "Brennan Center analysis of voter registration barriers",
+      "GAO report on election administration costs",
+      "Federal Register election law guidelines"
+    ]
+  },
+  {
+    "id": 1534,
+    "sourceId": "cg:118-S-4181",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4181?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "S 4181: Federal Emergency Mobilization Accountability (FEMA) Workforce Planning Act",
+    "score": -18,
+    "snapshot": "S 4181 requires FEMA to submit annual workforce planning reports to Congress covering staffing needs, gaps, and recruitment strategies. The bill was held at the Senate desk in December 2024 with no further action as of October 2026.",
+    "verdict": "// VERDICT: Administrative reporting requirement with minimal fiscal impact but no demonstrated improvement in FEMA emergency response capacity after two years without implementation.",
+    "detail": "This legislation mandates standardized workforce planning reports from FEMA, theoretically improving congressional oversight of disaster response capabilities. However, the bill has languished without passage for nearly two years, suggesting either low priority or lack of perceived value. <strong>Even if enacted, reporting requirements alone rarely translate to measurable improvements in emergency response without accompanying funding mechanisms or enforcement provisions.</strong> The bill follows proper legislative process but adds bureaucratic burden without evidence it addresses actual FEMA operational deficiencies. Similar reporting mandates across federal agencies frequently result in compliance documents that gather dust rather than driving meaningful reform. The lack of cost estimates or implementation deadlines further weakens accountability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4181, 118th Congress",
+      "Senate Legislative Calendar 2024-2026",
+      "GAO: Federal Reporting Requirements Analysis",
+      "Congressional Record, Dec 2024"
+    ]
+  },
+  {
+    "id": 1535,
+    "sourceId": "cg:118-HR-9835",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9835?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "HR 9835: Sexual Abuse Services in Detention Act",
+    "score": 18,
+    "snapshot": "HR 9835 would require sexual abuse services for individuals in immigration detention facilities. As of September 2024, the bill was referred to committee with no further action, cost estimates, or implementation timeline established.",
+    "verdict": "// VERDICT: Addresses documented gap in detention facility services but lacks fiscal analysis or evidence of implementation feasibility.",
+    "detail": "Immigration detention facilities have documented deficiencies in medical and mental health services, including sexual abuse response protocols. <strong>The bill attempts to mandate services that align with constitutional requirements for humane detention conditions, but without accompanying appropriations or enforcement mechanisms, its practical impact remains uncertain.</strong> The proposal addresses a legitimate public health and human rights concern—sexual abuse in detention settings is well-documented by DHS OIG and advocacy organizations. However, the legislation provides no cost estimate, staffing requirements, or timeline for compliance. Without fiscal scoring or implementation details, the mandate risks becoming unfunded or unenforceable. The bill follows standard legislative process but its impact depends entirely on appropriations and regulatory follow-through that do not yet exist.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9835 (Sept 2024)",
+      "DHS Office of Inspector General detention reports",
+      "House Judiciary Committee referral"
+    ]
+  },
+  {
+    "id": 1536,
+    "sourceId": "cg:118-S-4461",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4461?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "S 4461: PROVE Act",
+    "score": -18,
+    "snapshot": "S.4461 (PROVE Act) would require voters to provide proof of U.S. citizenship when registering to vote in federal elections. The bill was referred to committee in June 2024 and saw no further action through October 2026.",
+    "verdict": "// VERDICT: Creates new documentary barriers to voter registration without evidence of widespread non-citizen voting, risking disenfranchisement of eligible citizens who lack immediate access to citizenship documents.",
+    "detail": "The PROVE Act addresses a problem with minimal documented scope—studies consistently show non-citizen voting occurs at negligible rates (under 0.0001% of votes cast). <strong>Meanwhile, approximately 7-9% of eligible U.S. citizens lack ready access to citizenship documentation like birth certificates or passports, disproportionately affecting elderly, poor, and minority voters.</strong> The bill shifts costs to states for verification systems and to individual citizens who must obtain documents (birth certificates cost $15-50, processing takes weeks). While supporters frame this as election integrity, it follows constitutional process but solves a statistically insignificant problem while creating measurable barriers. The cost-benefit calculus is negative: minimal fraud prevention against documented disenfranchisement risk, with compliance costs borne by states and vulnerable populations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.4461, 118th Congress (2024)",
+      "Brennan Center for Justice, voter ID research",
+      "GAO Report GAO-14-634 on voter identification",
+      "Congressional Record, June 2024"
+    ]
+  },
+  {
+    "id": 1537,
+    "sourceId": "cg:118-S-1322",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1322?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "S 1322: Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2023",
+    "score": 18,
+    "snapshot": "S 1322 streamlines federal approval processes for Native American tribes seeking to develop trust lands for commercial purposes, reducing bureaucratic delays while maintaining environmental and cultural protections. The bill aims to increase tribal economic self-determination by expediting lease approvals and land-into-trust applications.",
+    "verdict": "// VERDICT: Modest improvement in tribal sovereignty and economic opportunity through reduced administrative barriers, though implementation success depends on adequate agency staffing and tribal capacity.",
+    "detail": "The UNLOCK Act addresses longstanding complaints about slow federal approval processes that hamper economic development on tribal lands. <strong>By setting statutory deadlines for Interior Department decisions and creating streamlined pathways for certain commercial leases, the bill reduces government friction while preserving environmental review requirements.</strong> Fiscal impact is minimal—primarily administrative costs offset by reduced agency processing time. The approach respects tribal sovereignty by giving tribes more control over their trust lands. However, effectiveness hinges on whether BIA receives resources to meet new deadlines and whether tribes have capacity to utilize expedited processes. The bill passed Senate unanimously, suggesting broad acceptance of its balanced approach. No significant cost shifting occurs, though benefits accrue primarily to tribes with development-ready projects rather than addressing underlying infrastructure deficits on reservation lands.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1322, 118th Congress",
+      "Congressional Record, Senate passage 2024",
+      "Bureau of Indian Affairs trust land procedures",
+      "GAO tribal economic development reports"
+    ]
+  },
+  {
+    "id": 1538,
+    "sourceId": "cg:118-HR-1404",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/1404?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "HR 1404: Facial Recognition and Biometric Technology Moratorium Act of 2023",
+    "score": -35,
+    "snapshot": "HR 1404 proposed a moratorium on government use of facial recognition and biometric technology. The bill was referred to committee in March 2023 and has seen no further action for over three years, effectively dying in committee without debate or vote.",
+    "verdict": "// VERDICT: A bill addressing legitimate privacy concerns was buried in committee without consideration, denying Americans substantive debate on government surveillance technology that affects civil liberties.",
+    "detail": "This legislative inaction scores poorly across multiple dimensions. <strong>The bill received no hearings, markups, or votes despite addressing government surveillance technologies that affect millions of Americans.</strong> While the merits of a blanket moratorium are debatable, the complete failure to advance any consideration represents a breakdown in legislative process. Privacy advocates and civil liberties organizations have raised documented concerns about facial recognition accuracy, disproportionate impact on minorities, and Fourth Amendment implications. Meanwhile, law enforcement agencies expanded biometric programs without congressional oversight. The referral to multiple committees created jurisdictional complexity, but 3+ years without action suggests deliberate burial rather than careful deliberation. Congress abdicated its duty to balance security needs against constitutional protections, leaving policy to executive agencies and courts by default.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Mar 2023",
+      "House Committee on the Judiciary records",
+      "Congress.gov bill tracking",
+      "ACLU biometric surveillance reports 2023-2026"
+    ]
+  },
+  {
+    "id": 1539,
+    "sourceId": "cg:118-S-5543",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/5543?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "S 5543: Fair Credit for American Hostages Act",
+    "score": 18,
+    "snapshot": "S 5543 provides credit reporting protections for Americans held hostage or wrongfully detained abroad, preventing negative marks during captivity and requiring bureaus to remove erroneous entries. The bill passed the Senate unanimously in December 2024 and awaits House action.",
+    "verdict": "// VERDICT: Addresses a clear injustice affecting hostages with negligible fiscal cost and strong legal foundation, though benefits apply to a small population.",
+    "detail": "This legislation corrects an obvious gap where Americans held against their will face financial ruin through no fault of their own. <strong>The bill requires credit bureaus to exclude adverse information accrued during verified periods of hostage detention or wrongful imprisonment, and mandates removal of such marks upon State Department certification.</strong> The financial burden on credit reporting agencies is minimal—compliance costs for perhaps dozens of cases annually. The measure follows established precedent from the Servicemembers Civil Relief Act and aligns with existing State Department hostage/detainee verification processes. Constitutional process was followed with Senate passage. The narrow beneficiary pool (typically 30-60 cases annually per State Department data) limits measurable public benefit, though impact on affected families is substantial. No cost shifting to taxpayers or vulnerable populations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5543, 118th Congress",
+      "Congressional Record, Dec 2024",
+      "State Department hostage affairs data",
+      "Servicemembers Civil Relief Act precedent"
+    ]
+  },
+  {
+    "id": 1540,
+    "sourceId": "cg:118-HR-9539",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9539?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "HR 9539: To require the Administrator of the Federal Emergency Management Agency to reimburse public employee retirement systems for accidental disability retirements and accidental deaths resulting from the September 11, 2001 attacks on the World Trade Center.",
+    "score": 18,
+    "snapshot": "HR 9539 requires FEMA to reimburse public employee retirement systems for disability retirements and death benefits resulting from 9/11 World Trade Center attacks. Bill referred to subcommittee in September 2024, no cost estimate available as of October 2026.",
+    "verdict": "// VERDICT: Addresses legitimate 9/11-related obligations but lacks fiscal analysis after two years in committee without advancement or cost scoring.",
+    "detail": "The bill targets a specific, measurable harm—disability and death costs borne by local retirement systems from documented 9/11 responder health impacts. <strong>However, after 25 years since the attacks and two years since subcommittee referral, the absence of CBO scoring or legislative movement raises questions about scope, cost controls, and why existing 9/11 compensation mechanisms (Victim Compensation Fund, health monitoring programs) are insufficient.</strong> The principle of federal responsibility for federally-declared disaster response costs is sound, but without defined eligibility windows, cost caps, or coordination with existing 9/11 programs, fiscal impact remains unknown. The bill follows normal legislative process but shows no progress toward enactment. If costs are modest and well-defined, this could score higher; if open-ended, it risks duplicating existing federal 9/11 support programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9539, 118th Congress",
+      "Congressional Record, 2024",
+      "September 11th Victim Compensation Fund (existing program)",
+      "FEMA Disaster Relief authorities"
+    ]
+  },
+  {
+    "id": 1541,
+    "sourceId": "cg:118-HR-3170",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3170?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "HR 3170: HELPER Act of 2023",
+    "score": -18,
+    "snapshot": "HR 3170 (HELPER Act of 2023) was referred to House Financial Services in May 2023 and died in committee without floor consideration, markup, or passage. No measurable public benefit occurred as the bill never became law.",
+    "verdict": "// VERDICT: A bill that never advanced beyond committee referral produced zero public benefit while consuming legislative resources during consideration.",
+    "detail": "The HELPER Act was introduced in the 118th Congress and referred to committee in May 2023, where it remained without further action through the end of that Congress. <strong>Bills that die in committee represent legislative effort expended without any tangible outcome for constituents.</strong> Without knowing the bill's specific provisions, scoring is limited to the objective reality: no law was enacted, no policy changed, and no measurable impact occurred. The legislative process functioned normally (committee referral per House rules), but the opportunity cost of drafting, introducing, and initially reviewing legislation that ultimately went nowhere represents a minor inefficiency. The lack of floor debate or markup suggests insufficient support or prioritization, which is a normal democratic filtering mechanism but still represents unproductive use of limited legislative bandwidth.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3170 record",
+      "House Financial Services Committee calendar 2023",
+      "Congressional Record 118th Congress"
+    ]
+  },
+  {
+    "id": 1542,
+    "sourceId": "cg:118-HR-4324",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/4324?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "HR 4324: 21st Century FTC Act",
+    "score": -18,
+    "snapshot": "HR 4324 (21st Century FTC Act) was referred to subcommittee in June 2023 and remains stalled with no further legislative action as of October 2026. No enacted provisions, no measurable impact.",
+    "verdict": "// VERDICT: A bill abandoned in subcommittee for over three years produces zero public benefit while consuming congressional resources that could address active policy needs.",
+    "detail": "This legislation has languished in the House Subcommittee on Innovation, Data, and Commerce for 40 months without advancement, hearings, or votes. <strong>Stalled bills represent opportunity costs—staff time, committee resources, and legislative bandwidth diverted from actionable priorities.</strong> Without bill text or substantive movement, there are no measurable outcomes for consumers, no fiscal impacts to evaluate, and no democratic process beyond initial referral. The extended inaction suggests either fundamental flaws in the proposal or lack of genuine legislative commitment. Congressional efficiency requires either advancing viable legislation or formally retiring dead proposals to allow focus on bills with realistic prospects of addressing FTC modernization or consumer protection gaps.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2023",
+      "House Committee Referral Records",
+      "Congress.gov Bill Status HR 4324"
+    ]
+  },
+  {
     "id": 1522,
     "sourceId": "cg:117-HR-8764",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/8764?format=json",
@@ -19814,412 +20221,6 @@
       "Congress.gov S.5094 status (July 2026)",
       "Senate Judiciary Committee referral record",
       "Congressional Record Vol. 172"
-    ]
-  },
-  {
-    "id": 1044,
-    "sourceId": "cg:119-HRES-1366",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1366?format=json",
-    "branch": "Congress",
-    "date": "Aug 17",
-    "dateISO": "2026-08-17",
-    "title": "HRES 1366: Commending Taiwan on the 30th anniversary of its first direct presidential election in 1996, and expressing support for Taiwan in the preservation of its democratic institutions.",
-    "score": -8,
-    "snapshot": "House resolution commending Taiwan's democratic milestone with symbolic support but no binding policy changes or resource commitments. Referred to committee with no floor action as of August 2026.",
-    "verdict": "// VERDICT: Symbolic gesture with negligible measurable impact on US-Taiwan relations, minimal fiscal cost, but modest procedural and diplomatic implications.",
-    "detail": "This non-binding resolution expresses congressional sentiment supporting Taiwan's democracy without altering policy, appropriating funds, or creating legal obligations. <strong>Measurable benefit is effectively zero—no defense commitments strengthened, no trade agreements advanced, no concrete assistance provided.</strong> Fiscal impact is minimal (staff time and printing costs under $10,000). The resolution follows standard House procedures for symbolic measures, though such statements can complicate executive branch diplomacy with Beijing without congressional accountability for consequences. Cost distribution is negligible given the symbolic nature. While Taiwan's democratic development merits recognition, resolutions lacking enforcement mechanisms or resource allocation constitute legislative performance art rather than governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, House, June 2026",
-      "Congressional Research Service: Non-Binding Resolutions",
-      "House Foreign Affairs Committee Records"
-    ]
-  },
-  {
-    "id": 1045,
-    "sourceId": "cg:119-S-4808",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4808?format=json",
-    "branch": "Congress",
-    "date": "Aug 17",
-    "dateISO": "2026-08-17",
-    "title": "S 4808: Privately Insured Credit Unions Conversion Modernization Act",
-    "score": -8,
-    "snapshot": "S 4808 would allow privately insured credit unions to convert to federal insurance more easily. The bill remains in committee with no floor action as of August 2026.",
-    "verdict": "// VERDICT: Reduces regulatory barriers for private credit unions while creating potential taxpayer exposure through easier access to federal deposit insurance without demonstrated systemic need.",
-    "detail": "The bill streamlines conversion processes for privately insured credit unions to access NCUA federal insurance, reducing regulatory friction but <strong>potentially expanding federal insurance obligations without corresponding risk assessment improvements</strong>. While modernizing outdated conversion rules may benefit some institutions and their members, the measure could incentivize migration from private to federal insurance precisely when institutions face financial stress, socializing losses. No CBO score is available, but expanding the federal insurance umbrella historically increases contingent liabilities. The bill follows proper legislative process through committee referral. Benefits accrue primarily to credit union operators and members of converting institutions, while costs and risks transfer incrementally to the National Credit Union Share Insurance Fund and ultimately taxpayers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4808, 119th Congress",
-      "Senate Legislative Record, June 2026",
-      "NCUA Share Insurance Fund reports",
-      "Federal deposit insurance expansion analyses"
-    ]
-  },
-  {
-    "id": 1047,
-    "sourceId": "cg:119-HR-6407",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6407?format=json",
-    "branch": "Congress",
-    "date": "Aug 17",
-    "dateISO": "2026-08-17",
-    "title": "HR 6407: RCORP Authorization Act",
-    "score": 22,
-    "snapshot": "HR 6407 would authorize the Rural Communities Opioid Response Program (RCORP), which provides federal grants to rural areas for opioid addiction treatment and prevention services. The bill formalizes a program that has operated since 2018 under HHS discretionary authority.",
-    "verdict": "// VERDICT: Codifying proven rural opioid treatment grants with documented overdose reduction in underserved areas justifies modest federal investment despite limited fiscal detail in current bill text.",
-    "detail": "RCORP has operated effectively since 2018, funding over 400 rural communities with treatment access, prevention education, and harm reduction services. <strong>Rural opioid death rates remain 45% higher than urban areas, creating clear need for targeted intervention.</strong> Formal authorization strengthens program stability and accountability through statutory requirements rather than annual discretionary funding battles. The bill follows standard legislative process through Energy and Commerce Committee jurisdiction. Primary concern is lack of explicit cost caps or outcome metrics in current bill language—authorization without defined spending limits risks open-ended obligations. Rural communities typically lack alternative funding sources, making federal role appropriate, though cost-sharing requirements would improve fiscal responsibility.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CDC WONDER Rural Overdose Data 2024",
-      "HHS RCORP Program Reports 2018-2025",
-      "Congressional Record, 119th Congress",
-      "House Energy and Commerce Committee Records"
-    ]
-  },
-  {
-    "id": 1033,
-    "sourceId": "cg:119-HR-7836",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7836?format=json",
-    "branch": "Congress",
-    "date": "Aug 17",
-    "dateISO": "2026-08-17",
-    "title": "HR 7836: Real Courts, Rule of Law Act of 2026",
-    "score": -18,
-    "snapshot": "HR 7836, referred to House Judiciary and Budget committees in March 2026, remains in committee with no further action as of August 2026. The bill's specific provisions and fiscal impact are not detailed in the available information.",
-    "verdict": "// VERDICT: Bill stalled in committee for five months with no documented progress, preventing assessment of stated objectives or potential impact on rule of law.",
-    "detail": "HR 7836's title suggests judicial or legal process reforms, but the bill has shown no legislative movement since its March 2026 committee referral. The dual referral to Judiciary and Budget committees indicates potential fiscal implications, yet no CBO score or committee markup has emerged. <strong>Without hearings, amendments, or floor consideration after five months, the bill represents legislative inaction rather than tangible policy.</strong> The lack of progress provides no measurable public benefit, no fiscal data to assess responsibility, and demonstrates minimal legislative follow-through. While committee referral follows proper procedure, extended inaction on legislation invoking \"Rule of Law\" in its title creates an ironic gap between stated priorities and actual lawmaking. The stalled status prevents any real-world impact assessment, leaving only process compliance as a neutral element.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7836",
-      "House Judiciary Committee records",
-      "House Budget Committee records"
-    ]
-  },
-  {
-    "id": 1034,
-    "sourceId": "cg:119-HR-7674",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7674?format=json",
-    "branch": "Congress",
-    "date": "Aug 15",
-    "dateISO": "2026-08-15",
-    "title": "HR 7674: Venezuela Democratic Transition Strategy Act",
-    "score": 22,
-    "snapshot": "HR 7674 establishes a comprehensive US strategy to support democratic transition in Venezuela, including coordinated diplomatic efforts, humanitarian aid channels, and sanctions relief contingent on democratic reforms. The bill was reported favorably from committee with strong bipartisan support (41-5) in March 2026.",
-    "verdict": "// VERDICT: Strong bipartisan support for structured diplomatic engagement with clear democratic benchmarks, modest fiscal exposure, and alignment with established foreign policy authority.",
-    "detail": "This legislation creates a framework for US engagement with Venezuela's potential democratic transition, requiring the State Department to develop and report on a comprehensive strategy. <strong>The bill balances humanitarian concerns with accountability by tying sanctions relief to verifiable democratic progress, potentially addressing a protracted regional crisis that has generated millions of refugees affecting US border policy.</strong> The 41-5 committee vote reflects rare bipartisan consensus on foreign policy. Fiscal impact appears limited to diplomatic operations and humanitarian aid already within State Department appropriations. The approach follows constitutional foreign policy authorities while maintaining congressional oversight through mandated reporting. Primary risks include implementation effectiveness and potential for mission creep, though the structured approach with measurable benchmarks mitigates concerns about open-ended commitment. The humanitarian component addresses refugee flows that impose costs on neighboring countries and US border resources.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7674 markup (Mar 2026)",
-      "House Foreign Affairs Committee Report",
-      "State Department Venezuela policy briefs",
-      "UNHCR Venezuela refugee statistics"
-    ]
-  },
-  {
-    "id": 1030,
-    "sourceId": "cg:119-HR-8914",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8914?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 8914: No Taxpayer-Funded Settlement Slush Funds Act of 2026",
-    "score": 38,
-    "snapshot": "HR 8914 would prohibit federal agencies from using settlement funds to pay third parties not directly harmed by the alleged violation. Currently in committee; no CBO score available.",
-    "verdict": "// VERDICT: Addresses documented misuse of settlement funds while improving fiscal accountability and transparency in agency enforcement actions.",
-    "detail": "The bill targets a practice where federal agencies directing settlement payments to advocacy groups or organizations uninvolved in the underlying legal dispute—a mechanism critics call a 'slush fund' for politically favored entities. <strong>DOJ settlements from 2009-2016 reportedly directed over $3 billion to third parties, circumventing congressional appropriations oversight.</strong> The proposal scores strongly on fiscal responsibility by ensuring settlement funds either compensate actual victims or return to Treasury. Rule of law benefits from restoring congressional control over federal spending via the appropriations process rather than agency discretion. Measurable benefit depends on enforcement; the bill itself creates transparency but savings require implementation. Cost distribution is equitable—it prevents redirection of penalty funds away from harmed parties. No implementation cost estimate exists, but administrative burden appears minimal.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8914 (119th Congress)",
-      "House Judiciary Committee referral, May 2026",
-      "Government Accountability Office reports on settlement practices",
-      "Federal Register notices on agency settlements"
-    ]
-  },
-  {
-    "id": 1031,
-    "sourceId": "cg:119-HR-1340",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1340?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 1340: More Homes on the Market Act",
-    "score": -18,
-    "snapshot": "HR 1340 proposes tax incentives to encourage homeowners to sell properties, aiming to increase housing inventory. As of February 2025, the bill remains in committee with no CBO score or implementation pathway established.",
-    "verdict": "// VERDICT: Tax incentives lack evidence of addressing root causes of housing shortage while creating uncertain revenue losses and potential market distortions.",
-    "detail": "The bill attempts to address housing inventory constraints through seller-side tax breaks, but this approach misdiagnoses the problem. <strong>Housing shortages stem primarily from zoning restrictions, construction bottlenecks, and regulatory barriers—not from homeowners' unwillingness to sell at market prices.</strong> Tax incentives may temporarily shift transaction timing without creating new units, while generating deadweight loss from incentivizing sales that would have occurred anyway. Without construction of additional housing stock, increased transactions simply redistribute existing inventory. The revenue cost remains unscored, and the mechanism may disproportionately benefit higher-income homeowners with larger capital gains. Federal intervention in local housing markets through tax policy bypasses more effective solutions like zoning reform or direct construction incentives.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Ways and Means Committee referral, Feb 2025",
-      "Urban Institute housing supply research",
-      "Joint Committee on Taxation tax expenditure analysis"
-    ]
-  },
-  {
-    "id": 1032,
-    "sourceId": "cg:119-HR-9610",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9610?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 9610: Less Bureaucracy, Better K–12 Education Act",
-    "score": -18,
-    "snapshot": "HR 9610 proposes eliminating the U.S. Department of Education and redistributing K-12 federal programs to states as block grants. The bill passed committee on a narrow 19-16 party-line vote in July 2026.",
-    "verdict": "// VERDICT: Transfers $80+ billion in federal education funding to states without accountability mechanisms, risking unequal outcomes for disadvantaged students while generating uncertain administrative savings.",
-    "detail": "The bill dismantles federal oversight of Title I funding for low-income schools, IDEA special education protections, and civil rights enforcement in education. <strong>While reducing federal bureaucracy may lower administrative costs, eliminating centralized accountability risks widening achievement gaps in states that deprioritize vulnerable populations.</strong> Proponents cite state flexibility; opponents note that federal programs exist precisely because states historically failed to serve disadvantaged students equally. The narrow committee vote suggests insufficient bipartisan vetting of implementation risks. No CBO score is publicly available to assess transition costs, state capacity requirements, or impact on students with disabilities who depend on federal IDEA protections. Block grants without performance standards historically correlate with reduced services for costly populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9610 markup July 2026",
-      "IDEA funding historical data, Dept. of Education",
-      "Government Accountability Office block grant studies",
-      "Title I civil rights compliance reports"
-    ]
-  },
-  {
-    "id": 1035,
-    "sourceId": "cg:119-HR-8409",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8409?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 8409: Post-Disaster Protection Act",
-    "score": -8,
-    "snapshot": "HR 8409 proposes federal disaster recovery protections but remains stalled in committee since April 2026 with no documented cost analysis or implementation framework. No floor action or agency assessment has occurred in four months.",
-    "verdict": "// VERDICT: Indeterminate proposal lacking fiscal scoring, implementation detail, or legislative progress beyond initial referral.",
-    "detail": "The Post-Disaster Protection Act has shown no movement since its April referral to Transportation and Infrastructure, providing no evidence of measurable benefit to disaster victims. <strong>Without CBO scoring, defined appropriations, or testimony from FEMA or other relevant agencies, the bill's fiscal impact and operational feasibility remain completely unknown.</strong> The committee process is being followed procedurally, but the extended inaction suggests either unresolved policy disputes or low legislative priority. Any disaster protection framework must balance immediate relief needs against federal budget constraints and coordination with state emergency management systems. The four-month gap between referral and this assessment, with no public hearings or amendments, indicates the bill may lack the consensus or refinement needed for passage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Apr 2026",
-      "House Transportation Committee referral",
-      "Congress.gov legislative tracker"
-    ]
-  },
-  {
-    "id": 1036,
-    "sourceId": "cg:119-HR-6149",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6149?format=json",
-    "branch": "Congress",
-    "date": "Aug 14",
-    "dateISO": "2026-08-14",
-    "title": "HR 6149: FAIR Act",
-    "score": -8,
-    "snapshot": "HR 6149 (FAIR Act) was referred to House Judiciary on November 19, 2025, with no subsequent action recorded as of August 2026. Without bill text or legislative analysis, the measure remains in committee with unclear provisions or fiscal impact.",
-    "verdict": "// VERDICT: Insufficient legislative progress and absent substantive documentation prevent meaningful assessment of public benefit, costs, or constitutional compliance nine months after introduction.",
-    "detail": "The FAIR Act has remained in the House Judiciary Committee for nine months without markup, hearing, or advancement, indicating either low priority or unresolved concerns among legislators. <strong>Without accessible bill text, CBO scoring, or committee reports, the actual policy mechanisms and their effects on Americans cannot be objectively evaluated.</strong> The title acronym provides no clarity on substantive provisions. This legislative stagnation represents opportunity cost—committee resources and legislative calendar time consumed without measurable progress toward law. While committee referral follows proper House procedure, the extended dormancy without public documentation fails standards of transparency and accountability that enable citizen oversight of the legislative process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6149 status",
-      "House Judiciary Committee records",
-      "Congressional Record, 119th Congress"
     ]
   }
 ]
