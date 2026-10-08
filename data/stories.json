@@ -1,5 +1,168 @@
 [
   {
+    "id": 1553,
+    "sourceId": "cg:118-S-3930",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/3930?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "S 3930: Downpayment Toward Equity Act of 2024",
+    "score": -18,
+    "snapshot": "S 3930 would provide federal grants for first-time homebuyer downpayments, targeting historically disadvantaged communities. Bill remains in committee with no CBO score; no funding mechanism identified in available text.",
+    "verdict": "// VERDICT: Redistributes housing wealth through federal subsidies without identified funding source or inflation impact assessment, likely increasing home prices while shifting costs to taxpayers.",
+    "detail": "The Downpayment Toward Equity Act proposes federal assistance for first-generation homebuyers, particularly in communities with historical lending discrimination. <strong>While addressing legitimate homeownership disparities, the bill lacks fiscal mechanisms and risks inflating home prices through demand-side subsidies without increasing supply.</strong> Economic research consistently shows downpayment assistance programs capitalize into higher purchase prices, benefiting sellers more than buyers. The bill provides no cost estimate, revenue offset, or analysis of inflationary effects on housing markets. Constitutional authority exists under spending clause, but unfunded mandates and intergenerational cost shifting present serious fiscal concerns. Without supply-side reforms or means-testing details, the program may paradoxically worsen affordability while expanding federal obligations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3930, 118th Congress",
+      "Senate Banking Committee referral, March 2024",
+      "Federal Housing Finance Agency housing studies",
+      "Congressional Record, 118th Congress"
+    ]
+  },
+  {
+    "id": 1554,
+    "sourceId": "cg:118-S-4844",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4844?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "S 4844: Police Training and Independent Review Act of 2024",
+    "score": -8,
+    "snapshot": "S 4844 proposes federal standards for police training and independent review mechanisms but stalled in committee in 2024 with no enacted provisions. No appropriations were authorized and no measurable outcomes exist as the bill did not advance.",
+    "verdict": "// VERDICT: Symbolic legislation with potentially beneficial goals undermined by lack of congressional action, no funding mechanism, and unclear federal enforcement authority over state and local police operations.",
+    "detail": "The Police Training and Independent Review Act aimed to establish federal guidelines for law enforcement training and civilian oversight boards. <strong>However, the bill never progressed beyond initial committee referral, resulting in zero implementation and zero measurable impact on policing practices.</strong> While proponents argue standardized training could reduce misconduct incidents, the bill provided no specific appropriations or enforceable compliance mechanisms. Constitutional concerns arise regarding federal overreach into traditionally state-controlled police functions under the Tenth Amendment. The legislation scores poorly on measurable benefit (no outcomes), fiscal responsibility (unfunded mandate structure typical of such proposals), and rule of law (federalism concerns), though the policy intent regarding accountability deserves acknowledgment. Without passage, cost distribution analysis is moot, though implementation would likely burden local jurisdictions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4844 status",
+      "Senate Judiciary Committee records 2024",
+      "Tenth Amendment jurisprudence",
+      "Congressional Record July 2024"
+    ]
+  },
+  {
+    "id": 1555,
+    "sourceId": "cg:118-HR-9820",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9820?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "HR 9820: Employee and Retiree Access to Justice Act of 2024",
+    "score": -8,
+    "snapshot": "HR 9820 would eliminate mandatory arbitration clauses in employment and retirement plan disputes, allowing workers and retirees to pursue class action lawsuits. The bill has been referred to committee with no further legislative action as of the October 2026 analysis date.",
+    "verdict": "// VERDICT: Increases litigation access for employees while imposing uncertain compliance costs on businesses and potentially higher employer-sponsored retirement plan administration expenses.",
+    "detail": "The legislation aims to restore court access for employment and ERISA disputes currently resolved through arbitration. <strong>Proponents argue mandatory arbitration systematically disadvantages individual workers against employers with superior resources, while opponents warn of increased litigation costs that could reduce retirement plan offerings.</strong> The measurable public benefit remains speculative without implementation data on actual case outcomes or settlement patterns. Fiscal impact depends heavily on whether increased litigation costs translate to reduced plan sponsorship or higher consumer prices. The bill follows standard legislative process but fundamentally alters decades of arbitration precedent under the Federal Arbitration Act. Cost distribution favors individual claimants' legal access while potentially shifting litigation expenses to all plan participants through higher administrative fees or reduced employer plan contributions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9820, 118th Congress",
+      "Congressional Record, Sept 2024",
+      "Federal Arbitration Act, 9 U.S.C. § 1",
+      "ERISA Section 502, 29 U.S.C. § 1132"
+    ]
+  },
+  {
+    "id": 1556,
+    "sourceId": "cg:118-HR-4720",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/4720?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "HR 4720: Direct Creation, Advancement, and Retention of Employment Opportunity Act of 2023",
+    "score": -18,
+    "snapshot": "HR 4720 (Direct CARE Opportunity Act of 2023) was referred to the House Health Subcommittee in July 2023 and has seen no further action for over three years. The bill remains stalled in committee with no votes, hearings, or measurable implementation.",
+    "verdict": "// VERDICT: A bill that has accomplished nothing beyond committee referral for 39 months delivers zero public benefit while consuming legislative resources and staff time.",
+    "detail": "This legislation has languished in the House Health Subcommittee since July 2023 without advancing through hearings, markups, or floor consideration. <strong>The complete absence of legislative progress means no Americans have benefited from whatever policy provisions the bill contains.</strong> While the title suggests workforce-related healthcare objectives, the three-year stall represents a failure of the legislative process—bills that never advance waste committee staff time, constituent expectations, and opportunity costs when other viable legislation could receive attention. The lack of any recorded activity since initial referral indicates either insufficient sponsor support, substantive policy problems, or displacement by competing priorities. No fiscal impact exists because the bill never reached CBO scoring, but the pattern of introducing legislation that dies in committee undermines public confidence in congressional efficiency.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, July 2023",
+      "House Health Subcommittee records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
     "id": 1543,
     "sourceId": "cg:117-HR-7740",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/7740?format=json",
@@ -397,6 +560,47 @@
       "S 4186, 118th Congress",
       "Congressional Record, Apr 2024",
       "Senate Commerce Committee Status"
+    ]
+  },
+  {
+    "id": 1557,
+    "sourceId": "cg:118-S-681",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/681?format=json",
+    "branch": "Congress",
+    "date": "Oct 5",
+    "dateISO": "2026-10-05",
+    "title": "S 681: Facial Recognition and Biometric Technology Moratorium Act of 2023",
+    "score": -18,
+    "snapshot": "S 681 proposes a federal moratorium on government use of facial recognition technology, introduced March 2023 but stalled in committee with no progress for 3+ years. No enacted protections, no funding impact, no implementation.",
+    "verdict": "// VERDICT: Legislative inaction on biometric privacy—bill remains in committee limbo while federal agencies continue unregulated facial recognition deployment.",
+    "detail": "This legislation would impose temporary restrictions on government facial recognition use pending civil liberties safeguards, but has seen zero movement since initial referral in March 2023. <strong>The complete legislative stagnation means Americans receive no protections while agencies expand biometric surveillance programs unchecked.</strong> Measurable public benefit scores negatively because the status quo continues unabated—no privacy gains materialize from dormant bills. Fiscal responsibility is neutral (no appropriations, no implementation costs). Rule of law receives modest negative scoring: while proper committee referral occurred, the prolonged inaction on emerging civil liberties questions suggests institutional failure to address constitutional privacy concerns within reasonable timeframes. Cost distribution is negative because vulnerable communities disproportionately subject to facial recognition surveillance (documented in ACLU and GAO studies on law enforcement deployment patterns) continue bearing privacy costs without legislative recourse.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Mar 2023",
+      "Senate Committee on the Judiciary records",
+      "GAO Report on Facial Recognition Technology",
+      "ACLU biometric surveillance research"
     ]
   },
   {
@@ -20012,209 +20216,6 @@
       "Congressional Record, July 2026",
       "House Committee on Education and Workforce referral log",
       "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1043,
-    "sourceId": "cg:119-HR-9127",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9127?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 9127: Sergeant Dave Crete FORGOTTEN Veterans Act of 2026",
-    "score": -15,
-    "snapshot": "HR 9127 remains in subcommittee with no floor vote or CBO score as of August 2026. The bill's title suggests veterans benefits expansion, but lack of legislative progress prevents evaluation of actual provisions or costs.",
-    "verdict": "// VERDICT: Insufficient legislative advancement to assess concrete impact; title alone provides no measurable basis for scoring outcomes or fiscal effects.",
-    "detail": "Named for Sergeant Dave Crete, this bill likely addresses gaps in veterans benefits for specific populations (suggested by 'FORGOTTEN'). However, <strong>the bill has not moved beyond subcommittee review after two months, with no public text, CBO analysis, or markup session documented.</strong> Without knowing the specific eligibility changes, benefit amounts, or funding mechanisms, scoring remains speculative. The legislative process appears stalled at initial review stage. While addressing underserved veteran populations could yield public benefit, the absence of concrete provisions, cost estimates, or implementation timelines means the bill currently produces no measurable outcomes. Negative scoring reflects institutional inaction rather than harmful policy—the opportunity cost of Congressional attention on legislation that may never advance to affect veterans.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Veterans' Affairs Subcommittee docket",
-      "Congress.gov HR 9127 status"
-    ]
-  },
-  {
-    "id": 1046,
-    "sourceId": "cg:119-HR-9367",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9367?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 9367: Stop Lawmakers From Predicting Act",
-    "score": -18,
-    "snapshot": "HR 9367 prohibits members of Congress and their immediate families from trading individual stocks, requiring divestment into diversified funds or blind trusts. The bill passed committee on a narrow 5-4 vote and awaits floor action.",
-    "verdict": "// VERDICT: Addresses legitimate conflict-of-interest concerns but creates enforcement complexity and may limit qualified candidates from public service.",
-    "detail": "The bill tackles documented insider trading advantages enjoyed by some legislators who have outperformed market indexes while possessing non-public information. <strong>However, the measure raises practical implementation challenges including defining \"immediate family,\" establishing compliant investment vehicles, and creating enforcement mechanisms that avoid selective prosecution.</strong> While the intent to restore public trust is sound, the narrow committee margin (5-4) suggests significant disagreement over whether blanket prohibitions are preferable to enhanced disclosure requirements. The fiscal impact is minimal—administrative costs for compliance monitoring—but the rule-of-law concern centers on whether such restrictions unconstitutionally burden the right to hold office. Cost distribution is relatively neutral, though it may disproportionately affect less wealthy members who rely on stock investments for retirement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9367 markup (June 2026)",
-      "Ethics in Government Act provisions",
-      "Academic studies on congressional trading patterns",
-      "House Committee Report 119-XX"
-    ]
-  },
-  {
-    "id": 1048,
-    "sourceId": "cg:119-HR-8319",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8319?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 8319: KIDNEY Remote Monitoring Act",
-    "score": 28,
-    "snapshot": "HR 8319 would expand Medicare coverage for remote patient monitoring devices for chronic kidney disease patients. The bill aims to reduce hospital readmissions and improve outcomes through early intervention via continuous health data transmission.",
-    "verdict": "// VERDICT: Targeted healthcare technology expansion with demonstrated cost savings potential in similar chronic disease programs, though limited to specific patient population.",
-    "detail": "Remote patient monitoring for chronic kidney disease has shown measurable reductions in emergency interventions and hospitalizations in pilot programs. <strong>CMS data from diabetes and heart failure RPM programs indicate 15-25% reduction in acute care episodes, suggesting similar kidney disease applications could yield net savings despite upfront monitoring costs.</strong> The bill follows standard Medicare expansion procedures through committee review. Primary beneficiaries are the estimated 37 million Americans with CKD, particularly those at risk of progression to dialysis (annual cost ~$90,000/patient). The technology cost (~$100-200/month/patient) is modest compared to potential dialysis cost avoidance. Minor concerns include ensuring equitable access for patients lacking broadband connectivity and preventing overutilization by device manufacturers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Apr 2026",
-      "CMS Remote Patient Monitoring Data",
-      "National Kidney Foundation Statistics",
-      "Medicare Payment Advisory Commission Reports"
-    ]
-  },
-  {
-    "id": 1049,
-    "sourceId": "cg:119-HR-5605",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5605?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 5605: Medical Device Nonvisual Accessibility Act of 2025",
-    "score": 32,
-    "snapshot": "HR 5605 requires medical devices with touchscreens or digital interfaces to include nonvisual accessibility features (audio, tactile) for blind and low-vision users. The bill mandates FDA implementation within 3 years of enactment.",
-    "verdict": "// VERDICT: Addresses a documented accessibility gap in medical devices affecting approximately 8 million Americans with vision impairment, with minimal fiscal impact and clear legal authority under FDA's existing regulatory framework.",
-    "detail": "This legislation fills a significant public health equity gap by requiring accessible medical devices—addressing situations where blind patients cannot independently use glucose monitors, blood pressure cuffs, or other home medical equipment. <strong>The FDA already regulates medical device safety and labeling, making this a straightforward extension of existing authority rather than regulatory overreach.</strong> Implementation costs fall primarily on device manufacturers during normal product redesign cycles, with CBO-equivalent analyses of similar accessibility mandates (like telecommunications equipment rules) showing negligible federal budget impact. The 3-year implementation timeline provides reasonable industry accommodation. Benefits accrue directly to users who currently face barriers to independent health management, while costs distribute across the broader medical device market through marginally higher production costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 5605 text, Congress 119",
-      "FDA Medical Device Regulations, 21 CFR",
-      "NIH Vision Impairment Statistics 2024",
-      "Congressional Record, Sep 2025"
-    ]
-  },
-  {
-    "id": 1061,
-    "sourceId": "cg:119-HRES-1356",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1356?format=json",
-    "branch": "Congress",
-    "date": "Aug 17",
-    "dateISO": "2026-08-17",
-    "title": "HRES 1356: A resolution commemorating the Day of Portugal, Camões, and the Portuguese Communities, and for other purposes.",
-    "score": -8,
-    "snapshot": "HRES 1356 commemorates the Day of Portugal, Camões, and the Portuguese Communities. Referred to House Foreign Affairs Committee on June 10, 2026; no floor action taken.",
-    "verdict": "// VERDICT: Symbolic resolution with negligible public benefit, minimal cost, but represents routine congressional time allocation to ceremonial matters without measurable impact.",
-    "detail": "This non-binding House resolution recognizes a Portuguese cultural observance, a common type of commemorative measure Congress passes regularly. <strong>While culturally respectful and diplomatically innocuous, such resolutions consume legislative resources—committee time, floor consideration, staff drafting—without producing measurable outcomes for Americans.</strong> The resolution follows proper procedure (committee referral) and costs virtually nothing in direct expenditure, but the opportunity cost accumulates: the 119th Congress has finite floor time and committee bandwidth. With substantive policy challenges pending (debt ceiling negotiations, appropriations deadlines), dedicating institutional attention to ceremonial proclamations represents a misallocation of scarce legislative capacity. The resolution neither violates law nor shifts costs unfairly, but it exemplifies legislative theater over substantive governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Foreign Affairs referral records",
-      "Congressional Research Service report on commemorative resolutions"
     ]
   }
 ]
