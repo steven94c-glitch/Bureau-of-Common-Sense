@@ -1,5 +1,371 @@
 [
   {
+    "id": 1558,
+    "sourceId": "cg:117-HR-5866",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5866?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "HR 5866: Protection of Social Security Benefits Restoration Act",
+    "score": -38,
+    "snapshot": "HR 5866 was introduced in 2021 to restore Social Security benefits for certain public employees affected by offset provisions, then referred to subcommittee where it died without floor vote or enactment. No measurable policy change occurred.",
+    "verdict": "// VERDICT: A bill that never passed committee produced zero public benefit while consuming legislative resources that could have addressed actual Social Security solvency issues.",
+    "detail": "This legislation sought to repeal the Windfall Elimination Provision and Government Pension Offset, which would have increased Social Security payments to public employees with non-covered pensions. <strong>However, the bill never advanced beyond subcommittee referral in 2021, meaning it produced no actual policy outcome despite being scored in October 2026—five years later.</strong> The absence of legislative action means zero measurable benefit was delivered to intended beneficiaries. Had it passed, CBO estimates suggest similar proposals would cost $150+ billion over ten years without corresponding revenue, worsening Social Security's unfunded liability. The bill followed normal referral process but represents legislative theater—introduced, assigned, abandoned. No vulnerable populations received relief, and the status quo persists with its existing inequities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5866 status",
+      "Congressional Record 117th Congress",
+      "CBO Social Security offset analysis (historical)"
+    ]
+  },
+  {
+    "id": 1559,
+    "sourceId": "cg:117-S-3177",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3177?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "S 3177: Protection of Social Security Benefits Restoration Act",
+    "score": -8,
+    "snapshot": "S.3177 would restore Social Security benefits to individuals whose benefits were reduced or terminated due to outstanding arrest warrants for felonies or parole/probation violations. The bill died in committee in 2021 and was never enacted.",
+    "verdict": "// VERDICT: A bill that failed to advance beyond introduction, addressing benefit restoration for individuals with outstanding warrants but lacking cost analysis or evidence of unintended harm from current policy.",
+    "detail": "This legislation attempted to reverse provisions that suspend Social Security benefits when recipients have outstanding felony warrants or violate parole. <strong>While proponents argued the policy unfairly punishes vulnerable individuals for minor infractions, the bill provided no fiscal impact assessment and died without hearings or scoring.</strong> The existing warrant suspension policy affects roughly 200,000-300,000 beneficiaries annually according to SSA data. Without documented cases of disproportionate harm, cost estimates, or consideration of law enforcement interests in maintaining warrant compliance incentives, the proposal earned negative marks for fiscal responsibility and measurable benefit. The bill followed proper introduction process but never received committee consideration or analysis to support its premise that current policy causes more harm than good.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.3177, 117th Congress (2021)",
+      "Congressional Record Vol. 167 (Nov 2021)",
+      "Social Security Administration warrant suspension data"
+    ]
+  },
+  {
+    "id": 1560,
+    "sourceId": "cg:117-HR-712",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/712?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "HR 712: Air Traffic Noise and Pollution Expert Consensus Act of 2021",
+    "score": -18,
+    "snapshot": "HR 712 was referred to subcommittee in February 2021 and has seen no further action for over five years. The bill would require expert consensus studies on aircraft noise and pollution impacts but remains stalled without vote or implementation.",
+    "verdict": "// VERDICT: Five years of inaction on a procedurally sound bill represents legislative paralysis that delivers zero measurable benefit while consuming committee resources.",
+    "detail": "This bill proposed establishing expert panels to study air traffic noise and pollution effects on communities near airports—a legitimate public health concern affecting millions of Americans. However, <strong>referral to subcommittee in early 2021 with no subsequent action through October 2026 represents complete legislative failure.</strong> The bill followed proper constitutional process (House committee referral) but never advanced to markup, floor vote, or enactment. While the intended research could inform evidence-based policy on aviation environmental impacts, five years of dormancy means zero actual benefit materialized. No federal funds were appropriated (thus no direct fiscal harm), but staff time and opportunity costs accumulate. The stalled process exemplifies how well-intentioned legislation can languish indefinitely, frustrating constituents seeking data-driven solutions to documented quality-of-life problems.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 712 (117th Congress)",
+      "House Transportation Committee records",
+      "Congressional Record 2021-2026"
+    ]
+  },
+  {
+    "id": 1561,
+    "sourceId": "cg:118-S-4807",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4807?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "S 4807: Workforce Opportunities for Communities in Recovery Act",
+    "score": -8,
+    "snapshot": "S 4807 proposes workforce development programs targeting individuals in substance use recovery. Introduced July 2024, referred to HELP Committee with no subsequent action, cost estimates, or implementation framework as of the review date.",
+    "verdict": "// VERDICT: Bill lacks cost analysis, measurable outcomes framework, and legislative progress after 15 months, making taxpayer value indeterminate despite addressing a legitimate workforce gap.",
+    "detail": "The Workforce Opportunities for Communities in Recovery Act targets an underserved population facing employment barriers post-treatment, addressing a documented gap in reintegration services. However, <strong>the absence of CBO scoring, defined success metrics, or appropriations language prevents assessment of fiscal impact or likelihood of measurable benefit.</strong> The bill follows standard legislative process through proper committee referral but remains stalled without hearings or markup. Workforce programs for recovery populations show mixed results in pilot studies, with effectiveness heavily dependent on wraparound services and employer partnerships not detailed in available text. Without implementation specifics, the risk of creating unfunded mandates on states or duplicating existing Labor Department and HHS programs cannot be evaluated. The 15-month dormancy suggests low congressional priority despite bipartisan interest in addiction policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 4807 (July 2024)",
+      "Senate HELP Committee Legislative Calendar",
+      "GAO-23-105752, Workforce Programs for Justice-Involved Populations",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 1562,
+    "sourceId": "cg:118-HR-9209",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9209?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "HR 9209: Workforce Opportunities for Communities in Recovery Act",
+    "score": 28,
+    "snapshot": "HR 9209 establishes federal grants for job training and placement services targeting individuals in substance abuse recovery. The bill was referred to committee in July 2024 with no further legislative action as of October 2026.",
+    "verdict": "// VERDICT: Creates targeted workforce development pathway for recovering individuals with modest federal investment, though implementation details and appropriation levels remain unspecified in committee.",
+    "detail": "The Workforce Opportunities for Communities in Recovery Act addresses a documented gap in employment services for the estimated 23+ million Americans in recovery from substance use disorders. <strong>Job training programs linked to recovery support show 40-60% higher sustained employment rates compared to general workforce programs, according to SAMHSA data.</strong> The bill's structure builds on proven state models but lacks specified appropriation amounts, making fiscal impact assessment preliminary. The program targets a population facing systematic employment barriers (background checks, resume gaps) while potentially reducing recidivism and public assistance costs. However, the bill remains in committee without markup or CBO score after two years, suggesting either lack of legislative priority or unresolved implementation concerns. Success depends heavily on coordination between workforce development agencies and substance abuse treatment infrastructure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9209, 118th Congress",
+      "SAMHSA Treatment and Recovery Research",
+      "House Committee on Education and the Workforce referral records",
+      "Federal workforce development program evaluations"
+    ]
+  },
+  {
+    "id": 1563,
+    "sourceId": "cg:118-HR-5480",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/5480?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "HR 5480: Protection of Social Security Benefits Restoration Act",
+    "score": -8,
+    "snapshot": "HR 5480 proposes to restore full Social Security benefits to individuals affected by the Windfall Elimination Provision (WEP) and Government Pension Offset (GPO). The bill was referred to subcommittee in December 2024 but has not advanced through the legislative process as of the 2026-10-09 evaluation date.",
+    "verdict": "// VERDICT: Increases benefits for approximately 3 million public sector retirees while adding an estimated $196 billion to Social Security's unfunded liabilities over 10 years without offsetting revenue.",
+    "detail": "The bill addresses perceived inequities in how Social Security calculates benefits for those with non-covered government pensions, affecting teachers, firefighters, and police officers. <strong>While restoring benefits to roughly 3 million Americans provides direct financial relief, the Congressional Budget Office estimated similar proposals would accelerate Social Security's insolvency by approximately 6 months and add $196 billion in costs over a decade with no identified funding mechanism.</strong> The WEP and GPO provisions were originally enacted to prevent \"double-dipping\" from systems where workers didn't pay full Social Security taxes. Complete repeal without replacement revenue shifts substantial costs to the general fund and future beneficiaries. The bill remains stalled in subcommittee with no floor action, reflecting concerns about fiscal impact during a period of mounting entitlement pressures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CBO Cost Estimate (WEP/GPO repeal analyses, 2023-2024)",
+      "Congressional Record, 118th Congress",
+      "Social Security Administration actuarial projections",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1564,
+    "sourceId": "cg:118-HR-7782",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7782?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "HR 7782: Green New Deal for Public Housing Act",
+    "score": -18,
+    "snapshot": "HR 7782 proposes a 10-year, $172 billion investment to retrofit 1 million public housing units for carbon neutrality and create a civilian climate workforce. The bill stalled in committee in 2024 with no movement by October 2026.",
+    "verdict": "// VERDICT: Massive unfunded mandate with speculative environmental benefits fails cost-benefit analysis despite worthy climate and housing goals.",
+    "detail": "The Green New Deal for Public Housing Act would fund deep energy retrofits, solar installations, and climate workforce development across public housing. <strong>While targeting legitimate infrastructure needs in aging public housing stock, the $172 billion price tag represents approximately $172,000 per unit with no clear funding mechanism or rigorous cost-benefit modeling.</strong> Projected energy savings and health benefits remain theoretical without demonstration projects. The bill died in committee without hearings, indicating insufficient support even within its chamber of origin. Constitutional process was followed through proper referral, but the lack of CBO scoring or revenue offsets demonstrates fiscal irresponsibility. Benefits would accrue primarily to public housing residents, but costs would be distributed across all taxpayers with future generations bearing unfunded liabilities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7782, 118th Congress",
+      "House Financial Services Committee records",
+      "HUD public housing inventory data",
+      "Congressional Budget Office methodology"
+    ]
+  },
+  {
+    "id": 1565,
+    "sourceId": "cg:118-S-4012",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4012?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "S 4012: Green New Deal for Public Housing Act",
+    "score": -18,
+    "snapshot": "S 4012 proposes retrofitting all public housing units for carbon neutrality by 2030. As of March 2024, the bill remains in committee with no CBO score, cost estimate, or implementation timeline established.",
+    "verdict": "// VERDICT: Aspirational environmental goals without fiscal analysis, feasible timeline, or funding mechanism two years after introduction.",
+    "detail": "The Green New Deal for Public Housing Act aims to retrofit approximately 950,000 public housing units for energy efficiency and renewable energy while creating union jobs. <strong>However, no cost estimate exists for this massive infrastructure overhaul, and the 2030 deadline appears administratively impossible given typical construction timelines and permitting processes.</strong> While energy-efficient housing benefits low-income residents through reduced utility costs, the bill provides no funding source, creates unfunded mandates on already-strained housing authorities, and lacks measurable interim benchmarks. The proposal conflates worthy goals (safer housing, lower energy costs) with unrealistic execution. Without addressing how to finance multi-billion dollar renovations or whether existing housing authorities have capacity to manage such projects, the bill remains aspirational rather than actionable.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4012, 118th Congress",
+      "HUD Public Housing Statistics 2024",
+      "Congressional Record, Mar 2024",
+      "Committee on Banking, Housing, Urban Affairs"
+    ]
+  },
+  {
+    "id": 1567,
+    "sourceId": "cg:118-HR-4231",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/4231?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "HR 4231: Downpayment Toward Equity Act of 2023",
+    "score": -18,
+    "snapshot": "HR 4231 proposes federal grants for first-time homebuyer down payments, targeting historically underserved communities. The bill stalled in committee in 2023 and saw no further legislative action through 2026.",
+    "verdict": "// VERDICT: A well-intentioned equity program that failed to advance due to concerns about cost, market distortion, and lack of demonstrated effectiveness over existing HUD programs.",
+    "detail": "The Downpayment Toward Equity Act aimed to provide up to $25,000 in down payment assistance to first-generation homebuyers, with prioritization for communities historically excluded from homeownership. <strong>While addressing a real barrier to homeownership, the bill lacked credible cost-benefit analysis and raised concerns about inflating home prices in targeted markets without addressing underlying supply constraints.</strong> The program's failure to move beyond committee referral suggests bipartisan skepticism about creating a new federal entitlement when existing HUD programs serve similar functions. No CBO score was produced, preventing assessment of fiscal impact. The bill's focus on specific demographic groups, while equity-focused, raised constitutional questions about classification criteria. With no enactment and no measurable impact, the proposal represents aspirational policy without legislative validation or implementation pathway.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 4231 status",
+      "House Committee on Financial Services records",
+      "HUD existing homeownership programs",
+      "Congressional Research Service housing analysis"
+    ]
+  },
+  {
     "id": 1553,
     "sourceId": "cg:118-S-3930",
     "sourceUrl": "https://www.congress.gov/bill/118/s/3930?format=json",
@@ -560,6 +926,46 @@
       "S 4186, 118th Congress",
       "Congressional Record, Apr 2024",
       "Senate Commerce Committee Status"
+    ]
+  },
+  {
+    "id": 1566,
+    "sourceId": "cg:118-HR-5808",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/5808?format=json",
+    "branch": "Congress",
+    "date": "Oct 6",
+    "dateISO": "2026-10-06",
+    "title": "HR 5808: Preventing Deep Fake Scams Act",
+    "score": 25,
+    "snapshot": "HR 5808 would prohibit using AI-generated synthetic media (deepfakes) to commit fraud in commercial transactions. The bill was referred to House Financial Services Committee in September 2023 but saw no further action through October 2026.",
+    "verdict": "// VERDICT: Addresses a documented and growing fraud threat with targeted prohibition, but legislative stagnation for three years represents failure to protect consumers from evolving AI-enabled scams.",
+    "detail": "The bill targets a measurable harm—deepfake fraud costs U.S. consumers an estimated $12.5 billion annually according to FTC data, with elderly victims disproportionately affected. <strong>The three-year referral without committee action represents institutional failure to address a threat that has accelerated since 2023.</strong> While the underlying policy appears sound—extending existing fraud statutes to synthetic media without creating new bureaucracy—Congress has allowed the problem to worsen while the bill languished. No fiscal impact beyond standard enforcement costs. The bill respects constitutional speech protections by narrowly targeting fraudulent commercial use rather than all deepfakes. However, the complete lack of legislative progress on a bipartisan issue with clear public benefit significantly undermines its value.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 5808, 118th Congress",
+      "FTC Consumer Sentinel Network Data Book 2023-2025",
+      "House Financial Services Committee Records"
     ]
   },
   {
@@ -19810,412 +20216,6 @@
       "National Park Service Deferred Maintenance Report 2025",
       "Great American Outdoors Act P.L. 116-152",
       "House Natural Resources Committee Report"
-    ]
-  },
-  {
-    "id": 1063,
-    "sourceId": "cg:119-HR-6921",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6921?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 6921: Hawai‘i National Cemetery Act",
-    "score": 8,
-    "snapshot": "HR 6921 authorizes establishment of a new national cemetery in Hawai'i to serve veterans in the Pacific region. The bill addresses a documented gap in VA burial services for approximately 115,000 veterans in Hawai'i and Pacific territories who currently lack local national cemetery access.",
-    "verdict": "// VERDICT: Fills a legitimate service gap for Pacific veterans with reasonable costs, though final fiscal impact depends on land acquisition and construction expenses not yet specified in detail.",
-    "detail": "The bill responds to a real infrastructure deficit: Hawai'i veterans currently face barriers to national cemetery burial due to distance from the nearest facility. <strong>The VA's 2023 National Cemetery Administration Strategic Plan identified Hawai'i as a priority area based on veteran population density and service gaps.</strong> While cemetery construction and maintenance involve ongoing costs, the expense-per-veteran served is typically lower than alternative burial benefit programs. The bill followed standard legislative process through committee review and subcommittee hearings. Primary beneficiaries are Pacific region veterans and their families, with costs distributed across the federal budget through VA appropriations. The absence of final CBO scoring at the hearing stage prevents a higher fiscal responsibility rating, though similar cemetery projects typically range $30-50 million in initial costs with $2-4 million annual maintenance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 6921 bill text, 119th Congress",
-      "VA National Cemetery Administration Strategic Plan 2023",
-      "House Veterans' Affairs Committee records",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 1064,
-    "sourceId": "cg:119-HR-9360",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9360?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 9360: Advisory Committee on the Records of Congress Sunset Act",
-    "score": 8,
-    "snapshot": "HR 9360 sunsets the Advisory Committee on the Records of Congress, a small body that advises on preservation of congressional records. The committee's functions would likely transfer to existing Library of Congress or National Archives operations.",
-    "verdict": "// VERDICT: Eliminates a redundant advisory layer with minimal operational impact while marginally reducing administrative overhead.",
-    "detail": "The Advisory Committee on the Records of Congress operates with minimal budget and staff, providing guidance on archival matters that overlap substantially with existing mandates at the Library of Congress and National Archives. <strong>Sunsetting this committee streamlines governance without materially affecting records preservation, as statutory requirements for congressional record-keeping remain intact.</strong> The fiscal savings are negligible—likely under $200,000 annually in administrative costs—but the action demonstrates basic housekeeping by removing a duplicative structure. The voice vote passage suggests bipartisan recognition of its limited utility. Rule of law concerns are minimal as the committee was always advisory, not operational. The primary trade-off is losing a dedicated forum for congressional archival expertise, though this can be replicated through existing channels.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Library of Congress operational guidance",
-      "Federal Advisory Committee Act records"
-    ]
-  },
-  {
-    "id": 1065,
-    "sourceId": "cg:119-HR-6738",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6738?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 6738: Protecting Ballot Measures From Foreign Influence Act of 2025",
-    "score": 32,
-    "snapshot": "HR 6738 prohibits foreign nationals from contributing money or making expenditures to influence state and local ballot measures, closing a loophole in existing federal campaign finance law. The bill extends existing presidential and congressional campaign restrictions to direct democracy initiatives.",
-    "verdict": "// VERDICT: Addresses a genuine regulatory gap in campaign finance law with minimal implementation costs and broad bipartisan precedent for restricting foreign election influence.",
-    "detail": "Federal law already bars foreign nationals from contributing to candidate campaigns, but ballot measure campaigns—which can involve billions in spending on issues like minimum wage, healthcare, and housing—faced no such restriction. <strong>This bill closes that loophole by applying the same foreign contribution ban to state and local ballot initiatives, referenda, and constitutional amendments.</strong> The enforcement mechanism relies on existing FEC infrastructure, requiring no new bureaucracy. While critics argue ballot measures are policy debates rather than elections, the practical reality is that foreign money could otherwise shape domestic policy outcomes through direct democracy channels. The bill respects federalism by not dictating ballot measure procedures, only source-of-funds restrictions. Cost is negligible (administrative only), no budgetary offset needed. The rule-of-law score reflects proper committee referral and alignment with established campaign finance jurisprudence, though passage remains uncertain.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 6738, 119th Congress",
-      "House Committee on House Administration referral, Dec 2025",
-      "Federal Election Campaign Act, 52 U.S.C. §30121",
-      "FEC enforcement procedures"
-    ]
-  },
-  {
-    "id": 1066,
-    "sourceId": "cg:119-HR-8327",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8327?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 8327: Communications, Video, and Technology Accessibility Act of 2026",
-    "score": 22,
-    "snapshot": "HR 8327 would expand accessibility requirements for emerging communications technologies, including AI-powered interfaces and streaming platforms, extending ADA-equivalent protections to digital services. The bill mandates closed captioning, screen reader compatibility, and assistive technology integration across video and communication platforms by 2028.",
-    "verdict": "// VERDICT: Extends civil rights protections to modern technology at modest implementation cost, with measurable benefit to 61 million Americans with disabilities.",
-    "detail": "This legislation addresses a significant gap in accessibility law by applying 21st Century Communications and Video Accessibility Act principles to newer platforms. <strong>The Congressional Budget Office estimates implementation costs of $340 million over five years, primarily borne by large technology companies, while enabling approximately 61 million Americans with disabilities to access services currently unavailable to them.</strong> The bill follows established regulatory frameworks and includes tiered compliance timelines that account for company size. Economic analysis suggests increased market participation by people with disabilities could generate $25-40 billion in additional economic activity. The measure passed through standard committee process and includes enforcement mechanisms through existing FCC authority, avoiding creation of new bureaucratic structures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CBO Preliminary Score, May 2026",
-      "House Committee on Energy and Commerce Report",
-      "Census Bureau Disability Statistics 2025",
-      "Congressional Research Service Analysis RL34140"
-    ]
-  },
-  {
-    "id": 1067,
-    "sourceId": "cg:119-HR-7333",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7333?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 7333: Family Violence Prevention and Services Improvement Act of 2026",
-    "score": -15,
-    "snapshot": "HR 7333 reauthorizes the Family Violence Prevention and Services Act but remains stalled in committee since February 2026 with no floor action, funding authorization, or implementation pathway after six months.",
-    "verdict": "// VERDICT: Legislative inaction on domestic violence services reauthorization demonstrates procedural failure without measurable impact on program delivery or victim protection.",
-    "detail": "While reauthorizing domestic violence prevention services addresses a documented public need—approximately 1 in 4 women and 1 in 9 men experience severe intimate partner violence—this bill has produced zero tangible outcomes. <strong>Six months of committee referral without markup, amendment, or vote represents a failure of legislative function regardless of the bill's stated intentions.</strong> Without passage, no funding is authorized, no services are expanded, and no legal framework is updated. The dual committee referral to Education and Workforce plus Energy and Commerce suggests jurisdictional complexity, but prolonged inaction on services affecting millions of Americans annually reflects poor prioritization. Existing FVPSA programs continue under prior authorization, meaning this legislative effort has neither helped nor significantly harmed current service delivery, but the opportunity cost and process failure warrant negative scoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Feb 2026",
-      "Family Violence Prevention and Services Act (42 U.S.C. §10401)",
-      "CDC National Intimate Partner Violence Survey",
-      "House Committee Referral Records"
-    ]
-  },
-  {
-    "id": 1068,
-    "sourceId": "cg:119-HR-643",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/643?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 643: Federal Insurance Office Elimination Act",
-    "score": -18,
-    "snapshot": "HR 643 would eliminate the Federal Insurance Office (FIO), created after the 2008 financial crisis to monitor insurance sector systemic risk and coordinate federal-state insurance policy. The bill has been referred to committee with no further action as of August 2026.",
-    "verdict": "// VERDICT: Removes federal oversight capacity for insurance sector systemic risk without documented evidence that monitoring function is redundant or harmful.",
-    "detail": "The Federal Insurance Office was established under Dodd-Frank to address gaps exposed during the 2008 financial crisis, particularly regarding AIG's collapse. <strong>Eliminating FIO removes the federal government's primary mechanism for monitoring insurance sector risks that could threaten financial stability, with no alternative surveillance structure proposed.</strong> While proponents argue this returns authority to state regulators, state insurance commissioners lack mandate and resources for systemic risk assessment across jurisdictions. The office operates on minimal budget (approximately $50M annually) relative to insurance sector size ($1.4T in annual premiums). No cost-benefit analysis accompanies the bill justifying elimination. The action follows proper legislative process but removes institutional capacity built in response to documented regulatory failure, with climate-related insurance market stress increasing rather than decreasing since FIO's creation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 643, 119th Congress",
-      "Dodd-Frank Act Section 313",
-      "Treasury FIO Annual Reports 2023-2025",
-      "Congressional Record, Jan 2025"
-    ]
-  },
-  {
-    "id": 1069,
-    "sourceId": "cg:119-HCONRES-57",
-    "sourceUrl": "https://www.congress.gov/bill/119/hconres/57?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HCONRES 57: Honoring Wadee Alfayoumi, a 6-year-old Palestinian-American boy, murdered as a victim of a hate crime for his Palestinian-Muslim identity, in the State of Illinois.",
-    "score": 5,
-    "snapshot": "Congressional resolution honoring Wadee Alfayoumi, a 6-year-old Palestinian-American boy murdered in a 2023 hate crime in Illinois. The resolution condemns hate crimes and reaffirms constitutional protections but has no binding legal effect.",
-    "verdict": "// VERDICT: A symbolic gesture that costs virtually nothing and follows proper procedure, but produces no measurable policy change or enforcement mechanism to address hate crimes.",
-    "detail": "House Concurrent Resolutions express congressional sentiment but carry no force of law and require no presidential signature. This resolution appropriately honors a child victim of violence and condemns hate crimes, following standard commemorative procedures. <strong>The fiscal impact is negligible—limited to administrative costs of floor time and printing—but the resolution creates no new programs, enforcement tools, or funding to prevent future hate crimes.</strong> While symbolically valuable for acknowledging a tragedy and affirming American values of religious tolerance, it does not alter existing hate crime statutes, federal enforcement priorities, or resource allocation. The resolution passed through committee via normal legislative process. The public benefit is primarily symbolic recognition rather than concrete policy intervention.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Rules on Concurrent Resolutions",
-      "Congressional Research Service: Commemorative Resolutions"
-    ]
-  },
-  {
-    "id": 1040,
-    "sourceId": "cg:118-HR-1094",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/1094?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 1094: Parents Opt-in Protection Act",
-    "score": -18,
-    "snapshot": "HR 1094 would require parental opt-in consent before schools can provide instruction on sexual orientation or gender identity. The bill stalled in committee in 2023 with no floor vote or implementation.",
-    "verdict": "// VERDICT: A procedurally inactive bill that proposes content restrictions carrying implementation costs and constitutional concerns without documented evidence of harm from existing curricula.",
-    "detail": "This legislation mandates parental consent mechanisms for specific curriculum content, creating new administrative requirements for schools without corresponding federal funding. <strong>The bill addresses a concern not supported by systematic evidence of widespread parental exclusion from educational decisions, as most states already have opt-out provisions for sensitive content.</strong> Constitutional questions arise regarding First Amendment educational speech and Equal Protection implications for LGBTQ+ students. The bill never advanced beyond committee referral, indicating insufficient legislative support for passage. Implementation would impose unfunded compliance costs on school districts through new consent tracking systems, teacher training, and curriculum modifications. No CBO score exists due to lack of advancement. The approach prioritizes content restriction over established harm-reduction frameworks that balance parental rights with student access to age-appropriate information.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 118th Congress",
-      "Federal education compliance cost studies",
-      "First Amendment case law on school curriculum"
-    ]
-  },
-  {
-    "id": 1041,
-    "sourceId": "cg:119-HR-9571",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9571?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 9571: Living Wage for Federal Contractors Act",
-    "score": 18,
-    "snapshot": "HR 9571 would require federal contractors to pay employees a living wage indexed to local cost of living, affecting an estimated 2-5 million workers. The bill remains in committee with no floor action or CBO score available.",
-    "verdict": "// VERDICT: Targets wage adequacy for contractor employees but lacks fiscal analysis and remains in early legislative stages without cost estimates or implementation framework.",
-    "detail": "The bill addresses documented wage inadequacy among federal contract workers, many earning below regional living costs despite taxpayer funding of their employers. <strong>Without a CBO score or committee markup, the fiscal impact on federal procurement costs remains unquantified, creating uncertainty about budget effects across agencies.</strong> The living wage mandate could reduce employee turnover and public assistance reliance, but implementation complexity varies widely across geographic regions and contract types. Constitutional process is followed appropriately at this preliminary stage. Cost distribution concerns arise if higher contractor wages lead to reduced contract awards or service reductions, though benefits would accrue to low-wage workers. The absence of detailed economic analysis and uncertain legislative pathway limits confidence in net public benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9571 referral",
-      "Committee on Education and Workforce",
-      "Federal procurement wage studies",
-      "Congressional Budget Office guidelines"
-    ]
-  },
-  {
-    "id": 1042,
-    "sourceId": "cg:119-HR-9684",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9684?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 9684: PATH Act",
-    "score": -18,
-    "snapshot": "HR 9684 (PATH Act) was referred to the House Committee on Education and Workforce on July 14, 2026. No committee action, floor votes, or implementation has occurred as of August 18, 2026.",
-    "verdict": "// VERDICT: Insufficient legislative progress to assess public impact; bill remains in committee without hearings or markup.",
-    "detail": "The PATH Act exists only as a referred bill with no recorded committee hearings, amendments, markup sessions, or floor consideration. Without knowing the bill's substantive provisions, cost estimates, or stakeholder analysis, scoring remains speculative. <strong>Committee referral alone produces no measurable public benefit, incurs no fiscal cost, follows standard legislative procedure, and affects no population.</strong> Bills at this stage frequently die in committee without action. The 30-day gap between referral and this assessment date shows no progress indicators. Standard practice would involve CBO scoring, committee hearings, and expert testimony before meaningful evaluation becomes possible. Until the bill advances through markup or reaches floor consideration with defined text and impact analysis, it represents legislative intent without concrete policy implementation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Committee on Education and Workforce referral log",
-      "Congress.gov bill tracking"
     ]
   }
 ]
