@@ -1,5 +1,85 @@
 [
   {
+    "id": 1568,
+    "sourceId": "cg:117-HR-5500",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5500?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 5500: Voter Choice Act",
+    "score": -18,
+    "snapshot": "HR 5500 stalled in committee in 2021 and saw no further action through 2026. The bill proposed ranked-choice voting for federal elections but never received hearings, markup, or floor consideration.",
+    "verdict": "// VERDICT: Legislative inaction over five years demonstrates failure to advance stated electoral reform goals while consuming committee resources without measurable impact.",
+    "detail": "The Voter Choice Act proposed implementing ranked-choice voting for House and Senate elections, a reform with documented impacts in state and local jurisdictions. However, the bill died in the House Administration Committee without hearings or debate. <strong>After five years of congressional inertia, no Americans experienced changed voting procedures, no electoral outcomes were affected, and no pilot programs were funded.</strong> While the proposal itself had potential merit for reducing polarization and increasing voter satisfaction—effects observed in Alaska and Maine—Congress's failure to advance, amend, or formally reject the legislation represents a systemic breakdown in legislative function. Taxpayers funded committee operations while members avoided taking public positions on electoral reform, regardless of constituent interest in the issue.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5500 (117th Congress)",
+      "House Administration Committee Records 2021-2026",
+      "Congressional Research Service: Legislative Process"
+    ]
+  },
+  {
+    "id": 1569,
+    "sourceId": "cg:117-S-2939",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2939?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "S 2939: Voter Choice Act",
+    "score": -18,
+    "snapshot": "S. 2939 (117th Congress) proposed ranked-choice voting for federal elections but died in committee in 2021, never receiving floor votes or implementation. No measurable impact occurred as the bill was not enacted.",
+    "verdict": "// VERDICT: A legislative proposal that failed to advance beyond committee referral produces zero public impact and represents standard legislative process without constitutional concerns.",
+    "detail": "This bill sought to establish ranked-choice voting for House and Senate elections, allowing voters to rank candidates by preference. While proponents argued this could reduce polarization and increase voter satisfaction, <strong>the legislation never progressed past committee referral in October 2021 and thus created no actual outcomes to evaluate</strong>. The fiscal cost was minimal (committee staff time only), and no constitutional process was violated—bills frequently die in committee. However, scoring reflects the reality that failed legislation, regardless of intent, delivers no measurable public benefit, incurs opportunity costs in legislative bandwidth, and provides no return on even modest expenditures. The \"Cost distribution\" penalty reflects that constituents received no value from their representatives' time invested in sponsorship and initial consideration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.2939 (117th Congress)",
+      "Senate Committee on Rules and Administration records",
+      "Congressional Record Oct 2021"
+    ]
+  },
+  {
     "id": 1558,
     "sourceId": "cg:117-HR-5866",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/5866?format=json",
@@ -240,6 +320,328 @@
       "Congressional Record, 118th Congress",
       "Social Security Administration actuarial projections",
       "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1570,
+    "sourceId": "cg:118-HR-2613",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/2613?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "HR 2613: Communities Before Air Tourism Act",
+    "score": -18,
+    "snapshot": "HR 2613 proposes restrictions on air tourism operations near communities, referred to subcommittee in April 2023 with no further legislative action as of October 2026. The bill remains stalled without passage, hearing, or implementation.",
+    "verdict": "// VERDICT: A stalled proposal with no measurable impact after 3.5 years in committee, representing legislative inaction rather than consequential policy.",
+    "detail": "This bill has produced zero public benefit because it never advanced beyond subcommittee referral in April 2023. <strong>After 42 months, HR 2613 exists only as a title without enacted restrictions, regulatory changes, or community protections.</strong> While the intent to address air tourism impacts on residential areas may have merit, the complete absence of legislative progress means no communities have been protected, no air tour operators have been regulated, and no resources have been allocated. The bill consumed congressional staff time and docket space without producing outcomes. Fiscally neutral only because it was never funded or implemented. Procedurally it followed normal referral processes but represents systemic congressional failure to resolve or advance legislation—thousands of bills languish similarly, creating governance paralysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 2613 Status",
+      "House Aviation Subcommittee Records 2023",
+      "Congressional Research Service Bill Tracking"
+    ]
+  },
+  {
+    "id": 1572,
+    "sourceId": "cg:118-HR-3038",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3038?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "HR 3038: Ending Forced Arbitration of Race Discrimination Act of 2023",
+    "score": 28,
+    "snapshot": "HR 3038 would prohibit pre-dispute arbitration clauses for race discrimination claims, allowing victims to pursue cases in court. The bill was referred to House Judiciary in May 2023 and has not advanced further.",
+    "verdict": "// VERDICT: Strengthens legal remedies for documented civil rights violations while imposing minimal fiscal cost and following standard legislative process.",
+    "detail": "This legislation addresses a concrete problem where mandatory arbitration clauses in employment and consumer contracts can limit accountability for race discrimination. <strong>By preserving court access for civil rights claims, the bill enhances legal protections without creating new government programs or significant expenditures.</strong> The measure follows constitutional legislative procedure through proper committee referral. Cost distribution is equitable—corporations bear modest compliance costs while discrimination victims gain practical recourse. The bill aligns with existing Civil Rights Act frameworks and similar forced arbitration reforms for sexual harassment claims. However, the legislation remains stalled in committee without floor consideration, limiting its actual public impact to date.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 3038, 118th Congress",
+      "Congressional Record, May 2023",
+      "Civil Rights Act Title VII precedents"
+    ]
+  },
+  {
+    "id": 1573,
+    "sourceId": "cg:118-HR-4495",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/4495?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "HR 4495: Aircraft Noise Reduction Act",
+    "score": -8,
+    "snapshot": "HR 4495 aims to reduce aircraft noise around airports but stalled in subcommittee in July 2023 with no further action, floor votes, or implementation as of October 2026.",
+    "verdict": "// VERDICT: A bill addressing a documented public nuisance remained inactive for over three years, producing no measurable regulatory or community benefit while occupying legislative bandwidth.",
+    "detail": "Aircraft noise affects millions living near major airports, representing a legitimate quality-of-life concern with documented health impacts. However, this bill never advanced beyond initial subcommittee referral in 2023. <strong>Without hearings, amendments, floor consideration, or passage, HR 4495 generated zero public benefit despite addressing a real problem.</strong> The legislative process followed proper referral protocols, but the complete absence of progress suggests either inadequate stakeholder support, competing priorities, or insufficient legislative will. No fiscal analysis exists because the bill never reached scoring stage. The inaction penalizes affected communities who continue experiencing noise pollution without regulatory relief, while imposing minimal direct costs beyond standard congressional overhead for inactive legislation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 4495 Status",
+      "Congressional Record, 118th Congress",
+      "House Aviation Subcommittee Records 2023-2026"
+    ]
+  },
+  {
+    "id": 1575,
+    "sourceId": "cg:118-S-1408",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1408?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "S 1408: Ending Forced Arbitration of Race Discrimination Act of 2023",
+    "score": 32,
+    "snapshot": "S 1408 would prohibit forced arbitration clauses in employment contracts for race discrimination claims, allowing employees to pursue claims in court. The bill has been in committee since May 2023 with no further legislative action.",
+    "verdict": "// VERDICT: Strengthens worker access to courts for race discrimination claims with minimal fiscal impact, though lacks enforcement mechanism details.",
+    "detail": "This legislation would invalidate pre-dispute arbitration agreements that prevent employees from bringing race discrimination cases to court, paralleling the structure of the 2022 Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act. <strong>The measurable benefit centers on expanded legal recourse for discrimination victims, as arbitration statistically favors employers and lacks precedent-setting capacity.</strong> Fiscal impact is negligible—no direct appropriations required, though increased court caseloads may marginally affect judiciary budgets. The bill follows standard legislative process through committee referral. Cost distribution slightly favors employees over corporations that currently benefit from arbitration's lower settlement amounts and confidentiality. The lack of movement since 2023 suggests limited political momentum, and the bill provides no implementation timeline or enforcement specifics beyond courts' existing capacity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1408, 118th Congress",
+      "Congressional Record, May 2023",
+      "Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act (2022)",
+      "Federal Arbitration Act precedent"
+    ]
+  },
+  {
+    "id": 1571,
+    "sourceId": "cg:118-HR-3029",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3029?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "HR 3029: Primary Care Enhancement Act of 2023",
+    "score": -8,
+    "snapshot": "HR 3029 proposes Medicare payment reforms to enhance primary care provider compensation through alternative payment models and care coordination incentives. After 20 months, the bill remains in subcommittee without substantive action or scoring.",
+    "verdict": "// VERDICT: Legislative inaction on a structurally sound concept with uncertain fiscal impact and no implementation pathway as of October 2026.",
+    "detail": "The Primary Care Enhancement Act aims to address physician shortages in primary care by restructuring Medicare reimbursement models to reward preventive care and care coordination over volume-based billing. <strong>While strengthening primary care infrastructure could reduce downstream healthcare costs and improve population health outcomes, the bill has languished in subcommittee for nearly two years without CBO scoring, committee markup, or floor consideration.</strong> The lack of fiscal analysis makes cost-benefit evaluation impossible. Congressional inertia on healthcare workforce issues—particularly given documented primary care provider shortages affecting rural and underserved communities—represents a failure to address a measurable public need through established legislative processes. Without movement toward passage, the proposal generates no tangible benefit while consuming legislative resources.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3029 Status",
+      "House Energy & Commerce Committee Records",
+      "AAMC Primary Care Workforce Data 2024"
+    ]
+  },
+  {
+    "id": 1574,
+    "sourceId": "cg:118-HR-5591",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/5591?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "HR 5591: Spending Safeguard Act",
+    "score": -18,
+    "snapshot": "HR 5591, the Spending Safeguard Act, was referred to the House Budget Committee in September 2023 and saw no further action through October 2026. The bill remained in committee without markup, hearing, or floor consideration.",
+    "verdict": "// VERDICT: A bill that died in committee after referral cannot be evaluated for substantive impact, as it never became law or influenced policy.",
+    "detail": "HR 5591 represents legislative inaction rather than action. <strong>Without committee hearings, markup sessions, or any movement toward passage, this bill produced zero measurable outcomes for Americans.</strong> The title suggests fiscal oversight intentions, but intentions without legislative progress create no public benefit, impose no fiscal costs, and affect no legal framework. The three-year dormancy indicates either lack of sponsor prioritization, insufficient committee support, or superseding legislative priorities. Scoring reflects the opportunity cost of legislative resources and the pattern of introducing bills that serve messaging purposes rather than serious policy development. Bills that never advance waste drafting resources and committee time that could address active problems.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 118th Congress",
+      "House Committee on the Budget proceedings",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1576,
+    "sourceId": "cg:118-S-1714",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1714?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "S 1714: FAMILY Act",
+    "score": -8,
+    "snapshot": "The FAMILY Act proposes a national paid family and medical leave program funded through a 0.4% payroll tax, providing up to 12 weeks of partial wage replacement. The bill stalled in committee in 2023 with no floor action or CBO score as of October 2026.",
+    "verdict": "// VERDICT: Creates new federal entitlement without demonstrated fiscal sustainability or consideration of existing state programs and private sector solutions.",
+    "detail": "The FAMILY Act would establish a federal insurance fund through mandatory payroll taxes to provide paid leave benefits, mirroring programs in states like California and New Jersey. <strong>While paid leave has documented benefits for worker retention and child health outcomes, the bill lacks comprehensive cost analysis, implementation timeline, or coordination mechanisms with existing state programs that cover roughly 25% of U.S. workers.</strong> The 0.4% payroll tax projects to insufficient long-term funding based on utilization rates in comparable state programs. Congressional inaction for over three years suggests insufficient vetting of fiscal mechanics, administrative infrastructure costs, and potential displacement of private sector benefits. The absence of means-testing or benefit phase-outs raises cost distribution concerns, as the flat payroll tax is regressive while benefits may disproportionately flow to higher-income workers with greater job security.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1714, 118th Congress",
+      "Senate Finance Committee records",
+      "State paid leave program data (CA, NJ, WA)",
+      "Congressional Research Service family leave analysis"
+    ]
+  },
+  {
+    "id": 1577,
+    "sourceId": "cg:118-S-1762",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1762?format=json",
+    "branch": "Congress",
+    "date": "Oct 7",
+    "dateISO": "2026-10-07",
+    "title": "S 1762: Protecting our Students in Schools Act of 2023",
+    "score": -15,
+    "snapshot": "S 1762 remains in committee since May 2023 with no floor action, amendments, or hearings documented. Without bill text or CBO analysis, the actual provisions and fiscal impact cannot be assessed.",
+    "verdict": "// VERDICT: Legislative inaction on a school safety bill for over three years represents a failure to advance stated policy goals through the democratic process.",
+    "detail": "This bill has been stalled in the Senate HELP Committee for 41 months without progressing to markup, amendment, or floor consideration. <strong>The complete absence of legislative movement suggests either insufficient political support, unresolved policy concerns, or deprioritization despite the urgency implied by its title.</strong> Without access to bill text, specific provisions cannot be evaluated for measurable impact on student safety, cost-effectiveness, or constitutional compliance. The pattern of introducing legislation that never advances wastes committee resources and creates false expectations among constituents who support the stated goal. While committee referral follows proper procedure, prolonged inaction on matters affecting children's safety in schools represents a structural failure regardless of the bill's underlying merits or flaws.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S 1762 status",
+      "Senate HELP Committee records 2023-2026",
+      "Congressional procedural history"
     ]
   },
   {
@@ -19810,412 +20212,6 @@
       "House Agriculture Committee referral log",
       "American Gaming Association 2023 report",
       "Murphy v. NCAA (2018)"
-    ]
-  },
-  {
-    "id": 1071,
-    "sourceId": "cg:119-HR-8907",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8907?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 8907: IMPACT to Save Moms Act",
-    "score": 28,
-    "snapshot": "HR 8907 establishes maternal mortality review committees in all states and territories, creating standardized data collection and analysis systems to identify preventable maternal deaths. The U.S. has the highest maternal mortality rate among developed nations at approximately 33 deaths per 100,000 live births, with significant racial disparities.",
-    "verdict": "// VERDICT: Evidence-based intervention addressing a measurable crisis where the U.S. lags peer nations, with strong cost-effectiveness potential given preventable death rates exceed 60% in existing state reviews.",
-    "detail": "The IMPACT to Save Moms Act funds state-level maternal mortality review committees to systematically investigate pregnancy-related deaths and severe complications. <strong>Existing state committees have documented that over 60% of maternal deaths are preventable, yet only 36 states currently maintain review processes.</strong> The bill standardizes data collection methodologies, enabling identification of systemic failures in obstetric care, particularly affecting Black and Indigenous women who face 2-3x higher mortality rates. Estimated federal investment of $12-15 million annually represents minimal cost compared to potential lives saved and reduced litigation/emergency care expenses. The legislation follows constitutional legislative process and builds on successful state models. Minor deduction for lack of enforcement mechanisms if states decline participation, and modest administrative overhead concerns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CDC Pregnancy Mortality Surveillance System, 2024",
-      "Congressional Record, HR 8907 referral",
-      "Review to Action: Building U.S. Capacity to Prevent Maternal Deaths (2018)",
-      "House Committee on Energy and Commerce proceedings"
-    ]
-  },
-  {
-    "id": 1072,
-    "sourceId": "cg:119-S-3258",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3258?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "S 3258: Aviation Medication Transparency Act of 2025",
-    "score": 32,
-    "snapshot": "S 3258 requires FAA disclosure of medications approved for pilots and aviation personnel, creating a publicly accessible database. The bill cleared Senate committee with favorable recommendation in July 2026.",
-    "verdict": "// VERDICT: Enhances aviation safety transparency through low-cost information disclosure while respecting existing medical certification processes.",
-    "detail": "The Aviation Medication Transparency Act addresses a legitimate public interest in understanding which medications are deemed safe for commercial pilots and air traffic controllers. <strong>By mandating FAA publication of approved medications, the bill provides transparency without imposing new regulatory burdens or restricting pilot qualifications.</strong> Implementation costs are minimal—primarily database development and maintenance. The measure follows standard legislative process through committee review. Public benefit stems from increased confidence in aviation safety standards and enabling informed discussion of medical fitness requirements. No significant fiscal burden exists, and the information democratizes access to FAA medical guidance currently available only through fragmented sources. The bill imposes no unfunded mandates and creates no winners/losers beyond general public benefit from transparency.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 3258, 119th Congress",
-      "Senate Commerce Committee Report, Jul 2026",
-      "FAA Medical Certification Standards"
-    ]
-  },
-  {
-    "id": 1074,
-    "sourceId": "cg:119-HR-7280",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7280?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 7280: Veteran DATA Act",
-    "score": -8,
-    "snapshot": "HR 7280, the Veteran DATA Act, was forwarded from subcommittee to full committee by voice vote in April 2026. Without enacted provisions or implementation details available, its measurable impact remains speculative.",
-    "verdict": "// VERDICT: Insufficient legislative progress and absence of implementation data prevent verification of public benefit claims; procedural advancement alone merits neutral-to-negative scoring pending concrete outcomes.",
-    "detail": "The Veteran DATA Act has progressed only to committee stage after four months, with no floor vote, cost estimate, or CBO score publicly available. <strong>Voice vote advancement without documented fiscal analysis or stakeholder testimony creates opacity around both intended mechanisms and budgetary implications.</strong> While data modernization for veteran services could theoretically improve care coordination, the bill's stalled progress and lack of transparency regarding scope, cost, or measurable objectives warrant skepticism. Legislative items titled for data improvement often carry implementation costs exceeding initial estimates, and without GAO or CBO review, fiscal responsibility cannot be assessed. The procedural path follows standard committee processes, but the absence of substantive public documentation four months post-action suggests low prioritization or unresolved concerns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Apr 2026",
-      "House Committee on Veterans' Affairs proceedings",
-      "Congress.gov HR 7280 summary"
-    ]
-  },
-  {
-    "id": 1075,
-    "sourceId": "cg:119-HR-1464",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1464?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 1464: MODERN WIC Act of 2025",
-    "score": 28,
-    "snapshot": "HR 1464 modernizes WIC program administration through technology updates and streamlined certification processes. The bill aims to reduce administrative burden while maintaining program integrity for nutrition assistance serving approximately 6.7 million women, infants, and children annually.",
-    "verdict": "// VERDICT: Incremental administrative improvements to an established nutrition program with modest fiscal impact and measurable benefits to vulnerable populations.",
-    "detail": "The MODERN WIC Act updates technology infrastructure for a program serving vulnerable mothers and young children, addressing documented inefficiencies in benefit delivery. <strong>Modernization efforts typically yield 10-15% administrative cost savings in similar federal programs while improving access for eligible recipients.</strong> The bill scores positively on public benefit through reduced barriers to essential nutrition services, particularly for low-income families. Fiscal responsibility is strong given administrative savings potential against WIC's $5.3 billion annual budget. Rule of law compliance is standard as the bill follows normal legislative process through committee referral. Cost distribution favors those most in need, as WIC serves households at or below 185% of poverty guidelines. Minor deductions reflect implementation costs and the bill's relatively narrow scope compared to broader food security reforms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Feb 2025",
-      "USDA WIC Program Data 2024",
-      "House Committee on Education and Workforce records",
-      "Federal nutrition assistance program reports"
-    ]
-  },
-  {
-    "id": 1076,
-    "sourceId": "cg:119-HR-8436",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8436?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 8436: Cold War Military Force Repeal Act",
-    "score": -8,
-    "snapshot": "HR 8436 proposes repealing Cold War-era military force authorizations that may still be legally active. The bill has been referred to committee with no further action as of August 2026.",
-    "verdict": "// VERDICT: Repealing outdated military authorizations improves constitutional clarity but lacks measurable immediate impact without enactment or evidence of current misuse.",
-    "detail": "The Cold War Military Force Repeal Act addresses dormant authorizations for use of military force (AUMFs) that technically remain on the books decades after their strategic purpose ended. <strong>Cleaning up obsolete legal authorities strengthens congressional war powers oversight and prevents potential executive overreach, but the bill's value depends entirely on whether these authorizations pose actual risk of misuse.</strong> With no movement beyond committee referral in four months, the legislative effort consumes resources without delivering reform. The proposal scores positively on rule of law principles by reasserting congressional authority over military action, but negatively on measurable benefit absent evidence these Cold War statutes are currently invoked or threaten to be. Fiscal impact is negligible. The bill represents good governance hygiene rather than urgent policy correction.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Foreign Affairs referral log",
-      "Congressional Research Service - AUMFs"
-    ]
-  },
-  {
-    "id": 1077,
-    "sourceId": "cg:119-HR-8108",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8108?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 8108: End Polluter Welfare for Enhanced Oil Recovery Act of 2026",
-    "score": 18,
-    "snapshot": "HR 8108 would eliminate tax credits (Section 43) for enhanced oil recovery projects that inject CO2 to extract more petroleum. The bill remains in committee after March 2026 referral to Ways and Means.",
-    "verdict": "// VERDICT: Eliminating subsidies for fossil fuel extraction improves fiscal responsibility and addresses externalized climate costs, though economic transition impacts on affected workers and communities require mitigation.",
-    "detail": "The Section 43 tax credit currently reduces federal revenue while incentivizing additional fossil fuel extraction that generates unpriced carbon emissions. <strong>Eliminating this subsidy removes a market distortion where taxpayers subsidize activities that impose climate and health costs on the broader public.</strong> The Congressional Budget Office has historically scored similar fossil fuel subsidy eliminations as revenue-positive over ten years. However, the bill provides no transition assistance for workers in affected industries or communities economically dependent on enhanced oil recovery operations. The legislation follows standard legislative process through committee referral. Cost distribution improves by ending taxpayer subsidization of private extraction profits, though concentrated job losses in specific regions create adjustment burdens.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8108, 119th Congress",
-      "Congressional Record, March 2026",
-      "IRC Section 43",
-      "CBO subsidy baseline estimates"
-    ]
-  },
-  {
-    "id": 1078,
-    "sourceId": "cg:119-S-278",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/278?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "S 278: Kids Off Social Media Act",
-    "score": -18,
-    "snapshot": "S 278 would prohibit social media platforms from allowing users under age 13 and require parental consent for users 13-17. The bill has been placed on the Senate calendar but not yet voted upon.",
-    "verdict": "// VERDICT: Proposes age restrictions with uncertain enforcement mechanisms and significant civil liberties concerns regarding parental oversight and privacy verification at scale.",
-    "detail": "The legislation addresses legitimate concerns about youth mental health and social media exposure, but raises substantial implementation challenges. <strong>Age verification requirements risk creating massive privacy databases while enforcement against decentralized or foreign platforms remains unclear.</strong> The parental consent mandate for teens 13-17 conflicts with existing privacy frameworks and may push youth toward unregulated platforms. While protecting minors is a valid government interest, the bill lacks measurable metrics for success, creates compliance costs potentially favoring large incumbents over competitors, and delegates significant enforcement discretion without clear constitutional guardrails. The fiscal impact remains unscored by CBO. Similar state-level restrictions have faced First Amendment challenges, suggesting legal costs ahead.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 278, 119th Congress",
-      "Senate Legislative Calendar No. 108",
-      "Congressional Record, June 2025",
-      "First Amendment case law on age-gating"
-    ]
-  },
-  {
-    "id": 1079,
-    "sourceId": "cg:119-S-3715",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3715?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "S 3715: Chiricahua National Park Act",
-    "score": 28,
-    "snapshot": "S 3715 would redesignate Chiricahua National Monument (established 1924) as Chiricahua National Park and expand its boundaries by approximately 13,000 acres through land acquisition and donation. The bill authorizes appropriations for land acquisition and infrastructure improvements while preserving existing valid mining and grazing rights.",
-    "verdict": "// VERDICT: Modest administrative upgrade with measured boundary expansion that enhances federal conservation portfolio without disrupting existing commercial operations.",
-    "detail": "This bill represents a straightforward elevation of protected status for an existing 12,000-acre monument in southeastern Arizona, adding ecologically contiguous lands primarily through voluntary acquisition and donation. <strong>The National Park designation typically increases visitation (averaging 30-50% over five years per NPS data), generating measurable economic benefits to surrounding communities through tourism spending.</strong> The bill follows standard legislative process through the Energy and Natural Resources Committee and respects existing property rights by grandfathering valid claims. Modest budget impact includes one-time land acquisition costs (capped by authorization limits) and incremental operational expenses offset partially by increased entrance fee revenue. No significant constitutional concerns, though federal land expansion always merits scrutiny regarding state-federal balance. The expansion connects wildlife corridors and protects watershed areas according to conservation assessments.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 3715, 119th Congress",
-      "Senate Committee on Energy and Natural Resources report, July 2026",
-      "National Park Service visitor statistics",
-      "Federal Register land acquisition procedures"
-    ]
-  },
-  {
-    "id": 1060,
-    "sourceId": "cg:119-HR-9130",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9130?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 9130: BLAST Act",
-    "score": -35,
-    "snapshot": "HR 9130 (BLAST Act) referred to House Judiciary Committee in June 2026. No recorded votes, hearings, or substantive legislative action beyond initial referral.",
-    "verdict": "// VERDICT: Insufficient information to assess policy impact—bill remains in committee with no public analysis of provisions, costs, or constitutional implications.",
-    "detail": "The BLAST Act exists only as a committee referral with no available text, sponsor statements, CBO score, or hearing record. <strong>Without knowing what the bill actually does, any scoring would be speculative.</strong> The referral to Judiciary suggests potential constitutional, civil rights, or law enforcement implications, but this is conjecture. Legislative process appears standard (committee referral is normal), though the lack of public information six weeks post-referral may indicate low priority or controversial provisions being refined. Fiscal impact unknown. Constitutional compliance unknown. Beneficiaries and cost-bearers unknown. This represents a failure of transparency rather than a scorable policy action.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.75,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8.75,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Judiciary Committee referral records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1062,
-    "sourceId": "cg:119-HR-9250",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9250?format=json",
-    "branch": "Congress",
-    "date": "Aug 18",
-    "dateISO": "2026-08-18",
-    "title": "HR 9250: Great American Outdoors Act 250",
-    "score": 32,
-    "snapshot": "HR 9250 extends the Great American Outdoors Act's Land and Water Conservation Fund permanent funding ($900M annually) and deferred maintenance program through 2031. Addresses estimated $20B backlog in national parks, refuges, and public lands infrastructure.",
-    "verdict": "// VERDICT: Bipartisan extension of proven conservation funding with documented infrastructure returns and broad recreational access benefits, following established legislative process.",
-    "detail": "The Great American Outdoors Act (2020) demonstrated measurable success reducing deferred maintenance backlogs across federal lands while generating economic activity through recreation and construction jobs. <strong>This extension maintains permanent LWCF funding that protects public access to lands across all 50 states while addressing critical safety and infrastructure needs in heavily-used national parks.</strong> The program's self-funding mechanism through offshore energy revenues limits general fund impact. Voice vote approval in committee suggests bipartisan support. Primary fiscal concern remains ensuring maintenance commitments don't exceed dedicated revenue streams in low energy-price scenarios. Cost distribution favors broad public benefit through improved park access and safety, with construction jobs distributed across rural communities. Constitutional authority clear under Property Clause (Article IV, Section 3).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jun 2026",
-      "National Park Service Deferred Maintenance Report 2025",
-      "Great American Outdoors Act P.L. 116-152",
-      "House Natural Resources Committee Report"
     ]
   }
 ]
