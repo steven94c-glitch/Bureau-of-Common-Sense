@@ -1,5 +1,45 @@
 [
   {
+    "id": 1587,
+    "sourceId": "cg:119-HR-9374",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9374?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 9374: Find Our Families Act of 2026",
+    "score": -35,
+    "snapshot": "HR 9374 has been referred to subcommittee but shows no floor action, committee markup, or passage after 3+ months. Without bill text or substantive legislative movement, no measurable family reunification has occurred.",
+    "verdict": "// VERDICT: A bill title promising family reunification that remains stalled in subcommittee produces zero documented outcomes while consuming legislative resources.",
+    "detail": "The Find Our Families Act carries a compelling title suggesting family reunification efforts, but legislative reality tells a different story. <strong>Referred to subcommittee in July 2026 with no subsequent action through October represents procedural stagnation rather than policy implementation.</strong> Without accessible bill text, CBO scoring, or committee hearings, there is no evidence of measurable benefit to separated families. The fiscal cost remains unknown but legislative time has opportunity cost. Procedurally, referral to subcommittee is standard, but three months of inaction on an ostensibly urgent humanitarian matter suggests low prioritization. If families genuinely need reunification assistance, this legislative vehicle is not delivering it. Bills that languish without hearings, amendments, or votes represent symbolic gestures rather than governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee Referral Records, Jul 2026",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
     "id": 1568,
     "sourceId": "cg:117-HR-5500",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/5500?format=json",
@@ -77,6 +117,128 @@
       "Congress.gov S.2939 (117th Congress)",
       "Senate Committee on Rules and Administration records",
       "Congressional Record Oct 2021"
+    ]
+  },
+  {
+    "id": 1578,
+    "sourceId": "cg:118-HR-2562",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/2562?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "HR 2562: Air Traffic Noise and Pollution Expert Consensus Act of 2023",
+    "score": -18,
+    "snapshot": "HR 2562 requires FAA to convene expert panels on aircraft noise and emissions but has been stalled in subcommittee for over 3 years with no floor action. Creates bureaucratic study requirements without implementation mandates or funding mechanisms.",
+    "verdict": "// VERDICT: A procedurally stalled bill that mandates expert consensus panels on air traffic impacts while providing no enforcement mechanism, funding, or timeline for actual mitigation—generating reports instead of results.",
+    "detail": "This legislation directs the FAA to establish expert consensus committees examining aircraft noise and pollution impacts on communities near airports. While identifying legitimate public health concerns affecting millions of Americans, the bill's value is severely undermined by three factors: <strong>It has languished in the Aviation Subcommittee without advancement for 42 months, suggesting insufficient support or priority even among sponsors.</strong> The text requires studies and panels but establishes no binding standards, mitigation requirements, or implementation deadlines. No appropriations are specified for panel operations or subsequent remediation efforts. The bill exemplifies performative legislation—acknowledging a problem through expert convening without compelling action or allocating resources to address findings. Communities near airports continue experiencing documented health impacts while this measure remains in procedural limbo, offering the appearance of concern without substantive relief.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 2562 status",
+      "House Aviation Subcommittee records",
+      "FAA noise exposure maps",
+      "Congressional inaction analysis 118th Congress"
+    ]
+  },
+  {
+    "id": 1579,
+    "sourceId": "cg:118-S-5220",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/5220?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "S 5220: Supreme Court Review Act of 2024",
+    "score": -28,
+    "snapshot": "S 5220 proposes binding ethics rules and expanded review mechanisms for Supreme Court justices. The bill stalled in committee and saw no further legislative action beyond initial referral.",
+    "verdict": "// VERDICT: Attempts to impose statutory ethics constraints on a co-equal constitutional branch without addressing separation of powers concerns or providing enforcement mechanisms that survive judicial review.",
+    "detail": "The Supreme Court Review Act seeks to establish enforceable ethics standards for justices through congressional statute, raising fundamental separation of powers questions that the bill does not adequately resolve. <strong>While judicial ethics reform has bipartisan public support, unilateral congressional regulation of the Court's internal operations invites constitutional conflict and likely invalidation.</strong> The bill provides no clear enforcement mechanism that wouldn't require the judiciary to police itself or Congress to encroach on Article III independence. Without buy-in from the judicial branch or a constitutional amendment pathway, the approach creates institutional friction with uncertain benefits. The legislation died in committee, suggesting even congressional sponsors recognized implementation challenges. More effective approaches might include voluntary codes developed by the judiciary, constitutional amendments with state ratification, or narrowly-tailored disclosure requirements with precedent in existing financial disclosure laws.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -18,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Senate, Sep 2024",
+      "Congress.gov Bill Status S.5220",
+      "Article III, U.S. Constitution"
+    ]
+  },
+  {
+    "id": 1581,
+    "sourceId": "cg:118-S-2804",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/2804?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "S 2804: Protection of Social Security Benefits Restoration Act",
+    "score": 32,
+    "snapshot": "S 2804 would repeal provisions that reduce Social Security benefits for public employees receiving government pensions (WEP/GPO), affecting approximately 2-3 million beneficiaries. CBO estimates cost of $196 billion over 10 years.",
+    "verdict": "// VERDICT: Restores full benefits to public workers who paid into Social Security but were penalized for government pensions, though creates unfunded liability and distributional questions about equity versus private-sector workers.",
+    "detail": "The Windfall Elimination Provision and Government Pension Offset have reduced Social Security benefits for teachers, firefighters, and other public employees since 1983-1984, affecting workers who split careers between public and private sectors. <strong>Repeal provides immediate relief to 2-3 million current beneficiaries and removes a penalty many consider unfair, but the $196 billion cost over a decade is entirely unfunded.</strong> The original provisions were designed to prevent \"double-dipping\" but critics argue they overcorrect and punish workers who legitimately earned both benefits. The bill scores well on measurable benefit (concrete relief to identifiable beneficiaries) and rule of law (proper legislative process), moderately on cost distribution (helps middle-income public workers but creates intergenerational debt), and poorly on fiscal responsibility (no offsetting revenue, worsens Social Security's existing funding shortfall projected for 2034).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 13.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CBO Cost Estimate, S 2804",
+      "Social Security Administration WEP/GPO Data",
+      "Congressional Research Service Report on Public Pension Offsets",
+      "Senate Finance Committee Referral, Sept 2023"
     ]
   },
   {
@@ -320,6 +482,250 @@
       "Congressional Record, 118th Congress",
       "Social Security Administration actuarial projections",
       "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1580,
+    "sourceId": "cg:118-S-1581",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1581?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "S 1581: Diversify Act",
+    "score": -8,
+    "snapshot": "S 1581 (Diversify Act) was introduced in the Senate in May 2023 and referred to committee, where it died without further action. The bill aimed to promote diversity in healthcare professions through grants and pipeline programs.",
+    "verdict": "// VERDICT: A stalled legislative proposal with unproven program design, no fiscal analysis, and no measurable outcomes after 3+ years of inaction.",
+    "detail": "The Diversify Act sought to address documented disparities in healthcare workforce composition through federal grant programs targeting underrepresented minorities in medicine, nursing, and allied health fields. While workforce diversity correlates with improved patient outcomes in underserved communities, <strong>the bill never advanced beyond committee referral, produced no CBO score, generated no pilot data, and consumed congressional resources without legislative product.</strong> The absence of cost estimates, outcome metrics, or implementation frameworks means taxpayers funded only the drafting process. Healthcare workforce gaps remain unaddressed three years later, while the legislative calendar was occupied by a measure that proponents never prioritized for floor action. The procedural death reflects either lack of stakeholder consensus or insufficient political will to fund the proposed programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 1581 (2023)",
+      "Senate HELP Committee calendar 2023-2026",
+      "Association of American Medical Colleges workforce data"
+    ]
+  },
+  {
+    "id": 1582,
+    "sourceId": "cg:119-S-3486",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3486?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "S 3486: Expand the Behavioral Health Workforce Now Act",
+    "score": 28,
+    "snapshot": "S 3486 proposes federal funding to expand behavioral health workforce through training grants, loan repayment programs, and scholarships for mental health professionals. Bill referred to Finance Committee December 2025, no CBO score yet available.",
+    "verdict": "// VERDICT: Addresses documented workforce shortage in mental health care, though fiscal impact and implementation details remain unscored pending committee review.",
+    "detail": "The United States faces a severe shortage of mental health professionals, with over 160 million Americans living in designated Mental Health Professional Shortage Areas. <strong>This bill targets a real crisis by funding training pipelines and reducing educational debt barriers that discourage entry into lower-paying behavioral health fields.</strong> However, without a CBO score or detailed appropriations language, the fiscal responsibility assessment remains tentative. Workforce expansion bills historically show positive ROI when structured with service requirements and accountability measures, but poor implementation can result in credentialing mills with minimal public benefit. The bill's impact on cost distribution depends on whether funding mechanisms avoid shifting long-term obligations to future budgets and whether increased provider supply actually improves access in underserved communities rather than clustering in affluent areas. Rule of law score reflects standard legislative process through committee referral.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HRSA Designated Shortage Areas, 2025",
+      "Congressional Record, S 3486",
+      "Senate Finance Committee referral Dec 2025"
+    ]
+  },
+  {
+    "id": 1583,
+    "sourceId": "cg:119-S-4032",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4032?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "S 4032: Gas Prices Relief Act of 2026",
+    "score": -28,
+    "snapshot": "S 4032 proposes temporary federal gas tax suspension and strategic petroleum reserve releases to lower pump prices. Bill stalled in Finance Committee since March 2026 with no further action.",
+    "verdict": "// VERDICT: Temporary price relief mechanisms that defer infrastructure funding and deplete emergency reserves without addressing underlying supply-demand fundamentals merit substantial skepticism.",
+    "detail": "The Gas Prices Relief Act represents classic short-term political optics over sustainable policy. <strong>Suspending federal gas taxes (18.4¢/gallon) provides minimal consumer relief while starving the Highway Trust Fund of constitutionally-designated revenue, forcing either service cuts or general fund transfers that hide true costs.</strong> Strategic Petroleum Reserve drawdowns offer temporary supply increases but deplete reserves intended for genuine emergencies, not price management. The bill addresses no root causes—refining capacity, permitting delays, or long-term energy policy. Economic literature consistently shows gas tax holidays deliver most benefits to producers through inelastic demand, not consumers. Cost distribution is regressive: lower-income drivers see minimal savings while future taxpayers absorb deferred infrastructure maintenance. The bill follows proper legislative process but substitutes genuine solutions with fiscal gimmickry.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4032, 119th Congress",
+      "Congressional Record, March 2026",
+      "Highway Trust Fund projections, CBO",
+      "Academic literature on gas tax holiday incidence"
+    ]
+  },
+  {
+    "id": 1584,
+    "sourceId": "cg:119-S-2898",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/2898?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "S 2898: Dennis John Benigno Traumatic Brain Injury Program Reauthorization Act of 2025",
+    "score": 35,
+    "snapshot": "Reauthorizes the CDC's traumatic brain injury surveillance and prevention program through fiscal year 2030, maintaining federal coordination of TBI research, state grants, and public awareness efforts. Named after a TBI advocate who worked to improve care systems.",
+    "verdict": "// VERDICT: Extends proven public health infrastructure for traumatic brain injury prevention and treatment at modest cost with documented state-level benefits.",
+    "detail": "The Dennis John Benigno TBI Program Reauthorization continues CDC activities that have operated since 1996, including state injury surveillance systems, evidence-based prevention strategies, and coordination between health systems. <strong>TBI affects approximately 1.5 million Americans annually with estimated economic costs exceeding $76 billion, making prevention programs cost-effective.</strong> The reauthorization follows standard legislative process without controversy, maintains existing authorization levels (historically $6-8 million annually), and builds on state programs that have demonstrated measurable reductions in sports-related and fall-related brain injuries. The program's focus on data collection, clinical guidelines, and caregiver support addresses a significant public health burden without creating new bureaucracy or unfunded mandates on states.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2898, 119th Congress",
+      "CDC TBI Program Reports, 2020-2024",
+      "Congressional Budget Office baseline projections",
+      "Federal Register, HHS appropriations"
+    ]
+  },
+  {
+    "id": 1585,
+    "sourceId": "cg:119-S-3500",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3500?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "S 3500: Hydropower Licensing Transparency Act",
+    "score": 15,
+    "snapshot": "S 3500 requires FERC to publicly disclose all communications with stakeholders during hydropower licensing proceedings. The bill mandates transparency in the multi-year licensing process for existing and new hydroelectric facilities.",
+    "verdict": "// VERDICT: Modest procedural improvement that increases accountability in hydropower licensing without addressing underlying permit timeline or cost issues.",
+    "detail": "The Hydropower Licensing Transparency Act addresses a legitimate gap in regulatory oversight by requiring the Federal Energy Regulatory Commission to maintain public records of ex parte communications during licensing proceedings. <strong>This creates accountability without imposing significant new costs, as FERC already logs most communications internally.</strong> Hydropower licensing affects $30+ billion in existing infrastructure and can take 7-10 years to complete, so sunlight on the process benefits both industry and environmental stakeholders. The bill scored favorably in committee and appears non-controversial. However, transparency alone doesn't accelerate permitting or reduce costs—the core complaints about FERC hydropower processes. Implementation costs are minimal (likely under $500K annually for database maintenance). The measure follows standard legislative procedure and imposes equal disclosure requirements regardless of who is lobbying.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Energy Committee Report, Jun 2026",
+      "FERC Licensing Statistics, 2025",
+      "Federal Register",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 1586,
+    "sourceId": "cg:119-HR-7919",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7919?format=json",
+    "branch": "Congress",
+    "date": "Oct 8",
+    "dateISO": "2026-10-08",
+    "title": "HR 7919: Gas Prices Relief Act of 2026",
+    "score": -28,
+    "snapshot": "HR 7919 proposes tax credits for gasoline purchases but remains stalled in committee since March 2026 with no floor action, CBO score, or funding mechanism identified.",
+    "verdict": "// VERDICT: A fiscally irresponsible proposal lacking cost analysis or revenue offsets that fails to address underlying fuel price drivers while creating regressive subsidies.",
+    "detail": "The Gas Prices Relief Act exemplifies legislative theater over substance. <strong>After seven months in committee without advancement, the bill shows no measurable progress toward implementation while its core mechanism—tax credits for fuel purchases—would primarily benefit higher-income households who drive more and purchase more gasoline.</strong> No Congressional Budget Office score exists to quantify costs, which likely exceed tens of billions annually given U.S. gasoline consumption of ~135 billion gallons. Such credits don't increase supply, reduce demand, or fix infrastructure—they simply transfer taxpayer money to subsidize consumption. The committee referral followed proper procedure, but absence of any cost-benefit analysis or pay-for mechanism violates basic fiscal governance. Historical evidence from similar proposals shows negligible impact on pump prices while adding to deficits that burden future taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7919 status",
+      "Congressional Record, March 2026",
+      "EIA gasoline consumption data",
+      "Historical subsidy impact studies"
     ]
   },
   {
@@ -19809,409 +20215,6 @@
       "Congressional Record, HR 7913 referral",
       "House Committee on Agriculture proceedings",
       "Historical analysis of Title III grant programs"
-    ]
-  },
-  {
-    "id": 1082,
-    "sourceId": "cg:119-HR-7914",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7914?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7914: Agricultural Conservation Mentorship Act",
-    "score": -18,
-    "snapshot": "HR 7914 proposes a federal mentorship program pairing experienced farmers with new agricultural operators on conservation practices. The bill remains in subcommittee with no CBO score, cost estimate, or implementation timeline available.",
-    "verdict": "// VERDICT: Creates new federal bureaucracy for mentorship services already provided by extension services and private agricultural organizations, with no demonstrated market failure or outcome data.",
-    "detail": "The Agricultural Conservation Mentorship Act establishes a duplicative federal program in a space already occupied by USDA's Cooperative Extension System, which operates in all 50 states with $500+ million annual funding. <strong>No evidence suggests existing extension services, farm organizations, or private mentorship networks are failing to connect experienced and beginning farmers.</strong> The bill offers no cost estimate, performance metrics, or sunset provision. While agricultural knowledge transfer has value, federalizing informal mentorship relationships creates administrative overhead without addressing documented barriers to new farmer entry—land access, capital costs, and regulatory complexity. The subcommittee referral suggests low legislative priority, yet the program would require permanent appropriations, staff, and compliance monitoring if enacted.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7914",
-      "USDA Cooperative Extension System budget",
-      "House Agriculture Committee referral"
-    ]
-  },
-  {
-    "id": 1083,
-    "sourceId": "cg:119-HR-7921",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7921?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7921: To amend the Consolidated Farm and Rural Development Act to modify provisions relating to rural decentralized water systems grants.",
-    "score": -8,
-    "snapshot": "HR 7921 would modify existing rural water infrastructure grant provisions under the Consolidated Farm and Rural Development Act. The bill has only been referred to subcommittee and has not advanced; no CBO score or detailed cost analysis is publicly available.",
-    "verdict": "// VERDICT: Without legislative text, cost estimates, or committee hearings, this proposal remains too undefined to assess concrete public benefit or fiscal impact.",
-    "detail": "The bill targets rural decentralized water systems, an area with documented need—approximately 2 million Americans in rural areas lack access to safe drinking water. However, the absence of legislative text, committee markup, or scoring prevents evaluation of whether proposed modifications improve targeting, reduce administrative burden, or merely expand unfunded obligations. <strong>The bill has languished in subcommittee for over four months with no recorded action, suggesting either low legislative priority or unresolved concerns about cost or implementation.</strong> Rule of law receives neutral scoring as the referral process was followed, but the lack of transparency on modifications or funding mechanisms prevents meaningful fiscal or distributional analysis. Generic grant program expansions often benefit contractors and consultants as much as rural residents.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Apr 2026",
-      "USDA Rural Development Reports",
-      "Consolidated Farm and Rural Development Act"
-    ]
-  },
-  {
-    "id": 1084,
-    "sourceId": "cg:119-HR-7938",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7938?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7938: Grocery, Farm, and Food Worker Stabilization Grant Program Act of 2026",
-    "score": -18,
-    "snapshot": "HR 7938 proposes a federal grant program for grocery, farm, and food workers, ostensibly for workforce stabilization. Referred to subcommittee in April 2026; no floor vote or CBO score available as of August 2026.",
-    "verdict": "// VERDICT: Bill creates new federal grant program without demonstrated market failure, lacks cost estimates, and remains stalled in subcommittee with no measurable progress toward law.",
-    "detail": "This proposed legislation would establish a new federal grant program targeting grocery, farm, and food sector workers. <strong>Without a CBO score or cost estimate, fiscal impact remains unknown, though similar targeted grant programs typically run $500M-$2B annually.</strong> The bill has languished in subcommittee for four months with no movement, suggesting lack of bipartisan support or urgency. No evidence presented of acute workforce crisis requiring federal intervention beyond existing USDA programs and state-level initiatives. The grocery and food sectors employ approximately 20 million Americans and have historically adjusted to labor market conditions without dedicated federal stabilization grants. Creating industry-specific grant programs sets precedent for federal micromanagement of private sector labor markets, raising questions about why these workers merit special treatment over manufacturing, healthcare, or other essential sectors facing similar challenges.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7938",
-      "House Agriculture Committee records, Apr 2026",
-      "BLS Employment Statistics, Food Sector"
-    ]
-  },
-  {
-    "id": 1085,
-    "sourceId": "cg:119-HR-7947",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7947?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7947: Agricultural Management Assistance Act of 2026",
-    "score": -18,
-    "snapshot": "HR 7947 remains stalled in subcommittee since April 2026 with no floor action, markup, or CBO score available. Without legislative text or analysis, the bill's provisions, costs, and beneficiaries remain undefined.",
-    "verdict": "// VERDICT: Insufficient legislative progress and absent fiscal documentation prevent meaningful assessment of public benefit or cost burden.",
-    "detail": "Agricultural assistance bills typically provide financial support to farmers for conservation, risk management, or disaster relief. However, this legislation has languished in the General Farm Commodities subcommittee for over four months without advancement, committee markup, or published cost estimate. <strong>The absence of a CBO score, committee report, or floor consideration means taxpayers cannot evaluate whether the program duplicates existing USDA assistance, creates unfunded mandates, or targets aid efficiently.</strong> Congressional inaction on agricultural legislation often signals either partisan gridlock or substantive concerns about program design and fiscal impact. Without evidence of measurable outcomes, constitutional compliance through proper legislative process, or transparent cost allocation, the bill fails basic accountability standards regardless of its stated agricultural purpose.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7947 status",
-      "House Agriculture Committee records",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 1086,
-    "sourceId": "cg:119-HR-7840",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7840?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7840: Event Contract Enforcement Act",
-    "score": -18,
-    "snapshot": "HR 7840 would prohibit the CFTC from banning prediction markets on political events, allowing legal betting on elections and government actions. The bill stalled in subcommittee after April 2026 referral.",
-    "verdict": "// VERDICT: Prioritizes market creation over election integrity concerns while circumventing existing regulatory authority through legislative mandate.",
-    "detail": "This legislation strips the Commodity Futures Trading Commission of discretion to regulate prediction markets involving political outcomes, elections, and government decisions. <strong>While proponents argue these markets aggregate information efficiently, the bill ignores documented risks of market manipulation influencing electoral outcomes and creates perverse incentives for participants to affect events they've bet on.</strong> The measure provides no consumer protections, oversight mechanisms, or safeguards against foreign participation in U.S. election betting. It represents a solution in search of a problem—existing CFTC authority already permits well-regulated prediction markets while maintaining guardrails. The bill's stall in subcommittee suggests even its chamber of origin recognizes implementation concerns. No fiscal analysis addresses potential enforcement costs or gambling addiction externalities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7840",
-      "CFTC regulatory framework, 17 CFR Part 40",
-      "House Agriculture Committee referral records",
-      "Federal election law precedents"
-    ]
-  },
-  {
-    "id": 1087,
-    "sourceId": "cg:119-S-5368",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5368?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "S 5368: Water Cyber Shield Act of 2026",
-    "score": 32,
-    "snapshot": "S 5368 mandates cybersecurity standards for water utilities serving over 3,300 people, requiring vulnerability assessments and incident response plans within 24 months. The bill provides EPA enforcement authority and includes compliance assistance for smaller systems.",
-    "verdict": "// VERDICT: Addresses documented cyber vulnerabilities in critical water infrastructure with enforceable standards while providing implementation support for affected utilities.",
-    "detail": "Water systems face increasing cyber threats, with documented incidents at utilities in multiple states since 2021. <strong>This bill establishes baseline cybersecurity requirements for approximately 50,000 community water systems, creating uniform standards where currently only voluntary guidelines exist.</strong> The 24-month implementation timeline allows planning while the compliance assistance program addresses capacity constraints at smaller utilities. Cost estimates suggest $300-800 per system annually for ongoing compliance, with initial assessment costs higher. The threshold of 3,300 people captures systems serving roughly 95% of the US population while exempting the smallest rural systems. EPA enforcement prevents free-riding but may require additional agency resources. The bill follows standard legislative process through committee referral.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5368, 119th Congress",
-      "EPA Water Sector Cybersecurity Brief, 2025",
-      "Congressional Record, Aug 2026",
-      "American Water Works Association cost analysis"
-    ]
-  },
-  {
-    "id": 1088,
-    "sourceId": "cg:119-S-5376",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5376?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "S 5376: FITNESS Act",
-    "score": -18,
-    "snapshot": "S 5376 (FITNESS Act) was introduced in the Senate on August 7, 2026, and referred to the Judiciary Committee. No public hearings, cost estimates, or implementation details are available at this early stage.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, costs, or constitutional implications of this early-stage bill.",
-    "detail": "The FITNESS Act remains in initial committee referral with no published text, CBO score, or stakeholder analysis available. Without knowing the bill's provisions, it is impossible to evaluate measurable public benefit or fiscal impact. <strong>The score reflects the procedural status rather than substantive merit—standard legislative process is being followed, but no evidence exists to support claims of benefit or harm.</strong> The Judiciary Committee referral suggests constitutional or legal framework implications, but specifics remain unknown. Cost distribution and rule of law adherence cannot be assessed without bill text. This evaluation can only note that proper legislative procedure is underway while awaiting substantive details that would permit evidence-based scoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar, Aug 2026",
-      "Committee on the Judiciary referral records",
-      "Congress.gov bill tracking system"
-    ]
-  },
-  {
-    "id": 1089,
-    "sourceId": "cg:119-S-5379",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5379?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "S 5379: BIS STRENGTH Act",
-    "score": 18,
-    "snapshot": "The BIS STRENGTH Act proposes reforms to the Bureau of Industry and Security, likely enhancing export control enforcement and economic security measures. The bill remains in committee with no fiscal estimate yet available.",
-    "verdict": "// VERDICT: Strengthening export controls typically improves national security with modest administrative costs, though specific impacts depend on implementation details not yet public.",
-    "detail": "Without the bill text or accompanying reports, this assessment relies on typical BIS-related legislation patterns. The Bureau of Industry and Security manages dual-use export controls critical to preventing sensitive technology transfer to adversaries. <strong>Strengthening BIS capabilities generally serves measurable national security interests while imposing limited fiscal burden.</strong> The committee referral indicates proper legislative process is being followed. Most BIS reforms involve enforcement mechanisms, personnel additions, or technology updates with costs typically under $100 million annually. Such measures generally distribute costs through compliance requirements on exporters while benefiting broader public security. The August 2026 introduction suggests response to emerging technology transfer concerns. Uncertainty about specific provisions limits precision in scoring individual criteria.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar, Aug 2026",
-      "Committee on Banking, Housing, and Urban Affairs referral",
-      "BIS historical appropriations baseline"
-    ]
-  },
-  {
-    "id": 1070,
-    "sourceId": "cg:119-HR-7670",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7670?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7670: Specialty CROP Act of 2026",
-    "score": -15,
-    "snapshot": "HR 7670, the Specialty CROP Act of 2026, was referred to subcommittee in April 2026 and has seen no further legislative action. Without bill text or CBO analysis available, the proposal remains in early committee consideration with no measurable implementation or fiscal impact.",
-    "verdict": "// VERDICT: Incomplete legislative process with no documented outcomes, cost estimates, or public benefit to evaluate after four months in subcommittee.",
-    "detail": "This bill has not advanced beyond subcommittee referral, making substantive evaluation impossible. <strong>The absence of committee markup, floor consideration, or published analysis means there are no concrete provisions, cost estimates, or implementation mechanisms to assess.</strong> While specialty crop legislation could theoretically address agricultural market needs, this specific proposal shows no evidence of legislative momentum or stakeholder consensus. The extended dormancy in subcommittee suggests either significant unresolved policy questions or lack of prioritization. Without knowing whether the bill addresses genuine market failures, includes appropriate cost controls, or distributes benefits equitably across agricultural sectors, any scoring reflects procedural stagnation rather than substantive policy failure. The bill receives negative marks solely for consuming legislative bandwidth without producing measurable progress toward enacted policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Agriculture records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1073,
-    "sourceId": "cg:119-HR-7955",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7955?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7955: BETS OFF Act",
-    "score": -18,
-    "snapshot": "HR 7955 (BETS OFF Act) addresses sports betting regulation but remains stalled in subcommittee as of April 2026 with no floor action, hearings, or CBO score available.",
-    "verdict": "// VERDICT: Legislative proposal without measurable implementation, costs unknown, regulatory jurisdiction unclear, and no documented progress toward enactment.",
-    "detail": "The BETS OFF Act has shown no movement beyond initial subcommittee referral to Commodity Markets, Digital Assets, and Rural Development. <strong>Without committee hearings, markup sessions, or scoring by CBO, this bill represents legislative intent rather than actionable policy.</strong> The title suggests sports betting restrictions, a sector generating approximately $10.9 billion in legal handle (2023), but the bill's actual provisions, compliance costs, enforcement mechanisms, and impact on state-tribal gaming compacts remain unexamined. The five-month stagnation in subcommittee indicates either lack of sponsor priority or substantive jurisdictional conflicts between federal oversight (Interstate Commerce Clause) and established state regulatory frameworks under PASPA's 2018 reversal. No fiscal analysis exists to evaluate regulatory costs versus consumer protection benefits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7955",
-      "House Agriculture Committee referral log",
-      "American Gaming Association 2023 report",
-      "Murphy v. NCAA (2018)"
     ]
   }
 ]
