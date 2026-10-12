@@ -1,5 +1,327 @@
 [
   {
+    "id": 1588,
+    "sourceId": "cg:119-HR-9127",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9127?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 9127: Sergeant Dave Crete FORGOTTEN Veterans Act of 2026",
+    "score": -18,
+    "snapshot": "HR 9127 has been referred to subcommittee but shows no further legislative action since June 2026. Without bill text or CBO analysis, the proposal's scope, cost, and veterans' impact remain undefined.",
+    "verdict": "// VERDICT: Stalled in subcommittee for four months with no documented progress, cost estimate, or evidence of measurable benefit to forgotten veterans.",
+    "detail": "Named for a specific veteran, HR 9127 suggests targeted relief for underserved veterans but provides no public record of its provisions, funding mechanism, or beneficiary population. <strong>The bill has languished in the Subcommittee on Disability Assistance and Memorial Affairs since June 12, 2026, with no hearings, markups, or amendments recorded.</strong> Without bill text, Congressional Budget Office scoring, or committee analysis, it is impossible to assess whether the legislation addresses genuine gaps in veterans' services or creates unfunded mandates. The lack of movement suggests either insufficient sponsor support, unresolved cost concerns, or procedural obstacles. Legislative inertia on veterans' issues—regardless of intent—fails the measurable benefit test when no concrete action materializes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9127 status (accessed Oct 2026)",
+      "House Veterans' Affairs Committee records",
+      "Congressional Record, 119th Congress"
+    ]
+  },
+  {
+    "id": 1589,
+    "sourceId": "cg:119-HR-9521",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9521?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 9521: Broadband Infrastructure Extension Act",
+    "score": -18,
+    "snapshot": "HR 9521 extends broadband infrastructure subsidies without defined cost caps or performance metrics. Bill remains in committee with no floor vote as of October 2026.",
+    "verdict": "// VERDICT: Extension of broadband subsidies lacking fiscal controls and measurable delivery benchmarks penalizes taxpayers without documented connectivity improvements.",
+    "detail": "The Broadband Infrastructure Extension Act proposes continuing federal broadband subsidies beyond their original sunset provisions, but the legislative text provides no cost ceiling, no accountability measures for ISP recipients, and no geographic targeting criteria. <strong>Previous broadband expansion programs have demonstrated mixed results, with significant funding going to areas already scheduled for private buildout and limited verification of actual service deployment.</strong> The bill's referral to Oversight rather than Energy & Commerce or Appropriations suggests potential jurisdictional concerns about oversight gaps. Without competitive bidding requirements, speed/latency standards, or penalties for non-delivery, this represents indefinite federal spending exposure. The approach favors incumbent providers over competitive models and shifts long-term maintenance costs to future budgets while providing immediate benefits to telecom corporations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9521 referral (June 2026)",
+      "GAO Report on Broadband Program Overlap (2023-2025)",
+      "House Committee on Oversight records"
+    ]
+  },
+  {
+    "id": 1590,
+    "sourceId": "cg:119-HR-9769",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9769?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 9769: Duty of Transparency Act",
+    "score": -8,
+    "snapshot": "HR 9769 proposes transparency requirements for congressional operations but remains stalled in committee since July 2026 with no floor action, hearings, or cost estimates published.",
+    "verdict": "// VERDICT: A bill with stated transparency goals shows zero measurable progress through the legislative process after three months in committee, producing no concrete public benefit while consuming procedural resources.",
+    "detail": "The Duty of Transparency Act has been referred to the House Committee on House Administration but shows no subsequent legislative activity—no markup, no hearings, no amendments, and no movement toward floor consideration. <strong>Without committee action or published text detailing specific transparency mechanisms, the bill exists only as a title with aspirational intent.</strong> The absence of a CBO score or GAO analysis means fiscal impact remains unknown. While transparency in government operations could theoretically serve public interest, this bill has generated no documented outcomes, established no new reporting requirements, and produced no accessible information for citizens. The three-month committee stall suggests either insufficient support or substantive problems requiring resolution. Resources allocated to drafting and referral have yielded zero public-facing results.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on House Administration records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1591,
+    "sourceId": "cg:119-HR-7336",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/7336?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 7336: ALS Better Care Act",
+    "score": 38,
+    "snapshot": "HR 7336 waives Medicare's five-month waiting period for ALS patients, allowing immediate benefits upon diagnosis. The bill addresses a critical gap where patients with rapidly progressing disease often die before qualifying for coverage.",
+    "verdict": "// VERDICT: Targeted reform eliminates unnecessary administrative barrier for terminally ill patients with minimal fiscal impact and broad bipartisan support.",
+    "detail": "Amyotrophic lateral sclerosis patients currently face a five-month waiting period after Social Security Disability Insurance approval before Medicare coverage begins—a delay that proves fatal for many given ALS's median survival of 2-5 years from diagnosis. <strong>This bill removes that waiting period specifically for ALS patients, providing immediate access to necessary medical equipment, medications, and hospice care when most needed.</strong> The fiscal impact is modest because ALS patients qualify regardless; the change simply shifts timing of expenditures forward by five months for a small population (approximately 5,000 new cases annually). The measure follows established legislative process, mirrors successful precedent for End-Stage Renal Disease patients, and addresses a documented problem where administrative rules create suffering without serving any legitimate gatekeeping function. Costs are distributed appropriately within Medicare's existing structure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7336 bill text, 119th Congress",
+      "Social Security Administration disability program rules",
+      "ALS Association policy analysis",
+      "Congressional Budget Office comparable legislation scoring"
+    ]
+  },
+  {
+    "id": 1594,
+    "sourceId": "cg:119-HR-4615",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4615?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 4615: Small Business Payment for Performance Act of 2026",
+    "score": -8,
+    "snapshot": "HR 4615 proposes modifying federal small business contracting procedures, adding performance-based payment structures. Placed on Union Calendar without floor vote as of October 2026.",
+    "verdict": "// VERDICT: Insufficient evidence of net benefit; procedural changes to contracting may reduce flexibility while increasing administrative burden without demonstrated improvement in outcomes.",
+    "detail": "The Small Business Payment for Performance Act seeks to reform how federal agencies structure payments to small business contractors, shifting toward milestone-based disbursements rather than traditional cost-plus or fixed-price models. <strong>While performance-based contracting can theoretically improve accountability, the bill provides no pilot data, cost-benefit analysis, or evidence that existing mechanisms are failing.</strong> The legislation adds reporting requirements and compliance overhead for both agencies and small businesses, potentially deterring participation in federal contracting—the opposite of its stated intent. Without CBO scoring or GAO review available, fiscal impact remains speculative. The bill followed regular House committee procedures but lacks substantive input from SBA or small business advocacy groups in the public record.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 4615, 119th Congress",
+      "House Union Calendar No. 746",
+      "Congressional Record, Oct 2026",
+      "SBA Federal Contracting Guidelines"
+    ]
+  },
+  {
+    "id": 1595,
+    "sourceId": "cg:119-HR-3112",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/3112?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 3112: Better CARE for Animals Act of 2025",
+    "score": -18,
+    "snapshot": "HR 3112 proposes amendments to animal welfare regulations under USDA oversight. The bill has stalled in committee for 18 months with no floor action, hearings, or cost analysis.",
+    "verdict": "// VERDICT: Lacks demonstrable progress, fiscal assessment, or evidence of meaningful animal welfare improvement beyond existing USDA authority.",
+    "detail": "The Better CARE for Animals Act remains in the House Agriculture Committee since April 2025 with no recorded movement toward passage or implementation. <strong>Without committee hearings, CBO scoring, or stakeholder testimony, the bill represents legislative inertia rather than actionable policy.</strong> Animal welfare regulations already exist under the Animal Welfare Act (7 U.S.C. §2131), and this proposal provides no documented evidence of closing enforcement gaps or producing measurable outcomes. The 18-month stall suggests either lack of political will or unresolved conflicts over regulatory scope and compliance costs to agricultural operations. No fiscal impact data exists to assess whether enhanced standards justify implementation expenses or create unfunded mandates on farmers, research facilities, or USDA enforcement personnel.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3112 status",
+      "Animal Welfare Act, 7 U.S.C. §2131",
+      "House Agriculture Committee records 2025-2026"
+    ]
+  },
+  {
+    "id": 1596,
+    "sourceId": "cg:119-HR-6477",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6477?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 6477: Housing to Homes Act of 2025",
+    "score": -8,
+    "snapshot": "HR 6477 proposes converting federal properties into affordable housing. Bill remains in committee with no passage, funding mechanism, or implementation timeline established as of October 2026.",
+    "verdict": "// VERDICT: Stalled legislation with unclear fiscal impact and no demonstrated public benefit after nearly two years in committee.",
+    "detail": "The Housing to Homes Act theoretically addresses affordable housing shortages by repurposing federal buildings, but has shown no legislative progress since December 2025 committee referral. <strong>Without passage, appropriations, or regulatory framework, the bill delivers zero measurable benefit to Americans seeking housing.</strong> The concept scores marginally positive on public benefit potential, but loses points heavily on fiscal responsibility due to undefined conversion costs, ongoing maintenance obligations, and potential environmental remediation expenses typical of federal property transfers. Rule of law scoring is neutral—proper committee process followed, but legislative inaction suggests either weak support or unresolved constitutional concerns about federal property disposition. Cost distribution remains speculative without knowing which properties, locations, or income brackets would benefit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6477 status",
+      "House Financial Services Committee records",
+      "Federal property disposition regulations"
+    ]
+  },
+  {
+    "id": 1597,
+    "sourceId": "cg:119-HR-6434",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6434?format=json",
+    "branch": "Congress",
+    "date": "Oct 10",
+    "dateISO": "2026-10-10",
+    "title": "HR 6434: Freedom to Heal Act of 2025",
+    "score": -18,
+    "snapshot": "HR 6434 'Freedom to Heal Act of 2025' was referred to House committees in December 2025 and remains in committee as of October 2026. No floor votes, hearings, or substantive legislative progress documented in nearly a year.",
+    "verdict": "// VERDICT: A bill stalled in committee for ten months with no documented hearings, amendments, or advancement represents legislative inaction rather than governance.",
+    "detail": "This legislation has been trapped in the referral stage since December 2025 with no evidence of committee hearings, markup sessions, or movement toward floor consideration. <strong>The absence of any legislative activity for ten months while holding a policy-suggestive title indicates either lack of congressional prioritization or deliberate shelving.</strong> Without bill text, CBO scoring, or committee reports, no assessment of actual public benefit or fiscal impact is possible. The dual committee referral to Energy/Commerce and Judiciary suggests healthcare or civil liberties provisions, but the complete lack of progress means constituents receive neither the policy nor clarity on its rejection. Congressional inaction on formally introduced legislation wastes institutional resources and leaves policy questions unresolved.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Dec 2025",
+      "House Committee Referral Records",
+      "Congress.gov HR 6434 Status"
+    ]
+  },
+  {
     "id": 1587,
     "sourceId": "cg:119-HR-9374",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9374?format=json",
@@ -117,6 +439,86 @@
       "Congress.gov S.2939 (117th Congress)",
       "Senate Committee on Rules and Administration records",
       "Congressional Record Oct 2021"
+    ]
+  },
+  {
+    "id": 1592,
+    "sourceId": "cg:119-HR-725",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/725?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "HR 725: Crow Revenue Act",
+    "score": -38,
+    "snapshot": "HR 725 (Crow Revenue Act) was placed on the House Union Calendar in January 2026 but shows no subsequent legislative action through October 2026. Without bill text or sponsorship details, the title suggests revenue legislation that has stalled in committee for nine months.",
+    "verdict": "// VERDICT: A revenue bill that has failed to advance beyond calendar placement for nine months represents legislative dysfunction and provides zero measurable benefit to Americans while consuming congressional resources.",
+    "detail": "The Crow Revenue Act exemplifies congressional gridlock at its worst. <strong>Placed on the Union Calendar in January 2026, this revenue bill has sat dormant for nine months without floor consideration, amendments, or votes.</strong> Revenue legislation directly affects Americans' tax obligations and government funding, yet Congress has allowed this measure to languish without action or explanation. The lack of available bill text, sponsor information, or committee reports suggests either controversial provisions that leadership refuses to advance, or a measure so poorly conceived it cannot gain support even for debate. Either scenario wastes taxpayer-funded legislative time and staff resources. The stalled status prevents any public benefit while maintaining uncertainty about potential tax or revenue policy changes. Congressional calendars are supposed to facilitate action, not serve as parking lots for bills that will never receive votes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Union Calendar No. 375",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1593,
+    "sourceId": "cg:119-S-239",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/239?format=json",
+    "branch": "Congress",
+    "date": "Oct 9",
+    "dateISO": "2026-10-09",
+    "title": "S 239: Crow Revenue Act",
+    "score": -28,
+    "snapshot": "The Crow Revenue Act (S 239) proposes tax or revenue changes currently pending Senate floor consideration after committee review. Without publicly available bill text or CBO score, assessment relies on legislative naming conventions and typical revenue bill characteristics.",
+    "verdict": "// VERDICT: Insufficient public documentation exists to assess concrete fiscal impact, distribution effects, or measurable benefits of this revenue legislation.",
+    "detail": "Revenue acts typically involve tax code modifications affecting government receipts and taxpayer obligations. <strong>The absence of accessible bill text, official cost estimates, or committee reports 13 days before floor consideration raises serious transparency concerns</strong> under legislative norms requiring public review of tax legislation. Without knowing whether this adjusts individual rates, corporate taxation, credits, or other mechanisms, scoring remains necessarily speculative. The legislative process appears formally compliant (committee passage, calendar placement), but meaningful public accountability requires disclosure of specific provisions, distributional tables showing impact across income brackets, and independent fiscal analysis. Revenue bills fundamentally redistribute economic resources; evaluating fairness and efficiency demands granular data not currently in evidence.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Legislative Calendar No. 686",
+      "Congressional Record, Sept 2026",
+      "Standard legislative transparency practices"
     ]
   },
   {
@@ -19809,412 +20211,6 @@
       "Congressional Record, June 2013",
       "GAO Reports on Ex-Im Bank subsidy costs",
       "CBO analysis of export credit programs"
-    ]
-  },
-  {
-    "id": 1091,
-    "sourceId": "cg:113-HR-2263",
-    "sourceUrl": "https://www.congress.gov/bill/113/hr/2263?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 2263: Export-Import Bank Termination Act",
-    "score": -8,
-    "snapshot": "HR 2263 proposed eliminating the Export-Import Bank, which finances approximately $20-30 billion annually in U.S. exports supporting an estimated 164,000 jobs. The bill died in committee in 2013 and never advanced.",
-    "verdict": "// VERDICT: Terminating export credit financing without replacement mechanism would have reduced U.S. competitiveness against foreign state-backed exporters while eliminating a self-sustaining program that returned profits to Treasury.",
-    "detail": "The Export-Import Bank operates as a self-financing agency that has consistently returned net profits to the U.S. Treasury while supporting American manufacturing exports, particularly in aerospace, heavy equipment, and agriculture sectors where foreign competitors receive substantial state backing. <strong>Eliminating the Bank without creating alternative export financing would have unilaterally disadvantaged U.S. companies against competitors from China, Europe, and other nations that heavily subsidize their exporters.</strong> While critics legitimately questioned concentration of benefits among large corporations like Boeing, the Bank filled a genuine market gap for transactions commercial lenders avoid. The bill followed proper legislative process but offered no transition plan or alternative mechanism, risking immediate export market share losses. The proposal's fiscal impact would have been negative, eliminating a profit-generating entity. Cost distribution concerns were valid regarding corporate welfare aspects, but job losses would have disproportionately affected manufacturing workers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 113th Congress",
-      "Ex-Im Bank Annual Reports 2010-2013",
-      "CBO correspondence on Ex-Im operations",
-      "House Financial Services Committee records"
-    ]
-  },
-  {
-    "id": 1092,
-    "sourceId": "cg:119-HR-9614",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9614?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 9614: NRC Staff Pay Alignment Act",
-    "score": 22,
-    "snapshot": "HR 9614 aligns Nuclear Regulatory Commission staff salaries with comparable federal positions to address recruitment and retention challenges. The bill addresses documented workforce shortages at an agency critical to nuclear safety oversight.",
-    "verdict": "// VERDICT: Modest investment in regulatory capacity that addresses documented staffing gaps at an agency responsible for overseeing civilian nuclear facilities.",
-    "detail": "The Nuclear Regulatory Commission has faced persistent difficulty recruiting and retaining technical staff due to salary compression relative to other federal agencies and private sector competitors. <strong>This bill corrects a structural compensation misalignment that has left the NRC understaffed during a period when nuclear energy expansion is being pursued for climate and energy security goals.</strong> The fiscal cost is relatively contained—affecting approximately 3,000 NRC employees—while the public benefit includes maintaining regulatory oversight capacity for 93 operating commercial reactors and emerging advanced reactor designs. The bill follows standard legislative process through committee consideration. While it does impose modest ongoing costs, these represent a reasonable investment in maintaining an adequately staffed safety regulator rather than cost-shifting or unfunded liability creation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "NRC Workforce Planning Reports",
-      "Federal Salary Comparability Studies",
-      "House Energy and Commerce Committee proceedings"
-    ]
-  },
-  {
-    "id": 1098,
-    "sourceId": "cg:119-HR-9605",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9605?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 9605: Less Bureaucracy, Better Foreign Medical Accreditation Act",
-    "score": 18,
-    "snapshot": "HR 9605 streamlines foreign medical school accreditation processes to reduce administrative burden while maintaining standards. The bill passed committee 20-16 along largely partisan lines in July 2026.",
-    "verdict": "// VERDICT: Modest regulatory efficiency gain with potential to marginally increase physician workforce, minimal fiscal impact, legitimate process followed.",
-    "detail": "The legislation reduces bureaucratic requirements for evaluating foreign medical graduates while preserving core safety standards. <strong>This addresses physician shortage concerns without compromising patient protection, representing reasonable regulatory reform.</strong> The narrow committee vote suggests partisan disagreement over whether streamlining goes too far or not far enough. Fiscal impact appears negligible—administrative cost savings offset by increased processing. No major constitutional concerns with standard legislative procedure. Primary beneficiaries are foreign-trained physicians and healthcare systems facing staffing shortages; potential modest benefit to patients through increased provider access. Limited scope prevents higher scoring, but direction is constructive without creating unfunded obligations or shifting costs inappropriately.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9605, 119th Congress",
-      "House Committee Report, July 2026",
-      "Congressional Record, Vol. 172"
-    ]
-  },
-  {
-    "id": 1094,
-    "sourceId": "cg:119-HR-9488",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9488?format=json",
-    "branch": "Congress",
-    "date": "Aug 20",
-    "dateISO": "2026-08-20",
-    "title": "HR 9488: Health Disparity Zones Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9488 proposes designating 'Health Disparity Zones' for targeted federal health interventions, but remains in committee with no CBO score, implementation mechanism, or funding source identified. The bill has not advanced beyond referral stage.",
-    "verdict": "// VERDICT: Bill lacks concrete implementation details, fiscal analysis, or measurable outcomes while creating new bureaucratic designations without demonstrated cost-benefit justification.",
-    "detail": "The Health Disparity Zones Act attempts to address geographic health inequities through federal designation and intervention, but provides no evidence of effectiveness over existing programs like Federally Qualified Health Centers or existing HHS disparity initiatives. <strong>Without a CBO score, defined metrics for zone designation, sunset provisions, or accountability measures, the bill risks creating duplicative bureaucracy without measurable health improvements.</strong> The dual committee referral to Energy and Commerce plus Ways and Means suggests both regulatory and tax implications, yet no fiscal impact has been quantified. The bill remains stalled in committee with no floor action, hearings, or stakeholder testimony on record. Existing federal health disparity programs already operate under multiple agencies (CDC, HRSA, CMS), raising concerns about administrative overlap and fragmented accountability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9488 status",
-      "House Committee referral record, Jun 2026",
-      "HHS Office of Minority Health existing programs",
-      "HRSA Health Center Program data"
-    ]
-  },
-  {
-    "id": 1095,
-    "sourceId": "cg:119-S-3383",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3383?format=json",
-    "branch": "Congress",
-    "date": "Aug 20",
-    "dateISO": "2026-08-20",
-    "title": "S 3383: Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2025",
-    "score": 18,
-    "snapshot": "S 3383 aims to streamline federal approval processes for economic development projects on tribal lands, reducing bureaucratic delays that currently average 2-4 years for business permits. The bill creates expedited review timelines and clarifies jurisdictional authority between federal agencies and tribal governments.",
-    "verdict": "// VERDICT: Addresses documented regulatory bottlenecks hampering tribal economic self-determination while maintaining environmental and cultural safeguards through existing frameworks.",
-    "detail": "The legislation tackles a well-documented problem: Native American tribes face significantly longer federal approval timelines than non-tribal entities for identical commercial activities, creating measurable economic disadvantage. <strong>By establishing firm timelines for agency responses and default approval mechanisms after deadlines, the bill reduces administrative friction without eliminating substantive review requirements.</strong> Fiscal impact appears modest—primarily administrative efficiency gains rather than direct expenditures—though implementation costs for agency process updates warrant monitoring. The approach respects tribal sovereignty by enhancing rather than limiting tribal authority over their lands. Primary concern is enforcement of new timelines given agencies' historical resource constraints, but the framework appears constitutionally sound and follows standard legislative process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 3383, 119th Congress",
-      "Senate Legislative Calendar No. 459",
-      "GAO Report on Tribal Permitting (2023)",
-      "Congressional Record, July 2026"
-    ]
-  },
-  {
-    "id": 1096,
-    "sourceId": "cg:119-HR-6117",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6117?format=json",
-    "branch": "Congress",
-    "date": "Aug 20",
-    "dateISO": "2026-08-20",
-    "title": "HR 6117: Patient Device Data Access Act of 2025",
-    "score": 32,
-    "snapshot": "HR 6117 requires medical device manufacturers to provide patients direct access to their own device data in standardized formats within 24 hours of request. The bill establishes interoperability standards for implantable and wearable devices, with civil penalties up to $10,000 per violation for noncompliance.",
-    "verdict": "// VERDICT: Empowers patient autonomy with minimal fiscal burden while establishing clear regulatory framework for medical device data ownership.",
-    "detail": "This legislation addresses a documented gap where patients cannot readily access data from their own pacemakers, insulin pumps, and continuous glucose monitors. <strong>By mandating standardized data formats and direct patient access, the bill reduces information asymmetry that has historically favored manufacturers and limited patient portability between healthcare systems.</strong> Implementation costs fall primarily on device manufacturers (estimated $150-400M industry-wide over 3 years per preliminary CBO analysis) rather than taxpayers. The bill follows established Commerce Clause authority and mirrors successful data portability frameworks in banking (Dodd-Frank) and telecommunications. Enforcement through existing FDA and FTC mechanisms avoids creating new bureaucracy. Primary beneficiaries are the estimated 40 million Americans with implantable devices and diabetes patients using continuous monitors, with no identified population bearing disproportionate costs beyond device manufacturers adjusting business practices to comply with data ownership norms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Nov 2025",
-      "CBO Preliminary Cost Estimate",
-      "FDA Medical Device Data Standards (21 CFR 860)",
-      "House Committee on Energy and Commerce Report"
-    ]
-  },
-  {
-    "id": 1097,
-    "sourceId": "cg:119-S-4689",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4689?format=json",
-    "branch": "Congress",
-    "date": "Aug 20",
-    "dateISO": "2026-08-20",
-    "title": "S 4689: READ Act",
-    "score": -18,
-    "snapshot": "The READ Act (S 4689) would restrict federal funding for libraries that provide access to materials deemed 'age-inappropriate' by local standards, empowering parental review boards to determine content availability. The bill remains in Senate committee with no floor vote scheduled.",
-    "verdict": "// VERDICT: Creates unfunded mandate for content review while threatening federal library funding based on vague content standards, likely reducing access without measurable child safety improvements.",
-    "detail": "This legislation shifts content curation authority to local parental boards without defining 'age-appropriate' standards, creating inconsistent enforcement across jurisdictions. <strong>Libraries would face federal funding cuts for providing constitutionally protected materials that local boards deem inappropriate, effectively outsourcing First Amendment decisions to non-expert committees.</strong> The bill provides no funding for required review processes, forcing libraries to divert resources from core services. While child protection is a legitimate concern, existing library policies and parental controls already address content access. Evidence from similar state-level restrictions shows reduced library usage overall without documented improvements in child outcomes. The mechanism penalizes libraries financially for disagreements over subjective content standards rather than addressing measurable harms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4689, 119th Congress",
-      "Senate Legislative Calendar No. 549",
-      "American Library Association policy statements",
-      "Congressional Record, Aug 2026"
-    ]
-  },
-  {
-    "id": 1099,
-    "sourceId": "cg:119-HR-9006",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9006?format=json",
-    "branch": "Congress",
-    "date": "Aug 20",
-    "dateISO": "2026-08-20",
-    "title": "HR 9006: Locating Our Unclaimed Veterans Act",
-    "score": 32,
-    "snapshot": "HR 9006 directs the VA to establish a program locating veterans who have unclaimed benefits, using data-matching with SSA and other agencies. The bill authorizes outreach to connect eligible veterans with earned compensation.",
-    "verdict": "// VERDICT: Modest administrative reform that could connect veterans with earned benefits at low cost, though impact depends entirely on implementation rigor and scope of unclaimed benefits.",
-    "detail": "This bill addresses a documented problem: veterans entitled to benefits who never claim them due to lack of awareness, administrative barriers, or difficulty navigating VA systems. <strong>By creating a systematic data-matching program between VA, Social Security, and other federal databases, the legislation could connect thousands of veterans with healthcare, disability compensation, or pension benefits they've already earned.</strong> The fiscal cost appears minimal—primarily staff time and database queries—while potential benefit recovery could be substantial for individual veterans. The bill follows normal legislative process and doesn't create new entitlements, merely improves delivery of existing ones. Primary uncertainty is effectiveness: without specific funding levels, performance metrics, or enforcement mechanisms in the text, actual outcomes depend on VA prioritization and execution. Cost distribution is progressive, as unclaimed benefits disproportionately affect lower-income veterans less able to navigate bureaucracy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9006 bill text, 119th Congress",
-      "VA Benefits Administration reports",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 1080,
-    "sourceId": "cg:119-HR-7762",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7762?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7762: Protecting Our Produce Act",
-    "score": -18,
-    "snapshot": "HR 7762 stalled in subcommittee with no floor action after four months. No documented evidence of substantive agricultural protections, cost estimates, or implementation mechanisms in public record.",
-    "verdict": "// VERDICT: Legislative inaction with undefined scope provides no measurable benefit while consuming congressional resources.",
-    "detail": "The Protecting Our Produce Act remains in the Nutrition and Foreign Agriculture Subcommittee without advancement since April 2026, demonstrating failure to progress through the legislative process. <strong>Without bill text, CBO scoring, or committee markup, there exists no verifiable basis to assess whether this legislation addresses legitimate agricultural concerns or imposes unwarranted regulatory burdens.</strong> The title suggests produce-related protections, but agriculture bills frequently contain provisions spanning subsidies, trade restrictions, safety regulations, or anti-competitive measures—each carrying vastly different fiscal and economic implications. Congressional resources allocated to bills that fail to reach markup or floor consideration represent opportunity costs. The absence of public hearings or stakeholder testimony further obscures whether proposed interventions address genuine market failures or constituent needs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Agriculture Committee referral log",
-      "Congress.gov bill tracking data"
-    ]
-  },
-  {
-    "id": 1081,
-    "sourceId": "cg:119-HR-7913",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7913?format=json",
-    "branch": "Congress",
-    "date": "Aug 19",
-    "dateISO": "2026-08-19",
-    "title": "HR 7913: Higher Education Challenge Grant Modernization Act",
-    "score": -18,
-    "snapshot": "HR 7913 modernizes challenge grant programs for historically underserved colleges but remains stalled in subcommittee with no floor action or CBO cost estimate after 4+ months. Unclear implementation timeline and fiscal impact.",
-    "verdict": "// VERDICT: Well-intentioned equity initiative undermined by legislative inaction and absent fiscal analysis showing whether grant modernization delivers measurable educational outcomes per taxpayer dollar.",
-    "detail": "This bill aims to update challenge grant mechanisms for minority-serving institutions, land-grant colleges, and tribal colleges—a policy goal with clear equity rationale. <strong>However, after referral to a conservation/biotechnology subcommittee in April 2026, the bill has seen zero substantive movement, no committee markup, and no cost-benefit analysis from CBO or GAO.</strong> Without documented outcomes from similar programs, projected enrollment impacts, or graduation rate improvements, the measurable benefit remains speculative. The mismatch between bill title and subcommittee assignment (conservation vs. higher education) suggests either jurisdictional confusion or low prioritization. Fiscal responsibility cannot be assessed without cost estimates. While the bill follows normal referral process, prolonged inaction prevents democratic accountability. Equity goals are laudable, but execution failures and information gaps prevent verification that vulnerable populations actually benefit rather than face delayed or diluted support.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 7913 referral",
-      "House Committee on Agriculture proceedings",
-      "Historical analysis of Title III grant programs"
     ]
   }
 ]
