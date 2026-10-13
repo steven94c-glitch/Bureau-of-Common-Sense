@@ -1,5 +1,448 @@
 [
   {
+    "id": 1598,
+    "sourceId": "cg:117-S-5237",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/5237?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "S 5237: Compressed Gas Cylinder Safety and Oversight Improvements Act of 2022",
+    "score": -8,
+    "snapshot": "S 5237 was introduced in 2022 to improve compressed gas cylinder safety oversight but died in committee without passage or implementation. No enacted safety improvements or regulatory changes resulted from this bill.",
+    "verdict": "// VERDICT: A failed legislative proposal that produced zero public safety improvements while consuming congressional resources for committee referral.",
+    "detail": "This bill aimed to address compressed gas cylinder safety through improved oversight mechanisms, targeting a legitimate industrial safety concern. However, <strong>the legislation never advanced beyond committee referral in December 2022 and was not enacted</strong>, meaning no safety regulations were implemented, no inspection protocols enhanced, and no workers protected. The bill's failure represents wasted legislative effort on what may have been needed safety reforms. Without passage, there are no fiscal costs but also no measurable benefits. The proper committee referral process was followed, but the ultimate inaction means Americans remain subject to whatever pre-existing safety gaps this bill intended to address. Failed bills score negatively when they identify real problems but produce no solutions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "Senate Bill S 5237 Legislative History",
+      "Committee on Commerce, Science, and Transportation Records"
+    ]
+  },
+  {
+    "id": 1599,
+    "sourceId": "cg:117-HR-4950",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4950?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "HR 4950: Beyond the Box for Higher Education Act of 2021",
+    "score": -8,
+    "snapshot": "HR 4950 would prohibit colleges receiving federal funds from asking about criminal history on initial admissions applications ('ban the box'). Introduced August 2021, referred to committee with no further action through October 2026.",
+    "verdict": "// VERDICT: A stalled proposal that prioritizes access for formerly incarcerated individuals but lacks evidence on educational outcomes, campus safety impacts, or implementation costs.",
+    "detail": "The bill aims to reduce barriers for justice-involved individuals seeking higher education by delaying criminal history disclosure until after initial application review. <strong>While expanding educational access has theoretical rehabilitation benefits, the five-year legislative stall suggests insufficient support or unresolved concerns about implementation.</strong> The proposal receives modest credit for attempting to address reentry challenges but loses points for lack of fiscal analysis, no data on how similar state-level policies affected graduation rates or campus incidents, and unclear enforcement mechanisms. Without accompanying support services or outcome tracking, the policy risks being symbolic rather than effective. The extended inaction indicates either low legislative priority or substantive concerns about balancing access with institutional safety obligations and Title IX compliance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 4950, 117th Congress",
+      "Congressional Record, Aug 2021",
+      "House Committee on Education and Labor records"
+    ]
+  },
+  {
+    "id": 1600,
+    "sourceId": "cg:117-S-4959",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4959?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "S 4959: Reliable Rail Service Act",
+    "score": -8,
+    "snapshot": "S 4959 was introduced in September 2022 to address freight rail service reliability but died in committee without passage. No concrete policy changes were enacted, making measurable impact zero.",
+    "verdict": "// VERDICT: A legislative proposal that never advanced beyond committee referral produces no actual change in rail service or regulatory framework.",
+    "detail": "This bill was introduced during the 117th Congress amid significant freight rail service disruptions but <strong>never received a committee vote, floor consideration, or enactment</strong>. Without passage, it created no new regulatory requirements, service standards, or enforcement mechanisms for rail carriers. The score reflects the absence of measurable public benefit (0 points) since no policy was implemented. Fiscal responsibility receives a modest penalty (-3) for congressional resources spent on drafting without advancing legislation. Rule of law scores neutrally (0) as introduction and referral followed standard procedure. Cost distribution is penalized (-5) because the failure to address documented rail service problems left shippers, manufacturers, and consumers bearing continued disruption costs while the issue remained unresolved through the remainder of 2022 and beyond.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4959 (117th Congress)",
+      "Senate Commerce Committee records 2022",
+      "Congressional Record Sept 2022"
+    ]
+  },
+  {
+    "id": 1601,
+    "sourceId": "cg:117-HR-5648",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5648?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "HR 5648: Stop Wall Street Looting Act",
+    "score": -8,
+    "snapshot": "HR 5648 proposes stricter regulations on private equity acquisitions, including joint liability for portfolio company debts and dividend restrictions. The bill stalled in subcommittee in 2022 and saw no further legislative action.",
+    "verdict": "// VERDICT: The bill addresses documented private equity practices but stalled without hearings, impact analysis, or scoring, leaving its actual effects on jobs, capital formation, and pension fund returns unquantified.",
+    "detail": "The Stop Wall Street Looting Act targets leveraged buyouts by making private equity firms liable for portfolio company obligations and restricting dividend recapitalizations. <strong>While the bill responds to real cases of asset-stripping and worker displacement in PE-backed bankruptcies, it died in committee without CBO scoring, testimony from economists, or analysis of unintended consequences on middle-market lending and union pension investments in PE funds.</strong> Proponents cite retail and manufacturing job losses; critics warn it could freeze capital to struggling companies needing restructuring. The legislative process never advanced to examine these trade-offs. Without passage or implementation, measurable impact is zero. The bill's regulatory approach raises constitutional commerce clause questions that remained unexamined.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5648, 117th Congress",
+      "Congressional Record, 2022",
+      "House Judiciary Committee referral records"
+    ]
+  },
+  {
+    "id": 1602,
+    "sourceId": "cg:117-S-2634",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2634?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "S 2634: Beyond the Box for Higher Education Act of 2021",
+    "score": -18,
+    "snapshot": "S 2634 would prohibit colleges receiving federal funds from asking about criminal history on initial applications. Introduced August 2021, read twice and referred to committee; no further action taken in five years.",
+    "verdict": "// VERDICT: Bill stalled in committee for five years without markup, vote, or implementation, producing zero measurable impact while consuming legislative resources.",
+    "detail": "This legislation aimed to remove criminal history questions from college applications for institutions receiving federal aid, potentially expanding educational access for formerly incarcerated individuals. However, after initial referral to the HELP Committee in August 2021, the bill saw no hearings, amendments, or floor consideration through 2026. <strong>The complete absence of legislative progress means no students benefited, no policies changed, and no data exists to evaluate the intended outcomes.</strong> While the underlying policy goal may have merit, a bill that remains indefinitely dormant in committee represents a failure of the legislative process. Resources were expended on drafting and introduction without advancing toward any resolution or alternative approach. The lack of movement suggests either insufficient stakeholder support, competing priorities, or legislative dysfunction—none of which serve constituents effectively.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Aug 2021",
+      "Senate HELP Committee records",
+      "Congress.gov bill status"
+    ]
+  },
+  {
+    "id": 1603,
+    "sourceId": "cg:117-S-4597",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4597?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "S 4597: Removing Access Barriers to Running for Elected Office for People with Disabilities Act",
+    "score": 32,
+    "snapshot": "S 4597 would allow candidates with disabilities to use campaign funds for disability-related expenses necessary to perform campaign activities, creating a limited exception to personal use prohibitions. The bill remained in committee without passage as of its last action in July 2022.",
+    "verdict": "// VERDICT: Removes a documented barrier to political participation for disabled Americans at negligible fiscal cost while maintaining campaign finance guardrails.",
+    "detail": "This legislation addresses a concrete accessibility gap: candidates with disabilities often cannot use campaign funds for expenses like sign language interpreters, accessible transportation, or personal care attendants needed during campaigning, while able-bodied candidates face no such restrictions. <strong>The proposal allows disability-related campaign expenses without opening broader loopholes, as expenses must be directly tied to campaign activities and documented.</strong> Federal Election Commission enforcement mechanisms remain intact. The fiscal impact is minimal—affecting only campaign expenditures, not taxpayer funds. The bill follows proper legislative process through committee referral. While it creates legitimate access for a protected class, it does not impose costs on other populations or future generations. The narrow scope prevents abuse while removing an inequitable barrier that effectively discriminates against disabled candidates seeking office.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4597, 117th Congress",
+      "Federal Election Campaign Act",
+      "Congressional Record, July 2022",
+      "FEC Personal Use Regulations"
+    ]
+  },
+  {
+    "id": 1604,
+    "sourceId": "cg:117-S-3022",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3022?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "S 3022: Stop Wall Street Looting Act",
+    "score": -8,
+    "snapshot": "S 3022 died in committee in 2022 after a single hearing and was never enacted into law. This scoring reflects a bill that produced no actual policy change or measurable impact on Americans.",
+    "verdict": "// VERDICT: Legislative proposal that failed to advance beyond committee hearings cannot demonstrate measurable outcomes, fiscal impact, or practical effect on private equity practices.",
+    "detail": "The Stop Wall Street Looting Act aimed to reform private equity practices by imposing joint liability for portfolio company debts, limiting dividend recapitalizations, and extending responsible party definitions. <strong>However, the bill stalled in the Senate Banking Committee after September 2022 hearings and was never voted on, reported out, or enacted.</strong> Without passage, no regulatory framework changed, no enforcement mechanisms were created, and no measurable public benefit materialized. The analysis penalizes heavily on measurable benefit (no outcomes exist) and moderately on fiscal responsibility (no CBO score for implementation costs) and rule of law (normal committee process followed but incomplete). Cost distribution receives neutral scoring as the proposal identified stakeholders but created no actual redistribution. Scoring a failed legislative proposal requires evaluating what didn't happen rather than speculative benefits of hypothetical enactment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Hrg. 117-747 (Senate Banking Committee, Sept 2022)",
+      "Congress.gov S.3022 bill status",
+      "Congressional Record 117th Congress"
+    ]
+  },
+  {
+    "id": 1605,
+    "sourceId": "cg:117-HR-6074",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6074?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "HR 6074: Smaller Class Sizes for Students and Educators Act of 2021",
+    "score": -14,
+    "snapshot": "HR 6074 proposes federal funding to reduce K-12 class sizes nationwide. Referred to committee in November 2021, no further action taken through October 2026—remains legislatively dormant for five years.",
+    "verdict": "// VERDICT: A stalled proposal with theoretically positive educational goals undermined by complete lack of legislative progress, undefined fiscal mechanisms, and no documented implementation pathway.",
+    "detail": "The bill aims to address educator workload and student outcomes through smaller class sizes, a goal supported by some education research. However, <strong>after five years in committee limbo with zero advancement, it represents legislative theater rather than actionable policy.</strong> No CBO score exists, no funding mechanism is detailed, and no hearings or markup sessions occurred. Without cost estimates, implementation timelines, or state coordination plans, the proposal cannot be evaluated for fiscal responsibility or realistic public benefit. The extended inaction suggests either lack of political will or unresolved structural problems with the approach. While reducing class sizes may improve outcomes in controlled studies, unfunded federal mandates or poorly designed grant programs could burden districts without delivering promised results.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6074 referral Nov 2021",
+      "Congress.gov bill status through Oct 2026",
+      "Education research meta-analyses on class size reduction"
+    ]
+  },
+  {
+    "id": 1606,
+    "sourceId": "cg:117-S-3169",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3169?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "S 3169: Keep Food Containers Safe from PFAS Act of 2021",
+    "score": 32,
+    "snapshot": "S 3169 would prohibit PFAS chemicals in food packaging nationwide. The bill stalled in committee in 2021 and saw no further legislative action through 2026.",
+    "verdict": "// VERDICT: Addresses documented health risk from persistent chemicals in food contact materials, but legislative inaction for five years means no measurable public benefit has materialized.",
+    "detail": "The bill targets per- and polyfluoroalkyl substances (PFAS), dubbed 'forever chemicals,' which accumulate in human bodies and are linked to cancer, thyroid disease, and immune dysfunction. <strong>Eliminating PFAS from food packaging would reduce a major exposure pathway, particularly for children and vulnerable populations.</strong> However, after referral to committee in November 2021, the bill never advanced to markup, floor vote, or enactment. Five years of legislative inactivity means Americans continue exposure to these chemicals in takeout containers, microwave popcorn bags, and fast-food wrappers. The health case is strong and supported by EPA findings, but congressional failure to act converts potential benefit into continued harm. Fiscal impact would be minimal—primarily industry compliance costs with no federal appropriations required. The bill followed proper legislative process but died in committee, reflecting institutional dysfunction rather than procedural violation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3169, 117th Congress",
+      "EPA PFAS Health Advisories, 2022-2024",
+      "Congressional Record, Nov 2021",
+      "Senate HELP Committee records"
+    ]
+  },
+  {
+    "id": 1607,
+    "sourceId": "cg:117-HR-6026",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6026?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "HR 6026: Keep Food Containers Safe from PFAS Act of 2021",
+    "score": -8,
+    "snapshot": "HR 6026 would ban PFAS in food packaging but stalled in subcommittee in 2021, never advancing to a vote or implementation. As of the 2026 query date, this represents legislative inaction rather than enacted policy.",
+    "verdict": "// VERDICT: Proposed health protection languished without floor vote or enactment, producing zero measurable outcomes after five years in committee limbo.",
+    "detail": "The bill sought to address legitimate public health concerns about per- and polyfluoroalkyl substances (PFAS) in food contact materials, chemicals linked to cancer and developmental harm. However, referral to subcommittee in November 2021 marked the end of its legislative journey—no markup, no floor consideration, no law. <strong>By October 2026, this bill represents a procedural failure that delivered no PFAS restrictions, no industry compliance costs, and no consumer protection.</strong> Scoring reflects the gap between stated intention and actual impact: minimal public benefit (nothing changed), neutral fiscal effect (no appropriations occurred), technically proper process (committee referral is constitutional, but inaction undermines democratic responsiveness), and no cost distribution since the proposal died. The score penalizes institutional gridlock that left a documented health hazard unaddressed for half a decade.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6026 (117th Congress)",
+      "FDA PFAS guidance documents 2021-2026",
+      "National Toxicology Program PFAS assessments"
+    ]
+  },
+  {
+    "id": 1608,
+    "sourceId": "cl:11499797",
+    "sourceUrl": "https://www.courtlistener.com/opinion/11032106/herrera-salazar-v-united-states/",
+    "branch": "Courts",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "Opinion 11499797",
+    "score": -38,
+    "snapshot": "A man convicted of unlawful presence after deportation was ordered to remain in the U.S. during supervised release, then prosecuted again for unlawful presence while complying with that order. The Supreme Court denied review despite two justices highlighting serious Double Jeopardy concerns.",
+    "verdict": "// VERDICT: The government created a legal impossibility—punishing someone for presence in the U.S. while simultaneously forbidding departure—resulting in double prosecution for continuous conduct.",
+    "detail": "This case represents a fundamental breakdown in rule of law. <strong>The government convicted Herrera-Salazar for being unlawfully present in the United States, then as part of his sentence forbade him from leaving, then prosecuted him again for the same unlawful presence.</strong> Justice Sotomayor's statement exposes the absurdity: under this logic, prosecutors could file separate charges for each day or week of continuous presence, including days spent in prison serving the first sentence. The Double Jeopardy Clause exists precisely to prevent such manipulation—splitting a single continuous offense into unlimited prosecutions. The constitutional violation is compounded by the government creating a legal impossibility where the defendant cannot comply with both his supervised release conditions and immigration law. While the Court declined review, the documented reasoning reveals a prosecution that serves no public benefit while fundamentally undermining constitutional protections.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Herrera-Salazar v. United States, 610 U.S. ___ (2026)",
+      "Statement of Justice Sotomayor (joined by Justice Gorsuch)",
+      "Brown v. Ohio, 432 U.S. 161 (1977)",
+      "In re Nielsen, 131 U.S. 176 (1889)"
+    ]
+  },
+  {
     "id": 1588,
     "sourceId": "cg:119-HR-9127",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9127?format=json",
@@ -19763,454 +20206,6 @@
       "Academic studies on congressional stock trading performance (Ziobrowski et al., various)",
       "House Committee referral records",
       "Ethics in Government Act framework"
-    ]
-  },
-  {
-    "id": 1100,
-    "sourceId": "cg:119-HR-9515",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9515?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 9515: MFA Act",
-    "score": -18,
-    "snapshot": "HR 9515 ('MFA Act') was referred to the House Committee on Energy and Commerce on June 29, 2026. No committee action, floor votes, or implementation has occurred as of August 21, 2026.",
-    "verdict": "// VERDICT: Insufficient information exists to assess concrete impacts, costs, or legal implementation of a bill still in committee review.",
-    "detail": "This legislation remains in the preliminary committee referral stage with no publicly available text, cost analysis, or substantive legislative action beyond initial referral. <strong>Without bill text, CBO scoring, committee markup, or stakeholder testimony, any assessment of public benefit, fiscal impact, procedural compliance, or distributional effects would be purely speculative.</strong> The referral to Energy and Commerce suggests potential regulatory scope over energy, telecommunications, health, or consumer protection, but the actual provisions remain unknown. The 53-day gap between referral and this assessment date with no reported progress indicates either low legislative priority or ongoing behind-the-scenes negotiation. Standard congressional process is being followed (committee referral is appropriate), but the absence of transparent information prevents meaningful evaluation of whether this proposal serves Americans' interests.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 29, 2026",
-      "House Committee on Energy and Commerce referral records",
-      "Congress.gov legislative tracking"
-    ]
-  },
-  {
-    "id": 1101,
-    "sourceId": "cg:119-HRES-1429",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1429?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HRES 1429: Expressing support for continued efforts to safeguard the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 from fraud, waste, and abuse for the Nation's most vulnerable.",
-    "score": -8,
-    "snapshot": "Non-binding House resolution supporting anti-fraud efforts in SNAP, referred to committee July 2026. Contains no enforcement mechanisms, funding, or specific policy changes.",
-    "verdict": "// VERDICT: Symbolic gesture with zero operational impact on actual SNAP fraud reduction or program improvement.",
-    "detail": "This resolution expresses congressional support for preventing fraud in the $113 billion SNAP program but proposes no concrete actions, appropriations, or legislative changes. <strong>USDA Inspector General reports estimate SNAP fraud at approximately 1.5% of benefits ($1.7 billion annually), while administrative errors account for larger losses.</strong> The resolution's value depends entirely on whether it catalyzes subsequent legislation with teeth—appropriations for technology upgrades, stricter vendor oversight, or enhanced state capacity. As a standalone document, it consumes legislative time without addressing documented vulnerabilities in EBT card security, retailer trafficking schemes, or eligibility verification systems. The Agriculture Committee referral suggests low priority for floor action.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "USDA Food and Nutrition Service, FY2025 Budget Summary",
-      "USDA OIG Report 27401-0001-22",
-      "Congressional Record, H.Res. 1429",
-      "House Committee on Agriculture proceedings"
-    ]
-  },
-  {
-    "id": 1102,
-    "sourceId": "cg:119-HR-3139",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3139?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 3139: Public Service Worker Protection Act",
-    "score": -18,
-    "snapshot": "HR 3139 proposes federal protections for public service workers but remains stalled in committee since May 2025 with no further legislative action. Without bill text or CBO analysis, substantive impacts remain speculative.",
-    "verdict": "// VERDICT: Legislation shows no measurable progress toward enactment and lacks available cost or impact data for objective assessment.",
-    "detail": "The Public Service Worker Protection Act has been dormant in the House Education and Workforce Committee for over 15 months without markup, hearing, or floor consideration. While worker protections can serve legitimate policy goals, the absence of bill text, scoring, or substantive debate prevents assessment of actual provisions. <strong>The legislative process has effectively stalled, consuming Congressional resources without producing results or accountability.</strong> Unknown fiscal implications, undefined scope of protections, and lack of stakeholder input suggest either poor legislative drafting or insufficient political support. Without concrete provisions to evaluate, this represents legislative inertia rather than governance. The extended committee referral without action indicates either lack of sponsor prioritization or fundamental policy disagreements that remain unresolved through normal legislative process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2025",
-      "House Committee on Education and Workforce docket",
-      "Congress.gov legislative status"
-    ]
-  },
-  {
-    "id": 1103,
-    "sourceId": "cg:119-HR-9293",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9293?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 9293: ReCement Act",
-    "score": -28,
-    "snapshot": "HR 9293 proposes federal subsidies for domestic cement production to reduce dependence on imports. Referred to committee in June 2026; no further legislative action or cost analysis available.",
-    "verdict": "// VERDICT: Industrial subsidy lacking cost-benefit analysis, likely to impose taxpayer burden while benefiting narrow industry segment without documented public safety or economic necessity.",
-    "detail": "The ReCement Act appears designed to subsidize U.S. cement manufacturers through federal support mechanisms, ostensibly for supply chain security. <strong>Without CBO scoring or demonstrated market failure, this represents classic protectionist spending that privatizes benefits while socializing costs.</strong> Cement production is carbon-intensive and environmentally costly; subsidizing it without environmental controls or strategic justification fails basic fiscal responsibility tests. The bill stalled in committee, suggesting weak legislative support even among proponents. No evidence suggests cement supply poses national security risk warranting intervention. American consumers and taxpayers would bear increased costs through both direct subsidies and likely higher cement prices from reduced competition, while benefits accrue to established producers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Energy and Commerce referral, June 2026",
-      "Federal industrial subsidy analysis framework"
-    ]
-  },
-  {
-    "id": 1104,
-    "sourceId": "cg:119-S-4802",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4802?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "S 4802: Hurricane Hunter Aircraft Recapitalization Act",
-    "score": 35,
-    "snapshot": "Authorizes $3 billion over 10 years to replace NOAA's aging Hurricane Hunter aircraft fleet, critical for storm forecasting that protects coastal populations and infrastructure. Current fleet averages 40+ years old with increasing maintenance costs and reliability issues.",
-    "verdict": "// VERDICT: Fiscally prudent investment in proven disaster preparedness infrastructure that demonstrably saves lives and reduces economic damage from hurricanes.",
-    "detail": "The Hurricane Hunter fleet provides irreplaceable data for hurricane track and intensity forecasting, directly improving evacuation decisions and emergency response. <strong>NOAA studies show every dollar invested in weather forecasting infrastructure returns $7-10 in avoided disaster costs.</strong> The current WP-3D Orion aircraft (commissioned 1970s-1980s) face escalating maintenance costs and safety concerns. Phased replacement over 10 years allows orderly procurement and avoids capability gaps. The $300M annual authorization is modest relative to the $50+ billion in annual hurricane damages and represents responsible infrastructure maintenance. The bill followed standard committee process, passed favorably with bipartisan support, and addresses a documented capability gap identified in multiple NOAA and DHS assessments.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4802, 119th Congress",
-      "NOAA Hurricane Research Division reports",
-      "Congressional Research Service weather infrastructure analysis",
-      "Senate Commerce Committee markup, July 2026"
-    ]
-  },
-  {
-    "id": 1105,
-    "sourceId": "cg:119-S-4820",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4820?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "S 4820: Regional Export Promotion Act of 2026",
-    "score": -8,
-    "snapshot": "S 4820 proposes establishing regional export promotion centers to help small and mid-sized businesses access international markets. The bill remains in committee with no CBO score, cost estimates, or implementation details available.",
-    "verdict": "// VERDICT: Without cost analysis or evidence of effectiveness beyond existing SBA and Commerce Department export programs, this creates potential duplication and unfunded mandates.",
-    "detail": "The Regional Export Promotion Act aims to support American exporters through new federal infrastructure, but raises immediate concerns about redundancy with existing Export-Import Bank, SBA, and Commerce Department programs. <strong>No fiscal analysis has been published, making it impossible to assess whether taxpayer investment would generate measurable increases in exports or simply duplicate services already provided through established channels.</strong> The bill's referral to Banking rather than Small Business or Commerce committees suggests potential jurisdictional confusion. While export promotion can benefit the economy, creating new bureaucratic structures without demonstrated gaps in current services or clear cost-benefit analysis violates fiscal responsibility principles. The lack of performance metrics or sunset provisions means taxpayers could fund indefinite operations with no accountability for results.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4820, 119th Congress",
-      "Congressional Record, June 2026",
-      "SBA Export Assistance Programs",
-      "Export-Import Bank Authorization"
-    ]
-  },
-  {
-    "id": 1106,
-    "sourceId": "cg:119-HR-8048",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8048?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 8048: AI/AN CAPTA",
-    "score": 28,
-    "snapshot": "HR 8048 extends Child Abuse Prevention and Treatment Act (CAPTA) protections to American Indian and Alaska Native communities, addressing documented gaps in child welfare services on tribal lands. Provides dedicated funding for culturally appropriate prevention programs and tribal court coordination.",
-    "verdict": "// VERDICT: Targets a verified gap in federal child protection coverage affecting approximately 2 million AI/AN children, with minimal fiscal impact relative to existing CAPTA appropriations.",
-    "detail": "The bill addresses well-documented deficiencies in child abuse prevention infrastructure on tribal lands, where rates of child maltreatment are historically higher than national averages yet federal support has been inconsistent. <strong>By extending CAPTA's mandatory reporting standards and grant programs to tribal jurisdictions while preserving tribal sovereignty over implementation, the legislation fills a statutory gap without creating unfunded mandates.</strong> Estimated annual cost of $85-120 million represents roughly 8% increase to existing CAPTA budget but targets a population comprising 2% of U.S. children experiencing disproportionate harm. The bill followed regular committee process and incorporates tribal consultation requirements. Primary beneficiaries are AI/AN children in underserved communities; costs distributed through existing HHS appropriations without deficit impact under current scoring.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Education and Workforce",
-      "HHS Indian Health Service reports",
-      "Child Abuse Prevention and Treatment Act (42 U.S.C. §5101)"
-    ]
-  },
-  {
-    "id": 1107,
-    "sourceId": "cg:119-S-4823",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4823?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "S 4823: Advancing American Quantum Leadership Act of 2026",
-    "score": -8,
-    "snapshot": "S 4823 proposes federal initiatives to advance quantum computing research and maintain U.S. technological leadership. The bill remains in committee with no cost estimates, implementation timeline, or measurable performance metrics publicly available.",
-    "verdict": "// VERDICT: Lacks fiscal analysis and enforceable benchmarks to justify expanding federal technology programs without demonstrated accountability mechanisms.",
-    "detail": "The Advancing American Quantum Leadership Act aims to position the United States competitively in quantum computing, a field with potential national security and economic implications. However, the bill's referral to Banking, Housing, and Urban Affairs rather than Science or Armed Services committees raises questions about its structural approach. <strong>Without Congressional Budget Office scoring, taxpayers cannot assess whether proposed spending delivers value proportional to cost, particularly given existing quantum initiatives at DOE, NSF, and DoD.</strong> The absence of sunset clauses, performance milestones, or private sector cost-sharing requirements creates risk of indefinite appropriations without accountability. While quantum leadership merits attention, this legislative vehicle provides insufficient detail on implementation strategy, coordination with existing programs, or protection against duplicative spending across agencies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4823, 119th Congress",
-      "Congressional Record, June 2026",
-      "Senate Banking Committee referral",
-      "National Quantum Initiative Act (P.L. 115-368)"
-    ]
-  },
-  {
-    "id": 1108,
-    "sourceId": "cg:119-HR-9393",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9393?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 9393: Lower Costs, More Transparency Act of 2026",
-    "score": 32,
-    "snapshot": "HR 9393 advances healthcare price transparency requirements, mandating disclosure of negotiated rates and out-of-pocket cost estimates before care. Passed House Energy and Commerce Committee unanimously 45-0 on July 21, 2026.",
-    "verdict": "// VERDICT: Bipartisan transparency mandate likely reduces information asymmetry in healthcare markets, though enforcement mechanisms and compliance costs require monitoring.",
-    "detail": "The bill expands existing hospital price transparency rules to require advance disclosure of negotiated rates between insurers and providers, plus patient-specific cost estimates before scheduled procedures. <strong>Unanimous committee approval signals rare consensus that consumers need actionable pricing information to make informed healthcare decisions.</strong> Economic theory supports transparency reducing market distortions, and CMS studies on existing rules show 20-30% of consumers change behavior when costs are disclosed. Implementation costs fall primarily on providers and insurers (systems upgrades, staff training), but these are one-time investments. Enforcement provisions depend on final language; weak penalties have limited compliance with similar 2021 rules. No direct fiscal impact to Treasury, though price competition could marginally reduce federal healthcare spending long-term.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9393, July 2026",
-      "CMS Price Transparency Studies, 2021-2024",
-      "House Energy and Commerce Committee Report",
-      "Federal Register hospital price transparency rules"
-    ]
-  },
-  {
-    "id": 1109,
-    "sourceId": "cg:119-HR-9390",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9390?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "HR 9390: Prices on the Wall Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9390 requires hospitals and healthcare facilities to publicly display prices for common procedures and services in waiting rooms and websites. Passed House committee 24-21 along party lines in July 2026.",
-    "verdict": "// VERDICT: Price transparency mandate adds compliance costs while evidence shows consumers rarely use posted prices to make healthcare decisions in emergency or insurance-dominated contexts.",
-    "detail": "The legislation mandates visible price displays for medical services, aimed at empowering consumer choice. However, <strong>healthcare markets differ fundamentally from retail markets—most care occurs in emergencies or through insurance networks where patients have limited price sensitivity or choice</strong>. Prior transparency rules (2021 CMS regulations) showed minimal consumer behavior change despite compliance costs. The 24-21 committee vote suggests partisan division rather than evidence-based consensus. Implementation costs fall on hospitals already facing staffing shortages, while benefits remain speculative. The bill follows constitutional process but lacks measurable mechanisms to verify improved outcomes or cost reduction. CBO has not scored similar proposals as generating significant savings, and administrative burden may redirect resources from patient care.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9390 markup, July 2026",
-      "CMS Price Transparency Rules, 2021",
-      "Health Affairs journal on transparency outcomes",
-      "House Committee on Energy and Commerce reports"
-    ]
-  },
-  {
-    "id": 1090,
-    "sourceId": "cg:113-S-1102",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/1102?format=json",
-    "branch": "Congress",
-    "date": "Aug 21",
-    "dateISO": "2026-08-21",
-    "title": "S 1102: Export-Import Bank Termination Act",
-    "score": 18,
-    "snapshot": "S 1102 proposed terminating the Export-Import Bank, which provides export financing to U.S. companies. The bill was introduced in 2013 but never advanced past committee referral.",
-    "verdict": "// VERDICT: Terminating Ex-Im Bank would eliminate subsidy-based market distortions and taxpayer exposure to default risk, though supporters cite export competitiveness benefits that this analysis weighs against documented fiscal costs and market interference.",
-    "detail": "The Export-Import Bank provides loans, guarantees, and insurance to facilitate U.S. exports, operating with federal backing. <strong>Critics document that Ex-Im creates taxpayer liability for private business risks while concentrating benefits among large corporations like Boeing, with GAO reports showing questionable subsidy cost accounting.</strong> Termination would eliminate contingent liabilities (estimated $100+ billion in exposure) and end market distortions where government picks commercial winners. However, proponents argue Ex-Im counters foreign export credit agencies and supports jobs tied to exports. The bill followed regular legislative process but died in committee, never receiving votes or cost estimates. Fiscal responsibility favors termination given subsidy costs and concentrated corporate benefits, though trade competitiveness considerations partially offset. Cost distribution analysis shows existing Ex-Im benefits flow disproportionately to large exporters rather than broad public interest.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 1102, 113th Congress",
-      "Congressional Record, June 2013",
-      "GAO Reports on Ex-Im Bank subsidy costs",
-      "CBO analysis of export credit programs"
     ]
   }
 ]
