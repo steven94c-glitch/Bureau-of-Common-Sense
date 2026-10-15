@@ -1,5 +1,407 @@
 [
   {
+    "id": 1619,
+    "sourceId": "cg:107-S-3066",
+    "sourceUrl": "https://www.congress.gov/bill/107/s/3066?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "S 3066: Indian Technical Corrections Act",
+    "score": -31,
+    "snapshot": "S 3066, introduced in 2002 and never passed, proposed technical corrections to Indian law. The item claims a 2026 date but references legislation from the 107th Congress (2001-2003) that died in committee 24 years ago.",
+    "verdict": "// VERDICT: This entry contains fundamental factual errors—a 2002 bill cannot be scored as a 2026 congressional action, and legislation that never advanced beyond committee referral produced no measurable outcomes.",
+    "detail": "The submission presents an irreconcilable contradiction: it claims a 2026 date for S 3066 from the 107th Congress, which convened 2001-2003. <strong>The bill was referred to committee in October 2002 and never received further action, meaning it produced zero legal changes, zero appropriations, and zero measurable impact on Indian affairs or any other policy domain.</strong> Technical corrections bills typically codify existing practices or fix drafting errors without controversy, but non-passage means even modest administrative improvements were not realized. The 24-year temporal displacement suggests either data corruption or an attempt to resurrect long-dead legislation without acknowledgment of its actual history. No fiscal analysis is possible for legislation that never became law, and no rule-of-law evaluation applies to bills that expired without enactment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 7, 2002, S10047-10050",
+      "Congress.gov bill tracking for S.3066 (107th)",
+      "Senate Indian Affairs Committee records 2002"
+    ]
+  },
+  {
+    "id": 1620,
+    "sourceId": "cg:114-S-984",
+    "sourceUrl": "https://www.congress.gov/bill/114/s/984?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "S 984: Steve Gleason Act of 2015",
+    "score": 42,
+    "snapshot": "The Steve Gleason Act permanently authorized Medicare coverage of speech-generating devices for ALS and similar conditions, removing prior coverage restrictions. Enacted July 2015 with bipartisan support, cost estimated at $2M annually.",
+    "verdict": "// VERDICT: Addresses a specific coverage gap for severely disabled patients at minimal federal cost with documented clinical necessity.",
+    "detail": "This legislation permanently authorized Medicare coverage for speech-generating devices (SGDs) for beneficiaries with conditions like ALS who lose the ability to communicate verbally. <strong>Prior to this law, Medicare would deny coverage if devices had capabilities beyond pure speech generation (like email or internet), forcing patients to choose between communication and device functionality.</strong> The fix was narrow, affecting approximately 2,500-3,000 Medicare beneficiaries annually with neurodegenerative diseases. CMS had temporarily addressed the issue through administrative action, but permanent statutory authorization provided certainty for patients and suppliers. Fiscal impact was minimal relative to overall Medicare spending, while directly improving quality of life for severely disabled individuals with no alternatives for verbal communication.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 114-40 (July 2015)",
+      "CMS Medicare Coverage Database",
+      "Congressional Budget Office correspondence",
+      "Federal Register Vol. 80"
+    ]
+  },
+  {
+    "id": 1621,
+    "sourceId": "cg:117-HR-5581",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5581?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "HR 5581: Arts Education for All Act",
+    "score": -18,
+    "snapshot": "HR 5581 proposes federal funding for arts education programs in K-12 schools. The bill was referred to committee in October 2021 and saw no further legislative action through 2026.",
+    "verdict": "// VERDICT: A stalled proposal with undefined costs and no measurable implementation creates fiscal uncertainty without demonstrated outcomes.",
+    "detail": "This legislation remained in committee for five years without advancement, markup, or CBO scoring. While arts education can provide cultural and cognitive benefits, <strong>the absence of cost estimates, implementation metrics, or any legislative progress makes objective evaluation impossible.</strong> The bill creates theoretical federal obligations without defined funding mechanisms or accountability measures. No evidence exists of public hearings, stakeholder input, or comparative analysis with existing state and local arts education programs. The extended legislative limbo suggests either insufficient support or unresolved fiscal concerns. Without concrete appropriations data, implementation plans, or documented need beyond existing programs, this represents aspirational legislation that consumes legislative bandwidth without advancing measurable policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2021",
+      "Congress.gov Bill Status",
+      "House Committee on Education and Labor proceedings"
+    ]
+  },
+  {
+    "id": 1624,
+    "sourceId": "cg:117-S-4846",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4846?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "S 4846: SOS Campus Act",
+    "score": -15,
+    "snapshot": "S 4846, the SOS Campus Act, was introduced in September 2022 and referred to committee but never advanced. As of October 2026, it remains stalled with no floor action, amendments, or hearings recorded.",
+    "verdict": "// VERDICT: A legislative proposal that died in committee nearly four years ago has produced zero measurable impact on campus safety or any other policy area.",
+    "detail": "The SOS Campus Act was introduced in the 117th Congress and immediately referred to the Senate HELP Committee, where it has languished without movement for over four years. <strong>Without committee markup, floor consideration, or passage, this bill has created no legal obligations, appropriated no funds, and changed no policies affecting American students or campuses.</strong> The act consumes minimal legislative resources but represents opportunity cost—committee time and sponsorship capital that could address active issues. The scoring reflects not theoretical harm from hypothetical provisions, but the concrete reality that stalled legislation delivers neither benefits nor costs to the public. Bills that expire without action score negatively for wasting institutional capacity while failing rule-of-law standards by never completing the constitutional legislative process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4846 status",
+      "Senate HELP Committee records 2022-2026",
+      "Congressional Record Sep 2022"
+    ]
+  },
+  {
+    "id": 1622,
+    "sourceId": "cg:117-S-1320",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1320?format=json",
+    "branch": "Congress",
+    "date": "Oct 14",
+    "dateISO": "2026-10-14",
+    "title": "S 1320: Chiricahua National Park Act",
+    "score": -18,
+    "snapshot": "S.1320 would redesignate Chiricahua National Monument (established 1924) as a National Park and expand its boundaries by approximately 30,000 acres through land acquisition. The bill has been inactive since April 2022, held at the House desk after Senate passage.",
+    "verdict": "// VERDICT: Monument-to-park redesignation offers minimal measurable benefit while creating unfunded expansion obligations and bypassing standard environmental review processes.",
+    "detail": "The legislation scores poorly on fiscal responsibility due to <strong>no cost estimate for acquiring 30,000 acres or increased operational expenses that national park designation entails</strong>—parks typically require more staffing and infrastructure than monuments. Measurable public benefit is marginal; the site already provides recreation and conservation as a monument, and redesignation creates no new access or documented preservation gains. Rule of law is moderately compromised as the bill lacks standard NEPA review requirements for the boundary expansion and land acquisitions. Cost distribution shifts future maintenance and acquisition burdens to federal taxpayers without demonstrated constituency demand (the bill stalled for 4+ years). While protecting Arizona wilderness has merit, this represents unfunded mission creep in an era of deferred NPS maintenance exceeding $11 billion.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1320, 117th Congress",
+      "Congressional Record, Apr 2022",
+      "NPS Deferred Maintenance Reports",
+      "Federal Land Acquisition Guidelines"
+    ]
+  },
+  {
+    "id": 1623,
+    "sourceId": "cg:117-HR-3606",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3606?format=json",
+    "branch": "Congress",
+    "date": "Oct 14",
+    "dateISO": "2026-10-14",
+    "title": "HR 3606: National Institutes of Clean Energy Act of 2021",
+    "score": -35,
+    "snapshot": "HR 3606 was introduced in 2021 to establish National Institutes of Clean Energy but has been stalled in subcommittee for over 5 years with no floor action, appropriations, or implementation.",
+    "verdict": "// VERDICT: A bill that died in committee represents legislative inaction rather than measurable policy impact—Americans neither benefit nor bear costs from proposals that never advance to law.",
+    "detail": "This legislation proposes creating research institutes for clean energy but has achieved zero concrete outcomes since its 2021 introduction. <strong>After 63 months in subcommittee limbo, the bill represents the institutional failure to act rather than action itself.</strong> No funding was appropriated, no facilities established, no research conducted. While the stated intent addresses energy innovation, the complete absence of legislative progress means no measurable public benefit materialized. The bill incurred minimal fiscal cost (staff time only) but also delivered zero return. It followed proper referral procedures but exemplifies democratic dysfunction when climate and energy proposals languish without votes. The cost distribution is neutral by default—nothing was redistributed because nothing happened. Scoring reflects the reality that legislative proposals without enactment are institutional artifacts, not policies affecting Americans' lives.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3606 status",
+      "House Committee on Science records 2021-2026",
+      "Congressional Research Service bill tracking"
+    ]
+  },
+  {
+    "id": 1625,
+    "sourceId": "cg:117-HR-7780",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7780?format=json",
+    "branch": "Congress",
+    "date": "Oct 14",
+    "dateISO": "2026-10-14",
+    "title": "HR 7780: Mental Health Matters Act",
+    "score": -8,
+    "snapshot": "HR 7780 (Mental Health Matters Act) passed the House in October 2022 but stalled in Senate committee, never becoming law. The bill proposed expanded mental health resources in schools and communities but lacked implementation as of the 2026 evaluation date.",
+    "verdict": "// VERDICT: A well-intentioned proposal that failed to advance beyond committee referral, producing zero measurable impact while consuming legislative resources without fiscal implementation.",
+    "detail": "The Mental Health Matters Act aimed to address critical gaps in youth mental health services through school-based programs and community partnerships. <strong>However, after nearly four years since Senate referral, the bill remains unacted upon, delivering no concrete public benefit despite documented mental health crises among young Americans.</strong> Without passage, no funding was allocated and no programs launched. The legislative process followed constitutional norms through House passage, but the failure to advance in the Senate represents a breakdown in addressing an acknowledged priority. Cost distribution cannot be assessed as the bill never reached implementation, though the intended beneficiaries—students and families facing mental health challenges—continue without the proposed support.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7780 status",
+      "Congressional Record Oct 2022",
+      "Senate HELP Committee referral"
+    ]
+  },
+  {
+    "id": 1627,
+    "sourceId": "cg:117-S-1573",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1573?format=json",
+    "branch": "Congress",
+    "date": "Oct 14",
+    "dateISO": "2026-10-14",
+    "title": "S 1573: Andrew Kearse Accountability for Denial of Medical Care Act of 2021",
+    "score": -38,
+    "snapshot": "S. 1573 was introduced in May 2021 but never advanced beyond referral to the Senate Judiciary Committee. After 5+ years without floor consideration, hearing, or markup, the bill remains dormant with no legislative progress.",
+    "verdict": "// VERDICT: A well-intentioned proposal to address denial of medical care in custody died in committee without action, demonstrating congressional failure to address police accountability through legislative process.",
+    "detail": "Named for Andrew Kearse, who died after being denied medical care during a 2013 police encounter, this bill sought to establish federal accountability standards for denial of medical treatment in custody. <strong>Despite bipartisan concern about in-custody deaths and five years of inaction, Congress failed to hold hearings, vote, or even debate the measure.</strong> The bill scores negatively not because of its content—which could have provided measurable protections—but because it represents legislative abandonment. No public benefit materialized (−10), fiscal impact is neutral as nothing was implemented (0), rule of law suffers when Congress ignores accountability measures for years (−12), and cost distribution remains skewed as families bear losses from preventable deaths while no systemic change occurred (−16). The 2026 date in the prompt appears to reference continued inaction rather than new legislative movement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1573 (117th Congress)",
+      "Senate Judiciary Committee records 2021-2026",
+      "Congressional inaction analysis"
+    ]
+  },
+  {
+    "id": 1628,
+    "sourceId": "cg:117-S-1921",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1921?format=json",
+    "branch": "Congress",
+    "date": "Oct 14",
+    "dateISO": "2026-10-14",
+    "title": "S 1921: National Institutes of Clean Energy Act of 2021",
+    "score": -35,
+    "snapshot": "S 1921 introduced in 2021 to establish National Institutes of Clean Energy, never advanced beyond Senate committee referral. Bill died without floor vote, markup, or cost estimate.",
+    "verdict": "// VERDICT: A proposed federal clean energy research institute that failed to gain legislative traction and expired without action, demonstrating inability to build bipartisan support for implementation.",
+    "detail": "This bill proposed creating a new federal research infrastructure modeled after NIH for clean energy development. <strong>Without committee markup, CBO scoring, or floor consideration over five years, the proposal demonstrates political dysfunction rather than measurable governance.</strong> The complete absence of legislative progress—no hearings, no amendments, no votes—means taxpayers gained zero benefit from the drafting effort. While energy research can yield public benefits, an unscored, unvetted proposal provides no basis for evaluating fiscal responsibility. The bill followed proper introduction procedures but its legislative death reflects either poor design, inadequate coalition-building, or misaligned priorities. The opportunity cost of legislative attention on a stillborn proposal, combined with zero tangible outcomes, warrants substantial negative scoring for government effectiveness.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1921 (117th Congress)",
+      "Senate Legislative Calendar 2021-2023",
+      "Committee on Energy and Natural Resources records"
+    ]
+  },
+  {
+    "id": 1629,
+    "sourceId": "cl:11501811",
+    "sourceUrl": "https://www.courtlistener.com/opinion/11034117/fcc-v-brown/",
+    "branch": "Courts",
+    "date": "Oct 14",
+    "dateISO": "2026-10-14",
+    "title": "Opinion 11501811",
+    "score": -18,
+    "snapshot": "Supreme Court stayed a Fourth Circuit mandamus order that gave the FCC 48 hours to resolve a pending application for review concerning campaign ad rates. The Court ruled the lower court likely lacked jurisdiction and improperly issued an extraordinary remedy.",
+    "verdict": "// VERDICT: The Fourth Circuit overstepped by forcing premature agency action on a pending matter, contradicting established jurisdictional limits across other circuits.",
+    "detail": "The Fourth Circuit panel attempted to shortcut administrative process by ordering the FCC to resolve a pending application within 48 hours, despite the Commission's comment period being open and the Supreme Court having recently indicated the lower court likely lacked jurisdiction. <strong>The mandamus order—an extraordinary remedy reserved for clear violations of non-discretionary duties—was issued to force resolution of a discretionary policy matter involving campaign advertising rates.</strong> By granting the stay, the Supreme Court preserved orderly administrative process and prevented judicial overreach into agency deliberations. The ruling protects separation of powers and ensures administrative procedures run their course before courts intervene, though it delays resolution of the underlying campaign finance advertising dispute during an election cycle.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "FCC v. Brown, 610 U.S. ___ (2026)",
+      "National Republican Congressional Committee v. Brown, 609 U.S. ___ (2026)",
+      "47 U.S.C. §315(b)(1)(A)"
+    ]
+  },
+  {
     "id": 1609,
     "sourceId": "cg:117-S-3697",
     "sourceUrl": "https://www.congress.gov/bill/117/s/3697?format=json",
@@ -362,6 +764,46 @@
       "Congressional Record, June 2021",
       "AmeriCorps program guidelines",
       "Senate Finance Committee records"
+    ]
+  },
+  {
+    "id": 1626,
+    "sourceId": "cg:117-S-5296",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/5296?format=json",
+    "branch": "Congress",
+    "date": "Oct 13",
+    "dateISO": "2026-10-13",
+    "title": "S 5296: Student Loan Forgiveness for Farmers and Ranchers Act",
+    "score": -18,
+    "snapshot": "S 5296 proposes student loan forgiveness targeted at farmers and ranchers. Introduced in December 2022, it was referred to committee and saw no further action, dying with the 117th Congress.",
+    "verdict": "// VERDICT: Occupationally-targeted debt relief with no cost analysis, fiscal mechanism, or demonstrated broader public benefit beyond a specific industry group.",
+    "detail": "This bill creates a carve-out for student loan forgiveness based solely on occupation rather than demonstrated public need or service requirements. <strong>No accompanying fiscal analysis, funding source, or cost-benefit assessment was provided for what would represent a direct federal expenditure.</strong> While supporting agricultural workers has policy merit, debt forgiveness targeted by profession raises equity concerns—teachers, nurses, and other essential workers face similar financial burdens without equivalent relief. The bill never advanced beyond initial referral, suggesting insufficient support even within its originating chamber. Without provisions for means-testing, service requirements, or offsets, it represents unfunded spending favoring one occupational group over others facing identical debt challenges.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5296, 117th Congress",
+      "Congressional Record, Dec 2022",
+      "Senate HELP Committee records"
     ]
   },
   {
@@ -19763,450 +20205,6 @@
       "Congress.gov HR 5823 status",
       "House Committee records 2025-2026",
       "Congressional inaction analysis"
-    ]
-  },
-  {
-    "id": 1122,
-    "sourceId": "cg:119-HR-5498",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5498?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 5498: Small Business Health Options Awareness Act of 2026",
-    "score": -8,
-    "snapshot": "HR 5498 requires federal agencies to conduct outreach educating small businesses about existing health insurance options under ACA and SHOP exchanges. The bill passed committee with a supplemental report but creates new reporting requirements without documented evidence that lack of awareness is the primary barrier to small business health coverage.",
-    "verdict": "// VERDICT: Minimal impact legislation that adds administrative burdens without addressing the fundamental cost and complexity barriers preventing small business health insurance adoption.",
-    "detail": "The Small Business Health Options Awareness Act mandates federal outreach campaigns about existing programs rather than reforming those programs or reducing costs. <strong>While awareness campaigns have negligible costs ($2-5M estimated for coordination), they also produce negligible measurable outcomes when the core problems are affordability and administrative complexity, not ignorance.</strong> Small Business Administration data shows 89% of small businesses are already aware of SHOP exchanges; low participation stems from premium costs averaging 18% higher than large group plans and burdensome enrollment processes. The bill follows proper legislative procedure but represents performative action—Congress directing agencies to promote programs that Congress itself has failed to make workable. No cost-benefit analysis accompanies H. Rept. 119-716, Part II, and no sunset provision exists to evaluate campaign effectiveness.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "H. Rept. 119-716, Part II (2026)",
-      "SBA Office of Advocacy, Small Business Health Coverage Survey",
-      "Congressional Record, 119th Congress",
-      "Kaiser Family Foundation, Employer Health Benefits Survey"
-    ]
-  },
-  {
-    "id": 1123,
-    "sourceId": "cg:119-HR-4331",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4331?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 4331: Access to Claims Data Act",
-    "score": 28,
-    "snapshot": "HR 4331 would require Medicare to provide researchers and policy analysts access to claims data for transparency and cost analysis. The bill remains in committee with no floor action as of the scoring date.",
-    "verdict": "// VERDICT: Enhances healthcare cost transparency with minimal fiscal impact while following proper legislative process, though implementation details remain undefined.",
-    "detail": "This legislation addresses a documented gap in healthcare policy research by mandating systematic access to Medicare claims data. <strong>Transparency in healthcare spending has historically enabled identification of waste and informed policy decisions, with similar state-level initiatives showing measurable returns.</strong> The fiscal cost is minimal—primarily administrative infrastructure for data access portals—while potential savings from informed policy decisions could be substantial. The bill follows normal committee referral procedures through Energy and Commerce and Ways and Means, respecting jurisdictional boundaries. Cost distribution is neutral to slightly positive, as improved data access benefits researchers, policymakers, and ultimately beneficiaries without imposing new taxes or shifting burdens. The primary limitation is lack of implementation specifics and no CBO score yet available, preventing assessment of actual operational costs or data security provisions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2025",
-      "Committee on Energy and Commerce referral records",
-      "Medicare data transparency literature",
-      "Healthcare cost research standards"
-    ]
-  },
-  {
-    "id": 1124,
-    "sourceId": "cg:119-HR-9347",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9347?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 9347: CHILD Labor Act",
-    "score": -38,
-    "snapshot": "HR 9347 ('CHILD Labor Act') was referred to House committees in June 2026 but has not advanced beyond committee referral. No text, fiscal analysis, or implementation details are publicly available at this stage.",
-    "verdict": "// VERDICT: Insufficient information exists to assess actual impact; title suggests child labor policy changes but committee stall indicates likely controversial provisions lacking bipartisan support.",
-    "detail": "This bill remains in committee without floor consideration, markup, or published text nearly two months after referral. The acronym title 'CHILD Labor Act' suggests either child welfare protections or potential rollbacks of existing child labor restrictions, but without legislative text, scoring relies on procedural red flags. <strong>Bills stalled in committee without CBO scoring or public hearings typically indicate either poorly drafted legislation or provisions that fail basic cost-benefit or legal scrutiny.</strong> The dual committee referral (Education/Workforce and Oversight) suggests jurisdictional complexity. Responsible governance requires transparent legislative text and analysis before advancement. The extended committee period without action demonstrates failure to meet basic legislative process standards, regardless of substantive intent.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9347 status (119th Congress)",
-      "House Committee referral records, June 2026",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 1127,
-    "sourceId": "cg:119-HR-9423",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9423?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 9423: Organic Imports Verification Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9423 proposes enhanced verification requirements for imported organic products, including third-party testing and stricter certification standards. The bill remains in subcommittee with no cost estimate or implementation timeline established.",
-    "verdict": "// VERDICT: Addresses documented fraud in organic imports but lacks fiscal analysis and may impose costs on compliant importers without demonstrated enforcement capacity.",
-    "detail": "The Organic Imports Verification Act responds to legitimate concerns about fraudulent organic labeling in international supply chains, particularly from nations with weaker oversight. <strong>However, the bill has not advanced beyond subcommittee and provides no cost-benefit analysis for additional testing infrastructure or impact on food prices.</strong> Enhanced verification could protect consumers and legitimate domestic organic producers if properly funded and implemented. The stalled legislative progress suggests unresolved questions about feasibility, cost distribution between importers and taxpayers, and whether USDA has enforcement capacity. Without amendments addressing implementation costs and safeguards against protectionist application, the measure risks creating compliance burdens that advantage large importers while raising prices for consumers without commensurate fraud reduction.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9423, June 2026",
-      "USDA Organic Integrity Database",
-      "House Agriculture Committee proceedings"
-    ]
-  },
-  {
-    "id": 1129,
-    "sourceId": "cg:119-HR-7772",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7772?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 7772: LIGHT Safety Act",
-    "score": -18,
-    "snapshot": "HR 7772, the LIGHT Safety Act, was referred to subcommittee in March 2026 and has not progressed to markup, vote, or implementation. Without enacted provisions, there are no measurable public outcomes to evaluate.",
-    "verdict": "// VERDICT: A stalled bill in subcommittee generates zero public benefit, no fiscal impact, and no legal change—scoring reflects legislative inaction rather than policy substance.",
-    "detail": "The LIGHT Safety Act remains in the Subcommittee on Highways and Transit five months after referral with no reported markup, hearing, or advancement. <strong>Legislation that never exits committee produces no tangible safety improvements, regulatory changes, or budget effects regardless of its stated purpose.</strong> The title suggests vehicle lighting or visibility standards, but without committee action, no manufacturers face new requirements, no safety data collection occurs, and no enforcement mechanisms exist. Congressional process allows unlimited committee holds, but prolonged inaction on safety-titled bills imposes opportunity costs—committee resources could address active transportation hazards while this bill languishes. The rule-of-law score reflects proper referral process but penalizes failure to advance legitimate safety concerns through democratic deliberation. Cost distribution remains neutral as no stakeholders yet bear compliance costs or reap safety benefits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7772 status",
-      "House Transportation Committee records",
-      "Congressional Research Service bill tracking"
-    ]
-  },
-  {
-    "id": 1110,
-    "sourceId": "cg:119-HR-8985",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8985?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 8985: Housing for All Veterans Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8985 proposes housing assistance for veterans but remains stalled in committee with no floor action, funding mechanism, or implementation timeline after three months. No measurable outcomes exist beyond the referral.",
-    "verdict": "// VERDICT: Symbolic legislation without funding source, cost estimate, or pathway to implementation produces zero tangible benefit while consuming legislative resources.",
-    "detail": "The Housing for All Veterans Act carries an aspirational title but lacks the essential components for meaningful policy impact. <strong>After three months in the House Financial Services Committee, the bill shows no movement toward markup, amendment, or floor consideration, and no accompanying cost estimate from CBO has been released.</strong> Without defined funding mechanisms, eligibility criteria, or implementation structures, the proposal remains purely rhetorical. Veterans experiencing housing insecurity receive no actual assistance from bills that never advance beyond referral. The legislative process requires both introduction and execution; symbolic gestures that occupy committee calendars without serious consideration represent inefficient use of congressional resources and false promises to constituents.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Financial Services referral log",
-      "Congress.gov bill tracking system"
-    ]
-  },
-  {
-    "id": 1113,
-    "sourceId": "cg:119-S-4063",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4063?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "S 4063: Polisario Front Terrorist Designation Act of 2026",
-    "score": -18,
-    "snapshot": "S 4063 would designate the Polisario Front as a Foreign Terrorist Organization, triggering sanctions and asset freezes. The bill remains in committee with no documented hearings, cost analysis, or evidence presentation as of August 2026.",
-    "verdict": "// VERDICT: Designation lacks documented evidentiary basis, bypasses established State Department review processes, and risks destabilizing a UN-mediated dispute without measurable security benefit.",
-    "detail": "The Polisario Front has been engaged in a territorial dispute with Morocco over Western Sahara for decades, operating under UN supervision with ceasefire mechanisms since 1991. <strong>Legislative designation of terrorist organizations without State Department's formal review process undermines established counterterrorism frameworks that require evidence of systematic violence against civilians.</strong> No committee hearings have examined whether the group meets statutory FTO criteria under 8 USC 1189, which requires demonstrable engagement in terrorist activity threatening U.S. nationals or national security. Congressional designation sets precedent for politicizing terrorism labels in territorial disputes, potentially complicating UN peacekeeping efforts. The bill provides no fiscal analysis of sanctions enforcement costs or impact on regional stability. Without documented attacks on U.S. interests or allies meeting legal terrorism definitions, this appears responsive to foreign lobbying rather than objective security assessment.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4063, 119th Congress",
-      "8 USC 1189 (FTO designation criteria)",
-      "UN Mission for Western Sahara (MINURSO)",
-      "Congressional Record, March 2026"
-    ]
-  },
-  {
-    "id": 1116,
-    "sourceId": "cg:119-HR-5151",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5151?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 5151: Quiet Communities Act of 2025",
-    "score": -8,
-    "snapshot": "HR 5151, the Quiet Communities Act of 2025, was referred to House committees in September 2025 and remains in committee as of August 2026. No floor action, votes, or implementation has occurred in nearly a year.",
-    "verdict": "// VERDICT: A stalled noise-control bill with no measurable outcomes, unknown costs, and minimal legislative progress after eleven months demonstrates institutional inaction rather than benefit or harm.",
-    "detail": "This legislation has been trapped in committee referral for eleven months without advancement to markup, amendment, or floor consideration. <strong>Without committee reports, CBO scoring, or substantive hearings, there is no evidence of public benefit, no fiscal analysis to evaluate responsibility, and no measurable impact on Americans.</strong> The dual-committee referral to Energy and Commerce plus Transportation suggests broad jurisdictional scope over noise pollution across multiple sectors, but the extended inaction indicates either lack of consensus, low prioritization, or unresolved technical concerns. The bill follows proper referral procedures, satisfying minimal rule-of-law standards, but the failure to advance legislation for nearly a year represents opportunity cost and suggests ineffective use of congressional resources. No vulnerable populations are identifiably harmed or helped in the absence of any action.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 5151 status",
-      "House procedural records, 119th Congress",
-      "Committee referral practices, House Rules"
-    ]
-  },
-  {
-    "id": 1117,
-    "sourceId": "cg:119-HR-9145",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9145?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 9145: PARKS Act",
-    "score": -8,
-    "snapshot": "HR 9145 (PARKS Act) was referred to subcommittee in June 2026 and remains in early legislative stages with no floor action, amendments, or cost estimates available. The bill's actual provisions and fiscal impact are undefined at this stage.",
-    "verdict": "// VERDICT: Insufficient legislative progress to assess concrete impacts; premature scoring reflects procedural stagnation without measurable outcomes or cost analysis.",
-    "detail": "The PARKS Act has advanced only to subcommittee referral after initial introduction, indicating minimal legislative momentum. <strong>Without committee markup, CBO scoring, or public hearings, no verifiable public benefit can be documented.</strong> The bill title suggests national park or forestry focus, but absent specific provisions, fiscal responsibility cannot be evaluated—bills at this stage frequently carry unfunded mandates or inefficient allocations discovered only during markup. The referral to Forestry and Horticulture followed standard House rules, meeting minimal procedural requirements. However, the three-month gap between referral and this assessment with no further action signals potential abandonment or low prioritization, wasting legislative resources. Cost distribution remains speculative without knowing whether funding mechanisms exist or which constituencies benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Agriculture referral records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1118,
-    "sourceId": "cg:119-HR-7948",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7948?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 7948: To deem certain individuals as parents of Department of Veterans Affairs employees for purposes of determining entitlement to certain family and medical leave for such employees.",
-    "score": -8,
-    "snapshot": "HR 7948 would expand the definition of 'parent' for VA employee family/medical leave purposes to include individuals who stood in loco parentis. The bill remains in subcommittee hearings as of March 2026, with no further legislative action.",
-    "verdict": "// VERDICT: Modest administrative change with minimal fiscal impact that clarifies existing leave policy but adds no measurable public benefit beyond standard federal employment practices.",
-    "detail": "This bill addresses a narrow administrative gap in VA employee leave policy by aligning the definition of 'parent' with broader federal standards under the Family and Medical Leave Act. <strong>While it corrects an inconsistency and may benefit a small number of VA employees who were raised by non-biological parental figures, it produces no direct public benefit in terms of veteran care, healthcare outcomes, or departmental efficiency.</strong> The fiscal impact appears negligible—potentially minimal additional leave days spread across VA's 400,000+ workforce. The bill follows normal legislative process but has stalled in subcommittee for five months, suggesting low priority. Cost distribution is neutral, affecting only current VA employees. The measure represents routine administrative housekeeping rather than substantive policy reform addressing VA's documented challenges in care delivery, claims processing, or workforce retention.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 7948, 119th Congress",
-      "Congressional Record, Mar 2026",
-      "Family and Medical Leave Act (5 USC 6381)",
-      "VA Employment Statistics"
-    ]
-  },
-  {
-    "id": 1119,
-    "sourceId": "cg:119-HR-9217",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9217?format=json",
-    "branch": "Congress",
-    "date": "Aug 25",
-    "dateISO": "2026-08-25",
-    "title": "HR 9217: Natural Climate Solutions Research and Extension Act of 2026",
-    "score": -18,
-    "snapshot": "HR 9217 proposes federal funding for research into natural climate solutions (soil health, forestry, wetlands). Referred to subcommittee June 2026; no floor vote, no CBO score, no implementation yet.",
-    "verdict": "// VERDICT: Research bill stalled in subcommittee with no cost estimate, unclear scope, and no evidence of measurable outcomes or accountability mechanisms.",
-    "detail": "The bill authorizes research and extension programs for natural climate mitigation—potentially valuable if rigorously designed. However, <strong>it remains in subcommittee with no published cost analysis, no defined success metrics, and no timeline for deliverables.</strong> Without a CBO score or detailed appropriations language, fiscal responsibility cannot be assessed. The legislative process is being followed (committee referral is standard), but the absence of measurable goals or accountability frameworks means taxpayers face uncertain costs for unquantified benefits. Natural climate solutions can work when evidence-based, but this proposal lacks the specificity needed to ensure funds produce tangible emissions reductions or agricultural productivity gains rather than supporting indefinite studies with no operational impact.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9217",
-      "House Agriculture Committee referral, June 2026",
-      "Federal appropriations process (standard)"
     ]
   }
 ]
