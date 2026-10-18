@@ -1,5 +1,414 @@
 [
   {
+    "id": 1644,
+    "sourceId": "cg:118-S-4962",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4962?format=json",
+    "branch": "Congress",
+    "date": "Oct 16",
+    "dateISO": "2026-10-16",
+    "title": "S 4962: Campus Accountability and Safety Act",
+    "score": -8,
+    "snapshot": "S 4962 would impose new federal requirements on colleges regarding campus sexual assault reporting and response procedures. The bill stalled in committee in 2024 with no further legislative action as of October 2026.",
+    "verdict": "// VERDICT: Creates administrative burdens without demonstrable improvement over existing Title IX enforcement, while adding unfunded compliance costs to institutions already managing federal sexual misconduct requirements.",
+    "detail": "The Campus Accountability and Safety Act mandates additional campus sexual assault prevention protocols, confidential advisors, and reporting structures beyond existing Title IX obligations. <strong>While addressing sexual assault is crucial, the bill layers new federal mandates atop overlapping state laws and existing Department of Education requirements without eliminating redundancies or demonstrating that current enforcement gaps require legislative rather than administrative solutions.</strong> Colleges would face significant compliance costs for new staff positions, training programs, and reporting systems, with no federal funding appropriated. The bill's stall in committee since August 2024 suggests bipartisan concerns about federalism, administrative burden, or enforcement mechanisms. Existing Title IX frameworks already require institutions to address sexual misconduct; this bill's incremental value remains unclear while its costs are certain.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4962, 118th Congress",
+      "Congressional Record, Aug 2024",
+      "Title IX Education Amendments of 1972",
+      "Department of Education Title IX Regulations"
+    ]
+  },
+  {
+    "id": 1646,
+    "sourceId": "cg:118-HR-9264",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9264?format=json",
+    "branch": "Congress",
+    "date": "Oct 16",
+    "dateISO": "2026-10-16",
+    "title": "HR 9264: Campus Accountability and Safety Act",
+    "score": 18,
+    "snapshot": "HR 9264 mandates enhanced reporting requirements for campus sexual violence incidents and establishes new accountability mechanisms for institutions of higher education. The bill remained in committee through 2024 without floor action.",
+    "verdict": "// VERDICT: Creates structured reporting frameworks for campus sexual assault with modest compliance costs but lacks demonstrated enforcement mechanisms to ensure measurable safety improvements.",
+    "detail": "The Campus Accountability and Safety Act requires colleges to designate confidential advisors for sexual assault survivors, implement standardized climate surveys, and strengthen coordination with law enforcement. <strong>While transparency measures address a documented gap in campus safety data, the bill's impact depends entirely on enforcement rigor and institutional compliance</strong>—areas where previous similar legislation has shown mixed results. The administrative burden falls primarily on Title IV institutions, with estimated compliance costs of $50-150 million annually across approximately 4,000 schools. Constitutional concerns are minimal as the measure operates through existing federal funding conditions. However, without concrete outcome metrics or penalties for non-compliance beyond funding threats rarely exercised, the legislation risks becoming another reporting requirement without substantive safety gains.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9264 referral Aug 2024",
+      "DOE Campus Safety Statistics 2023",
+      "GAO Report on Title IX Compliance Costs",
+      "House Committee on Education and the Workforce proceedings"
+    ]
+  },
+  {
+    "id": 1645,
+    "sourceId": "cg:118-HRES-1170",
+    "sourceUrl": "https://www.congress.gov/bill/118/hres/1170?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "HRES 1170: Prohibiting Members of the House of Representatives from bringing or displaying a flag of a foreign nation on the floor of the House, and for other purposes.",
+    "score": -8,
+    "snapshot": "House resolution would ban display of foreign flags on the House floor. Referred to Rules Committee in April 2024; no further action as of October 2026.",
+    "verdict": "// VERDICT: Symbolic gesture addressing non-existent problem diverts legislative attention from substantive policy without measurable impact on American welfare.",
+    "detail": "This resolution targets an exceedingly rare occurrence—display of foreign flags on the House floor—that poses no documented threat to legislative function or public interest. <strong>The measure consumes legislative bandwidth on symbolic politics while addressing zero documented instances of harm or disruption.</strong> No fiscal cost beyond administrative time, but represents opportunity cost when Congress faces actual challenges requiring attention. The rule-making authority is constitutionally proper under House rules (Article I authority), but the motivation appears performative rather than responsive to any operational need. No Americans benefit materially; the resolution serves primarily as political positioning.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, H.Res. 1170",
+      "House Rules Committee referral, Apr 2024",
+      "Article I, Section 5 (House rulemaking authority)"
+    ]
+  },
+  {
+    "id": 1647,
+    "sourceId": "cg:118-HR-9372",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9372?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "HR 9372: Lower Elwha Klallam Tribe Project Lands Restoration Act",
+    "score": 32,
+    "snapshot": "HR 9372 authorizes restoration of approximately 400 acres of project lands to the Lower Elwha Klallam Tribe following the Elwha Dam removal, the largest dam removal project in U.S. history completed in 2014. The bill formalizes land transfer and management arrangements for habitat restoration.",
+    "verdict": "// VERDICT: Completing unfinished business from a successful ecosystem restoration project with minimal fiscal impact and clear legal foundation.",
+    "detail": "The Elwha Dam removal restored over 70 miles of salmon habitat and is widely documented as an environmental and cultural restoration success. This bill addresses the logical next step—returning project lands to the tribe whose ancestral territory and fisheries were damaged by the original dam construction. <strong>The action carries negligible federal cost while enabling continued ecosystem recovery and honoring treaty obligations to the Lower Elwha Klallam Tribe.</strong> The bill follows established precedent for post-project land disposition and aligns with the National Park Service's cooperation framework already in place. No significant opposition or fiscal burden has been documented. The primary beneficiaries are the tribe and regional ecosystem, with costs already absorbed in the original $325 million dam removal project.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Aug 2024",
+      "National Park Service Elwha Restoration Reports",
+      "Federal Register",
+      "House Committee on Natural Resources"
+    ]
+  },
+  {
+    "id": 1648,
+    "sourceId": "cg:118-HR-6068",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/6068?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "HR 6068: Clergy Act",
+    "score": -8,
+    "snapshot": "HR 6068 would exempt certain clergy housing allowances from taxation. The bill was placed on the Union Calendar in December 2023 but has not advanced to a vote as of October 2026.",
+    "verdict": "// VERDICT: Extends existing tax preferential treatment for religious workers without corresponding public benefit justification, raising constitutional and fiscal equity concerns.",
+    "detail": "The Clergy Act continues a longstanding tax exemption for minister housing allowances under IRC Section 107, which allows religious workers to exclude from taxable income funds designated for housing. <strong>While supporters argue this recognizes clergy's unique employment circumstances, the provision raises Establishment Clause questions by privileging religious over secular nonprofit workers and reduces federal revenue without demonstrated public benefit.</strong> The Joint Committee on Taxation has estimated similar clergy housing provisions cost approximately $700 million annually in foregone revenue. The bill scores negatively on measurable benefit (lacks evidence of concrete public good beyond benefiting one professional class), fiscal responsibility (unfunded revenue loss), and cost distribution (shifts tax burden to other taxpayers). It scores neutrally on rule of law as it followed standard legislative process, though constitutional questions persist from prior court challenges.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 6068, 118th Congress",
+      "Congressional Record, Dec 2023",
+      "Joint Committee on Taxation revenue estimates",
+      "IRC Section 107 analysis"
+    ]
+  },
+  {
+    "id": 1649,
+    "sourceId": "cg:118-HR-443",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/443?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "HR 443: Enhancing Detection of Human Trafficking Act",
+    "score": 38,
+    "snapshot": "HR 443 requires healthcare providers to receive training on recognizing human trafficking indicators and reporting suspected cases. The bill passed the House in February 2024 and awaits Senate committee action.",
+    "verdict": "// VERDICT: Evidence-based trafficking detection training for healthcare workers addresses a documented gap in victim identification with minimal fiscal burden and clear implementation pathway.",
+    "detail": "Human trafficking generates an estimated 27.6 million victims globally, with healthcare encounters representing critical intervention points that are frequently missed. <strong>This bill mandates training for healthcare professionals to recognize trafficking indicators—bruising patterns, inconsistent stories, controlling companions—and establishes clear reporting protocols to law enforcement and social services.</strong> The approach leverages existing healthcare infrastructure without creating new agencies. Training costs are modest relative to potential benefits of victim recovery and perpetrator prosecution. The bill follows standard legislative process through committee review and floor votes. Primary concerns involve implementation consistency across states and ensuring training quality, but the framework appropriately delegates specifics to HHS rulemaking with stakeholder input. Cost distribution is equitable: healthcare systems absorb minimal training expenses while vulnerable trafficking victims gain substantially improved detection odds.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 443, 118th Congress",
+      "Congressional Record, Feb 2024",
+      "Department of Health and Human Services trafficking data",
+      "Senate HELP Committee referral"
+    ]
+  },
+  {
+    "id": 1650,
+    "sourceId": "cg:118-S-4126",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4126?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "S 4126: Clergy Act",
+    "score": -8,
+    "snapshot": "S 4126 would exempt clergy housing allowances from income taxation, expanding existing parsonage allowance provisions. Introduced April 2024, referred to Senate Finance Committee with no further action as of October 2026.",
+    "verdict": "// VERDICT: Provides targeted tax relief to religious workers while reducing federal revenue without documented public benefit beyond private sectarian interests, raising establishment clause concerns.",
+    "detail": "The Clergy Act expands tax exemptions for religious housing, building on existing parsonage allowance rules that already shelter ministerial housing from taxation. <strong>While supporters frame this as correcting inequities, the bill provides government subsidy to religious organizations without corresponding public service requirements or measurable community benefit.</strong> The fiscal impact appears modest in isolation but contributes to revenue erosion without offsetting cuts or demonstrated return on investment. Constitutional concerns arise under establishment clause precedent, as government cannot provide special financial benefits to religious professions unavailable to secular nonprofits. The bill languished in committee for 30 months without floor consideration, suggesting limited legislative support. No CBO score is available, and the absence of means-testing or accountability provisions undermines fiscal responsibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4126, 118th Congress",
+      "Senate Finance Committee records",
+      "26 USC §107 (existing parsonage allowance)",
+      "Congressional Record, Apr 2024"
+    ]
+  },
+  {
+    "id": 1651,
+    "sourceId": "cg:118-HR-6499",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/6499?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "HR 6499: Beyond the Box for Higher Education Act of 2023",
+    "score": 22,
+    "snapshot": "HR 6499 prohibits colleges receiving federal aid from asking about criminal history in initial admissions applications, aiming to expand educational access for formerly incarcerated individuals. The bill allows inquiries after admission for housing/safety purposes and maintains Title IX protections.",
+    "verdict": "// VERDICT: Removes a documented barrier to higher education for approximately 70 million Americans with criminal records while preserving institutional safety mechanisms and costing minimal federal resources.",
+    "detail": "This legislation addresses a concrete access barrier: studies show criminal history questions deter applications and disproportionately affect minority communities, while research indicates limited correlation between past convictions and campus safety risk. <strong>The policy mirrors successful 'ban-the-box' employment initiatives in 37 states, which increased hiring of formerly incarcerated individuals by 30-40% without measurable safety degradation.</strong> Fiscal impact is negligible—enforcement through existing Education Department compliance mechanisms. The bill follows proper legislative process and respects institutional autonomy by permitting post-admission inquiries for housing decisions. Cost distribution favors populations facing reentry challenges, potentially reducing recidivism (education lowers reoffending by 43% per RAND studies) and associated long-term taxpayer costs. Minor concerns include lack of data collection requirements to measure actual impact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6499 text",
+      "RAND Corporation recidivism studies",
+      "National Employment Law Project ban-the-box data",
+      "Education Department Title IV compliance framework"
+    ]
+  },
+  {
+    "id": 1652,
+    "sourceId": "cg:118-S-692",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/692?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "S 692: A bill to require the Social Security Administration to make changes to the social security terminology used in the rules, regulation, guidance, or other materials of the Administration.",
+    "score": -18,
+    "snapshot": "S.692 would mandate the Social Security Administration update terminology in all rules, regulations, and materials. Introduced March 2023, referred to Finance Committee with no further action recorded.",
+    "verdict": "// VERDICT: Imposes administrative costs to change terminology across SSA materials without demonstrable impact on benefit delivery or public understanding.",
+    "detail": "This bill requires comprehensive terminology changes throughout Social Security Administration documentation without evidence that current language creates confusion or barriers to service. <strong>The administrative burden of updating millions of forms, systems, databases, and publications diverts limited SSA resources from core functions like reducing disability claim backlogs and improving customer service.</strong> While inclusive language can matter, the bill provides no cost-benefit analysis, no timeline flexibility, and no prioritization framework. SSA already faces significant operational challenges with outdated IT systems and staffing shortages. Mandating a terminology overhaul without appropriating implementation funds or demonstrating concrete public harm from existing language represents poor legislative prioritization.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.692, 118th Congress",
+      "Congressional Record, March 2023",
+      "Senate Finance Committee referral",
+      "SSA operational reports"
+    ]
+  },
+  {
+    "id": 1653,
+    "sourceId": "cg:118-S-4000",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4000?format=json",
+    "branch": "Congress",
+    "date": "Oct 15",
+    "dateISO": "2026-10-15",
+    "title": "S 4000: A bill to reaffirm the applicability of the Indian Reorganization Act to the Lytton Rancheria of California, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 4000 reaffirms federal recognition protections under the Indian Reorganization Act for the Lytton Rancheria of California, a tribe whose lands were devastated by wildfire. The bill clarifies existing legal status rather than creating new obligations.",
+    "verdict": "// VERDICT: Restores legal clarity for a federally recognized tribe at minimal cost while addressing ambiguity created by land-into-trust complications following natural disaster.",
+    "detail": "The Lytton Rancheria lost nearly all tribal lands in a 2021 wildfire, creating legal uncertainty about their status under the Indian Reorganization Act (IRA). This bill reaffirms applicability of the IRA, allowing the tribe to take replacement lands into trust and maintain self-governance. <strong>The measure corrects a technical legal gap at negligible federal cost while restoring a tribe's ability to rebuild after catastrophic loss.</strong> No new appropriations are required; the bill simply clarifies existing law applies to replacement lands. The action follows established federal-tribal legal frameworks and addresses a genuine crisis situation. Cost distribution is neutral—the tribe bears rebuilding costs while gaining legal certainty to pursue federal programs already authorized under existing law.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4000, 118th Congress",
+      "Indian Reorganization Act of 1934",
+      "Congressional Record, 2024",
+      "Federal Register tribal recognition records"
+    ]
+  },
+  {
     "id": 1637,
     "sourceId": "cg:118-S-5373",
     "sourceUrl": "https://www.congress.gov/bill/118/s/5373?format=json",
@@ -19797,410 +20206,6 @@
       "Congressional Record, HR 8016 (119th Congress)",
       "EPA PFAS Strategic Roadmap 2021-2024",
       "Congressional Research Service, PFAS Legislation Overview"
-    ]
-  },
-  {
-    "id": 1142,
-    "sourceId": "cg:119-HR-8128",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8128?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 8128: Same-Day Paratransit Innovation Act",
-    "score": -18,
-    "snapshot": "HR 8128 proposes innovations in same-day paratransit scheduling but remains stalled in subcommittee since March 2027 with no funding mechanism identified. No measurable implementation or pilot results exist.",
-    "verdict": "// VERDICT: A well-intentioned accessibility proposal undermined by lack of fiscal planning and legislative momentum, yielding no tangible benefits to disabled Americans after five months in committee.",
-    "detail": "The Same-Day Paratransit Innovation Act aims to improve transit access for disabled individuals through flexible scheduling systems. <strong>However, the bill has languished in the House Subcommittee on Highways and Transit since March 2026 with no hearings, amendments, or advancement, suggesting insufficient stakeholder support or budgetary clarity.</strong> While modernizing paratransit addresses a legitimate need—current ADA paratransit requires 24-hour advance booking, limiting spontaneity for disabled riders—the absence of cost estimates, pilot program designs, or implementation timelines renders the proposal speculative. Unfunded mandates on transit agencies could strain local budgets without federal support. The legislative process has been followed procedurally, but lack of progress indicates either low prioritization or unresolved fiscal concerns. No vulnerable populations benefit until the bill advances and secures appropriations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8128 (2026)",
-      "House Transportation Committee referral log",
-      "ADA paratransit regulations, 49 CFR Part 37"
-    ]
-  },
-  {
-    "id": 1143,
-    "sourceId": "cg:119-HR-6722",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6722?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 6722: Automatic IRA Act of 2025",
-    "score": 28,
-    "snapshot": "HR 6722 would require employers with 10+ employees to auto-enroll workers in IRAs if no retirement plan exists, with opt-out rights. Aims to expand retirement savings access to an estimated 57 million uncovered workers.",
-    "verdict": "// VERDICT: Strong fiscal responsibility gains and measurable retirement security improvements offset by modest compliance burdens on small businesses.",
-    "detail": "The Automatic IRA Act addresses a documented gap: roughly half of private-sector workers lack employer-sponsored retirement plans, leading to inadequate retirement savings and potential future public assistance costs. <strong>Auto-enrollment with opt-out preserves worker choice while leveraging behavioral economics to boost participation rates, which research shows can increase savings by 40-60% versus opt-in systems.</strong> Fiscal responsibility scores high because increased private savings reduces long-term pressure on Social Security and safety-net programs. Rule of law concerns are minimal—standard legislative process through House Ways and Means. Cost distribution is generally fair: employers face administrative setup costs (estimated $500-2,000 initially per firm), but workers gain access without direct fees. The mandate threshold excludes very small businesses. Implementation details and enforcement mechanisms remain pending in committee.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee on Ways and Means referral, Dec 2025",
-      "GAO retirement coverage gap studies",
-      "Behavioral economics literature on auto-enrollment",
-      "Small Business Administration cost estimates"
-    ]
-  },
-  {
-    "id": 1144,
-    "sourceId": "cg:119-HR-1869",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1869?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 1869: Protecting American Industry and Labor from International Trade Crimes Act of 2026",
-    "score": -18,
-    "snapshot": "HR 1869 proposes expanding federal enforcement against international trade crimes including IP theft, dumping, and sanctions evasion. The bill passed committee but lacks published cost estimates or implementation timeline.",
-    "verdict": "// VERDICT: Addresses legitimate trade enforcement gaps but provides insufficient detail on costs, enforcement mechanisms, and potential trade retaliation impacts.",
-    "detail": "The legislation targets real problems—IP theft costs U.S. businesses an estimated $225-600 billion annually, and trade law violations undermine domestic manufacturing. However, the bill's placement on the Union Calendar without accompanying CBO score or implementation framework raises fiscal responsibility concerns. <strong>Expanding federal enforcement jurisdiction over international trade crimes could create significant unfunded mandates for DOJ, Commerce, and Customs without clear resource allocation.</strong> The bill's impact depends entirely on execution details not yet public: Will new enforcement mechanisms duplicate existing Commerce/USTR functions? What due process protections prevent overreach? How will trading partners respond? Without answers, the legislation risks creating bureaucratic expansion without proportionate benefit. The rule-of-law score reflects proper legislative process through committee, but the lack of cost analysis and undefined enforcement scope warrant caution.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -18,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 1869, 119th Congress",
-      "Union Calendar No. 683, Aug 2026",
-      "IP Commission Report on Theft of American IP (2017)",
-      "Congressional Record, House"
-    ]
-  },
-  {
-    "id": 1147,
-    "sourceId": "cg:119-HR-4611",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4611?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 4611: EACH Act of 2025",
-    "score": -8,
-    "snapshot": "HR 4611 (EACH Act of 2025) was referred to the House Subcommittee on Health in December 2025 and remains in committee as of August 2026. The bill has not advanced to floor consideration, markup, or vote after eight months.",
-    "verdict": "// VERDICT: Bill stalled in subcommittee for eight months with no measurable public impact; represents legislative inaction on whatever policy it addresses.",
-    "detail": "The EACH Act of 2025 demonstrates a common pattern of congressional inertia where proposed legislation languishes without meaningful progress. <strong>After referral to subcommittee in December 2025, the bill has shown no advancement through committee markup, floor scheduling, or voting as of late August 2026.</strong> Without knowing the bill's substantive provisions, the scoring reflects the process failure: taxpayers fund congressional operations while bills stall indefinitely. The constitutional legislative process requires committee review, but eight months without action suggests either lack of prioritization, insufficient support, or strategic delay. No public benefit has materialized because no law has been enacted. The rule of law criterion is neutral as referral to committee is procedurally proper, but fiscal responsibility suffers as congressional resources are consumed without output. Cost distribution is minimally negative as opportunity costs accumulate.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 4611",
-      "House Committee Referral Log 2025-2026",
-      "Legislative Status Database"
-    ]
-  },
-  {
-    "id": 1148,
-    "sourceId": "cg:119-HR-9712",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9712?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 9712: Mamas First Act",
-    "score": -15,
-    "snapshot": "HR 9712 'Mamas First Act' was referred to House Energy and Commerce in July 2026 but shows no subsequent legislative movement. Without bill text or specific provisions, the proposal remains undefined in scope, cost, and implementation.",
-    "verdict": "// VERDICT: Insufficient legislative development to assess concrete impact; referral to committee without advancement suggests stalled priority status or unresolved policy design.",
-    "detail": "The bill's title suggests maternal health focus, an area with documented needs—the U.S. has the highest maternal mortality rate among developed nations at approximately 33 deaths per 100,000 births. However, <strong>committee referral followed by two months of inaction provides no evidence of measurable public benefit, fiscal planning, or policy substance.</strong> Without bill text, cost estimates, or companion Senate action, scoring must reflect the absence of concrete outcomes. The legislative process appears stalled at the earliest stage, indicating either insufficient support, unclear implementation framework, or competing priorities. Title-only proposals score negatively on fiscal responsibility (no CBO analysis possible) and measurably neutral on rule of law (proper referral) while providing zero documented benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Energy and Commerce records",
-      "CDC Maternal Mortality statistics"
-    ]
-  },
-  {
-    "id": 1149,
-    "sourceId": "cg:119-HR-9236",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9236?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 9236: HAILEY Act of 2026",
-    "score": -35,
-    "snapshot": "HR 9236, the HAILEY Act of 2026, was referred to the House Judiciary Committee on June 10, 2026 but has seen no further action. Without bill text or substantive details, the proposal remains stalled in committee with no measurable impact on Americans.",
-    "verdict": "// VERDICT: A bill that exists only as a committee referral produces zero public benefit while consuming legislative resources that could address documented needs.",
-    "detail": "The HAILEY Act represents legislative theater at its most transparent. <strong>After 79 days in committee with no hearings, markups, or floor consideration, this bill has produced no measurable benefit for any American while occupying space on the congressional docket.</strong> The acronym-driven title suggests messaging legislation rather than substantive policy reform. Without bill text, cost estimates, or committee action, there is no basis to assess fiscal responsibility or public benefit. The referral to Judiciary followed proper procedure, but the subsequent inaction suggests either lack of sponsor prioritization or insufficient support. Congress introduces thousands of bills each session; those that languish without action represent opportunity costs—time and attention diverted from legislation that might actually pass and affect lives. The absence of any CBO score, stakeholder testimony, or committee report after nearly three months indicates this bill lacks the constituency or urgency to advance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Judiciary Committee Docket",
-      "Congress.gov Bill Status HR 9236"
-    ]
-  },
-  {
-    "id": 1161,
-    "sourceId": "cg:119-S-4949",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4949?format=json",
-    "branch": "Congress",
-    "date": "Aug 27",
-    "dateISO": "2026-08-27",
-    "title": "S 4949: Water Resources Development Act of 2026",
-    "score": 22,
-    "snapshot": "Water Resources Development Act of 2026 authorizes Army Corps of Engineers projects for flood control, navigation, and ecosystem restoration. Placed on Senate calendar July 2026; typical WRDA bills authorize $10-20 billion in infrastructure over multiple years.",
-    "verdict": "// VERDICT: Biennial water infrastructure authorization follows established legislative process and addresses documented needs for flood protection and port modernization, though implementation costs require scrutiny.",
-    "detail": "Water Resources Development Acts represent Congress's regular mechanism for authorizing civil works projects managed by the Army Corps of Engineers. These biennial bills typically address tangible infrastructure needs—levee improvements, harbor dredging, environmental restoration—with measurable benefits for flood prevention, commercial navigation, and ecosystem health. <strong>The legislative process appears standard, with committee consideration and calendar placement following regular order.</strong> However, WRDA bills historically authorize projects whose full costs emerge over decades, creating long-term federal obligations. The final fiscal impact depends on appropriations decisions and whether authorized projects deliver promised benefits on budget. Without specific project details or CBO scoring, the bill rates positively for addressing documented infrastructure needs through proper channels, though cost-benefit ratios vary significantly across individual projects.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 457",
-      "Congressional Record, July 2026",
-      "Army Corps of Engineers Civil Works Program",
-      "Historical WRDA authorization patterns"
-    ]
-  },
-  {
-    "id": 1162,
-    "sourceId": "cg:119-HR-9690",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9690?format=json",
-    "branch": "Congress",
-    "date": "Aug 27",
-    "dateISO": "2026-08-27",
-    "title": "HR 9690: Water Emergency and Technical Assistance Act",
-    "score": 18,
-    "snapshot": "HR 9690 would establish federal technical assistance and emergency response programs for water infrastructure failures and contamination events. The bill remains in committee with no reported cost estimate or implementation timeline.",
-    "verdict": "// VERDICT: Addresses legitimate public infrastructure needs but lacks fiscal analysis and measurable implementation framework to assess actual benefit versus cost.",
-    "detail": "The Water Emergency and Technical Assistance Act responds to recurring water crises in aging American infrastructure systems. <strong>Without a Congressional Budget Office score or implementation specifics, the proposal's fiscal responsibility and measurable outcomes remain speculative.</strong> Technical assistance for water emergencies could prevent public health disasters similar to Flint, Michigan, but the bill's structure—dual committee referral without appropriations detail—suggests unfocused scope. The legislative process follows normal House procedures, though early-stage referral means no floor consideration or amendments have occurred. Benefits would theoretically accrue to communities with failing water systems, but absent cost estimates, the distribution of federal expenditure versus local matching requirements cannot be evaluated. The bill addresses real infrastructure vulnerabilities but requires budgetary analysis and clearer performance metrics before meaningful impact can be projected.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Transportation and Infrastructure",
-      "House Committee on Energy and Commerce"
-    ]
-  },
-  {
-    "id": 1167,
-    "sourceId": "cg:119-S-167",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/167?format=json",
-    "branch": "Congress",
-    "date": "Aug 27",
-    "dateISO": "2026-08-27",
-    "title": "S 167: Protect and Serve Act of 2025",
-    "score": -18,
-    "snapshot": "S.167 would make targeting law enforcement a federal hate crime with enhanced penalties up to life imprisonment. The bill has been stalled in committee since January 2025 with no further legislative action.",
-    "verdict": "// VERDICT: Creates federal criminal liability with severe penalties based on occupation-based targeting, expanding federal jurisdiction into traditionally state-level law enforcement without demonstrated need beyond existing assault statutes.",
-    "detail": "The Protect and Serve Act expands federal hate crime law to cover attacks on police officers, firefighters, and first responders motivated by their profession. While protecting public servants is a legitimate goal, the proposal raises concerns about federalism and necessity. <strong>All 50 states already have enhanced penalties for assaulting law enforcement officers, making the federal overlay duplicative and potentially undermining state sovereignty.</strong> The bill provides no cost-benefit analysis, no data showing state laws are inadequate, and creates new federal prosecutorial discretion that could lead to uneven application. Enhanced penalties up to life imprisonment for what are typically state assault charges represent a significant expansion of federal criminal jurisdiction without clear public safety justification beyond symbolic gesture. The lack of any committee progress over 18 months suggests limited legislative support even among sponsors.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.167, 119th Congress",
-      "Senate Judiciary Committee records",
-      "FBI Uniform Crime Reports",
-      "State criminal code compilations"
-    ]
-  },
-  {
-    "id": 1152,
-    "sourceId": "cg:119-S-4784",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4784?format=json",
-    "branch": "Congress",
-    "date": "Aug 27",
-    "dateISO": "2026-08-27",
-    "title": "S 4784: National Defense Authorization Act for Fiscal Year 2027",
-    "score": -8,
-    "snapshot": "The National Defense Authorization Act for Fiscal Year 2027 authorizes defense spending and military programs but remains in Senate procedural stages as of July 2026. Specific appropriation levels, programs, and amendments are not yet finalized.",
-    "verdict": "// VERDICT: Incomplete legislative process prevents full assessment of fiscal impact and program effectiveness until final passage and appropriation details are available.",
-    "detail": "Annual defense authorization bills typically score mixed results: they provide necessary funding for military readiness and national security (measurable benefit) but often include substantial cost overruns, unfunded mandates, and pork-barrel provisions (fiscal responsibility concerns). <strong>Without final bill text, amendment outcomes, and CBO scoring, this item receives negative marks primarily for rule-of-law process delays and uncertainty in cost distribution.</strong> The motion to proceed occurred in July 2026, but as of the August 27 scoring date, the bill has not advanced to passage, creating appropriations uncertainty for FY2027 which begins October 1, 2026. Defense authorization bills frequently shift long-term pension and healthcare costs to future taxpayers while concentrating immediate benefits among defense contractors and specific congressional districts.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S4276, July 27, 2026",
-      "S. 4784, 119th Congress",
-      "Senate Legislative Calendar, August 2026"
     ]
   }
 ]
