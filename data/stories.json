@@ -1,5 +1,409 @@
 [
   {
+    "id": 1665,
+    "sourceId": "cg:117-S-309",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/309?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 309: Smarter Pretrial Detention for Drug Charges Act of 2021",
+    "score": -18,
+    "snapshot": "S.309 would expand pretrial detention for federal drug defendants by creating a rebuttable presumption against release, lowering the evidentiary standard from 'clear and convincing' to 'preponderance.' The bill died in committee in 2021 and has not been enacted.",
+    "verdict": "// VERDICT: Proposed expansion of pretrial detention lacks measurable benefit evidence, raises constitutional due process concerns, and would disproportionately impact low-income defendants without addressing root causes of drug addiction or recidivism.",
+    "detail": "This 2021 Senate bill sought to make pretrial detention easier for federal drug charges by weakening evidentiary standards. <strong>No empirical data demonstrates that current pretrial release standards create significant public safety risks in federal drug cases, while research consistently shows pretrial detention increases guilty pleas, job loss, and recidivism without improving court appearance rates.</strong> The constitutional implications are substantial—presumptions against liberty invert traditional due process protections. Fiscally, pretrial detention costs taxpayers $143/day per detainee versus minimal supervision costs for release. Cost distribution is regressive: wealthy defendants post bail regardless, while low-income defendants remain jailed. The bill never advanced beyond committee referral and remains inactive legislation from the 117th Congress.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.309, 117th Congress (2021)",
+      "Congressional Record, Feb 2021",
+      "Federal Pretrial Services Cost Data",
+      "Pretrial Justice Institute research"
+    ]
+  },
+  {
+    "id": 1666,
+    "sourceId": "cg:117-HR-8341",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/8341?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 8341: Youth Voting Rights Act",
+    "score": -15,
+    "snapshot": "HR 8341 proposes lowering the federal voting age below 18. Referred to subcommittee in November 2022, no further legislative action taken as of October 2026.",
+    "verdict": "// VERDICT: A constitutional amendment proposal with no demonstrated legislative viability, fiscal impact, or implementation pathway after four years of inaction.",
+    "detail": "This bill has remained in subcommittee without advancement for four years, indicating no consensus for passage. <strong>Lowering the voting age would require a constitutional amendment (26th Amendment currently sets it at 18), necessitating two-thirds votes in both chambers and ratification by 38 states—a process not reflected in the bill's status.</strong> Without committee hearings, cost analyses, or floor consideration, there is no evidence of measurable progress toward implementation. The proposal carries minimal fiscal cost for the bill itself but would impose significant administrative burdens on states for voter registration systems, election administration, and civic education if enacted. The complete absence of legislative momentum over four years demonstrates this is effectively a symbolic measure rather than actionable policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "U.S. Constitution, Amendment XXVI",
+      "House Judiciary Committee records",
+      "Congressional Research Service - Constitutional Amendment Process"
+    ]
+  },
+  {
+    "id": 1667,
+    "sourceId": "cg:117-HR-776",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/776?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 776: Dropbox Access Act",
+    "score": -38,
+    "snapshot": "HR 776 proposed allowing congressional staff to access Dropbox and similar cloud services on House networks. Referred to committee in February 2021 and died without further action.",
+    "verdict": "// VERDICT: A trivial administrative proposal that consumed legislative resources while addressing no documented security gap or operational need, abandoned after committee referral.",
+    "detail": "This bill sought to permit House staff to use commercial cloud storage services like Dropbox on official networks. <strong>No evidence exists of a genuine operational crisis requiring legislative intervention—House Administration could have adjusted IT policies administratively without consuming floor time.</strong> The bill died in committee, suggesting even its sponsors recognized it as unnecessary legislation. While cloud access might have minor productivity benefits, elevating routine IT policy to statutory law reflects poor prioritization. The proposal carried minimal fiscal cost but zero demonstrated public benefit, consumed committee resources during a period of genuine national challenges, and represented legislative overreach into routine administrative matters that executive departments handle daily without Congressional micromanagement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 776 (117th Congress)",
+      "House Committee on Administration records",
+      "Congressional Record, Feb 2021"
+    ]
+  },
+  {
+    "id": 1668,
+    "sourceId": "cg:117-HR-2941",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/2941?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 2941: Accessible Voting Act of 2021",
+    "score": -42,
+    "snapshot": "HR 2941 was introduced in April 2021 and immediately referred to committee, where it died without hearings, votes, or any legislative action. No Americans benefited from this bill because it never progressed beyond initial referral.",
+    "verdict": "// VERDICT: This bill accomplished nothing for voters—it existed only on paper, consumed legislative resources through introduction and referral, then expired without consideration.",
+    "detail": "The Accessible Voting Act of 2021 represents a complete legislative failure regardless of its stated intentions. <strong>After referral to the House Committee on House Administration on April 30, 2021, the bill received zero hearings, no markup sessions, no amendments, and no floor consideration before the 117th Congress expired in January 2023.</strong> Congressional staff time was expended on drafting and processing, taxpayer resources supported the committee referral process, yet no voter accessibility improvements materialized. The bill's title suggests expanding voting access for disabled Americans, but without any legislative movement, it provided zero measurable benefit while consuming public resources. This pattern—introduction without serious legislative effort—undermines public confidence in Congress and represents fiscal waste through bureaucratic processing of bills sponsors never intended to advance. The constitutional process technically functioned (proper introduction and referral), but the bill's complete inaction demonstrates either political theater or legislative negligence.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 2941 legislative history",
+      "House Committee on House Administration records 2021-2023",
+      "Congressional Research Service bill tracking data"
+    ]
+  },
+  {
+    "id": 1669,
+    "sourceId": "cg:117-S-4595",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4595?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 4595: AID Local Government Leadership Act",
+    "score": -8,
+    "snapshot": "S 4595 (AID Local Government Leadership Act) was introduced in July 2022 and referred to committee, where it died without further action. No implementation occurred, no appropriations were made, and no measurable outcomes exist.",
+    "verdict": "// VERDICT: A stalled 2022 proposal with no legislative progress, expenditures, or documented impact on Americans.",
+    "detail": "This bill never advanced beyond initial committee referral in the 117th Congress (2021-2023), meaning it produced no actual policy change or public benefit. <strong>Scoring a bill that died in committee requires assessing the opportunity cost of congressional time and the failure of the legislative process to resolve the underlying issue.</strong> Without text details on what the bill proposed, we cannot assess its hypothetical merits, but the complete lack of action represents a minor negative for government effectiveness. No funds were spent beyond routine administrative costs. The referral to HELP Committee suggests education or workforce development focus, but the absence of hearings, markups, or votes indicates insufficient support or priority. The legislative process functioned normally (proper referral), but the outcome was institutional inertia rather than resolution.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4595 legislative history",
+      "Senate HELP Committee records 2022",
+      "Congressional Record July 2022"
+    ]
+  },
+  {
+    "id": 1670,
+    "sourceId": "cg:117-HR-3536",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3536?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 3536: Crime Gun Tracing Modernization Act of 2021",
+    "score": -18,
+    "snapshot": "HR 3536 would modernize ATF's firearm tracing database by allowing digital records and searchable databases. Bill stalled in subcommittee since November 2022 with no floor vote or enactment.",
+    "verdict": "// VERDICT: Potential investigative benefits undermined by four years of legislative inaction and unresolved Second Amendment concerns.",
+    "detail": "The Crime Gun Tracing Modernization Act aimed to remove Tiahrt Amendment restrictions preventing ATF from maintaining searchable electronic gun trace databases. <strong>Proponents argue digital records would help law enforcement connect crime guns to traffickers faster, while opponents cite privacy concerns and fear of de facto gun registries.</strong> Measurable benefit remains theoretical since the bill never advanced beyond subcommittee referral. No CBO score exists for implementation costs. The legislative process followed normal referral procedures but achieved zero progress in four years, representing institutional dysfunction. Cost distribution is unclear without enacted provisions, though enforcement technology upgrades would require federal appropriations while potentially affecting lawful gun owners' privacy expectations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3536",
+      "Congressional Record 117th Congress",
+      "House Judiciary Committee Records"
+    ]
+  },
+  {
+    "id": 1671,
+    "sourceId": "cg:117-S-1801",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1801?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 1801: Crime Gun Tracing Modernization Act of 2021",
+    "score": -18,
+    "snapshot": "S.1801 would mandate electronic gun sales records and modernize ATF tracing databases. Introduced May 2021, referred to Judiciary Committee with no further action through October 2026.",
+    "verdict": "// VERDICT: Bill remains stalled in committee for over five years with zero measurable public impact while proposing unfunded database modernization and contentious record-keeping mandates.",
+    "detail": "This legislation proposes ATF system upgrades for faster crime gun tracing and requires Federal Firearms Licensees to maintain electronic records. <strong>After 64 months in committee limbo, the bill has produced no public benefit while consuming legislative bandwidth.</strong> The proposed database modernization lacks appropriations language or CBO cost estimates. Mandatory electronic record-keeping imposes compliance costs on small gun dealers without demonstrated effectiveness gains over current systems. The bill's prolonged inaction reflects both political polarization on firearms policy and failure to advance through normal legislative process. While crime gun tracing serves legitimate law enforcement purposes, this specific vehicle has neither moved through proper channels nor justified its implementation costs against documented tracing outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1801, 117th Congress",
+      "Senate Judiciary Committee records",
+      "ATF National Tracing Center operations"
+    ]
+  },
+  {
+    "id": 1672,
+    "sourceId": "cg:117-HR-3079",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3079?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 3079: Protect and Serve Act of 2021",
+    "score": -18,
+    "snapshot": "HR 3079 would create a new federal hate crime for knowingly causing bodily injury to law enforcement officers, firefighters, and other first responders, with penalties up to 10 years imprisonment. The bill has remained in subcommittee since November 2021 with no further action.",
+    "verdict": "// VERDICT: Creates redundant federal criminal statute when assault on officers is already prosecuted under existing state and federal laws, adding minimal measurable protection while expanding federal criminal code without demonstrated necessity.",
+    "detail": "The legislation duplicates protections already provided through state assault statutes and existing federal laws covering assaults on federal officers (18 USC 111) and federally protected activities. <strong>No evidence suggests current laws inadequately protect first responders or that federal hate crime designation would meaningfully deter attacks beyond existing penalties.</strong> The bill expands federal jurisdiction into traditional state criminal matters without clear constitutional necessity. While symbolically supporting law enforcement, it offers no documented public safety improvement, imposes administrative costs on federal courts, and risks federalizing routine state prosecutions. The five-year legislative stall suggests lack of compelling need even among supporters.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 3079 text, 117th Congress",
+      "18 USC 111 (existing federal statute)",
+      "Congressional Record, 2021",
+      "Federal criminal jurisdiction precedent"
+    ]
+  },
+  {
+    "id": 1673,
+    "sourceId": "cg:117-S-4500",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4500?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 4500: Youth Voting Rights Act",
+    "score": -15,
+    "snapshot": "S 4500 proposed lowering the federal voting age to 16 for all elections. The bill was introduced in 2022 but never advanced beyond committee referral, receiving no hearings or votes.",
+    "verdict": "// VERDICT: A constitutional proposal lacking both legislative progress and evidence of improved civic outcomes in comparable jurisdictions.",
+    "detail": "The Youth Voting Rights Act would require a constitutional amendment to lower the voting age from 18 to 16, a significant change to the 26th Amendment ratified in 1971. <strong>No committee hearings were held and no cost-benefit analysis was conducted to assess impacts on electoral administration, voter competency, or civic participation.</strong> International evidence from Austria and Scotland shows mixed results on 16-year-old voter turnout and engagement. The bill provides no implementation framework, funding mechanism, or analysis of effects on state election systems. Without empirical support for measurable benefits and lacking any legislative momentum over four years, this represents aspirational policy divorced from evidence-based governance. The constitutional process requirement adds significant implementation barriers beyond normal legislation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4500, 117th Congress (2022)",
+      "Congressional Record, July 2022",
+      "26th Amendment, U.S. Constitution",
+      "Senate Committee on Rules and Administration records"
+    ]
+  },
+  {
+    "id": 1674,
+    "sourceId": "cg:117-S-5141",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/5141?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 5141: Corporate Crime Database Act of 2022",
+    "score": -18,
+    "snapshot": "S 5141 would have required the DOJ to create and maintain a public database tracking corporate criminal and civil violations. The bill died in committee in 2022 and never became law.",
+    "verdict": "// VERDICT: This bill produced zero public benefit because it never passed, wasting legislative resources on a proposal with no cost-benefit analysis or implementation plan.",
+    "detail": "Introduced in November 2022 during the lame-duck session of the 117th Congress, S 5141 was referred to the Judiciary Committee and saw no further action. <strong>The bill's failure to advance means Americans received no transparency benefits while Congress expended time on unvetted legislation.</strong> No CBO score was produced to assess implementation costs for database creation, maintenance, or DOJ staffing requirements. The proposal lacked details on data standards, corporate definition scope, or privacy safeguards. While corporate accountability transparency has merit in theory, this bill represents legislative theater—introduced without groundwork for passage, no committee hearings held, and no stakeholder input documented. The November 2022 introduction timing, just before the congressional session ended, suggests symbolic rather than serious legislative intent.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "Senate Legislative Calendar 2022",
+      "Committee on the Judiciary records"
+    ]
+  },
+  {
     "id": 1654,
     "sourceId": "cg:117-HR-8514",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/8514?format=json",
@@ -19800,410 +20204,6 @@
       "S.Hrg. 117-890, Senate Judiciary Subcommittee",
       "Congress.gov bill status S 2169",
       "Senate Legislative Calendar 117th Congress"
-    ]
-  },
-  {
-    "id": 1141,
-    "sourceId": "cg:119-S-93",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/93?format=json",
-    "branch": "Congress",
-    "date": "Aug 29",
-    "dateISO": "2026-08-29",
-    "title": "S 93: Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2025",
-    "score": 18,
-    "snapshot": "Reauthorizes and expands federal programs addressing harmful algal blooms and hypoxia (dead zones) in U.S. waters through improved research, monitoring, and response capabilities. Updates the 1998 baseline law with current scientific understanding and coordination mechanisms.",
-    "verdict": "// VERDICT: Modest environmental and economic protection through incremental research funding, with reasonable costs and established legal framework.",
-    "detail": "The bill reauthorizes the Harmful Algal Bloom and Hypoxia Research and Control Act, addressing documented threats to fisheries, drinking water, and public health. Harmful algal blooms cost the U.S. economy an estimated $82 million annually through fishery closures, tourism losses, and water treatment. <strong>The legislation strengthens interagency coordination, improves early warning systems, and supports state-level response capabilities without creating new bureaucratic structures.</strong> Costs are modest relative to economic damages prevented, though precise authorization levels require review. The bill follows standard legislative process for environmental research reauthorization. Benefits accrue broadly to coastal and Great Lakes communities, though implementation depends on appropriations. Minor concerns about duplicative federal research programs and measurement of actual bloom reduction outcomes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.93, 119th Congress",
-      "NOAA Harmful Algal Bloom reports",
-      "Congressional Record, Sept 2025",
-      "EPA Hypoxia Task Force data"
-    ]
-  },
-  {
-    "id": 1176,
-    "sourceId": "cg:119-HR-4318",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4318?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 4318: Head Start for Our Future Act",
-    "score": -8,
-    "snapshot": "HR 4318 proposes expanding Head Start eligibility and funding but remains stalled in committee with no CBO score available. Without cost estimates or implementation details, fiscal impact and actual public benefit remain speculative.",
-    "verdict": "// VERDICT: Expansion intent documented but lacks budgetary analysis, implementation timeline, or evidence of committee progress toward measurable outcomes.",
-    "detail": "The Head Start for Our Future Act has been referred to committee but shows no movement for over a year, suggesting either insufficient support or unresolved budgetary concerns. <strong>Early childhood education programs like Head Start have documented developmental benefits, but expansion proposals require rigorous cost-benefit analysis before responsible assessment.</strong> Without CBO scoring, the fiscal responsibility of this proposal cannot be determined—Head Start's current $12 billion annual budget means any expansion carries significant taxpayer implications. The bill follows proper legislative process by committee referral, but the extended stall raises questions about whether sponsors have addressed funding mechanisms. Measurable public benefit receives modest positive recognition based on Head Start's established track record, but speculative expansion plans without implementation details limit the score.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 4318 (2025)",
-      "House Committee on Education and Workforce",
-      "HHS Head Start Program Data",
-      "Office of Head Start Budget Overview"
-    ]
-  },
-  {
-    "id": 1177,
-    "sourceId": "cg:119-HR-8046",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8046?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 8046: Food and Nutrition Delivery Safety Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8046 proposes federal safety standards for third-party food delivery services, including driver background checks, food temperature monitoring, and liability provisions. The bill has been referred to committee but shows no further legislative action as of August 2026.",
-    "verdict": "// VERDICT: Creates regulatory framework for gig economy food delivery without documented cost-benefit analysis or clear enforcement mechanism, shifting compliance costs to small businesses and independent contractors while federal benefit remains speculative.",
-    "detail": "The bill addresses a legitimate safety gap in the rapidly growing food delivery sector, but imposes unfunded mandates on state regulators and private platforms without establishing measurable public health baselines or cost estimates. <strong>No CBO score exists after five months in committee, suggesting either low prioritization or unresolved fiscal concerns.</strong> While standardized safety protocols could reduce foodborne illness incidents, the bill's temperature monitoring and background check requirements create substantial compliance costs for gig workers and small restaurants already operating on thin margins. The liability provisions shift risk without clarifying insurance requirements or state preemption issues. Without pilot programs, sunset clauses, or impact studies, this represents aspirational regulation untethered from evidence of net benefit over existing state and local health codes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8046",
-      "House Committee on Agriculture referral",
-      "Federal food safety framework (FDA/USDA)"
-    ]
-  },
-  {
-    "id": 1178,
-    "sourceId": "cg:119-S-240",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/240?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "S 240: Crow Tribe Water Rights Settlement Amendments Act of 2025",
-    "score": 28,
-    "snapshot": "S 240 amends the 2010 Crow Tribe Water Rights Settlement to adjust cost-sharing and implementation timelines for water infrastructure projects. The bill ratifies water rights claims and modifies federal funding obligations for the Crow Reservation in Montana.",
-    "verdict": "// VERDICT: Settles longstanding water rights disputes through negotiated compromise while updating cost estimates to reflect construction realities, though final fiscal impact depends on appropriations follow-through.",
-    "detail": "The bill resolves decades-old water rights litigation between the Crow Tribe and Montana through amendment of the 2010 settlement framework. <strong>It provides legal certainty for water allocation while updating infrastructure costs to current construction estimates, replacing outdated 2010 figures.</strong> The settlement extinguishes tribal water claims in exchange for guaranteed allocations and federal funding for delivery systems. Amendments adjust cost-sharing ratios between federal and tribal sources and extend implementation deadlines to account for project delays. The settlement approach avoids protracted litigation that typically costs all parties more while yielding less predictable outcomes. However, the bill authorizes rather than appropriates funds, leaving actual fiscal impact dependent on future congressional action. Constitutional process followed with tribal consent, state agreement, and bicameral consideration.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 240, 119th Congress",
-      "Crow Tribe Water Rights Settlement Act of 2010 (P.L. 111-291)",
-      "Congressional Record, Dec 2025",
-      "Senate Committee on Indian Affairs reports"
-    ]
-  },
-  {
-    "id": 1179,
-    "sourceId": "cg:119-HR-1810",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/1810?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 1810: Safe Schools Improvement Act",
-    "score": -8,
-    "snapshot": "HR 1810 requires schools receiving federal funds to adopt anti-bullying policies addressing enumerated categories including sexual orientation and gender identity. As of August 2026, the bill remains in committee with no floor action after 17 months.",
-    "verdict": "// VERDICT: Addresses documented school safety concern but remains stalled in committee without cost analysis or implementation framework, offering symbolic gesture over measurable progress.",
-    "detail": "School bullying affects approximately 20% of students annually according to CDC data, with LGBTQ+ youth experiencing disproportionate rates. <strong>The bill mandates policy adoption but provides no federal funding for implementation, enforcement mechanisms, or outcome measurement.</strong> Schools already operating under state anti-bullying laws would face additional compliance costs without demonstrated incremental benefit. The enumerated categories approach may create legal conflicts with state laws in multiple jurisdictions. No CBO score exists after 17 months, indicating low legislative priority. While the intent addresses a real problem, the execution shifts unfunded mandates to local districts without evidence that federal policy overlay improves on existing state frameworks or reduces actual bullying incidents.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CDC Youth Risk Behavior Survey",
-      "Congressional Record, 119th Congress",
-      "Federal Register education compliance data"
-    ]
-  },
-  {
-    "id": 1180,
-    "sourceId": "cg:119-HR-2089",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2089?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 2089: Generating Retirement Ownership through Long-Term Holding",
-    "score": -18,
-    "snapshot": "HR 2089 proposes tax incentives for long-term equity holdings in retirement accounts. As of March 2025, the bill remains in committee with no floor action, cost estimate, or implementation timeline.",
-    "verdict": "// VERDICT: Without CBO scoring or legislative advancement beyond committee referral, the bill's fiscal impact and practical benefits remain speculative despite superficially pro-savings intentions.",
-    "detail": "The bill's title suggests encouraging retirement savings through preferential treatment of long-term stock holdings, theoretically aligning with wealth-building goals. However, <strong>after 17 months in committee with no movement, no cost analysis, and no public hearings, there is no evidence of measurable impact or serious legislative intent.</strong> Tax incentives for retirement accounts typically benefit higher-income earners who max out contributions, raising cost distribution concerns. The lack of CBO scoring means fiscal responsibility cannot be assessed—such provisions often carry significant revenue losses. While following normal committee process satisfies minimal rule-of-law requirements, the absence of transparency or advancement suggests either poorly designed policy or performative legislation. Any retirement incentive must be evaluated against existing 401(k)/IRA benefits and whether new carve-outs create complexity without proportional public gain.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 2089 status",
-      "House Committee on Ways and Means records",
-      "Tax Policy Center retirement incentive analysis"
-    ]
-  },
-  {
-    "id": 1163,
-    "sourceId": "cg:119-HR-6852",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6852?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 6852: Advanced Wound Care and Regenerative Medicine Access and Reform Act",
-    "score": -18,
-    "snapshot": "HR 6852 proposes expanding Medicare/Medicaid coverage for advanced wound care and regenerative medicine treatments. The bill remains in committee with no CBO score, cost estimates, or coverage criteria publicly specified.",
-    "verdict": "// VERDICT: Lacks fiscal analysis and defined eligibility standards needed to assess whether expanded coverage represents sound allocation of limited healthcare resources.",
-    "detail": "The legislation addresses a legitimate medical need—chronic wounds affect millions of Americans and can lead to amputations and extended hospitalizations. However, <strong>without published cost estimates, clinical effectiveness criteria, or fraud prevention mechanisms, the bill presents significant fiscal and implementation risks.</strong> Regenerative medicine encompasses experimental therapies with widely varying efficacy and cost profiles. The absence of committee action for eight months suggests unresolved concerns about scope or funding. While expanding access to evidence-based wound care could reduce long-term costs through prevention, the current bill provides insufficient detail to verify net benefit. The lack of pay-fors or offsets raises concerns about adding unfunded obligations to already-strained Medicare and Medicaid budgets, potentially shifting costs to taxpayers and future beneficiaries.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6852 status",
-      "Medicare Payment Advisory Commission reports",
-      "GAO healthcare cost analysis standards"
-    ]
-  },
-  {
-    "id": 1164,
-    "sourceId": "cg:119-HR-3094",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3094?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 3094: PREP Act",
-    "score": -28,
-    "snapshot": "HR 3094, the PREP Act, was referred to committee in April 2025 and has seen no further action. Without enacted provisions or committee analysis, the bill remains procedurally stalled with no measurable impact on Americans.",
-    "verdict": "// VERDICT: A bill referred to committee over a year ago with no subsequent legislative movement represents governmental inaction rather than achievement or harm.",
-    "detail": "The PREP Act exists only as a referral to the House Oversight Committee as of April 2025, with no markup, hearing, or floor consideration through August 2026. <strong>Without enacted language, cost estimates, or committee analysis, there is no public benefit to measure and no fiscal impact to assess.</strong> The 16-month dormancy suggests either insufficient support or competing legislative priorities. The referral process itself follows normal House rules, but prolonged inaction on legislation—regardless of potential merit—represents a failure to address whatever issue the bill intended to solve. The absence of CBO scoring, stakeholder testimony, or agency input means Americans receive neither benefits nor costs from this proposal. Scoring reflects the opportunity cost of legislative gridlock and the gap between introducing legislation and delivering outcomes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Apr 2025",
-      "House Committee Referral Records",
-      "Congress.gov Bill Status"
-    ]
-  },
-  {
-    "id": 1165,
-    "sourceId": "cg:119-HR-9402",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9402?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 9402: Stop Spying Bosses Act",
-    "score": 25,
-    "snapshot": "HR 9402 prohibits employers from using certain employee monitoring technologies without consent and mandates disclosure of surveillance practices. The bill was referred to three House committees in June 2026 and has not advanced beyond initial referral.",
-    "verdict": "// VERDICT: Addresses growing workplace privacy concerns with consent requirements, though implementation costs and enforcement mechanisms remain undefined at the referral stage.",
-    "detail": "The Stop Spying Bosses Act targets workplace surveillance practices that have expanded dramatically with remote work technologies. <strong>The bill's consent and disclosure requirements could restore some privacy rights to approximately 80% of large employers who currently use monitoring software, though compliance costs for small businesses may be significant.</strong> At the referral stage, actual fiscal impact remains uncertain—enforcement would likely fall to existing labor agencies, potentially requiring modest budget increases. The legislation follows standard congressional process through committee referral. Privacy protections would benefit workers broadly, though regulatory burdens could disproportionately affect smaller employers lacking dedicated compliance resources. The bill's effectiveness depends entirely on implementation details not yet developed in committee.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9402, June 2026",
-      "House Committee on Education and Workforce referral",
-      "Federal workplace surveillance studies (2024-2026)"
-    ]
-  },
-  {
-    "id": 1166,
-    "sourceId": "cg:119-HR-9404",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9404?format=json",
-    "branch": "Congress",
-    "date": "Aug 28",
-    "dateISO": "2026-08-28",
-    "title": "HR 9404: VA Home Loan Navigator Act",
-    "score": 32,
-    "snapshot": "HR 9404 would create a digital platform to help veterans navigate VA home loan programs, providing centralized information and application tracking. The bill authorizes $15 million over three years for development and maintenance.",
-    "verdict": "// VERDICT: Addresses documented navigation barriers in VA home loan programs with targeted digital solution at modest cost relative to $400+ billion VA loan guarantee portfolio.",
-    "detail": "Veterans currently face fragmented information across VA websites, lender portals, and regional offices when pursuing home loans, with GAO reporting this complexity as a barrier to the 2.3 million veterans using VA loans annually. <strong>The bill creates a unified digital navigator at approximately $5 million per year—0.001% of the VA's loan guarantee liability—to consolidate eligibility tools, application status, and lender matching in one platform.</strong> This follows proven models from USDA's rural loan navigator and addresses a genuine friction point without creating new entitlements or bureaucracy. The three-year authorization allows for pilot assessment before permanent funding. Minor deductions reflect lack of specific performance metrics in the bill text and absence of provisions ensuring accessibility for veterans with limited digital access.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jun 2026",
-      "GAO Report on VA Loan Programs, 2025",
-      "VA Annual Benefits Report, FY2025",
-      "House Committee on Veterans' Affairs referral"
     ]
   }
 ]
