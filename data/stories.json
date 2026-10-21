@@ -1,5 +1,328 @@
 [
   {
+    "id": 1675,
+    "sourceId": "cg:117-HR-5409",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5409?format=json",
+    "branch": "Congress",
+    "date": "Oct 21",
+    "dateISO": "2026-10-21",
+    "title": "HR 5409: To require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+    "score": 8,
+    "snapshot": "HR 5409 would transfer a federal administrative site in Arizona's Pleasant Valley Ranger District to Gila County at no cost. The bill stalled in subcommittee in 2021 and saw no further action.",
+    "verdict": "// VERDICT: A minor property transfer with potential local benefit but no documented fiscal impact analysis or clear public purpose justification.",
+    "detail": "This bill authorizes conveyance of underutilized federal property to local government, potentially reducing federal maintenance costs while enabling county use for public purposes. <strong>However, the lack of documented valuation, terms of transfer, or analysis of alternative uses limits assessment of actual public benefit.</strong> The bill contains no appropriations and likely minimal fiscal impact, though absence of formal cost-benefit analysis is notable. It followed standard legislative process but died in subcommittee without hearings or votes, suggesting limited urgency or support. Local property transfers can serve legitimate purposes when surplus federal assets better serve community needs, but without details on intended use, appraised value, or competitive consideration, the public interest case remains unsubstantiated.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5409, 117th Congress",
+      "House Committee on Natural Resources records",
+      "Congressional Record, Oct 2021"
+    ]
+  },
+  {
+    "id": 1676,
+    "sourceId": "cg:117-S-2893",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2893?format=json",
+    "branch": "Congress",
+    "date": "Oct 21",
+    "dateISO": "2026-10-21",
+    "title": "S 2893: A bill to require the Secretary of Agriculture to convey the Pleasant Valley Ranger District Administrative Site to Gila County, Arizona.",
+    "score": 5,
+    "snapshot": "S 2893 would transfer a federal ranger district administrative site in Arizona to Gila County at no cost. The bill stalled in committee in 2021 and saw no further action.",
+    "verdict": "// VERDICT: Minor property transfer with potential local benefit but minimal fiscal impact and procedural abandonment.",
+    "detail": "This legislation proposed conveying unused federal property to local government control, potentially reducing federal maintenance costs while enabling county use for public services. <strong>The bill died in committee without hearings or votes, reflecting either low priority or unresolved concerns about the transfer terms.</strong> Property conveyances can yield modest savings by offloading maintenance obligations, though without documentation of the site's condition, value, or county plans, the public benefit remains speculative. The lack of congressional action suggests either insufficient stakeholder support or competing priorities. Constitutional process was followed through proper introduction and committee referral, though the absence of progress indicates the proposal failed to demonstrate compelling need or garner necessary backing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2893, 117th Congress",
+      "Senate Committee on Energy and Natural Resources records",
+      "Congressional Record, Sep 2021"
+    ]
+  },
+  {
+    "id": 1677,
+    "sourceId": "cg:117-HR-5722",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5722?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 5722: Smarter Pretrial Detention for Drug Charges Act of 2021",
+    "score": -18,
+    "snapshot": "HR 5722 aimed to reform federal pretrial detention standards for drug offenses but stalled in subcommittee in November 2022 and saw no further legislative action. As of October 2026, it remains unacted upon with no measurable impact on pretrial detention practices.",
+    "verdict": "// VERDICT: A legislative proposal that generated no outcomes, consumed committee resources without producing policy change, and left pretrial detention standards unchanged after five years.",
+    "detail": "This bill sought to modify pretrial detention criteria for federal drug charges, potentially affecting thousands of defendants annually in the federal system. However, after referral to subcommittee in November 2022, it died without markup, hearing, or vote. <strong>The complete lack of legislative progress means zero measurable benefit despite the criminal justice reform need it purported to address.</strong> Fiscally, committee time was consumed with no policy output. Procedurally, the bill followed proper referral process but Congressional inaction represents a failure of the legislative function. The status quo in pretrial detention continues, with associated costs—both financial (pretrial incarceration expenses) and social (presumption of innocence undermined)—unaddressed. The bill's dormancy exemplifies legislative inefficiency where proposals neither advance nor are formally rejected, leaving stakeholders in limbo.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee referral records",
+      "Federal pretrial detention statistics (USSC)",
+      "Legislative tracking databases"
+    ]
+  },
+  {
+    "id": 1678,
+    "sourceId": "cg:117-HR-9362",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9362?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 9362: Corporate Crime Database Act of 2022",
+    "score": -35,
+    "snapshot": "HR 9362 was introduced in December 2022 to create a public database of corporate criminal violations but died in committee without advancing. No funding was allocated, no database was created, and no enforcement mechanisms were established.",
+    "verdict": "// VERDICT: A proposed transparency measure that never became law and produced zero measurable outcomes for the American public.",
+    "detail": "This bill exemplifies legislative theater—introduced in the final weeks of the 117th Congress with no realistic path to passage. While corporate accountability databases could theoretically serve the public interest, this specific proposal never received committee hearings, markup, or floor consideration. <strong>Three years after introduction, Americans have no database, no increased corporate transparency, and no improved enforcement of existing laws.</strong> The measure consumed congressional staff time drafting language that was never seriously debated. Without implementation, there are no outcomes to evaluate—only the opportunity cost of attention that could have been directed toward actionable legislation. The sponsor's floor remarks generated a Congressional Record entry but no policy change.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record H8678, Dec 2022",
+      "Congress.gov HR 9362 status",
+      "117th Congress legislative calendar"
+    ]
+  },
+  {
+    "id": 1679,
+    "sourceId": "cg:117-S-774",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/774?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 774: Protect and Serve Act of 2021",
+    "score": -18,
+    "snapshot": "S 774 would make attacks on law enforcement a federal hate crime, adding 20+ years to sentences. Introduced March 2021, died in committee with no floor action or cost analysis.",
+    "verdict": "// VERDICT: Creates new federal criminal penalties without documented need assessment, raises federalism concerns, and lacks fiscal or outcomes analysis four years after introduction.",
+    "detail": "This bill federalizes crimes already prosecuted at state level, potentially duplicating existing penalties for assaulting officers under state law and 18 USC § 111 (federal officers). <strong>No Congressional Budget Office score exists, no hearing record demonstrates gaps in current law, and no data shows state prosecution failures requiring federal intervention.</strong> The \"hate crime\" framework extends existing categories without establishing that officer status constitutes a protected class under Equal Protection jurisprudence. Bill died in committee across multiple congresses, suggesting insufficient legislative support even within sponsoring party. Federalizing local criminal law raises Tenth Amendment questions about state police powers. Mandatory minimums strain federal prison budgets without measurable deterrent effect documented in proposal.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 774, 117th Congress (2021)",
+      "18 USC § 111 (existing federal assault statute)",
+      "Congressional Record, March 2021",
+      "Senate Judiciary Committee records"
+    ]
+  },
+  {
+    "id": 1681,
+    "sourceId": "cg:117-HR-1059",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/1059?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 1059: America Votes Act of 2021",
+    "score": -35,
+    "snapshot": "HR 1059 (117th Congress) was referred to committee in February 2021 and never advanced. The bill died without floor vote, markup, or implementation.",
+    "verdict": "// VERDICT: No measurable impact on Americans because the bill never became law or received substantive legislative action beyond referral.",
+    "detail": "This legislation represents a procedural dead-end rather than a government action affecting citizens. Referred to the House Administration Committee in early 2021, HR 1059 received no hearings, markups, or votes during the 117th Congress (2021-2022). <strong>Without passage, the bill created no public benefit, imposed no fiscal costs, raised no rule-of-law concerns, and affected no cost distribution.</strong> Rating a failed bill that never influenced policy or expenditures fundamentally misapplies the Bureau's scoring framework, which evaluates actual government actions and their documented consequences. The negative score reflects that Congressional time and resources were consumed on legislation that achieved nothing, though this represents minimal harm given the thousands of bills that routinely fail to advance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 1059 Legislative History",
+      "House Committee on Administration Records 117th Congress",
+      "Congressional Record 2021-2022"
+    ]
+  },
+  {
+    "id": 1682,
+    "sourceId": "cg:117-S-1470",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1470?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 1470: Accessible Voting Act of 2021",
+    "score": -35,
+    "snapshot": "S. 1470 was introduced in April 2021 and immediately referred to committee, where it has remained without action for over 5 years. The bill proposes federal accessibility standards for polling places but has never received a hearing, markup, or vote.",
+    "verdict": "// VERDICT: A bill addressing legitimate accessibility needs that has been legislatively abandoned for five years represents systemic congressional dysfunction and wasted constituent resources.",
+    "detail": "The Accessible Voting Act addresses real barriers faced by voters with disabilities, proposing standardized federal requirements for polling place accessibility. However, after referral to the Rules Committee in April 2021, the bill has experienced zero legislative movement through two full congressional sessions. <strong>Congressional inaction for over five years on a bill addressing constitutional voting rights represents a failure of the legislative process itself, regardless of the bill's merits.</strong> The cost to taxpayers includes staff time for drafting, constituent outreach around the proposal, and opportunity costs from legislative gridlock. No measurable benefit has materialized because the bill never advanced. While the underlying policy may have merit, the complete absence of legislative progress—no hearings, no amendments, no committee votes—exemplifies institutional paralysis that wastes resources and undermines public confidence in governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1470 legislative history",
+      "Senate Rules Committee records 2021-2026",
+      "Congressional Record Vol. 167"
+    ]
+  },
+  {
+    "id": 1683,
+    "sourceId": "cg:118-HR-10118",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/10118?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 10118: FTC Whistleblower Act of 2024",
+    "score": -18,
+    "snapshot": "HR 10118 establishes a whistleblower program at the Federal Trade Commission modeled after existing SEC and CFTC frameworks. The bill stalled in committee referral in late 2024 with no subsequent legislative action recorded.",
+    "verdict": "// VERDICT: A procedurally sound proposal that died in committee without evidence of implementation, public benefit, or fiscal analysis.",
+    "detail": "The FTC Whistleblower Act proposes extending proven anti-fraud mechanisms to consumer protection enforcement, potentially recovering funds and deterring corporate violations. However, <strong>the bill never advanced beyond dual committee referral nearly two years ago, generating zero measurable outcomes.</strong> Without CBO scoring, the fiscal impact remains unknown—whistleblower programs can be revenue-positive through recovered penalties, but administrative costs and potential frivolous claims create uncertainty. The dual-committee jurisdiction (Education/Workforce and Energy/Commerce) suggests turf complications that may have contributed to inaction. While the concept follows established legal frameworks used successfully elsewhere, legislative failure to act means no Rule of Law implementation occurred, no fiscal responsibility was demonstrated through analysis, and no public received any protection. The proposal itself is constitutionally sound, but outcomes matter more than intentions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 10118",
+      "House Committee Referral Records, Nov 2024",
+      "Comparative: SEC Whistleblower Program (Dodd-Frank §922)",
+      "CFTC Whistleblower Program precedent"
+    ]
+  },
+  {
     "id": 1665,
     "sourceId": "cg:117-S-309",
     "sourceUrl": "https://www.congress.gov/bill/117/s/309?format=json",
@@ -401,6 +724,86 @@
       "Congressional Record, 117th Congress",
       "Senate Legislative Calendar 2022",
       "Committee on the Judiciary records"
+    ]
+  },
+  {
+    "id": 1680,
+    "sourceId": "cg:117-S-1881",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1881?format=json",
+    "branch": "Congress",
+    "date": "Oct 19",
+    "dateISO": "2026-10-19",
+    "title": "S 1881: Veteran Education Empowerment Act",
+    "score": -35,
+    "snapshot": "S.1881 stalled in committee in 2021 and never progressed to a vote or enactment. Five years later, it has produced zero measurable outcomes for veterans.",
+    "verdict": "// VERDICT: A bill that never left committee hearings cannot deliver benefits, wastes legislative resources, and demonstrates institutional failure to serve veterans.",
+    "detail": "The Veteran Education Empowerment Act died in committee after a single hearing in November 2021. <strong>After five years, no veterans have received education benefits from this legislation because it was never enacted.</strong> The bill consumed congressional staff time, committee resources, and veterans' advocacy efforts without producing law. While the stated intent may have been laudable, intentions without execution equal zero public benefit. The legislative process was technically followed through the hearing stage, but abandonment thereafter represents a failure of institutional responsibility. Veterans waiting for education support received nothing while this bill languished. This scores poorly across all criteria: no measurable benefit (it doesn't exist as law), wasted fiscal resources on process without output, process technically legal but ultimately dysfunctional, and costs borne by veterans who needed but never received the promised assistance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1881, 117th Congress",
+      "Senate Hearing 117-544",
+      "Congress.gov Legislative History"
+    ]
+  },
+  {
+    "id": 1684,
+    "sourceId": "cg:118-S-3694",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/3694?format=json",
+    "branch": "Congress",
+    "date": "Oct 19",
+    "dateISO": "2026-10-19",
+    "title": "S 3694: SWIMS Act of 2024",
+    "score": -8,
+    "snapshot": "S 3694 (SWIMS Act of 2024) was introduced in the Senate in January 2024 and referred to committee, where it has remained without further action for over two years. No floor votes, hearings, or amendments have occurred.",
+    "verdict": "// VERDICT: Legislative inaction on a bill stalled in committee for 33 months demonstrates failure to advance stated policy goals while consuming institutional resources without measurable outcomes.",
+    "detail": "The SWIMS Act has languished in the Commerce, Science, and Transportation Committee since January 2024 with no recorded progress toward enactment. <strong>Without committee hearings, markup sessions, or floor consideration, the bill has produced zero measurable public benefit while representing an opportunity cost for congressional attention on operational legislation.</strong> The absence of fiscal scoring or substantive debate means taxpayers funded the drafting and processing of legislation that never received meaningful deliberation. While introducing bills is a legitimate legislative function, prolonged inaction suggests either insufficient priority, flawed policy design, or political dysfunction—all of which undermine effective governance. The pattern of bills dying in committee without transparent explanation erodes public confidence in legislative processes and accountability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.3694 record",
+      "Senate Commerce Committee docket 2024-2026",
+      "Congressional Record Vol. 170"
     ]
   },
   {
@@ -19799,411 +20202,6 @@
       "S 5465, 118th Congress",
       "Congressional Record, Dec 2024",
       "Federal Judicial Caseload Statistics"
-    ]
-  },
-  {
-    "id": 1189,
-    "sourceId": "cg:118-S-1211",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/1211?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 1211: Social Security Caregiver Credit Act of 2023",
-    "score": 28,
-    "snapshot": "S.1211 would grant Social Security credits to family caregivers for time spent caring for relatives, addressing a gap where unpaid caregiving reduces lifetime Social Security benefits. The bill has remained in Senate Finance Committee since April 2023 with no further legislative action.",
-    "verdict": "// VERDICT: Corrects a documented inequity in Social Security by crediting unpaid caregiving work, though implementation costs and eligibility verification remain unspecified in committee.",
-    "detail": "The Social Security system penalizes millions of Americans—predominantly women—who leave the workforce to provide unpaid care for children, elderly parents, or disabled family members. <strong>This bill would grant Social Security earnings credits for caregiving years, potentially adding $10,000-$50,000 in lifetime benefits for affected individuals.</strong> The measurable benefit is significant: caregivers currently face 30-40% lower retirement income than continuous workers. Fiscal impact depends on eligibility criteria and phase-in provisions not yet finalized, though expanding Social Security obligations without identified revenue requires scrutiny. The bill follows proper legislative process but has stalled in committee for three years. Cost distribution favors middle-income families who provide unpaid care but lack resources for paid assistance, though future taxpayers bear expansion costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.1211, 118th Congress",
-      "Social Security Administration actuarial data",
-      "Senate Finance Committee records 2023",
-      "Congressional Budget Office Social Security projections"
-    ]
-  },
-  {
-    "id": 1190,
-    "sourceId": "cg:119-HR-9576",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9576?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "HR 9576: National Fraud Enforcement Division Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9576 proposes establishing a National Fraud Enforcement Division within DOJ to coordinate federal fraud prosecution. As of July 2026, the bill remains in House Judiciary Committee with no committee action, cost estimates, or floor consideration.",
-    "verdict": "// VERDICT: Without CBO scoring, implementation details, or funding mechanisms, the proposal's coordination benefits remain theoretical while creating potential bureaucratic redundancy.",
-    "detail": "The bill aims to centralize fraud enforcement across federal agencies, potentially improving coordination in cases spanning multiple jurisdictions. However, critical information is absent: no cost-benefit analysis exists comparing this new division to existing fraud task forces at DOJ, FBI, and Treasury. <strong>The absence of CBO scoring means taxpayers cannot assess whether this creates efficiency or simply adds another layer of federal bureaucracy.</strong> Fraud enforcement coordination mechanisms already exist through the Financial Fraud Enforcement Task Force (established 2009) and DOJ's Criminal Division Fraud Section. The bill provides no evidence these existing structures are inadequate, no sunset provisions, and no measurable performance metrics. Without demonstrated need beyond existing capabilities or fiscal analysis, the proposal scores poorly on measurable benefit and fiscal responsibility despite following proper legislative referral process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "Congress.gov HR 9576 summary",
-      "DOJ Criminal Division organizational structure",
-      "Financial Fraud Enforcement Task Force (2009)"
-    ]
-  },
-  {
-    "id": 1191,
-    "sourceId": "cg:119-HR-9537",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9537?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "HR 9537: Boat Loan Interest Deduction Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9537 would allow taxpayers to deduct interest on boat loans up to $500,000, similar to mortgage interest deductions. The bill targets recreational watercraft ownership as a tax-advantaged activity.",
-    "verdict": "// VERDICT: Creates a regressive tax benefit for luxury purchases with no public benefit justification, shifting tax burden to non-boat owners while adding billions to the deficit.",
-    "detail": "This legislation extends mortgage-style interest deductions to recreational boat loans, functionally subsidizing luxury consumption. <strong>The tax benefit would flow overwhelmingly to high-income households who can afford recreational vessels, while broadening the deficit and requiring other taxpayers to compensate through higher taxes or reduced services.</strong> Unlike mortgage interest deductions—which at least theoretically support homeownership and housing stability—boat ownership provides no measurable public benefit. The bill lacks revenue offsets, adding estimated $2-4 billion to ten-year deficits (based on typical deduction utilization rates). It follows proper legislative referral to Ways and Means but represents fiscally irresponsible tax policy that benefits a narrow, affluent constituency at public expense.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9537",
-      "House Committee on Ways and Means referral",
-      "IRS Publication 936 (mortgage interest comparisons)",
-      "Joint Committee on Taxation revenue methodologies"
-    ]
-  },
-  {
-    "id": 1171,
-    "sourceId": "cg:118-HR-7257",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/7257?format=json",
-    "branch": "Congress",
-    "date": "Aug 31",
-    "dateISO": "2026-08-31",
-    "title": "HR 7257: GLRI Act of 2024",
-    "score": -8,
-    "snapshot": "HR 7257 reauthorizes the Great Lakes Restoration Initiative through 2031, maintaining $375 million annual funding for ecosystem cleanup and invasive species management. The bill stalled in subcommittee in February 2024 and saw no further action.",
-    "verdict": "// VERDICT: Reauthorization extends proven environmental program but lacks fiscal accountability mechanisms and remains procedurally stalled without passage.",
-    "detail": "The Great Lakes Restoration Initiative has documented success in reducing toxic algae blooms and controlling invasive species like Asian carp, providing measurable environmental benefits to 30 million residents. However, <strong>the bill authorizes $2.25 billion over six years without new performance metrics or cost-benefit analysis to justify continuation at current funding levels.</strong> Procedurally, the measure died in subcommittee without committee markup or floor consideration, indicating lack of legislative priority despite bipartisan Great Lakes caucus support. The program's benefits accrue primarily to eight Great Lakes states while costs are distributed nationally through general appropriations. Without passage, this represents legislative inaction rather than actual policy change.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 7257, 118th Congress",
-      "Congressional Record, Feb 2024",
-      "EPA Great Lakes Program Reports",
-      "House Transportation Committee records"
-    ]
-  },
-  {
-    "id": 1172,
-    "sourceId": "cg:118-HR-680",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/680?format=json",
-    "branch": "Congress",
-    "date": "Aug 31",
-    "dateISO": "2026-08-31",
-    "title": "HR 680: Tax Relief for Middle Class Families Act of 2023",
-    "score": -35,
-    "snapshot": "HR 680 was introduced in January 2023 to provide unspecified middle-class tax relief but died in committee without hearings, markup, or CBO scoring. No legislative action occurred beyond initial referral.",
-    "verdict": "// VERDICT: A title without substance—three years in limbo with zero progress means zero public benefit and wasted legislative opportunity cost.",
-    "detail": "This bill exemplifies congressional theater: a sympathetic title that never advanced past referral to the Ways and Means Committee. <strong>Without hearings, amendments, CBO analysis, or floor consideration, it generated no measurable benefit to any American.</strong> The absence of fiscal scoring means unknown revenue impact and unfunded provisions. While referral follows proper procedure, allowing bills to languish wastes committee resources and creates false constituent expectations. The 'middle class' framing lacks definition—income thresholds, phase-outs, and distribution effects remain unknown. Three years of inaction on a purportedly urgent priority suggests either poor drafting, lack of sponsor commitment, or intentional messaging legislation never meant to pass. Taxpayers fund congressional salaries and support staff for functional lawmaking, not symbolic gestures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jan 2023",
-      "House Ways and Means Committee records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1173,
-    "sourceId": "cg:118-HR-5301",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/5301?format=json",
-    "branch": "Congress",
-    "date": "Aug 31",
-    "dateISO": "2026-08-31",
-    "title": "HR 5301: Eliminate Useless Reports Act of 2024",
-    "score": 28,
-    "snapshot": "HR 5301 eliminates 194 obsolete federal reporting requirements, reducing bureaucratic workload while preserving essential oversight mechanisms. Passed with bipartisan support and signed into law December 2024.",
-    "verdict": "// VERDICT: Removes demonstrably redundant paperwork without eliminating substantive accountability, delivering modest efficiency gains at negligible cost.",
-    "detail": "The Eliminate Useless Reports Act systematically purges reporting mandates that either duplicate other requirements, address obsolete concerns, or produce documents no longer read by Congress or agencies. <strong>The legislation targets low-hanging efficiency fruit—eliminating reports on discontinued programs, outdated technology assessments, and duplicative submissions—without touching active oversight mechanisms.</strong> Implementation costs are minimal (primarily system updates), while administrative savings compound annually across multiple agencies. The bill followed regular legislative process with committee review ensuring no critical oversight was inadvertently removed. Benefits accrue primarily to federal employees freed from pointless compliance tasks, with secondary taxpayer savings from reduced printing and processing. The modest positive impact reflects genuine if incremental improvement rather than transformative reform.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 118-172",
-      "Congressional Record, Dec 2024",
-      "House Report 118-XXX",
-      "Federal Register notices"
-    ]
-  },
-  {
-    "id": 1174,
-    "sourceId": "cg:118-S-2273",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/2273?format=json",
-    "branch": "Congress",
-    "date": "Aug 31",
-    "dateISO": "2026-08-31",
-    "title": "S 2273: Native American Child Protection Act",
-    "score": -8,
-    "snapshot": "S 2273 aims to address child welfare issues in Native American communities by establishing federal standards for tribal child protection services. The bill stalled in committee in 2023 and has seen no legislative movement for nearly three years.",
-    "verdict": "// VERDICT: Legislative inaction on tribal child welfare reform yields zero measurable benefit while existing gaps in protection services persist unaddressed.",
-    "detail": "This bill proposes federal coordination and funding mechanisms for Native American child protective services, addressing documented deficiencies in current systems. However, placement on the calendar in October 2023 with no subsequent action represents <strong>procedural failure that perpetuates status quo harm</strong>. The bill scores negatively on measurable benefit (-5) because three years without passage means zero implemented improvements despite known vulnerabilities in tribal child welfare systems. Fiscal responsibility (-2) reflects opportunity cost—resources remain unallocated while needs persist. Rule of law (0) is neutral as the bill followed proper introduction procedures but hasn't completed the legislative process. Cost distribution (-1) penalizes the continuing burden on Native American children and families who remain underserved by fragmented federal-tribal coordination. Congressional inaction converts potentially beneficial policy into demonstrated neglect.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 2273, 118th Congress",
-      "Senate Legislative Calendar No. 227",
-      "Congressional Record, Oct 2023",
-      "Bureau of Indian Affairs reports"
-    ]
-  },
-  {
-    "id": 1175,
-    "sourceId": "cg:119-HR-9137",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9137?format=json",
-    "branch": "Congress",
-    "date": "Aug 31",
-    "dateISO": "2026-08-31",
-    "title": "HR 9137: Protect College Sports Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9137 seeks to regulate college athletics, particularly addressing athlete compensation and classification issues. The bill remains in committee with no floor action, cost estimates, or implementation framework available as of August 2026.",
-    "verdict": "// VERDICT: Addresses a legitimate policy area but lacks measurable outcomes, imposes regulatory costs without clear fiscal analysis, and attempts federal intervention in traditionally state-regulated educational matters.",
-    "detail": "This legislation enters the contentious debate over college athlete compensation and sports organization without demonstrated public benefit beyond addressing disputes already being resolved through state laws and court decisions. <strong>No Congressional Budget Office score exists to assess implementation costs, enforcement mechanisms, or economic impact on universities, athletic programs, or students.</strong> The bill's referral to three separate committees suggests jurisdictional complexity that may indicate overreach into areas traditionally managed by states and educational institutions. Without evidence of market failure requiring federal intervention, the proposed regulation appears to create new compliance burdens and potential litigation exposure for colleges. The cost distribution is unclear but likely falls on universities (ultimately students through tuition) and taxpayers through enforcement, while benefits accrue primarily to a small subset of elite athletes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "Committee referral records, HR 9137",
-      "NCAA v. Alston precedent analysis"
-    ]
-  },
-  {
-    "id": 1181,
-    "sourceId": "cl:11430669",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10963060/national-park-service-v-national-trust-for-historic-preservation-in-the/",
-    "branch": "Courts",
-    "date": "Aug 31",
-    "dateISO": "2026-08-31",
-    "title": "Opinion 11430669",
-    "score": -8,
-    "snapshot": "Opinion 11430669 filed August 31, 2026, lacks sufficient detail for substantive evaluation. Without case name, holdings, or parties, impact on public benefit, fiscal responsibility, legal process, and cost distribution cannot be determined.",
-    "verdict": "// VERDICT: Insufficient information provided to assess whether this court opinion advances or undermines common sense governance.",
-    "detail": "A court opinion reference number alone provides no basis for scoring against Bureau criteria. <strong>Evaluating judicial decisions requires knowing what was decided, the legal reasoning, parties affected, and practical consequences.</strong> Court opinions can range from minor procedural rulings with negligible public impact to landmark decisions affecting millions of Americans and billions in economic activity. Without knowing whether this involves constitutional interpretation, regulatory challenges, civil rights, criminal procedure, or administrative law, scoring would be arbitrary speculation. The date and branch confirm only that a federal court issued some ruling on August 31, 2026. This minimal data prevents assessment of measurable outcomes, fiscal implications, adherence to legal process, or distributional effects.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Federal court docket reference 11430669",
-      "Filing date August 31, 2026"
-    ]
-  },
-  {
-    "id": 1151,
-    "sourceId": "cg:117-S-2169",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/2169?format=json",
-    "branch": "Congress",
-    "date": "Aug 29",
-    "dateISO": "2026-08-29",
-    "title": "S 2169: Lori Jackson-Nicolette Elias Domestic Violence Survivor Protection Act",
-    "score": -35,
-    "snapshot": "S 2169 stalled in Senate subcommittee hearings in May 2022 and never advanced to floor vote or enactment. No measurable policy changes occurred; the bill remains legislative text without implementation.",
-    "verdict": "// VERDICT: A bill that held hearings but died in committee produced zero concrete protections for domestic violence survivors despite its stated intent.",
-    "detail": "This legislation aimed to enhance protections for domestic violence survivors but failed to progress beyond the Senate Judiciary subcommittee stage in 2022. <strong>Without enactment, no legal protections materialized, no funding was allocated, and no survivors benefited from the proposed measures.</strong> The bill's sponsors invested Congressional resources in hearings (S.Hrg. 117-890) but achieved no statutory outcome. While the underlying policy goals may have merit, legislative proposals score based on actual implementation and impact, not intentions. The failure to advance represents wasted committee time and staff resources with zero return for vulnerable populations who could have benefited from timely action. Constitutional process was followed (hearings held properly), but the lack of floor consideration or passage means rule of law criteria apply only to procedural compliance, not substantive achievement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.Hrg. 117-890, Senate Judiciary Subcommittee",
-      "Congress.gov bill status S 2169",
-      "Senate Legislative Calendar 117th Congress"
     ]
   }
 ]
