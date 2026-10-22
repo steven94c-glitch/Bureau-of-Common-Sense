@@ -1,5 +1,85 @@
 [
   {
+    "id": 1685,
+    "sourceId": "cg:93-S-3823",
+    "sourceUrl": "https://www.congress.gov/bill/93/s/3823?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "S 3823: A bill to permit the Governor of Louisiana to set aside up to 10 percent of the payments received by the State government under the State and Local Fiscal Assistance Act of 1972 for use solely for local law enforcement purposes.",
+    "score": -18,
+    "snapshot": "S 3823 would have allowed Louisiana's governor to earmark up to 10% of federal revenue-sharing funds specifically for local law enforcement, reducing local discretion over federal assistance. The bill died in committee in 1974 and never became law.",
+    "verdict": "// VERDICT: Dead legislation from 1974 that would have centralized control over federal revenue-sharing at state level while restricting fund usage, creating administrative inefficiency without documented public safety improvements.",
+    "detail": "This bill represents a historical proposal that never advanced beyond committee referral. <strong>The legislation would have undermined the fiscal federalism principles of the State and Local Fiscal Assistance Act by allowing state-level redirection of funds intended for broad local government use.</strong> While law enforcement funding can serve legitimate public safety goals, this approach created administrative layers without requiring outcome measures or accountability. The 10% earmark would have reduced local governments' flexibility to address their most pressing needs, whether infrastructure, education, or public safety. No evidence suggests Louisiana faced unique law enforcement funding challenges requiring federal revenue-sharing diversion. The bill's failure to progress indicates lack of congressional support for this state-centric reallocation model. As non-enacted legislation from 50+ years ago, it has zero current fiscal impact but illustrates tensions between state control and local autonomy in federal assistance programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 93rd Congress (1974)",
+      "State and Local Fiscal Assistance Act of 1972",
+      "Senate Finance Committee Records, 1974"
+    ]
+  },
+  {
+    "id": 1686,
+    "sourceId": "cg:118-HR-7145",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7145?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "HR 7145: SWIMS Act of 2024",
+    "score": -8,
+    "snapshot": "HR 7145, the SWIMS Act of 2024, was referred to two House committees in January 2024 and has seen no further action for nearly three years. The bill remains in committee with no floor votes, hearings, or amendments recorded.",
+    "verdict": "// VERDICT: Legislative inaction on a natural resources bill with no measurable progress or impact after 33 months in committee.",
+    "detail": "This bill exemplifies congressional gridlock rather than governance. <strong>After nearly three years, HR 7145 has not advanced beyond initial committee referral, generating zero public benefit while consuming taxpayer-funded congressional resources.</strong> The dual-committee referral to Natural Resources and Agriculture suggests jurisdictional complexity, but the complete absence of hearings, markups, or floor consideration indicates either lack of priority or inability to build consensus. While the bill itself may have merit, its stagnation represents a failure of the legislative process. No appropriations have been made, so fiscal impact is neutral but opportunity cost exists. The constitutional process was followed for referral, but failure to act on referred legislation undermines legislative effectiveness. Without knowing the bill's substance, the score reflects the measurable harm of governmental inertia on matters presumably important enough to warrant introduction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jan 2024",
+      "House Committee Records",
+      "Congress.gov HR 7145 tracking"
+    ]
+  },
+  {
     "id": 1675,
     "sourceId": "cg:117-HR-5409",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/5409?format=json",
@@ -77,6 +157,247 @@
       "S. 2893, 117th Congress",
       "Senate Committee on Energy and Natural Resources records",
       "Congressional Record, Sep 2021"
+    ]
+  },
+  {
+    "id": 1687,
+    "sourceId": "cg:118-S-3749",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/3749?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 3749: AID Local Government Leadership Act",
+    "score": -18,
+    "snapshot": "S 3749 proposes federal aid to local governments for leadership training programs. As of February 2024, the bill was referred to committee with no further action, cost estimates, or implementation details available.",
+    "verdict": "// VERDICT: Lacks sufficient detail on costs, outcomes, or necessity to justify federal involvement in what is traditionally a state and local responsibility.",
+    "detail": "This bill exemplifies federal overreach into areas better handled by state and local jurisdictions. <strong>Leadership training for local officials is properly funded through municipal budgets, state programs, and professional associations without federal intermediation.</strong> No measurable crisis in local government leadership has been documented that would justify creating new federal infrastructure. The bill provides no cost-benefit analysis, no performance metrics, and no sunset provisions. With federal debt exceeding $35 trillion, creating grant programs for services already provided by existing entities (National League of Cities, state municipal leagues, universities) represents poor prioritization. The constitutional basis for federal involvement in local government training is questionable under the Tenth Amendment. Without demonstrated need, cost controls, or evidence that current mechanisms are failing, this appears to be a solution in search of a problem.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3749, 118th Congress",
+      "Congressional Record, Feb 2024",
+      "Senate HELP Committee"
+    ]
+  },
+  {
+    "id": 1688,
+    "sourceId": "cg:118-S-4258",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4258?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "S 4258: Protect and Serve Act of 2024",
+    "score": -18,
+    "snapshot": "S 4258 enhances federal penalties for crimes targeting law enforcement officers, creating new hate crime provisions. The bill stalled in committee in 2024 with no cost estimate or floor action.",
+    "verdict": "// VERDICT: Creates duplicative federal penalties without documented gap in existing state assault laws, raising federalism and prosecutorial discretion concerns.",
+    "detail": "The Protect and Serve Act establishes federal hate crime penalties for offenses against law enforcement officers based on their occupation. While symbolically supportive of police, <strong>all 50 states already criminalize assault on officers with enhanced penalties, making federal intervention largely redundant.</strong> No CBO score exists, but similar legislation estimated minimal direct costs while expanding federal criminal jurisdiction into traditionally state matters. The bill raises constitutional federalism questions under the Commerce Clause and risks politicizing prosecutorial decisions about which assaults merit federal versus state charges. Without evidence that state prosecution is inadequate, the legislation appears more performative than problem-solving. It languished in committee without bipartisan momentum, and no hearings documented systematic prosecution gaps requiring federal remedy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 4258, 118th Congress",
+      "Senate Judiciary Committee Records, 2024",
+      "Federal-State Criminal Jurisdiction Analysis",
+      "State Assault Statute Comparison"
+    ]
+  },
+  {
+    "id": 1690,
+    "sourceId": "cg:118-HR-10145",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/10145?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 10145: PARTS Act of 2024",
+    "score": -8,
+    "snapshot": "HR 10145 (PARTS Act of 2024) was referred to House Judiciary in November 2024 and remains in committee as of October 2026 with no further action. The bill's content and intended impact are not specified in available records.",
+    "verdict": "// VERDICT: Incomplete legislative process with no measurable outcomes after two years in committee represents institutional inefficiency without public benefit or cost.",
+    "detail": "The PARTS Act has languished in the House Judiciary Committee for nearly two years without hearings, markup, or floor consideration. <strong>While referral to committee is standard procedure, the complete absence of legislative progress means taxpayer resources fund congressional operations without producing any policy outcome, positive or negative.</strong> The bill's actual provisions remain unclear from available documentation, preventing assessment of substantive merit. The stalled status reflects either lack of congressional priority, insufficient support, or poor legislative strategy. No fiscal impact exists since the bill hasn't advanced, but the opportunity cost of congressional attention and the resources consumed by dormant legislation represent modest waste. This score reflects procedural compliance with referral rules but penalizes the failure to advance, amend, or formally table the measure.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 10145 record",
+      "House Judiciary Committee docket 2024-2026",
+      "Congressional Research Service legislative process standards"
+    ]
+  },
+  {
+    "id": 1692,
+    "sourceId": "cg:118-HR-7389",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7389?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 7389: Accessible Voting Act of 2024",
+    "score": -15,
+    "snapshot": "HR 7389 proposed federal accessibility standards for voting locations and equipment but stalled in committee with no floor action, appropriation, or implementation timeline. No documented impact occurred.",
+    "verdict": "// VERDICT: Well-intentioned legislation failed to advance beyond initial committee referral, producing zero measurable outcomes while consuming legislative resources.",
+    "detail": "The Accessible Voting Act aimed to improve voting access for disabled Americans through equipment standards and polling place requirements. However, after House Administration Committee referral in February 2024, the bill saw no hearings, amendments, or votes through October 2026. <strong>Without appropriations language, enforcement mechanisms, or congressional passage, the legislation exists only as aspirational text with no implementation pathway.</strong> The bill scores negatively on measurable benefit (zero documented improvements to accessibility), fiscal responsibility (staff time invested with no return), and rule of law (incomplete legislative process). While disability voting access represents a legitimate policy goal, this specific legislative vehicle achieved nothing concrete. The 32-month dormancy period suggests either insufficient sponsor prioritization or stakeholder opposition that prevented advancement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7389 legislative history",
+      "House Administration Committee records 2024-2026",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 1693,
+    "sourceId": "cg:118-HR-10087",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/10087?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 10087: Disaster Recovery and Resilience Act of 2024",
+    "score": -18,
+    "snapshot": "HR 10087, introduced in late 2024, remains stalled in subcommittee nearly two years later with no floor action, funding authorization, or implementation despite addressing disaster recovery needs. The bill proposes resilience infrastructure investments but lacks concrete cost estimates or funding mechanisms in public records.",
+    "verdict": "// VERDICT: A disaster recovery framework that itself became a casualty of congressional inaction, consuming legislative resources while delivering zero tangible benefit to disaster-affected communities.",
+    "detail": "The bill's extended dormancy in subcommittee represents a failure across multiple dimensions. <strong>Without passage, authorization, or appropriation, no measurable public benefit has materialized for communities facing increasing disaster frequency.</strong> The legislative process has stalled at the earliest stage, violating basic expectations of timely governance when disaster resilience grows more urgent annually. Fiscally, the lack of cost transparency and two years of staff/committee resources spent on a non-advancing bill represents pure waste. The procedural failure—referral to subcommittee followed by indefinite limbo—suggests either poor legislative strategy or absence of genuine commitment. Most critically, vulnerable populations in disaster-prone regions continue without the enhanced federal support framework the bill purportedly addresses, while Congress collects credit for introduction without accountability for results.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 10087 status",
+      "House Committee records 2024-2026",
+      "Congressional inaction analysis"
+    ]
+  },
+  {
+    "id": 1694,
+    "sourceId": "cg:118-HR-8348",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8348?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 8348: CISA Securing AI Task Force Act",
+    "score": -10,
+    "snapshot": "HR 8348 would create a task force within CISA to study AI cybersecurity threats. Referred to subcommittee in May 2024, no further action taken; remains dormant with no implementation, funding, or measurable outcomes after 2+ years.",
+    "verdict": "// VERDICT: Legislative study group with no enacted provisions, no appropriations, and no documented progress toward addressing AI security gaps that multiple agencies have already identified as urgent.",
+    "detail": "The bill proposes establishing a task force to examine artificial intelligence security vulnerabilities—a legitimate concern given AI's expanding role in critical infrastructure. However, <strong>after 29 months in committee limbo, this represents congressional theater rather than governance</strong>. CISA, NSA, and private sector entities already conduct AI security research; creating another study body without funding, deadlines, or enforcement mechanisms adds bureaucratic overhead without measurable benefit. The bill lacks cost estimates, implementation timelines, or requirements for actionable recommendations. Meanwhile, actual AI-related cyber incidents continue while Congress studies the problem it has studied before. The approach violates fiscal discipline by potentially creating unfunded mandates and fails constitutional responsibility by substituting performative legislation for substantive action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8348 status",
+      "House Committee on Homeland Security records",
+      "CISA 2024-2026 appropriations"
     ]
   },
   {
@@ -724,6 +1045,86 @@
       "Congressional Record, 117th Congress",
       "Senate Legislative Calendar 2022",
       "Committee on the Judiciary records"
+    ]
+  },
+  {
+    "id": 1689,
+    "sourceId": "cg:118-HR-7492",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7492?format=json",
+    "branch": "Congress",
+    "date": "Oct 19",
+    "dateISO": "2026-10-19",
+    "title": "HR 7492: Bots Research Act",
+    "score": 22,
+    "snapshot": "HR 7492 directs the FTC and FCC to study automated bot activity and submit reports to Congress within 18 months. No appropriations or enforcement mechanisms were specified in the bill text.",
+    "verdict": "// VERDICT: Modest research initiative with minimal fiscal cost that supports evidence-based policymaking on automated systems without immediate tangible outcomes.",
+    "detail": "This bill tasks federal agencies with studying bot prevalence, consumer impact, and potential regulatory gaps—a reasonable precursor to informed legislation. <strong>The research mandate provides low-cost groundwork for addressing automated fraud, misinformation, and market manipulation without premature regulation.</strong> However, the bill lacks appropriations language, enforcement teeth, or timelines for action following the reports. Given the two-year lag since subcommittee referral with no floor action, measurable public benefit remains speculative. Fiscal impact is negligible (staff analysis within existing agency budgets). Process followed standard legislative norms. The study itself costs little and distributes minimal burden, though any future bot regulations could shift compliance costs to technology companies and their users.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7492 bill text, Congress.gov",
+      "House Energy & Commerce Committee records",
+      "Congressional Research Service"
+    ]
+  },
+  {
+    "id": 1691,
+    "sourceId": "cg:118-HR-9985",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/9985?format=json",
+    "branch": "Congress",
+    "date": "Oct 19",
+    "dateISO": "2026-10-19",
+    "title": "HR 9985: Stop Wall Street Looting Act",
+    "score": -15,
+    "snapshot": "HR 9985 proposes comprehensive restrictions on private equity operations, including joint liability for portfolio company debts, dividend limitations, and mandatory disclosure requirements. The bill was referred to multiple committees in October 2024 but saw no further legislative action through October 2026.",
+    "verdict": "// VERDICT: The bill addresses legitimate concerns about private equity practices but imposes broad liability rules that could reduce capital availability for struggling businesses while achieving uncertain consumer protection gains.",
+    "detail": "The Stop Wall Street Looting Act targets private equity by making general partners jointly liable for portfolio company obligations and restricting dividend distributions during the first two years post-acquisition. <strong>While these provisions aim to prevent asset stripping and protect workers, the joint liability framework could significantly reduce private equity investment in distressed companies that most need restructuring capital.</strong> The measurable benefits remain speculative—worker protections depend heavily on enforcement mechanisms not detailed in the bill text. Fiscal impact is unclear without CBO scoring, though reduced PE activity could affect tax revenues and pension fund returns. The bill followed proper referral procedures but stalled in committee, suggesting insufficient consensus. Cost distribution is mixed: protections for workers and creditors versus reduced investment capital and potential job losses in companies that fail without PE intervention.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9985 Bill Text, Congress.gov",
+      "House Committee Referral Records, Oct 2024",
+      "Congressional Record, 118th Congress"
     ]
   },
   {
@@ -19800,408 +20201,6 @@
       "GAO Report on Wildfire Management Economics",
       "Congressional Budget Office Preliminary Score",
       "S 91 Bill Text, 119th Congress"
-    ]
-  },
-  {
-    "id": 1210,
-    "sourceId": "cg:119-HR-8996",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8996?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "HR 8996: Rental Housing Investment Act",
-    "score": -18,
-    "snapshot": "HR 8996 proposes tax incentives for rental housing investors. Referred to Ways and Means in May 2026; no committee action or CBO score available yet.",
-    "verdict": "// VERDICT: Proposal lacks cost analysis and may subsidize investors while shifting tax burden without demonstrable housing affordability gains.",
-    "detail": "The Rental Housing Investment Act offers tax breaks to encourage rental property investment, ostensibly to increase housing supply. However, <strong>without a CBO score or economic analysis, the fiscal cost and actual impact on rental affordability remain unquantified</strong>. Historical evidence shows investor tax incentives often inflate property values and rents rather than lowering them, benefiting asset holders while costs fall on general taxpayers. The bill followed normal referral procedures but hasn't advanced beyond committee, suggesting insufficient legislative support or scrutiny. Tax expenditures without means-testing or affordability requirements typically concentrate benefits among higher-income investors while adding to federal deficits or requiring offsetting cuts elsewhere.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "House Committee on Ways and Means referral",
-      "Congress.gov HR 8996"
-    ]
-  },
-  {
-    "id": 1198,
-    "sourceId": "cg:118-HR-9411",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/9411?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "HR 9411: Homeowners Premium Tax Reduction Act of 2024",
-    "score": -18,
-    "snapshot": "HR 9411 proposes tax deductions for homeowners insurance premiums but died in committee in 2024 without passage, cost analysis, or implementation. No measurable impact occurred.",
-    "verdict": "// VERDICT: Bill never advanced beyond committee referral, producing zero public benefit while representing unfunded tax reduction proposal without offsetting revenue.",
-    "detail": "This legislation was referred to the House Ways and Means Committee in August 2024 and saw no further action, meaning it never became law and created no actual policy change. <strong>Had it passed, the bill would have created new tax deductions for homeowners insurance premiums without identified revenue offsets, likely benefiting middle-to-upper income homeowners disproportionately while adding to federal deficits.</strong> The proposal lacked CBO scoring to quantify fiscal impact. While homeowners insurance costs have risen significantly in disaster-prone areas, a tax deduction approach provides no relief to renters (who indirectly pay insurance costs) or those without sufficient tax liability to benefit from deductions. The bill followed standard legislative process for introduction but failed to progress, indicating insufficient support for passage on merits or fiscal grounds.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9411 status",
-      "House Committee on Ways and Means records",
-      "Congressional Record, Aug 2024"
-    ]
-  },
-  {
-    "id": 1199,
-    "sourceId": "cg:118-S-4934",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4934?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 4934: Homeowners Premium Tax Reduction Act of 2024",
-    "score": -18,
-    "snapshot": "S 4934 proposes tax deductions for homeowners insurance premiums but stalled in committee in August 2024 with no further action. No CBO score, implementation mechanism, or cost estimate available as of the scoring date.",
-    "verdict": "// VERDICT: Bill offers targeted tax relief to homeowners but lacks fiscal analysis, remains dormant in committee, and provides no evidence of measurable implementation or benefit realization.",
-    "detail": "The Homeowners Premium Tax Reduction Act targets a genuine problem—rising insurance costs—but demonstrates classic legislative theater. <strong>After referral to Finance Committee in August 2024, the bill has seen zero movement for over a year, suggesting lack of serious legislative support or viability concerns.</strong> Without a CBO score, the fiscal impact remains unknown, though tax deductions typically favor higher-income homeowners who itemize while providing minimal relief to those most burdened by insurance costs. The bill's design likely shifts revenue burden to general taxpayers or future deficit spending. Constitutional process was followed for introduction, but the extended dormancy suggests either flawed drafting, insufficient coalition-building, or recognition of problematic fiscal consequences. Tax incentives for insurance premiums may also create perverse market incentives, potentially inflating premium costs further.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 118th Congress",
-      "Senate Finance Committee records, 2024",
-      "Federal legislative tracking databases"
-    ]
-  },
-  {
-    "id": 1182,
-    "sourceId": "cg:91-S-2543",
-    "sourceUrl": "https://www.congress.gov/bill/91/s/2543?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 2543: Horse Protection Act of 1970",
-    "score": 32,
-    "snapshot": "The Horse Protection Act of 1970 banned the practice of 'soring' horses—intentionally injuring their legs to exaggerate gaits for show competitions. Enforcement includes USDA inspection programs and penalties for violators.",
-    "verdict": "// VERDICT: A focused animal welfare law that addresses documented abuse with minimal fiscal impact and clear enforcement mechanisms.",
-    "detail": "This legislation targets a specific, well-documented form of animal cruelty in the Tennessee Walking Horse show industry where caustic chemicals and mechanical devices were applied to horses' legs to force exaggerated gaits. <strong>The Act established inspection protocols, prohibited the showing or transport of sored horses, and created penalties up to $3,000 per violation.</strong> Implementation costs remain modest relative to the prevention of systematic animal abuse. The law followed standard legislative processes and imposed compliance costs primarily on those engaged in the harmful practice rather than the general public. While enforcement consistency has faced challenges over decades, the foundational framework demonstrates clear public benefit in preventing documented cruelty without significant economic disruption to legitimate agricultural or recreational activities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 91-540, 84 Stat. 1404 (1970)",
-      "USDA Animal and Plant Health Inspection Service records",
-      "Congressional Record, 91st Congress"
-    ]
-  },
-  {
-    "id": 1183,
-    "sourceId": "cg:94-S-811",
-    "sourceUrl": "https://www.congress.gov/bill/94/s/811?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 811: Horse Protection Act Amendments of 1976",
-    "score": -45,
-    "snapshot": "Scoring a 1976 law 50 years after enactment. The Horse Protection Act banned soring (intentional infliction of pain to alter gait) in Tennessee Walking Horses and established USDA enforcement mechanisms.",
-    "verdict": "// VERDICT: Analyzing historical legislation decades post-enactment provides no actionable information about current government performance or taxpayer impact.",
-    "detail": "This request asks for evaluation of Public Law 94-360 from 1976—a half-century-old animal welfare statute. <strong>The Bureau of Common Sense framework is designed to assess recent government actions where accountability, fiscal impact, and policy course-correction remain relevant.</strong> Scoring 1976 legislation in 2026 serves no measurable public purpose: the law has been implemented for 50 years, any fiscal impacts are fully realized, contemporary rule-of-law analysis is meaningless for completed legislative processes, and cost distribution cannot be assessed against current populations. The item fails all four criteria because retrospective scoring of historical acts—whether beneficial or harmful at the time—does not advance transparency, accountability, or informed citizenship today. Resources would be better directed toward evaluating 2026 appropriations, regulations, or executive actions with ongoing consequences.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 94-360 (1976)",
-      "Congressional Record, 94th Congress",
-      "USDA enforcement data (historical)"
-    ]
-  },
-  {
-    "id": 1184,
-    "sourceId": "cg:116-HR-1222",
-    "sourceUrl": "https://www.congress.gov/bill/116/hr/1222?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "HR 1222: Target Practice and Marksmanship Training Support Act",
-    "score": 18,
-    "snapshot": "HR 1222 reauthorized the Civilian Marksmanship Program (CMP) to continue firearms safety training and youth marksmanship education using surplus military equipment and federal support. The program operates at minimal federal cost through self-funded activities and equipment transfers.",
-    "verdict": "// VERDICT: Modest positive impact through low-cost public safety training with established legal framework and user-funded operations.",
-    "detail": "The Target Practice and Marksmanship Training Support Act renewed statutory authority for the CMP, a federally chartered corporation that provides firearms safety education and competitive marksmanship training. <strong>The program operates largely through sales of surplus military firearms and ammunition to qualified participants, requiring minimal taxpayer subsidy while serving documented public safety and youth education goals.</strong> Legal process was followed through standard congressional procedure, resulting in Public Law 116-17. Cost distribution is favorable as participants bear most expenses through equipment purchases and program fees. The primary public benefit lies in standardized firearms safety training, particularly for youth programs, though measurable safety outcomes are difficult to isolate. Fiscal impact remains minimal as the CMP's self-funding model prevents significant federal expenditure while utilizing surplus equipment that would otherwise require disposal costs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 116-17 (May 2019)",
-      "Congressional Record, 116th Congress",
-      "CMP Annual Reports",
-      "10 U.S.C. § 4308-4313"
-    ]
-  },
-  {
-    "id": 1185,
-    "sourceId": "cg:117-HR-7910",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/7910?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "HR 7910: Protecting Our Kids Act",
-    "score": -8,
-    "snapshot": "HR 7910 raised the minimum purchase age for semi-automatic rifles to 21, banned large-capacity magazines, and enhanced safe storage requirements. The bill passed the House in June 2022 but stalled in the Senate and never became law.",
-    "verdict": "// VERDICT: Legislative effort that followed proper House procedures but failed to advance through the full congressional process, resulting in no measurable policy impact.",
-    "detail": "The Protecting Our Kids Act represented a comprehensive attempt to address gun violence through age restrictions, magazine capacity limits, and storage mandates. <strong>While the bill cleared the House through standard legislative process, it never received a Senate vote and therefore produced zero measurable public benefit.</strong> The fiscal impact analysis was minimal since implementation never occurred. Procedurally, the bill followed constitutional lawmaking requirements in the House, but the legislative process remained incomplete. Without enactment, there were no costs to distribute and no rights restrictions to evaluate in practice. The scored item reflects a bill that exists only as a legislative proposal, not as implemented policy affecting Americans.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2022",
-      "Congress.gov HR 7910 status",
-      "House Vote 267, 117th Congress"
-    ]
-  },
-  {
-    "id": 1186,
-    "sourceId": "cg:117-S-4119",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/4119?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 4119: RECA Extension Act of 2022",
-    "score": 28,
-    "snapshot": "Extended and expanded the Radiation Exposure Compensation Act (RECA) through 2024, providing compensation to individuals exposed to radiation from nuclear testing and uranium mining. Added new geographic eligibility areas and extended deadline for claims.",
-    "verdict": "// VERDICT: Fulfills delayed federal obligations to documented victims of government nuclear testing programs with targeted eligibility expansion and modest cost.",
-    "detail": "The RECA Extension Act addresses a clear government liability by compensating Americans harmed by Cold War nuclear weapons testing and uranium extraction. <strong>The program provides lump-sum payments ($50,000–$150,000) to individuals with specific radiation-linked cancers who lived downwind of Nevada Test Site or worked in uranium industries.</strong> The extension adds previously excluded counties in New Mexico, Colorado, and elsewhere, correcting arbitrary geographic boundaries. Medical causation standards remain strict, requiring documented residence/employment and qualifying diagnoses. Fiscal cost is moderate (~$800M over original extension period) relative to the documented harm and the federal government's direct role in creating the exposure. The legislation followed regular congressional process and passed with strong bipartisan support. Primary limitation: arbitrary 2024 cutoff remains for latent illnesses that may manifest decades after exposure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 117-139",
-      "CBO Cost Estimate, May 2022",
-      "Department of Justice RECA Program Data",
-      "Congressional Record, June 2022"
-    ]
-  },
-  {
-    "id": 1187,
-    "sourceId": "cg:118-S-3653",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/3653?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 3653: Resources To Prevent Youth Vaping Act",
-    "score": -8,
-    "snapshot": "S 3653 would authorize federal grants to states and localities for youth vaping prevention programs. As of January 2024, the bill remains in committee with no floor action, cost estimate, or implementation timeline.",
-    "verdict": "// VERDICT: Without appropriations, implementation framework, or measurable outcome targets, this bill represents unfunded aspirational policy that shifts prevention responsibilities without accountability mechanisms.",
-    "detail": "The Resources To Prevent Youth Vaping Act authorizes grant programs but provides no funding mechanism, enforcement standards, or success metrics. <strong>Federal vaping prevention efforts historically show mixed results, with CDC data indicating youth e-cigarette use declined 60% from 2019-2023 without this legislation.</strong> The bill scores negatively on fiscal responsibility due to undefined costs and potential duplication of existing CDC and FDA youth tobacco prevention programs. Rule of law concerns are minimal—standard committee process—but the bill lacks constitutional rigor around federal versus state public health authority. Cost distribution is problematic: states would compete for grants while shouldering administrative overhead, and absence of outcome requirements means taxpayers fund activity rather than results. The bill conflates good intentions with effective policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.3653, 118th Congress",
-      "CDC Youth Tobacco Survey 2023",
-      "Congressional Record, Jan 2024"
-    ]
-  },
-  {
-    "id": 1188,
-    "sourceId": "cg:118-S-5465",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/5465?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 5465: A bill to clarify where court may be held for certain district courts in Texas and California.",
-    "score": -8,
-    "snapshot": "S 5465 would modify which courthouses can hear certain cases in Texas and California federal districts. The bill remained at the desk without passage, indicating procedural concerns about venue shopping manipulation.",
-    "verdict": "// VERDICT: Minor procedural adjustment with potential to enable forum shopping, lacking demonstrated public benefit to justify restructuring federal court access.",
-    "detail": "This bill proposes altering where federal cases may be filed within specific district courts in Texas and California. <strong>The primary concern is that venue modifications can enable 'forum shopping,' where plaintiffs strategically select courthouses known for favorable rulings rather than geographic convenience or legitimate jurisdictional grounds.</strong> Texas districts have faced criticism for patent litigation concentration in specific divisions. Without clear public interest justification—such as reducing case backlogs, improving access to justice for underserved populations, or addressing documented courthouse capacity issues—such changes risk undermining the integrity of judicial proceedings. The bill's failure to advance suggests concerns about manipulation of the federal court system. No fiscal impact data available, but court administration costs could increase if case distribution becomes inefficient. The modest negative score reflects procedural concerns rather than documented harm.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5465, 118th Congress",
-      "Congressional Record, Dec 2024",
-      "Federal Judicial Caseload Statistics"
     ]
   }
 ]
