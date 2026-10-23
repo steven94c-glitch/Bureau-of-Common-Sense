@@ -1,5 +1,290 @@
 [
   {
+    "id": 1695,
+    "sourceId": "cg:119-HR-9558",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9558?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 9558: 21st Century Federal Writers’ Project Act",
+    "score": -18,
+    "snapshot": "HR 9558 proposes a federally funded writers' employment program modeled on the 1930s WPA Federal Writers' Project. As of June 2026, the bill remains in committee with no cost estimate or implementation framework publicly available.",
+    "verdict": "// VERDICT: Creates a new federal employment program without demonstrated necessity, cost justification, or measurable metrics for public value in a zero-unemployment crisis context.",
+    "detail": "The bill resurrects Depression-era job creation infrastructure during a period of near-record low unemployment (3.8% as of mid-2026). <strong>No Congressional Budget Office score exists to assess taxpayer cost, and the bill provides no performance metrics for measuring cultural or educational benefit beyond job creation itself.</strong> While supporting arts and humanities has merit, converting it into a direct federal employment program rather than competitive grants raises fiscal responsibility concerns. The legislative process appears standard (committee referral), but the absence of cost analysis before markup suggests insufficient due diligence. Primary beneficiaries would be writers and historians, while costs fall on general taxpayers—an equity concern when similar private and nonprofit opportunities exist without federal subsidy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9558, 119th Congress",
+      "Congressional Record, June 2026",
+      "Bureau of Labor Statistics, 2026",
+      "Historical WPA documentation"
+    ]
+  },
+  {
+    "id": 1697,
+    "sourceId": "cg:119-HRES-1627",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1627?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HRES 1627: Reaffirming the commitment of the House of Representatives to preserve and expand pathways to citizenship.",
+    "score": -8,
+    "snapshot": "House resolution expressing support for citizenship pathways, referred to Judiciary Committee on October 15, 2026. Non-binding resolution with no enforcement mechanism or funding.",
+    "verdict": "// VERDICT: Symbolic statement lacking measurable implementation framework or fiscal analysis scores negatively on concrete impact and process substantiveness.",
+    "detail": "This non-binding resolution expresses congressional sentiment without creating enforceable policy changes or appropriating resources. <strong>While affirming support for citizenship pathways represents a policy position, House resolutions carry no legal force and require no cost-benefit analysis or constitutional process beyond committee referral.</strong> Without specifics on eligibility criteria, processing capacity, border security measures, or fiscal impact assessment, the resolution provides no measurable public benefit. The absence of implementation details means no evaluation of costs to taxpayers, effects on existing immigration queues, or impact on wage competition. As pure symbolic politics without substantive legislative action, it scores poorly on fiscal responsibility and measurable outcomes while technically following minimal procedural requirements for resolutions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "House Rules and Manual, 119th Congress",
+      "Congressional Research Service: House Resolutions"
+    ]
+  },
+  {
+    "id": 1699,
+    "sourceId": "cg:119-HR-8915",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8915?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 8915: NO FAKES Act of 2026",
+    "score": 18,
+    "snapshot": "HR 8915 creates federal civil remedies and criminal penalties for unauthorized AI-generated replicas of individuals' voice, image, or likeness. Establishes a 70-year post-mortem right for digital persona protection with exemptions for news, parody, and criticism.",
+    "verdict": "// VERDICT: Addresses a measurable harm from deepfake technology with balanced protections and First Amendment exemptions, though enforcement costs and litigation burden remain uncertain.",
+    "detail": "The NO FAKES Act responds to documented cases of non-consensual deepfake pornography, fraud, and reputation damage affecting thousands of Americans annually. <strong>It creates federal jurisdiction where none existed, filling a gap as 15+ states enacted patchwork laws.</strong> The bill includes reasonable exemptions for journalism, satire, and transformative works, reducing constitutional concerns. However, the 70-year post-mortem protection period exceeds demonstrated need and may restrict future creative works unnecessarily. Enforcement will rely heavily on private litigation, potentially favoring well-resourced plaintiffs. The bill passed committee without CBO score; implementation costs for federal courts and DOJ prosecution are unknown but likely modest compared to victim harm prevented. Democratic process followed with bipartisan co-sponsors, though limited floor debate as of October 2026.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Judiciary Committee Report",
+      "Federal Register Vol. 91",
+      "State deepfake legislation surveys 2024-2026"
+    ]
+  },
+  {
+    "id": 1702,
+    "sourceId": "cg:119-HR-10822",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10822?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10822: To restrict the usage of automated license plate reader system by governmental entities, and for other purposes.",
+    "score": 18,
+    "snapshot": "HR 10822 would impose restrictions on government use of automated license plate readers (ALPRs), addressing privacy concerns about warrantless mass surveillance. The bill has been referred to committee with no cost estimate yet available.",
+    "verdict": "// VERDICT: Addresses legitimate Fourth Amendment concerns about mass surveillance technology while creating compliance costs and potentially reducing law enforcement investigative efficiency.",
+    "detail": "Automated license plate readers enable continuous tracking of vehicle movements without warrants, creating constitutional privacy issues that courts have increasingly scrutinized. <strong>The bill attempts to balance law enforcement needs against Fourth Amendment protections by restricting indiscriminate data collection and retention.</strong> Measurable benefit includes enhanced privacy protections for millions of Americans whose movements are currently tracked without probable cause. Fiscal impact remains uncertain pending committee analysis, but compliance costs for agencies will be offset by reduced data storage expenses. The legislative process is being properly followed through committee referral. However, restrictions may hamper legitimate investigations of stolen vehicles, amber alerts, and fugitive tracking. The distribution question centers on whether society prioritizes investigative convenience or constitutional protections—this bill favors the latter, protecting all citizens equally from warrantless surveillance while potentially imposing time costs on law enforcement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "Fourth Amendment case law (Carpenter v. US, 2018)",
+      "EFF ALPR studies, 2020-2025",
+      "House Committee referral documentation"
+    ]
+  },
+  {
+    "id": 1705,
+    "sourceId": "cl:11512221",
+    "sourceUrl": "https://www.courtlistener.com/opinion/11044451/scanlan-v-coalition-for-open-democracy-revisions-102326/",
+    "branch": "Courts",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "Opinion 11512221",
+    "score": -2,
+    "snapshot": "Supreme Court stayed a district court order that required New Hampshire's Secretary of State to correct allegedly misleading public statements about voter ID requirements, citing the Purcell principle against changing election rules near Election Day. Justice Jackson dissented, arguing the order clarified rather than changed existing law.",
+    "verdict": "// VERDICT: Procedurally defensible but substantively troubling application of emergency election doctrine that prioritized timing over accuracy of voter information.",
+    "detail": "The majority invoked the Purcell principle—courts shouldn't alter election rules close to elections—to block an order that merely required officials to describe state law accurately. <strong>Justice Jackson's dissent highlights the core problem: the district court found (after three days of hearings) that officials were misrepresenting what New Hampshire's voter ID law actually required, and correcting misinformation prevents confusion rather than causing it.</strong> On rule of law, the Court followed established emergency-docket precedent. On public benefit, the stay allowed potentially misleading guidance to remain in effect through the election, directly contradicting Purcell's anti-confusion rationale. The cost falls on voters who may have been deterred by inaccurate information about ID requirements. No fiscal impact. The irony: invoking an anti-confusion doctrine to preserve official statements the lower court found confusing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Scanlan v. Coalition for Open Democracy, 610 U.S. ___ (2026)",
+      "Purcell v. Gonzalez, 549 U.S. 1 (2006)",
+      "Republican National Committee v. DNC, 589 U.S. 423 (2020)",
+      "N.H. Rev. Stat. Ann. §659:13, §654:12"
+    ]
+  },
+  {
+    "id": 1698,
+    "sourceId": "cg:119-HRES-1625",
+    "sourceUrl": "https://www.congress.gov/bill/119/hres/1625?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "HRES 1625: Expressing support for a whole child approach to education and recognizing the role of parents, educators, and community members in providing a whole child approach to education for each student.",
+    "score": -8,
+    "snapshot": "Non-binding House resolution expressing support for 'whole child' education approach involving parents, educators, and community. Referred to committee October 2026, no legislative force.",
+    "verdict": "// VERDICT: Symbolic resolution with zero measurable impact, consuming legislative resources while creating no enforceable policy or funding mechanism.",
+    "detail": "This resolution represents congressional theater at its purest form. <strong>It creates no programs, appropriates no funds, changes no law, and imposes no requirements on any educational institution.</strong> The 'whole child approach' remains undefined in actionable terms, allowing members to claim credit for supporting education without accountability for outcomes. While parental and community involvement in education has documented benefits, this resolution does nothing to facilitate such involvement. The opportunity cost is real: committee time, staff resources, and floor consideration that could address substantive education funding, teacher shortages, or measurable student achievement gaps. Non-binding resolutions expressing support for universally agreeable concepts serve primarily as political positioning tools rather than governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "House Rules, 119th Congress",
+      "GAO Report on Congressional Resolutions (2024)"
+    ]
+  },
+  {
+    "id": 1704,
+    "sourceId": "cg:119-S-5682",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5682?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "S 5682: Foreign Government-Owned Media FARA Registration Act",
+    "score": 28,
+    "snapshot": "S 5682 requires foreign government-owned media outlets operating in the US to register under the Foreign Agents Registration Act (FARA), increasing transparency about state-controlled information sources. The bill addresses a regulatory gap where entities like RT and China Global Television Network operated with minimal disclosure requirements.",
+    "verdict": "// VERDICT: Strengthens transparency in foreign influence operations through existing legal framework with minimal fiscal cost and clear constitutional basis.",
+    "detail": "The legislation closes a longstanding loophole by applying FARA registration requirements to media entities owned or controlled by foreign governments. <strong>This provides Americans with disclosure about which news sources are instruments of foreign state policy rather than independent journalism.</strong> The measure follows established regulatory processes through the Senate Foreign Relations Committee and builds on existing FARA infrastructure, avoiding creation of new bureaucracies. Implementation costs are minimal since the Justice Department already administers FARA. The bill raises legitimate First Amendment considerations, but registration requirements (versus content restrictions) have generally withstood constitutional scrutiny. Benefits accrue broadly to the public through improved information quality, while costs fall primarily on foreign state media operations that chose to operate in the US market.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, S 5682, Oct 2026",
+      "Foreign Agents Registration Act, 22 U.S.C. § 611",
+      "DOJ FARA Administration Reports",
+      "Senate Foreign Relations Committee Referral"
+    ]
+  },
+  {
     "id": 1685,
     "sourceId": "cg:93-S-3823",
     "sourceUrl": "https://www.congress.gov/bill/93/s/3823?format=json",
@@ -80,6 +365,87 @@
     ]
   },
   {
+    "id": 1696,
+    "sourceId": "cg:119-HR-2388",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2388?format=json",
+    "branch": "Congress",
+    "date": "Oct 21",
+    "dateISO": "2026-10-21",
+    "title": "HR 2388: Lower Elwha Klallam Tribe Project Lands Restoration Act",
+    "score": 38,
+    "snapshot": "HR 2388 restores approximately 372 acres to the Lower Elwha Klallam Tribe, transferring former dam site lands back to the tribe following the completed Elwha River dam removal project. The lands are taken into trust status for tribal use.",
+    "verdict": "// VERDICT: Completes a rational cleanup of federal obligations after dam removal, restoring lands to their original stewards at minimal ongoing cost while honoring treaty commitments.",
+    "detail": "This legislation transfers federal lands back to the Lower Elwha Klallam Tribe after the successful completion of the Elwha River dam removal—the largest such project in U.S. history. The two dams, removed 2011-2014, had blocked salmon runs for a century and flooded tribal lands. <strong>With restoration complete and infrastructure removed, returning these parcels to the tribe eliminates federal maintenance obligations while supporting tribal sovereignty and treaty rights.</strong> The fiscal impact is minimal: one-time administrative costs with no ongoing appropriations required. The tribe assumes responsibility for land management. Procedurally sound, passing both chambers and following established trust land protocols under the Indian Reorganization Act. Cost distribution is equitable—the tribe receives lands they historically occupied, taxpayers shed a liability, and salmon habitat restoration benefits regional ecosystems and fisheries.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-128",
+      "Congressional Record, Oct 2026",
+      "National Park Service Elwha Restoration Reports",
+      "Federal Register trust land provisions"
+    ]
+  },
+  {
+    "id": 1703,
+    "sourceId": "cg:119-HR-10823",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10823?format=json",
+    "branch": "Congress",
+    "date": "Oct 21",
+    "dateISO": "2026-10-21",
+    "title": "HR 10823: Northwest Wetlands Voluntary Incentives Program Act",
+    "score": 18,
+    "snapshot": "HR 10823 creates a voluntary incentive program for private landowners to preserve wetlands in the Pacific Northwest through financial compensation. The bill awaits committee review with no cost estimates yet published.",
+    "verdict": "// VERDICT: A market-based conservation approach that respects property rights while addressing wetland loss, pending cost-benefit analysis from committee review.",
+    "detail": "The legislation establishes voluntary financial incentives for Northwestern landowners to maintain wetlands rather than develop them, addressing documented wetland degradation while avoiding regulatory coercion. <strong>The voluntary structure respects property rights and avoids the takings issues that plague mandatory wetland preservation mandates.</strong> However, committee review has not yet produced cost estimates, implementation timelines, or performance metrics that would allow assessment of taxpayer value. The approach aligns with successful Conservation Reserve Program models that have proven more cost-effective than enforcement-heavy alternatives. Without CBO scoring or program specifications, fiscal responsibility remains uncertain. The bill follows standard legislative procedure through proper committee referral.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "House Committee on Natural Resources referral",
+      "USDA Conservation Reserve Program data"
+    ]
+  },
+  {
     "id": 1675,
     "sourceId": "cg:117-HR-5409",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/5409?format=json",
@@ -157,6 +523,86 @@
       "S. 2893, 117th Congress",
       "Senate Committee on Energy and Natural Resources records",
       "Congressional Record, Sep 2021"
+    ]
+  },
+  {
+    "id": 1700,
+    "sourceId": "cg:119-HR-10827",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10827?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 10827: Protection of Syrian Religious and Ethnic Minorities Act",
+    "score": -8,
+    "snapshot": "HR 10827 proposes measures to protect Syrian religious and ethnic minorities through potential sanctions, refugee provisions, and financial oversight. As of October 2026, the bill remains in committee review across Foreign Affairs, Judiciary, and Financial Services with no floor action or cost estimates available.",
+    "verdict": "// VERDICT: Lacks sufficient specificity and enforcement mechanisms to demonstrate measurable protective impact while imposing undefined administrative and diplomatic costs.",
+    "detail": "The bill's stated objective of protecting vulnerable populations is laudable, but without committee markup or CBO scoring, its fiscal impact remains unknown. <strong>The multi-committee referral suggests broad scope—spanning sanctions authority, immigration provisions, and financial controls—yet none of these mechanisms guarantee on-the-ground protection for minorities in an active conflict zone.</strong> Previous sanctions regimes on Syria have shown limited humanitarian effectiveness while imposing compliance costs on financial institutions. The bill earns modest points for addressing a genuine humanitarian concern through legal channels, but loses ground on fiscal responsibility (no cost estimate), measurable outcomes (protection mechanisms unspecified), and potential burden-shifting to agencies already stretched thin on Middle East policy. Without concrete refugee admission numbers, funding appropriations, or enforcement metrics, this remains largely aspirational legislation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "Committee Referral Records, 119th Congress",
+      "Syria Sanctions Program (OFAC ongoing)",
+      "State Dept. Country Reports on Human Rights"
+    ]
+  },
+  {
+    "id": 1701,
+    "sourceId": "cg:119-HR-10816",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10816?format=json",
+    "branch": "Congress",
+    "date": "Oct 20",
+    "dateISO": "2026-10-20",
+    "title": "HR 10816: DORIE Act of 2026",
+    "score": -28,
+    "snapshot": "HR 10816, the DORIE Act of 2026, was referred to the House Armed Services Committee on October 15, 2026. Without legislative text or summary, evaluation is limited to procedural status.",
+    "verdict": "// VERDICT: Insufficient information exists to assess this bill's substantive impact on Americans, as no text, summary, or cost estimates are publicly available.",
+    "detail": "This legislation remains in initial committee referral with no published bill text, CBO score, or official summary available for analysis. <strong>The absence of substantive details prevents assessment of public benefit, fiscal implications, constitutional compliance, or distributional effects.</strong> While referral to Armed Services suggests defense-related content, speculation about military spending, procurement, or personnel matters would be unfounded. The procedural step of committee referral follows standard legislative process, but without knowing whether this bill addresses legitimate defense needs, creates unfunded mandates, or shifts costs inappropriately, no meaningful scoring is possible. The negative score reflects the reality that Americans cannot evaluate legislation their representatives are considering when basic transparency is absent.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 10816 status",
+      "House Armed Services Committee referral Oct 2026"
     ]
   },
   {
@@ -19754,453 +20200,6 @@
       "Congressional Record, July 2026",
       "House Committee Report, HR 9608",
       "Federal Register, family engagement program regulations"
-    ]
-  },
-  {
-    "id": 1192,
-    "sourceId": "cg:118-HR-8103",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/8103?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 8103: Department of Homeland Security Office for Civil Rights and Civil Liberties Authorization Act",
-    "score": 18,
-    "snapshot": "HR 8103 would formally authorize the DHS Office for Civil Rights and Civil Liberties, codifying an office that has operated since 2003. The bill establishes statutory authority, reporting requirements, and oversight mechanisms for civil rights protections within homeland security operations.",
-    "verdict": "// VERDICT: Codifying an existing civil rights oversight office provides institutional stability and accountability mechanisms at minimal fiscal cost, though measurable impact depends on enforcement resources and political will.",
-    "detail": "The Department of Homeland Security has operated a civil rights office for over two decades without formal statutory authorization. <strong>This bill converts administrative practice into law, creating enforceable standards for civil rights oversight within an agency with broad authority over immigration, border security, and disaster response.</strong> The authorization establishes reporting requirements to Congress and formalizes investigative powers, potentially strengthening accountability for civil liberties violations in TSA screenings, ICE detention, and CBP operations. Fiscal impact appears minimal since the office already exists; the bill primarily changes legal status rather than appropriations. However, the bill's real-world impact depends entirely on budget allocations and whether the office receives sufficient staffing to investigate complaints effectively. Without enforcement teeth or dedicated funding guarantees, statutory authorization alone may prove symbolic.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8103, 118th Congress",
-      "DHS Office for Civil Rights and Civil Liberties operational history",
-      "Congressional Record, April 2024",
-      "Federal Register authority documentation"
-    ]
-  },
-  {
-    "id": 1193,
-    "sourceId": "cg:118-S-4324",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4324?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "S 4324: Jobs, Not Waste Act of 2024",
-    "score": -18,
-    "snapshot": "S 4324 proposed eliminating EPA's methane emissions charge on oil/gas operations, repealing a fee estimated to generate $1.2B over 10 years while reducing methane emissions. Bill stalled in committee in 2024, never advanced.",
-    "verdict": "// VERDICT: Repealing a revenue-generating emissions reduction mechanism without alternative methane controls or offsetting revenue sacrifices both environmental and fiscal benefits.",
-    "detail": "The Jobs, Not Waste Act sought to eliminate the methane emissions charge established under the Inflation Reduction Act, which imposes fees on excess methane emissions from petroleum and natural gas facilities. <strong>While proponents framed this as job protection, the targeted charge applied only to largest emitters exceeding EPA thresholds and included exemptions for smaller operations.</strong> The EPA's methane rule was projected to prevent 58 million tons of methane emissions through 2038 while generating modest revenue. Repealing this mechanism removes both the pollution reduction incentive and the revenue stream, with no replacement framework provided. The bill died in committee without hearings, suggesting limited legislative support even within the 118th Congress. No fiscal offset was proposed for the revenue loss, and environmental costs from increased methane emissions (a greenhouse gas 80x more potent than CO2 over 20 years) were not addressed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4324, 118th Congress",
-      "EPA Methane Emissions Reduction Program",
-      "Congressional Budget Office IRA estimates",
-      "Senate Environment and Public Works Committee records"
-    ]
-  },
-  {
-    "id": 1194,
-    "sourceId": "cg:118-HR-10292",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/10292?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 10292: Whale CHARTS Act of 2024",
-    "score": -18,
-    "snapshot": "HR 10292 requires comprehensive data collection on whale strikes by offshore wind construction vessels but contains no appropriations for implementation. Referred to committee December 2024, no further action as of September 2026.",
-    "verdict": "// VERDICT: Creates unfunded environmental monitoring mandate without demonstrable impact on whale protection or evidence that existing Coast Guard and NOAA protocols are insufficient.",
-    "detail": "The Whale CHARTS Act mandates vessel operators report whale strikes during offshore wind construction, theoretically improving marine mammal protection data. However, the bill provides zero funding for NOAA enforcement, data analysis, or compliance verification. <strong>Existing Marine Mammal Protection Act protocols already require strike reporting, making this largely duplicative regulation.</strong> The 22-month legislative stall suggests low priority even among supporters. Without appropriations or penalties for non-compliance, the bill creates paperwork obligations unlikely to change operator behavior or produce actionable conservation outcomes. Environmental benefits remain speculative while imposing costs on an emerging renewable energy sector already subject to extensive federal permitting.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 10292",
-      "Marine Mammal Protection Act (16 USC 1361)",
-      "House Committee on Natural Resources referral, Dec 2024"
-    ]
-  },
-  {
-    "id": 1195,
-    "sourceId": "cg:118-HR-10447",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/10447?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 10447: CCP Fentanyl Sanctions Act",
-    "score": -8,
-    "snapshot": "HR 10447 authorizes sanctions against Chinese entities involved in fentanyl precursor production and trafficking. Referred to multiple committees in December 2024; no further congressional action as of September 2026.",
-    "verdict": "// VERDICT: Bill stalled in committee for 21 months with no floor vote, CBO score, or implementation despite bipartisan fentanyl crisis urgency.",
-    "detail": "The CCP Fentanyl Sanctions Act targets a documented public health crisis—over 70,000 annual U.S. fentanyl deaths with Chinese precursor chemicals as a known supply chain component. <strong>However, the bill has languished in four separate House committees since December 2024 without advancing to a floor vote, hearings, or cost analysis.</strong> While sanctions authority could theoretically disrupt fentanyl supply chains, the complete lack of legislative progress renders actual public benefit zero. The multi-committee referral process, though procedurally proper, has produced paralysis rather than action. Without markup, amendment, or vote, the measure represents congressional inertia on a crisis killing Americans daily. Fiscal impact remains unassessed due to lack of CBO engagement, though sanction enforcement typically requires modest Treasury/State Department resources.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Dec 2024",
-      "CDC Provisional Drug Overdose Data",
-      "House Committee Referral Records"
-    ]
-  },
-  {
-    "id": 1196,
-    "sourceId": "cg:118-HR-10527",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/10527?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 10527: SPF Act",
-    "score": -8,
-    "snapshot": "HR 10527, the 'SPF Act,' was referred to the House Committee on Natural Resources in December 2024 and saw no further legislative action through September 2026. Without passage, enactment, or documented content, the bill produced no measurable policy change.",
-    "verdict": "// VERDICT: A bill that never advanced beyond committee referral generates zero public benefit, incurs minimal cost, follows standard legislative process, and affects no one.",
-    "detail": "The SPF Act represents legislative inertia rather than action. Referred to committee in late 2024, it remained dormant for nearly two years without hearings, markup, or floor consideration. <strong>Without knowing the bill's substantive provisions or seeing any movement toward enactment, there is no public benefit to measure, no fiscal impact to assess, and no policy change to evaluate.</strong> The referral itself followed normal House procedures, so rule of law concerns are minimal. The slight negative score reflects opportunity cost: committee time and legislative numbering consumed by a proposal that generated no outcomes. Congressional bills that die in committee are common, but they represent failed attempts at governance rather than governance itself. In the absence of text, sponsors, or supporting documentation in the provided materials, this scores as legislative nullity.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 10527 status",
-      "House Committee on Natural Resources records 2024-2026",
-      "Congressional Record, 118th Congress"
-    ]
-  },
-  {
-    "id": 1197,
-    "sourceId": "cg:118-HR-9151",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/9151?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 9151: Protecting American Industry and Labor from International Trade Crimes Act of 2024",
-    "score": -18,
-    "snapshot": "HR 9151 creates new criminal penalties for intellectual property theft and trade secret violations involving foreign actors, with enhanced sentences for state-sponsored crimes. The bill passed the House in December 2024 and awaits Senate action.",
-    "verdict": "// VERDICT: Creates criminal enforcement mechanisms for trade-related IP theft but lacks economic impact analysis and raises concerns about prosecutorial discretion and international relations complications.",
-    "detail": "The legislation addresses a legitimate problem—foreign IP theft costs U.S. industries an estimated $225-600 billion annually according to IP Commission estimates. However, the bill creates overlapping criminal statutes without clear fiscal analysis of enforcement costs or demonstrated gaps in existing law (Economic Espionage Act of 1996, Defend Trade Secrets Act). <strong>The absence of cost-benefit analysis for new prosecutorial infrastructure and potential diplomatic fallout with trading partners undermines fiscal responsibility.</strong> Enhanced penalties may deter some actors but criminal enforcement alone rarely recovers economic losses or prevents state-sponsored operations. The bill follows proper legislative process but concentrates enforcement costs on DOJ/FBI without dedicated funding, while benefits accrue primarily to large corporations with valuable IP rather than workers or small businesses facing unfair competition.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9151, 118th Congress",
-      "Congressional Record, Dec 2024",
-      "IP Commission Report on Trade Secret Theft",
-      "Economic Espionage Act, 18 USC §1831"
-    ]
-  },
-  {
-    "id": 1200,
-    "sourceId": "cg:118-HR-6156",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/6156?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 6156: Child Care Small Business Insight and Improvement Act of 2023",
-    "score": -8,
-    "snapshot": "HR 6156 requires the IRS to study employer-provided child care tax credits and report findings to Congress. The bill passed the House but stalled in committee with no Senate action or implementation as of September 2026.",
-    "verdict": "// VERDICT: A study requirement that consumed legislative resources without producing actionable policy changes or measurable benefits to families needing child care support.",
-    "detail": "This legislation mandates an IRS analysis of employer-provided child care tax credit utilization, aiming to identify barriers preventing small businesses from offering such benefits. While information-gathering has theoretical value, <strong>the bill produced no concrete improvements to child care access or affordability for American families</strong>. The measure followed proper legislative procedure through House passage and committee placement, but its failure to advance to enactment means taxpayer dollars funded drafting, debate, and calendaring without yielding policy outcomes. Studies are lowest-value legislative outputs when unaccompanied by implementation mechanisms. The narrow focus on tax credit mechanics rather than direct child care subsidies or supply expansion limits potential impact even if eventually enacted. No appropriations were attached, but staff time and opportunity costs remain real expenditures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6156 status",
-      "House Union Calendar No. 312",
-      "Congressional Record, 118th Congress"
-    ]
-  },
-  {
-    "id": 1201,
-    "sourceId": "cg:119-HR-8742",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8742?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 8742: Respect Tribal IDs Act",
-    "score": 38,
-    "snapshot": "HR 8742 would require federal agencies to accept tribal identification cards as valid proof of identity, addressing longstanding access barriers for Native Americans to federal services and facilities. The bill standardizes recognition of tribal IDs across all federal departments.",
-    "verdict": "// VERDICT: Removes documented barriers to federal services for approximately 5.2 million tribal citizens at negligible cost while codifying existing executive guidance into law.",
-    "detail": "Native Americans have faced persistent difficulties accessing federal buildings, TSA checkpoints, and services due to inconsistent acceptance of tribal IDs, despite many tribes issuing REAL ID-compliant documents. <strong>This bill eliminates an administrative barrier that disproportionately affects rural tribal members who may live hours from DMV offices and lack state-issued identification.</strong> The fiscal impact is minimal—primarily updating training materials and agency guidance—while removing obstacles to veterans' benefits, Social Security offices, and other federal services. The measure follows constitutional process through standard committee referral and addresses a gap where executive orders have proven insufficient. By requiring uniform acceptance standards, it prevents cost-shifting to tribal governments that have already invested in secure ID systems meeting federal standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, House, May 2026",
-      "GAO Report 19-633: Tribal Access to Federal Services",
-      "DHS Tribal Consultation Records",
-      "Bureau of Indian Affairs Population Data"
-    ]
-  },
-  {
-    "id": 1213,
-    "sourceId": "cg:119-HR-8934",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8934?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "HR 8934: CARE for RPA Crews Act",
-    "score": 18,
-    "snapshot": "HR 8934 directs the Department of Defense to study mental health support for remotely piloted aircraft (drone) operators, who experience unique operational stress despite operating from stateside bases. No appropriations attached; study mandate only.",
-    "verdict": "// VERDICT: Targets documented occupational health gap in emerging military specialization at minimal cost, though impact depends on DOD implementation of findings.",
-    "detail": "Remote aircraft crews operate weapons systems in combat zones while physically located thousands of miles away, creating psychological stressors distinct from traditional combat or garrison duty—including moral injury from direct observation of strike effects and rapid shift between combat operations and domestic life. <strong>Studies indicate RPA operators experience PTSD and burnout rates comparable to deployed personnel, yet existing support frameworks poorly address their hybrid operational reality.</strong> The bill requires DOD assessment of current mental health resources, identification of gaps, and recommendations within 18 months. As a study mandate with no new programs or appropriations, fiscal impact is negligible (likely under $500K for contract analysis). Legislative process follows standard committee referral. Primary limitation: study recommendations carry no implementation requirement, and DOD has inconsistent record translating assessments into substantive policy changes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, H.R. 8934 (119th Congress)",
-      "Armed Services Committee referral records",
-      "Military Medicine journal studies on RPA operator mental health",
-      "DOD Personnel & Readiness reports"
-    ]
-  },
-  {
-    "id": 1216,
-    "sourceId": "cg:119-S-90",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/90?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 90: Historic Roadways Protection Act",
-    "score": -18,
-    "snapshot": "S 90 would designate certain historic roads as protected corridors, limiting federal land use changes within buffer zones. The bill creates new regulatory constraints on energy development and infrastructure projects near approximately 47,000 miles of historic routes.",
-    "verdict": "// VERDICT: Creates preservation mandates that impose regulatory costs and restrict economic development without documented demand or measurable preservation crisis requiring federal intervention.",
-    "detail": "The Historic Roadways Protection Act establishes federal protection for roads deemed historically significant, creating buffer zones that restrict energy exploration, mineral extraction, and infrastructure modernization. <strong>While historic preservation has cultural value, the bill provides no cost-benefit analysis, impact assessment on energy independence, or evidence that existing state and local preservation mechanisms are inadequate.</strong> The Energy and Natural Resources Committee amendment suggests concerns about initial scope. The measure imposes compliance costs on federal agencies and private operators without quantifying benefits or establishing sunset provisions. No fiscal note accompanies the action, and the broad designation criteria could exponentially expand protected areas beyond routes with genuine national significance, effectively creating land-use controls through preservation designation rather than transparent regulatory process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 90, 119th Congress",
-      "Senate Energy and Natural Resources Committee Report, Feb 2026",
-      "Federal Land Policy and Management Act",
-      "National Historic Preservation Act"
-    ]
-  },
-  {
-    "id": 1209,
-    "sourceId": "cg:119-S-91",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/91?format=json",
-    "branch": "Congress",
-    "date": "Sep 1",
-    "dateISO": "2026-09-01",
-    "title": "S 91: Western Wildfire Support Act of 2025",
-    "score": 28,
-    "snapshot": "S 91 authorizes $450M annually (FY2026-2030) for wildfire prevention, early detection systems, and regional coordination among federal/state/tribal agencies in 11 Western states. Creates grants for fuel reduction, prescribed burns, and community defensible space programs.",
-    "verdict": "// VERDICT: Addresses documented wildfire escalation with targeted prevention funding and evidence-based mitigation strategies, though long-term fiscal sustainability depends on measurable reduction in suppression costs.",
-    "detail": "Western wildfire suppression costs have exceeded $2 billion annually in recent years, with climate trends indicating continued escalation. <strong>This bill shifts resources toward prevention—fuel management, early detection technology, and coordinated prescribed burns—which GAO and Forest Service studies show can reduce suppression costs by 4-7x per dollar invested.</strong> The $2.25B five-year authorization represents approximately 18% of recent suppression spending, creating fiscal leverage if prevention targets are met. The bill includes state/tribal cost-sharing requirements and performance metrics for fuel reduction acreage. Constitutional process followed through committee markup. Primary beneficiaries are Western states facing immediate fire risk, though reduced suppression costs and avoided property losses benefit federal taxpayers. Minor concerns include lack of dedicated offset and potential for state cost-sharing requirements to burden smaller jurisdictions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Committee on Energy and Natural Resources Report, Feb 2026",
-      "GAO Report on Wildfire Management Economics",
-      "Congressional Budget Office Preliminary Score",
-      "S 91 Bill Text, 119th Congress"
     ]
   }
 ]
