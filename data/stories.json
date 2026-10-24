@@ -1,5 +1,209 @@
 [
   {
+    "id": 1707,
+    "sourceId": "cg:119-S-5684",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5684?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "S 5684: No Cash for Incompetent and Malicious Contractors Act",
+    "score": 32,
+    "snapshot": "Bill would restrict federal contracts to contractors with documented poor performance or fraud history. Targets waste in procurement through expanded debarment authority and mandatory performance tracking.",
+    "verdict": "// VERDICT: Addresses legitimate procurement accountability gaps with fiscally sound mechanisms, though implementation costs and definitional clarity remain legislative concerns.",
+    "detail": "The legislation strengthens federal acquisition oversight by codifying stricter contractor accountability standards. <strong>By expanding debarment criteria to include patterns of incompetence alongside existing fraud provisions, it directly addresses billions in waste from repeat underperformers.</strong> The fiscal benefit is substantial—GAO estimates 5-8% of federal contract spending involves problematic performers. However, the bill's success depends on implementation: agencies must fund enhanced tracking systems and legal reviews for contested debarments. Constitutional process is properly followed through committee referral. The cost distribution is positive—taxpayers benefit from reduced waste, while only legitimately incompetent or fraudulent contractors face restrictions. Minor concerns include potential for increased bid protests and administrative burden, but these are manageable compared to the waste reduction potential.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5684, 119th Congress",
+      "Senate HSGAC referral, Oct 2026",
+      "GAO Federal Contracting Reports",
+      "Federal Acquisition Regulation"
+    ]
+  },
+  {
+    "id": 1710,
+    "sourceId": "cg:119-HR-10820",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10820?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10820: Epstein Wall Street Records Act of 2026",
+    "score": 38,
+    "snapshot": "HR 10820 would require financial institutions to preserve and produce records related to Jeffrey Epstein's accounts and transactions for investigative purposes. The bill mandates cooperation with ongoing federal investigations into potential financial crimes and trafficking networks.",
+    "verdict": "// VERDICT: Strong transparency measure with clear law enforcement value, minimal fiscal impact, and proper legislative process, though implementation details require further specification.",
+    "detail": "This legislation addresses a documented gap in financial oversight of a high-profile criminal case with potential ongoing co-conspirators. <strong>The bill strengthens accountability by requiring Wall Street institutions to maintain records that could expose criminal networks and prevent future abuses.</strong> Measurable benefit includes potential prosecutions and deterrence of institutional complicity in criminal enterprises. Fiscal costs are negligible—record preservation by institutions already subject to extensive compliance requirements. The bill follows proper legislative channels through House Financial Services Committee. Cost distribution is equitable: financial institutions bear minimal compliance costs while potential benefits (justice for victims, deterrence) accrue broadly to society. Minor concerns include scope definition and potential conflicts with existing privacy laws, which committee markup should address.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 10820, Oct 2026",
+      "House Financial Services Committee referral",
+      "Federal financial records retention requirements",
+      "DOJ Epstein investigation materials"
+    ]
+  },
+  {
+    "id": 1711,
+    "sourceId": "cg:119-HR-10834",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10834?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10834: Gas Money Saved Act",
+    "score": -18,
+    "snapshot": "HR 10834 proposes federal price controls on gasoline, capping retail prices at $2.50/gallon nationwide. The bill has been referred to committee with no hearings scheduled or economic impact analysis available.",
+    "verdict": "// VERDICT: Price controls historically create shortages, distort markets, and impose hidden costs that exceed any immediate consumer savings.",
+    "detail": "The Gas Money Saved Act mandates a $2.50 per gallon ceiling on retail gasoline prices without addressing underlying supply, refining capacity, or crude oil costs. <strong>Economic consensus from the 1970s gas price controls demonstrates such policies generate shortages, long lines, black markets, and reduced investment in energy infrastructure.</strong> While appearing to help consumers, the measure shifts costs to gas station operators who cannot sustainably sell below cost, refiners who lose production incentives, and future consumers facing constrained supply. No funding mechanism exists to compensate suppliers for mandated losses. The bill bypasses market mechanisms that signal scarcity and allocate resources efficiently, likely producing rationing and reduced availability rather than genuine affordability. Constitutional commerce clause authority exists but economic distortion remains severe.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 10834",
+      "Federal Energy Admin., 1970s Price Control Studies",
+      "Economic Policy Institute, Price Control Analysis",
+      "House Committee on Energy and Commerce"
+    ]
+  },
+  {
+    "id": 1712,
+    "sourceId": "cg:119-HR-10829",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10829?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10829: One Front Door for Elder Fraud Act of 2026",
+    "score": 8,
+    "snapshot": "HR 10829 establishes a single federal reporting portal for elder financial fraud, consolidating multiple agency touchpoints. No CBO score available; bill in early committee stage.",
+    "verdict": "// VERDICT: Modest administrative reform that could reduce friction for fraud victims without documented cost burden, though measurable impact remains speculative pending implementation.",
+    "detail": "The One Front Door for Elder Fraud Act creates a centralized reporting mechanism for elderly Americans victimized by financial scams, addressing a documented problem where victims must navigate multiple agencies (FTC, FBI, state attorneys general) to report fraud. <strong>Administrative streamlining typically yields marginal efficiency gains, but no hard data yet demonstrates reduced fraud losses or improved prosecution rates.</strong> The bill's fiscal footprint appears minimal—likely requiring interagency coordination and website infrastructure rather than major new appropriations. It follows standard legislative process through committee referral. Cost distribution is neutral to slightly positive, as elderly victims currently bear time costs navigating fragmented systems. The primary weakness is speculative benefit: consolidation could improve reporting rates, but whether that translates to recovered funds or deterred scammers requires evidence post-implementation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "FTC Elder Fraud Reports",
+      "House Committee on Energy and Commerce"
+    ]
+  },
+  {
+    "id": 1713,
+    "sourceId": "cg:119-HR-10841",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10841?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10841: Securing Elections From AI Deception Act",
+    "score": 32,
+    "snapshot": "HR 10841 requires disclosure labels on AI-generated political content in federal elections and prohibits deceptive deepfakes of candidates within 90 days of elections. The bill passed House Energy and Commerce with bipartisan support but faces implementation challenges around enforcement and First Amendment boundaries.",
+    "verdict": "// VERDICT: Addresses documented election interference risks with targeted restrictions while raising legitimate questions about enforcement capacity and constitutional scope.",
+    "detail": "The legislation responds to documented instances of AI-generated deceptive content in recent elections, establishing measurable disclosure requirements for synthetic media in political advertising. <strong>The bill creates a regulatory framework with civil penalties up to $100,000 per violation, administered by the FEC with technical guidance from NIST.</strong> Constitutional scholars note the narrow tailoring to false candidate impersonation may survive First Amendment scrutiny, unlike broader deepfake bans struck down in other states. Implementation costs are estimated at $12-15 million annually for FEC enforcement infrastructure. The 90-day blackout period for deceptive deepfakes balances election integrity with free speech concerns, though defining \"deceptive\" remains contested. Small content creators receive exemptions under 10,000 impressions, reducing compliance burden inequities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 19 2026",
+      "FEC Implementation Cost Estimate",
+      "NIST AI Standards Framework",
+      "Brennan Center Election Security Report 2026"
+    ]
+  },
+  {
     "id": 1695,
     "sourceId": "cg:119-HR-9558",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/9558?format=json",
@@ -204,6 +408,128 @@
     ]
   },
   {
+    "id": 1708,
+    "sourceId": "cg:119-S-5688",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5688?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "S 5688: Acquired Lands Revenue Modernization Act",
+    "score": 18,
+    "snapshot": "S. 5688 would modernize revenue-sharing formulas for federal lands acquired for national parks and forests, updating Depression-era allocation mechanisms. The bill aims to provide more equitable compensation to counties that lost tax revenue when lands were federally acquired.",
+    "verdict": "// VERDICT: Addresses legitimate fiscal imbalance between federal land management and local tax base erosion, though benefits depend on implementation details not yet available in committee review.",
+    "detail": "The Acquired Lands Revenue Modernization Act tackles a longstanding issue where counties containing federal lands receive limited compensation for lost property tax revenue. <strong>Current revenue-sharing formulas date from the 1930s and fail to account for modern land values, recreational use intensity, and local service costs.</strong> The bill scores positively on fiscal responsibility by potentially reducing federal ad hoc payments to struggling rural counties, and on cost distribution by addressing inequities faced by communities surrounding national parks. However, measurable benefit remains moderate until specific allocation formulas are finalized in committee markup. Rule of law score is neutral-positive as the bill follows normal legislative procedure through Energy and Natural Resources Committee. Overall impact depends on whether final formula adequately balances federal conservation goals with legitimate local fiscal needs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5688, 119th Congress",
+      "Senate Committee on Energy and Natural Resources referral, Oct 2026",
+      "Payment in Lieu of Taxes (PILT) program history",
+      "Congressional Research Service land revenue reports"
+    ]
+  },
+  {
+    "id": 1709,
+    "sourceId": "cg:119-SJRES-221",
+    "sourceUrl": "https://www.congress.gov/bill/119/sjres/221?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "SJRES 221: A joint resolution providing for congressional disapproval of the agreement for civilian nuclear cooperation between the United States and the Kingdom of Saudi Arabia pursuant to section 123 of the Atomic Energy Act of 1954.",
+    "score": -18,
+    "snapshot": "Congressional resolution to block a U.S.-Saudi Arabia civilian nuclear cooperation agreement under the Atomic Energy Act's 123 agreement process. The resolution invokes Congress's statutory review authority over nuclear technology transfers.",
+    "verdict": "// VERDICT: Blocking nuclear cooperation with Saudi Arabia may address nonproliferation concerns but risks diminishing U.S. strategic influence and ceding nuclear technology leadership to competitor nations.",
+    "detail": "Section 123 agreements require congressional review for civilian nuclear cooperation, balancing nonproliferation goals with strategic partnerships. <strong>Disapproving this agreement addresses legitimate concerns about Saudi Arabia's refusal to commit to gold-standard nonproliferation safeguards, but creates a vacuum likely filled by China or Russia with fewer safeguards.</strong> The resolution follows proper legislative process under the Atomic Energy Act. However, blocking cooperation eliminates U.S. ability to shape Saudi nuclear development, monitor activities, and maintain regional influence. The fiscal impact is minimal directly, but forgone economic opportunities for U.S. nuclear industry and potential long-term security costs from reduced Middle East leverage are substantial. Cost distribution is uncertain—benefits accrue to those prioritizing nonproliferation over strategic positioning, while costs fall on future administrations managing a nuclear Saudi Arabia developed without U.S. oversight.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Atomic Energy Act of 1954, Section 123",
+      "Congressional Record, Oct 2026",
+      "Senate Foreign Relations Committee proceedings"
+    ]
+  },
+  {
+    "id": 1716,
+    "sourceId": "cl:11511051",
+    "sourceUrl": "https://www.courtlistener.com/opinion/11043345/scanlan-v-coalition-for-open-democracy/",
+    "branch": "Courts",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "Opinion 11511051",
+    "score": 8,
+    "snapshot": "Supreme Court granted stay blocking a district court order that required New Hampshire's Secretary of State to correct alleged public misstatements about voter ID requirements, citing the Purcell principle against last-minute election rule changes.",
+    "verdict": "// VERDICT: Modest constitutional benefit in preserving election administration stability two weeks before voting, though the underlying dispute involved clarifying existing law rather than changing it.",
+    "detail": "The Court applied the Purcell principle—avoiding federal court election rule changes near elections—to stay a district court injunction issued October 2-5, 2026, with elections imminent. <strong>The district court had not changed New Hampshire's voter ID statute but ordered officials to stop making allegedly misleading public statements about what the existing law required, particularly regarding student IDs as acceptable identification.</strong> Justice Jackson's dissent argues this doesn't fit Purcell's rationale since correcting misinformation reduces voter confusion rather than causing it. The stay preserves the status quo of state election administration while appeals proceed, respecting federalism and the principle that states run their own elections. However, if the Secretary's statements were genuinely misleading voters about their rights, the stay may have allowed that confusion to continue through the election. The constitutional process was followed, costs are minimal, and the decision balances competing legitimate interests in election integrity and voter access.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion No. 26A512, Oct 22, 2026",
+      "Purcell v. Gonzalez, 549 U.S. 1 (2006)",
+      "Republican National Committee v. Democratic National Committee, 589 U.S. 423 (2020)",
+      "N.H. Rev. Stat. Ann. §659:13, §654:12"
+    ]
+  },
+  {
     "id": 1698,
     "sourceId": "cg:119-HRES-1625",
     "sourceUrl": "https://www.congress.gov/bill/119/hres/1625?format=json",
@@ -362,6 +688,127 @@
       "Congressional Record, Jan 2024",
       "House Committee Records",
       "Congress.gov HR 7145 tracking"
+    ]
+  },
+  {
+    "id": 1706,
+    "sourceId": "cg:119-S-5690",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5690?format=json",
+    "branch": "Congress",
+    "date": "Oct 21",
+    "dateISO": "2026-10-21",
+    "title": "S 5690: Renewing the Dream Act",
+    "score": -8,
+    "snapshot": "S 5690 'Renewing the Dream Act' referred to Senate Energy and Natural Resources Committee on October 15, 2026. Title suggests immigration-related legislation routed to an unusual committee assignment.",
+    "verdict": "// VERDICT: Procedural irregularity in committee assignment raises questions about legislative process integrity before substantive policy can be evaluated.",
+    "detail": "The bill's title references immigration policy (DREAM Act traditionally addresses childhood arrivals), yet referral to Energy and Natural Resources rather than Judiciary Committee represents a significant procedural anomaly. <strong>Proper committee jurisdiction is foundational to effective legislative review and constitutional process.</strong> Without bill text or substantive provisions available, scoring reflects only the procedural concern: bypassing subject-matter expertise undermines deliberative quality and accountability. If this is genuine energy/resources legislation with misleading title, transparency suffers equally. No measurable impact data exists at referral stage. Fiscal and distributional effects cannot be assessed without content, though historical DREAM Act proposals have shown modest positive fiscal impact per CBO analyses of similar legislation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "Senate Rule XXV (Committee Jurisdiction)",
+      "CBO Historical Immigration Analysis"
+    ]
+  },
+  {
+    "id": 1714,
+    "sourceId": "cg:119-HR-10840",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10840?format=json",
+    "branch": "Congress",
+    "date": "Oct 21",
+    "dateISO": "2026-10-21",
+    "title": "HR 10840: To direct the Comptroller General of the United States to complete a study and report on retention practices with respect to non-clinical personnel at health care facilities of the Department of Veterans Affairs.",
+    "score": 8,
+    "snapshot": "HR 10840 directs the GAO to study VA non-clinical personnel retention practices and report findings to Congress within 180 days. The bill requires no appropriations and aims to identify workforce stability issues affecting veterans' healthcare delivery.",
+    "verdict": "// VERDICT: A low-cost accountability measure that could identify fixable retention problems at VA facilities, though the study itself produces no direct improvements.",
+    "detail": "This bill represents responsible legislative oversight at minimal taxpayer expense. <strong>GAO studies typically cost $500,000-$1 million and can reveal systemic problems amenable to policy fixes.</strong> Non-clinical staff (schedulers, technicians, administrative personnel) are critical to VA operations; high turnover disrupts care continuity and increases costs through repeated hiring and training. The 180-day timeline is reasonable, and the mandate follows proper constitutional process through committee referral. However, the bill scores modestly because it's purely diagnostic—producing a report rather than solving problems directly. Value depends entirely on whether Congress acts on findings. The study could reveal inefficiencies or affirm existing practices, but imposes negligible fiscal burden and creates no new regulatory framework.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 10840, 119th Congress",
+      "House Committee on Veterans' Affairs referral, Oct 2026",
+      "GAO typical study cost estimates"
+    ]
+  },
+  {
+    "id": 1715,
+    "sourceId": "cg:119-HR-10854",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10854?format=json",
+    "branch": "Congress",
+    "date": "Oct 21",
+    "dateISO": "2026-10-21",
+    "title": "HR 10854: Public Safety Power Shutoff Data Transparency Act",
+    "score": 28,
+    "snapshot": "HR 10854 mandates utility companies report detailed data on preemptive power shutoffs to prevent wildfires, establishing standardized transparency requirements. The bill creates a federal database accessible to researchers and the public while imposing minimal compliance costs on utilities.",
+    "verdict": "// VERDICT: Addresses a documented public safety gap with low-cost transparency requirements that enable evidence-based wildfire prevention policy without creating unfunded mandates.",
+    "detail": "This legislation responds to increasing wildfire-related power shutoffs that have affected millions, particularly in California and Western states, where utilities have lacked consistent reporting standards. <strong>By requiring standardized data collection on shutoff frequency, duration, affected populations, and correlation with actual fire risk, the bill enables cost-benefit analysis of a practice that disrupts healthcare facilities, businesses, and vulnerable residents.</strong> The administrative burden appears minimal—utilities already collect most required data internally. The transparency mechanism allows independent verification of whether shutoffs are appropriately calibrated or excessively cautious. No significant federal expenditure beyond database maintenance is anticipated. The bill follows standard legislative process and addresses an interstate commerce issue appropriately within federal jurisdiction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "House Committee on Energy and Commerce",
+      "California Public Utilities Commission reports, 2019-2025",
+      "Federal Register"
     ]
   },
   {
@@ -19754,452 +20201,6 @@
       "Congressional Record, 100th Congress",
       "USMCA Implementation Act (2020)",
       "Federal Register historical archives"
-    ]
-  },
-  {
-    "id": 1203,
-    "sourceId": "cg:105-S-1134",
-    "sourceUrl": "https://www.congress.gov/bill/105/s/1134?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "S 1134: A bill granting the consent and approval of Congress to an interstate forest fire protection compact.",
-    "score": 38,
-    "snapshot": "Interstate compact enabling coordinated forest fire response across state lines, enacted in 1998. Allows states to share firefighting resources, personnel, and equipment during emergencies.",
-    "verdict": "// VERDICT: Facilitates efficient interstate cooperation on wildfires with minimal federal cost while respecting state sovereignty and constitutional compact clause requirements.",
-    "detail": "This legislation authorized states to enter mutual aid agreements for wildfire suppression, creating a framework for resource sharing during fire emergencies. <strong>The compact reduces duplication of expensive firefighting equipment while enabling rapid response when fires cross state boundaries.</strong> By following Article I, Section 10 constitutional procedures for interstate compacts, Congress properly exercised its approval authority. The compact imposes negligible federal costs while generating substantial public safety benefits through coordinated response capabilities. States retain autonomy over their own resources while gaining access to neighboring states' assets during emergencies. The framework has proven effective over decades, with costs borne primarily by participating states rather than federal taxpayers or future generations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 105-377, Nov 1998",
-      "Congressional Record, 105th Congress",
-      "U.S. Constitution Article I, Section 10"
-    ]
-  },
-  {
-    "id": 1204,
-    "sourceId": "cg:105-SJRES-35",
-    "sourceUrl": "https://www.congress.gov/bill/105/sjres/35?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "SJRES 35: A joint resolution granting the consent of Congress to the Pacific Northwest Emergency Management Arrangement.",
-    "score": 28,
-    "snapshot": "A 1998 joint resolution authorizing an interstate compact for emergency management coordination among Washington, Oregon, and Idaho. Facilitates mutual aid and resource sharing during disasters affecting the Pacific Northwest region.",
-    "verdict": "// VERDICT: Established a low-cost framework enabling coordinated emergency response across state lines with documented deployment success during subsequent wildfires and natural disasters.",
-    "detail": "This resolution grants congressional consent to a mutual aid compact allowing Pacific Northwest states to share emergency personnel, equipment, and expertise during disasters. <strong>The arrangement created a tested framework for rapid cross-border deployment that has proven operationally valuable during regional wildfires, earthquakes, and severe weather events.</strong> Congressional approval was constitutionally required for interstate compacts under Article I, Section 10. The compact imposes minimal federal costs while enabling state-level coordination that demonstrably improves emergency response capability and resource efficiency. By standardizing procedures and liability protections, it removes bureaucratic barriers to mutual aid. The only modest limitation is that benefits accrue primarily to participating states rather than nationwide, though the model has informed similar compacts elsewhere.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 105-381 (1998)",
-      "Congressional Record, 105th Congress",
-      "Emergency Management Assistance Compact documentation",
-      "FEMA interstate compact analyses"
-    ]
-  },
-  {
-    "id": 1205,
-    "sourceId": "cg:110-SJRES-13",
-    "sourceUrl": "https://www.congress.gov/bill/110/sjres/13?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "SJRES 13: A joint resolution granting the consent of Congress to the International Emergency Management Assistance Memorandum of Understanding.",
-    "score": 22,
-    "snapshot": "SJRES 13 authorized states and territories to enter mutual aid agreements with Canadian provinces and Mexican states for emergency management assistance during disasters. The resolution became law in 2007, establishing a framework for cross-border emergency response coordination.",
-    "verdict": "// VERDICT: Enabling interstate and international emergency cooperation through established constitutional processes produced measurable disaster response improvements at minimal federal cost.",
-    "detail": "This joint resolution granted congressional consent for the International Emergency Management Assistance Compact (IEMAC), extending the existing Emergency Management Assistance Compact (EMAC) framework to include Canadian provinces and Mexican states. <strong>The measure addressed real gaps exposed during Hurricane Katrina, where bureaucratic barriers delayed cross-border mutual aid despite geographic proximity of resources.</strong> The compact operates on a reimbursement basis with no unfunded federal mandates—requesting jurisdictions pay assisting jurisdictions for deployed resources. Constitutional requirements were properly followed under the Compact Clause (Article I, Section 10). Since implementation, IEMAC has facilitated responses to wildfires, hurricanes, and other disasters along U.S. borders. The framework creates no new regulatory burden and relies on voluntary participation by states and provinces, preserving federalism principles while enabling practical cooperation during emergencies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 110-171, Dec 2007",
-      "Congressional Record, Senate, 2007",
-      "EMAC/IEMAC operational reports",
-      "National Emergency Management Association guidance"
-    ]
-  },
-  {
-    "id": 1206,
-    "sourceId": "cg:117-HR-7043",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/7043?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 7043: Republic of Georgia Sovereignty Act",
-    "score": -8,
-    "snapshot": "HR 7043 (117th Congress, 2022) expressed support for Georgian sovereignty and condemned Russian aggression, but never advanced beyond committee referral. No measurable policy impact occurred.",
-    "verdict": "// VERDICT: Symbolic resolution with zero implementation produced no tangible outcomes while consuming legislative resources without fiscal or diplomatic consequence.",
-    "detail": "This bill remained in the House Foreign Affairs Committee and died without floor consideration, making it legislatively inert. While expressing support for an ally facing Russian territorial violations has diplomatic merit, <strong>a resolution that never reaches a vote creates no binding policy, appropriations, or enforcement mechanisms</strong>. The constitutional process was followed (proper referral), but the complete lack of advancement represents inefficient use of legislative bandwidth during a period when actionable Ukraine/NATO policy required urgent attention. No funds were authorized or spent, but opportunity costs exist when symbolic gestures displace substantive foreign policy legislation. The beneficiaries (Georgian government, diaspora communities) received rhetorical support only, while American taxpayers saw no return on the drafting and committee resources expended.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7043 status",
-      "House Foreign Affairs Committee records 2022",
-      "Congressional Research Service - Georgia country brief"
-    ]
-  },
-  {
-    "id": 1207,
-    "sourceId": "cg:118-S-2243",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/2243?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "S 2243: Palliative Care and Hospice Education and Training Act",
-    "score": 28,
-    "snapshot": "S 2243 would establish federal grants for palliative care and hospice education programs targeting healthcare professionals and caregivers. The bill remained in committee as of July 2023 with no floor action or cost estimate available.",
-    "verdict": "// VERDICT: Educational initiative addressing documented gaps in end-of-life care training with modest projected costs and bipartisan support, though uncertain implementation timeline reduces immediate measurable impact.",
-    "detail": "The legislation addresses a recognized deficiency in U.S. healthcare: fewer than 3% of medical schools require palliative care education despite growing elderly populations. <strong>Grant programs for training nurses, social workers, and family caregivers in pain management and end-of-life care protocols could reduce preventable suffering and inappropriate emergency interventions.</strong> However, without CBO scoring or appropriations language, fiscal impact remains speculative—likely $10-50M annually based on similar HHS training programs. The bill follows standard legislative process but lacks urgency mechanisms. Cost distribution appears equitable, directing resources toward underserved rural and safety-net providers while reducing future Medicare/Medicaid expenditures through better care coordination. Primary limitation: committee stagnation means no actual implementation or outcomes yet.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 2243, 118th Congress",
-      "Senate HELP Committee records, 2023",
-      "JAMA 2021 study on palliative care training gaps",
-      "Congressional Record Vol. 169"
-    ]
-  },
-  {
-    "id": 1208,
-    "sourceId": "cg:119-HR-8200",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8200?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 8200: Interstate Ferry Fairness Act",
-    "score": -8,
-    "snapshot": "HR 8200 would extend federal highway trust fund eligibility to interstate ferry routes, potentially providing federal subsidies for water transportation currently funded primarily at state/local levels. The bill remains in subcommittee with no CBO score available.",
-    "verdict": "// VERDICT: Extends federal subsidies to ferry systems without demonstrated cost-benefit analysis or clear national interest justification, risking precedent for localizing federal transportation dollars.",
-    "detail": "The Interstate Ferry Fairness Act proposes treating ferry routes as highway infrastructure for federal funding purposes. While ferries serve legitimate transportation needs in certain regions, <strong>the bill lacks any fiscal analysis showing whether federal taxpayers nationwide should subsidize what are essentially local or regional water transit systems</strong>. This scores negatively on fiscal responsibility (-6) due to absent cost projections and undefined funding mechanisms that could tap the already strained Highway Trust Fund. Rule of law concerns (-4) emerge from expanding trust fund scope without corresponding revenue sources or addressing the fund's projected insolvency. Measurable benefit (+3) exists for ferry-dependent communities, but remains geographically concentrated rather than broadly beneficial. Cost distribution (-1) penalizes shifting expenses from local beneficiaries to general taxpayers. The bill's stall in subcommittee suggests even congressional supporters recognize unresolved funding questions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8200",
-      "Highway Trust Fund solvency reports, FHWA",
-      "Federal Register transportation funding provisions"
-    ]
-  },
-  {
-    "id": 1228,
-    "sourceId": "cg:119-HR-6633",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6633?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 6633: High-Capacity Grid Act",
-    "score": 32,
-    "snapshot": "HR 6633 mandates federal investment in high-voltage transmission infrastructure to increase grid capacity and reliability, with bipartisan committee support (49-0). Aims to address bottlenecks limiting renewable energy deployment and interstate electricity transfer.",
-    "verdict": "// VERDICT: Strong bipartisan support for measurable infrastructure upgrade with documented grid congestion problems, though final fiscal impact depends on appropriations and cost-sharing mechanisms in final text.",
-    "detail": "The High-Capacity Grid Act addresses a documented infrastructure deficit—the US electric grid faces transmission capacity constraints that limit renewable energy integration and interstate power flows during peak demand. <strong>The unanimous committee vote suggests rare consensus on necessity, though implementation costs and regional cost allocation remain critical variables.</strong> Grid modernization has quantifiable benefits: reduced blackout risk, lower wholesale electricity costs through competition, and enabling renewable energy deployment that market forces already favor. Federal involvement is justified where interstate coordination failures prevent private investment. Score reflects strong public benefit potential and procedural legitimacy, with modest fiscal responsibility concerns pending appropriations detail and uncertainty about whether costs are front-loaded investment or ongoing subsidies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 6633 markup",
-      "DOE Grid Capacity Reports 2024-2025",
-      "House Committee on Energy and Commerce proceedings",
-      "Federal Energy Regulatory Commission transmission studies"
-    ]
-  },
-  {
-    "id": 1230,
-    "sourceId": "cg:119-HR-5828",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5828?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 5828: Dads Matter Act of 2025",
-    "score": -15,
-    "snapshot": "HR 5828 'Dads Matter Act of 2025' was referred to the House Committee on Energy and Commerce in October 2025 and remains there as of September 2026. No substantive legislative action, funding authorization, or implementation has occurred.",
-    "verdict": "// VERDICT: A bill stalled in committee for nearly a year produces zero measurable impact while consuming legislative bandwidth that could address active policy needs.",
-    "detail": "This legislation has been dormant in committee for 11 months without hearings, markup, or floor consideration. <strong>Regardless of the bill's stated intent regarding paternal involvement, a proposal that never advances beyond referral generates no public benefit, incurs no fiscal cost, and affects no legal framework.</strong> The extended inaction suggests either insufficient stakeholder support, inadequate drafting, or competing legislative priorities. Congressional committees receive thousands of referrals annually; bills that languish without action represent opportunity costs in a legislative calendar with finite floor time. Without text details, implementation plans, or cost estimates from CBO, the proposal exists purely in aspirational form. The constitutional process permits indefinite committee consideration, but prolonged inertia on family policy issues—if the title indicates substance—represents a failure to translate concern into governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 5828 status",
-      "House Committee on Energy and Commerce records",
-      "Congressional Research Service bill tracking"
-    ]
-  },
-  {
-    "id": 1215,
-    "sourceId": "cg:119-HR-9009",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9009?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 9009: Firearm Freedom Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9009 proposes sweeping deregulation of firearms, eliminating federal background checks, preempting state regulations, and removing liability for manufacturers. As of September 2026, the bill remains in committee with no floor action.",
-    "verdict": "// VERDICT: Eliminates core public safety mechanisms without offsetting measures while imposing substantial unfunded costs on states and healthcare systems.",
-    "detail": "The bill dismantles the federal background check system and preempts state firearm regulations, creating measurable public safety risks based on existing research linking background checks to reduced gun deaths. <strong>Fiscally, it shifts costs to states for law enforcement and emergency response while eliminating federal oversight infrastructure, with no CBO score available to quantify healthcare burden from increased firearm injuries.</strong> The legislation follows proper legislative process but conflicts with established Commerce Clause precedents allowing federal firearm regulation. Cost distribution is regressive: eliminates manufacturer liability while communities and healthcare systems absorb violence-related expenses. The bill prioritizes industry deregulation over documented harm-reduction mechanisms, with benefits accruing narrowly to manufacturers and costs broadly distributed to public health and safety systems.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2026",
-      "Commerce Clause jurisprudence (U.S. v. Lopez, 1995)",
-      "CDC firearm injury data",
-      "State preemption legal analysis"
-    ]
-  },
-  {
-    "id": 1221,
-    "sourceId": "cg:119-HR-8871",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8871?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 8871: DME Scammer Prevention Act of 2026",
-    "score": 38,
-    "snapshot": "HR 8871 strengthens enforcement against durable medical equipment (DME) fraud by mandating stricter supplier enrollment requirements, enhanced auditing procedures, and increased penalties for fraudulent billing. CMS estimates this could prevent $2.4-3.8 billion in improper Medicare payments over ten years.",
-    "verdict": "// VERDICT: Strong anti-fraud measure with documented savings potential and minimal implementation costs, though bipartisan support would strengthen legitimacy.",
-    "detail": "The DME Scammer Prevention Act addresses a well-documented Medicare fraud vector where suppliers bill for equipment never delivered or medically unnecessary. <strong>The bill's mandated face-to-face supplier verification, real-time claims monitoring, and expanded surety bond requirements target proven fraud mechanisms without restricting legitimate patient access.</strong> CMS projections show implementation costs of approximately $180 million against multi-billion savings, yielding strong fiscal returns. The 25-19 committee vote suggests modest partisan division, though the underlying policy addresses objective fraud rather than ideological differences. Rule of law concerns are minimal—the bill works within existing Medicare statutory framework and follows standard legislative process. Cost distribution favors taxpayers and legitimate beneficiaries by reducing fraud-driven premium increases, though increased compliance burdens may marginally affect small DME suppliers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Energy and Commerce Committee Report, May 2026",
-      "CMS Office of Actuary Estimate",
-      "Congressional Record, 119th Congress",
-      "Medicare Program Integrity Reports"
-    ]
-  },
-  {
-    "id": 1211,
-    "sourceId": "cg:119-HR-9608",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9608?format=json",
-    "branch": "Congress",
-    "date": "Sep 2",
-    "dateISO": "2026-09-02",
-    "title": "HR 9608: Less Bureaucracy, Better Family Engagement Act",
-    "score": -18,
-    "snapshot": "HR 9608 proposes reducing federal oversight of state family engagement programs while cutting administrative requirements. Ordered reported from committee along party lines (20-15) in July 2026, but lacks published cost analysis or implementation specifics.",
-    "verdict": "// VERDICT: Reduces administrative burden but weakens accountability mechanisms without demonstrated evidence that current oversight prevents effective family engagement or that removing it will improve outcomes.",
-    "detail": "The bill aims to streamline family engagement programs by reducing federal reporting requirements and giving states more flexibility. While reducing bureaucracy can theoretically improve efficiency, the partisan committee vote and absence of supporting data raise concerns. <strong>No independent analysis demonstrates that current oversight is the primary barrier to family engagement, nor that removing federal standards will maintain program quality across states with varying capacity.</strong> The legislation may shift costs to states without adequate resources and create inconsistent outcomes for families in different jurisdictions. Without measurable benchmarks or protection against reduced services, the bill prioritizes process reduction over documented results. The tight timeline from introduction to committee action suggests limited stakeholder input or evidence review.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Committee Report, HR 9608",
-      "Federal Register, family engagement program regulations"
     ]
   }
 ]
