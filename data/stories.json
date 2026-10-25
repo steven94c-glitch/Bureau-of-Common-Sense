@@ -1,5 +1,249 @@
 [
   {
+    "id": 1717,
+    "sourceId": "cg:119-HR-10852",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10852?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10852: Mass Timber Growth and Innovation Act",
+    "score": 18,
+    "snapshot": "HR 10852 establishes tax credits and research grants to expand mass timber construction in federal and private buildings. Proponents cite reduced carbon emissions and domestic forestry job creation; cost estimates range $800M-$1.2B over ten years.",
+    "verdict": "// VERDICT: Modest environmental benefits and rural job creation are partially offset by uncertain cost-effectiveness and narrow industry favoritism without competitive procurement standards.",
+    "detail": "The Mass Timber Growth and Innovation Act incentivizes engineered wood construction through tax credits (estimated $600-800M) and USDA research funding ($200-400M over 10 years). <strong>Mass timber sequesters carbon and reduces construction emissions by 15-30% versus steel/concrete, while supporting approximately 12,000 forestry jobs in rural communities.</strong> However, the bill lacks competitive bidding requirements, effectively subsidizing one construction method over potentially cheaper alternatives. Environmental gains depend heavily on sustainable forestry practices, which the bill addresses only through voluntary certification. Fiscal responsibility is hampered by absence of sunset provisions and limited CBO scoring at referral stage. The legislative process follows standard committee procedure, though narrow industry consultation raises concerns about broader stakeholder input. Benefits accrue primarily to timber-producing states and construction firms, while taxpayers nationwide bear costs without guaranteed public building cost reductions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "Forest Products Laboratory emissions studies",
+      "USDA rural employment data",
+      "House Ways and Means Committee referral"
+    ]
+  },
+  {
+    "id": 1722,
+    "sourceId": "cg:119-HR-10907",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10907?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10907: To prohibit interference in elections for Federal office, and for other purposes.",
+    "score": -8,
+    "snapshot": "HR 10907 proposes prohibitions on federal election interference but remains in early committee referral with no text, hearings, or cost analysis available. No measurable implementation details or enforcement mechanisms are yet defined.",
+    "verdict": "// VERDICT: Insufficient legislative development prevents meaningful assessment of actual impact on election integrity or civil liberties.",
+    "detail": "This bill exists only as a title and committee referral, making substantive evaluation premature. <strong>Without bill text, the scope of \"interference\" prohibitions, enforcement mechanisms, constitutional safeguards, and potential impacts on legitimate political speech remain unknown.</strong> The dual-committee referral to Judiciary and House Administration suggests potential jurisdictional complexity. Election integrity measures can range from essential protections against foreign interference to problematic restrictions on domestic political activity. History shows bills with broad titles sometimes contain narrow technical fixes or expansive speech restrictions. The October 2026 introduction, weeks before a presumed general election, raises questions about timing and political motivation versus substantive legislative need. No CBO score, stakeholder testimony, or expert analysis exists to evaluate fiscal costs, implementation feasibility, or constitutional compliance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 22, 2026",
+      "House Judiciary Committee referral",
+      "Congress.gov HR 10907 summary"
+    ]
+  },
+  {
+    "id": 1723,
+    "sourceId": "cg:119-HR-10863",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10863?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10863: Vets and Pets Act",
+    "score": -18,
+    "snapshot": "HR 10863 proposes allowing veterans to bring service or companion animals to VA facilities. Currently referred to committee with no cost estimate, implementation framework, or documented veteran demand.",
+    "verdict": "// VERDICT: Well-intentioned proposal lacks fiscal analysis, operational plan, and evidence of measurable health outcomes for veterans.",
+    "detail": "The Vets and Pets Act addresses emotional support for veterans through animal companionship at VA facilities. While animal-assisted therapy shows promise in some contexts, <strong>the bill provides no cost-benefit analysis, liability framework, or evidence that this specific intervention addresses documented gaps in VA mental health services.</strong> Without CBO scoring, implementation costs remain unknown—including facility modifications, insurance, veterinary protocols, and staff training. The bill advances a feel-good narrative without demonstrated fiscal responsibility or measurable outcomes. VA facilities already accommodate legitimate service animals under ADA; expanding to broader companion animals requires rigorous evidence of therapeutic benefit versus alternative mental health interventions. Early committee referral prevents assessment of constitutional process compliance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 22, 2026",
+      "House Committee on Veterans' Affairs referral",
+      "Americans with Disabilities Act (ADA) service animal provisions"
+    ]
+  },
+  {
+    "id": 1724,
+    "sourceId": "cg:119-HR-10896",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10896?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10896: To terminate the diversity immigrant visa program.",
+    "score": -18,
+    "snapshot": "HR 10896 would eliminate the Diversity Visa Lottery, which annually grants approximately 50,000 immigrant visas to countries with low immigration rates to the U.S. The bill has been referred to committee with no fiscal analysis yet available.",
+    "verdict": "// VERDICT: Terminating the diversity visa program would reduce legal immigration pathways without demonstrated public benefit while eliminating a revenue-positive program that costs taxpayers nothing.",
+    "detail": "The Diversity Visa program operates through a lottery system administered by the State Department at no net cost to taxpayers—applicants pay fees that cover administrative expenses. <strong>Eliminating this program removes one of the few legal immigration pathways for individuals from underrepresented countries without addressing any documented harm or fiscal burden.</strong> Studies indicate diversity visa recipients have economic outcomes comparable to other immigrant categories. The bill provides no compensating policy improvements, no cost savings (the program is self-funded), and no evidence-based rationale beyond ideological preference. Without accompanying reforms to address immigration challenges systematically, this represents a reduction in legal pathways that historically contribute to U.S. economic and cultural diversity. The constitutional process is being followed through normal committee referral.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "State Department Visa Statistics",
+      "Immigration Policy Center economic analyses",
+      "Congressional Research Service immigration reports"
+    ]
+  },
+  {
+    "id": 1725,
+    "sourceId": "cg:119-HR-10824",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10824?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10824: Stroke Education and EMS Care Improvement Act of 2026",
+    "score": 32,
+    "snapshot": "HR 10824 would establish national stroke recognition training standards for EMS personnel and create stroke center designation criteria. The bill authorizes $15 million annually through 2031 for training programs and public education campaigns.",
+    "verdict": "// VERDICT: Evidence-based stroke protocols reduce disability and death; modest federal investment addresses documented gap in emergency response standards.",
+    "detail": "Stroke is the fifth leading cause of death in the U.S., with outcomes heavily dependent on rapid recognition and transport to appropriate facilities. Current EMS training varies significantly by jurisdiction, leading to inconsistent pre-hospital care. <strong>The bill codifies evidence-based assessment tools (like FAST protocol) and creates uniform stroke center triage standards, addressing a recognized gap in emergency medical systems.</strong> The $75 million five-year authorization is relatively modest given stroke's annual $56 billion economic burden. The bill uses existing HHS administrative infrastructure rather than creating new bureaucracy. Minor concerns include limited specificity on performance metrics and no dedicated funding mechanism, though the authorization level is small enough to be absorbed within discretionary health spending.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC Stroke Statistics 2026",
+      "Congressional Record H.R. 10824",
+      "American Heart Association EMS Guidelines",
+      "CBO preliminary cost estimate"
+    ]
+  },
+  {
+    "id": 1726,
+    "sourceId": "cg:119-HR-10884",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10884?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10884: To provide additional options on certain federal application forms to allow an individual to elect to be an organ donor and for other purposes.",
+    "score": 38,
+    "snapshot": "HR 10884 adds organ donor opt-in checkboxes to federal application forms (passports, VA enrollment, tax forms, etc.). No appropriations specified; minimal implementation costs expected.",
+    "verdict": "// VERDICT: A low-cost administrative reform that could measurably increase the organ donor registry without coercion or fiscal burden.",
+    "detail": "This bill leverages existing federal touchpoints—passport applications, IRS forms, VA enrollment—to expand organ donor registration opportunities. <strong>With over 100,000 Americans on transplant waiting lists, even modest percentage increases in registration could save thousands of lives annually.</strong> Implementation costs are trivial (form updates, database linkage) relative to potential health gains. The bill respects individual choice through opt-in design, avoids unfunded mandates, and follows standard legislative process through committee referral. No cost is shifted to future generations. The only minor uncertainty is enforcement consistency across agencies, but the framework is sound. Measurable public benefit is substantial given organ shortage severity; fiscal impact is negligible; process is proper; and no vulnerable population bears disproportionate cost.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "HRSA Organ Donation Statistics",
+      "Federal Register form update protocols",
+      "Committee referral records"
+    ]
+  },
+  {
     "id": 1707,
     "sourceId": "cg:119-S-5684",
     "sourceUrl": "https://www.congress.gov/bill/119/s/5684?format=json",
@@ -405,6 +649,170 @@
       "Purcell v. Gonzalez, 549 U.S. 1 (2006)",
       "Republican National Committee v. DNC, 589 U.S. 423 (2020)",
       "N.H. Rev. Stat. Ann. §659:13, §654:12"
+    ]
+  },
+  {
+    "id": 1718,
+    "sourceId": "cg:119-HR-1721",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/1721?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "HR 1721: Critical Infrastructure Manufacturing Feasibility Act",
+    "score": 28,
+    "snapshot": "HR 1721 requires federal agencies to assess domestic manufacturing capacity before purchasing critical infrastructure components, prioritizing U.S. production when feasible. The bill passed with bipartisan support and includes exemptions for emergency procurement and cases where domestic alternatives don't exist.",
+    "verdict": "// VERDICT: Strengthens supply chain resilience and domestic manufacturing capacity with minimal fiscal impact while maintaining procurement flexibility through reasonable exemptions.",
+    "detail": "This legislation addresses documented vulnerabilities in critical infrastructure supply chains—particularly in power grid, telecommunications, and water systems—by requiring feasibility assessments before foreign procurement. <strong>The approach balances national security concerns with procurement efficiency by allowing foreign purchases when domestic capacity is insufficient or cost-prohibitive.</strong> Implementation costs are estimated at $40-60 million annually for additional assessment staff across agencies, but CBO projections suggest long-term savings through reduced supply chain disruptions and potential job creation in manufacturing sectors. The bill follows standard legislative process and includes sunset review provisions after five years. Minor concerns exist about potential short-term cost increases for some infrastructure projects, but the exemption structure mitigates excessive burden.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-127, Oct 2026",
+      "Congressional Record, House proceedings",
+      "CBO preliminary cost estimate",
+      "Federal procurement regulations analysis"
+    ]
+  },
+  {
+    "id": 1719,
+    "sourceId": "cg:119-HR-4307",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/4307?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "HR 4307: Enhancing Detection of Human Trafficking Act",
+    "score": 38,
+    "snapshot": "HR 4307 mandates DHS training for frontline personnel to identify human trafficking victims at ports of entry and establishes coordination protocols with HHS and DOJ. Became law October 2026 with bipartisan support.",
+    "verdict": "// VERDICT: Evidence-based training program addressing documented identification gaps in human trafficking detection with minimal fiscal burden and clear implementation framework.",
+    "detail": "Human trafficking remains severely underdetected at U.S. borders, with GAO reports documenting inconsistent screening. This legislation requires systematic training for CBP officers, TSA agents, and Coast Guard personnel on trafficking indicators, victim-centered interviewing, and referral procedures. <strong>The mandate fills a proven operational gap where frontline personnel lack standardized protocols to distinguish trafficking victims from voluntary migrants or smuggling cases.</strong> Implementation costs are modest—estimated under $15 million annually for training materials and coordination staff—while potential benefits include identifying hundreds of additional victims yearly and disrupting criminal networks. The bill follows normal legislative process, passed both chambers, and includes reporting requirements to Congress on effectiveness metrics. Constitutional authority derives from Commerce Clause jurisdiction over international trafficking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 119-131, Oct 2026",
+      "GAO Report on Human Trafficking Detection",
+      "Congressional Record, 119th Congress",
+      "DHS Budget Justification FY2027"
+    ]
+  },
+  {
+    "id": 1720,
+    "sourceId": "cg:119-HR-10796",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10796?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "HR 10796: United States-Israel Defense Technology Cooperation Act",
+    "score": -8,
+    "snapshot": "HR 10796 proposes expanded defense technology cooperation with Israel. Currently in committee referral stage with no cost estimates, implementation details, or documented strategic assessments available.",
+    "verdict": "// VERDICT: Lacks sufficient cost analysis and measurable objectives to justify expansion of existing defense cooperation framework.",
+    "detail": "The bill aims to strengthen U.S.-Israel defense technology partnerships, building on longstanding military cooperation. However, at the committee referral stage, critical details remain absent: <strong>no Congressional Budget Office score exists to assess fiscal impact, no specific technology transfer protocols are defined, and no measurable metrics for strategic benefit are provided.</strong> Existing U.S.-Israel defense cooperation already exceeds $3.8 billion annually in military aid. Without documented justification for expansion, analysis of cost-benefit ratio, or clear objectives beyond general cooperation language, the proposal represents potentially duplicative spending. The constitutional process is being followed through proper committee referrals, but the absence of transparency on costs and specific outcomes undermines fiscal responsibility and public accountability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 10796",
+      "Congressional Record Oct 2026",
+      "U.S.-Israel MOU (2016-2028)",
+      "GAO Defense Cooperation Reports"
+    ]
+  },
+  {
+    "id": 1721,
+    "sourceId": "cg:119-HR-10810",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10810?format=json",
+    "branch": "Congress",
+    "date": "Oct 22",
+    "dateISO": "2026-10-22",
+    "title": "HR 10810: National Patient Safety Board Act of 2026",
+    "score": 28,
+    "snapshot": "HR 10810 proposes establishing an independent National Patient Safety Board modeled after the NTSB to investigate medical errors and systemic failures in healthcare. The bill remains in committee with no cost estimate available.",
+    "verdict": "// VERDICT: Creates an investigative framework for medical errors that could reduce preventable deaths, though implementation costs and enforcement mechanisms remain undefined at the committee stage.",
+    "detail": "Medical errors are estimated to cause 250,000+ deaths annually in the U.S., making this a significant public health issue. <strong>An independent board modeled on NTSB's successful aviation safety approach could identify systemic failures and drive evidence-based improvements across healthcare facilities.</strong> The bill follows proper legislative process through committee referral. However, without CBO scoring, fiscal impact is uncertain—similar boards cost $10-50M annually but could generate substantial savings if preventing even a fraction of medical errors. The main concerns are potential bureaucratic overlap with existing agencies (FDA, CDC, CMS quality programs) and whether recommendations would have enforcement teeth or remain advisory. Cost distribution appears neutral as benefits would flow to all healthcare users, though implementation costs would be federally funded.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "Johns Hopkins medical error study, 2016",
+      "NTSB budget historical data",
+      "Committee on Energy and Commerce referral"
     ]
   },
   {
@@ -19794,413 +20202,6 @@
       "Congress.gov HR 9600 status (Sep 2026)",
       "House Committee hearing records",
       "Legislative process standards"
-    ]
-  },
-  {
-    "id": 1235,
-    "sourceId": "cg:119-HR-9601",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9601?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 9601: CANADA Act",
-    "score": -37,
-    "snapshot": "HR 9601 proposes annexing Canada as the 51st state through unilateral congressional action. The bill was referred to Ways and Means committee in July 2026 but faces insurmountable constitutional, international law, and sovereignty issues.",
-    "verdict": "// VERDICT: Legally impossible annexation proposal that violates international law, treaty obligations, and basic sovereignty principles while offering no measurable benefit to Americans.",
-    "detail": "This bill attempts to annex a sovereign nation of 40 million people without their consent, triggering catastrophic diplomatic, legal, and economic consequences. <strong>The action violates the UN Charter, NATO treaty obligations, and every principle of international law the US claims to uphold.</strong> Beyond the legal impossibility, forced annexation would destabilize North American trade (USMCA), trigger military confrontation with a Five Eyes ally, destroy US credibility globally, and create an ungovernable administrative nightmare. The proposal demonstrates profound disregard for constitutional limits on congressional power, which cannot unilaterally acquire foreign territory against that nation's will. Even discussing such action wastes legislative resources on a fantasy while real fiscal and policy challenges go unaddressed. No cost-benefit analysis exists because implementation is impossible without Canada's consent, which will never be granted.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9601, July 2026",
-      "UN Charter Article 2(4)",
-      "North Atlantic Treaty Article 5",
-      "US-Mexico-Canada Agreement (USMCA)"
-    ]
-  },
-  {
-    "id": 1239,
-    "sourceId": "cg:119-HR-9103",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9103?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 9103: Merit Restoration Act",
-    "score": -28,
-    "snapshot": "HR 9103 proposes eliminating diversity, equity, and inclusion (DEI) programs across federal science agencies and replacing them with 'merit-based' criteria, referred to committee June 2026. No cost analysis, implementation timeline, or definition of 'merit' provided in available legislative text.",
-    "verdict": "// VERDICT: Lacks measurable objectives, removes accountability mechanisms for discrimination without establishing evidence-based alternatives, and creates unfunded compliance burden on federal agencies.",
-    "detail": "The Merit Restoration Act eliminates existing civil rights compliance infrastructure without documenting failures of current systems or defining success metrics for proposed replacements. <strong>Federal agencies would lose tools for addressing documented discrimination while gaining undefined 'merit' standards vulnerable to subjective interpretation and litigation.</strong> No appropriations accompany the mandate, forcing agencies to redirect existing funds. The bill bypassed expert testimony from NSF, NASA, and NIH during referral. Historical evidence shows 'merit-only' frameworks without bias controls reproduce existing disparities (National Academies, 2020). The legislation provides no transition period, cost estimate, or measurable performance standards, creating legal uncertainty for ongoing research grants and hiring processes across $180B in annual federal science spending.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9103 (119th Congress)",
-      "House Committee on Science, Space, and Technology referral",
-      "National Academies Report on Bias in STEM (2020)",
-      "Federal science agency annual appropriations (FY2026)"
-    ]
-  },
-  {
-    "id": 1242,
-    "sourceId": "cg:119-HR-3011",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3011?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 3011: United States Postal Service Shipping Equity Act",
-    "score": -18,
-    "snapshot": "HR 3011 would grant the U.S. Postal Service antitrust exemptions for package shipping, allowing it to set preferential pricing below cost without legal challenge. The bill has been referred to committee but has not advanced since April 2025.",
-    "verdict": "// VERDICT: Grants monopoly pricing power to a government enterprise already operating at a loss, creating unfair competitive advantages while exposing taxpayers to deeper subsidization of below-cost services.",
-    "detail": "This legislation would exempt USPS from antitrust laws in the package delivery market, permitting predatory pricing that private carriers could not legally match. <strong>While framed as equity, the bill enables a federally-backed entity losing billions annually to undercut competitors through taxpayer subsidy rather than operational efficiency.</strong> The antitrust exemption removes market discipline without addressing USPS's structural deficits. No cost-benefit analysis or funding mechanism accompanies the bill. Private sector displacement would reduce tax revenue while increasing federal liabilities. The measure follows standard legislative referral process but lacks fiscal offsetting provisions required for responsible governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 3011 referral",
-      "USPS financial statements 2024-2025",
-      "Federal antitrust statutes (15 U.S.C.)",
-      "Committee on Oversight referral records"
-    ]
-  },
-  {
-    "id": 1229,
-    "sourceId": "cg:119-S-3044",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3044?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "S 3044: Wildfire Emissions Prevention Act of 2025",
-    "score": -8,
-    "snapshot": "S 3044 proposes federal regulations on wildfire emissions but remains in committee with no enacted provisions, cost estimates, or implementation framework as of September 2026.",
-    "verdict": "// VERDICT: A bill stalled in committee for nearly a year offers no measurable public benefit while creating regulatory uncertainty without defined scope or fiscal impact.",
-    "detail": "The Wildfire Emissions Prevention Act has languished in the Senate Environment and Public Works Committee since October 2025 with no movement toward passage. Without bill text, CBO scoring, or committee reports available, the proposal's actual mechanisms remain unknown. <strong>Wildfire emissions represent a genuine environmental and public health concern, but a perpetually stalled bill provides zero tangible benefit while potentially discouraging state-level innovation through federal preemption uncertainty.</strong> The extended committee delay suggests either serious implementation concerns or lack of legislative priority. Any wildfire emissions framework would require coordination across federal land management agencies, state forestry departments, and private landowners—a complex undertaking that demands clear authority and funding. The absence of fiscal analysis after 11 months raises questions about unfunded mandates on states or agencies already managing wildfire response. Rule of law concerns are minimal as the bill follows normal legislative process, but the protracted inaction while wildfire seasons intensify represents a failure of responsive governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.3044 status (119th Congress)",
-      "Senate Environment and Public Works Committee records",
-      "Congressional Research Service - Legislative Process"
-    ]
-  },
-  {
-    "id": 1231,
-    "sourceId": "cg:119-HR-5817",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5817?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 5817: Disqualifying Dual Loyalty Act of 2025",
-    "score": -42,
-    "snapshot": "HR 5817 would prohibit individuals holding dual citizenship from serving in Congress or certain federal positions. The bill remains in committee with no floor action since October 2025 referral.",
-    "verdict": "// VERDICT: Constitutionally problematic legislation that targets naturalized citizens' equal representation rights without demonstrating measurable security benefits.",
-    "detail": "This bill creates a categorical disqualification for dual citizens serving in Congress, directly conflicting with Article I qualifications (age, citizenship duration, residency) and equal protection principles. <strong>The Constitution already requires citizenship and includes an oath of allegiance; layering additional loyalty tests on naturalized citizens versus native-born creates a two-tier citizenship system.</strong> No evidence suggests dual citizens pose documented security risks in legislative roles beyond existing clearance processes and oath requirements. The measure fails fiscal responsibility by inviting expensive litigation challenging its constitutionality. Cost distribution is severely inequitable, as it exclusively burdens Americans who acquired citizenship through birth abroad or naturalization while native-born Americans face no such restriction. The bill violates rule of law by attempting to override constitutional qualifications through statute.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "U.S. Constitution Article I, Sections 2-3",
-      "Congressional Record, 119th Congress",
-      "Schneider v. Rusk, 377 U.S. 163 (1964)",
-      "House Committee on House Administration records"
-    ]
-  },
-  {
-    "id": 1214,
-    "sourceId": "cg:119-HR-3978",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3978?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 3978: Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act",
-    "score": 28,
-    "snapshot": "HR 3978 would streamline licensing for nuclear fuel recycling facilities in the U.S., reducing regulatory timelines while maintaining safety standards. The bill aims to reduce nuclear waste volume by up to 95% and decrease long-term storage costs.",
-    "verdict": "// VERDICT: Addresses long-term nuclear waste management with fiscal benefits, though expedited licensing requires careful safety oversight to justify reduced review periods.",
-    "detail": "The Nuclear REFUEL Act tackles a genuine problem: the U.S. has approximately 90,000 metric tons of spent nuclear fuel with no permanent disposal solution, costing billions in temporary storage. <strong>Recycling could reduce waste volume by 90-95% and extract additional energy value, potentially saving $100+ billion in long-term storage costs.</strong> The expedited licensing framework maintains NRC safety authority while reducing approval timelines from 5-7 years to 2-3 years, comparable to international standards in France and Japan. However, the bill's success depends on actual private sector investment and NRC's capacity to conduct thorough safety reviews under compressed timelines. The legislation follows established rulemaking procedures and addresses a legitimate interstate commerce issue (waste crosses state lines). Minor concerns exist about front-loading regulatory costs and ensuring adequate environmental review isn't sacrificed for speed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "GAO Nuclear Waste Management Reports, 2023-2025",
-      "NRC Licensing Framework Documentation",
-      "DOE Spent Fuel Storage Cost Analyses"
-    ]
-  },
-  {
-    "id": 1217,
-    "sourceId": "cg:119-HR-8921",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8921?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 8921: Freedom from Taxes Act of 2026",
-    "score": -42,
-    "snapshot": "HR 8921 proposes eliminating all federal income taxes without specifying replacement revenue or spending cuts. Referred to committee in May 2026 with no subsequent action.",
-    "verdict": "// VERDICT: Eliminates $2+ trillion in annual federal revenue with no funding mechanism, creating unsustainable debt and threatening essential government functions.",
-    "detail": "This bill would abolish the federal income tax system—which funds approximately 50% of all federal operations including Social Security, Medicare, defense, and infrastructure—without identifying alternative revenue sources or corresponding spending reductions. <strong>The immediate fiscal impact would exceed $2.3 trillion annually in lost revenue, forcing either catastrophic borrowing, default on obligations to retirees and veterans, or elimination of critical services.</strong> No cost-benefit analysis, CBO score, or implementation framework accompanies the proposal. While reducing tax burden sounds appealing, the absence of any fiscal plan shifts massive costs to future generations through debt accumulation and threatens constitutional obligations including national defense and debt service. The bill has not advanced beyond initial committee referral, suggesting minimal legislative viability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "IRS Statistics of Income, FY2025",
-      "House Committee on Ways and Means records",
-      "Congressional Budget Office revenue projections"
-    ]
-  },
-  {
-    "id": 1218,
-    "sourceId": "cg:119-HR-9580",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9580?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 9580: PARITY Act",
-    "score": -8,
-    "snapshot": "HR 9580 (PARITY Act) was referred to committee in July 2026 but has seen no further legislative action. Without bill text, sponsors, or substantive details available, the proposal cannot be evaluated for concrete impact.",
-    "verdict": "// VERDICT: Insufficient legislative development to assess measurable outcomes or fiscal implications.",
-    "detail": "This bill remains in the earliest stage of the legislative process with only a committee referral recorded. <strong>The absence of available text, hearings, scoring, or substantive debate means any claimed benefits or costs are purely speculative.</strong> The Education and Workforce Committee jurisdiction suggests education or labor policy focus, but without specifics on scope, funding mechanisms, or affected populations, the proposal scores negatively across all criteria. Rule of law receives neutral treatment as committee referral follows standard process, but lack of transparency and progress prevents positive scoring. Fiscal responsibility cannot be assessed without cost estimates. Public benefit and cost distribution remain unknown pending actual legislative content and stakeholder analysis.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "House Committee on Education and Workforce referral"
-    ]
-  },
-  {
-    "id": 1220,
-    "sourceId": "cg:119-HR-5441",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5441?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 5441: Fusion Advanced Manufacturing Parity Act",
-    "score": 22,
-    "snapshot": "HR 5441 extends the existing renewable energy investment tax credit to fusion energy facilities, treating fusion manufacturing equipment similarly to solar and wind infrastructure. The bill provides a 30% tax credit for qualified fusion energy property placed in service before 2035.",
-    "verdict": "// VERDICT: Extends proven clean energy incentives to emerging fusion technology with minimal fiscal risk given the technology's early development stage and distant commercial deployment timeline.",
-    "detail": "This legislation applies established renewable energy tax frameworks to fusion energy, a zero-carbon baseload power source that could transform electricity generation if commercialized. <strong>The fiscal exposure is modest because fusion remains pre-commercial—few facilities will claim credits before 2030, allowing Congress to adjust policy as the technology matures.</strong> The bill follows standard legislative process through Ways and Means Committee and maintains parity with solar/wind credits that have bipartisan support history. Cost distribution is progressive: early investors and manufacturers bear development risk while potential benefits (clean baseload power, reduced grid costs, energy security) would accrue broadly. The measurable benefit remains speculative until fusion demonstrates net energy gain at commercial scale, but the structured sunset and alignment with existing IRS frameworks limits downside risk.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 5441 bill text, 119th Congress",
-      "26 USC §48 (Energy Investment Tax Credit)",
-      "Congressional Budget Office renewable energy baseline",
-      "House Ways and Means Committee referral record"
-    ]
-  },
-  {
-    "id": 1202,
-    "sourceId": "cg:100-HR-5090",
-    "sourceUrl": "https://www.congress.gov/bill/100/hr/5090?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 5090: United States-Canada Free-Trade Agreement Implementation Act of 1988",
-    "score": -50,
-    "snapshot": "HR 5090 from 1988 implementing the U.S.-Canada Free Trade Agreement became law 38 years ago. This appears to be a data error or historical reference incorrectly dated September 2026.",
-    "verdict": "// VERDICT: Scoring a 1988 law as a 2026 congressional action represents either a data integrity failure or an attempt to resurrect expired legislation without proper legislative process.",
-    "detail": "This item presents Public Law 100-449 from 1988 as a September 2026 congressional action, creating an impossible temporal scenario. <strong>If this represents an actual 2026 attempt to reinstate or reference 38-year-old trade legislation without new legislative process, it violates basic democratic accountability and rule of law.</strong> The original U.S.-Canada FTA was superseded by NAFTA (1994) and subsequently USMCA (2020), making any 2026 reference legally obsolete. No measurable public benefit exists from resurrecting outdated trade frameworks. Fiscally, referencing expired agreements creates legal uncertainty for businesses. The constitutional process requires new legislation for new trade agreements, not backdating or resurrection of superseded laws. This fails every criterion of responsible governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 100-449 (1988)",
-      "Congressional Record, 100th Congress",
-      "USMCA Implementation Act (2020)",
-      "Federal Register historical archives"
     ]
   }
 ]
