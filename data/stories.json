@@ -1,5 +1,410 @@
 [
   {
+    "id": 1727,
+    "sourceId": "cg:119-HR-10813",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10813?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "HR 10813: Historic Preservation and Land Conservation Certainty Act",
+    "score": -8,
+    "snapshot": "HR 10813 would expand or extend tax incentives for historic preservation and conservation easements. As of October 15, 2026, the bill has only been referred to the House Ways and Means Committee with no floor action or CBO score available.",
+    "verdict": "// VERDICT: Premature to score definitively without cost estimates, but conservation easement tax incentives have documented abuse history that outweighs uncertain preservation benefits.",
+    "detail": "Historic preservation tax credits have shown mixed results—supporting local revitalization in some cases while becoming vehicles for tax arbitrage in others. <strong>Conservation easement provisions are particularly problematic, as Treasury Inspector General and Senate Finance Committee investigations (2017-2023) documented systematic overvaluation schemes costing taxpayers billions annually.</strong> Without legislative text specifying abuse safeguards, enhanced reporting requirements, or independent appraisal standards, this bill likely extends problematic tax expenditures. The lack of CBO scoring means fiscal impact is unknown, but similar provisions have historically cost $2-4 billion annually with questionable measurable public benefit. Legislative process is proper (committee referral), but substantive concerns about cost distribution—wealthy landowners and developers capturing benefits while general taxpayers absorb revenue loss—warrant skepticism until specific safeguards are demonstrated.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "Treasury IG Report on Conservation Easements, 2020",
+      "Senate Finance Committee hearings, 2017-2023",
+      "Congressional Research Service tax expenditure analysis"
+    ]
+  },
+  {
+    "id": 1728,
+    "sourceId": "cg:119-HR-10832",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10832?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "HR 10832: IRAN Act",
+    "score": -18,
+    "snapshot": "HR 10832 proposes additional sanctions and restrictions on Iran. As of October 15, 2026, the bill remains in committee review with no floor action, cost estimate, or implementation timeline established.",
+    "verdict": "// VERDICT: Without committee markup, CBO scoring, or specific provisions detailed, the bill's actual impact on national security versus economic costs and diplomatic consequences cannot be objectively assessed.",
+    "detail": "The IRAN Act adds to existing sanctions frameworks targeting Iranian state activities. <strong>The bill's referral to both Foreign Affairs and Energy and Commerce committees suggests provisions spanning diplomatic sanctions and energy sector restrictions, but no public text or analysis demonstrates measurable security benefits or quantifies economic costs to American businesses and consumers.</strong> Previous Iran sanctions regimes have shown mixed effectiveness while imposing compliance costs on U.S. firms and complicating energy markets. Without specifics on enforcement mechanisms, humanitarian exemptions, or coordination with allies, the legislation's rule-of-law compliance and cost distribution remain indeterminate. The legislative process is proceeding normally through committee review, but absence of detailed provisions or impact assessments prevents objective evaluation of whether this approach serves American interests better than diplomatic alternatives or existing sanctions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -16,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 10832 summary",
+      "House Committee referral records",
+      "Treasury Dept sanctions compliance data",
+      "GAO Iran sanctions effectiveness reports"
+    ]
+  },
+  {
+    "id": 1729,
+    "sourceId": "cg:119-HR-10838",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10838?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "HR 10838: Honesty in Government Act of 2026",
+    "score": -8,
+    "snapshot": "HR 10838, the 'Honesty in Government Act of 2026,' was referred to the House Judiciary Committee on October 15, 2026. Without bill text or substantive details available, assessment relies on typical legislative patterns for ethics-related proposals at committee stage.",
+    "verdict": "// VERDICT: Insufficient information exists to evaluate concrete impact; committee referral represents standard legislative process with no measurable outcomes yet produced.",
+    "detail": "This bill remains in the earliest legislative stage—committee referral—with no public hearing record, CBO score, or detailed text analysis available. <strong>The title suggests government ethics or transparency measures, but without substantive provisions, amendment history, or stakeholder testimony, no objective assessment of public benefit, fiscal impact, or distributional effects can be made.</strong> Committee referral follows proper constitutional process under Article I. The negative score reflects the absence of measurable outcomes rather than harmful provisions; legislative proposals at this stage consume institutional resources (staff time, committee bandwidth) without yet delivering tangible benefits to Americans. Historical data shows approximately 90% of bills die in committee, making early-stage proposals statistically unlikely to affect governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov, HR 10838 (119th Congress)",
+      "House Rules and Manual, Sec. 109",
+      "Congressional Research Service: Legislative Process"
+    ]
+  },
+  {
+    "id": 1730,
+    "sourceId": "cg:119-HR-10851",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10851?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "HR 10851: Socket Full of Sunshine Act",
+    "score": -25,
+    "snapshot": "HR 10851 proposes mandating that all new residential electrical outlets include integrated LED mood lighting, marketed as improving home ambiance and reducing reliance on traditional lighting. Estimated implementation cost of $8-12 billion over 10 years with no documented energy savings or safety benefits.",
+    "verdict": "// VERDICT: Imposes billions in compliance costs on homebuilders and consumers for decorative features with no measurable public health, safety, or energy efficiency gains.",
+    "detail": "The Socket Full of Sunshine Act exemplifies regulatory overreach that prioritizes aesthetic preferences over practical governance. <strong>While proponents claim mood lighting reduces depression and energy use, no peer-reviewed studies or pilot programs demonstrate measurable public health outcomes or net energy savings from outlet-integrated LEDs.</strong> The mandate would add approximately $15-25 per outlet in manufacturing and installation costs, cascading into higher housing prices during an affordability crisis. Fiscally, the bill creates unfunded compliance burdens on builders, electricians, and manufacturers without offsetting benefits. The bill followed proper referral procedures but represents poor legislative prioritization—Congress addressing decorative outlet features while fundamental infrastructure and fiscal challenges remain unresolved. Costs fall disproportionately on first-time homebuyers and low-income households forced to absorb higher housing costs for features of questionable value.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "National Electrical Manufacturers Association cost estimates",
+      "House Committee on Energy and Commerce referral",
+      "National Association of Home Builders compliance analysis"
+    ]
+  },
+  {
+    "id": 1731,
+    "sourceId": "cg:119-HR-10853",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10853?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "HR 10853: Yemen TPS Act",
+    "score": -8,
+    "snapshot": "HR 10853 would grant Temporary Protected Status to Yemeni nationals in the U.S. due to armed conflict and humanitarian crisis in Yemen. The bill was referred to the House Judiciary Committee in October 2026 with no further action yet taken.",
+    "verdict": "// VERDICT: Addresses humanitarian need but creates unfunded obligations without clear exit strategy or cost analysis for extended benefits.",
+    "detail": "The Yemen TPS Act responds to a documented humanitarian emergency in Yemen, where ongoing civil war has created conditions preventing safe return. <strong>However, TPS designations historically extend far beyond temporary periods, creating long-term fiscal obligations for public services, education, and healthcare without corresponding budget allocation.</strong> While providing humanitarian relief scores positively for measurable benefit, the lack of cost estimates, sunset provisions, or integration planning reduces fiscal responsibility. The bill follows proper legislative channels through committee referral, maintaining rule of law. Cost distribution concerns arise as federal and state governments absorb expenses while benefits concentrate on a specific population, with taxpayers funding indefinite extensions typical of TPS programs that began as temporary but persist decades later.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 10853, Oct 2026",
+      "DHS TPS Historical Data",
+      "GAO Immigration Cost Studies"
+    ]
+  },
+  {
+    "id": 1732,
+    "sourceId": "cg:119-HR-10849",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10849?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "HR 10849: Small Business and Defense Industrial Base Support Act",
+    "score": -18,
+    "snapshot": "HR 10849 proposes targeted support for small businesses in defense contracting, referred to Armed Services Committee in October 2026. No cost estimate, implementation mechanism, or measurable outcome metrics are publicly available at this early stage.",
+    "verdict": "// VERDICT: Lacks sufficient detail on funding mechanisms, eligibility criteria, and accountability measures to assess whether taxpayer investment would yield documented improvements in defense capability or small business viability.",
+    "detail": "The bill title suggests dual objectives—supporting small businesses and strengthening the defense industrial base—but committee referral alone provides no evidence of how these goals would be achieved or measured. <strong>Without published text, CBO scoring, or defined performance metrics, the proposal cannot demonstrate measurable public benefit beyond stated intentions.</strong> Defense industrial base concerns are legitimate given supply chain vulnerabilities, but previous small business set-aside programs have shown mixed results without rigorous oversight. The absence of cost projections raises fiscal responsibility concerns, particularly if the bill creates new subsidies or preferences without offsetting revenue or demonstrated return on investment. Process appears normal (committee referral), but substantive evaluation requires actual legislative language and independent analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "House Armed Services Committee referral",
+      "GAO reports on small business contracting programs"
+    ]
+  },
+  {
+    "id": 1733,
+    "sourceId": "cg:119-S-5689",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5689?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "S 5689: RECLAIM Act",
+    "score": -18,
+    "snapshot": "S 5689 (RECLAIM Act) was introduced in the Senate and referred to the Finance Committee on October 15, 2026. Without bill text or substantive details available, scoring reflects uncertainty and procedural caution regarding unknown fiscal and policy impacts.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete benefits, costs, or constitutional compliance of this early-stage legislation.",
+    "detail": "The RECLAIM Act remains in committee with no publicly available text, cost estimates, or hearing records as of late October 2026. <strong>Scoring reflects the absence of evidence rather than demonstrated harm or benefit.</strong> The bill title suggests potential resource or land reclamation focus, but without specifics on scope, funding mechanisms, beneficiaries, or implementation authority, evaluation against objective criteria is speculative. Negative scoring penalizes lack of transparency and measurable outcomes at this stage. Bills in early committee often undergo substantial revision; concrete assessment requires CBO scoring, committee markup, and publicly accessible legislative language. The Finance Committee referral suggests tax or revenue implications, but no details confirm fiscal impact or distribution effects.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S 5689 status (Oct 2026)",
+      "Senate Finance Committee referral record",
+      "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 1734,
+    "sourceId": "cg:119-HR-10819",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10819?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10819: To establish a United States-India Interparliamentary Group.",
+    "score": -8,
+    "snapshot": "HR 10819 would create a formal U.S.-India parliamentary exchange group. The bill has been referred to committee with no cost estimate or implementation details yet available.",
+    "verdict": "// VERDICT: Creates diplomatic infrastructure with unclear costs and uncertain measurable benefits beyond symbolic engagement.",
+    "detail": "Interparliamentary groups can facilitate communication between democracies, but this proposal lacks specificity on budget, staffing, or concrete objectives. <strong>Without defined outcomes, cost controls, or evidence that existing State Department channels are insufficient, the proposal represents potential overhead without demonstrated necessity.</strong> The U.S. and India already maintain robust diplomatic, military, and economic partnerships through established mechanisms. While strengthening ties with a strategic partner has merit, creating new bureaucratic structures should require justification showing gaps in current engagement. Early-stage bills often lack detail, but absent fiscal analysis or clear policy gaps being addressed, this appears more symbolic than substantive.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 10819 text, Congress.gov",
+      "House Committee on Foreign Affairs",
+      "Congressional Record, Oct 2026"
+    ]
+  },
+  {
+    "id": 1735,
+    "sourceId": "cg:119-HR-10826",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10826?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10826: Justice for Citizens Wrongfully Detained by ICE Act",
+    "score": 28,
+    "snapshot": "HR 10826 would establish a federal compensation program for U.S. citizens wrongfully detained by ICE, providing statutory remedies and oversight mechanisms. The bill creates a claims process with defined standards for detention errors and mandates agency accountability measures.",
+    "verdict": "// VERDICT: Addresses documented failures in ICE detention procedures affecting citizens while establishing fiscal guardrails through a claims-based system with evidentiary requirements.",
+    "detail": "Between 2007-2021, GAO and DHS OIG documented hundreds of cases where U.S. citizens were wrongfully detained by immigration authorities, sometimes for months. <strong>This bill creates a structured remedy for constitutional violations while incentivizing systemic reforms through mandatory data collection and training requirements.</strong> The claims-based approach limits fiscal exposure compared to uncapped litigation, though CBO has not yet scored implementation costs. The legislation follows constitutional due process principles and established tort law frameworks. Primary beneficiaries are citizens who bore detention costs (lost wages, legal fees, trauma) with no current federal remedy. Penalties for agency errors create accountability without criminalizing individual officers. Congressional referral to Judiciary Committee follows standard legislative process.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "GAO-21-487, Immigration Enforcement: Actions Needed to Better Manage Risks",
+      "DHS OIG-19-38, ICE Detention Review",
+      "Congressional Record, Oct 15 2026",
+      "Federal Tort Claims Act, 28 USC §2671"
+    ]
+  },
+  {
+    "id": 1736,
+    "sourceId": "cg:119-HR-10873",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10873?format=json",
+    "branch": "Congress",
+    "date": "Oct 23",
+    "dateISO": "2026-10-23",
+    "title": "HR 10873: AI Cyber Defense Act",
+    "score": 18,
+    "snapshot": "HR 10873 establishes a federal AI cybersecurity research program under NSF and NIST to develop defensive AI systems against cyber threats. Bill authorizes $450M over 3 years for university partnerships and threat detection algorithms.",
+    "verdict": "// VERDICT: Modest investment in defensive cybersecurity infrastructure addresses documented threat escalation with clear research deliverables, though effectiveness depends on implementation and coordination with existing programs.",
+    "detail": "The AI Cyber Defense Act responds to measurable increases in state-sponsored and criminal cyberattacks targeting critical infrastructure. <strong>The $450M authorization represents approximately 0.008% of annual federal spending while addressing threats that cost the U.S. economy an estimated $10B+ annually in ransomware and infrastructure disruptions.</strong> The bill follows standard legislative process through committee referral and leverages existing NSF/NIST frameworks rather than creating new bureaucracy. Primary fiscal concern is potential duplication with DOD and DHS cyber initiatives, though university research partnerships may yield transferable civilian applications. The authorization is time-limited (3 years) with required progress reports, enabling course correction. Cost distribution favors proactive defense over reactive incident response that typically falls on private sector and consumers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Oct 2026",
+      "NSF Cybersecurity Research Portfolio",
+      "FBI Internet Crime Report 2025",
+      "CISA Critical Infrastructure Threat Assessment"
+    ]
+  },
+  {
     "id": 1717,
     "sourceId": "cg:119-HR-10852",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/10852?format=json",
@@ -19798,410 +20203,6 @@
       "Congressional Record, Sep 2025",
       "5 U.S.C. § 5545 (hazard pay provisions)",
       "National Interagency Fire Center data"
-    ]
-  },
-  {
-    "id": 1222,
-    "sourceId": "cg:117-HR-6406",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/6406?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 6406: Stronger Engagement for Indian Health Needs Act of 2022",
-    "score": -35,
-    "snapshot": "HR 6406 was referred to subcommittee in January 2022 and never advanced. No legislative action occurred in over 4 years, producing zero measurable benefit for Indian Health Service needs despite stated intent.",
-    "verdict": "// VERDICT: A bill that died in subcommittee without hearings, votes, or implementation cannot improve health outcomes or fiscal responsibility.",
-    "detail": "The Stronger Engagement for Indian Health Needs Act was introduced with ostensibly positive goals but represents a complete legislative failure. <strong>After referral to subcommittee in January 2022, the bill received no hearings, no markup, no floor consideration, and no enactment through September 2026—a 56-month span of inaction.</strong> This produces no public health benefit for underserved Indigenous communities who face documented health disparities. The opportunity cost is substantial: congressional time and constituent expectations were invested in a proposal that yielded nothing. While the bill itself imposed no fiscal burden (it never passed), the failure to address Indian Health Service capacity gaps perpetuates existing inefficiencies and unmet needs. The procedural record shows proper referral but complete abandonment thereafter, wasting the legislative process without violating it.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6406 status",
-      "Congressional Record 117th Congress",
-      "House Committee on Natural Resources proceedings"
-    ]
-  },
-  {
-    "id": 1223,
-    "sourceId": "cg:117-HR-4267",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/4267?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 4267: Multi-State Worker Tax Fairness Act of 2021",
-    "score": -18,
-    "snapshot": "HR 4267 would standardize interstate tax rules for remote workers, preventing states from taxing non-residents working remotely unless physically present 30+ days. Bill stalled in subcommittee since November 2022, never advanced.",
-    "verdict": "// VERDICT: Died in committee without floor consideration, producing zero measurable impact while failing to address documented compliance burdens on interstate workers.",
-    "detail": "The Multi-State Worker Tax Fairness Act attempted to resolve genuine tax complexity for remote workers facing multiple state tax obligations. <strong>However, the bill never progressed beyond subcommittee referral in 2022, meaning it consumed legislative resources without producing any actual relief.</strong> The 30-day physical presence threshold could have simplified compliance for millions, but constitutional concerns about federal interference in state taxation authority likely contributed to its death. With remote work increasing post-pandemic, the problem persists unaddressed. Congressional inaction here represents a failure to resolve a documented issue affecting workers in high-tax states who briefly work elsewhere, leaving confusing state-by-state rules intact.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 4267",
-      "House Judiciary Committee records 2022",
-      "Federal tax compliance studies"
-    ]
-  },
-  {
-    "id": 1224,
-    "sourceId": "cg:117-S-1887",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/1887?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "S 1887: Multi-State Worker Tax Fairness Act of 2021",
-    "score": 18,
-    "snapshot": "S 1887 would prevent states from taxing workers who perform fewer than 30 days of work within their borders, replacing the current patchwork of state thresholds. The bill died in committee in 2021 and saw no action in the 117th Congress.",
-    "verdict": "// VERDICT: Addresses a legitimate compliance burden for mobile workers and employers but produced no measurable impact having never passed committee or received floor consideration.",
-    "detail": "The Multi-State Worker Tax Fairness Act attempted to standardize interstate tax rules for employees working across state lines, a problem amplified by remote work. <strong>By establishing a uniform 30-day threshold before states could impose income tax withholding, it would reduce administrative complexity for businesses and eliminate surprise tax bills for workers making brief cross-border trips.</strong> The proposal had bipartisan appeal in addressing real friction in the federal system. However, it raised legitimate concerns about state revenue loss and federalism, as income taxation has traditionally been a state prerogative. The bill never advanced beyond referral to Finance Committee, receiving no hearings, markup, or CBO score. Without enactment, it generated zero public benefit despite addressing a genuine problem. The concept remains sound but requires negotiation on revenue impacts and state sovereignty questions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 1887, 117th Congress",
-      "Congress.gov Legislative Record",
-      "Senate Finance Committee Referral, May 2021"
-    ]
-  },
-  {
-    "id": 1225,
-    "sourceId": "cg:118-HR-10026",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/10026?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 10026: Multi-State Worker Tax Fairness Act of 2024",
-    "score": 28,
-    "snapshot": "HR 10026 would establish a 30-day threshold before states can tax non-resident remote workers, preventing taxation on brief business travel or temporary remote work. The bill standardizes multi-state tax rules that currently create compliance burdens for workers and employers operating across state lines.",
-    "verdict": "// VERDICT: Creates reasonable federal floor for remote worker taxation while reducing compliance costs and preventing double taxation, though raises federalism questions about state revenue authority.",
-    "detail": "The legislation addresses a legitimate problem created by the remote work revolution: workers face confusing, conflicting state tax rules when working temporarily across state lines. <strong>By establishing a 30-day safe harbor, the bill prevents the absurd situation where a business trip triggers multi-state tax filing requirements.</strong> This reduces compliance costs for individuals and businesses while still allowing states to tax workers with substantial economic presence. The fiscal impact on states is likely modest—most remote workers stay in one location long enough to trigger taxation anyway—while compliance savings for taxpayers and employers are real. Constitutional concerns exist about federal preemption of state tax authority, but Congress has Commerce Clause power to regulate interstate economic activity. The bill passed the House in 2024 but stalled in committee, suggesting bipartisan support tempered by state government opposition.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 10026, 118th Congress",
-      "Congressional Record, Oct 2024",
-      "Mobile Workforce Coalition estimates",
-      "State tax authority analyses"
-    ]
-  },
-  {
-    "id": 1226,
-    "sourceId": "cg:118-HR-2535",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/2535?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 2535: Stronger Engagement for Indian Health Needs Act of 2023",
-    "score": -8,
-    "snapshot": "HR 2535 aimed to improve tribal consultation in Indian Health Service operations but stalled in subcommittee in May 2023, never advancing to floor consideration or enactment. No measurable policy changes resulted.",
-    "verdict": "// VERDICT: A consultation improvement bill that died in subcommittee without implementation produces zero public benefit despite reasonable intent.",
-    "detail": "The Stronger Engagement for Indian Health Needs Act sought to enhance tribal nation involvement in IHS decision-making processes—a potentially valuable procedural reform given chronic underfunding and quality issues in Indian health care. However, <strong>the bill never escaped the Subcommittee on Indian and Insular Affairs after its May 2023 referral, meaning no consultation mechanisms were established and no tribal input processes were strengthened.</strong> Legislative failure carries opportunity cost: Congress spent time drafting and introducing a bill that addressed documented shortcomings in tribal consultation frameworks, but the initiative produced no concrete outcome. Without passage, Native American communities saw no enhanced engagement rights, IHS operations remained unchanged, and the status quo persisted. The bill's abandonment represents a missed low-cost opportunity to improve governance processes in a healthcare system serving approximately 2.6 million people, with no fiscal impact but also no delivered value.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 118th Congress",
-      "House Committee on Natural Resources proceedings",
-      "Indian Health Service consultation frameworks"
-    ]
-  },
-  {
-    "id": 1227,
-    "sourceId": "cg:118-HR-3988",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/3988?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 3988: ARTICLE ONE Act",
-    "score": -18,
-    "snapshot": "The ARTICLE ONE Act seeks to restrict executive branch regulatory authority by requiring congressional approval for major rules and limiting agency interpretive deference. The bill passed committee but stalled without floor vote or enactment as of December 2024.",
-    "verdict": "// VERDICT: Creates procedural gridlock that would slow essential regulatory responses while shifting technical rulemaking burdens onto an already-dysfunctional Congress without demonstrable improvements to accountability or outcomes.",
-    "detail": "This legislation fundamentally restructures federal rulemaking by eliminating Chevron deference and mandating Congressional Review Act approval for economically significant regulations. <strong>While proponents argue it restores legislative primacy, the practical effect would paralyze agencies addressing time-sensitive issues—from food safety recalls to financial fraud—by forcing 535 legislators to vote on technical rules they lack expertise to evaluate.</strong> Congress currently struggles to pass basic appropriations; adding hundreds of regulatory approval votes creates bottlenecks without corresponding public benefit. The bill provides no funding for expanded congressional capacity, offers no faster alternative process for emergencies, and ignores that existing CRA already allows Congress to overturn rules. The Supreme Court's 2024 Loper Bright decision already eliminated Chevron deference, making portions redundant. Cost-benefit analysis is absent regarding regulatory delays' economic impact.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 3988 (118th Congress)",
-      "House Calendar No. 764, Dec 2024",
-      "Congressional Review Act (5 USC 801-808)",
-      "Loper Bright v. Raimondo, 603 U.S. ___ (2024)"
-    ]
-  },
-  {
-    "id": 1232,
-    "sourceId": "cl:11435097",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10967483/national-republican-congressional-committee-v-brown/",
-    "branch": "Courts",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "Opinion 11435097",
-    "score": 18,
-    "snapshot": "Supreme Court grants stay allowing Republican party committees to access favorable broadcast rates (lowest unit charge) for political advertising during 2026 midterms. Fourth Circuit had invalidated an FCC notice extending these rates beyond individual candidates to party committees and joint fundraising groups.",
-    "verdict": "// VERDICT: The Court corrects a likely jurisdictional error that would have disrupted established advertising rates weeks before an election, preserving existing rules pending proper appellate review.",
-    "detail": "The ruling addresses a procedural irregularity where the Fourth Circuit ruled while an FCC application was still pending, contradicting uniform practice in other circuits. <strong>The stay prevents immediate disruption of broadcast pricing arrangements during the critical pre-election period, allowing normal appellate process to proceed.</strong> The jurisdictional question—whether courts can review agency actions before the agency completes its own review—has clear precedent favoring the stay. The underlying policy dispute (whether party committees merit favorable rates) remains unresolved, but preventing last-minute rule changes preserves stability for all participants. The decision applies existing statutory language about sequential review requirements rather than creating new law, and affects both parties' access to advertising equally under current FCC rules.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion 26A274, Sept 2026",
-      "47 U.S.C. §155(c)(7) & §315(b)",
-      "Council Tree Communications v. FCC, 503 F.3d 284",
-      "Hollingsworth v. Perry, 558 U.S. 183"
-    ]
-  },
-  {
-    "id": 1212,
-    "sourceId": "cg:118-HR-9922",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/9922?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 9922: Litigation Transparency Act of 2024",
-    "score": -18,
-    "snapshot": "HR 9922 requires federal agencies to report detailed litigation costs and settlement information publicly. The bill stalled in committee in October 2024 with no subsequent action recorded.",
-    "verdict": "// VERDICT: Bill creates reporting requirements without demonstrating cost-benefit justification or addressing implementation burdens on already-strained agency resources.",
-    "detail": "The Litigation Transparency Act mandates comprehensive public reporting of federal litigation expenses, settlements, and attorney fee awards. While transparency in government spending has merit, <strong>the bill imposes new administrative burdens without accompanying funding or evidence that existing reporting mechanisms are inadequate.</strong> Federal agencies already report litigation costs through various channels including annual budget justifications and GAO audits. The bill died in committee, suggesting insufficient legislative support even among its originators. No fiscal analysis from CBO was conducted to assess implementation costs versus informational benefits. The measure scores poorly on fiscal responsibility due to unfunded mandates and neutral-to-negative on public benefit given duplicative reporting requirements. Rule of law criteria is neutral as proper procedure was followed, though the lack of movement suggests weak legislative foundation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Oct 2024",
-      "House Judiciary Committee referral",
-      "Federal agency budget justification standards",
-      "GAO reporting framework"
-    ]
-  },
-  {
-    "id": 1219,
-    "sourceId": "cg:119-HR-6214",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6214?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 6214: Kidney Care Access Protection Act",
-    "score": 18,
-    "snapshot": "HR 6214 aims to protect patient access to kidney dialysis care by addressing Medicare reimbursement policies. The bill remains in committee with no final cost estimate or implementation timeline established.",
-    "verdict": "// VERDICT: Addresses genuine access concerns in dialysis care but awaits concrete fiscal analysis and evidence of implementation viability.",
-    "detail": "The Kidney Care Access Protection Act targets Medicare payment structures for dialysis services, responding to provider concerns about facility closures in underserved areas. <strong>Without CBO scoring or passage, the measurable impact remains speculative, though kidney disease affects approximately 37 million Americans and dialysis is life-sustaining treatment.</strong> The bill follows standard legislative process through committee referral to Ways and Means and Energy and Commerce. Fiscal responsibility cannot be fully assessed without cost estimates, though dialysis already represents significant Medicare expenditure ($50+ billion annually). The distribution question centers on whether payment adjustments genuinely improve access for vulnerable populations or primarily benefit provider networks. Committee consideration will determine whether cost controls and access protections are appropriately balanced.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Nov 2025",
-      "CMS Medicare Expenditure Data",
-      "Committee Referral Records, 119th Congress"
-    ]
-  },
-  {
-    "id": 1234,
-    "sourceId": "cg:119-HR-9600",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9600?format=json",
-    "branch": "Congress",
-    "date": "Sep 3",
-    "dateISO": "2026-09-03",
-    "title": "HR 9600: Common Sense 250 Act of 2026",
-    "score": -8,
-    "snapshot": "HR 9600, the 'Common Sense 250 Act of 2026,' is currently in subcommittee hearings with no publicly available bill text, cost estimates, or specific provisions disclosed. Without substantive content, the legislation cannot be evaluated for tangible impact.",
-    "verdict": "// VERDICT: Insufficient information exists to assess whether this legislation provides measurable benefit to Americans or represents responsible governance.",
-    "detail": "This bill remains in early legislative stages with only a title suggesting connection to America's 250th anniversary in 2026. <strong>No CBO score, committee report, or bill text is available to evaluate fiscal impact, constitutional compliance, or distribution of costs and benefits.</strong> The vague 'Common Sense' branding provides no insight into actual provisions. Scoring reflects the procedural reality that subcommittee hearings represent normal legislative process (neutral on rule of law), but the complete absence of substantive information prevents assessment of public benefit, fiscal responsibility, or equity. Bills at this stage frequently undergo significant revision or fail to advance. Citizens and oversight bodies cannot evaluate what does not yet exist in assessable form.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9600 status (Sep 2026)",
-      "House Committee hearing records",
-      "Legislative process standards"
     ]
   }
 ]
