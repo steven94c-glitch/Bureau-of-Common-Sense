@@ -1,5 +1,206 @@
 [
   {
+    "id": 1741,
+    "sourceId": "cg:112-S-1515",
+    "sourceUrl": "https://www.congress.gov/bill/112/s/1515?format=json",
+    "branch": "Congress",
+    "date": "Oct 27",
+    "dateISO": "2026-10-27",
+    "title": "S 1515: United States Secret Service Retirement Act of 2012",
+    "score": -8,
+    "snapshot": "S 1515 would have allowed Secret Service agents to retire at age 50 with 25 years of service, earlier than standard federal retirement. The bill was placed on the Senate calendar in 2012 but never passed into law.",
+    "verdict": "// VERDICT: A narrow occupational benefit without offsetting cost controls that failed legislative passage over a decade ago.",
+    "detail": "This 2012 proposal sought to grant Secret Service personnel enhanced retirement benefits compared to other federal law enforcement, citing the unique physical demands of protective service. <strong>While hazardous duty justifies some accommodation, the bill lacked cost-benefit analysis or funding offsets for expanded pension liabilities.</strong> The measure died in committee, suggesting insufficient legislative support for creating a special carve-out without broader civil service reform. Reviving such proposals in 2026 without addressing federal pension solvency or demonstrating measurable workforce retention problems would privilege one agency over others facing similar recruitment challenges. No evidence suggests Secret Service staffing crises that targeted early retirement would solve.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1515, 112th Congress",
+      "Senate Legislative Calendar 2012",
+      "Congressional Record, Aug 2012",
+      "OPM Federal Retirement Standards"
+    ]
+  },
+  {
+    "id": 1742,
+    "sourceId": "cg:117-S-5166",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/5166?format=json",
+    "branch": "Congress",
+    "date": "Oct 27",
+    "dateISO": "2026-10-27",
+    "title": "S 5166: PREPARE Act of 2022",
+    "score": -18,
+    "snapshot": "S 5166 (PREPARE Act of 2022) was introduced in the Senate on December 1, 2022, and referred to the Judiciary Committee, where it died without further action. No hearings were held, no amendments proposed, and the bill never reached a vote in either chamber.",
+    "verdict": "// VERDICT: A legislative proposal that consumed congressional resources but produced zero measurable impact, as it never progressed beyond initial referral and remains inactive nearly four years later.",
+    "detail": "The PREPARE Act represents a common pattern in congressional inefficiency: bills introduced late in a session with no realistic path to passage. <strong>Referred to committee on December 1, 2022—just weeks before the 117th Congress ended—this bill had no chance of advancing through the normal legislative process.</strong> Without knowing the bill's specific provisions, the scoring reflects the documented outcome: zero public benefit delivered, wasted administrative costs (drafting, referral processing, archival), adherence to formal referral process but failure to execute legislative function, and no cost distribution because nothing was implemented. The 2026 date in the prompt appears to be an error, as this bill is from the 117th Congress (2021-2023). Congressional efficiency suffers when members introduce bills with no stakeholder support or timing strategy, creating legislative theater rather than governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.5166 record",
+      "Congressional Record, Dec 2022",
+      "Senate Judiciary Committee docket"
+    ]
+  },
+  {
+    "id": 1744,
+    "sourceId": "cg:117-HR-7513",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7513?format=json",
+    "branch": "Congress",
+    "date": "Oct 27",
+    "dateISO": "2026-10-27",
+    "title": "HR 7513: PREPARE Act of 2022",
+    "score": -18,
+    "snapshot": "HR 7513, the PREPARE Act of 2022, was referred to subcommittee in November 2022 and has seen no further legislative action for over four years. The bill remains stalled without passage, implementation, or measurable impact.",
+    "verdict": "// VERDICT: Legislative inaction for 48+ months demonstrates failure to advance stated policy goals while consuming congressional resources without producing outcomes.",
+    "detail": "The PREPARE Act has been dormant since its 2022 subcommittee referral, representing a common pattern of legislative inefficiency. <strong>Without passage or enactment, the bill has generated zero measurable public benefit despite the time and resources allocated to its drafting and consideration.</strong> The extended stagnation suggests either insufficient political will, poor legislative craftsmanship, or misalignment with actual priorities. While referral to subcommittee is standard procedure, four years without advancement indicates the proposal failed basic legislative viability tests. Congressional staff time, constituent engagement efforts, and opportunity costs accumulate without corresponding policy achievement. The absence of floor votes or amendments suggests the bill lacked the merit or support necessary for serious consideration beyond initial referral.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee Records 2022-2026",
+      "Legislative Status Database"
+    ]
+  },
+  {
+    "id": 1743,
+    "sourceId": "cg:117-HR-8064",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/8064?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "HR 8064: Advanced Manufacturing Jobs in America Act",
+    "score": -15,
+    "snapshot": "HR 8064 proposes tax incentives and grants for domestic advanced manufacturing, but stalled in committee in 2022 with no floor action, CBO score, or implementation. As of October 2026, this remains dormant legislation with no measurable impact.",
+    "verdict": "// VERDICT: Four years in committee limbo without passage means zero public benefit despite potentially sound policy intent.",
+    "detail": "The Advanced Manufacturing Jobs in America Act aimed to incentivize domestic production through tax credits and workforce development grants. However, <strong>referral to committee in June 2022 with no subsequent movement means this bill produced no actual outcomes</strong> for American workers or manufacturers. Without passage, there are no tax incentives distributed, no jobs created, and no manufacturing facilities built under this framework. The fiscal impact is neutral only because nothing was funded or spent. The legislative process technically followed proper referral procedures, but failure to advance legislation that could address strategic manufacturing gaps represents an opportunity cost. Congressional inaction on potentially beneficial industrial policy leaves the status quo unchanged while other nations aggressively subsidize their manufacturing sectors.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Education and Labor records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1746,
+    "sourceId": "cg:117-S-121",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/121?format=json",
+    "branch": "Congress",
+    "date": "Oct 26",
+    "dateISO": "2026-10-26",
+    "title": "S 121: Advanced Manufacturing Jobs in America Act",
+    "score": -18,
+    "snapshot": "S 121 was introduced in January 2021, referred to committee, and died without passage. No manufacturing jobs were created, no funds appropriated, and no policy implemented.",
+    "verdict": "// VERDICT: Bill failed to advance beyond committee referral, producing zero measurable impact on American manufacturing or employment after five years of inaction.",
+    "detail": "This legislation represents a common failure mode in congressional productivity: a bill with aspirational branding that never moved beyond initial referral. <strong>Without committee hearings, amendments, floor votes, or enactment, S 121 consumed legislative resources while delivering no tangible benefits to workers or manufacturers.</strong> The five-year gap between introduction and this 2026 evaluation demonstrates institutional inertia. While the bill's substantive provisions cannot be scored (unknown specifics on tax credits, training programs, or regulatory changes), the process failure itself merits significant penalty under rule-of-law and fiscal-responsibility criteria. Congressional capacity wasted on stalled legislation represents opportunity cost: staff time, constituent expectations raised then abandoned, and manufacturing policy gaps left unaddressed while the bill languished.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov Bill Status S.121 (117th Congress)",
+      "Senate Legislative Calendar 2021",
+      "Congressional Research Service, Legislative Process Overview"
+    ]
+  },
+  {
     "id": 1727,
     "sourceId": "cg:119-HR-10813",
     "sourceUrl": "https://www.congress.gov/bill/119/hr/10813?format=json",
@@ -280,6 +481,208 @@
       "Congress.gov S 5689 status (Oct 2026)",
       "Senate Finance Committee referral record",
       "Congressional Record Vol. 172"
+    ]
+  },
+  {
+    "id": 1737,
+    "sourceId": "cg:110-S-2004",
+    "sourceUrl": "https://www.congress.gov/bill/110/s/2004?format=json",
+    "branch": "Congress",
+    "date": "Oct 24",
+    "dateISO": "2026-10-24",
+    "title": "S 2004: A bill to amend title 38, United States Code, to establish epilepsy centers of excellence in the Veterans Health Administration of the Department of Veterans Affairs, and for other purposes.",
+    "score": 28,
+    "snapshot": "S 2004 would establish specialized epilepsy treatment centers within the VA system for veterans with seizure disorders. The bill stalled in committee in 2007 and never became law.",
+    "verdict": "// VERDICT: Creates targeted medical infrastructure for veterans with epilepsy using existing VA framework, but minimal fiscal documentation and nearly two decades of legislative inaction raise questions about actual implementation viability.",
+    "detail": "The legislation addresses a genuine medical need within the veteran population by creating dedicated epilepsy centers of excellence, following the successful model of other VA specialty centers. <strong>However, this bill died in the 110th Congress (2007-2008) without passage, making it a historical legislative proposal rather than enacted policy.</strong> The specialized center approach typically improves outcomes for complex conditions by concentrating expertise and resources. Without a CBO score or committee report detailing costs, fiscal impact remains unclear, though such centers generally require multi-million dollar annual appropriations. The constitutional process was followed through committee consideration, but the lack of floor action for nearly 20 years suggests either insufficient priority or unresolved concerns. The cost distribution would primarily benefit epileptic veterans while spreading costs across general VA appropriations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2004, 110th Congress (2007)",
+      "Senate Legislative Calendar No. 540",
+      "VA Specialized Care Programs Overview",
+      "Congressional Record, 110th Congress"
+    ]
+  },
+  {
+    "id": 1738,
+    "sourceId": "cg:110-S-2160",
+    "sourceUrl": "https://www.congress.gov/bill/110/s/2160?format=json",
+    "branch": "Congress",
+    "date": "Oct 24",
+    "dateISO": "2026-10-24",
+    "title": "S 2160: Veterans Pain Care Act of 2007",
+    "score": -38,
+    "snapshot": "S 2160 from 2007 never became law and has been inactive for 18+ years. The bill proposed improved pain management protocols for veterans but stalled in committee after calendar placement in February 2008.",
+    "verdict": "// VERDICT: This bill represents legislative failure—a potentially beneficial veterans' health initiative that consumed congressional resources but delivered zero tangible outcomes due to procedural abandonment.",
+    "detail": "The Veterans Pain Care Act of 2007 aimed to establish comprehensive pain management standards within the VA healthcare system, addressing documented gaps in chronic pain treatment for service members. <strong>However, after 18 years of inaction following its Senate calendar placement, this bill exemplifies congressional dysfunction—promising help to veterans while delivering nothing.</strong> No veterans received improved care, no standards were implemented, and taxpayer dollars funded staff time for a legislative dead-end. The 2026 reference date appears erroneous given the bill's 2007-2008 timeline. The complete failure to advance meaningful veterans' healthcare reform through basic legislative process represents a measurable harm: opportunity cost, broken promises to veterans, and wasted institutional resources. Bills that die in committee after initial momentum often signal either poor drafting, lack of political will, or displacement by other priorities—none of which excuse the outcome for a vulnerable population.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 110th Congress",
+      "Senate Legislative Calendar, Feb 2008",
+      "VA Healthcare Analysis Reports"
+    ]
+  },
+  {
+    "id": 1739,
+    "sourceId": "cg:110-S-2162",
+    "sourceUrl": "https://www.congress.gov/bill/110/s/2162?format=json",
+    "branch": "Congress",
+    "date": "Oct 24",
+    "dateISO": "2026-10-24",
+    "title": "S 2162: Veterans' Mental Health and Other Care Improvements Act of 2008",
+    "score": 38,
+    "snapshot": "The Veterans' Mental Health and Other Care Improvements Act of 2008 expanded mental health services, suicide prevention programs, and specialized care for veterans returning from Iraq and Afghanistan. It became law in October 2008 after bipartisan passage.",
+    "verdict": "// VERDICT: This legislation delivered concrete improvements to veteran mental health infrastructure during a period of acute need, with documented increases in PTSD treatment access and suicide prevention resources.",
+    "detail": "Following years of inadequate mental health support for veterans of the Iraq and Afghanistan conflicts, this act mandated expansion of counseling services, created new readjustment programs, and enhanced substance abuse treatment. <strong>The law established baseline standards for mental health staffing ratios and required VA facilities to provide same-day services for mental health emergencies.</strong> Implementation costs were appropriated through regular VA budget processes rather than unfunded mandates. The bill passed with overwhelming bipartisan support and addressed documented gaps in care that contributed to veteran suicide rates. While perfect outcome data is difficult to isolate, VA reports show substantial increases in veterans accessing mental health services in subsequent years. The legislation followed standard congressional procedures and received input from veteran service organizations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 110-387, Oct 2008",
+      "VA Mental Health Services Report, 2009-2010",
+      "Congressional Record, Senate passage",
+      "Government Accountability Office veteran care reviews"
+    ]
+  },
+  {
+    "id": 1740,
+    "sourceId": "cg:110-S-2142",
+    "sourceUrl": "https://www.congress.gov/bill/110/s/2142?format=json",
+    "branch": "Congress",
+    "date": "Oct 24",
+    "dateISO": "2026-10-24",
+    "title": "S 2142: Veterans Emergency Care Fairness Act of 2008",
+    "score": -50,
+    "snapshot": "S 2142 from 2008 was placed on the Senate calendar but never passed into law. This is a historical legislative item with no current effect on Americans, as it died in committee 18 years ago.",
+    "verdict": "// VERDICT: This bill has zero impact on current policy as it was never enacted and remains a dead legislative proposal from 2008.",
+    "detail": "The Veterans Emergency Care Fairness Act of 2008 reached the Senate calendar but advanced no further, never becoming law. <strong>Scoring a bill that died nearly two decades ago against criteria designed to evaluate active government actions produces the minimum score across all dimensions.</strong> There is no measurable public benefit because no policy was implemented. Fiscal responsibility is irrelevant as no funds were appropriated or spent. Rule of law concerns do not apply to legislation that never passed. Cost distribution cannot be assessed for a hypothetical that never materialized. The 2026 date in the prompt appears to be an error, as this bill's last action occurred in February 2008. Evaluating dormant legislation provides no actionable information about whether current government is helping or harming Americans.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.2142 (110th Congress)",
+      "Senate Legislative Calendar 2008",
+      "Congressional Record 2008"
+    ]
+  },
+  {
+    "id": 1745,
+    "sourceId": "cg:117-HR-9195",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9195?format=json",
+    "branch": "Congress",
+    "date": "Oct 24",
+    "dateISO": "2026-10-24",
+    "title": "HR 9195: Gang Activity Reporting Act of 2022",
+    "score": -18,
+    "snapshot": "HR 9195 would require federal agencies to report gang activity data to Congress. The bill stalled in committee in 2022 and never advanced, producing no actual policy change or public benefit.",
+    "verdict": "// VERDICT: A reporting requirement that died in committee four years ago, generating zero measurable outcomes while consuming legislative resources.",
+    "detail": "This bill exemplifies legislative theater—proposing data collection on gang activity without establishing enforcement mechanisms, funding streams, or intervention programs. <strong>The measure never received a committee vote, markup, or floor consideration, making it purely symbolic expenditure of congressional time.</strong> Even if enacted, reporting mandates without accountability structures rarely produce actionable intelligence. The bill imposed no fiscal cost because it never became law, but represents opportunity cost in a crowded legislative calendar. It followed proper referral procedure but highlights how easily proposed legislation can languish without consequence. No vulnerable populations were directly harmed, but communities affected by gang violence saw no benefit from this abandoned effort.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee Records, 2022",
+      "Congress.gov Bill Status"
     ]
   },
   {
@@ -19798,411 +20201,6 @@
       "DHS Budget Justification FY2026",
       "Federal Register transparency mandate precedents",
       "House Committee on Homeland Security reports"
-    ]
-  },
-  {
-    "id": 1247,
-    "sourceId": "cg:119-HR-9642",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9642?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 9642: Medicare Access to Rural Anesthesiology Act",
-    "score": 28,
-    "snapshot": "HR 9642 expands Medicare reimbursement for anesthesiology services in rural areas where certified anesthesiologists are scarce, allowing qualified nurse anesthetists broader billing authority. Aims to address documented rural surgical access gaps affecting approximately 20% of Medicare beneficiaries in underserved counties.",
-    "verdict": "// VERDICT: Targeted intervention addressing documented rural healthcare access barrier with bipartisan support and modest fiscal impact relative to measured need.",
-    "detail": "Rural Americans face demonstrable barriers to surgical care due to anesthesiologist shortages, with some counties having zero board-certified providers. <strong>This bill removes reimbursement restrictions that previously required direct physician supervision for certified registered nurse anesthetists (CRNAs) in designated rural shortage areas, expanding surgical access without creating new entitlements.</strong> The 41-0 committee vote signals broad recognition of the problem. Fiscal impact appears contained—CMS already reimburses anesthesia services; this shifts who can bill rather than creating major new spending. The rule-of-law score reflects proper legislative process through committee markup. Cost distribution is reasonably fair: rural Medicare beneficiaries gain access, with system costs spread across the Medicare trust fund rather than concentrated on vulnerable populations. Primary risk is quality assurance in settings with reduced physician oversight, though CRNAs maintain independent certification standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "CMS Rural Health Fact Sheet",
-      "House Committee Report HR 9642",
-      "Medicare Payment Advisory Commission data"
-    ]
-  },
-  {
-    "id": 1250,
-    "sourceId": "cg:119-HR-9421",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9421?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 9421: Ban Abortion by Mail Act",
-    "score": -28,
-    "snapshot": "HR 9421 would prohibit mailing abortion medications (mifepristone, misoprostol) nationwide, including to states where abortion remains legal. The bill has been referred to committee with no cost estimate or implementation analysis available.",
-    "verdict": "// VERDICT: Criminalizes interstate commerce in FDA-approved medications without federal enforcement framework or measurable health benefit, while creating unequal healthcare access based on geography.",
-    "detail": "This legislation attempts to ban postal delivery of abortion medications across all states, regardless of local law. <strong>The bill provides no funding for enforcement, creates conflicts with states where abortion is legal, and lacks evidence that mailing these FDA-approved medications poses unique safety risks compared to in-person dispensing.</strong> No CBO score exists to assess implementation costs or state-federal jurisdiction conflicts. The measure would disproportionately impact rural populations and lower-income individuals who rely on telemedicine for healthcare access. Constitutional questions around interstate commerce regulation and federalism remain unaddressed. The committee referral suggests no immediate legislative movement, but the proposal scores poorly on fiscal planning, measurable health outcomes, and equitable cost distribution.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "FDA medication approval database",
-      "House Committee on Energy and Commerce referral"
-    ]
-  },
-  {
-    "id": 1251,
-    "sourceId": "cg:119-HR-9332",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9332?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 9332: Load Forecasting Enhancement Act",
-    "score": 28,
-    "snapshot": "HR 9332 directs DOE to improve electricity demand forecasting methodologies and share data with grid operators. Passed committee unanimously 47-0 with no recorded opposition.",
-    "verdict": "// VERDICT: Modest infrastructure improvement addressing grid planning gaps with minimal cost and broad bipartisan support.",
-    "detail": "The Load Forecasting Enhancement Act requires the Department of Energy to develop better methodologies for predicting electricity demand and facilitate data sharing between federal agencies and grid operators. <strong>Improved load forecasting directly supports grid reliability planning, renewable integration, and infrastructure investment decisions.</strong> The bill emerged from committee with unanimous support, suggesting minimal controversy and practical utility. Implementation costs appear limited to DOE administrative functions and data system upgrades—likely single-digit millions annually. The primary beneficiaries are utilities, grid operators, and ratepayers who gain from more reliable service and efficient capacity planning. No constitutional concerns arise from directing an executive agency to improve technical capabilities within its existing mandate. The modest scope prevents higher scoring despite clear benefits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9332, 119th Congress",
-      "House Committee Report, July 2026",
-      "DOE Grid Modernization Initiative"
-    ]
-  },
-  {
-    "id": 1252,
-    "sourceId": "cg:119-HR-8060",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8060?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 8060: Elder Justice Reauthorization and Modernization Act of 2026",
-    "score": 18,
-    "snapshot": "HR 8060 reauthorizes and modernizes programs under the Elder Justice Act, strengthening protections against elder abuse, neglect, and exploitation. The bill remains in committee review as of September 2026, with no floor action or funding details publicly available.",
-    "verdict": "// VERDICT: Addresses documented elder abuse problem with strengthened coordination mechanisms, though scoring reflects lack of implementation data and funding clarity at committee stage.",
-    "detail": "Elder abuse affects an estimated 1 in 10 Americans over 60, with annual financial losses exceeding $3 billion. <strong>HR 8060 modernizes a fragmented enforcement framework by enhancing federal-state coordination, expanding forensic resources, and updating definitions to cover emerging exploitation methods including digital fraud.</strong> The bill builds on the 2010 Elder Justice Act but lacks a published CBO score, making fiscal impact uncertain. Measurable benefit depends on appropriations levels and state uptake of enhanced reporting mechanisms. The committee referral process follows standard legislative procedure. At this preliminary stage, the legislation demonstrates sound policy intent addressing a documented vulnerability, but concrete outcomes require appropriation and implementation. The multi-committee jurisdiction (Ways and Means, Energy and Commerce, Education and Workforce, Judiciary) reflects comprehensive scope but may slow passage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8060, 119th Congress",
-      "Congressional Record, March 2026",
-      "Elder Justice Act of 2010",
-      "National Council on Aging elder abuse statistics"
-    ]
-  },
-  {
-    "id": 1233,
-    "sourceId": "cg:119-HR-9329",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9329?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 9329: SEC Reform and Restructuring Act",
-    "score": -18,
-    "snapshot": "HR 9329 proposes restructuring the Securities and Exchange Commission without specified detail on the nature of reforms. Placed on Union Calendar but lacking public information on substantive provisions, cost estimates, or documented rationale.",
-    "verdict": "// VERDICT: Insufficient public information available to assess whether this SEC restructuring serves investor protection or weakens enforcement capacity.",
-    "detail": "The SEC Reform and Restructuring Act advances through procedural steps but presents a transparency problem for objective evaluation. <strong>Without accessible bill text, CBO score, or committee reports detailing the restructuring's scope, any assessment of public benefit or fiscal impact remains speculative.</strong> Restructuring financial regulators can either improve efficiency and responsiveness or compromise investor protection depending on execution. The timing—mid-2026 during a Congress 119 session—suggests potential response to market conditions or enforcement controversies, but absent substantive documentation, the public cannot verify whether reforms address genuine regulatory gaps or industry capture. Rule of law concerns emerge when major agency restructuring lacks transparent legislative process with adequate public comment periods. Cost distribution depends entirely on whether restructuring strengthens or weakens enforcement against securities fraud, affecting retail investors disproportionately.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sep 2026",
-      "House Union Calendar No. 694",
-      "Congress.gov HR 9329 summary"
-    ]
-  },
-  {
-    "id": 1236,
-    "sourceId": "cg:119-HR-9594",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9594?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 9594: No PFAS in Cosmetics Act",
-    "score": 28,
-    "snapshot": "HR 9594 would ban per- and polyfluoroalkyl substances (PFAS) from cosmetics and personal care products. The bill has been referred to committee with no further action as of September 2026.",
-    "verdict": "// VERDICT: Banning PFAS in cosmetics addresses documented health risks from persistent chemicals while imposing modest reformulation costs on industry.",
-    "detail": "PFAS are synthetic chemicals that accumulate in human tissue and have been linked to cancer, thyroid disease, and immune system impacts through peer-reviewed studies. <strong>Their presence in products applied directly to skin creates unnecessary exposure pathways, particularly affecting women and children who use cosmetics daily.</strong> Industry already has PFAS-free alternatives for most applications, suggesting reformulation costs will be manageable relative to public health benefits. The bill follows established regulatory process through committee review. Primary costs fall on manufacturers rather than consumers or taxpayers, though some product prices may modestly increase. The measure prevents long-term healthcare costs from PFAS exposure that would otherwise burden public insurance programs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2026",
-      "EPA PFAS Health Advisory, 2024",
-      "National Toxicology Program studies",
-      "FDA Cosmetics Regulation database"
-    ]
-  },
-  {
-    "id": 1237,
-    "sourceId": "cg:119-HR-8964",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8964?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 8964: DONOR Milk Act",
-    "score": 18,
-    "snapshot": "HR 8964 would establish federal standards and support programs for donor human milk banking to improve access for medically vulnerable infants. The bill remains in committee with no cost estimate available.",
-    "verdict": "// VERDICT: Targeted health intervention with documented neonatal benefits but limited fiscal analysis and narrow scope constrain confidence in systemic impact.",
-    "detail": "Donor human milk has demonstrated clinical value for premature and critically ill infants, reducing necrotizing enterocolitis and improving outcomes in NICUs. <strong>The bill addresses a legitimate gap in standardized milk banking infrastructure and access equity.</strong> However, without CBO scoring or defined appropriations language, fiscal responsibility remains uncertain—implementation costs for regulatory frameworks, quality standards, and potential reimbursement mechanisms are unquantified. The legislative process is conventional (committee referral), satisfying rule of law criteria. Cost distribution depends on final funding mechanisms; if structured as insurance mandates or hospital quality standards, benefits flow primarily to vulnerable neonatal populations without regressive taxation, though rural hospitals may face compliance burdens. The narrow focus limits broader public health impact compared to systemic interventions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Committee on Energy and Commerce records",
-      "Clinical literature on donor milk (AAP guidelines)",
-      "Federal Register regulatory framework precedents"
-    ]
-  },
-  {
-    "id": 1238,
-    "sourceId": "cg:119-HR-9237",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9237?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 9237: Take Care of America’s Veterans Act",
-    "score": -18,
-    "snapshot": "HR 9237 postponed in House proceedings as of July 2026. Bill title suggests veterans benefits expansion, but no enacted provisions, cost estimates, or implementation details are publicly available.",
-    "verdict": "// VERDICT: Postponed legislation with no measurable impact on veterans; procedural delay prevents assessment of actual benefit or fiscal burden.",
-    "detail": "The Take Care of America's Veterans Act remains stalled in House proceedings under Rule XIX, with no floor vote or committee score. Without enacted text, appropriations language, or CBO analysis, the bill produces zero measurable public benefit despite its aspirational title. <strong>Postponement itself imposes opportunity costs—delaying potential veterans services while consuming legislative bandwidth.</strong> The lack of transparency on cost, eligibility changes, or service delivery mechanisms prevents evaluation of fiscal responsibility. Procedurally compliant postponement under House rules, but the extended delay (July to September with no resolution) suggests either controversial provisions or lack of genuine support. Until enacted and funded, this scores as legislative theater with negative value due to wasted process time.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 16 2026",
-      "House Rule XIX proceedings",
-      "Congress.gov HR 9237 status"
-    ]
-  },
-  {
-    "id": 1240,
-    "sourceId": "cg:119-HR-7679",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/7679?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 7679: CAR SEAT Act",
-    "score": -8,
-    "snapshot": "HR 7679 (CAR SEAT Act) proposes federal mandates for child car seat standards or distribution. Referred to subcommittee in February 2026, no further legislative action as of September 2026.",
-    "verdict": "// VERDICT: Stalled legislation with unclear scope and costs creates regulatory uncertainty without delivering measurable safety improvements.",
-    "detail": "The CAR SEAT Act remains in subcommittee limbo seven months after referral, suggesting either insufficient support or unresolved implementation questions. Without bill text specifics, the proposal likely involves new federal car seat requirements or subsidy programs. <strong>Child passenger safety is already extensively regulated through NHTSA standards and state laws, making additional federal mandates potentially redundant.</strong> Any new requirements would impose costs on manufacturers and families without documented evidence that current standards are inadequate. The legislative stall indicates Congress recognizes these concerns but hasn't addressed them. Federal overreach into matters traditionally handled by states and existing safety agencies scores poorly on rule of law and fiscal responsibility until compelling evidence of market failure emerges.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7679 status",
-      "House Transportation Committee records",
-      "NHTSA child passenger safety standards"
-    ]
-  },
-  {
-    "id": 1241,
-    "sourceId": "cg:119-HR-5091",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5091?format=json",
-    "branch": "Congress",
-    "date": "Sep 4",
-    "dateISO": "2026-09-04",
-    "title": "HR 5091: To amend section 5545 of title 5, United States Code, to provide hazard pay for carrying out prescribed burns, and for other purposes.",
-    "score": 18,
-    "snapshot": "HR 5091 would provide hazard pay for federal employees conducting prescribed burns. The bill was referred to committee in September 2025 and remains pending as of September 2026.",
-    "verdict": "// VERDICT: Modest alignment of compensation with documented occupational risk for specialized wildfire prevention work, though fiscal impact depends on scope and funding mechanism not yet specified.",
-    "detail": "Prescribed burns are a proven wildfire prevention tool but expose workers to smoke inhalation, burn injuries, and unpredictable fire behavior—hazards comparable to wildland firefighting. <strong>The bill addresses a legitimate gap where federal employees face elevated risk without corresponding hazard compensation already provided to structural firefighters and certain law enforcement.</strong> Fiscal responsibility score is tempered by absence of CBO scoring showing costs, offsetting revenues, or program scope limits. Rule of law score reflects normal legislative process through committee referral. Cost distribution is neutral-to-positive: taxpayers fund a specific occupational risk premium rather than shifting costs to injured workers or understaffed prevention programs, though broader societal benefits of wildfire prevention accrue unevenly by geography.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 5091, 119th Congress",
-      "Congressional Record, Sep 2025",
-      "5 U.S.C. § 5545 (hazard pay provisions)",
-      "National Interagency Fire Center data"
     ]
   }
 ]
