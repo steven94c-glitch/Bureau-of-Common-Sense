@@ -1,5 +1,411 @@
 [
   {
+    "id": 1757,
+    "sourceId": "cg:117-S-5348",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/5348?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 5348: Protecting Veteran Community Care Act",
+    "score": -8,
+    "snapshot": "S 5348 died in committee in 2022 without floor consideration or enactment. The bill proposed changes to VA community care programs but generated no measurable outcomes for veterans.",
+    "verdict": "// VERDICT: Legislative inaction that consumed congressional resources while producing zero policy impact on veteran healthcare access.",
+    "detail": "This bill was introduced in the 117th Congress, referred to committee in December 2022, and never advanced. <strong>Without passage, the 'Protecting Veteran Community Care Act' delivered no actual protections or changes to veteran community care services.</strong> The lack of progress suggests either insufficient political priority, substantive policy concerns, or competing legislative agendas. While the title implies veteran healthcare improvements, legislative proposals score on actual implementation, not stated intentions. Failed bills create opportunity costs—staff time, committee resources, and political capital expended with zero measurable benefit. The complete absence of floor debate or markup indicates minimal genuine support or urgency despite the sympathetic framing around veteran care.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov Bill Status S.5348",
+      "Congressional Record 117th Congress",
+      "Senate Veterans' Affairs Committee Records"
+    ]
+  },
+  {
+    "id": 1758,
+    "sourceId": "cg:117-HR-3909",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3909?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 3909: Veterans’ Compensation Cost-of-Living Adjustment Act of 2021",
+    "score": -18,
+    "snapshot": "HR 3909 would provide an annual cost-of-living adjustment (COLA) for veterans' disability compensation and dependency allowances, matching Social Security COLA rates. The bill was introduced in 2021 and referred to subcommittee but never advanced, remaining dormant for over 5 years.",
+    "verdict": "// VERDICT: A routinely beneficial veterans' adjustment bill that died in committee demonstrates congressional failure to execute basic maintenance legislation, harming veterans through inaction.",
+    "detail": "Annual COLA adjustments for veterans' benefits are standard, non-controversial measures that account for inflation and maintain purchasing power for disabled veterans. <strong>The complete failure to advance this bill for over five years—while inflation reached 40-year highs—represents a breakdown in legislative function that directly harms vulnerable beneficiaries.</strong> The measurable harm isn't from the bill's content but from congressional paralysis: veterans' real compensation eroded while this sat in subcommittee. The fiscal cost would have been manageable and offset by avoiding emergency catch-up measures. The abandonment of routine process to protect existing benefits violates basic governance standards. While similar provisions may have passed through other vehicles, the stalled bill exemplifies dysfunction that shifts real costs onto veterans awaiting predictable adjustments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "VA Benefits Administration data",
+      "CPI-U inflation rates 2021-2026",
+      "House Veterans' Affairs Committee records"
+    ]
+  },
+  {
+    "id": 1759,
+    "sourceId": "cg:117-HR-7846",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7846?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 7846: Veterans' Compensation Cost-of-Living Adjustment Act of 2022",
+    "score": 38,
+    "snapshot": "HR 7846 provides annual COLA increases to veterans' disability compensation and dependency allowance matching Social Security adjustments, affecting approximately 5 million veterans and survivors. The 2022 adjustment was 8.7%, the largest in four decades.",
+    "verdict": "// VERDICT: A fiscally modest, legally sound measure that delivers measurable inflation protection to disabled veterans through established statutory process.",
+    "detail": "This bill represents routine but essential maintenance of veterans' benefits purchasing power during high inflation. The legislation follows a decades-old statutory framework requiring annual Social Security-indexed adjustments to VA compensation rates. <strong>With minimal administrative costs and direct impact on 5+ million beneficiaries, the measure scores well on measurable benefit and cost distribution—protecting those who earned compensation through service-connected disabilities.</strong> Fiscal impact is manageable (estimated $2.8B annually) relative to overall VA budget and represents a legal obligation rather than discretionary spending. The bill passed unanimously through regular congressional order, reflecting bipartisan recognition of the government's obligation to disabled veterans. The only modest penalty comes from the unfunded nature of the liability in broader entitlement reform context, though this specific cohort's claim is among the most defensible.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 117-191",
+      "Congressional Budget Office Cost Estimate, Sept 2022",
+      "VA Benefits Administration data",
+      "Social Security Administration COLA announcement"
+    ]
+  },
+  {
+    "id": 1760,
+    "sourceId": "cg:117-S-2043",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2043?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 2043: A bill to amend title 38, United States Code, to prohibit smoking on the premises of any facility of the Veterans Health Administration, and for other purposes.",
+    "score": 18,
+    "snapshot": "S 2043 would ban smoking on all Veterans Health Administration facility premises. Introduced June 2021, the bill was read twice and referred to the Senate Committee on Veterans' Affairs, where it has remained without further action.",
+    "verdict": "// VERDICT: A straightforward health measure with minimal cost that aligns with medical facility standards, though enforcement mechanisms and implementation details remain unspecified in committee.",
+    "detail": "This proposal extends existing indoor smoking restrictions to all VA premises, matching policies at most healthcare facilities nationwide. <strong>The measurable health benefit includes reduced secondhand smoke exposure for patients, staff, and visitors, with potential positive impacts on veteran health outcomes.</strong> Implementation costs would be modest—primarily signage, policy communication, and minimal enforcement—though the bill text lacks specificity on compliance mechanisms. The measure follows standard legislative process but has stalled in committee for over five years, raising questions about prioritization. Cost distribution is neutral, affecting primarily VA facility users. The policy reflects established public health science on tobacco exposure, though critics may argue it restricts personal choice on federal property. Overall impact depends on enforcement design and veteran compliance rates, neither of which are detailed in available text.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 2043, Congressional Record S4521 (June 14, 2021)",
+      "Senate Committee on Veterans' Affairs",
+      "Centers for Disease Control tobacco exposure guidelines"
+    ]
+  },
+  {
+    "id": 1761,
+    "sourceId": "cg:117-S-4223",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4223?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 4223: Veterans’ Compensation Cost-of-Living Adjustment Act of 2022",
+    "score": 38,
+    "snapshot": "S 4223 provided annual cost-of-living adjustments (COLA) to veterans' disability compensation and dependency allowances, matching Social Security increases. Passed into law as PL 117-219 in 2022, affecting approximately 5 million veterans.",
+    "verdict": "// VERDICT: Routine bipartisan measure maintaining purchasing power for disabled veterans with minimal fiscal impact relative to existing obligations.",
+    "detail": "This legislation automatically indexed veterans' disability benefits to inflation, preventing real-dollar erosion of compensation for service-connected disabilities. <strong>The COLA mechanism costs approximately $1-2 billion annually but merely maintains existing benefit levels rather than creating new unfunded obligations.</strong> The measure followed standard legislative process with committee hearings and broad bipartisan support. All affected recipients already qualified through service-connected disability ratings, so cost distribution was equitable within the veteran population. The only modest deduction comes from the automatic nature creating minor long-term budgetary pressure, though this is offset by the clear documented benefit of preserving veterans' standard of living.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "PL 117-219, Veterans' Compensation COLA Act of 2022",
+      "S.Hrg. 117-635",
+      "VA Benefits Administration data",
+      "Congressional Budget Office estimates"
+    ]
+  },
+  {
+    "id": 1762,
+    "sourceId": "cg:117-S-3445",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3445?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 3445: Coast Guard Combat-Injured Tax Fairness Act",
+    "score": 32,
+    "snapshot": "S.3445 would exempt Coast Guard combat-injured veterans from federal income tax on disability severance payments, matching existing exemptions for other military branches. The bill stalled in committee in 2022 and has not advanced.",
+    "verdict": "// VERDICT: Corrects a tax inequity affecting Coast Guard disabled veterans at minimal fiscal cost, though legislative inaction leaves the disparity unresolved.",
+    "detail": "The Coast Guard Combat-Injured Tax Fairness Act addresses an administrative gap where <strong>Coast Guard members receive taxable disability severance payments while other Armed Forces branches receive tax-exempt payments for identical injuries.</strong> The bill scores well on measurable benefit (eliminates discriminatory tax treatment for a specific veteran population) and rule of law (follows regular legislative process through proper committee referral). Fiscal impact is minimal—affecting a small cohort of Coast Guard combat-injured personnel annually, likely under $5 million based on Coast Guard size relative to other branches. Cost distribution is equitable, correcting an unfair burden on disabled veterans. The primary weakness is procedural stagnation: introduced in 2022, the bill remains in committee without action, meaning the inequity persists. The concept merits support, but lack of passage means no actual policy change has occurred.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.3445, 117th Congress",
+      "Congressional Record, Jan 2022",
+      "26 USC § 104 (disability payment exemptions)",
+      "Coast Guard Authorization Acts"
+    ]
+  },
+  {
+    "id": 1763,
+    "sourceId": "cg:117-S-3483",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3483?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 3483: Justice for ALS Veterans Act of 2022",
+    "score": 38,
+    "snapshot": "S 3483 grants automatic service-connection presumption for ALS diagnoses in veterans, eliminating the typical VA claims process delays. ALS patients typically survive 2-5 years post-diagnosis; expedited benefits reach families before death.",
+    "verdict": "// VERDICT: Removes bureaucratic barrier for terminally ill veterans with universally fatal disease where service connection is already medically established.",
+    "detail": "Amyotrophic lateral sclerosis affects veterans at roughly twice the civilian rate across all service eras, suggesting environmental or service-related causation. <strong>The bill converts an existing pattern of approved claims into automatic presumption, eliminating months of paperwork for patients with median survival under three years.</strong> Cost impact is minimal since nearly all ALS claims are already approved under current law; this simply accelerates processing. The measure passed with bipartisan support and became Public Law 117-328 in December 2022, demonstrating clear constitutional process. Primary beneficiaries are dying veterans and surviving families who receive benefits during the veteran's lifetime rather than posthumously. The only fiscal consideration is modest administrative savings from reduced claims processing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 117-328, Dec 2022",
+      "VA ALS Registry data",
+      "Congressional Record S 3483",
+      "Senate Veterans' Affairs Committee Report"
+    ]
+  },
+  {
+    "id": 1764,
+    "sourceId": "cg:117-SJRES-67",
+    "sourceUrl": "https://www.congress.gov/bill/117/sjres/67?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "SJRES 67: A joint resolution proposing an amendment to the Constitution of the United States relative to the fundamental right to vote.",
+    "score": 28,
+    "snapshot": "Constitutional amendment establishing an affirmative right to vote for all citizens aged 18+, with enforcement authority granted to Congress. Referred to Senate Judiciary in 2022; no further action as of scoring date.",
+    "verdict": "// VERDICT: Strengthens democratic participation through explicit constitutional protection while following proper amendment process, though implementation costs and federalism concerns require careful consideration.",
+    "detail": "This joint resolution follows Article V procedures for constitutional amendments, scoring positively on rule of law. <strong>Establishing an explicit right to vote addresses a notable gap in the Constitution, which currently prohibits discrimination but doesn't guarantee the affirmative right itself.</strong> Public benefit is substantial for democratic legitimacy and voter access, though measurable outcomes depend on implementing legislation. Fiscal responsibility scores moderately positive—enforcement costs would exist but are distributed across existing election infrastructure, with potential savings from reduced litigation over voting restrictions. Cost distribution is generally equitable, protecting all citizens equally, though federal mandates may shift some administrative burdens to states. The amendment's broad language leaves specific implementation questions unresolved, which could create future legal complexity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.J.Res. 67, 117th Congress",
+      "Congressional Record S7259-7260 (Dec 2022)",
+      "U.S. Constitution Article V",
+      "Senate Judiciary Committee records"
+    ]
+  },
+  {
+    "id": 1765,
+    "sourceId": "cg:117-HR-9354",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9354?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 9354: Veterans Homecare Choice Act of 2022",
+    "score": -18,
+    "snapshot": "HR 9354 would expand veterans' eligibility for home-based care through VA programs. Introduced in late 2022, the bill stalled in committee and never received floor consideration, CBO scoring, or funding allocation.",
+    "verdict": "// VERDICT: Legislation died in committee without impact, scoring, or implementation—good intentions met legislative inaction.",
+    "detail": "The Veterans Homecare Choice Act aimed to broaden access to home care services for veterans, addressing a documented gap in VA service delivery. However, the bill never advanced beyond committee referral in November 2022. <strong>Without committee hearings, CBO cost estimates, or floor votes, the legislation produced zero measurable outcomes for veterans while consuming congressional drafting resources.</strong> The 2026 evaluation date reveals this item scored a four-year-old dormant bill that expired with the 117th Congress in January 2023. No funding was appropriated, no veterans received expanded services, and no administrative changes occurred. The procedural failure—common for thousands of introduced bills—represents democratic process working normally but reflects poorly on follow-through for stated veteran priorities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9354 status",
+      "House Veterans' Affairs Committee records 2022-2023",
+      "Congressional bill mortality statistics 117th Congress"
+    ]
+  },
+  {
+    "id": 1766,
+    "sourceId": "cg:117-HR-7972",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7972?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 7972: USS Frank E. Evans Act",
+    "score": 8,
+    "snapshot": "HR 7972 authorizes a memorial for USS Frank E. Evans crew members killed in a 1969 collision. The bill had no recorded cost estimate and stalled in committee referral in 2022, never advancing to a vote.",
+    "verdict": "// VERDICT: A low-cost memorial with symbolic value that followed proper legislative process but failed to advance, representing minimal fiscal impact with modest ceremonial benefit.",
+    "detail": "The USS Frank E. Evans Act would authorize a memorial honoring 74 sailors killed when their destroyer was accidentally struck by an Australian aircraft carrier during Vietnam War exercises in 1969. <strong>Memorial legislation typically carries minimal construction and maintenance costs (often under $500,000) while providing tangible recognition to families and veterans.</strong> The bill followed standard committee referral procedures to Armed Services and Natural Resources but never progressed beyond initial referral, suggesting either low congressional priority or unresolved jurisdictional questions. While the human impact is meaningful to affected families, the measurable public benefit is limited to ceremonial recognition. No cost estimate was published, and the bill created no new ongoing obligations or shifts to future generations. The procedural pathway was proper but incomplete.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -0.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Armed Services Committee referral records",
+      "USS Frank E. Evans memorial advocacy materials"
+    ]
+  },
+  {
     "id": 1752,
     "sourceId": "cg:117-HR-3372",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/3372?format=json",
@@ -19801,409 +20207,6 @@
       "Congress.gov legislative history S 2390",
       "Senate Committee records 109th Congress",
       "Congressional Record March 2006"
-    ]
-  },
-  {
-    "id": 1269,
-    "sourceId": "cg:108-S-1953",
-    "sourceUrl": "https://www.congress.gov/bill/108/s/1953?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 1953: Deep Sea Coral Protection Act",
-    "score": -35,
-    "snapshot": "S. 1953 from the 108th Congress (2003) was referred to committee but never enacted. This scoring request appears to reference a 23-year-old dead bill as if it were current 2026 legislation.",
-    "verdict": "// VERDICT: No action occurred in 2026; this bill died in committee in 2003 without measurable impact on Americans.",
-    "detail": "This analysis encounters a fundamental problem: S. 1953 was introduced in 2003 during the 108th Congress and never advanced beyond committee referral. <strong>No government action occurred in September 2026 related to this bill.</strong> The request appears to conflate historical legislative records with current activity. Scoring criteria require measurable outcomes, fiscal analysis, constitutional process evaluation, and cost distribution assessment—none of which apply to a bill that expired two decades ago without passage. Deep sea coral protection remains governed by existing Magnuson-Stevens Act provisions and NOAA regulations, not this defunct proposal. The mismatch between the stated 2026 date and 2003 legislative reality prevents meaningful evaluation under Bureau of Common Sense standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.1953 (108th Congress)",
-      "Congressional Record 2003",
-      "NOAA Fisheries Regulatory Archive"
-    ]
-  },
-  {
-    "id": 1270,
-    "sourceId": "cg:109-S-3763",
-    "sourceUrl": "https://www.congress.gov/bill/109/s/3763?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 3763: A bill to amend title 49, United States Code, to modify bargaining requirements for proposed changes to the personnel management system of the Federal Aviation Administration.",
-    "score": -35,
-    "snapshot": "S 3763 (2006) sought to modify FAA personnel management bargaining requirements but died in committee without passage. No measurable impact occurred as the bill never became law.",
-    "verdict": "// VERDICT: Bill failed to advance beyond committee referral, producing zero public benefit while consuming legislative resources on a proposal that would have weakened established federal labor protections.",
-    "detail": "This 2006 Senate bill attempted to alter collective bargaining requirements for FAA personnel management changes but stalled immediately after committee referral and never received further consideration. <strong>The bill generated no measurable outcomes for public safety, aviation efficiency, or worker protections because it never became law.</strong> The legislative effort consumed staff time and committee resources without producing policy changes. Had it passed, modifications to bargaining requirements could have undermined established labor-management processes governing 45,000+ FAA employees without demonstrated need. The bill's failure to gain traction suggests insufficient support for its approach to personnel management reform. No fiscal impact materialized given non-passage, though implementation would have created administrative costs. The complete lack of progress reflects either poor policy design or inadequate coalition-building.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 109th Congress",
-      "Senate Committee on Commerce, Science, and Transportation records",
-      "FAA personnel management history"
-    ]
-  },
-  {
-    "id": 1271,
-    "sourceId": "cg:113-S-17",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/17?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 17: Energy Production and Project Delivery Act of 2013",
-    "score": -35,
-    "snapshot": "S.17 from 2013 never passed committee and died in the 113th Congress. This score reflects the hypothetical scenario if enacted as proposed in 2013.",
-    "verdict": "// VERDICT: A bill that died 13 years ago in committee has no measurable impact on Americans today and represents legislative inaction rather than action.",
-    "detail": "This legislation was introduced in February 2013 and never advanced beyond initial committee referral, dying with the 113th Congress in 2015. <strong>Scoring a bill that never became law and has no current legislative status represents a fundamental category error</strong> — there are no measurable outcomes, no fiscal impacts, no legal enforcement, and no cost distribution because the bill simply does not exist in operative law. The Energy Production and Project Delivery Act proposed expedited permitting for energy projects and infrastructure, but without passage, it affected zero Americans. Rating historical legislative proposals that failed creates misleading impressions about government action when no action occurred. The negative score reflects that presenting a dead bill as current government action fundamentally misinforms citizens about what their government is actually doing.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.17 (113th Congress)",
-      "Congressional Record, Feb 2013",
-      "Senate Committee on Energy and Natural Resources records"
-    ]
-  },
-  {
-    "id": 1272,
-    "sourceId": "cg:113-S-338",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/338?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 338: Land and Water Conservation Authorization and Funding Act of 2013",
-    "score": -8,
-    "snapshot": "S 338 was introduced in 2013 to reauthorize and fund the Land and Water Conservation Fund but died in committee without passage. No appropriations were made, no lands conserved, and no public benefit materialized from this failed legislative attempt.",
-    "verdict": "// VERDICT: A bill that never passed committee produced zero measurable impact while consuming congressional resources on a proposal that went nowhere for over a decade.",
-    "detail": "This legislation represents congressional failure rather than action. Introduced in February 2013 and referred to the Energy and Natural Resources Committee, S 338 never received a hearing, markup, or floor vote in the 113th Congress. <strong>The bill expired without enactment, meaning no funds were authorized, no conservation projects funded, and no public lands protected.</strong> Scoring a non-action creates an analytical problem: there's no actual policy to evaluate for public benefit or fiscal impact. However, the legislative process itself consumed staff time, committee resources, and opportunity cost. The bill's dormancy for over 13 years while being referenced in 2026 suggests either database error or meaningless archival citation. In either case, Americans received no conservation benefits, no new park access, and no return on the legislative investment required to draft and introduce the measure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 113th Congress",
-      "Senate Legislative Database",
-      "Committee on Energy and Natural Resources proceedings"
-    ]
-  },
-  {
-    "id": 1253,
-    "sourceId": "cg:98-S-1024",
-    "sourceUrl": "https://www.congress.gov/bill/98/s/1024?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 1024: National Science Foundation Authorization Act for Fiscal Year 1984",
-    "score": -50,
-    "snapshot": "S 1024 from 1983 authorized NSF funding for FY1984. This item is dated 2026-09-08 but references 43-year-old legislation that has long since been superseded, making it irrelevant to current governance.",
-    "verdict": "// VERDICT: Scoring archival legislation from 1983 as a 2026 action produces maximum negative scores across all criteria due to complete lack of contemporary relevance or actionable impact.",
-    "detail": "This appears to be a data error or test case. The National Science Foundation Authorization Act for FY1984 was Senate calendar business in 1983, over four decades ago. <strong>Evaluating 43-year-old authorization bills as current 2026 congressional actions fails every criterion: no measurable public benefit today, no fiscal relevance to current budgets, no connection to current legal processes, and no impact on cost distribution among living Americans.</strong> The legislation itself likely had merit in 1983-1984 for supporting scientific research, but analyzing it in a 2026 context is meaningless. If this represents an actual congressional action in September 2026, the underlying documentation is fundamentally flawed and requires correction before substantive evaluation is possible.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar 1983",
-      "Congressional Record 98th Congress",
-      "Data anomaly: FY1984 bill dated 2026"
-    ]
-  },
-  {
-    "id": 1254,
-    "sourceId": "cg:98-S-607",
-    "sourceUrl": "https://www.congress.gov/bill/98/s/607?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 607: Public Broadcasting Amendments Act of 1984",
-    "score": -18,
-    "snapshot": "S 607 (1984) proposed amendments to public broadcasting funding and governance. President Reagan pocket vetoed the bill on October 22, 1984, preventing it from becoming law.",
-    "verdict": "// VERDICT: A 42-year-old vetoed bill that never became law produces no current public impact and wastes congressional resources if reintroduced without modification.",
-    "detail": "This item references legislation from 1984 that was pocket vetoed and never enacted. If Congress in 2026 is considering this identical bill number from a previous session, it represents either administrative error or an attempt to revive decades-old policy without addressing intervening changes in public broadcasting, technology, and fiscal circumstances. <strong>No measurable public benefit exists from processing obsolete legislation that was rejected by the executive branch in a different era.</strong> The action violates fiscal responsibility by consuming staff time and legislative bandwidth on non-viable proposals. While following formal process for bill consideration, it fails the substance test of addressing current needs. The opportunity cost falls on taxpayers who fund congressional operations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 98th Congress",
-      "Presidential Pocket Veto, Oct 1984",
-      "Senate Bill S.607 (1984)"
-    ]
-  },
-  {
-    "id": 1255,
-    "sourceId": "cg:112-S-2248",
-    "sourceUrl": "https://www.congress.gov/bill/112/s/2248?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 2248: Fracturing Regulations are Effective in State Hands Act",
-    "score": -18,
-    "snapshot": "S 2248 would prevent EPA from regulating hydraulic fracturing under the Safe Drinking Water Act, leaving oversight exclusively to states. The bill died in committee in 2012 and was never enacted.",
-    "verdict": "// VERDICT: Shifting federal environmental oversight to states with widely varying capacity and industry influence created uneven protection for drinking water resources.",
-    "detail": "This 2012 legislative proposal sought to strip EPA of authority over fracking operations, relying instead on state-level regulation. <strong>The fundamental problem was the massive disparity in state regulatory capacity—some states had robust programs while others lacked resources or political will to monitor groundwater contamination risks.</strong> While proponents cited state expertise and local control, the absence of minimum federal standards created a patchwork where drinking water protections depended on zip code. The bill scored poorly on measurable benefit because documented groundwater contamination cases showed state-only oversight had gaps. Fiscally, it shifted environmental cleanup costs to affected communities rather than operators. It followed legislative process but raised rule-of-law concerns by removing federal backstop protections established under existing statute. Cost distribution was regressive, with rural and low-income communities near drilling operations bearing disproportionate health risks.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 2248, 112th Congress (2012)",
-      "Congressional Record, Mar 2012",
-      "EPA Safe Drinking Water Act reports",
-      "State oil and gas commission records"
-    ]
-  },
-  {
-    "id": 1256,
-    "sourceId": "cg:112-S-2100",
-    "sourceUrl": "https://www.congress.gov/bill/112/s/2100?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 2100: Strategic Petroleum Supplies Act",
-    "score": -8,
-    "snapshot": "S 2100 (2012) proposed authorizing Strategic Petroleum Reserve drawdowns for price stabilization rather than emergency supply disruption. The bill stalled in committee and never became law.",
-    "verdict": "// VERDICT: Failed legislation from 2012 that would have expanded political discretion over emergency oil reserves without meaningful fiscal or supply security benefits.",
-    "detail": "This 2012 Senate bill sought to redefine when the Strategic Petroleum Reserve could be tapped, moving from genuine supply emergencies to price management—a fundamental shift that <strong>politicizes emergency stockpiles meant for actual crises</strong>. The proposal died in committee, suggesting bipartisan skepticism about using strategic reserves as economic policy tools. While proponents argued price relief benefits consumers, using finite emergency supplies to manipulate markets creates moral hazard, encourages continued oil dependence, and depletes reserves needed for wars or catastrophic disruptions. The bill included no replenishment mechanism or cost-benefit analysis for depleting reserves worth billions. Its failure to advance reflects recognition that short-term political pressure for lower gas prices shouldn't override long-term national security reserve doctrine.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 2100, 112th Congress (2012)",
-      "Senate Committee on Energy and Natural Resources",
-      "Congressional Record, Feb 2012"
-    ]
-  },
-  {
-    "id": 1257,
-    "sourceId": "cg:109-S-2480",
-    "sourceUrl": "https://www.congress.gov/bill/109/s/2480?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 2480: Contact Lens Consumer Protection Act",
-    "score": 32,
-    "snapshot": "S. 2480 requires eye care professionals to provide patients with contact lens prescriptions and mandates verification procedures for retailers. Passed in 2003 as the Fairbanks Act (P.L. 108-164), improving consumer choice and price competition in contact lens markets.",
-    "verdict": "// VERDICT: Established clear prescription release requirements and verification protocols that increased consumer access to competitive contact lens pricing while maintaining safety standards.",
-    "detail": "This legislation addressed market dysfunction where prescribers controlled both prescription writing and lens sales, creating conflicts of interest. <strong>By mandating automatic prescription release and establishing retailer verification procedures, the law enabled consumers to price-shop among retailers while preserving medical oversight.</strong> The Federal Trade Commission enforces compliance. Economic studies post-implementation showed consumers saved 10-20% through increased competition, particularly benefiting online and discount retailers. The law balanced commercial freedom with safety by requiring valid prescriptions and verification procedures. Administrative costs to practitioners were minimal (prescription copying), while eliminating anti-competitive practices. The law followed normal legislative process and aligned with consumer protection principles, though industry lobbying initially delayed passage.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "P.L. 108-164 (enacted Dec 2003)",
-      "FTC Contact Lens Rule, 16 CFR 315",
-      "Congressional Record, 108th Congress",
-      "Federal Register Vol. 69"
-    ]
-  },
-  {
-    "id": 1258,
-    "sourceId": "cg:112-S-2110",
-    "sourceUrl": "https://www.congress.gov/bill/112/s/2110?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 2110: Northern Cheyenne Land Consolidation Act",
-    "score": 8,
-    "snapshot": "S 2110 would consolidate fragmented land holdings within the Northern Cheyenne Indian Reservation in Montana through federal purchase and exchange mechanisms. The bill died in committee in 2012 without floor action or cost estimate.",
-    "verdict": "// VERDICT: Land consolidation addresses documented heirship fractionation harming tribal economic development, but lack of fiscal analysis and failure to advance limits assessment of implementation costs and legal safeguards.",
-    "detail": "Indian land fractionation—where allotments are divided among multiple heirs over generations—creates parcels with hundreds of co-owners, making land economically unusable and costing Interior millions annually in management. <strong>Consolidation demonstrably improves tribal self-governance and reduces federal administrative burden, as shown in similar efforts under the Indian Land Consolidation Act.</strong> However, this bill never received a CBO score, hearing, or committee vote, preventing analysis of acquisition costs, voluntary exchange protections, and market-rate compensation requirements. The constitutional authority exists under federal trust responsibility, but absence of deliberation means procedural adequacy and safeguards against coercive exchanges remain unverified. Benefits are directionally positive for tribal sovereignty and efficiency, but speculative without implementation details.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 2110, 112th Congress (2011-2012)",
-      "Indian Land Consolidation Act amendments",
-      "GAO reports on fractionated Indian lands",
-      "Congressional Record, Feb 2012"
     ]
   }
 ]
