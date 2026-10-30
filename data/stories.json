@@ -1,5 +1,411 @@
 [
   {
+    "id": 1767,
+    "sourceId": "cg:114-HR-3459",
+    "sourceUrl": "https://www.congress.gov/bill/114/hr/3459?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "HR 3459: Protecting Local Business Opportunity Act",
+    "score": -25,
+    "snapshot": "HR 3459 from the 114th Congress (2015-2016) was placed on the Union Calendar in December 2015 but never enacted. The bill aimed to restrict local governments' ability to mandate paid sick leave and minimum wage requirements beyond federal standards.",
+    "verdict": "// VERDICT: Preempts local authority to set labor standards while providing no compensating federal protections, effectively blocking measurable wage and sick leave improvements that municipalities enacted based on local cost-of-living data.",
+    "detail": "This bill would have prohibited state and local governments from enacting paid sick leave mandates or minimum wages exceeding federal levels, framed as protecting business flexibility. <strong>However, federal minimum wage has remained $7.25/hour since 2009, failing to track inflation or regional cost variations, while over 30 cities and states have enacted higher standards based on local economic analysis.</strong> The legislation offers no alternative federal safety net or wage adjustment mechanism. By preventing democratic responses to documented local needs—cities like Seattle and San Francisco raised minimums after studies showed standard wages insufficient for basic housing—it removes tools that measurably improved worker financial stability. The constitutional federalism question is complex, but the practical effect is eliminating proven local interventions without replacement, shifting economic strain onto workers in high-cost regions while providing regulatory certainty for businesses at worker expense.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 114th Congress",
+      "Bureau of Labor Statistics wage data",
+      "National Employment Law Project analysis",
+      "Federal Register minimum wage history"
+    ]
+  },
+  {
+    "id": 1768,
+    "sourceId": "cg:115-HR-3441",
+    "sourceUrl": "https://www.congress.gov/bill/115/hr/3441?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "HR 3441: Save Local Business Act",
+    "score": -28,
+    "snapshot": "HR 3441 would overturn the 2015 NLRB Browning-Ferris decision that expanded joint-employer liability under the National Labor Relations Act. The bill narrowly passed the House in 2017 but stalled in the Senate and never became law.",
+    "verdict": "// VERDICT: This bill prioritized franchise business interests over worker protections by restricting employer accountability, offered no measurable public benefit, and failed to advance through the legislative process.",
+    "detail": "The Save Local Business Act attempted to reverse a National Labor Relations Board ruling that held companies liable for labor violations by their franchisees and contractors when they exercised substantial control over working conditions. <strong>Proponents argued it protected small franchisees from unfair liability, while opponents demonstrated it would shield corporations from accountability for wage theft, safety violations, and union-busting while workers bore the costs.</strong> The bill passed the House 242-181 but died in the Senate, reflecting its controversial nature. It offered no documented benefits to workers or the general public, created fiscal uncertainty by potentially increasing enforcement costs, and represented a legislative attempt to override an independent agency's legal interpretation without addressing underlying worker protection gaps. The cost distribution heavily favored large corporations over vulnerable low-wage workers in franchise industries.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Nov 2017",
+      "NLRB Browning-Ferris Industries decision (2015)",
+      "House Vote 602, 115th Congress",
+      "Senate Legislative Calendar, 115th Congress"
+    ]
+  },
+  {
+    "id": 1770,
+    "sourceId": "cg:117-HR-7754",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7754?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "HR 7754: COVID–19 Commuter Benefits Distribution Act",
+    "score": -28,
+    "snapshot": "HR 7754 would have provided tax-free commuter benefits during COVID-19. Referred to committee in May 2022, no further action taken, bill died with the 117th Congress.",
+    "verdict": "// VERDICT: Expired legislative proposal with no fiscal impact, limited scope, and superseded by pandemic recovery timeline.",
+    "detail": "This bill sought to expand tax-free commuter benefits during the COVID-19 pandemic but never advanced beyond committee referral in 2022. <strong>By the October 2026 scoring date, the legislation is obsolete—the acute pandemic phase ended years earlier, making the temporal justification moot.</strong> No measurable public benefit materialized since the bill never became law. Fiscally, while commuter benefit expansions typically cost $100-300M annually in forgone revenue, no actual expenditure occurred. The bill followed proper referral procedures but represents congressional inaction rather than meaningful legislative effort. The narrow scope (commuter benefits only) would have provided modest relief to employed workers with pre-tax benefit access while offering nothing to unemployed, remote, or gig workers during the pandemic's economic disruption.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7754 status",
+      "Congressional Record, 117th Congress",
+      "IRS Publication 15-B (Fringe Benefits)"
+    ]
+  },
+  {
+    "id": 1773,
+    "sourceId": "cg:117-S-4207",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4207?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "S 4207: COVID–19 Commuter Benefits Distribution Act",
+    "score": -18,
+    "snapshot": "S 4207 would have created tax-advantaged commuter benefits during COVID-19, introduced in May 2022 when remote work patterns had largely stabilized. The bill died in committee without passage, CBO score, or floor consideration.",
+    "verdict": "// VERDICT: A well-intentioned COVID relief measure introduced two years into the pandemic after emergency conditions had subsided, never advanced due to questionable timing and unclear fiscal impact.",
+    "detail": "This bill proposed expanding commuter benefit tax exclusions during a period when commuting patterns had fundamentally shifted and many COVID emergency programs were winding down. <strong>The legislation failed basic fiscal responsibility by lacking any cost estimate or revenue offset analysis before stalling in committee.</strong> While targeted tax relief can serve legitimate policy goals, introducing commuter-specific COVID benefits in mid-2022—when vaccination rates exceeded 65%, mask mandates had largely ended, and hybrid work had become normalized—demonstrated poor timing and questionable public health rationale. The bill never received hearings, markup, or floor votes, suggesting even its sponsors recognized these deficiencies. Without documented need assessment, beneficiary analysis, or fiscal scoring, it represents legislative theater rather than serious policymaking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4207 (117th Congress)",
+      "Senate Finance Committee records, 2022",
+      "CDC COVID-19 Data Tracker, May 2022",
+      "Congressional Record Vol. 168"
+    ]
+  },
+  {
+    "id": 1769,
+    "sourceId": "cg:117-S-3619",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3619?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 3619: A bill for the relief of Vichai Sae Tung (also known as Chai Chaowasaree).",
+    "score": -18,
+    "snapshot": "S 3619 is a private immigration relief bill for one individual, Vichai Sae Tung (Chai Chaowasaree), introduced in 2022 and referred to Senate Judiciary with no further action. The bill remains dormant with no substantive legislative progress as of the 2026 date referenced.",
+    "verdict": "// VERDICT: A stalled private relief bill providing immigration benefit to one individual, with no documented broader public impact and minimal legislative process completion.",
+    "detail": "Private immigration bills address individual hardship cases outside normal immigration procedures. While such bills can serve humanitarian purposes, they inherently benefit a single person rather than the broader public. <strong>This bill has made no legislative progress beyond initial referral to committee in February 2022, showing no movement toward passage or hearings in nearly five years.</strong> Without details on the specific circumstances necessitating relief, the case for exceptional treatment remains unsubstantiated. The minimal fiscal cost is offset by the inefficiency of Congressional resources spent on individual cases rather than systemic immigration reform. The bill follows proper introduction procedures but represents legislative resource allocation toward particularized rather than general benefit. Private bills, while constitutional, represent a departure from rule-of-law principles favoring uniform application of immigration standards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3619, 117th Congress (2022)",
+      "Congressional Record, Feb 2022",
+      "Senate Judiciary Committee referral records"
+    ]
+  },
+  {
+    "id": 1771,
+    "sourceId": "cg:117-HR-5817",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5817?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 5817: NCAA Accountability Act of 2021",
+    "score": -35,
+    "snapshot": "HR 5817 stalled in committee in 2021 and never advanced, producing zero legislative impact. As of October 2026, the bill remains dormant with no action for five years.",
+    "verdict": "// VERDICT: A non-enacted proposal that consumed congressional resources without delivering any measurable policy outcome or public benefit.",
+    "detail": "The NCAA Accountability Act of 2021 was introduced during the 117th Congress but never progressed beyond committee referral in November 2021. <strong>Five years later, this bill has produced no legislative changes, no regulatory framework, and no tangible benefit to student athletes or the public.</strong> Whatever its original intentions regarding NCAA oversight, the proposal represents a complete failure of the legislative process—committee referral without hearings, markup, or floor consideration. Congressional resources were expended on drafting and introducing legislation that achieved nothing. The bill's dormancy through 2022-2026 indicates either lack of political will, poor drafting, or insufficient coalition-building. No fiscal impact occurred because no law was enacted, but the opportunity cost of congressional attention and the false signal to stakeholders that reform was forthcoming merit significant penalty under measurable benefit and rule of law criteria.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5817 (117th Congress)",
+      "House Committee on Education and Labor records",
+      "Congressional Record, Nov 2021"
+    ]
+  },
+  {
+    "id": 1772,
+    "sourceId": "cg:117-S-1220",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1220?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 1220: United States Cadet Nurse Corps Service Recognition Act of 2021",
+    "score": 18,
+    "snapshot": "S 1220 grants federal service credit to nurses who served in the Cadet Nurse Corps during World War II (1943-1948), allowing surviving members to qualify for veterans' benefits including healthcare and burial rights. Estimated to affect fewer than 500 surviving participants, now in their 90s.",
+    "verdict": "// VERDICT: Recognizes documented wartime service with minimal fiscal impact, though delayed 75+ years after service ended.",
+    "detail": "The Cadet Nurse Corps was a federal program that trained over 124,000 nurses during WWII under binding service commitments. <strong>Despite being a uniformed federal service with sworn oaths, participants were never granted veteran status—an administrative oversight Congress is now correcting.</strong> The measurable benefit is limited by time: fewer than 500 corps members likely survive. Fiscal cost is negligible given the small, elderly population and existing VA infrastructure. The action follows proper legislative process and addresses a legitimate equity gap—male contemporaries in similar service roles received benefits decades ago. The primary weakness is the 75-year delay: most who served never received recognition. Cost distribution is fair, with benefits appropriately borne by federal budget rather than individuals.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1220, 117th Congress",
+      "Senate Committee on Veterans' Affairs Report, July 2021",
+      "U.S. Cadet Nurse Corps historical records, Public Health Service",
+      "Congressional Budget Office preliminary analysis"
+    ]
+  },
+  {
+    "id": 1774,
+    "sourceId": "cg:117-S-3943",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3943?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 3943: NCAA Accountability Act of 2022",
+    "score": -18,
+    "snapshot": "S 3943 would regulate NCAA athlete compensation and transfer policies through federal legislation. The bill stalled in committee in 2022 and saw no further action, remaining unresolved as of the 2026 date.",
+    "verdict": "// VERDICT: Federal micromanagement of collegiate athletic governance with no documented benefit, unclear enforcement mechanisms, and negligible fiscal impact.",
+    "detail": "This legislation represents congressional overreach into private organizational governance without demonstrable public harm requiring federal intervention. <strong>The bill addresses NCAA policy disputes that states and courts were already resolving through existing legal frameworks, creating redundant federal bureaucracy.</strong> No cost-benefit analysis justifies federal resources for collegiate sports rule-making. The constitutional basis under Commerce Clause is stretched—student athletics, while economically significant, traditionally fall under state education and contract law. The bill died in committee, suggesting even Congress recognized limited public interest. While athlete compensation raises legitimate equity questions, federal legislation for a private organization's internal rules fails basic government efficiency tests. The issue affects a narrow constituency (NCAA athletes) while imposing compliance costs on educational institutions nationwide.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.3943, 117th Congress",
+      "Congressional Record, March 2022",
+      "Senate Commerce Committee records"
+    ]
+  },
+  {
+    "id": 1775,
+    "sourceId": "cg:117-S-251",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/251?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 251: Protection of Women and Girls in Sports Act of 2021",
+    "score": -18,
+    "snapshot": "Bill prohibiting federally funded schools from permitting transgender females to participate on women's sports teams. Died in committee in 2021; no subsequent floor action or scoring.",
+    "verdict": "// VERDICT: Legislation addresses contested policy area but lacks measurable evidence of widespread harm it claims to remedy, raises constitutional concerns, and imposes unfunded compliance burdens on schools.",
+    "detail": "The bill would condition federal education funding on schools barring transgender girls from girls' sports teams, defining sex strictly as biological sex at birth. <strong>No Congressional Budget Office score exists, no documented cost-benefit analysis was produced, and the legislation never advanced beyond committee referral.</strong> Proponents cite fairness concerns in competitive athletics; opponents argue it discriminates against a small population (estimated 0.6% of youth) without evidence of systematic competitive imbalance. Constitutional questions arise under equal protection and Title IX interpretation. Implementation would require schools to verify biological sex, creating administrative costs with no identified funding mechanism. The approach bypasses existing case-by-case review processes used by athletic associations. Evidence of measurable public harm from current policies remains limited and anecdotal.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.251, 117th Congress (2021)",
+      "Congressional Record, Feb 2021",
+      "UCLA Williams Institute demographic data",
+      "Title IX regulatory history"
+    ]
+  },
+  {
+    "id": 1776,
+    "sourceId": "cg:117-S-3397",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3397?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 3397: VA Zero Suicide Demonstration Project Act of 2021",
+    "score": -25,
+    "snapshot": "S 3397 was introduced in December 2021 to establish a suicide prevention demonstration project at the VA but stalled in committee without passage or funding. By October 2026, the bill remains unacted upon for nearly five years.",
+    "verdict": "// VERDICT: A well-intentioned suicide prevention initiative that failed to advance through the legislative process, producing zero measurable benefit while consuming congressional resources.",
+    "detail": "The VA Zero Suicide Demonstration Project Act aimed to address veteran suicide through pilot programs, but the bill never progressed beyond initial committee referral. <strong>After five years without floor consideration, appropriations, or implementation, this represents pure legislative inaction on a critical veteran health crisis.</strong> While the intent addresses a documented problem—veteran suicide rates consistently exceed civilian rates—no policy change, funding allocation, or programmatic action resulted. The bill exemplifies congressional dysfunction: identifying a genuine problem but failing to execute solutions. Veterans continued facing suicide risk without the proposed interventions while congressional attention moved elsewhere. The legislative process was followed procedurally (committee referral), but functional abdication of responsibility on a life-or-death issue merits substantial penalty.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3397, 117th Congress",
+      "Congressional Record, Dec 2021",
+      "VA National Suicide Prevention Report",
+      "Congress.gov legislative status"
+    ]
+  },
+  {
     "id": 1757,
     "sourceId": "cg:117-S-5348",
     "sourceUrl": "https://www.congress.gov/bill/117/s/5348?format=json",
@@ -19805,408 +20211,6 @@
       "Congressional Record Senate, Sep 2006",
       "DOT Aviation Market Analysis 2007-2015",
       "Federal Register Vol. 71"
-    ]
-  },
-  {
-    "id": 1279,
-    "sourceId": "cg:109-S-2649",
-    "sourceUrl": "https://www.congress.gov/bill/109/s/2649?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 2649: Salmon Assistance and Recovery Act of 2006",
-    "score": -35,
-    "snapshot": "S 2649 died in committee in 2006 without becoming law and has no current legal effect. This is a 20-year-old legislative proposal that never advanced past initial referral.",
-    "verdict": "// VERDICT: A dead bill from 2006 produces zero measurable outcomes and represents historical record only, not active policy warranting contemporary evaluation.",
-    "detail": "Scoring a bill that died in committee two decades ago against criteria designed for active government actions yields uniformly negative results. <strong>There is no measurable public benefit because the legislation never took effect—salmon recovery efforts that occurred after 2006 resulted from other laws and agency actions.</strong> Fiscally, the proposal had unknown cost implications that were never analyzed by CBO since it died at referral. From a rule-of-law perspective, the committee referral followed proper procedure, but the legislative process was abandoned, leaving no legal framework. Cost distribution cannot be assessed for a proposal that generated no actual expenditures or regulatory burden. The 2026 date appears erroneous; no congressional action occurred on this bill in 2026, and the 109th Congress ended in January 2007.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 109th Congress",
-      "Senate Legislative Database",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1280,
-    "sourceId": "cg:113-S-503",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/503?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 503: Sangre de Cristo National Historical Park Establishment Act",
-    "score": -8,
-    "snapshot": "S 503 would establish Sangre de Cristo National Historical Park in New Mexico/Colorado, preserving approximately 24,000 acres of cultural and natural resources. The bill stalled in committee in 2013 and was never enacted.",
-    "verdict": "// VERDICT: A preservation initiative with modest cultural benefits undermined by unclear funding mechanisms, incomplete cost analysis, and failure to advance through proper legislative process.",
-    "detail": "The proposal aimed to protect historically significant lands with archaeological and cultural resources tied to Hispanic and Native American heritage. <strong>However, the bill never progressed beyond committee referral, failing to receive hearings, markups, or floor consideration—indicating insufficient legislative support or unresolved concerns about implementation costs and land management complexity.</strong> Without Congressional Budget Office scoring or detailed appropriations analysis, fiscal impact remains speculative. National parks typically require $2-5 million annually in operations plus initial development costs. The bill provided no offset mechanism and left acquisition costs undefined, creating potential unfunded liability. While cultural preservation has public value, the legislative abandonment suggests stakeholders identified problems with scope, cost, or local support that were never publicly resolved.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.503, 113th Congress (2013)",
-      "Senate Committee on Energy and Natural Resources",
-      "National Park Service Budget Estimates",
-      "Congressional Record, March 2013"
-    ]
-  },
-  {
-    "id": 1281,
-    "sourceId": "cg:108-S-1260",
-    "sourceUrl": "https://www.congress.gov/bill/108/s/1260?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 1260: Commercial Space Transportation Act of 2003",
-    "score": -48,
-    "snapshot": "S 1260 from 2003 has been dormant for 23 years with no passage, floor vote, or enactment. The September 2026 date represents no new legislative action—this bill died in committee decades ago.",
-    "verdict": "// VERDICT: A 23-year-old calendar placement with no subsequent action represents legislative failure, not governance, and wastes analytical resources on a non-event.",
-    "detail": "This scoring request contains a fundamental error: S 1260 was placed on the Senate calendar in July 2003 during the 108th Congress and never advanced. <strong>The 2026 date reflects no actual government action—the bill has been legislatively dead for over two decades.</strong> Commercial space law was eventually addressed through the 2004 Commercial Space Launch Amendments Act and subsequent legislation, making this particular bill historically obsolete. Evaluating a non-action as if it were a 2026 policy decision is meaningless. The four criteria score near-minimum because no public benefit was delivered, no funds were appropriated or spent, no legal framework was established, and no costs or benefits were distributed—nothing happened. This represents the opposite of effective governance: a proposal that consumed committee time in 2003 and then vanished without resolution.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.1260 (108th Congress)",
-      "Senate Legislative Calendar 2003",
-      "Commercial Space Launch Amendments Act of 2004 (enacted law)"
-    ]
-  },
-  {
-    "id": 1282,
-    "sourceId": "cg:111-S-848",
-    "sourceUrl": "https://www.congress.gov/bill/111/s/848?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 848: Helicopter Medical Services Patient Safety, Protection, and Coordination Act",
-    "score": -45,
-    "snapshot": "S 848 from 2009 never advanced past committee referral and died without action. This 17-year-old dormant bill provides no measurable public benefit as it was never enacted, debated, or implemented.",
-    "verdict": "// VERDICT: A bill that stalled in committee in 2009 and remained inactive for 17 years represents legislative failure with zero public impact, wasted committee resources, and complete absence of fiscal or regulatory outcomes.",
-    "detail": "This bill was introduced in April 2009, referred to committee, and abandoned without hearings, amendments, or votes. <strong>After 17 years of inaction, it has produced zero measurable outcomes for helicopter medical service safety or patient protection.</strong> The legislative process consumed staff time and committee resources without advancing to meaningful debate or vote. No funds were appropriated, no regulations changed, no safety standards implemented. The complete absence of legislative progress represents a failure of the congressional process to either advance worthy reforms or formally reject unworkable proposals. Bills that languish indefinitely waste institutional capacity and prevent consideration of alternative approaches to legitimate policy concerns around air medical services.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 111th Congress",
-      "Senate Legislative Calendar 2009",
-      "Committee on Commerce, Science, and Transportation records"
-    ]
-  },
-  {
-    "id": 1263,
-    "sourceId": "cg:112-S-2133",
-    "sourceUrl": "https://www.congress.gov/bill/112/s/2133?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 2133: America's Agricultural Heritage Partnership Reauthorization Act",
-    "score": -8,
-    "snapshot": "S 2133 reauthorizes the America's Agricultural Heritage Partnership, a program that expired in 2012. No action has occurred since 2012 subcommittee hearings; scoring this as a 2026 action reflects administrative error or database confusion.",
-    "verdict": "// VERDICT: A 14-year-old stalled bill with no recent legislative activity scores poorly on all criteria due to complete lack of implementation, measurable outcomes, or contemporary relevance.",
-    "detail": "This bill has been dormant since 2012 hearings and never progressed to passage or implementation. <strong>Scoring a 2012 bill as a 2026 action represents either a data error or an attempt to reintroduce legislation that failed over a decade ago.</strong> Without current text, cost estimates, or evidence of renewed consideration, no measurable public benefit exists. The fiscal impact cannot be assessed without updated CBO scoring. The legislative process stalled completely, suggesting either lack of merit or political support. Even if the underlying heritage partnership concept had value in 2012, evaluating it in 2026 without contemporary context, updated cost-benefit analysis, or actual legislative movement makes meaningful assessment impossible. The 14-year gap between hearing and purported action date undermines any claim to procedural legitimacy or fiscal responsibility.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.Hrg. 112-401 (March 2012)",
-      "Congress.gov bill status",
-      "Senate Energy and Natural Resources Committee records"
-    ]
-  },
-  {
-    "id": 1264,
-    "sourceId": "cg:107-HR-701",
-    "sourceUrl": "https://www.congress.gov/bill/107/hr/701?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "HR 701: Conservation and Reinvestment Act",
-    "score": -35,
-    "snapshot": "HR 701 from the 107th Congress (2001-2002) was referred to subcommittee in October 2002 and never enacted. This 2026 entry appears to reference a 24-year-old failed bill with no current legislative activity.",
-    "verdict": "// VERDICT: Scoring a long-dead bill from 2002 as a 2026 congressional action represents either data error or attempt to evaluate legislation that never became law and has no current impact.",
-    "detail": "This entry contains a fundamental inconsistency: it claims a September 2026 date for HR 701 from the 107th Congress (2001-2002), whose latest action occurred in October 2002. <strong>No conservation reinvestment legislation by this designation has measurable public benefit in 2026 because it never passed and is not currently under consideration.</strong> The bill died in subcommittee nearly a quarter-century ago. Without enacted provisions, there are no fiscal impacts to assess, no legal implementation to evaluate, and no cost distribution to analyze. If this represents attempted revival of similar conservation funding concepts, it should be submitted as new legislation with a current bill number. Scoring historical failed legislation as current action violates basic factual accuracy standards.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record 107th Congress",
-      "THOMAS Legislative Database",
-      "House Clerk Bill Status"
-    ]
-  },
-  {
-    "id": 1265,
-    "sourceId": "cg:108-S-1960",
-    "sourceUrl": "https://www.congress.gov/bill/108/s/1960?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 1960: A bill to exempt airports in economically depressed communities from matching grant obligations under the Airport Improvement Program.",
-    "score": -18,
-    "snapshot": "S 1960 would waive federal matching requirements (typically 10-25% local contribution) for Airport Improvement Program grants to airports in economically depressed areas. The bill stalled in committee in 2003 and never advanced.",
-    "verdict": "// VERDICT: Proposal shifts infrastructure costs entirely to federal taxpayers while removing local accountability mechanisms, with no documented outcomes after 23 years of inaction.",
-    "detail": "While targeting aid to struggling communities sounds reasonable, eliminating matching requirements removes critical cost discipline and local buy-in for infrastructure projects. <strong>Matching funds ensure communities prioritize genuinely needed improvements rather than pursuing federal money for marginal projects.</strong> The bill provides no definition of \"economically depressed,\" creates potential for gaming the system, and offers no sunset provision or performance metrics. After two decades without movement, there's zero evidence this approach was necessary or would have worked. The AIP already allows reduced matches (down to 5%) for small/rural airports, suggesting existing flexibility may suffice. Federal assumption of 100% costs sets problematic precedent for infrastructure programs that traditionally require state/local partnership.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 1960, 108th Congress",
-      "Congressional Record, Nov 2003",
-      "FAA Airport Improvement Program guidelines",
-      "Federal grant matching requirement standards"
-    ]
-  },
-  {
-    "id": 1266,
-    "sourceId": "cg:110-S-320",
-    "sourceUrl": "https://www.congress.gov/bill/110/s/320?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 320: Paleontological Resources Preservation Act",
-    "score": -48,
-    "snapshot": "S.320 from 2007 was placed on the Senate calendar but never passed. This entry lists a 2026 date for a bill from the 110th Congress (2007-2008), creating a 19-year chronological impossibility with no actual legislative action occurring.",
-    "verdict": "// VERDICT: No government action occurred; this represents either data error or fraudulent submission of decade-old inactive legislation as current policy.",
-    "detail": "The Paleontological Resources Preservation Act was real legislation introduced in 2007 to protect fossils on federal land, but it stalled in committee and never became law. <strong>Scoring this as a 2026 action is fundamentally dishonest—no vote happened, no resources were allocated, no policy changed, and no Americans were affected in September 2026.</strong> This fails every criterion: there is zero measurable benefit because nothing occurred, zero fiscal impact because no funds were appropriated or spent, complete failure of process because presenting 19-year-old calendar placement as current action violates basic transparency, and no cost distribution to analyze because the bill doesn't exist as active policy. If this represents a data submission error, it demonstrates dangerous incompetence in tracking what Congress actually does. If intentional, it's propaganda.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.320 (110th Congress)",
-      "Senate Legislative Calendar 2007",
-      "Congressional Record 2007-2008"
-    ]
-  },
-  {
-    "id": 1267,
-    "sourceId": "cg:105-S-1090",
-    "sourceUrl": "https://www.congress.gov/bill/105/s/1090?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 1090: A bill to specify that States may waive requirements relating to commerical driver's licenses under chapter 313 of title 49, United States Code, with respect to certain farm vehicles, and for other purposes.",
-    "score": -18,
-    "snapshot": "S 1090 would allow states to waive commercial driver's license (CDL) requirements for certain farm vehicles. Introduced in 1997, the bill was referred to committee but never advanced.",
-    "verdict": "// VERDICT: Weakens transportation safety standards by creating exemptions to federal CDL requirements without documented safety justification or offsetting protections.",
-    "detail": "This bill permits states to exempt farm vehicles from federal CDL standards established under 49 USC Chapter 313. While agricultural operations face legitimate regulatory burdens, <strong>CDL requirements exist because large vehicles pose documented public safety risks regardless of whether they transport crops or commercial freight.</strong> The bill provides no alternative safety training, medical certification, or oversight mechanisms. Evidence from states with existing agricultural exemptions shows higher crash rates among exempt drivers operating heavy equipment on public roads. The legislation offers convenience to one industry sector while shifting accident costs and injury risks to the general public sharing those roads. No fiscal analysis accompanied the bill, but increased accident rates typically impose healthcare, insurance, and infrastructure costs on state budgets and taxpayers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "49 USC Chapter 313 (Commercial Motor Vehicle Safety)",
-      "Congressional Record, 105th Congress",
-      "Federal Motor Carrier Safety Administration data"
-    ]
-  },
-  {
-    "id": 1268,
-    "sourceId": "cg:109-S-2390",
-    "sourceUrl": "https://www.congress.gov/bill/109/s/2390?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 2390: National Innovation Act--Commerce Provisions",
-    "score": -48,
-    "snapshot": "S 2390 from the 109th Congress (2005-2006) was referred to committee in March 2006 and never advanced. This 20-year-old dead bill has no current legal effect or relevance to 2026 governance.",
-    "verdict": "// VERDICT: A two-decade-old failed bill with zero legislative action since 2006 provides no measurable public benefit and wastes analytical resources on irrelevant historical artifacts.",
-    "detail": "This item represents a fundamental misuse of government oversight mechanisms. S 2390 died in committee in 2006 during the 109th Congress and has no bearing on current policy, law, or public welfare. <strong>Scoring a 20-year-old abandoned legislative proposal as if it were a current government action diverts attention from actual governance issues affecting Americans in 2026.</strong> The bill never received hearings, markup, or floor consideration. It created no fiscal obligations, established no legal precedent, and affected no citizens. Presenting dormant historical legislation as contemporary government action undermines the credibility of any oversight mechanism and suggests either fundamental research failure or deliberate misdirection.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov legislative history S 2390",
-      "Senate Committee records 109th Congress",
-      "Congressional Record March 2006"
     ]
   }
 ]
