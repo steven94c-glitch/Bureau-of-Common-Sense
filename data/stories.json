@@ -1,5 +1,127 @@
 [
   {
+    "id": 1780,
+    "sourceId": "cg:117-SCONRES-14",
+    "sourceUrl": "https://www.congress.gov/bill/117/sconres/14?format=json",
+    "branch": "Congress",
+    "date": "Oct 31",
+    "dateISO": "2026-10-31",
+    "title": "SCONRES 14: A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2022 and setting forth the appropriate budgetary levels for fiscal years 2023 through 2031.",
+    "score": -28,
+    "snapshot": "S.Con.Res. 14 (2021) was a $3.5 trillion budget framework for fiscal years 2022-2031, enabling reconciliation legislation without Republican votes. The resolution set spending targets but did not itself appropriate funds or enact policy.",
+    "verdict": "// VERDICT: A procedural budget resolution that authorized massive spending increases while relying on optimistic revenue assumptions and pushing costs to future taxpayers.",
+    "detail": "This concurrent resolution established the budget framework that enabled the Build Back Better agenda through reconciliation procedures. While it set ambitious targets for social spending, climate initiatives, and healthcare expansion, <strong>the resolution relied on revenue projections that subsequent CBO analysis found inadequate to cover the proposed spending levels.</strong> The framework pushed significant costs beyond the 10-year budget window and failed to address long-term entitlement sustainability. As a procedural vehicle, it bypassed normal legislative compromise by using reconciliation rules designed for deficit reduction. The final legislation enacted under this framework (Inflation Reduction Act, 2022) was substantially smaller than the $3.5 trillion authorized, suggesting the original budget targets were unrealistic. The resolution exemplifies fiscal planning that prioritizes current spending commitments over intergenerational equity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.Con.Res. 14, 117th Congress",
+      "Congressional Record, August 2021",
+      "CBO Budget Outlook 2021-2031",
+      "H.Res. 601 (procedural vehicle)"
+    ]
+  },
+  {
+    "id": 1783,
+    "sourceId": "cg:117-HRES-379",
+    "sourceUrl": "https://www.congress.gov/bill/117/hres/379?format=json",
+    "branch": "Congress",
+    "date": "Oct 31",
+    "dateISO": "2026-10-31",
+    "title": "HRES 379: Dismissing the election contest relating to the office of Representative from the Fourteenth Congressional District of Illinois.",
+    "score": -15,
+    "snapshot": "House resolution dismissing an election contest for Illinois's 14th Congressional District, passed May 2021. The resolution rejected challenger's claims and upheld the original election certification.",
+    "verdict": "// VERDICT: Procedurally proper resolution of an election contest, though timing raises questions about efficiency of the contested election process.",
+    "detail": "HRES 379 dismissed an election contest under the Federal Contested Elections Act (2 U.S.C. §§381-396), which provides the constitutional mechanism for House review of member elections. The resolution followed established procedure by referring the matter to the Committee on House Administration, conducting hearings, and bringing it to a floor vote. <strong>However, the contest took nearly five months to resolve after the 117th Congress convened, during which the disputed seat's representation remained uncertain.</strong> While the resolution itself upheld rule of law by following statutory process, the extended timeline imposed costs on constituents who lacked clear representation. No evidence suggests the underlying election had systemic problems requiring federal intervention. The process consumed House resources and staff time that could have been directed to legislative work, with minimal documented public benefit beyond confirming the status quo.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "2 U.S.C. §§381-396 (Federal Contested Elections Act)",
+      "Congressional Record, May 12, 2021",
+      "H.Res. 379, 117th Congress"
+    ]
+  },
+  {
+    "id": 1785,
+    "sourceId": "cg:117-S-4886",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4886?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "S 4886: Save Voters Act",
+    "score": -28,
+    "snapshot": "S 4886 proposed federal restrictions on non-citizen voting in federal elections, a practice already illegal under 18 U.S.C. § 611. The bill died in committee in 2022 with no legislative action, enacting no actual policy changes.",
+    "verdict": "// VERDICT: Redundant legislation addressing conduct already prohibited by federal law, resulting in zero measurable public benefit while consuming legislative resources.",
+    "detail": "The Save Voters Act sought to create additional penalties and verification mechanisms for non-citizen voting in federal elections, despite existing federal criminal prohibitions carrying fines and imprisonment. <strong>Available evidence indicates non-citizen voting occurs at statistically negligible rates—studies estimate 0.0001% to 0.003% of votes cast.</strong> The bill proposed unfunded state mandates for verification systems without appropriations, raising fiscal responsibility concerns. While following regular legislative process (committee referral), it represented performative lawmaking on a non-existent problem rather than addressing documented election administration challenges like equipment funding, poll worker shortages, or accessibility barriers. The bill's failure to advance reflected these fundamental issues: no documented problem requiring solution, no fiscal analysis of implementation costs, and opportunity cost of displacing substantive election security measures.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "18 U.S.C. § 611 (federal law)",
+      "Congressional Record, 117th Congress",
+      "Brennan Center election research",
+      "GAO election security reports"
+    ]
+  },
+  {
     "id": 1767,
     "sourceId": "cg:114-HR-3459",
     "sourceUrl": "https://www.congress.gov/bill/114/hr/3459?format=json",
@@ -160,6 +282,292 @@
       "Senate Finance Committee records, 2022",
       "CDC COVID-19 Data Tracker, May 2022",
       "Congressional Record Vol. 168"
+    ]
+  },
+  {
+    "id": 1777,
+    "sourceId": "cg:93-HR-7446",
+    "sourceUrl": "https://www.congress.gov/bill/93/hr/7446?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 7446: A bill to establish the American Revolution Bicentennial Administration, and for other purposes.",
+    "score": -8,
+    "snapshot": "HR 7446 established the American Revolution Bicentennial Administration in 1973 to coordinate the nation's 1976 bicentennial celebration. The commission organized commemorative events, historical exhibits, and educational programs across all 50 states.",
+    "verdict": "// VERDICT: A ceremonial expenditure with modest cultural value but negligible measurable public benefit, lacking rigorous cost controls for what amounted to a nationwide patriotic festival.",
+    "detail": "The Bicentennial Administration coordinated celebrations marking America's 200th anniversary, producing educational materials and supporting local commemorative activities. While such events have cultural significance, <strong>the legislation created a bureaucratic apparatus with limited accountability mechanisms for taxpayer spending on festivities rather than tangible public goods.</strong> The administration's budget grew without clear benefit metrics beyond attendance at parades and exhibits. Congressional oversight was minimal, treating patriotic celebration as self-justifying. The program followed legal process but exemplified discretionary spending that prioritizes symbolism over measurable outcomes. Future generations received no lasting infrastructure or reduced liabilities—only commemorative plaques and archived programs. The cost-benefit calculus heavily favored political optics over fiscal discipline, though the absolute expenditure remained relatively contained compared to modern federal programs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 93-179 (1973)",
+      "Congressional Record, 93rd Congress",
+      "Federal Register Vol. 38-39",
+      "GAO Report on Bicentennial Expenditures"
+    ]
+  },
+  {
+    "id": 1778,
+    "sourceId": "cg:114-HR-4875",
+    "sourceUrl": "https://www.congress.gov/bill/114/hr/4875?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 4875: United States Semiquincentennial Commission Act of 2016",
+    "score": -18,
+    "snapshot": "HR 4875 established a federal commission to plan the 250th anniversary of American independence in 2026. The commission coordinates commemorative activities, though actual implementation costs and outcomes remain unclear as the anniversary year unfolds.",
+    "verdict": "// VERDICT: A ceremonial commission with limited documented public benefit and questionable fiscal efficiency given administrative overhead for coordination activities.",
+    "detail": "The United States Semiquincentennial Commission was created to coordinate national celebrations for America's 250th birthday. While national commemorations can foster civic engagement and tourism, <strong>the measurable public benefit remains speculative without documented outcomes on participation rates, educational impact, or economic activity generated</strong>. Fiscal responsibility is compromised by administrative costs for commission staff, travel, and coordination without clear cost-benefit analysis or accountability metrics. The legislation followed proper legislative process through both chambers. However, cost distribution raises concerns as federal taxpayers fund what are largely symbolic coordination activities, with benefits potentially concentrated among tourism-dependent regions and event contractors rather than broadly distributed. The commission structure adds another layer of federal bureaucracy for activities that states and private organizations could potentially coordinate independently.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -13.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 114-196",
+      "Congressional Record, July 2016",
+      "Federal Register commission establishment",
+      "USAGov Semiquincentennial planning documents"
+    ]
+  },
+  {
+    "id": 1779,
+    "sourceId": "cg:117-S-189",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/189?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 189: Veterans' Compensation Cost-of-Living Adjustment Act of 2021",
+    "score": 38,
+    "snapshot": "S. 189 provides annual COLA increases to veterans' disability compensation and dependency allowance, matching Social Security adjustments. Became law October 2021, affecting approximately 5 million disabled veterans.",
+    "verdict": "// VERDICT: Routine cost-of-living adjustment maintaining purchasing power for disabled veterans with minimal fiscal impact relative to existing obligations.",
+    "detail": "This legislation mandates annual inflation adjustments to veterans' disability benefits, preventing erosion of purchasing power for service-connected disabilities. <strong>The COLA mechanism follows Social Security indexing, ensuring benefits keep pace with inflation without requiring annual legislative battles.</strong> Fiscal impact is marginal—these adjustments maintain existing benefit levels rather than expand them, and represent a small fraction of VA's $270B budget. The bill follows standard legislative process and fulfills constitutional obligations to veterans under Article I. Cost distribution is equitable: taxpayers fund earned benefits for service-disabled veterans, with no unfunded mandate or burden-shifting. The only modest deduction reflects that COLAs address symptoms of monetary policy rather than structural benefit design.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 117-45",
+      "Congressional Record, Oct 2021",
+      "VA Benefits Administration data",
+      "CBO baseline projections"
+    ]
+  },
+  {
+    "id": 1781,
+    "sourceId": "cg:117-S-3603",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3603?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 3603: Veterans Health Care Freedom Act",
+    "score": -8,
+    "snapshot": "S 3603 would expand veterans' ability to seek care outside the VA system. The bill stalled in committee in 2022 and saw no further legislative action.",
+    "verdict": "// VERDICT: Promising intent to expand veteran healthcare choice undermined by failure to address cost controls, provider network adequacy, or VA system coordination.",
+    "detail": "The Veterans Health Care Freedom Act aimed to increase healthcare flexibility for veterans by expanding access to non-VA providers. <strong>While choice expansion sounds beneficial, similar programs have historically generated cost overruns without corresponding quality improvements, and this bill provided insufficient detail on funding mechanisms, eligibility criteria, or quality safeguards.</strong> The VA's existing Community Care program already faces challenges with provider networks, reimbursement rates, and care coordination. Without addressing these structural issues, simply expanding choice risks fragmenting care and increasing costs. The bill's failure to advance beyond initial committee referral suggests even congressional supporters recognized implementation gaps. Evidence from the VA MISSION Act shows expanded choice programs require robust oversight and adequate funding—elements not clearly specified here.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3603, 117th Congress",
+      "Congressional Record, Feb 2022",
+      "VA MISSION Act implementation reports",
+      "GAO Veterans Healthcare reviews"
+    ]
+  },
+  {
+    "id": 1782,
+    "sourceId": "cg:117-HR-6273",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6273?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 6273: VA Zero Suicide Demonstration Project Act of 2021",
+    "score": 32,
+    "snapshot": "HR 6273 authorizes a VA demonstration project implementing comprehensive suicide prevention protocols across multiple VA facilities. The bill passed House committee by voice vote in September 2022 but has not advanced since.",
+    "verdict": "// VERDICT: A targeted, evidence-based suicide prevention initiative with documented success in civilian healthcare settings, though limited to demonstration phase and lacking implementation timeline.",
+    "detail": "The VA Zero Suicide framework applies systematic prevention strategies including universal screening, care transitions protocols, and means safety counseling—methods proven effective in civilian healthcare systems. <strong>Given that approximately 6,000 veterans die by suicide annually and veterans are 1.5 times more likely to die by suicide than non-veterans, targeted intervention demonstrates measurable need.</strong> The demonstration project structure allows evaluation before full rollout, showing fiscal prudence. However, the bill stalled after committee approval in 2022, meaning no appropriations or implementation occurred. The absence of cost estimates and specific facility selection criteria limits fiscal assessment. Constitutional process was followed through committee markup. Benefits accrue primarily to at-risk veteran populations, though taxpayer cost remains undefined without CBO scoring.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6273",
+      "VA National Suicide Prevention Report",
+      "Zero Suicide Institute clinical guidelines",
+      "House Committee on Veterans' Affairs markup"
+    ]
+  },
+  {
+    "id": 1784,
+    "sourceId": "cg:117-HR-1948",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/1948?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "HR 1948: VA Employee Fairness Act of 2021",
+    "score": -18,
+    "snapshot": "HR 1948 reinstates employment protections for VA employees that were previously reduced under the 2017 Accountability Act, making it harder to discipline or remove poorly performing staff. The bill passed the House in 2022 but stalled in the Senate.",
+    "verdict": "// VERDICT: Prioritizes employee job security over accountability mechanisms designed to improve veteran care quality.",
+    "detail": "The VA Employee Fairness Act rolled back expedited removal procedures established in the 2017 VA Accountability and Whistleblower Protection Act, restoring traditional civil service protections. <strong>While protecting employees from arbitrary dismissal has merit, the bill fails to address documented cases where accountability provisions helped remove staff involved in wait-time manipulation scandals and negligent care.</strong> Proponents argued the 2017 law was used vindictively; opponents noted that fewer than 3% of disciplinary actions were overturned on appeal, suggesting the system wasn't broken. The bill provides no alternative accountability framework, effectively returning to the pre-scandal status quo that allowed poor performers to remain in positions affecting veteran health outcomes. No fiscal impact analysis was completed, though legal costs from grievance proceedings were expected to rise.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Dec 2022",
+      "VA Office of Accountability Review, 2019-2021",
+      "House Veterans Affairs Committee Report 117-253"
+    ]
+  },
+  {
+    "id": 1786,
+    "sourceId": "cg:117-S-976",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/976?format=json",
+    "branch": "Congress",
+    "date": "Oct 29",
+    "dateISO": "2026-10-29",
+    "title": "S 976: Caring for Survivors Act of 2021",
+    "score": -35,
+    "snapshot": "S. 976 received a single hearing in April 2021 and has remained in committee for over 5 years without passage, floor vote, or implementation. No veterans or survivors have benefited from this stalled legislation.",
+    "verdict": "// VERDICT: Legislative inaction masquerading as veteran support—five years of committee limbo delivers zero measurable outcomes while survivors continue under existing inadequate provisions.",
+    "detail": "This bill exemplifies Congressional dysfunction where symbolic gestures substitute for governance. After a 2021 hearing, the Caring for Survivors Act vanished into committee purgatory, delivering precisely nothing to the military survivors it purports to help. <strong>Zero fiscal impact exists because zero implementation occurred—but the opportunity cost is real as survivors navigated five years without whatever improvements this bill promised.</strong> The committee hearing generated a printed record (S.Hrg. 117-137) but no legislative momentum. Constitutional process was technically followed (committee referral, hearing), but abandoning legislation for half a decade while maintaining the pretense of concern violates democratic accountability norms. This pattern—introduce compassionate-sounding bills, hold perfunctory hearings, then ignore—imposes costs through inaction, leaving beneficiaries in limbo and eroding public trust in legislative capacity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 976, 117th Congress",
+      "S.Hrg. 117-137 (Apr 2021)",
+      "Congress.gov bill status",
+      "Senate Veterans' Affairs Committee records"
     ]
   },
   {
@@ -19809,408 +20217,6 @@
       "Nuclear Waste Policy Act of 1982",
       "GAO reports on Nuclear Waste Fund",
       "Congressional Record, May 2008"
-    ]
-  },
-  {
-    "id": 1289,
-    "sourceId": "cg:109-S-2802",
-    "sourceUrl": "https://www.congress.gov/bill/109/s/2802?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 2802: American Innovation and Competitiveness Act of 2006",
-    "score": -50,
-    "snapshot": "S 2802 from 2006 never became law and has been dead for 20 years. The 2026 date appears to be an error, as this bill died in the 109th Congress (2005-2006).",
-    "verdict": "// VERDICT: No scoring possible for a bill that died two decades ago and produced zero public impact.",
-    "detail": "This request contains a fundamental error: <strong>S 2802 was introduced in 2006, placed on the Senate calendar, and died when the 109th Congress ended without passage.</strong> It has no relevance to 2026 governance. The American Innovation and Competitiveness Act concept was later revived in different form (S 3084 in 2016, which did pass), but this specific bill produced no measurable outcomes. Without enactment, there are no public benefits, fiscal impacts, legal effects, or cost distributions to evaluate. A dead bill from 20 years ago scores zero across all criteria by default. The scoring framework requires actual government action, not legislative proposals that never advanced. This appears to be either a data error or an attempt to score historical legislative proposals, which falls outside the Bureau's mandate to evaluate implemented policies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S 2802 (109th Congress)",
-      "Senate Legislative Calendar 2006",
-      "Congressional Record 2006"
-    ]
-  },
-  {
-    "id": 1290,
-    "sourceId": "cg:107-S-1743",
-    "sourceUrl": "https://www.congress.gov/bill/107/s/1743?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 1743: National Terrorism Reinsurance Fund Act",
-    "score": -18,
-    "snapshot": "S.1743 proposed creating a federal reinsurance fund for terrorism losses after 9/11. The bill was introduced in 2002 but never advanced past sponsor remarks, superseded by the enacted Terrorism Risk Insurance Act (TRIA) later that year.",
-    "verdict": "// VERDICT: This bill failed to advance and was replaced by alternative legislation that became law, making retrospective scoring of its specific provisions moot beyond noting it represented an unsuccessful approach to post-9/11 insurance market stabilization.",
-    "detail": "The National Terrorism Reinsurance Fund Act was one of several competing proposals to address the terrorism insurance coverage crisis following September 11, 2001. While the specific provisions cannot be fully evaluated without legislative text, the reinsurance fund approach differed from the temporary backstop model that Congress ultimately adopted in TRIA. <strong>The bill's failure to gain traction and replacement by enacted legislation suggests its structure had significant flaws in balancing taxpayer exposure, industry participation, or political feasibility.</strong> Scoring reflects that this represents a path-not-taken rather than actual policy impact. The successful TRIA model provided temporary federal backing while requiring industry retention, whereas pure reinsurance fund structures risked greater federal exposure. Without implementation, measurable benefits are zero, though the policy conversation contributed to ultimate solution.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S5626-5627 (June 17, 2002)",
-      "Terrorism Risk Insurance Act of 2002 (P.L. 107-297)",
-      "Congressional Research Service: Terrorism Insurance",
-      "Federal Register Vol. 67"
-    ]
-  },
-  {
-    "id": 1291,
-    "sourceId": "cg:107-S-1458",
-    "sourceUrl": "https://www.congress.gov/bill/107/s/1458?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 1458: Volunteers for Safe Skies Act",
-    "score": -35,
-    "snapshot": "A 2001 bill that was read twice and referred to committee, never advancing further. No measurable implementation or public benefit occurred as the legislation died in committee without passage.",
-    "verdict": "// VERDICT: This bill produced zero public benefit as it never passed committee, wasting congressional resources on a proposal that went nowhere for over two decades.",
-    "detail": "The Volunteers for Safe Skies Act was introduced in the Senate in September 2001 (likely a post-9/11 response) but never progressed beyond initial committee referral. <strong>After 25 years, this bill remains dormant legislation that consumed drafting and review resources while delivering no policy outcome whatsoever.</strong> The absence of any floor action, hearings, or amendments indicates either fatal flaws in the proposal or complete lack of legislative priority. Scoring this in 2026 reveals a systemic problem: bills that die in committee represent pure governmental waste. Without knowing the specific provisions, we can only score the observable reality: no public safety improvements materialized, no funds were appropriated or saved, and the legislative process was followed only to the point of abandonment. This represents opportunity cost—congressional time spent on a measure that achieved nothing.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 1458, 107th Congress",
-      "Congressional Record, Sept 2001",
-      "Senate Legislative Calendar 2001-2002"
-    ]
-  },
-  {
-    "id": 1292,
-    "sourceId": "cg:113-S-393",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/393?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 393: White Clay Creek Wild and Scenic River Expansion Act of 2013",
-    "score": -8,
-    "snapshot": "S 393 (113th Congress, 2013) would have expanded the White Clay Creek Wild and Scenic River designation. The bill died in subcommittee over 13 years ago and has no current legislative status or relevance.",
-    "verdict": "// VERDICT: This is a defunct 2013 bill with zero current impact on Americans, representing a scoring exercise on legislative history rather than active governance.",
-    "detail": "This bill last saw action in June 2013 when referred to subcommittee, where it died without passage. Evaluating it in September 2026 serves no public purpose—it affects no current law, appropriates no funds, and binds no future action. <strong>The item represents administrative confusion or dataset error rather than actionable government conduct.</strong> While Wild and Scenic River designations can provide environmental protection and recreational access, this specific bill never became law and cannot be assessed for actual outcomes. The exercise consumes analytical resources on a non-issue. Any legitimate 2026 proposal for White Clay Creek would require new legislation with current environmental and fiscal data.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.393 (113th Congress)",
-      "Legislative status records 2013",
-      "Congressional subcommittee archives"
-    ]
-  },
-  {
-    "id": 1273,
-    "sourceId": "cg:113-S-228",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/228?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 228: Sacramento-San Joaquin Delta National Heritage Area Establishment Act",
-    "score": -8,
-    "snapshot": "S.228 would designate the Sacramento-San Joaquin Delta as a National Heritage Area, providing federal recognition and modest funding for regional preservation and tourism infrastructure. The bill stalled in 2013 subcommittee hearings and never advanced.",
-    "verdict": "// VERDICT: Dead legislation from 2013 with no current relevance; would have created modest preservation benefits offset by unclear funding mechanisms and duplication of existing state programs.",
-    "detail": "This 2013 proposal sought federal heritage area designation for California's Sacramento-San Joaquin Delta, theoretically boosting cultural preservation and ecotourism. <strong>However, the bill died in subcommittee over a decade ago and has zero current impact on Americans.</strong> Even at the time, National Heritage Areas typically receive $1-3 million annually in seed funding while requiring extensive local matching funds—creating questions about fiscal efficiency when state and local preservation programs already exist. The enabling legislation lacked specific cost projections or benefit metrics. Rule of law concerns are minimal (standard congressional process followed), but cost distribution favored a single California region with uncertain national benefit. The 2026 date in the prompt appears to be an error; this legislation has been dormant since 2013.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.Hrg. 113-27, Senate Subcommittee on National Parks (2013)",
-      "National Park Service Heritage Areas Program guidelines",
-      "Congressional Record, 113th Congress"
-    ]
-  },
-  {
-    "id": 1274,
-    "sourceId": "cg:113-S-14",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/14?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 14: Southeast Alaska Native Land Conveyance Act",
-    "score": -8,
-    "snapshot": "S.14 would convey federal lands to Southeast Alaska Native corporations under ANCSA provisions. The bill was referred to committee in 2013 and saw no further action, making it effectively defunct legislation with no current impact.",
-    "verdict": "// VERDICT: Dormant 13-year-old bill that never advanced beyond committee referral, representing zero measurable impact on Americans while illustrating legislative inefficiency.",
-    "detail": "This legislation died in committee over a decade ago during the 113th Congress (2013-2014) and has no bearing on current policy or operations. <strong>Scoring dormant legislation that never became law produces artificially negative results because it consumed congressional resources without yielding outcomes.</strong> The bill itself aimed to fulfill Native land entitlement obligations under the Alaska Native Claims Settlement Act, which could have scored positively on public benefit and rule of law if enacted with proper fiscal controls. However, the complete absence of legislative progress, combined with the resources expended on drafting and introduction, results in net negative scoring across criteria. The 2026 date appears to be a data error, as the last recorded action occurred in February 2013.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S872-873, Feb 26 2013",
-      "Senate Committee on Energy and Natural Resources records",
-      "Congress.gov bill tracking system"
-    ]
-  },
-  {
-    "id": 1275,
-    "sourceId": "cg:113-S-45",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/45?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 45: West Coast Ocean Protection Act of 2013",
-    "score": -40,
-    "snapshot": "S. 45 (2013) would have permanently banned new offshore oil and gas leasing along California, Oregon, and Washington coasts. The bill died in committee over 13 years ago and never became law.",
-    "verdict": "// VERDICT: Scoring a bill that died in committee in 2013 yields no measurable impact—no public benefit occurred, no fiscal effect materialized, and no law was enacted.",
-    "detail": "This item presents a legislative artifact from 2013 that never advanced beyond committee referral. <strong>Because S. 45 was never enacted, it produced zero real-world outcomes—no drilling was prevented, no coastal ecosystems were protected, no jobs were created or lost, and no federal revenues were affected.</strong> The date context (September 2026) compounds the absurdity: evaluating a 13-year-old failed bill as if it were current policy disregards the actual legislative and regulatory landscape governing offshore energy today. Without enactment, there is no measurable public benefit, no fiscal impact to assess, no law to evaluate for constitutional compliance, and no cost distribution to analyze. The exercise scores the absence of action, which by definition fails every criterion for government effectiveness.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.45 (113th Congress)",
-      "Senate Committee on Energy and Natural Resources records",
-      "Congressional Record 2013"
-    ]
-  },
-  {
-    "id": 1276,
-    "sourceId": "cg:113-S-96",
-    "sourceUrl": "https://www.congress.gov/bill/113/s/96?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 96: Rigs to Reefs Habitat Protection Act",
-    "score": -38,
-    "snapshot": "S.96 would convert decommissioned offshore oil rigs into artificial reefs rather than requiring full removal. The bill stalled in committee in 2013 and saw no further action, making it legislatively inactive for over a decade.",
-    "verdict": "// VERDICT: A 13-year-old proposal that never advanced beyond committee referral represents congressional inaction rather than policy impact, scoring negatively for failing to reach any substantive consideration or resolution.",
-    "detail": "This bill exemplifies legislative failure rather than governance. <strong>Introduced in January 2013 and immediately referred to committee with no hearings, markup, or floor consideration through 2026, S.96 consumed congressional resources while producing zero policy outcomes.</strong> The underlying concept of rigs-to-reefs programs exists in some Gulf states under different authorities, but this federal proposal contributed nothing to that framework. Whatever the merits of artificial reef conversion, a bill languishing for 13 years without advancement demonstrates broken legislative process. Congress allocated staff time, drafting resources, and bill numbering to a measure that never received serious consideration, crowding out functional legislation. The absence of fiscal scoring, environmental review, or stakeholder testimony means impacts remain entirely speculative.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.96, 113th Congress (2013)",
-      "Congressional Record, Jan 2013",
-      "Senate Energy and Natural Resources Committee records"
-    ]
-  },
-  {
-    "id": 1277,
-    "sourceId": "cg:109-S-1052",
-    "sourceUrl": "https://www.congress.gov/bill/109/s/1052?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 1052: Transportation Security Improvement Act of 2005",
-    "score": -50,
-    "snapshot": "S 1052 from the 109th Congress (2005-2006) never became law and has been legislatively dead for 20 years. The 2026 date represents a data error or anachronistic reference to expired legislation.",
-    "verdict": "// VERDICT: This bill expired in 2006 without passage and cannot be scored as a 2026 action; evaluating dead legislation as current government action violates basic temporal and procedural reality.",
-    "detail": "This scoring request contains a fundamental error: <strong>S 1052 was introduced in 2005, last saw calendar action in February 2006, and died when the 109th Congress ended in January 2007.</strong> It cannot be evaluated as a September 2026 government action because it does not exist in current legislative consideration. The bill addressed post-9/11 transportation security gaps, but Congress ultimately passed different security legislation (like the SAFE Port Act of 2006). Scoring requires an actual government action with real-world effects. A bill that expired two decades ago produces zero measurable benefit today, incurs no current fiscal cost, involves no contemporary legal process, and distributes nothing to anyone. The maximum penalty across all criteria reflects that this is not scoreable as presented.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.1052 (109th Congress)",
-      "Congressional Record 2005-2006",
-      "Legislative calendar archives"
-    ]
-  },
-  {
-    "id": 1278,
-    "sourceId": "cg:109-S-3661",
-    "sourceUrl": "https://www.congress.gov/bill/109/s/3661?format=json",
-    "branch": "Congress",
-    "date": "Sep 8",
-    "dateISO": "2026-09-08",
-    "title": "S 3661: Wright Amendment Reform Act of 2006",
-    "score": 28,
-    "snapshot": "The Wright Amendment Reform Act of 2006 phased out federal restrictions on long-haul flights from Dallas Love Field, expanding competition and consumer choice in the Dallas-Fort Worth aviation market. The law ended a 26-year restriction that had limited Love Field operations to neighboring states.",
-    "verdict": "// VERDICT: Measurable expansion of flight options and competitive pricing for North Texas travelers through removal of anticompetitive geographic restrictions, with negligible federal costs.",
-    "detail": "This legislation systematically dismantled the Wright Amendment, a 1979 restriction that confined Southwest Airlines' Love Field operations to Texas and neighboring states. <strong>The phased liberalization (immediate service to Missouri, Kansas, Alabama, and Mississippi; full deregulation by 2014) demonstrably increased flight frequencies, reduced average fares on affected routes by 15-30%, and expanded nonstop destination options for approximately 8 million annual Love Field passengers.</strong> The reform imposed no direct federal expenditures while generating incremental tax revenues from expanded aviation activity. Congressional process followed standard legislative procedure with bipartisan support from the Texas delegation. The primary beneficiaries were North Texas consumers and airlines seeking competitive access, with costs limited to incumbent carriers' reduced pricing power—a legitimate market adjustment rather than an inequitable burden.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 109-352, Oct 2006",
-      "Congressional Record Senate, Sep 2006",
-      "DOT Aviation Market Analysis 2007-2015",
-      "Federal Register Vol. 71"
     ]
   }
 ]
