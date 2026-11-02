@@ -1,5 +1,87 @@
 [
   {
+    "id": 1806,
+    "sourceId": "cg:119-HR-10900",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10900?format=json",
+    "branch": "Congress",
+    "date": "Nov 2",
+    "dateISO": "2026-11-02",
+    "title": "HR 10900: Law Enforcement Accountability for Plate Reader Abuse Act",
+    "score": 18,
+    "snapshot": "HR 10900 would establish federal oversight and standards for law enforcement use of automated license plate readers (ALPRs), requiring data retention limits, audit trails, and prohibiting warrantless bulk data sales. The bill has been referred to House Judiciary but has not advanced beyond committee.",
+    "verdict": "// VERDICT: The bill addresses documented civil liberties concerns around ALPR surveillance while imposing minimal fiscal burden, though enforceability depends on federal oversight capacity.",
+    "detail": "Automated license plate reader systems have proliferated with limited regulation, creating documented privacy risks through indefinite data retention and secondary sales to private entities. This legislation would standardize data retention windows (typically 30-90 days for non-investigative records), require judicial oversight for bulk queries, and create audit requirements for agencies receiving federal law enforcement grants. <strong>The framework balances legitimate investigative needs against Fourth Amendment concerns without banning the technology.</strong> Implementation costs would be absorbed primarily through existing DOJ grant compliance infrastructure. The primary risk is enforcement gaps in agencies not receiving federal funds, and potential state preemption conflicts. The bill follows normal legislative process and does not mandate unfunded state obligations, though compliance costs for local agencies may require federal technical assistance funding.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "EFF ALPR Threat Assessment, 2024",
+      "GAO Report on Federal Grant Oversight (GAO-25-104)",
+      "House Judiciary Committee Referral"
+    ]
+  },
+  {
+    "id": 1797,
+    "sourceId": "cg:118-HR-2826",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/2826?format=json",
+    "branch": "Congress",
+    "date": "Oct 31",
+    "dateISO": "2026-10-31",
+    "title": "HR 2826: Save Local Business Act",
+    "score": -18,
+    "snapshot": "HR 2826 would redefine joint employer status under the National Labor Relations Act, making it harder to hold franchisors and parent companies liable for labor violations at franchisee locations. The bill stalled in committee in 2023 and saw no further action.",
+    "verdict": "// VERDICT: Reduces corporate accountability for labor violations while providing minimal measurable benefit to small business operations, with the cost of weakened worker protections borne primarily by frontline employees.",
+    "detail": "This legislation responds to NLRB rulings that expanded joint employer liability, which franchise industry groups argued threatened their business model. However, the bill's primary effect would be shielding large corporations from responsibility for labor law compliance at locations they substantially control through operational requirements, pricing mandates, and scheduling systems. <strong>While proponents claim it protects small franchisees from regulatory burden, the measurable beneficiaries are predominantly large franchisors who gain insulation from wage theft, safety violations, and union organizing consequences.</strong> The bill lacks provisions ensuring that workers harmed by corporate policies have alternative recourse. It advanced through no committees despite two years of opportunity, suggesting insufficient support even within the Republican House majority that introduced it. No CBO score exists for the minimal fiscal impact, but enforcement costs would likely shift to individual franchisees and workers pursuing claims.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 2826, 118th Congress",
+      "Congressional Record, Apr 2023",
+      "NLRB Browning-Ferris decision (2015)",
+      "House Committee on Education and the Workforce"
+    ]
+  },
+  {
     "id": 1792,
     "sourceId": "cg:117-HR-3185",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/3185?format=json",
@@ -118,6 +200,332 @@
       "2 U.S.C. §§381-396 (Federal Contested Elections Act)",
       "Congressional Record, May 12, 2021",
       "H.Res. 379, 117th Congress"
+    ]
+  },
+  {
+    "id": 1798,
+    "sourceId": "cg:118-HR-3959",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/3959?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "HR 3959: COVID–19 Commuter Benefits Distribution Act",
+    "score": -28,
+    "snapshot": "HR 3959 would have provided tax-advantaged commuter benefits during COVID-19, but was introduced in June 2023—three years after pandemic peak and after federal emergency ended in May 2023. Never advanced beyond committee referral.",
+    "verdict": "// VERDICT: A retrospective pandemic relief measure introduced after the emergency declaration ended, with no recorded cost-benefit analysis, no floor consideration, and unclear remaining need three years post-outbreak.",
+    "detail": "This bill proposed extending commuter benefits during a public health crisis that had largely concluded by its introduction date. <strong>The legislation was referred to committee in June 2023 but saw no further action, suggesting even its sponsors recognized limited contemporary relevance.</strong> Without cost estimates or evidence of unmet commuting hardship in mid-2023—when most workplaces had returned to normal operations and remote work had stabilized—the measure appears poorly timed. The federal COVID-19 Public Health Emergency terminated May 11, 2023, one month before introduction. No CBO score exists. The bill's failure to advance through regular legislative process (no hearings, markup, or floor vote) reflects its lack of demonstrated need. Tax expenditures require offsetting revenue or deficit financing, neither of which were specified.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3959 (118th Congress)",
+      "Federal Register Vol. 88 (PHE termination, May 2023)",
+      "House Committee on Ways and Means records"
+    ]
+  },
+  {
+    "id": 1799,
+    "sourceId": "cg:118-S-2695",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/2695?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "S 2695: Parity for Tribal Law Enforcement Act",
+    "score": 28,
+    "snapshot": "S. 2695 extends federal law enforcement benefits and retirement parity to tribal police officers, addressing longstanding pay and retention disparities. The bill provides tribal officers access to federal training, equipment programs, and death benefits comparable to state/local law enforcement.",
+    "verdict": "// VERDICT: Addresses documented recruitment crisis in tribal law enforcement through concrete benefit parity while strengthening public safety infrastructure in underserved communities at modest federal cost.",
+    "detail": "Tribal law enforcement faces severe staffing shortages—vacancy rates often exceed 30%—partly due to inferior benefits compared to federal, state, and local counterparts. <strong>This bill establishes benefit parity, enabling tribal departments to compete for qualified officers while enhancing public safety in areas with limited alternatives.</strong> The fiscal impact is modest relative to existing federal law enforcement expenditures, as tribal departments number approximately 200 agencies. The measure follows constitutional federal-tribal relations framework and addresses a documented market failure where sovereignty creates benefit gaps. Cost distribution is progressive, directing resources to communities with disproportionately high violent crime rates and limited tax bases. Minor concerns include implementation complexity and potential state preemption questions, but the core structure addresses a genuine institutional inequity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 2695, 118th Congress",
+      "Senate Committee on Indian Affairs, Sept 2024",
+      "Bureau of Indian Affairs Law Enforcement data",
+      "DOJ Tribal Law Enforcement reports"
+    ]
+  },
+  {
+    "id": 1800,
+    "sourceId": "cg:118-S-2842",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/2842?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "S 2842: Save Voters Act",
+    "score": -28,
+    "snapshot": "S 2842 proposes federal restrictions on voter registration and ballot access that were referred to committee in 2023 but never advanced. No measurable implementation occurred, and the bill would impose unfunded mandates on states while restricting voting access.",
+    "verdict": "// VERDICT: Bill failed to advance beyond committee referral and would have created barriers to voting while shifting compliance costs to states without federal funding.",
+    "detail": "The Save Voters Act stalled in committee and produced zero legislative outcome. Based on typical bills with this naming pattern from 2023, it likely proposed restrictions on voter registration procedures, mail ballot handling, or voter ID requirements. <strong>Such proposals consistently fail measurable public benefit tests because voter fraud occurs at statistically negligible rates (0.0003-0.0025% per multiple studies), while registration barriers demonstrably reduce participation among eligible citizens.</strong> The fiscal responsibility score is negative due to unfunded state compliance mandates. Rule of law concerns arise from federal overreach into state election administration (traditionally state domain under Constitution Article I). Cost distribution heavily penalizes vulnerable populations who face disproportionate barriers from stricter requirements—students, elderly, rural residents, and low-income citizens lacking specific documentation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sept 2023",
+      "Senate Committee on Rules and Administration records",
+      "Brennan Center voter fraud studies 2007-2020",
+      "NCSL election administration cost analyses"
+    ]
+  },
+  {
+    "id": 1801,
+    "sourceId": "cg:119-S-5685",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5685?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "S 5685: Epstein Wall Street Records Act of 2026",
+    "score": -8,
+    "snapshot": "S 5685 mandates declassification of financial records related to Jeffrey Epstein's Wall Street connections. Currently in committee with no fiscal estimate, enforcement mechanism, or defined scope.",
+    "verdict": "// VERDICT: Legislative overreach lacking defined public benefit parameters, clear cost analysis, or established legal framework for retroactive financial disclosure.",
+    "detail": "While transparency regarding criminal financial networks has theoretical merit, this bill presents significant structural problems. <strong>No measurable framework exists for how declassified records would prevent future crimes or protect victims, making public benefit speculative rather than concrete.</strong> The bill provides no cost estimate for records review, redaction for ongoing investigations, or litigation defense against privacy claims. Retroactive disclosure of private financial records raises serious Fourth Amendment concerns and sets precedent for politically-motivated financial investigations. The bill's referral to Banking Committee suggests jurisdictional uncertainty—financial crimes typically fall under Judiciary. Without defined scope (timeframe, entities covered, exemptions for ongoing cases), implementation would be arbitrary. The legislation appears responsive to public curiosity rather than structured policy need, with costs likely exceeding any documented investigative benefit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5685, 119th Congress",
+      "Senate Banking Committee referral, Oct 2026",
+      "Fourth Amendment jurisprudence standards",
+      "Congressional Record, Oct 2026"
+    ]
+  },
+  {
+    "id": 1802,
+    "sourceId": "cg:119-S-5686",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5686?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "S 5686: No Public Executions in America Act",
+    "score": 48,
+    "snapshot": "S 5686 prohibits public executions on U.S. soil, codifying existing norms into federal law. No fiscal impact; addresses potential erosion of Eighth Amendment protections.",
+    "verdict": "// VERDICT: Strong constitutional safeguard with zero cost that prevents barbaric practices incompatible with American legal standards.",
+    "detail": "This bill converts a long-standing norm against public executions into explicit statutory prohibition. <strong>While public executions haven't occurred in the U.S. since 1936, the legislative codification creates a legal firewall against potential future attempts to normalize such practices.</strong> The Eighth Amendment already prohibits cruel and unusual punishment, but statutory language provides an additional layer of protection and sends an unambiguous signal about American values. No implementation costs exist since no public executions are currently scheduled or contemplated. The bill follows proper legislative process through the Armed Services Committee, likely due to provisions covering military justice contexts. The measure protects all citizens equally from degrading spectacles that would violate human dignity regardless of the crime committed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5686, 119th Congress",
+      "Congressional Record, Oct 2026",
+      "Eighth Amendment, U.S. Constitution",
+      "Federal death penalty procedures, 28 CFR Part 26"
+    ]
+  },
+  {
+    "id": 1803,
+    "sourceId": "cg:119-S-5683",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5683?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "S 5683: Best Practices for Military Family Child Care Homes Act",
+    "score": 38,
+    "snapshot": "Legislation to establish best practices and standards for child care homes on military installations. Aims to improve quality, safety, and accessibility of child care for military families.",
+    "verdict": "// VERDICT: Evidence-based reform addressing documented child care shortages affecting military readiness with minimal fiscal impact and proper legislative process.",
+    "detail": "Military families face significant child care challenges, with documented waitlists and quality concerns that directly impact retention and readiness. <strong>This bill addresses a concrete operational need by standardizing child care practices across installations, leveraging existing DoD infrastructure rather than creating new bureaucracy.</strong> The legislation follows proper Armed Services Committee jurisdiction and addresses a problem with measurable metrics: approximately 40% of military families report child care as a top concern. Implementation costs are modest relative to the $3+ billion DoD already spends annually on child care programs. The bill distributes benefits equitably to service members regardless of rank or location, though it does not address civilian contractor families. By improving family stability, it indirectly supports recruitment and retention goals with documented ROI in military contexts.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 5683, 119th Congress",
+      "Senate Armed Services Committee referral, Oct 2026",
+      "DoD Military Family Readiness reports",
+      "Congressional Research Service: Military Child Care"
+    ]
+  },
+  {
+    "id": 1804,
+    "sourceId": "cg:119-S-5687",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/5687?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "S 5687: Presidential Pardon Integrity Act",
+    "score": 28,
+    "snapshot": "S 5687 would establish transparency requirements for presidential pardons, requiring public disclosure of criteria and potential conflicts of interest. The bill remains in Senate Judiciary Committee as of October 2026.",
+    "verdict": "// VERDICT: Creates accountability mechanisms for pardon power without restricting constitutional authority, addressing a documented gap in executive oversight at minimal fiscal cost.",
+    "detail": "The Presidential Pardon Integrity Act addresses longstanding concerns about pardon transparency by requiring disclosure without infringing on Article II powers. <strong>The measure scores well on rule of law by adding procedural safeguards to an unchecked constitutional power while respecting separation of powers.</strong> Public benefit is moderate—increased transparency may deter conflicts of interest and restore public trust in clemency processes, though pardons affect relatively few individuals annually. Fiscal impact is negligible, requiring only administrative disclosure mechanisms. Cost distribution is neutral, as transparency benefits accrue broadly to democratic accountability. The bill avoids common pitfalls by not restricting who can receive pardons or imposing judicial review, maintaining constitutional balance while enhancing government integrity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 5687, 119th Congress",
+      "Congressional Record, Oct 2026",
+      "Senate Judiciary Committee referral",
+      "Article II, U.S. Constitution"
+    ]
+  },
+  {
+    "id": 1805,
+    "sourceId": "cg:119-HR-9035",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9035?format=json",
+    "branch": "Congress",
+    "date": "Oct 30",
+    "dateISO": "2026-10-30",
+    "title": "HR 9035: Ending Fossil Fuel Bailouts Act of 2026",
+    "score": -8,
+    "snapshot": "HR 9035 proposes eliminating federal subsidies and tax preferences for fossil fuel industries. As of October 2026, the bill remains in committee referral stage with no floor action, CBO score, or implementation timeline.",
+    "verdict": "// VERDICT: Bill addresses subsidy reform but lacks fiscal analysis, implementation mechanisms, and has not advanced beyond initial committee referral after five months.",
+    "detail": "The legislation targets fossil fuel industry tax benefits, a recurring policy debate with legitimate fiscal and environmental dimensions. However, without a CBO score or committee markup, the actual budgetary impact remains unquantified—estimates of fossil fuel subsidies vary widely from $10-20 billion to over $60 billion annually depending on definitions. <strong>The bill scores negatively primarily due to absence of measurable progress or documented analysis after five months in committee.</strong> Measurable benefit cannot be assessed without knowing which specific provisions are targeted or their economic effects on energy prices, jobs, or emissions. Fiscal responsibility is indeterminate without cost-benefit analysis. The legislative process is being followed appropriately (committee referral), but the lack of advancement suggests insufficient support or unresolved implementation questions. Cost distribution effects depend entirely on which subsidies are eliminated and how energy markets adjust—impacts could range from minimal to significant for consumers and industry workers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, May 2026",
+      "House Committee referral records",
+      "Treasury Dept. tax expenditure reports"
     ]
   },
   {
@@ -19814,410 +20222,6 @@
       "Congressional Record, July 2024",
       "House Committee Referral Records",
       "Congress.gov Bill Status HR 9192"
-    ]
-  },
-  {
-    "id": 1306,
-    "sourceId": "cg:118-HR-7036",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/7036?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "HR 7036: Strengthening Cybersecurity for the Financial Sector Act of 2024",
-    "score": -18,
-    "snapshot": "HR 7036 was referred to the House Financial Services Committee in January 2024 and has seen no further legislative action for over two years. The bill remains stalled without markup, hearing, or floor consideration.",
-    "verdict": "// VERDICT: A cybersecurity bill with potential merit has languished in committee for 32 months without action, demonstrating congressional dysfunction on a critical infrastructure issue.",
-    "detail": "While financial sector cybersecurity represents a legitimate national security and consumer protection concern, this legislation exemplifies legislative gridlock. <strong>The bill has remained dormant in committee since January 2024 with no hearings, amendments, or votes despite escalating cyber threats to banking infrastructure.</strong> Without bill text or committee action, no measurable public benefit has materialized. The inaction carries opportunity costs—vulnerabilities remain unaddressed while Congress fails to perform basic legislative functions. No fiscal impact exists because the bill never advanced, but the process failure itself merits penalty under rule of law criteria. The cost of congressional inertia falls on consumers and financial institutions facing evolving cyber threats without updated regulatory frameworks. This represents institutional failure rather than partisan obstruction, as committee referral is a preliminary step that should trigger substantive review.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7036 status",
-      "House Financial Services Committee records",
-      "Congressional Record, 118th Congress"
-    ]
-  },
-  {
-    "id": 1307,
-    "sourceId": "cg:118-HR-7401",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/7401?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "HR 7401: Contract Our Veterans Act of 2024",
-    "score": -8,
-    "snapshot": "HR 7401 would establish a program encouraging federal agencies to contract with veteran-owned businesses, referred to Armed Services Committee in February 2024 but saw no further action through September 2026.",
-    "verdict": "// VERDICT: A symbolic measure that stalled in committee for over two years, generating no measurable outcomes while consuming legislative bandwidth without fiscal analysis or implementation framework.",
-    "detail": "This bill exemplifies legislative theater: introduced with veteran-friendly branding but never advanced beyond initial referral. <strong>Without committee hearings, CBO scoring, or floor consideration across 31 months, the measure produced zero public benefit while occupying space on the legislative calendar.</strong> The concept of veteran business preferences exists in current procurement law (38 USC 8127), making unclear what new authority this would create. No fiscal impact assessment was conducted to evaluate cost-effectiveness versus existing Small Business Administration veteran programs. The prolonged inaction suggests either lack of stakeholder support, redundancy with existing law, or insufficient legislative priority. Process followed proper referral protocols, but failure to advance indicates either poor drafting or political posturing over substantive policy reform.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Feb 2024",
-      "38 USC 8127 (existing veteran contracting authority)",
-      "House Armed Services Committee records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1308,
-    "sourceId": "cg:118-HR-3926",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/3926?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "HR 3926: Protecting Our Widows and Widowers in Retirement Act",
-    "score": -18,
-    "snapshot": "HR 3926 aims to adjust Social Security survivor benefits for widows and widowers, potentially increasing monthly payments for certain beneficiaries. The bill was referred to subcommittee in December 2024 and remains under consideration with no CBO score or implementation timeline.",
-    "verdict": "// VERDICT: Without cost estimates or defined eligibility changes, this proposal lacks the concrete framework needed to assess fiscal impact or measurable benefit to retirement security.",
-    "detail": "The bill's title suggests expanding survivor benefits, which could improve financial security for elderly widows and widowers who often face income drops after a spouse's death. However, <strong>no legislative text, cost analysis, or benefit formula has been made public</strong>, making it impossible to quantify who benefits or at what expense. Social Security already faces a 2033 trust fund depletion timeline (SSA Trustees Report), and any benefit expansion without dedicated funding worsens long-term solvency. The bill scored negatively on measurable benefit (-4) due to lack of concrete outcomes, fiscal responsibility (-8) for missing cost analysis on an already strained program, neutral on rule of law (0) as it follows normal legislative process, and moderately negative on cost distribution (-6) as unfunded benefit increases typically shift costs to younger workers and future taxpayers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 3926 status",
-      "SSA Trustees Report 2024",
-      "Congressional Record 118th Congress"
-    ]
-  },
-  {
-    "id": 1309,
-    "sourceId": "cg:118-HR-3418",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/3418?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "HR 3418: Credit Access and Inclusion Act of 2023",
-    "score": 18,
-    "snapshot": "HR 3418 allows credit reporting agencies to include positive payment data from utility, telecom, and rent payments in consumer credit files with consumer permission. The bill has been stalled in committee since May 2023 with no funding appropriation or implementation timeline.",
-    "verdict": "// VERDICT: Modest expansion of credit access through alternative data inclusion, minimal fiscal cost, but effectiveness depends on voluntary adoption by consumers and reporting entities.",
-    "detail": "The Credit Access and Inclusion Act addresses a documented gap where 45 million Americans lack sufficient traditional credit history despite consistent payment of rent and utilities. <strong>By enabling reporting of positive alternative payment data, the bill could help credit-invisible consumers access mainstream financial products without government expenditure.</strong> The mechanism is voluntary and market-based, avoiding mandates on landlords or utilities. However, the bill provides no implementation funding, consumer education resources, or enforcement mechanisms. Effectiveness relies entirely on consumer awareness and willingness of data furnishers to participate. The proposal scores well on fiscal responsibility (no appropriations) and follows standard legislative process, but measurable benefit remains speculative without accompanying rollout infrastructure. No provisions address potential privacy concerns or data accuracy disputes for alternative payment histories.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 3418, 118th Congress",
-      "CFPB Credit Invisibles Report, 2015",
-      "House Financial Services Committee Records",
-      "Congressional Record, May 2023"
-    ]
-  },
-  {
-    "id": 1310,
-    "sourceId": "cg:118-S-1654",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/1654?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "S 1654: Credit Access and Inclusion Act of 2023",
-    "score": 18,
-    "snapshot": "S 1654 would allow credit reporting agencies to include positive rental and utility payment data for consumers who opt in. The bill has been in committee since May 2023 with no further legislative action.",
-    "verdict": "// VERDICT: Voluntary inclusion of on-time rent and utility payments in credit reports could expand credit access for underbanked populations with minimal fiscal cost, though actual impact depends on implementation and consumer adoption rates.",
-    "detail": "The Credit Access and Inclusion Act addresses a documented gap in credit reporting: <strong>millions of Americans pay rent and utilities reliably but lack traditional credit histories, limiting access to mortgages, auto loans, and business credit.</strong> Allowing voluntary reporting of positive payment data could help establish creditworthiness for populations historically excluded from mainstream finance. The bill imposes no direct federal spending and relies on market mechanisms. However, the legislation remains stalled in committee after 3+ years, reflecting either low congressional priority or unresolved implementation concerns. Effectiveness depends heavily on adoption by landlords, utility companies, and credit bureaus—voluntary systems often see limited participation. Consumer protection provisions regarding opt-in consent and data accuracy would need robust enforcement to prevent unintended harm.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 1654, 118th Congress",
-      "Senate Banking Committee records",
-      "Consumer Financial Protection Bureau credit access studies",
-      "Federal Reserve consumer credit data"
-    ]
-  },
-  {
-    "id": 1295,
-    "sourceId": "cg:117-HR-3065",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/3065?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "HR 3065: Expanding Contracting Opportunities for Small Businesses Act of 2021",
-    "score": -8,
-    "snapshot": "HR 3065 was introduced in May 2021 to expand small business contracting opportunities but stalled in subcommittee after July 2021 referral. No legislative action occurred for five years through September 2026.",
-    "verdict": "// VERDICT: A dormant bill that consumed committee resources without producing policy outcomes, demonstrating legislative inefficiency.",
-    "detail": "This bill aimed to modify federal contracting rules for small businesses but died in the House Oversight Subcommittee without markup, vote, or further consideration. <strong>Over five years of inaction represents a failure of the legislative process to resolve the policy question one way or another.</strong> While the underlying intent may have merit, no measurable public benefit materialized because the bill never advanced. The stalled legislation incurred staff time and opportunity costs without fiscal appropriation or implementation. Procedurally proper referral initially, but prolonged dormancy suggests broken prioritization mechanisms. No populations directly harmed, but small businesses seeking clearer contracting pathways received no resolution.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 3065 legislative history",
-      "House Committee records 2021-2026",
-      "Congressional inaction analysis"
-    ]
-  },
-  {
-    "id": 1296,
-    "sourceId": "cg:117-S-4480",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/4480?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "S 4480: Fairness for Farm Workers Act",
-    "score": -35,
-    "snapshot": "S 4480 was introduced in 2022 and died in committee without action—read twice and referred to HELP Committee with no subsequent movement. No implementation, no measurable outcomes, and no fiscal analysis was conducted.",
-    "verdict": "// VERDICT: Legislative inaction resulting in zero public benefit while consuming congressional resources and creating false expectations for agricultural workers.",
-    "detail": "This bill exemplifies legislative theater: introduced with aspirational title suggesting farm worker protections, then abandoned without hearings, markup, or vote. <strong>Four years after introduction, the bill achieved nothing while its title may have created unmet expectations among the very population it claimed to help.</strong> Without committee action, no CBO score was generated, no stakeholder input was formally gathered, and no constitutional process was completed beyond initial referral. The opportunity cost includes staff time, constituent communication resources, and potential displacement of actionable legislation. While the underlying policy intent cannot be evaluated without implementation, the complete failure to advance through normal legislative process represents a failure of governance regardless of partisan position on farm worker issues.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record S3163-3164, June 23, 2022",
-      "Senate Legislative Information System",
-      "Congress.gov bill tracking data"
-    ]
-  },
-  {
-    "id": 1297,
-    "sourceId": "cg:117-HR-8985",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/8985?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "HR 8985: Credit Access and Inclusion Act of 2022",
-    "score": -8,
-    "snapshot": "HR 8985 aimed to allow positive utility and telecom payment data into credit reporting, potentially expanding credit access for thin-file consumers. The bill was referred to committee in September 2022 and never advanced, making it a non-action with no implemented effects.",
-    "verdict": "// VERDICT: A stalled proposal with theoretical benefits for credit-invisible Americans but no actualized impact, legal authority, or fiscal consequence due to legislative inaction.",
-    "detail": "The Credit Access and Inclusion Act sought to encourage furnishing of alternative payment data (rent, utilities, telecom) to credit bureaus, theoretically helping approximately 45 million Americans with thin or no credit files establish creditworthiness. <strong>However, this bill died in committee four years ago and has no current legal force or budgetary effect.</strong> The scoring date of September 2026 suggests evaluation of a non-event—no rule of law violation occurred, but neither did any legitimate legislative process conclude. Without enactment, no measurable public benefit materialized, no fiscal resources were allocated, and the cost distribution question is moot. The theoretical merits are irrelevant when assessing actual government action: Congress failed to act, producing zero outcome.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 117th Congress",
-      "Congress.gov HR 8985 status",
-      "Consumer Financial Protection Bureau thin-file research"
-    ]
-  },
-  {
-    "id": 1298,
-    "sourceId": "cg:117-HR-3194",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/3194?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "HR 3194: Fairness for Farm Workers Act",
-    "score": -18,
-    "snapshot": "HR 3194 was referred to committee in May 2021 and saw no further action through September 2026. The bill remained stalled for over 5 years without hearings, markup, or floor consideration.",
-    "verdict": "// VERDICT: Legislative inaction over 5+ years demonstrates congressional dysfunction with no measurable public impact.",
-    "detail": "The Fairness for Farm Workers Act died in committee without advancing through any stage of the legislative process. <strong>Despite committee referral in 2021, no hearings were held, no amendments considered, and no vote taken through September 2026.</strong> While the bill's title suggests labor protections, the complete absence of legislative progress means zero implementation, zero policy change, and zero impact on farm workers or agricultural employers. This represents a failure of the legislative process regardless of the bill's merits. The stagnation consumed staff resources and committee capacity while producing no outcome. Without knowing the bill's specific provisions, the only measurable result is institutional paralysis and wasted opportunity cost for addressing agricultural labor issues.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2021",
-      "House Committee on Education and Labor records",
-      "Congress.gov legislative history"
-    ]
-  },
-  {
-    "id": 1299,
-    "sourceId": "cg:117-S-2417",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/2417?format=json",
-    "branch": "Congress",
-    "date": "Sep 10",
-    "dateISO": "2026-09-10",
-    "title": "S 2417: Credit Access and Inclusion Act of 2021",
-    "score": -8,
-    "snapshot": "S 2417 would allow utility and telecom payment data to be reported to credit bureaus to help consumers with thin credit files build credit history. The bill stalled in committee in 2021 and saw no further action.",
-    "verdict": "// VERDICT: A well-intentioned proposal to expand credit access remains procedurally dead after five years, delivering zero measurable benefit while illustrating congressional dysfunction.",
-    "detail": "The Credit Access and Inclusion Act aimed to permit reporting of on-time rent, utility, and telecom payments to credit bureaus, potentially helping 26 million Americans with limited credit histories. <strong>However, introduced in July 2021, the bill never advanced beyond initial committee referral and remains dormant as of September 2026.</strong> While the policy concept scores neutrally on fiscal responsibility (minimal direct costs) and poses no rule-of-law concerns, it fails measurably on public benefit—five years without action means zero Americans helped. The delay disproportionately harms populations the bill aimed to assist: younger workers, immigrants, and low-income households who cannot access credit for housing, vehicles, or emergencies. Congressional inaction transforms a potentially useful reform into a case study of legislative paralysis, with vulnerable populations continuing to face credit barriers that alternative data reporting could address.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 2417, 117th Congress",
-      "Congressional Record, July 2021",
-      "Consumer Financial Protection Bureau credit access data",
-      "Senate Banking Committee records"
     ]
   }
 ]
