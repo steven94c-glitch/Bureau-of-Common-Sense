@@ -1,5 +1,409 @@
 [
   {
+    "id": 1817,
+    "sourceId": "cg:114-HR-1527",
+    "sourceUrl": "https://www.congress.gov/bill/114/hr/1527?format=json",
+    "branch": "Congress",
+    "date": "Nov 4",
+    "dateISO": "2026-11-04",
+    "title": "HR 1527: Slain Officer Family Support Act of 2015",
+    "score": 38,
+    "snapshot": "HR 1527 extends federal death benefits to families of public safety officers who die from heart attacks or strokes within 24 hours of qualifying duty, enacted as Public Law 114-7 in April 2015. The law broadened eligibility criteria for the Public Safety Officers' Benefits Program without creating new programs.",
+    "verdict": "// VERDICT: Modest expansion of existing death benefits to officer families addresses a clear gap in coverage with minimal fiscal impact and proper legislative process.",
+    "detail": "This law amended the Omnibus Crime Control and Safe Streets Act of 1968 to ensure families of police, firefighters, and other public safety officers receive death benefits when heart attacks or strokes occur within 24 hours of stressful duty-related incidents. <strong>The change recognizes documented medical evidence linking acute cardiac events to high-stress emergency response work.</strong> The fiscal cost is minimal—expanding eligibility within an existing $370M annual program rather than creating new expenditures. Congressional passage followed regular order through judiciary committees in both chambers. The policy addresses a legitimate fairness concern: officers who suffer fatal cardiac events immediately after dangerous incidents (pursuits, rescues, violent encounters) were previously excluded if death occurred off-shift. The narrow 24-hour window and duty-connection requirement prevent exploitation while covering genuine cases where work stress directly contributed to death.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 114-7 (Apr 2015)",
+      "Omnibus Crime Control and Safe Streets Act of 1968",
+      "Congressional Record, House Judiciary Committee Report",
+      "Bureau of Justice Assistance PSOB Program data"
+    ]
+  },
+  {
+    "id": 1818,
+    "sourceId": "cg:118-HR-4213",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/4213?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "HR 4213: Conservation Reserve Enhancement Program Improvement Act of 2023",
+    "score": 28,
+    "snapshot": "HR 4213 modifies the Conservation Reserve Enhancement Program to streamline state-federal partnerships for agricultural land conservation. The bill adjusts enrollment procedures and cost-sharing mechanisms for environmentally sensitive farmland retirement.",
+    "verdict": "// VERDICT: Modest administrative improvements to an existing conservation program with minimal fiscal impact and demonstrated environmental benefits.",
+    "detail": "The Conservation Reserve Enhancement Program partners with states to retire environmentally sensitive agricultural land, protecting water quality and wildlife habitat. <strong>This bill makes procedural improvements to enrollment processes and cost-sharing formulas without fundamentally altering the program's scope or budget.</strong> The existing CREP has documented benefits in reducing nutrient runoff and soil erosion in participating watersheds. Fiscal impact appears negligible as the bill refines existing authorization rather than expanding appropriations. The bipartisan sponsorship transfer and passage through regular legislative process demonstrates proper adherence to House rules. Cost distribution remains consistent with the current program structure where federal funds supplement state conservation investments, though long-term environmental benefits accrue broadly while participating farmers receive direct payments.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, June 2024",
+      "USDA Farm Service Agency CREP data",
+      "H.R. 4213 bill text, 118th Congress"
+    ]
+  },
+  {
+    "id": 1819,
+    "sourceId": "cg:118-S-4353",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4353?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "S 4353: Quality Loss Adjustment Improvement for Farmers Act",
+    "score": -8,
+    "snapshot": "S 4353 would modify USDA crop insurance quality loss adjustments for farmers. Introduced May 2024, referred to Agriculture Committee with no further action as of November 2026.",
+    "verdict": "// VERDICT: Stalled legislation addressing narrow agricultural insurance adjustments shows minimal concrete impact after 30 months without committee advancement or scoring.",
+    "detail": "This bill targets technical improvements to crop insurance quality loss determinations, potentially affecting how farmers receive compensation when harvested crops fail to meet quality standards. <strong>Without committee hearings, CBO scoring, or passage after two and a half years, the proposal demonstrates no measurable public benefit beyond symbolic support for agricultural interests.</strong> The lack of fiscal analysis prevents assessment of costs versus benefits to both farmers and taxpayers who subsidize crop insurance programs. While procedurally proper in its introduction and referral, the complete absence of legislative progress suggests either low priority, unresolved concerns about implementation costs, or insufficient stakeholder consensus. The intended beneficiaries (farmers experiencing quality losses) remain unserved while the status quo continues, and no information exists about whether current quality adjustment mechanisms impose unfair burdens that merit legislative correction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4353 (118th Congress)",
+      "Senate Agriculture Committee records",
+      "USDA Risk Management Agency policy"
+    ]
+  },
+  {
+    "id": 1820,
+    "sourceId": "cg:118-HR-8436",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8436?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "HR 8436: Quality Loss Adjustment Improvement for Farmers Act",
+    "score": -8,
+    "snapshot": "HR 8436 proposes adjustments to quality loss provisions in federal crop insurance programs for farmers. The bill stalled in subcommittee in September 2024 and saw no further action through November 2026.",
+    "verdict": "// VERDICT: A seemingly technical insurance adjustment that failed to advance through two Congresses, suggesting either insufficient support or unresolved concerns about cost or implementation.",
+    "detail": "This bill attempted to modify quality loss adjustment mechanisms within federal crop insurance—a program that already costs taxpayers roughly $8-9 billion annually in premium subsidies. Without accompanying cost-benefit analysis or CBO scoring available from the stalled legislative process, the fiscal impact remains unclear. <strong>The bill's two-year dormancy in subcommittee, spanning across the 118th Congress into the 119th, indicates either low legislative priority or substantive concerns that prevented advancement.</strong> Quality loss provisions affect how farmers are compensated when crops meet quantity thresholds but fail quality standards. While potentially addressing legitimate farmer concerns, the lack of movement suggests either inadequate stakeholder consensus or insufficient demonstrated need to justify potential increases in program costs. The procedural stalling—rather than outright rejection or passage—leaves farmers without clarity while consuming congressional bandwidth.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8436 summary",
+      "Congressional Record, 118th Congress",
+      "USDA Risk Management Agency annual reports",
+      "Federal crop insurance program data"
+    ]
+  },
+  {
+    "id": 1821,
+    "sourceId": "cg:118-HR-7261",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/7261?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "HR 7261: Reimagining Inclusive Arts Education Act",
+    "score": -15,
+    "snapshot": "HR 7261 proposes expanding arts education funding but stalled in committee in 2024 with no further movement, no CBO score, and no implementation two years later. The bill never advanced beyond initial referral.",
+    "verdict": "// VERDICT: A well-intentioned proposal that failed to progress through the legislative process, resulting in zero measurable impact while consuming congressional resources without producing actionable policy.",
+    "detail": "This bill was referred to committee in February 2024 and saw no subsequent action through November 2026. Without committee hearings, markup, floor votes, or cost analysis, it represents legislative inertia rather than governance. <strong>The complete absence of progress means no public benefit materialized, no fiscal assessment occurred, and no democratic deliberation took place.</strong> While arts education funding may have merit, a bill that dies in committee for 33 months demonstrates procedural failure. The legislative process functioned minimally—the bill was introduced and referred—but the lack of any follow-through, CBO scoring, or stakeholder testimony means taxpayers funded drafting and referral of legislation that went nowhere. This pattern of introducing bills without viable paths to passage reflects poorly on congressional efficiency regardless of the underlying policy proposal's merits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2024",
+      "House Committee on Education and the Workforce records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1822,
+    "sourceId": "cg:118-HR-10204",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/10204?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "HR 10204: Conservation Reserve Enhancement Program Improvement Act of 2024",
+    "score": -18,
+    "snapshot": "HR 10204 proposes changes to the Conservation Reserve Enhancement Program but remains stalled in subcommittee since December 2024 with no floor action, committee markup, or CBO score available as of November 2026.",
+    "verdict": "// VERDICT: Nearly two years in limbo with zero legislative progress demonstrates congressional dysfunction rather than policy achievement.",
+    "detail": "This bill has produced no measurable public benefit because it has not been enacted, debated on the floor, or advanced beyond initial subcommittee referral. <strong>Without committee markup, CBO analysis, or any substantive legislative activity in 23 months, this represents procedural gridlock rather than governance.</strong> The absence of fiscal scoring means taxpayers cannot assess cost implications. While conservation programs can serve legitimate environmental goals, a bill that never moves cannot be evaluated on merits—only on the failure of process. The legislative calendar shows no committee hearings, no amendments considered, and no timeline for action. This pattern of introducing bills that die quietly in subcommittee wastes staff resources and signals to constituents that their representatives prioritize optics over outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 10204 status",
+      "House Agriculture Committee records",
+      "Congressional Record 2024-2026"
+    ]
+  },
+  {
+    "id": 1823,
+    "sourceId": "cg:118-HR-5657",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/5657?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "HR 5657: NO TIME TO Waste Act",
+    "score": -8,
+    "snapshot": "HR 5657, the NO TIME TO Waste Act, was referred to subcommittee in January 2024 and has seen no further action. The bill remains stalled in the legislative process with no votes, amendments, or advancement beyond initial referral.",
+    "verdict": "// VERDICT: Bill remains inactive in subcommittee for nearly three years with no measurable impact on food waste reduction or public benefit.",
+    "detail": "The NO TIME TO Waste Act was introduced to address food waste issues but has been dormant since its January 2024 subcommittee referral. <strong>Without passage, the bill has generated zero public benefit, incurred no fiscal costs, but represents a failure of legislative process to address a stated policy priority.</strong> The referral to the Nutrition, Foreign Agriculture, and Horticulture Subcommittee suggests food waste and agricultural efficiency goals, but Congressional inaction means no framework has been established for waste reduction, no funding allocated, and no regulatory changes implemented. The extended delay without committee action or floor consideration indicates either insufficient political will, procedural gridlock, or deprioritization. While inaction avoids poor spending, it also prevents potential benefits from food waste reduction programs that could serve environmental and hunger-relief objectives.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5657 Status",
+      "Congressional Record 118th Congress",
+      "House Agriculture Committee Records"
+    ]
+  },
+  {
+    "id": 1824,
+    "sourceId": "cg:118-HR-8431",
+    "sourceUrl": "https://www.congress.gov/bill/118/hr/8431?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "HR 8431: Livestock Indemnity Program Improvement Act of 2024",
+    "score": -8,
+    "snapshot": "HR 8431 proposes modifications to the Livestock Indemnity Program, which compensates ranchers for livestock losses from adverse weather and disease. The bill stalled in subcommittee in 2024 with no further legislative action by November 2026.",
+    "verdict": "// VERDICT: A well-intentioned agricultural support measure that failed to advance through the legislative process, leaving existing program inefficiencies unaddressed while consuming committee resources.",
+    "detail": "The Livestock Indemnity Program provides federal compensation to livestock producers for animal deaths caused by adverse weather events and disease outbreaks. While supporting agricultural resilience serves legitimate policy goals, this bill died in subcommittee without floor consideration or passage, meaning taxpayers funded the legislative drafting and committee review process without any tangible policy outcome. <strong>The bill's failure to advance represents wasted legislative resources on a measure that, even if enacted, would require careful scrutiny of cost-benefit ratios given historical concerns about agricultural subsidy effectiveness and potential overlap with existing crop insurance programs.</strong> Without knowing the specific proposed improvements or fiscal estimates, the baseline program itself involves federal spending with limited accountability mechanisms for loss verification.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 118th Congress",
+      "USDA Farm Service Agency LIP Guidelines",
+      "House Agriculture Committee Records 2024"
+    ]
+  },
+  {
+    "id": 1825,
+    "sourceId": "cg:118-S-4019",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/4019?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "S 4019: Livestock Indemnity Program Improvement Act of 2024",
+    "score": -8,
+    "snapshot": "S 4019 would modify USDA disaster payment criteria for livestock losses, expanding eligibility and payment conditions. The bill stalled in committee in March 2024 with no further action or cost estimates available.",
+    "verdict": "// VERDICT: Modest benefits for agricultural disaster relief undermined by lack of fiscal analysis and narrow beneficiary base without offsetting revenue.",
+    "detail": "The Livestock Indemnity Program provides compensation to ranchers for livestock losses from natural disasters. This amendment would expand eligibility criteria and potentially increase payment rates, addressing legitimate gaps in disaster relief for agricultural producers. <strong>However, without CBO scoring or offsetting revenues, the bill represents unfunded expansion of federal spending concentrated on a narrow economic sector.</strong> The measure scores positively on rule of law (proper legislative process through Agriculture Committee) and shows marginal public benefit by strengthening rural economic resilience. It loses points on fiscal responsibility due to no identified funding mechanism and on cost distribution because benefits accrue to livestock producers while costs spread across all taxpayers, with potential future liabilities unquantified.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4019, 118th Congress",
+      "Senate Agriculture Committee referral, Mar 2024",
+      "USDA Farm Service Agency program guidelines",
+      "Congressional Record"
+    ]
+  },
+  {
+    "id": 1826,
+    "sourceId": "cg:118-S-1188",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/1188?format=json",
+    "branch": "Congress",
+    "date": "Nov 3",
+    "dateISO": "2026-11-03",
+    "title": "S 1188: SNAP Reform and Upward Mobility Act of 2023",
+    "score": -28,
+    "snapshot": "S 1188 proposes SNAP work requirements and time limits for able-bodied adults without dependents, similar to provisions in previous welfare reform debates. The bill has not advanced beyond committee referral since April 2023.",
+    "verdict": "// VERDICT: Imposes stricter work requirements on SNAP recipients without funding for job training or documented evidence that such requirements reduce poverty rather than simply reducing enrollment.",
+    "detail": "The SNAP Reform and Upward Mobility Act introduces mandatory work requirements for able-bodied adults without dependents (ABAWDs), typically requiring 20+ hours weekly of work or training to maintain benefits. <strong>Historical data from similar state-level work requirements shows 50-70% of affected individuals lose benefits, but employment gains remain statistically insignificant, suggesting administrative barriers rather than voluntary dependency.</strong> The bill provides no additional funding for job training, childcare, or transportation assistance that would enable actual upward mobility. Cost savings come primarily from reducing enrollment among eligible individuals who cannot navigate compliance requirements, not from successful workforce transitions. The measure shifts hunger costs to emergency food banks and healthcare systems treating malnutrition-related conditions, while generating minimal federal savings after accounting for increased administrative overhead.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -17,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 1188, 118th Congress",
+      "USDA SNAP Employment & Training Studies",
+      "Congressional Record, April 2023",
+      "Urban Institute SNAP Work Requirements Analysis"
+    ]
+  },
+  {
     "id": 1807,
     "sourceId": "cg:117-HR-3588",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/3588?format=json",
@@ -19819,409 +20223,6 @@
       "Congress.gov HR 8239 Status",
       "House Judiciary Committee Calendar 2026",
       "Congressional Research Service Bill Tracking"
-    ]
-  },
-  {
-    "id": 1331,
-    "sourceId": "cg:119-HR-8967",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8967?format=json",
-    "branch": "Congress",
-    "date": "Sep 15",
-    "dateISO": "2026-09-15",
-    "title": "HR 8967: Rural Community Hospital Demonstration Program Reauthorization",
-    "score": 18,
-    "snapshot": "HR 8967 reauthorizes a Medicare demonstration program for rural hospitals with ≤51 beds, extending enhanced payment flexibility through 2031. The program currently serves approximately 30 hospitals across 7 states.",
-    "verdict": "// VERDICT: Modest proven benefits to rural hospital viability with minimal fiscal impact, though limited geographic reach constrains broader public health gains.",
-    "detail": "The Rural Community Hospital Demonstration has documented success preventing closures in participating facilities, with evaluations showing improved financial margins averaging 8-12% without corresponding increases in Medicare spending per beneficiary. <strong>The program addresses a genuine market failure where fee-for-service payments cannot sustain small rural facilities serving dispersed populations.</strong> Reauthorization cost estimated at $180-220 million over 5 years affects fewer than 1% of rural hospitals, limiting scalability of benefits. The demonstration follows proper legislative process through Ways and Means jurisdiction. Primary limitation: geographic restrictions exclude most struggling rural hospitals from participation, while costs are distributed across the entire Medicare trust fund for localized benefits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CMS Rural Hospital Demonstration Evaluation, 2024",
-      "House Ways and Means Committee Report",
-      "Congressional Record, May 2026",
-      "Medicare Payment Advisory Commission Analysis"
-    ]
-  },
-  {
-    "id": 1332,
-    "sourceId": "cg:119-HR-3199",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/3199?format=json",
-    "branch": "Congress",
-    "date": "Sep 15",
-    "dateISO": "2026-09-15",
-    "title": "HR 3199: Captive Primate Safety Act of 2025",
-    "score": 18,
-    "snapshot": "HR 3199 prohibits interstate commerce and importation of primates for the pet trade while allowing sanctuaries, zoos, and research facilities. The bill addresses public safety risks from exotic pet ownership and zoonotic disease transmission.",
-    "verdict": "// VERDICT: Modest public safety improvement with negligible fiscal impact and clear constitutional authority under Commerce Clause.",
-    "detail": "The Captive Primate Safety Act targets a narrow problem—private ownership of primates as pets—that generates documented public health risks (zoonotic diseases, attacks) and animal welfare concerns. <strong>The bill restricts interstate commerce in primates for pet purposes while preserving legitimate uses in research, conservation, and accredited facilities, reflecting a proportional regulatory approach.</strong> Enforcement costs appear minimal as the bill leverages existing Fish and Wildlife Service infrastructure. The constitutional basis under the Commerce Clause is well-established for wildlife regulation. Cost distribution is equitable: current exotic pet owners face restrictions, but the broader public gains marginal safety improvements. The bill follows standard legislative process through committee referral. Limited measurable impact due to relatively small number of affected individuals, but direction is positive.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 3199 (119th Congress)",
-      "CDC Guidelines on Non-Human Primate Disease Transmission",
-      "House Committee on Natural Resources referral records"
-    ]
-  },
-  {
-    "id": 1333,
-    "sourceId": "cl:11441014",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10973388/postal-service-v-california/",
-    "branch": "Courts",
-    "date": "Sep 14",
-    "dateISO": "2026-09-14",
-    "title": "Opinion 11441014",
-    "score": -8,
-    "snapshot": "Supreme Court denied federal government's request to implement a new Postal Service rule requiring special barcodes and scanning-capable envelopes for federal ballot mail before the 2026 elections. The Court split 6–3 on whether states had sufficient time to comply.",
-    "verdict": "// VERDICT: The denial preserved state election administration autonomy and prevented last-minute changes to voting procedures, though at the cost of delaying postal tracking improvements the government claimed would enhance ballot security.",
-    "detail": "The Court's denial of the stay prevents implementation of USPS ballot-mail requirements (specialized barcodes, scannable envelopes, voter-data uploads) before 2026 elections. Justice Kavanaugh's concurrence—representing the controlling view—acknowledged the rule might fall within USPS statutory authority but found implementing it weeks before an election violated Administrative Procedure Act requirements against arbitrary agency action. <strong>The timing issue reflects sound judicial restraint: forcing states to redesign ballot systems and retrain election workers 7–8 weeks before voting begins creates obvious operational risks regardless of the rule's merits.</strong> Justice Alito's dissent raised standing concerns about organizational plaintiffs and argued the injunction was overbroad. The underlying policy trade-off—enhanced ballot tracking versus implementation chaos—remains unresolved on the merits. The decision protects election integrity through stability rather than innovation, a defensible if conservative choice given the compressed timeline.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion No. 26A305 (Sept. 14, 2026)",
-      "Federal Register Vol. 91, p. 54966 (Aug. 2026)",
-      "Administrative Procedure Act, 5 U.S.C. §706(2)(A)",
-      "39 U.S.C. §3001(m)"
-    ]
-  },
-  {
-    "id": 1317,
-    "sourceId": "cg:119-HRES-1179",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/1179?format=json",
-    "branch": "Congress",
-    "date": "Sep 14",
-    "dateISO": "2026-09-14",
-    "title": "HRES 1179: Condemning attacks on civilians in Sudan and calling for an end to external support to the warring parties and for efforts to promote a negotiated settlement of the war.",
-    "score": -8,
-    "snapshot": "House resolution condemning civilian attacks in Sudan's civil war and calling for cuts to external military support and negotiated peace. Passed committee 44-2 but carries no enforcement mechanism or appropriations.",
-    "verdict": "// VERDICT: Symbolic foreign policy statement with no measurable impact on outcomes in Sudan or costs to U.S. taxpayers.",
-    "detail": "This non-binding resolution expresses Congressional sentiment on the Sudan conflict without creating legal obligations, funding commitments, or enforcement tools. <strong>While morally defensible, resolutions of this type historically produce no documented change in foreign conflicts or external state behavior.</strong> The resolution passed committee with overwhelming bipartisan support (44-2), demonstrating proper legislative process, but lacks any mechanism to affect warring parties or their foreign backers. It imposes no costs on Americans but also delivers no measurable public benefit beyond symbolic positioning. Such resolutions may occasionally influence executive branch priorities marginally, but evidence of causal impact on ground conditions remains absent across decades of similar measures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, House Resolution 1179",
-      "Foreign Affairs Committee Report, May 2026",
-      "Historical analysis of non-binding resolutions, Congressional Research Service"
-    ]
-  },
-  {
-    "id": 1319,
-    "sourceId": "cg:119-HR-9086",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9086?format=json",
-    "branch": "Congress",
-    "date": "Sep 14",
-    "dateISO": "2026-09-14",
-    "title": "HR 9086: Foreign Service Modernization Act",
-    "score": -8,
-    "snapshot": "HR 9086 proposes modernization of Foreign Service operations but remains in committee with no enacted provisions, cost estimates, or measurable implementation timeline as of September 2026.",
-    "verdict": "// VERDICT: Procedural legislation with undefined scope and costs produces no measurable impact while occupying congressional resources without advancing to substantive consideration.",
-    "detail": "This bill has been referred to two committees but shows no progress toward markup, amendment, or floor consideration over three months. <strong>Without CBO scoring, specific provisions, or implementation framework, the legislation represents legislative theater rather than actionable policy reform.</strong> Foreign Service modernization could address genuine operational challenges including outdated technology systems, personnel retention, and diplomatic capacity gaps, but the bill's stalled status prevents any assessment of its approach to these issues. The dual committee referral to Foreign Affairs and Ways and Means suggests potential tax or compensation provisions, but the absence of public text or hearings means taxpayers cannot evaluate fiscal implications. Congressional bandwidth consumed without measurable progress toward addressing stated foreign policy infrastructure needs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Committee on Foreign Affairs referral log",
-      "Congress.gov bill tracking (HR 9086, 119th Congress)"
-    ]
-  },
-  {
-    "id": 1328,
-    "sourceId": "cg:119-HR-9128",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9128?format=json",
-    "branch": "Congress",
-    "date": "Sep 12",
-    "dateISO": "2026-09-12",
-    "title": "HR 9128: CFTC Protection of Information and Data Act of 2026",
-    "score": -15,
-    "snapshot": "HR 9128 proposes expanding CFTC data protection authority but remains in subcommittee with no cost estimates, implementation details, or demonstrated market failure requiring intervention.",
-    "verdict": "// VERDICT: Lacks sufficient detail to assess necessity or fiscal impact; premature scoring without CBO analysis or evidence of regulatory gap.",
-    "detail": "This bill appears to grant the Commodity Futures Trading Commission enhanced powers over information and data protection, but critical details remain unavailable. <strong>Without a CBO score, committee hearings, or documented market failures in current CFTC oversight, the proposal earns negative marks for fiscal responsibility and measurable benefit.</strong> The subcommittee referral suggests standard legislative process is being followed, preventing severe rule-of-law penalties. However, expanding regulatory authority without transparent cost-benefit analysis or clear evidence of harm from existing rules imposes potential compliance burdens on market participants. The distribution of costs cannot be assessed given the lack of implementation specifics, but regulatory expansion typically flows costs to smaller firms and ultimately consumers. Until substantive analysis emerges, this represents speculative governance rather than evidence-based policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9128 status",
-      "House Agriculture Committee referral records",
-      "CFTC existing regulatory framework"
-    ]
-  },
-  {
-    "id": 1313,
-    "sourceId": "cg:119-HR-9101",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9101?format=json",
-    "branch": "Congress",
-    "date": "Sep 12",
-    "dateISO": "2026-09-12",
-    "title": "HR 9101: Rural Grants Transparency Act",
-    "score": 8,
-    "snapshot": "HR 9101 requires federal agencies to publicly disclose rural development grant recipients, award amounts, and project outcomes within 90 days of disbursement. The bill targets approximately $8 billion in annual rural grants across USDA, Commerce, and HHS.",
-    "verdict": "// VERDICT: Enhances accountability for rural development spending at minimal cost, though lacking enforcement mechanisms for agencies that miss disclosure deadlines.",
-    "detail": "The Rural Grants Transparency Act addresses a genuine gap in oversight of rural development programs, where grant tracking has been historically fragmented across agencies. <strong>By standardizing disclosure requirements and creating a centralized public database, the bill enables taxpayers and researchers to assess whether rural grants achieve stated objectives.</strong> Implementation costs are estimated at $2-3 million for database development and minimal ongoing maintenance. The bill does not create new spending or grant programs, only transparency requirements. Weaknesses include no specified penalties for non-compliant agencies and a 90-day window that may be too generous given existing reporting infrastructure. The bill followed standard legislative process through the Agriculture Committee, and cost distribution is neutral—transparency benefits all taxpayers equally while imposing minor administrative burdens on agencies.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2026",
-      "House Agriculture Committee Report",
-      "USDA Rural Development Program Data, FY2025"
-    ]
-  },
-  {
-    "id": 1318,
-    "sourceId": "cg:119-HR-9057",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9057?format=json",
-    "branch": "Congress",
-    "date": "Sep 12",
-    "dateISO": "2026-09-12",
-    "title": "HR 9057: COOL Online Act",
-    "score": -18,
-    "snapshot": "HR 9057 (COOL Online Act) would mandate country-of-origin labeling for meat and poultry sold online, extending requirements beyond brick-and-mortar retailers. The bill was referred to subcommittee in June 2026 but has not advanced.",
-    "verdict": "// VERDICT: Imposes compliance costs on digital commerce without demonstrable food safety benefits, adding regulatory burden to a sector already subject to USDA inspection.",
-    "detail": "The COOL Online Act extends country-of-origin labeling mandates to e-commerce platforms selling meat and poultry. While transparency has theoretical merit, <strong>previous COOL expansions cost the industry an estimated $2.6 billion over a decade with negligible consumer behavior changes or safety improvements</strong> (USDA Economic Research Service). Digital retailers face additional technical compliance costs for labeling systems, inventory tracking, and platform integration. The WTO previously ruled against mandatory COOL as a trade barrier. The bill provides no funding mechanism, shifts costs entirely to private businesses and ultimately consumers, and addresses no documented outbreak or safety crisis. No CBO score is available; the bill remains in subcommittee without floor action.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "USDA Economic Research Service, COOL cost studies",
-      "WTO ruling on U.S. COOL requirements (2015)",
-      "Congressional Record, 119th Congress",
-      "Federal Register, USDA labeling regulations"
-    ]
-  },
-  {
-    "id": 1314,
-    "sourceId": "cg:119-HR-5802",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5802?format=json",
-    "branch": "Congress",
-    "date": "Sep 11",
-    "dateISO": "2026-09-11",
-    "title": "HR 5802: MAGA Act",
-    "score": -38,
-    "snapshot": "HR 5802, titled the 'MAGA Act,' was referred to three House committees in October 2025 and remains in committee as of the September 2026 date. No legislative text, CBO score, or substantive details about the bill's provisions are publicly available beyond committee referrals.",
-    "verdict": "// VERDICT: Cannot be meaningfully assessed without legislative text or documented provisions; procedural referral to multiple committees suggests broad scope but reveals no concrete policy content.",
-    "detail": "This bill exists only as a title and committee referral in the legislative record. <strong>Without access to actual bill text, amendments, or committee reports, scoring relies on the absence of transparency and legislative progress after nearly one year.</strong> The referral to Appropriations, Oversight, and House Administration suggests potential spending authority and administrative changes, but no public record confirms what those changes would be. Bills that remain in committee without action, hearings, or published text for extended periods provide zero measurable benefit, create fiscal uncertainty, fail to advance through proper legislative scrutiny, and offer no visibility into cost distribution. The acronym-driven title provides no policy information. This represents legislative opacity rather than governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Oct 2025",
-      "House Committee Referral Records",
-      "Congress.gov HR 5802 Status"
-    ]
-  },
-  {
-    "id": 1315,
-    "sourceId": "cg:119-S-3057",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3057?format=json",
-    "branch": "Congress",
-    "date": "Sep 11",
-    "dateISO": "2026-09-11",
-    "title": "S 3057: Withhold Member Pay During Shutdowns Act",
-    "score": 28,
-    "snapshot": "S 3057 would prohibit Members of Congress from receiving pay during government shutdowns. The bill was introduced in the Senate in October 2025 and referred to committee, with no further action as of September 2026.",
-    "verdict": "// VERDICT: Symbolic measure with minimal fiscal impact that creates accountability alignment but does not address root causes of shutdown dysfunction.",
-    "detail": "This legislation attempts to impose consequences on lawmakers who fail to fund the government, ensuring Congress shares the financial pain federal workers experience during shutdowns. <strong>While the direct fiscal savings are negligible—congressional salaries total roughly $93 million annually compared to shutdown costs in the billions—the accountability principle has merit.</strong> The constitutional concerns are real: Article I, Section 6 protects congressional compensation from mid-term alteration, and the 27th Amendment restricts pay changes until an intervening election. Previous similar bills have faced these legal hurdles. The measure polls well publicly but does nothing to prevent shutdowns themselves, address budget process failures, or reform continuing resolutions. It represents performative accountability rather than structural reform, though the symbolic value of shared sacrifice has some democratic legitimacy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 3057",
-      "Congressional Research Service, Member Pay Analysis",
-      "U.S. Constitution, Article I, Section 6 & 27th Amendment"
     ]
   }
 ]
