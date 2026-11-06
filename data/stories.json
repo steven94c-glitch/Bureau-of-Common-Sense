@@ -1,5 +1,406 @@
 [
   {
+    "id": 1837,
+    "sourceId": "cg:87-HR-9751",
+    "sourceUrl": "https://www.congress.gov/bill/87/hr/9751?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 9751: An Act to authorize appropriations during fiscal year 1963 for aircraft, missiles, and naval vessels for the Armed Forces, and for other purposes",
+    "score": 0,
+    "snapshot": "HR 9751 was a 1962 defense authorization bill that became Public Law 87-436, authorizing military procurement for fiscal year 1963. This item appears to be a historical record from 1962, not a 2026 action requiring evaluation.",
+    "verdict": "// VERDICT: Cannot score a 64-year-old law as a current government action; no contemporary impact to assess.",
+    "detail": "This submission presents a fundamental category error. HR 9751 was enacted in 1962 during the 87th Congress, authorizing Cold War-era military procurement including aircraft, missiles, and naval vessels for fiscal year 1963. The request asks for evaluation of a \"2026-11-06\" congressional action, but the bill's latest action occurred on April 27, 1962, when it became public law. <strong>There is no 2026 action to evaluate—this is a historical legislative record that has been law for over six decades.</strong> Scoring criteria designed to assess contemporary fiscal responsibility, public benefit, legal process, and cost distribution cannot meaningfully apply to a law enacted before the Vietnam War escalation. Any procurement authorized under this statute was executed in the early 1960s; current impacts are nil.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 87-436 (1962)",
+      "Congressional Record, 87th Congress"
+    ]
+  },
+  {
+    "id": 1838,
+    "sourceId": "cg:114-HR-1831",
+    "sourceUrl": "https://www.congress.gov/bill/114/hr/1831?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 1831: Evidence-Based Policymaking Commission Act of 2016",
+    "score": 38,
+    "snapshot": "Established a 15-member commission to study how federal data can be used to evaluate government programs and inform policy decisions. Commission delivered recommendations in 2017 for improving evidence-based policymaking infrastructure across agencies.",
+    "verdict": "// VERDICT: Created framework for measuring what works in government programs, improving accountability and reducing waste on ineffective initiatives.",
+    "detail": "The Evidence-Based Policymaking Commission examined how administrative data could be better utilized to assess program effectiveness while protecting privacy. <strong>The commission's 2017 report led to the Foundations for Evidence-Based Policymaking Act of 2018, which now requires agencies to develop evaluation plans and appoint chief data officers.</strong> This infrastructure helps identify which programs deliver measurable results and which waste taxpayer resources. The commission operated within a $5 million appropriation and involved bipartisan participation from Congress, federal agencies, and independent experts. While the commission itself was temporary, its recommendations established ongoing mechanisms for evidence-based budgeting and program evaluation across the federal government.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Public Law 114-140",
+      "Commission on Evidence-Based Policymaking Final Report, Sept 2017",
+      "Congressional Budget Office cost estimate",
+      "P.L. 115-435 (2018 follow-up legislation)"
+    ]
+  },
+  {
+    "id": 1840,
+    "sourceId": "cg:117-HR-6711",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6711?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 6711: Stop Funding Our Adversaries Act of 2022",
+    "score": -15,
+    "snapshot": "HR 6711 proposed prohibiting federal research grants to entities affiliated with China, Russia, Iran, and North Korea. The bill was referred to committee in February 2022 and never advanced to a vote or enactment.",
+    "verdict": "// VERDICT: A dormant bill from 2022 that proposed broad research funding restrictions but died in committee without fiscal analysis, implementation framework, or measurable impact on national security.",
+    "detail": "This legislation aimed to address legitimate concerns about foreign adversary influence in federally-funded research, particularly intellectual property theft and technology transfer risks. However, the bill never progressed beyond committee referral, meaning it received no CBO score, no hearing testimony, and no floor debate. <strong>Without enactment, it produced zero measurable benefit while potentially signaling overly broad restrictions that could have hampered legitimate international scientific collaboration.</strong> The proposal lacked nuanced definitions of \"affiliation\" and offered no process for case-by-case review, risking both under-inclusive loopholes and over-inclusive barriers to researchers with incidental foreign ties. As a failed legislative attempt from four years prior, it represents neither fiscal impact nor legal authority, though it reflected congressional awareness of research security gaps that other enacted mechanisms (like NSPM-33) have since partially addressed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6711 (117th Congress)",
+      "Congressional Record, Feb 2022",
+      "NSPM-33 (National Security Presidential Memorandum)"
+    ]
+  },
+  {
+    "id": 1843,
+    "sourceId": "cg:117-HR-42",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/42?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 42: Judicial Administration and Improvement Act of 2021",
+    "score": -8,
+    "snapshot": "HR 42 stalled in subcommittee in March 2021 and saw no further action through 2026. The bill proposed judicial administration reforms but never received committee votes, floor consideration, or enactment.",
+    "verdict": "// VERDICT: A procedural failure that consumed congressional resources without delivering any measurable reform to judicial administration or court operations.",
+    "detail": "This bill died in the House Judiciary Subcommittee on Courts, Intellectual Property, and the Internet after referral in March 2021, never advancing through the 117th Congress (2021-2022) or beyond. <strong>Five years of inaction means zero public benefit despite whatever judicial improvements the bill proposed.</strong> The legislative process functioned as designed—committees can decline to advance bills—but the opportunity cost is real: staff time, drafting resources, and potential reforms went nowhere. Without bill text or CBO analysis available, fiscal impact cannot be assessed, but stalled legislation by definition produces no cost savings or expenditures. The constitutional process was followed (referral to appropriate subcommittee), but legislative gridlock resulted in no law, no policy change, and no effect on Americans' access to courts or judicial efficiency.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 42 legislative history",
+      "House Judiciary Committee records 117th Congress",
+      "Congressional Record March 2021"
+    ]
+  },
+  {
+    "id": 1844,
+    "sourceId": "cg:117-HR-6685",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6685?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 6685: Spent Fuel Prioritization Act of 2022",
+    "score": -18,
+    "snapshot": "HR 6685 proposed prioritizing removal of spent nuclear fuel from decommissioned reactor sites, but died in subcommittee in 2022 without floor vote or implementation. No measurable public benefit occurred as the bill never became law.",
+    "verdict": "// VERDICT: Legislative inaction on nuclear waste management—bill referred to subcommittee in February 2022 and abandoned, producing zero policy change while spent fuel remains at shutdown sites.",
+    "detail": "The Spent Fuel Prioritization Act aimed to address a legitimate problem: stranded spent nuclear fuel at decommissioned plants awaiting permanent storage. However, <strong>the bill never advanced beyond subcommittee referral, meaning it created no legal framework, allocated no funds, and solved nothing.</strong> Congressional failure to address nuclear waste management persists regardless of party control. The scoring date (2026-11-06) suggests this is being evaluated retrospectively—four years after introduction, the lack of action represents continued fiscal liability (sites require ongoing security/maintenance funded by taxpayers or ratepayers), procedural abandonment of a bipartisan issue, and cost-shifting to communities hosting stranded waste. While the bill's intent was reasonable, legislative graveyards don't merit positive scores.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6685 (117th Congress)",
+      "Congressional Record, Feb 2022",
+      "GAO Nuclear Waste Disposal Reports"
+    ]
+  },
+  {
+    "id": 1846,
+    "sourceId": "cg:117-HR-6938",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6938?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 6938: Job Protection Act",
+    "score": -35,
+    "snapshot": "HR 6938 died in committee in 2022 without passage, floor vote, or implementation. A 2026 date appears to be an error; no job protections were enacted.",
+    "verdict": "// VERDICT: This bill never became law and created zero actual job protections for any American worker.",
+    "detail": "HR 6938 was referred to multiple House committees in March 2022 and never advanced beyond that initial referral. <strong>No hearings were held, no markup occurred, and the bill died without a vote when the 117th Congress ended in January 2023.</strong> The title \"Job Protection Act\" describes intent, not outcome. Without knowing the bill's specific provisions, we cannot assess what it attempted to do, but the measurable impact is definitively zero—no jobs were protected, no workers gained new rights, and no employers faced new obligations. The constitutional process was followed (proper referral), but inaction means no fiscal cost, no legal changes, and no distribution of benefits or burdens. Bills that fail to pass cannot help or harm Americans beyond opportunity costs in legislative attention.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -22.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, March 3, 2022",
+      "Congress.gov HR 6938 status",
+      "House Committee referral records, 117th Congress"
+    ]
+  },
+  {
+    "id": 1839,
+    "sourceId": "cg:117-SJRES-6",
+    "sourceUrl": "https://www.congress.gov/bill/117/sjres/6?format=json",
+    "branch": "Congress",
+    "date": "Nov 5",
+    "dateISO": "2026-11-05",
+    "title": "SJRES 6: A joint resolution proposing an amendment to the Constitution of the United States relative to balancing the budget.",
+    "score": -18,
+    "snapshot": "Constitutional amendment requiring balanced federal budget, introduced Feb 2021, never advanced past Senate Judiciary Committee referral. No floor vote, no enactment—remains a proposal with no implementation.",
+    "verdict": "// VERDICT: A procedural proposal that generated no measurable outcome after five years of legislative inaction, representing symbolic positioning rather than fiscal reform.",
+    "detail": "Balanced budget amendments carry theoretical appeal for fiscal discipline but this resolution demonstrates classic legislative theater. <strong>After referral to committee in February 2021, the measure saw zero committee action, no hearings, no markup, and no floor consideration through November 2026.</strong> Constitutional amendments require two-thirds majorities in both chambers plus ratification by 38 states—an extraordinarily high bar that makes abandoned proposals particularly wasteful of legislative bandwidth. Without specific enforcement mechanisms, revenue caps, or exemption criteria in the public record, the proposal's actual fiscal impact remains unknowable. The five-year dormancy period consumed staff resources for drafting and procedural processing while delivering no public benefit. Similar amendments have failed repeatedly since the 1980s, suggesting this represents political signaling rather than serious constitutional reform effort.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2021",
+      "Senate Judiciary Committee records 2021-2026",
+      "Constitutional amendment ratification requirements (Article V)"
+    ]
+  },
+  {
+    "id": 1841,
+    "sourceId": "cg:117-HR-5143",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5143?format=json",
+    "branch": "Congress",
+    "date": "Nov 5",
+    "dateISO": "2026-11-05",
+    "title": "HR 5143: Protecting Independent Contractors from Discrimination Act of 2021",
+    "score": -18,
+    "snapshot": "HR 5143 would extend federal anti-discrimination protections to independent contractors, a workforce segment of approximately 59 million Americans as of 2021. The bill stalled in committee and never received a vote, floor debate, or cost analysis.",
+    "verdict": "// VERDICT: A stalled proposal that would expand worker protections without fiscal analysis or demonstrated enforcement mechanisms, representing legislative intent without policy implementation.",
+    "detail": "This bill proposed extending Title VII civil rights protections to independent contractors, addressing a genuine gap in worker protection as the gig economy expanded. However, it failed to advance beyond committee referral in 2021 and remains dormant five years later. <strong>Without CBO scoring, hearings, or agency cost estimates, the enforcement burden on EEOC and compliance costs for businesses remain unknown.</strong> The bill raises legitimate questions about worker misclassification exploitation but offers no path to implementation. Its 2026 relevance is purely historical—it created no measurable outcomes, imposed no actual costs, and followed initial parliamentary procedure before dying. The proposal's merit is undermined by complete lack of legislative follow-through, making it a symbolic gesture rather than actionable policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5143 status",
+      "BLS Contingent Worker Supplement 2021",
+      "House Committee on Education and Labor records"
+    ]
+  },
+  {
+    "id": 1842,
+    "sourceId": "cg:117-HJRES-13",
+    "sourceUrl": "https://www.congress.gov/bill/117/hjres/13?format=json",
+    "branch": "Congress",
+    "date": "Nov 5",
+    "dateISO": "2026-11-05",
+    "title": "HJRES 13: Proposing a balanced budget amendment to the Constitution requiring that each agency and department's funding is justified.",
+    "score": -18,
+    "snapshot": "Constitutional amendment requiring balanced budgets and line-item agency justification. Referred to subcommittee in 2021, no further action through 2026.",
+    "verdict": "// VERDICT: Procedurally stalled proposal that would impose rigid fiscal constraints without mechanisms for economic downturns, national emergencies, or demographic shifts.",
+    "detail": "This proposed amendment mandates federal budget balance and requires justification for every agency's funding annually. While fiscal discipline has merit, <strong>balanced budget amendments eliminate countercyclical spending capacity during recessions when revenues naturally fall and safety-net costs rise</strong>. The 2026 date with 2021 action indicates this died in committee—standard for constitutional amendments lacking supermajority support. Historical evidence from state-level balanced budget requirements shows they force procyclical austerity, deepening downturns. The agency justification requirement could improve oversight but also creates massive administrative burden. No companion Senate action or markup suggests zero realistic path to passage. Constitutional amendments require two-thirds congressional approval plus three-fourths state ratification; this cleared neither threshold.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Judiciary records",
+      "State balanced budget amendment outcomes research",
+      "Federal Register Vol. 86"
+    ]
+  },
+  {
+    "id": 1845,
+    "sourceId": "cg:117-HCONRES-21",
+    "sourceUrl": "https://www.congress.gov/bill/117/hconres/21?format=json",
+    "branch": "Congress",
+    "date": "Nov 5",
+    "dateISO": "2026-11-05",
+    "title": "HCONRES 21: Expressing the sense of Congress that the United States should resume normal diplomatic relations with Taiwan, negotiate a bilateral free trade agreement with Taiwan, and support Taiwan's membership in international organizations.",
+    "score": -15,
+    "snapshot": "House resolution from 2021 advocating resumption of formal diplomatic relations with Taiwan, a bilateral trade agreement, and support for Taiwan's international organization membership. Referred to subcommittee in 2021; no further action taken as of the 2026 date provided.",
+    "verdict": "// VERDICT: A symbolic resolution with no binding legal effect that advocates policies fundamentally incompatible with the One China Policy framework that has governed U.S.-Taiwan relations since 1979, creating diplomatic risk without measurable implementation.",
+    "detail": "This concurrent resolution expresses congressional sentiment but carries no force of law and requires no presidential signature. <strong>The proposal to resume formal diplomatic relations contradicts the Taiwan Relations Act of 1979 and risks severe disruption to U.S.-China relations without documented economic or security benefits that outweigh potential costs.</strong> While enhanced Taiwan trade relations may have merit, formal diplomatic recognition represents a radical departure from four decades of bipartisan foreign policy. The resolution died in subcommittee, generating no actual policy change. No cost-benefit analysis, State Department consultation, or national security assessment accompanied the proposal. The symbolic nature means zero fiscal impact but also zero measurable benefit, while the advocacy itself may complicate ongoing informal U.S.-Taiwan cooperation that has functioned effectively under existing frameworks.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Taiwan Relations Act, 1979",
+      "Congressional Record, Feb 2021",
+      "House Foreign Affairs Committee records"
+    ]
+  },
+  {
     "id": 1827,
     "sourceId": "cg:116-S-3669",
     "sourceUrl": "https://www.congress.gov/bill/116/s/3669?format=json",
@@ -19814,412 +20215,6 @@
       "Treasury Department TRIP Reports (2002-2025)",
       "Congressional Research Service: Terrorism Risk Insurance",
       "GAO Analysis of Federal Insurance Programs"
-    ]
-  },
-  {
-    "id": 1352,
-    "sourceId": "cg:119-HR-9234",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9234?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "HR 9234: Careworker Visa Act of 2026",
-    "score": 18,
-    "snapshot": "HR 9234 would create a new visa category for foreign careworkers (elderly care, childcare, disability support) to address severe domestic workforce shortages in these sectors. The bill remains in committee with no floor action as of September 2026.",
-    "verdict": "// VERDICT: Creates targeted immigration pathway for care sector facing documented labor shortages, though implementation costs and wage protection enforcement remain uncertain.",
-    "detail": "The United States faces a critical shortage of careworkers, with <strong>an estimated 151,000 home health aide vacancies and projected demand growth of 25% through 2031</strong> according to Bureau of Labor Statistics data. This bill attempts to address market failure through expanded legal immigration in a specific high-need sector. Measurable benefit depends on implementation details not visible at committee stage, including wage floor protections to prevent undercutting domestic workers and visa volume caps. Fiscal impact likely modest—careworkers generate tax revenue and reduce unpaid family caregiving that has economic costs. Rule of law score reflects proper legislative process through committee. Primary concern is cost distribution: without strong wage protections, benefits could accrue to care employers while shifting labor market pressure onto existing low-wage workers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Bureau of Labor Statistics, Employment Projections 2021-2031",
-      "Congressional Record, HR 9234",
-      "House Judiciary Committee referral, June 2026"
-    ]
-  },
-  {
-    "id": 1334,
-    "sourceId": "cg:97-HR-2528",
-    "sourceUrl": "https://www.congress.gov/bill/97/hr/2528?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "HR 2528: A bill to amend the Economy Act to provide that all departments and agencies may obtain materials or services from other agencies by contract, and for other purposes.",
-    "score": 28,
-    "snapshot": "HR 2528 amended the Economy Act to streamline inter-agency procurement, allowing federal departments to contract directly with each other for materials and services. Became law in 1982 as PL 97-332.",
-    "verdict": "// VERDICT: Reduced procurement red tape and enabled cost-effective resource sharing across federal agencies without significant fiscal impact.",
-    "detail": "This legislation modernized the 1932 Economy Act by clarifying and expanding inter-agency contracting authority. <strong>The reform allowed agencies to leverage existing federal capabilities rather than duplicating contracts with private vendors, reducing administrative overhead and procurement costs.</strong> By permitting direct agency-to-agency transactions, it eliminated bureaucratic barriers that previously forced redundant purchases. The fiscal impact was positive through avoided duplication, though modest in absolute terms. The amendment followed standard legislative process and maintained oversight requirements. No constitutional concerns arose. Cost distribution favored taxpayers through efficiency gains, with no discernible burden on vulnerable populations. The bill represented straightforward good-government reform focused on operational efficiency rather than policy change.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 97-332 (Oct 1982)",
-      "Economy Act of 1932, as amended",
-      "Congressional Record, 97th Congress"
-    ]
-  },
-  {
-    "id": 1335,
-    "sourceId": "cg:98-HR-1",
-    "sourceUrl": "https://www.congress.gov/bill/98/hr/1?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "HR 1: Housing and Urban-Rural Recovery Act of 1983",
-    "score": -50,
-    "snapshot": "HR 1 from the 98th Congress (1983) has no relevance to 2026 governance. This appears to be a data error or test case involving legislation that concluded 43 years ago.",
-    "verdict": "// VERDICT: Scoring historical legislation from 1983 as a current 2026 action represents a fundamental classification error with no measurable impact on contemporary Americans.",
-    "detail": "This entry contains an impossible temporal contradiction: legislation from 1983 cannot be evaluated as a September 2026 congressional action. The Housing and Urban-Rural Recovery Act was never enacted (its provisions were incorporated into H.R. 3959 in 1983) and has no active legal effect in 2026. <strong>Evaluating 43-year-old failed legislation as current policy produces meaningless scores across all criteria.</strong> If this represents a database error, it wastes resources. If intentional, it undermines the scoring system's credibility by mixing historical records with current actions. No measurable 2026 public benefit exists, no current fiscal impact occurs, no contemporary legal process is involved, and no 2026 cost distribution is affected. The maximum penalty reflects that presenting irrelevant historical data as actionable current policy is antithetical to evidence-based governance assessment.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 98th Congress (1983)",
-      "H.R. 3959 (98th Congress)",
-      "Historical legislative database anomaly"
-    ]
-  },
-  {
-    "id": 1336,
-    "sourceId": "cg:100-HR-5050",
-    "sourceUrl": "https://www.congress.gov/bill/100/hr/5050?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "HR 5050: Women's Business Ownership Act of 1988",
-    "score": 42,
-    "snapshot": "The Women's Business Ownership Act of 1988 eliminated state laws requiring husband co-signatures for women business owners, established the National Women's Business Council, and created SBA programs supporting women entrepreneurs. The act removed legal barriers to women's economic participation and provided targeted support infrastructure.",
-    "verdict": "// VERDICT: Strong bipartisan reform that removed discriminatory barriers, improved market access for half the population, and generated documented economic returns exceeding program costs.",
-    "detail": "This 1988 law addressed systematic discrimination by prohibiting states from requiring spousal signatures on business loans for married women—a practice that denied economic agency to millions. <strong>The act created measurable opportunities: women-owned businesses grew from 4.1 million in 1987 to 9.1 million by 2001, contributing substantially to GDP and employment.</strong> Fiscal impact was modest; the National Women's Business Council operated on minimal appropriations while SBA programs demonstrated positive ROI through increased tax revenue from new businesses. The legislation followed proper constitutional process through both chambers with overwhelming bipartisan support. Cost distribution was equitable—removing barriers benefited women entrepreneurs directly while broader economic activity benefited all Americans. The only modest deduction reflects that early program design lacked some outcome measurement frameworks later deemed standard practice.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 100-533 (1988)",
-      "SBA Office of Women's Business Ownership reports",
-      "Census Bureau Business Ownership Survey data",
-      "Congressional Record, 100th Congress"
-    ]
-  },
-  {
-    "id": 1337,
-    "sourceId": "cg:102-HR-2629",
-    "sourceUrl": "https://www.congress.gov/bill/102/hr/2629?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "HR 2629: Women's Business Development Act of 1991",
-    "score": 32,
-    "snapshot": "HR 2629 established the National Women's Business Council and expanded SBA programs supporting women entrepreneurs through training, procurement assistance, and microloans. The law passed with bipartisan support and became effective in 1991.",
-    "verdict": "// VERDICT: Created targeted support infrastructure for women-owned businesses with documented ROI through increased business formation and survival rates at modest federal cost.",
-    "detail": "The Women's Business Development Act authorized approximately $10 million annually to establish women's business centers nationwide and formalized the National Women's Business Council as a permanent federal advisory body. <strong>By 2025, over 140 centers serve approximately 100,000 women entrepreneurs annually, with participants showing higher business survival rates (80% vs. 50% national average) and job creation.</strong> The program operates through public-private partnerships that leverage federal dollars 3:1 with state and local matching funds. Constitutional authority derives from Commerce Clause powers to regulate interstate commerce. The act followed standard legislative process with committee hearings and bipartisan floor votes. Primary beneficiaries are women entrepreneurs historically underrepresented in business ownership (owned 5% of businesses in 1991, now over 40%), though all taxpayers fund the program through general revenue.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 102-191 (1991)",
-      "SBA Office of Women's Business Ownership Reports",
-      "Congressional Budget Office appropriations data",
-      "Census Bureau business ownership statistics"
-    ]
-  },
-  {
-    "id": 1338,
-    "sourceId": "cg:103-S-2060",
-    "sourceUrl": "https://www.congress.gov/bill/103/s/2060?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "S 2060: Small Business Administration Reauthorization and Amendments Act of 1994",
-    "score": 22,
-    "snapshot": "The Small Business Administration Reauthorization and Amendments Act of 1994 reauthorized SBA programs, streamlined lending processes, and increased loan limits to support small business access to capital. Became law in October 1994 after bipartisan passage.",
-    "verdict": "// VERDICT: Facilitated measurable expansion of small business lending while maintaining fiscal controls through existing SBA loan guarantee structures.",
-    "detail": "This reauthorization strengthened the SBA's core mission by raising loan guarantee limits and reducing bureaucratic barriers to capital access for small businesses—the primary engines of job creation. <strong>The reforms maintained fiscal discipline through the existing self-sustaining loan guarantee model where fee revenues offset default costs, avoiding significant new appropriations.</strong> The legislation followed standard legislative process through committee review and floor votes. Primary beneficiaries were small business owners and their employees, with minimal cost shifting since SBA loan programs operate largely through borrower fees and lender participation. The act included microloan programs targeting underserved communities, broadening economic opportunity without imposing unfunded mandates on future budgets.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 103-403, Oct 1994",
-      "Congressional Record, 103rd Congress",
-      "SBA Authorization Act text",
-      "Federal Register Vol. 59"
-    ]
-  },
-  {
-    "id": 1339,
-    "sourceId": "cg:106-S-791",
-    "sourceUrl": "https://www.congress.gov/bill/106/s/791?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "S 791: Women's Business Centers Sustainability Act of 1999",
-    "score": 28,
-    "snapshot": "The Women's Business Centers Sustainability Act of 1999 authorized continued funding for SBA women's business centers providing training, counseling, and capital access assistance. The law became effective in December 1999 and extended support for existing centers serving women entrepreneurs.",
-    "verdict": "// VERDICT: Targeted support program with documented economic returns through measurable increases in women-owned business formation and survival rates at modest federal cost.",
-    "detail": "This legislation extended authorization for the Small Business Administration's women's business center program, which provides technical assistance, training, and counseling to women entrepreneurs. <strong>Economic data from SBA shows women's business centers consistently demonstrate positive ROI, with businesses served showing higher survival rates and revenue growth compared to control groups.</strong> The program operates through a competitive grant process with cost-sharing requirements from local sponsors, reducing federal burden. Centers served approximately 150,000 women annually during this period at costs significantly below traditional SBA lending programs. The sustainability provisions required centers to increase non-federal funding over time, addressing long-term fiscal concerns. Constitutional authority under Commerce Clause for economic development programs was well-established. Primary beneficiaries were aspiring women entrepreneurs, particularly in underserved communities, with costs distributed across general revenue.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Public Law 106-165, Dec 1999",
-      "SBA Office of Women's Business Ownership reports",
-      "Congressional Record, 106th Congress",
-      "Federal Register authorization notices"
-    ]
-  },
-  {
-    "id": 1340,
-    "sourceId": "cg:118-S-3947",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/3947?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "S 3947: Thirty-Two Hour Workweek Act",
-    "score": -18,
-    "snapshot": "S 3947 proposes reducing the standard workweek from 40 to 32 hours while mandating overtime pay for hours beyond 32. The bill stalled in committee in 2024 with no further legislative action as of September 2026.",
-    "verdict": "// VERDICT: Lacks empirical evidence of net benefit while imposing substantial regulatory costs on employers and risking reduced employment flexibility for workers who depend on longer hours.",
-    "detail": "The Thirty-Two Hour Workweek Act would fundamentally restructure labor standards without pilot programs or economic impact studies demonstrating net positive outcomes. <strong>While proponents argue reduced hours improve work-life balance, mandating overtime after 32 hours significantly increases labor costs for businesses, particularly small employers and industries requiring continuous operations.</strong> No CBO score exists estimating compliance costs, potential job losses, or wage impacts. International experiments with shorter workweeks show mixed results highly dependent on sector and implementation. The bill provides no transition period or exemptions for critical industries. Workers currently relying on 40-hour base wages face potential income reduction if employers convert positions to part-time to avoid overtime penalties. The approach prioritizes theoretical lifestyle benefits over documented economic impact, shifting substantial costs to employers without addressing productivity trade-offs or worker choice.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 3947, 118th Congress",
-      "S.Hrg. 118-329, HELP Committee",
-      "Fair Labor Standards Act baseline"
-    ]
-  },
-  {
-    "id": 1341,
-    "sourceId": "cg:119-HR-9596",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9596?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "HR 9596: Federal Jobs for STARs Act of 2026",
-    "score": 28,
-    "snapshot": "HR 9596 directs federal agencies to expand hiring pathways for workers without traditional four-year degrees (STARs: Skilled Through Alternative Routes). The bill requires agencies to assess positions where degree requirements can be replaced with skills-based qualifications and remove unnecessary barriers in at least 20% of job postings within two years.",
-    "verdict": "// VERDICT: Opens approximately 400,000 federal positions to 70+ million American workers currently excluded by degree requirements, potentially reducing hiring costs while expanding the talent pool without additional appropriations.",
-    "detail": "The Federal Jobs for STARs Act addresses documented credential inflation in federal hiring, where degree requirements often screen out qualified candidates without measurable benefit to job performance. <strong>Studies show skills-based hiring can reduce time-to-fill by 25% and expand candidate pools by 8-10x while maintaining or improving performance outcomes.</strong> The bill scores positively on measurable benefit by opening pathways for underemployed workers, and on fiscal responsibility by leveraging existing hiring budgets more efficiently. It follows proper legislative process through committee referral. Cost distribution is favorable as it primarily benefits working-class Americans locked out of federal employment by credential barriers, though implementation costs fall on agency HR systems. The 20% minimum target is conservative but measurable, with accountability mechanisms through annual reporting to Congress.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9596, 119th Congress",
-      "House Committee on Oversight and Government Reform",
-      "OPM Skills-Based Hiring Guidelines 2024",
-      "Harvard Business School, Dismissed by Degrees (2017)"
-    ]
-  },
-  {
-    "id": 1342,
-    "sourceId": "cg:119-S-5022",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/5022?format=json",
-    "branch": "Congress",
-    "date": "Sep 16",
-    "dateISO": "2026-09-16",
-    "title": "S 5022: Cannabis Administration and Opportunity Act",
-    "score": 28,
-    "snapshot": "S 5022 would deschedule cannabis federally, expunge prior convictions, impose a federal excise tax, and establish regulatory framework through FDA and TTB. CBO estimates $13.5B in new revenue over 10 years with $2.1B in implementation costs.",
-    "verdict": "// VERDICT: Descheduling resolves federal-state conflicts affecting millions, generates substantial revenue, and removes criminal penalties that disproportionately harmed minority communities, though regulatory complexity creates implementation risk.",
-    "detail": "The bill ends the 50-year federal prohibition creating legal chaos across 38 states with medical programs and 24 with adult use. <strong>Expungement provisions affect an estimated 2.8 million Americans with federal cannabis convictions, removing barriers to employment, housing, and voting.</strong> The 10% federal excise tax generates projected revenue while remaining competitive with state markets. FDA safety oversight addresses legitimate public health concerns about product standards and youth access. Regulatory framework follows alcohol model through TTB, leveraging existing enforcement infrastructure. Small business provisions and social equity licensing attempt to prevent corporate monopolization. Implementation costs are offset by revenue within two years. Primary fiscal uncertainty involves state-federal tax coordination and banking system integration for a cash-heavy industry estimated at $45B annually.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "CBO Preliminary Score, Jul 2026",
-      "FBI Uniform Crime Reports 2025",
-      "USDA Hemp Market Analysis 2026",
-      "Congressional Record S.5022"
     ]
   }
 ]
