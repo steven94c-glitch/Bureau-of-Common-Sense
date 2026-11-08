@@ -1,5 +1,370 @@
 [
   {
+    "id": 1857,
+    "sourceId": "cg:117-S-4591",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4591?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "S 4591: Cannabis Administration and Opportunity Act",
+    "score": -8,
+    "snapshot": "Bill introduced in 117th Congress (2021-2023) to deschedule cannabis federally, impose federal excise tax, and expunge prior convictions. Died in committee without floor vote or CBO score.",
+    "verdict": "// VERDICT: Proposed framework for federal cannabis legalization with tax revenue and criminal justice provisions, but never advanced beyond committee introduction and lacks completed fiscal analysis.",
+    "detail": "This bill would remove cannabis from the Controlled Substances Act, establish a federal excise tax structure, and create expungement pathways for prior convictions. <strong>However, the bill never received committee votes, floor consideration, or official CBO scoring during the 117th Congress, making measurable impact impossible.</strong> Without passage, there are no public health outcomes, no actual tax revenue, and no expungements. The legislative process was followed (proper introduction and referral), but the bill died without advancing. Fiscal responsibility cannot be assessed without CBO estimates of administrative costs, tax compliance rates, or state-federal coordination expenses. The 2026 date appears to reference a bill from a previous Congress that is no longer active legislation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.4591, 117th Congress",
+      "Congress.gov legislative history",
+      "Senate Finance Committee records"
+    ]
+  },
+  {
+    "id": 1858,
+    "sourceId": "cg:117-HR-5465",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5465?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 5465: SECURE Firearm Storage Act",
+    "score": -18,
+    "snapshot": "HR 5465 would mandate secure firearm storage requirements with criminal penalties for non-compliance. The bill stalled in subcommittee in 2022 and saw no further legislative action.",
+    "verdict": "// VERDICT: Mandate imposes compliance costs and potential criminal liability on gun owners without demonstrated reduction in firearm accidents or crimes, while raising constitutional concerns about regulating lawful possession in the home.",
+    "detail": "The legislation would require gun owners to store firearms in specific locked configurations, with criminal penalties for violations even absent any harm. <strong>While proponents cite child safety rationales, no CBO analysis exists documenting measurable accident reduction versus the costs of mandatory storage devices, enforcement mechanisms, and potential constitutional challenges under Heller precedent regarding functional home defense.</strong> The bill failed to advance beyond subcommittee referral, suggesting insufficient support even within the originating chamber. Enforcement would create new federal criminal exposure for millions of lawful gun owners based on storage configuration rather than actual negligence or harm. Low-income households face disproportionate compliance costs for mandated storage equipment, while wealthy gun owners can more easily absorb expenses.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "District of Columbia v. Heller, 554 U.S. 570 (2008)",
+      "House Judiciary Committee records, 2022"
+    ]
+  },
+  {
+    "id": 1859,
+    "sourceId": "cg:117-HR-4778",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4778?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 4778: District of Columbia Courts Vacancy Reduction Act",
+    "score": -18,
+    "snapshot": "HR 4778 would add four judges to DC Superior Court and two to DC Court of Appeals to address case backlogs. The bill stalled in committee in 2021 and was never enacted, making this 2026 scoring date anomalous.",
+    "verdict": "// VERDICT: A procedurally sound workforce expansion for overburdened courts that died in committee without implementation, making current fiscal and operational impact zero.",
+    "detail": "The bill addressed documented judicial vacancies in DC courts where case backlogs exceeded federal standards. <strong>Adding six judges would cost approximately $2-3 million annually in salaries and support, a modest investment against the economic costs of delayed justice and case backlogs.</strong> The legislation followed normal constitutional processes through committee markup. However, it never reached a floor vote or enactment, meaning no actual judges were added, no budgetary impact occurred, and court backlogs remained unaddressed. The scoring reflects the sound policy framework offset by complete failure to implement, rendering theoretical benefits moot. Future generations bear continued costs of judicial inefficiency. The 2026 date creates confusion as this 117th Congress bill concluded in January 2023.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "DC Courts Annual Report",
+      "Federal Judicial Salary Tables",
+      "House Judiciary Committee Records"
+    ]
+  },
+  {
+    "id": 1860,
+    "sourceId": "cg:117-HR-9670",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9670?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 9670: Amateur Radio Emergency Preparedness Act",
+    "score": 18,
+    "snapshot": "HR 9670 would establish federal support for amateur radio emergency communications infrastructure and training programs. The bill proposes coordination between FEMA and amateur radio operators for disaster response, with estimated annual appropriations of $15 million.",
+    "verdict": "// VERDICT: Modest investment in proven emergency communications infrastructure with clear disaster-response benefits and minimal fiscal impact.",
+    "detail": "Amateur radio operators have documented effectiveness in disaster scenarios when conventional infrastructure fails—demonstrated during Hurricanes Katrina, Maria, and recent wildfire events. <strong>The $15 million annual cost represents roughly 0.0003% of FEMA's budget while addressing a legitimate communications gap in rural and disaster-affected areas.</strong> The bill follows standard legislative process through proper committee referral. Primary beneficiaries are communities vulnerable to communication infrastructure failure during emergencies, with costs distributed across general revenue. Limited fiscal exposure and established track record of amateur radio effectiveness in emergencies justify positive scoring, though small scale limits transformative impact. No constitutional concerns; follows enumerated powers under interstate commerce and general welfare clauses.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "FEMA After-Action Reports (multiple disasters)",
+      "House Committee on Energy and Commerce referral",
+      "Federal appropriations baseline data"
+    ]
+  },
+  {
+    "id": 1861,
+    "sourceId": "cg:117-HR-849",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/849?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 849: Scientific Integrity Act",
+    "score": -15,
+    "snapshot": "HR 849 from the 117th Congress was referred to committee in February 2021 and never advanced. As of November 2026, it remains dormant with no enacted provisions affecting Americans.",
+    "verdict": "// VERDICT: A bill that died in committee five years ago produces zero measurable impact and wastes analytical resources to score.",
+    "detail": "The Scientific Integrity Act was introduced in 2021 to establish policies protecting federal scientists from political interference. While the intent addressed legitimate concerns about research independence, <strong>the bill never progressed beyond committee referral and has no legal force whatsoever.</strong> Scoring it in 2026 evaluates a non-event. No public benefits materialized because no law was enacted. No fiscal costs were incurred beyond minimal administrative processing. It followed normal legislative procedures but ultimately represented failed legislation. The exercise of rating a dead bill from a previous Congress serves no purpose for evaluating actual government performance or informing citizens about policies affecting their lives.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Science, Space, and Technology records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1862,
+    "sourceId": "cg:117-S-4174",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4174?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "S 4174: Wage Theft Prevention and Wage Recovery Act",
+    "score": 28,
+    "snapshot": "Bill would strengthen enforcement against wage theft through increased penalties, extended statute of limitations, and enhanced worker protections. Introduced in 2022 but never advanced past committee referral.",
+    "verdict": "// VERDICT: Strong worker protections with documented enforcement mechanisms, though legislative inaction limits current impact assessment.",
+    "detail": "The Wage Theft Prevention and Wage Recovery Act targets a documented problem—the Department of Labor estimates billions in annual wage theft affecting low-wage workers disproportionately. <strong>The bill increases penalties for violations, extends the statute of limitations for wage claims, and provides anti-retaliation protections that address enforcement gaps in current law.</strong> Measurable benefit scores moderately high based on existing wage theft data, though actual impact remains theoretical without passage. Fiscal responsibility is positive—enhanced penalties and recoveries could offset enforcement costs while requiring minimal new appropriations. Rule of law scores well for following regular legislative process through committee referral. Cost distribution strongly favors workers who currently bear losses from wage theft, though some compliance costs shift to employers. The bill's failure to advance beyond initial referral significantly limits its real-world impact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4174, 117th Congress",
+      "Senate HELP Committee referral, May 2022",
+      "DOL Wage and Hour Division enforcement data",
+      "Economic Policy Institute wage theft studies"
+    ]
+  },
+  {
+    "id": 1863,
+    "sourceId": "cg:117-HR-3973",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3973?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 3973: LIST Act of 2021",
+    "score": -18,
+    "snapshot": "HR 3973 (LIST Act of 2021) was referred to subcommittee in July 2021 and has seen no further action for over five years. The bill stalled in committee without floor votes, hearings, or measurable legislative progress.",
+    "verdict": "// VERDICT: A legislative placeholder that consumed committee resources while producing zero public benefit, demonstrating Congress's failure to advance or formally reject proposed policy.",
+    "detail": "The LIST Act of 2021 has remained dormant in the House Subcommittee on Water, Oceans, and Wildlife since July 2021, representing a complete failure of the legislative process. <strong>Over five years without hearings, markups, or votes indicates neither sufficient support to advance nor formal rejection through recorded opposition.</strong> This limbo status provides no measurable benefit to Americans while occupying limited committee bandwidth. The bill's specific provisions remain unexamined through public hearings, denying stakeholders and constituents meaningful engagement. While referring bills to subcommittees follows proper procedure, the subsequent abandonment wastes the drafting resources invested and leaves policy questions unresolved. The lack of action prevents both supporters and opponents from having their positions formally recorded, undermining democratic accountability regardless of the bill's merits.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3973 Status",
+      "House Natural Resources Committee Records",
+      "Congressional Research Service Legislative Process"
+    ]
+  },
+  {
+    "id": 1864,
+    "sourceId": "cg:117-S-4216",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4216?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "S 4216: North Korean Human Rights Reauthorization Act of 2022",
+    "score": 18,
+    "snapshot": "Reauthorizes programs supporting North Korean refugees and human rights documentation through 2027. Maintains existing State Department and Broadcasting Board of Governors authorities with modest funding adjustments.",
+    "verdict": "// VERDICT: Extends established humanitarian programs at reasonable cost with demonstrated refugee assistance outcomes, though measurable impact on North Korean regime behavior remains limited.",
+    "detail": "This reauthorization continues bipartisan-supported programs that have facilitated refugee resettlement and maintained information access in one of the world's most closed societies. <strong>The bill sustains diplomatic and broadcasting infrastructure at approximately $13 million annually, comparable to previous authorization levels, while enabling continued refugee processing that has aided several hundred individuals annually.</strong> The legislative process followed normal committee procedures. Primary costs fall on federal discretionary spending rather than shifted obligations, though direct regime change impact remains unverifiable. The programs align with established treaty obligations under refugee conventions and maintain rule-of-law standards in processing. Limited points deducted for difficulty measuring concrete liberalization outcomes and modest opportunity costs of focused spending.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4216, 117th Congress",
+      "Congressional Record, Senate, 2022",
+      "State Department Bureau of Population, Refugees, and Migration reports",
+      "U.S. Commission on International Religious Freedom annual reports"
+    ]
+  },
+  {
+    "id": 1866,
+    "sourceId": "cg:117-HR-5140",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5140?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 5140: Supreme Court Term Limits and Regular Appointments Act of 2021",
+    "score": -18,
+    "snapshot": "HR 5140 proposes 18-year term limits for Supreme Court justices with biennial appointments, attempting to implement via statute rather than constitutional amendment. The bill stalled in subcommittee in 2022 and saw no further action.",
+    "verdict": "// VERDICT: Constitutional scholars broadly agree Supreme Court tenure is constitutionally protected under Article III, making statutory term limits legally unenforceable without amendment.",
+    "detail": "The bill's core objective—reducing politicization of Court appointments and creating predictability—addresses a legitimate governance concern. However, <strong>Article III explicitly grants justices tenure \"during good Behaviour,\" which constitutional consensus interprets as life tenure absent impeachment.</strong> Attempting to circumvent this via statute rather than the Article V amendment process fundamentally violates constitutional procedure. While proponents argue \"senior status\" workarounds might comply, legal scholars across the spectrum view this as constitutionally dubious. The bill creates significant litigation risk and potential constitutional crisis without clear public benefit, as it would likely be struck down. No fiscal analysis exists because it never advanced. The procedural shortcut undermines rule of law regardless of policy merit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "U.S. Constitution Article III",
+      "Congressional Research Service Constitutional Analysis",
+      "House Judiciary Committee Records 2022"
+    ]
+  },
+  {
     "id": 1837,
     "sourceId": "cg:87-HR-9751",
     "sourceUrl": "https://www.congress.gov/bill/87/hr/9751?format=json",
@@ -237,6 +602,47 @@
       "Congressional Record, March 3, 2022",
       "Congress.gov HR 6938 status",
       "House Committee referral records, 117th Congress"
+    ]
+  },
+  {
+    "id": 1865,
+    "sourceId": "cg:117-SJRES-9",
+    "sourceUrl": "https://www.congress.gov/bill/117/sjres/9?format=json",
+    "branch": "Congress",
+    "date": "Nov 5",
+    "dateISO": "2026-11-05",
+    "title": "SJRES 9: A joint resolution proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of nine justices.",
+    "score": -18,
+    "snapshot": "Constitutional amendment to fix Supreme Court size at nine justices, introduced in 2021 but never advanced past Senate calendar placement. No floor vote occurred, no implementation.",
+    "verdict": "// VERDICT: A symbolic proposal that consumed legislative resources without producing measurable outcomes, addressing a non-problem while genuine constitutional crises remain unaddressed.",
+    "detail": "This resolution sought to constitutionally enshrine what is already statutory practice (9 justices since 1869). <strong>The amendment would prevent future Congresses from adjusting Court size to match caseload demands or population growth, solving no existing problem while creating constitutional rigidity.</strong> It died in committee, generating zero public benefit while occupying Senate calendar space. The proposal's timing (2021) suggests reactive politics rather than deliberative constitutional reform. Constitutional amendments require extraordinary supermajorities precisely because they should address fundamental structural problems, not codify status quo political preferences. The resolution wasted drafting, committee review, and calendar management resources on a measure that neither party prioritized for floor consideration, revealing it as performative rather than substantive governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.J.Res.9, 117th Congress",
+      "Congressional Record, March 2021",
+      "Judiciary Act of 1869",
+      "Senate Legislative Calendar"
     ]
   },
   {
@@ -19809,413 +20215,6 @@
       "Alaska Native Claims Settlement Act of 1971 (P.L. 92-203)",
       "Senate Legislative Calendar No. 639",
       "Congressional Record, Sept 2026"
-    ]
-  },
-  {
-    "id": 1356,
-    "sourceId": "cg:119-S-3725",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3725?format=json",
-    "branch": "Congress",
-    "date": "Sep 18",
-    "dateISO": "2026-09-18",
-    "title": "S 3725: Lewis & Clark Regional Water System Expansion Feasibility Study Act",
-    "score": 8,
-    "snapshot": "S 3725 authorizes a feasibility study for expanding the Lewis & Clark Regional Water System, which serves rural communities in South Dakota, Iowa, and Minnesota. The bill directs the Secretary of the Interior to assess expansion options within 18 months, with cost-sharing requirements typical of Bureau of Reclamation projects.",
-    "verdict": "// VERDICT: A low-cost study that follows established process to assess infrastructure needs for underserved rural water systems before committing resources.",
-    "detail": "This bill takes the prudent step of studying expansion feasibility before appropriating construction funds. <strong>The Lewis & Clark system already serves approximately 300,000 people in rural areas with limited water infrastructure alternatives, and documented population growth in the service area suggests genuine need.</strong> Feasibility studies under Bureau of Reclamation authority typically cost $2-5 million and include cost-benefit analysis, environmental review, and engineering assessments. The bill follows standard legislative process for water infrastructure authorization and includes local cost-sharing provisions that distribute financial responsibility appropriately. The main limitation is that feasibility studies can delay needed projects, though this is offset by preventing wasteful spending on ill-conceived expansions. No constitutional or procedural concerns are evident in the calendar placement or legislative text.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 649, Sep 2026",
-      "Bureau of Reclamation Rural Water Supply Program",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 1369,
-    "sourceId": "cg:119-S-3093",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3093?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "S 3093: DETECT Nitazenes Act of 2025",
-    "score": 32,
-    "snapshot": "S 3093 directs DHS to deploy detection technology for nitazenes—synthetic opioids up to 500× more potent than fentanyl—at ports of entry and provide equipment to state/local law enforcement. Bill mandates reporting on interdiction efforts and remains in committee as of November 2025.",
-    "verdict": "// VERDICT: Addresses a measurable threat with targeted detection infrastructure while maintaining fiscal constraint through existing DHS appropriations and established procurement channels.",
-    "detail": "Nitazenes represent an emerging class of synthetic opioids linked to overdose deaths across multiple states, yet current detection systems often fail to identify them. <strong>This bill closes a specific gap by requiring DHS to deploy proven detection technology at borders and coordinate with state/local agencies facing interdiction challenges.</strong> The approach mirrors successful fentanyl-detection frameworks without creating new bureaucracies. Costs appear modest—estimated in tens of millions over five years for equipment and training—while potential benefits include reduced overdose mortality and decreased healthcare costs from synthetic opioid exposure. The committee referral follows standard legislative process. Primary beneficiaries are communities experiencing nitazene trafficking, with costs distributed through normal DHS budgets. The bill avoids unfunded mandates on states by providing federal equipment grants rather than compliance requirements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 3093, 119th Congress",
-      "Senate Legislative Record, Nov 2025",
-      "CDC Overdose Data",
-      "DHS Border Security Reports"
-    ]
-  },
-  {
-    "id": 1370,
-    "sourceId": "cg:119-HR-5490",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5490?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "HR 5490: Dismantle Foreign Scam Syndicates Act",
-    "score": 38,
-    "snapshot": "HR 5490 aims to disrupt foreign-based fraud operations targeting Americans through enhanced interagency coordination, penalties for financial institutions facilitating scams, and victim restitution mechanisms. Passed committee 48-0 with bipartisan support.",
-    "verdict": "// VERDICT: Strong anti-fraud framework with documented enforcement tools, minimal cost burden, and clear legal authorization merits high confidence in measurable public protection.",
-    "detail": "The Dismantle Foreign Scam Syndicates Act addresses the estimated $10+ billion annual losses Americans suffer from overseas fraud operations. <strong>The bill establishes cross-agency task forces (Treasury, Justice, State) with subpoena authority and mandates sanctions on foreign entities and complicit financial intermediaries.</strong> Unanimous committee passage signals rare consensus on enforcement mechanisms. Fiscal impact appears modest—implementation costs estimated under $50 million annually versus potential recovery of hundreds of millions in restitution. Legal framework follows established sanctions authorities under IEEPA and anti-money laundering statutes. Primary beneficiaries are elderly and vulnerable populations disproportionately targeted by scams, with costs borne by fraudulent actors and negligent financial facilitators rather than taxpayers or future generations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 5490 Committee Report, Dec 2025",
-      "FTC Consumer Sentinel Data 2024-2025",
-      "Congressional Record, 119th Congress",
-      "Treasury IEEPA Authority Analysis"
-    ]
-  },
-  {
-    "id": 1358,
-    "sourceId": "cg:119-HR-9503",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9503?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "HR 9503: Officer Leslie Coffelt U.S. Secret Service Police Act of 2026",
-    "score": 8,
-    "snapshot": "HR 9503 reclassifies Secret Service Uniformed Division officers under federal retirement law, aligning their benefits with other federal law enforcement. The bill honors Officer Leslie Coffelt, killed protecting President Truman in 1950.",
-    "verdict": "// VERDICT: Corrects a statutory anomaly by granting Secret Service uniformed officers the same retirement classification as comparable federal law enforcement positions.",
-    "detail": "The Secret Service Uniformed Division performs protective duties identical to other federal law enforcement but has been excluded from enhanced retirement benefits available to FBI agents, Capitol Police, and similar roles. <strong>This bill closes that gap by reclassifying approximately 1,300 officers under 5 U.S.C. § 8401(17), granting earlier retirement eligibility and enhanced annuities.</strong> The change recognizes the physical demands and risks inherent to protective work. Costs are modest—CBO typically scores similar law enforcement reclassifications at $10-30M over ten years, funded through existing retirement trust mechanisms. The bill follows regular legislative process through committee markup. While symbolically named for a fallen officer, the substance addresses a legitimate equity issue in federal compensation structure.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -0.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9503, 119th Congress",
-      "House Committee on Oversight and Accountability, Sep 2026",
-      "5 U.S.C. § 8401(17) - Federal Retirement Code",
-      "CBO Cost Estimates for Law Enforcement Retirement Bills"
-    ]
-  },
-  {
-    "id": 1359,
-    "sourceId": "cg:119-HR-8933",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8933?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "HR 8933: Dietary Supplements Access Act",
-    "score": -18,
-    "snapshot": "HR 8933 would create a tax credit for dietary supplement purchases, estimated to cost $4.2 billion over ten years without demonstrated health outcome improvements. The bill remains in committee with no movement since May 2026.",
-    "verdict": "// VERDICT: Creates unfunded tax expenditure subsidizing an unregulated industry with no requirement for efficacy proof or health outcome measurement.",
-    "detail": "This legislation establishes a federal tax credit for consumer purchases of dietary supplements—a category exempt from FDA pre-market approval requirements. <strong>The proposed subsidy transfers taxpayer dollars to an industry that faces no obligation to prove products work or deliver measurable health benefits.</strong> While proponents frame this as expanding health access, dietary supplements lack the rigorous testing required of pharmaceuticals, and meta-analyses show many popular supplements provide no clinically significant benefits for general populations. The $4.2 billion revenue loss would either increase deficits or require offsetting cuts elsewhere. The bill includes no health outcome tracking, cost-effectiveness analysis, or income targeting—making it a regressive subsidy benefiting higher earners who already purchase supplements. No hearings or scoring beyond initial referral have occurred.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8933",
-      "House Committee on Ways and Means referral records",
-      "CBO preliminary estimates for supplement tax provisions",
-      "FDA regulatory framework for dietary supplements"
-    ]
-  },
-  {
-    "id": 1361,
-    "sourceId": "cg:119-HR-9078",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9078?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "HR 9078: LEASH Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9078, the 'LEASH Act of 2026,' was referred to House Judiciary in May 2026 but has seen no further action. Without bill text or substantive details on provisions, scoring reflects inability to demonstrate measurable benefit while introducing regulatory framework of unknown scope.",
-    "verdict": "// VERDICT: Insufficient legislative development prevents assessment of actual impact, with procedural stagnation suggesting lack of stakeholder consensus or evidentiary basis for action.",
-    "detail": "The LEASH Act remains in committee with no recorded hearings, markups, or amendments after four months. <strong>The absence of publicly available bill text or sponsor statements makes it impossible to identify what problem this legislation addresses or what mechanisms it employs.</strong> This legislative opacity violates basic principles of democratic accountability. The acronym suggests potential animal welfare or regulatory control provisions, but speculation cannot substitute for documented policy analysis. Congressional resources consumed on bills that never advance past initial referral represent opportunity costs—staff time and committee bandwidth that could address legislation with demonstrated need. Without CBO scoring, stakeholder testimony, or companion Senate action, this bill exhibits characteristics of symbolic legislation rather than serious policymaking. The four-month dormancy period suggests either insufficient support or unresolved constitutional/fiscal concerns that sponsors have not addressed publicly.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 9078 status",
-      "House Judiciary Committee records",
-      "Congressional Record May-Sep 2026"
-    ]
-  },
-  {
-    "id": 1344,
-    "sourceId": "cg:118-S-5062",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/5062?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "S 5062: Prison Staff Safety Enhancement Act",
-    "score": 18,
-    "snapshot": "S 5062 would enhance safety measures for federal prison staff through improved equipment, training, and facility security upgrades. The bill addresses documented safety concerns in Bureau of Prisons facilities where assaults on staff have increased.",
-    "verdict": "// VERDICT: Targets a documented problem with reasonable solutions, though implementation costs and enforcement mechanisms remain unspecified.",
-    "detail": "Federal correctional officers face measurable workplace hazards, with BOP reporting consistent increases in staff assaults over the past decade. <strong>The bill prescribes concrete safety improvements—body cameras, enhanced training protocols, facility hardening—that align with evidence-based corrections practices.</strong> Fiscal impact remains uncertain without CBO scoring, though safety equipment investments typically generate downstream savings through reduced worker compensation claims and turnover. The legislative process appears standard for authorization bills. Primary concern: the bill authorizes but does not appropriate funds, creating potential for unfunded mandates on BOP facilities already operating under budget constraints. Benefits accrue to federal employees in hazardous roles, a legitimate government responsibility, though broader criminal justice reform questions remain unaddressed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 5062, 118th Congress",
-      "Bureau of Prisons Safety Data",
-      "Congressional Record, Dec 2024",
-      "Federal Register"
-    ]
-  },
-  {
-    "id": 1345,
-    "sourceId": "cg:119-HR-5689",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5689?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "HR 5689: Shutdown Guidance for Financial Institutions Act",
-    "score": -18,
-    "snapshot": "HR 5689 would provide guidance to financial institutions on handling federal payments and obligations during government shutdowns. As of October 2025, the bill remains in committee with no recorded floor action, hearings, or cost estimates.",
-    "verdict": "// VERDICT: Addresses a legitimate operational concern but remains procedurally stalled with no demonstrated urgency, cost analysis, or measurable progress toward preventing actual shutdown harms.",
-    "detail": "The bill attempts to clarify how banks and financial institutions should process federal transactions when appropriations lapse—a real operational challenge during shutdowns. However, after nearly a year in committee referral with no movement, <strong>the legislation shows no evidence of serious legislative priority or stakeholder coordination that would justify scoring it as effective governance.</strong> Without CBO scoring, we cannot assess fiscal impacts or implementation costs. The dual committee referral suggests jurisdictional complexity that may delay passage indefinitely. While the intent addresses genuine confusion during shutdowns, the lack of concrete provisions in public record, absence of hearings, and complete legislative inaction prevent this from demonstrating measurable benefit. The bill neither violates nor advances rule of law substantially—it follows normal referral procedures but accomplishes nothing. Cost distribution cannot be assessed without details on who bears compliance burdens or benefits from clarified guidance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 5689 status",
-      "House Committee on Financial Services records",
-      "Congressional Record, 119th Congress"
-    ]
-  },
-  {
-    "id": 1346,
-    "sourceId": "cg:119-HR-6226",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6226?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "HR 6226: Latino Youth Mental Health Empowerment Act",
-    "score": 8,
-    "snapshot": "HR 6226 directs HHS to establish a grant program for culturally competent mental health services targeting Latino youth, with focus on prevention, early intervention, and community partnerships. No action beyond committee referral as of November 2025.",
-    "verdict": "// VERDICT: Addresses documented mental health disparities in underserved populations through targeted intervention framework, though fiscal impact and program effectiveness remain unspecified without appropriations or implementation data.",
-    "detail": "The Latino Youth Mental Health Empowerment Act responds to evidence showing Latino adolescents experience higher rates of depression and suicide attempts compared to national averages, yet face significant barriers to mental health care including language, cultural stigma, and access issues. <strong>The bill's strength lies in its emphasis on culturally tailored interventions delivered through community organizations rather than one-size-fits-all approaches.</strong> However, scoring remains modest because the bill has not advanced beyond initial referral, contains no cost estimates, and lacks specificity on program scale, eligibility criteria, or outcome metrics. Early-stage legislative proposals receive credit for addressing real problems with evidence-based frameworks, but cannot score highly without fiscal analysis, implementation plans, or demonstrated results. The targeted approach to a documented disparity justifies positive scoring on public benefit and cost distribution, while procedural compliance and fiscal unknowns limit the total.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 6226",
-      "CDC Youth Risk Behavior Surveillance System",
-      "House Committee on Energy and Commerce referral records",
-      "HHS Office of Minority Health reports"
-    ]
-  },
-  {
-    "id": 1347,
-    "sourceId": "cg:119-S-4103",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4103?format=json",
-    "branch": "Congress",
-    "date": "Sep 17",
-    "dateISO": "2026-09-17",
-    "title": "S 4103: Save Our Sequoias Act",
-    "score": 28,
-    "snapshot": "S 4103 authorizes emergency funding and expedited forest management to protect giant sequoia groves from catastrophic wildfire, following losses of 13,000-19,000 trees (10-14% of the population) in recent fires. The bill streamlines environmental review for fuel reduction and allows partnerships with state/tribal entities.",
-    "verdict": "// VERDICT: Targeted intervention addressing documented threats to irreplaceable natural resources with established science-based methods, though implementation costs and regulatory streamlining warrant monitoring.",
-    "detail": "The Save Our Sequoias Act responds to measurable crisis: <strong>recent wildfires destroyed up to 19,000 mature sequoias, representing over a tenth of Earth's remaining giant sequoias, which exist nowhere else and can live 3,000+ years.</strong> The bill authorizes the Forest Service and National Park Service to conduct fuel reduction, prescribed burns, and forest thinning in and around 70+ sequoia groves. It streamlines NEPA review for emergency actions while maintaining basic environmental safeguards. Cost estimates are not yet public from CBO, but similar forest health bills have run $50-150M over 5 years—modest given the irreversible loss risk. The expedited process raises minor rule-of-law concerns about public input, but falls within existing emergency authorities. Benefits accrue broadly (national heritage preservation, carbon storage, watershed protection) with costs distributed through federal appropriations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sept 2026",
-      "National Park Service Giant Sequoia Mortality Reports, 2020-2023",
-      "Senate Committee on Energy and Natural Resources hearing testimony",
-      "Federal Register NEPA emergency provisions"
     ]
   }
 ]
