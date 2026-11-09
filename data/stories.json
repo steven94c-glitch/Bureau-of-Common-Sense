@@ -1,5 +1,448 @@
 [
   {
+    "id": 1877,
+    "sourceId": "cl:11525671",
+    "sourceUrl": "https://www.courtlistener.com/opinion/11057881/mullin-v-friends-of-the-ruidosa-church/",
+    "branch": "Courts",
+    "date": "Nov 9",
+    "dateISO": "2026-11-09",
+    "title": "Opinion 11525671",
+    "score": 31,
+    "snapshot": "Supreme Court stayed a lower court injunction that had blocked DHS waiver authority for border barrier construction in the Big Bend Sector, holding that 'major questions doctrine' challenges are statutory claims outside the court's limited constitutional jurisdiction under IIRIRA Section 102.",
+    "verdict": "// VERDICT: Court correctly enforced congressional jurisdictional limits while preserving executive authority explicitly granted by statute, though the underlying waiver power itself raises separation-of-powers concerns.",
+    "detail": "The Court enforced IIRIRA Section 102's express limitation that courts may only hear constitutional—not statutory—challenges to DHS border construction waivers. <strong>The decision respects both congressional intent to expedite border infrastructure and the distinction between statutory interpretation canons (like major questions doctrine) and actual constitutional violations.</strong> While the ruling itself scores positively for following established jurisdictional law and legislative text, the underlying 1996 statute grants exceptionally broad waiver authority that allows an executive official to suspend environmental, conservation, and other laws with minimal judicial oversight. The Court appropriately declined to let plaintiffs transform a statutory claim into a constitutional one through creative labeling, but the statutory framework concentrates significant unchecked power in one Cabinet official. The ruling advances border security interests Congress explicitly authorized while maintaining proper judicial boundaries.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 26A560 (Nov. 9, 2026)",
+      "IIRIRA Section 102, 110 Stat. 3009-554",
+      "Dalton v. Specter, 511 U.S. 462 (1994)",
+      "Biden v. Nebraska, 600 U.S. 477 (2023)"
+    ]
+  },
+  {
+    "id": 1867,
+    "sourceId": "cg:117-HR-1499",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/1499?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 1499: La Paz County Solar Energy and Job Creation Act of 2021",
+    "score": -35,
+    "snapshot": "HR 1499 proposed solar development on BLM land in La Paz County, Arizona but died in subcommittee in April 2021—over 5 years ago. No measurable public benefit occurred; the bill never progressed beyond referral.",
+    "verdict": "// VERDICT: A stalled proposal from 2021 that produced zero jobs, zero energy, and consumed legislative resources while achieving nothing.",
+    "detail": "This bill was referred to subcommittee in April 2021 and has remained dormant for over five years, demonstrating complete legislative failure. <strong>The title promised solar energy and job creation, but the bill never received a hearing, markup, or floor vote—delivering precisely zero of either.</strong> Solar development on federal land can provide measurable benefits when executed, but this proposal consumed staff time, committee resources, and political capital while accomplishing nothing. The opportunity cost is substantial: the 117th Congress ended in January 2023, making this bill legislatively dead. No fiscal impact occurred because no action was taken, but the failure to advance viable energy infrastructure represents a missed opportunity during a critical period for renewable development. The bill followed proper referral procedures but demonstrates dysfunction when promising legislation languishes without explanation or alternative action.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Natural Resources referral records",
+      "Congress.gov bill status HR 1499"
+    ]
+  },
+  {
+    "id": 1868,
+    "sourceId": "cg:117-HR-9014",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9014?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 9014: Promoting National Service and Reducing Unemployment Act",
+    "score": -28,
+    "snapshot": "HR 9014 proposes expanding national service programs to reduce unemployment but died in committee in 2022 without passage, funding, or implementation. No measurable public impact occurred.",
+    "verdict": "// VERDICT: Bill never advanced beyond committee referral and produced zero enacted policy or documented outcomes.",
+    "detail": "This legislation was referred to committee in September 2022 during the 117th Congress and saw no further action—no hearings, markups, votes, or enactment. <strong>A bill that never becomes law cannot deliver measurable public benefit, fiscal outcomes, or legal effect.</strong> The proposal itself lacks specificity in the available record regarding costs, program design, or constitutional concerns, making objective assessment of its merits impossible. What remains is legislative intent without execution. The score reflects that referring a bill to committee represents minimal adherence to process (slight positive on rule of law) but delivers nothing tangible on the other criteria. Unfunded proposals that consume legislative time without advancing to votes represent opportunity costs in policymaking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -11.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Appropriations records",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1869,
+    "sourceId": "cg:117-S-528",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/528?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "S 528: La Paz County Solar Energy and Job Creation Act",
+    "score": -28,
+    "snapshot": "S.528 stalled in subcommittee in 2021 and never advanced to floor vote or enactment. As of November 2026, this bill produced no measurable outcomes—no solar installations, no jobs, no public benefit.",
+    "verdict": "// VERDICT: Five years after hearings, this bill accomplished nothing while occupying legislative resources that could have addressed actual energy or employment needs.",
+    "detail": "This bill died in the Senate Energy subcommittee after October 2021 hearings and was never reported out, never voted upon, and never enacted into law. <strong>Zero solar capacity was added, zero jobs were created, and zero public lands were designated for the stated purpose.</strong> The legislation consumed staff time, committee resources, and hearing costs (S.Hrg. 117-453) without producing any return. While the stated goals—renewable energy development and job creation in La Paz County—might have scored positively if implemented, the complete failure to advance legislation through basic democratic process represents a failure of governance. No fiscal impact occurred because no appropriations were authorized, but the opportunity cost of legislative attention on a bill that went nowhere penalizes both rule of law (failure to complete legislative process) and cost distribution (La Paz County residents saw no benefit from promised jobs).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.528, 117th Congress",
+      "Senate Hearing S.Hrg. 117-453 (Oct 2021)",
+      "Congress.gov legislative status",
+      "Senate Energy Committee records"
+    ]
+  },
+  {
+    "id": 1870,
+    "sourceId": "cg:117-HR-7701",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7701?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 7701: Wage Theft Prevention and Wage Recovery Act of 2022",
+    "score": -37,
+    "snapshot": "HR 7701 from the 117th Congress (2021-2022) was placed on the Union Calendar in October 2022 but never advanced to a vote. The bill died with the end of that Congress in January 2023, making the 2026 date impossible.",
+    "verdict": "// VERDICT: This item references legislation that expired four years ago and cannot have any current legal effect in November 2026.",
+    "detail": "HR 7701 was introduced during the 117th Congress to address wage theft through enhanced penalties and worker protections. <strong>However, bills that fail to pass before a Congress adjourns automatically die and hold no legal force in subsequent sessions.</strong> The 117th Congress ended January 3, 2023. Any scoring of this bill as a November 2026 action is fundamentally flawed because it represents non-existent governmental activity. The constitutional requirement that each Congress begins anew means this bill would need reintroduction, committee review, and passage in the current (119th) Congress to have any effect. Scoring dead legislation as current action violates basic rule of law principles and creates false public expectations about government activity.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7701 (117th Congress)",
+      "Article I, Section 5 U.S. Constitution",
+      "Congressional Research Service on bill lifecycle"
+    ]
+  },
+  {
+    "id": 1871,
+    "sourceId": "cg:117-HR-35",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/35?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 35: To terminate the designation of the Islamic Republic of Pakistan as a major non-NATO ally, and for other purposes.",
+    "score": -8,
+    "snapshot": "HR 35 would revoke Pakistan's Major Non-NATO Ally status, a designation conferring defense cooperation benefits but no binding security commitments. The bill stalled in subcommittee in 2021 and saw no further legislative action.",
+    "verdict": "// VERDICT: Symbolic gesture addressing legitimate counterterrorism concerns but offers no measurable security improvement while risking reduced intelligence cooperation in a nuclear-armed, strategically positioned nation.",
+    "detail": "Pakistan's MNNA status (granted 2004) provides access to U.S. defense equipment and training but imposes no treaty obligations on either nation. Revocation would signal displeasure over Pakistan's harboring of terrorist networks—a documented problem—but <strong>delivers no concrete mechanism to change Pakistani behavior while potentially degrading U.S. access to intelligence on regional terrorism and nuclear security</strong>. The bill proposes no alternative strategy for addressing legitimate grievances about Pakistan's support for Taliban elements or failure to act against groups like Haqqani Network. Fiscally neutral but strategically questionable: MNNA status costs minimal direct funds while maintaining diplomatic leverage. The bill's complete inaction since 2021 subcommittee referral suggests even sponsors recognized limited practical value. Pakistan's cooperation, however imperfect, remains relevant for Afghanistan stability monitoring and counterterrorism operations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "State Dept. Major Non-NATO Ally designations",
+      "Congressional Research Service: Pakistan-U.S. Relations",
+      "House Foreign Affairs Committee records"
+    ]
+  },
+  {
+    "id": 1872,
+    "sourceId": "cg:117-HR-1569",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/1569?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 1569: Critically Endangered Animals Conservation Act of 2021",
+    "score": -8,
+    "snapshot": "HR 1569 aimed to establish conservation programs for critically endangered species but stalled in subcommittee hearings in July 2021. No floor vote occurred, no funding was allocated, and the bill died without enactment.",
+    "verdict": "// VERDICT: A well-intentioned conservation proposal that produced zero measurable outcomes after failing to advance beyond subcommittee hearings for over five years.",
+    "detail": "This bill represents legislative inertia rather than action. While protecting critically endangered species carries ecological and scientific value, a proposal that never reaches a vote delivers no public benefit. The lack of advancement suggests either <strong>insufficient legislative prioritization, flawed drafting that prevented consensus, or competing budget constraints that made passage politically unfeasible.</strong> Without knowing the bill's specific provisions or cost estimates, fiscal responsibility cannot be assessed meaningfully, but the complete failure to move forward indicates either the proposal was fiscally unrealistic or lacked serious sponsor commitment. The legislative process was technically followed through subcommittee hearings, but five years without floor consideration represents a procedural dead end. No costs were imposed because nothing was implemented, but equally, no benefits were delivered to endangered species or the American public.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 1569 status",
+      "House Natural Resources Committee records",
+      "Congressional Research Service legislative tracking"
+    ]
+  },
+  {
+    "id": 1873,
+    "sourceId": "cg:117-HR-6393",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6393?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 6393: Responsible Budgeting Act",
+    "score": -28,
+    "snapshot": "HR 6393, introduced in January 2022, would require new federal spending to be offset by spending cuts or revenue increases. The bill died in committee without floor vote or CBO score.",
+    "verdict": "// VERDICT: Procedural proposal with no enacted impact; died in committee after referral to three committees with no recorded progress toward implementation.",
+    "detail": "The Responsible Budgeting Act aimed to impose pay-as-you-go requirements on new federal spending, theoretically addressing fiscal discipline. However, the bill never advanced beyond committee referral in January 2022 and was not reintroduced in subsequent Congresses. <strong>Without committee hearings, markup, CBO analysis, or floor consideration, this legislative effort produced zero measurable public benefit.</strong> While the stated intent addresses fiscal responsibility, the complete absence of legislative action means no actual budget constraints were implemented. The bill's failure to progress through even initial committee review suggests either lack of political will or fundamental disagreements on approach. As a non-event in the legislative process, it represents wasted opportunity cost for addressing genuine fiscal challenges during a period of significant deficit expansion.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Jan 2022",
+      "Congress.gov HR 6393 status",
+      "House Committee referral records"
+    ]
+  },
+  {
+    "id": 1874,
+    "sourceId": "cg:117-HR-61",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/61?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 61: Midnight Rules Relief Act of 2021",
+    "score": -18,
+    "snapshot": "HR 61 would extend the Congressional Review Act window to allow Congress to overturn regulations issued in the final year of a presidential term. The bill stalled in subcommittee in 2021 and never advanced.",
+    "verdict": "// VERDICT: Failed legislation that would have politicized regulatory oversight by creating special vulnerability periods for agency rules based solely on election timing rather than substantive merit.",
+    "detail": "This bill sought to modify the Congressional Review Act to designate all regulations issued in a president's final year as \"midnight rules\" subject to expedited congressional nullification. <strong>While ostensibly promoting accountability, the arbitrary one-year window would inject election-cycle politics into technical rulemaking without regard to actual public benefit or harm.</strong> The proposal died in committee without hearings or markup, suggesting even its sponsors recognized implementation challenges. Legitimate concerns about rushed end-of-term regulations are already addressed through existing CRA procedures and administrative law safeguards. The blanket approach would have created regulatory uncertainty, potentially freezing needed rulemakings for 12 months regardless of urgency. No fiscal impact analysis exists because the bill never progressed, but compliance costs and delayed benefits from suspended rules would be substantial.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 61, 117th Congress",
+      "Congressional Review Act (5 USC 801-808)",
+      "House Judiciary Committee records, 2021"
+    ]
+  },
+  {
+    "id": 1875,
+    "sourceId": "cg:117-HR-6139",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6139?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "HR 6139: Responsible Budgeting Act",
+    "score": -8,
+    "snapshot": "HR 6139 (117th Congress, 2021) was referred to committee but never advanced, receiving no votes or further action. As of November 2026, this bill has been dead for approximately five years with zero measurable implementation or impact.",
+    "verdict": "// VERDICT: A legislative proposal that died in committee in 2021 has produced no public benefit, fiscal impact, or legal effect by 2026.",
+    "detail": "This bill was introduced in December 2021 during the 117th Congress and immediately referred to three committees (Rules, Ways and Means, Budget). <strong>It never received a committee vote, floor consideration, or any action beyond the initial referral, making it legislatively defunct.</strong> Without knowing the specific provisions of the \"Responsible Budgeting Act,\" no substantive analysis of its intended merits is possible. However, the objective reality is clear: a bill that has been stalled in committee for five years has generated zero measurable public benefit, consumed minimal fiscal resources (only administrative costs), followed standard legislative process (referral to appropriate committees), and created no cost distribution effects since it never became law. The score reflects the complete absence of implementation rather than the quality of its underlying proposals.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6139 (117th Congress)",
+      "House Committee Records 2021-2022",
+      "Congressional Record Dec 2021"
+    ]
+  },
+  {
+    "id": 1876,
+    "sourceId": "cg:117-S-4825",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4825?format=json",
+    "branch": "Congress",
+    "date": "Nov 6",
+    "dateISO": "2026-11-06",
+    "title": "S 4825: Safe Passage on Interstates Act",
+    "score": -8,
+    "snapshot": "S 4825 'Safe Passage on Interstates Act' was introduced in September 2022 (117th Congress) and referred to Senate Judiciary, where it died without further action. No legislative text, CBO score, or committee hearings are available in the public record.",
+    "verdict": "// VERDICT: A bill that never advanced beyond initial referral provides no measurable public benefit and consumed minimal but non-zero legislative resources without delivering policy outcomes.",
+    "detail": "This bill represents a common congressional outcome: introduction followed by committee burial. Without accompanying text or sponsor statements in the record, its intended policy cannot be assessed. <strong>The four-year lag between introduction (2022) and the scoring date (2026) suggests this item may be misattributed or represents a dead legislative vehicle.</strong> On measurable benefit, rule of law, and fiscal impact, the bill scores near-neutral to slightly negative—it followed proper referral procedures but produced zero outcomes. Cost distribution is also neutral given no appropriations occurred. The negative score reflects opportunity cost: staff time and legislative calendar space consumed without delivering policy, though this waste was minimal given early death in committee.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.4825 (117th Congress)",
+      "Senate Legislative Calendar 2022",
+      "Senate Judiciary Committee Records"
+    ]
+  },
+  {
     "id": 1857,
     "sourceId": "cg:117-S-4591",
     "sourceUrl": "https://www.congress.gov/bill/117/s/4591?format=json",
@@ -19769,452 +20212,6 @@
       "Congressional Record, Nov 2025",
       "Department of Education Title IV program data",
       "GAO reports on student aid fraud risks"
-    ]
-  },
-  {
-    "id": 1380,
-    "sourceId": "cg:119-HR-8311",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8311?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 8311: Protecting American Consumers from Robocalls Act",
-    "score": 38,
-    "snapshot": "HR 8311 targets robocall enforcement by mandating stricter penalties for violators and requiring carriers to implement call authentication technology. The bill includes $50M in FTC funding for enforcement over three years.",
-    "verdict": "// VERDICT: Strong consumer protection measure with documented robocall harm, modest cost, proper legislative process, and broad public benefit distribution.",
-    "detail": "Americans receive an estimated 50+ billion robocalls annually, causing measurable financial fraud losses exceeding $29 billion in 2025. <strong>This bill addresses a documented consumer harm through enforceable technical standards (STIR/SHAKEN authentication) and increased penalties ($10,000 to $50,000 per violation).</strong> The $50M enforcement budget is modest relative to fraud losses prevented. The bill follows normal House committee process and imposes costs on bad actors rather than taxpayers or vulnerable populations. While still in committee, the approach is proven—similar authentication requirements in the 2019 TRACED Act showed measurable robocall reduction. The primary weakness is enforcement challenges against overseas scammers, but carrier-level authentication addresses this structurally.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee on Energy and Commerce referral, Apr 2026",
-      "FTC Robocall Report 2025",
-      "TRACED Act implementation data, 2020-2025",
-      "Congressional Record HR 8311"
-    ]
-  },
-  {
-    "id": 1381,
-    "sourceId": "cg:119-HR-4823",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/4823?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 4823: Promoting Free and Fair Elections Act of 2025",
-    "score": -8,
-    "snapshot": "HR 4823, the Promoting Free and Fair Elections Act of 2025, was referred to multiple House committees in July 2025 and remains in committee as of September 2026 with no further legislative action. Without passage or implementation, the bill has produced no measurable outcomes.",
-    "verdict": "// VERDICT: A bill stalled in committee for over a year generates zero public benefit regardless of stated intentions, while consuming legislative resources that could address active problems.",
-    "detail": "This legislation has been dormant in committee review for 14 months across five separate committees, indicating either substantial jurisdictional complexity or lack of prioritization. <strong>Without enactment, no election procedures have changed, no protections have been implemented, and no measurable impact on electoral integrity or access exists.</strong> The multi-committee referral suggests broad scope touching election administration, judicial oversight, federal operations, technology standards, and workforce issues, but the extended inaction period means taxpayer-funded committee staff time has been allocated without producing legislative output. The bill title suggests election reform intent, but stalled proposals neither protect nor harm voting rights in practice. Legislative gridlock on election matters during a period when election administration faces documented challenges represents opportunity cost rather than active benefit or harm.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2025",
-      "House Administration Committee records",
-      "Congress.gov legislative tracking"
-    ]
-  },
-  {
-    "id": 1382,
-    "sourceId": "cg:119-HR-2587",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2587?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 2587: Youth Mental Health Research Act",
-    "score": -8,
-    "snapshot": "HR 2587 proposes federal funding for youth mental health research but remains stalled in committee since April 2025, with no vote or funding allocation after 17 months. No measurable outcomes have materialized.",
-    "verdict": "// VERDICT: Legislative inaction on youth mental health research yields zero public benefit while consuming committee resources without producing implementable policy.",
-    "detail": "This bill has languished in the House Energy and Commerce Committee for over a year without advancement, hearings, or floor consideration. <strong>While youth mental health represents a genuine crisis—teen suicide rates increased 62% from 2007-2021 per CDC data—this legislative vehicle has produced no actual research funding, no program implementation, and no policy change.</strong> The score reflects not opposition to mental health research, but the dysfunction of introducing bills that never move beyond symbolic gestures. Without CBO scoring, appropriations details, or committee action, this represents legislative theater rather than governance. The opportunity cost includes alternative mental health initiatives that might have progressed. Bills that stall indefinitely waste staff time and committee bandwidth while failing the populations they claim to serve.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 2587",
-      "CDC Youth Risk Behavior Survey",
-      "House Committee on Energy and Commerce"
-    ]
-  },
-  {
-    "id": 1383,
-    "sourceId": "cg:119-HR-8904",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8904?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 8904: To amend the Magnuson-Stevens Fishery Conservation and Management Act to provide for the regulation of fishing in marine national monuments.",
-    "score": -8,
-    "snapshot": "HR 8904 would alter federal authority over fishing regulations in marine national monuments established under the Magnuson-Stevens Act. The bill remains in subcommittee hearings as of June 2026 with no final text or cost estimates available.",
-    "verdict": "// VERDICT: Insufficient legislative development to assess concrete impact; procedural positioning suggests potential jurisdiction conflicts without clear public benefit documentation.",
-    "detail": "This bill proposes changes to fishery management within marine national monuments, but lacks sufficient advancement for meaningful evaluation. <strong>Without committee passage, floor debate, or Congressional Budget Office scoring, the actual regulatory framework, cost implications, and enforcement mechanisms remain speculative.</strong> Marine monument designations typically balance conservation against commercial fishing interests, but the bill's specific approach—whether expanding access, restricting it, or clarifying overlapping authorities—cannot be determined from subcommittee stage positioning alone. The Magnuson-Stevens Act already provides regional fishery management council authority, so any modification requires careful assessment of jurisdictional clarity and enforcement costs. Scoring reflects procedural incompleteness rather than inherent policy merit, as premature evaluation of draft legislation risks misjudging intent versus implementation.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "Magnuson-Stevens Fishery Conservation and Management Act",
-      "House Natural Resources Committee proceedings"
-    ]
-  },
-  {
-    "id": 1371,
-    "sourceId": "cg:119-HR-8255",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8255?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 8255: SAT Streamlining Act",
-    "score": -18,
-    "snapshot": "HR 8255 mandates a single standardized college admissions test administered by the Department of Education, replacing SAT, ACT, and other private assessments. The bill passed committee unanimously 35-0 but lacks cost analysis or implementation timeline.",
-    "verdict": "// VERDICT: A federally mandated monopoly on college testing concentrates power without demonstrated superiority over existing options and creates significant unfunded implementation costs.",
-    "detail": "While standardizing college admissions testing could theoretically reduce complexity for students, <strong>the bill federalizes a market function without evidence that government administration will outperform existing private options or improve student outcomes</strong>. The unanimous committee vote suggests bipartisan appeal, but absence of CBO scoring raises serious fiscal concerns about development costs, ongoing administration, and technology infrastructure for nationwide testing. Constitutional questions emerge around federal authority to mandate specific college entrance requirements, traditionally a state and institutional prerogative. The cost distribution is particularly problematic: taxpayers assume all development and operational expenses while eliminating private sector jobs, and any system failures will disproportionately harm college-bound students with no alternative options. The bill provides no accountability mechanisms, performance benchmarks, or exit strategy if the federal test proves inferior to displaced alternatives.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sept 2026",
-      "House Education Committee Report HR 8255",
-      "Federal Register Vol. 91"
-    ]
-  },
-  {
-    "id": 1366,
-    "sourceId": "cg:119-HR-9191",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9191?format=json",
-    "branch": "Congress",
-    "date": "Sep 18",
-    "dateISO": "2026-09-18",
-    "title": "HR 9191: National Fossil Act of 2026",
-    "score": -28,
-    "snapshot": "HR 9191 proposes designating an official national fossil. The bill passed the House and awaits Senate Judiciary Committee review.",
-    "verdict": "// VERDICT: Ceremonial designation consuming legislative resources during a period when Congress faces substantial fiscal and policy challenges, with no measurable impact on citizen welfare.",
-    "detail": "This legislation allocates congressional time and administrative resources to selecting a symbolic national fossil—a purely ceremonial action with zero impact on health, safety, economic outcomes, or freedoms. <strong>While such designations cost minimal direct funds, the opportunity cost is significant: floor time, committee deliberation, and staff hours diverted from addressing a $36+ trillion national debt, entitlement insolvency, or substantive policy challenges.</strong> The bill follows proper legislative procedure but exemplifies the type of symbolic gesture that erodes public trust when urgent fiscal and governance issues remain unaddressed. No constituency experiences tangible benefit, and the action represents inefficient resource allocation at a time when legislative productivity on consequential matters is critically needed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -15,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sep 2026",
-      "House Legislative Calendar",
-      "CBO FY2026 Budget Outlook"
-    ]
-  },
-  {
-    "id": 1367,
-    "sourceId": "cg:119-HR-9203",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9203?format=json",
-    "branch": "Congress",
-    "date": "Sep 18",
-    "dateISO": "2026-09-18",
-    "title": "HR 9203: Student Protection and University Accountability Act",
-    "score": -18,
-    "snapshot": "HR 9203 proposes conditioning federal research funding on university compliance with unspecified 'accountability standards' for student conduct policies. No implementation details, cost estimates, or measurable standards are provided in available congressional records.",
-    "verdict": "// VERDICT: Creates undefined regulatory framework that risks politicizing university governance while providing no measurable student protection mechanisms or fiscal analysis.",
-    "detail": "This bill exemplifies legislation-by-title, offering no concrete standards for what constitutes 'student protection' or how 'accountability' would be measured. <strong>The absence of defined metrics allows arbitrary enforcement while threatening billions in research funding that supports scientific advancement and graduate employment.</strong> Universities already operate under Title IX, Clery Act, and state laws governing student safety. Adding a vague federal layer without specifying problems being solved or compliance costs violates basic legislative responsibility. The bill appears designed to give federal officials discretionary power over academic institutions without constitutional due process protections. Calendar placement without committee score or CBO analysis indicates rushed consideration bypassing normal scrutiny. If student safety concerns exist, they should be addressed through specific, measurable reforms to existing frameworks, not through undefined funding threats.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sept 2026",
-      "Union Calendar No. 700",
-      "Federal research funding database",
-      "Title IX regulatory framework"
-    ]
-  },
-  {
-    "id": 1372,
-    "sourceId": "cg:119-S-4041",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4041?format=json",
-    "branch": "Congress",
-    "date": "Sep 18",
-    "dateISO": "2026-09-18",
-    "title": "S 4041: Cooperative Watershed Management Program Reauthorization Act of 2026",
-    "score": 18,
-    "snapshot": "Reauthorizes the Bureau of Reclamation's Cooperative Watershed Management Program through 2031, providing $15 million annually for collaborative water resource planning in western states. Program has supported 60+ watershed groups since 2009.",
-    "verdict": "// VERDICT: Modest-cost reauthorization of established program with documented stakeholder engagement benefits, though direct environmental outcomes remain difficult to quantify.",
-    "detail": "The Cooperative Watershed Management Program facilitates local collaboration on water management in drought-prone western regions, bringing together diverse stakeholders including agricultural users, municipalities, tribes, and conservation groups. <strong>At $15 million annually, the program represents cost-effective facilitation infrastructure compared to litigation and emergency intervention costs that typically exceed hundreds of millions.</strong> The program operates through established statutory authority and follows standard appropriations process. Primary limitation is difficulty measuring concrete water savings or ecosystem improvements attributable specifically to facilitation versus other factors. Benefits accrue mainly to participating western communities, while costs are distributed nationally through general revenue.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4041, 119th Congress",
-      "Senate Legislative Calendar No. 656, Sep 2026",
-      "Bureau of Reclamation Cooperative Watershed Program Records",
-      "Congressional Research Service Water Policy Reports"
-    ]
-  },
-  {
-    "id": 1373,
-    "sourceId": "cg:119-S-4040",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4040?format=json",
-    "branch": "Congress",
-    "date": "Sep 18",
-    "dateISO": "2026-09-18",
-    "title": "S 4040: Dakota Water Resources Act Amendments of 2026",
-    "score": 18,
-    "snapshot": "S 4040 amends the Dakota Water Resources Act to authorize additional water infrastructure projects in the Dakotas, including rural water systems and flood control. The bill extends authorization periods and adjusts cost-sharing formulas for ongoing regional water projects.",
-    "verdict": "// VERDICT: Incremental infrastructure investment with documented regional need, though limited transparency on updated cost projections and federal share adjustments.",
-    "detail": "The bill addresses genuine water infrastructure needs in the Dakotas, where aging rural systems and flood vulnerabilities have been documented by USGS and Army Corps studies. <strong>Authorization extensions for established programs follow standard infrastructure maintenance patterns, with regional bipartisan support indicating practical necessity rather than political maneuvering.</strong> However, the amended cost-sharing arrangements shift slightly more federal burden without detailed justification for the change. The projects serve populations that often lack alternative water sources, making this a legitimate public infrastructure investment. Fiscal scoring appears incomplete in publicly available materials—no updated CBO estimate was located for the 2026 amendments specifically, though original Dakota Water Resources Act had documented federal obligations. The bill follows normal legislative process through committee markup.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4040, 119th Congress",
-      "Senate Legislative Calendar No. 655",
-      "Dakota Water Resources Act of 2000 (P.L. 106-554)",
-      "USGS Water Resources Division regional assessments"
-    ]
-  },
-  {
-    "id": 1354,
-    "sourceId": "cg:119-S-3040",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/3040?format=json",
-    "branch": "Congress",
-    "date": "Sep 18",
-    "dateISO": "2026-09-18",
-    "title": "S 3040: Edith Nourse Rogers STEM Scholarship Opportunity Act of 2025",
-    "score": 38,
-    "snapshot": "S 3040 expands STEM education benefits for veteran dependents by extending the Edith Nourse Rogers scholarship program, increasing funding authorization from $15M to $30M annually and expanding eligibility to include dependents of veterans with service-connected disabilities rated 70% or higher.",
-    "verdict": "// VERDICT: Bill expands proven educational opportunity for military families with measurable employment outcomes while maintaining fiscal discipline through authorization caps and merit-based selection.",
-    "detail": "The Rogers STEM Scholarship, established in 2017, demonstrates documented success with 85% degree completion rates and recipients earning 23% higher starting salaries than comparable veteran-dependent populations in non-STEM fields. <strong>This expansion doubles funding capacity while tightening eligibility to higher-rated service-connected disabilities, ensuring resources target families bearing greater service-related burdens.</strong> The $30M annual authorization represents 0.01% of VA education spending with demonstrable ROI through increased tax revenue and reduced dependency. The bill follows regular legislative process through Veterans' Affairs Committee with bipartisan co-sponsorship. Critics note the expansion may create waitlists if appropriations lag authorizations, though the merit-based selection process and cap mitigate fiscal risk compared to entitlement structures.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 10.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 11,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Oct 2025",
-      "VA Education Benefits Report, FY2024",
-      "Senate Committee on Veterans' Affairs",
-      "VA STEM Scholarship Program Data 2017-2024"
-    ]
-  },
-  {
-    "id": 1355,
-    "sourceId": "cg:119-S-2554",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2554?format=json",
-    "branch": "Congress",
-    "date": "Sep 18",
-    "dateISO": "2026-09-18",
-    "title": "S 2554: Alaska Native Landless Equity Act",
-    "score": 22,
-    "snapshot": "S 2554 addresses a 50-year inequity by establishing a trust fund for approximately 72,000 Alaska Natives excluded from the 1971 Alaska Native Claims Settlement Act. The bill provides compensation to descendants of those who were left out due to arbitrary enrollment deadlines.",
-    "verdict": "// VERDICT: Corrects a documented historical exclusion from the 1971 land settlement, providing measurable relief to a specific population at modest federal cost with clear legal foundation.",
-    "detail": "The Alaska Native Claims Settlement Act of 1971 distributed 44 million acres and $962.5 million to Alaska Natives, but enrollment deadlines excluded thousands born after 1971 or living outside Alaska. <strong>This bill establishes a trust mechanism to provide equity to these 'afterborns' and their descendants, addressing a recognized gap in the original settlement.</strong> The approach follows established precedent for remedying historical exclusions from tribal settlements. Fiscal impact appears limited relative to the original settlement adjusted for inflation, with compensation distributed through existing Native corporation structures. The bill respects tribal sovereignty and follows proper legislative process through committee review. Primary beneficiaries are a clearly defined population wrongly excluded by timing rather than eligibility criteria, with no significant negative externalities to other populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 2554, 119th Congress",
-      "Alaska Native Claims Settlement Act of 1971 (P.L. 92-203)",
-      "Senate Legislative Calendar No. 639",
-      "Congressional Record, Sept 2026"
     ]
   }
 ]
