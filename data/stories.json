@@ -1,5 +1,407 @@
 [
   {
+    "id": 1878,
+    "sourceId": "cg:117-S-5193",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/5193?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "S 5193: Second Look Act of 2022",
+    "score": -8,
+    "snapshot": "S 5193 would allow federal prisoners to petition for sentence reduction after serving 10 years if they demonstrate rehabilitation. The bill never advanced beyond committee referral in 2022 and remains inactive.",
+    "verdict": "// VERDICT: Dead legislation with theoretical rehabilitative benefits undermined by lack of fiscal analysis, narrow eligibility criteria, and failure to advance through normal legislative process.",
+    "detail": "The Second Look Act proposed creating a mechanism for federal prisoners who have served at least 10 years to petition courts for sentence modifications based on demonstrated rehabilitation and reduced recidivism risk. <strong>While second-chance provisions can reduce incarceration costs and support reintegration, this bill provided no CBO score, no cost-benefit analysis of court processing burdens, and no data on how many prisoners would qualify or what net fiscal impact would result.</strong> The bill died in committee without hearings or markup, indicating insufficient legislative support. Eligibility restrictions (10-year minimum, excluding certain offenses) limit potential impact. Without implementation, projected benefits remain speculative. Modest points for attempted rule-of-law improvement through judicial review process, but penalized for lack of fiscal documentation and legislative abandonment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.5193 (117th Congress)",
+      "Senate Judiciary Committee records 2022",
+      "Federal sentencing guidelines"
+    ]
+  },
+  {
+    "id": 1879,
+    "sourceId": "cg:117-HR-9431",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9431?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 9431: Second Look Act of 2022",
+    "score": -38,
+    "snapshot": "HR 9431 would allow federal prisoners to petition for sentence reductions after serving 10 years. The bill was introduced in December 2022 and died in committee without hearings, floor votes, or cost analysis.",
+    "verdict": "// VERDICT: A bill that never received committee consideration, floor debate, or implementation cannot produce measurable public benefit regardless of theoretical merit.",
+    "detail": "This legislation proposed allowing incarcerated individuals to petition courts for sentence modifications after serving at least 10 years, targeting outdated or disproportionate sentences. However, <strong>the bill received no committee action beyond referral, no cost-benefit analysis from CBO, no floor consideration, and was never enacted into law.</strong> Without passage, there is zero measurable impact on recidivism, prison costs, public safety, or judicial efficiency. The legislative process stalled at the earliest stage, meaning taxpayers gained nothing from the drafting effort while the proposed beneficiaries remained unaffected. Bills that fail to advance beyond referral represent complete congressional inaction rather than policy achievement. The absence of hearings suggests insufficient political will or stakeholder support to warrant serious consideration of the fiscal and public safety implications.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9431 status",
+      "House Judiciary Committee records 2022-2023",
+      "Congressional Record 117th Congress"
+    ]
+  },
+  {
+    "id": 1880,
+    "sourceId": "cg:117-HR-9059",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9059?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 9059: Non-Recognition of Russian Annexation of Ukrainian Territory Act",
+    "score": -8,
+    "snapshot": "HR 9059 formally declares U.S. non-recognition of Russian annexation of Ukrainian territories seized in 2022. The bill stalled in subcommittee in September 2022 and saw no further action through November 2026.",
+    "verdict": "// VERDICT: Symbolic resolution with no appropriations, enforcement mechanisms, or measurable policy impact beyond existing executive branch position.",
+    "detail": "This non-binding resolution reiterates longstanding U.S. policy opposing territorial annexation by force, aligning with executive statements and international law positions already articulated through State Department channels and UN votes. <strong>While morally defensible, the bill allocated no resources, created no new sanctions authority, and died in subcommittee without floor consideration, producing zero operational change to U.S. foreign policy.</strong> Congressional time was consumed on a measure that duplicated existing executive pronouncements without adding enforcement tools. The four-year delay between referral and the scoring date indicates complete legislative inaction, wasting institutional bandwidth while offering no concrete benefit to Americans or Ukrainian defense efforts beyond rhetorical positioning.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Foreign Affairs Committee records",
+      "State Department Ukraine policy statements 2022-2026"
+    ]
+  },
+  {
+    "id": 1881,
+    "sourceId": "cg:117-HR-5404",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5404?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 5404: Taliban Rare Earth Minerals Sanctions Act",
+    "score": -8,
+    "snapshot": "HR 5404 proposes sanctions targeting Taliban mineral trade, particularly rare earth elements critical to U.S. technology supply chains. The bill stalled in subcommittee in 2022 and saw no further legislative action through 2026.",
+    "verdict": "// VERDICT: Well-intentioned sanctions framework undermined by complete lack of enforcement mechanisms, no funding appropriation, and legislative abandonment after subcommittee referral.",
+    "detail": "The Taliban Rare Earth Minerals Sanctions Act aimed to address legitimate concerns about mineral wealth financing extremist governance in Afghanistan. However, the bill's referral to an immigration subcommittee—rather than foreign affairs or financial services—signals jurisdictional confusion. <strong>After four years without floor consideration, markup, or funding allocation, the legislation represents symbolic posturing rather than actionable policy.</strong> Effective sanctions require Treasury Department resources, intelligence coordination, and international cooperation—none of which this dormant bill provides. While targeting Taliban revenue streams has merit, unfunded and unimplemented legislation wastes congressional bandwidth without delivering measurable security or economic benefits to Americans. The rare earth supply chain vulnerability it purports to address remains unresolved.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee Referral Records 2022",
+      "U.S. Geological Survey Rare Earth Data"
+    ]
+  },
+  {
+    "id": 1882,
+    "sourceId": "cg:117-HR-7611",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7611?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 7611: Ukraine Democracy Defense Lend-Lease Act of 2022",
+    "score": -8,
+    "snapshot": "HR 7611 authorized a WWII-style lend-lease program for Ukraine and Eastern European allies during the 2022 Russian invasion. The bill streamlined weapons and aid transfers but created open-ended fiscal obligations without clear repayment mechanisms or cost caps.",
+    "verdict": "// VERDICT: Well-intentioned emergency response that bypassed normal procurement oversight and created indeterminate long-term fiscal liabilities without measurable accountability frameworks.",
+    "detail": "The legislation revived lend-lease authority to expedite military and humanitarian aid to Ukraine, removing standard bureaucratic barriers during an active invasion. <strong>While the immediate security benefit to a democratic ally under assault was substantial, the bill contained no cost ceiling, no repayment schedule, and minimal reporting requirements on asset disposition.</strong> Historical lend-lease programs eventually recouped portions of costs, but this version lacked those safeguards. The emergency nature justified expedited process, but the absence of fiscal controls and outcome metrics transformed a crisis response into an blank check. Congressional appropriations subsequently exceeded $100 billion with limited transparency on equipment tracking or strategic benchmarks. The procedural shortcut was defensible given invasion urgency, but the complete absence of cost management mechanisms penalizes long-term fiscal responsibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 7611, 117th Congress",
+      "Congressional Record, Apr 2022",
+      "Department of Defense Ukraine Security Assistance Reports",
+      "GAO Report on Ukraine Aid Oversight"
+    ]
+  },
+  {
+    "id": 1883,
+    "sourceId": "cg:117-HR-8503",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/8503?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 8503: Securing Global Telecommunications Act",
+    "score": -35,
+    "snapshot": "HR 8503 (117th Congress, 2022) died in Senate committee without passage. As an inactive bill from a prior Congress, it produced zero implementation, zero expenditure, and zero measurable outcomes for Americans.",
+    "verdict": "// VERDICT: Legislative failure that consumed congressional resources while delivering no actual policy change or public benefit.",
+    "detail": "This bill represents a systemic dysfunction in the legislative process: introduced in the House, referred to Senate Foreign Relations in September 2022, and abandoned without action when the 117th Congress ended in January 2023. <strong>The 2026 date in the prompt appears erroneous, as this bill has been legislatively dead for nearly three years.</strong> Regardless of the bill's substantive merits regarding telecommunications security, it failed every criterion by never becoming law. It incurred drafting and committee costs without producing outcomes, followed proper referral procedures but failed the basic democratic function of reaching a vote, imposed no direct costs because it never passed, yet wasted opportunity costs that could have addressed actual telecommunications vulnerabilities. Inactive bills score negatively because they represent governmental inefficiency.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8503 (117th Congress)",
+      "Congressional Record, Sept 2022",
+      "House/Senate procedural records"
+    ]
+  },
+  {
+    "id": 1884,
+    "sourceId": "cg:117-HR-9282",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9282?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 9282: Veterans Protection from Fraud Act",
+    "score": -35,
+    "snapshot": "HR 9282, introduced in 2022 and referred to committee, never advanced beyond initial referral. The bill died without hearings, markup, or floor consideration in the 117th Congress.",
+    "verdict": "// VERDICT: Scoring reflects congressional inaction—a bill that never progressed past referral provided zero measurable benefit while consuming legislative resources without follow-through.",
+    "detail": "This item represents a phantom legislative effort. <strong>The Veterans Protection from Fraud Act was referred to committee on November 10, 2022, and abandoned when the 117th Congress ended two months later.</strong> No hearings were held, no witnesses testified, and no amendments were proposed. While the title suggests veteran protection, the absence of any legislative movement means zero tangible impact on fraud prevention, veteran services, or legal protections. The fiscal cost was minimal—staff time for drafting and referral—but represents wasted capacity. The bill followed proper referral procedures but demonstrated institutional failure to advance potentially meritorious legislation. Without committee action or stakeholder input, the actual policy content remains untested and unimplemented, delivering no value to veterans or taxpayers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 9282 status",
+      "House Judiciary Committee records 117th Congress",
+      "Congressional calendar Nov-Dec 2022"
+    ]
+  },
+  {
+    "id": 1885,
+    "sourceId": "cg:117-HR-5813",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5813?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 5813: NOSHA Act",
+    "score": -35,
+    "snapshot": "HR 5813 (NOSHA Act) was introduced in November 2021 and referred to committee, where it died without further action. The bill sought to eliminate the Occupational Safety and Health Administration entirely, removing federal workplace safety enforcement.",
+    "verdict": "// VERDICT: Abolishing OSHA would have eliminated the primary federal mechanism for workplace safety enforcement, removing protections that prevent thousands of worker deaths and injuries annually with no replacement framework proposed.",
+    "detail": "The NOSHA Act proposed eliminating OSHA without establishing alternative workplace safety mechanisms. <strong>OSHA enforcement is associated with reducing workplace fatalities by an estimated 60% since its 1970 creation, from approximately 14,000 annual deaths to under 5,000.</strong> The bill offered no cost-benefit analysis, no transition plan for state programs, and no alternative regulatory structure. While legitimate debates exist about regulatory efficiency and state versus federal authority, outright elimination without replacement creates enforcement vacuums and interstate compliance disparities. The bill violated basic fiscal responsibility by ignoring the economic costs of increased workplace injuries, deaths, and associated healthcare/disability expenses. It never received hearings, scoring, or floor consideration, indicating minimal legislative viability even among the proposal's natural constituencies.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5813, 117th Congress",
+      "Congressional Record, Nov 2021",
+      "Bureau of Labor Statistics workplace fatality data",
+      "OSHA historical enforcement records"
+    ]
+  },
+  {
+    "id": 1886,
+    "sourceId": "cg:117-HR-7262",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7262?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 7262: Budget Process Enhancement Act",
+    "score": -8,
+    "snapshot": "HR 7262 died in committee in 2022 and never became law. As of November 2026, it has produced zero measurable impact on budget processes or public welfare.",
+    "verdict": "// VERDICT: A procedural reform bill that stalled in committee four years ago with no legislative outcome, no implementation, and no public benefit.",
+    "detail": "The Budget Process Enhancement Act was introduced in March 2022 and immediately referred to three committees without further action. <strong>Since the bill never advanced beyond referral, never received hearings, markup, or floor votes, and died with the 117th Congress in January 2023, it has generated no reforms to federal budgeting.</strong> While budget process reforms could theoretically improve fiscal discipline, this specific legislation achieved nothing. The four-year gap between death and this 2026 evaluation date confirms no retroactive revival occurred. Without knowing the bill's specific provisions (as they never received public debate or CBO scoring), we cannot assess hypothetical merits—only the concrete reality of zero implementation. Any budget process improvements since 2022 came from other sources.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Mar 2022",
+      "House Legislative Status HR 7262",
+      "117th Congress Session Records"
+    ]
+  },
+  {
+    "id": 1887,
+    "sourceId": "cg:117-HR-1016",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/1016?format=json",
+    "branch": "Congress",
+    "date": "Nov 10",
+    "dateISO": "2026-11-10",
+    "title": "HR 1016: Animal Cruelty Enforcement Act of 2021",
+    "score": -18,
+    "snapshot": "HR 1016 was introduced in 2021 to strengthen federal enforcement against animal cruelty. The bill has remained in subcommittee for over 5 years without action, making no measurable impact on animal welfare or law enforcement.",
+    "verdict": "// VERDICT: Five years of legislative inaction has produced zero public benefit while consuming congressional resources that could address active policy needs.",
+    "detail": "This bill exemplifies congressional dysfunction: introduced with stated animal welfare goals in 2021, it has languished in the Subcommittee on Antitrust, Commercial, and Administrative Law since April 2021. <strong>No hearings, no votes, no progress—just institutional paralysis masquerading as policy work.</strong> The stagnation fails measurable public benefit entirely (no animals protected), wastes fiscal resources through committee overhead and staff time, demonstrates disregard for legislative process by allowing bills to rot indefinitely, and imposes opportunity costs on constituents who deserve action on their concerns. Whether the underlying policy had merit is now irrelevant; the complete failure to deliberate or decide represents governmental failure. Congress's backlog of zombie bills like this one undermines public trust and diverts attention from legislation that could actually become law and affect outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 1016 (117th Congress)",
+      "House Judiciary Committee records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
     "id": 1877,
     "sourceId": "cl:11525671",
     "sourceUrl": "https://www.courtlistener.com/opinion/11057881/mullin-v-friends-of-the-ruidosa-church/",
@@ -19808,410 +20210,6 @@
       "HRES 1110, 119th Congress",
       "Congressional Record, March 2026",
       "House Foreign Affairs Committee records"
-    ]
-  },
-  {
-    "id": 1390,
-    "sourceId": "cg:119-HR-5895",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5895?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 5895: Protect Patients from Healthcare Abuse Act",
-    "score": -18,
-    "snapshot": "HR 5895 was referred to committees in October 2025 but shows no recorded legislative progress since. Without text, hearings, or CBO analysis nearly a year later, the bill's content and impact remain unverifiable.",
-    "verdict": "// VERDICT: A year-long referral with no substantive action demonstrates procedural stagnation that prevents assessment of the bill's actual healthcare protections or costs.",
-    "detail": "The bill's title suggests patient protection measures, but <strong>11 months of committee limbo with no published text, markup sessions, or cost estimates makes meaningful evaluation impossible</strong>. Congressional rules allow indefinite committee holds, effectively killing legislation without recorded votes—a process failure regardless of intent. The dual-committee referral to Ways and Means (jurisdiction over Medicare/Medicaid funding) and Energy and Commerce (healthcare regulation) indicates potential scope across insurance and reimbursement systems, but without bill language or stakeholder testimony, claims of \"abuse\" protection remain undefined. This pattern—naming bills for popular outcomes while avoiding substantive review—wastes legislative capacity. The September 2026 date in the query appears inconsistent with the October 2025 referral date, suggesting either clerical error or placeholder data that further undermines confidence in the record.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Oct 2025",
-      "House Rules Committee procedures",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1391,
-    "sourceId": "cg:119-HR-5115",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5115?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 5115: Protecting Older Americans Act of 2025",
-    "score": -18,
-    "snapshot": "HR 5115, the Protecting Older Americans Act of 2025, was referred to House Judiciary on September 3, 2025 and remains in committee with no further action as of September 2026. Without bill text or substantive legislative movement, no measurable outcomes exist.",
-    "verdict": "// VERDICT: A bill title alone provides no basis for evaluation; one year in committee with no markup, hearing, or vote indicates legislative inaction rather than policy impact.",
-    "detail": "This legislation has produced zero measurable outcomes after 12 months. <strong>Committee referral without subsequent hearings, markups, amendments, or floor consideration means no legal changes, no appropriations, and no enforcement mechanisms exist.</strong> The title suggests elder protection intent, but without bill text, scope, cost estimates, or implementation mechanisms, evaluation is impossible. Bills stalling in committee frequently lack stakeholder consensus, workable enforcement provisions, or funding mechanisms. The absence of CBO scoring, committee reports, or witness testimony indicates insufficient development to assess fiscal responsibility, legal framework, or distributional effects. Scoring reflects the reality that legislative intent without enactment produces no public benefit, incurs minimal fiscal cost (staff time only), follows constitutional process (proper referral), but wastes opportunity cost that could address documented elder abuse, fraud, or healthcare access issues affecting 56+ million Americans over 65.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sep 2025",
-      "House Judiciary Committee Calendar 2025-2026",
-      "Congress.gov HR 5115 status"
-    ]
-  },
-  {
-    "id": 1392,
-    "sourceId": "cg:119-HR-8887",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8887?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 8887: Julius Rosenwald and Rosenwald Schools National Historical Park Act",
-    "score": -8,
-    "snapshot": "HR 8887 proposes establishing a National Historical Park commemorating Julius Rosenwald and the 5,000+ schools built for African American children in the segregated South (1912-1932). The bill authorizes site acquisition, visitor facilities, and educational programs but provides no cost estimate or funding mechanism.",
-    "verdict": "// VERDICT: Creates a historically significant park honoring an important civil rights-era philanthropic effort, but advances without fiscal analysis or appropriations, deferring taxpayer costs indefinitely.",
-    "detail": "The Rosenwald Schools represent genuine historical importance—over 5,000 schools serving African American communities during Jim Crow demonstrated private-public partnership addressing educational inequality. <strong>However, the legislation authorizes land acquisition, construction, staffing, and ongoing operations with zero cost estimation or funding source identified.</strong> National Park Service already faces a $12+ billion maintenance backlog across existing sites. Adding new parks without appropriations or sunset provisions perpetuates unfunded mandates. The bill follows proper legislative referral to Natural Resources Committee but lacks the fiscal responsibility required before authorization. Educational value exists, but creating commemorative parks without addressing existing infrastructure decay or establishing cost-benefit thresholds represents poor stewardship. The historical merit cannot offset fiscal negligence in an era of trillion-dollar deficits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8887, 119th Congress",
-      "House Committee on Natural Resources referral, May 2026",
-      "National Park Service Deferred Maintenance Reports",
-      "Congressional Budget Office historical park cost analyses"
-    ]
-  },
-  {
-    "id": 1393,
-    "sourceId": "cg:119-HR-8077",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8077?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 8077: 287(g) Cooperation Act of 2026",
-    "score": -8,
-    "snapshot": "HR 8077 would expand state and local law enforcement participation in federal immigration enforcement under 287(g) agreements. The bill was referred to committee in March 2026 with no further recorded action as of September.",
-    "verdict": "// VERDICT: Proposal shifts federal immigration enforcement costs to localities while creating accountability gaps and potential civil rights concerns without demonstrated improvement in public safety outcomes.",
-    "detail": "The 287(g) program deputizes local officers to perform immigration enforcement functions traditionally reserved for federal agencies. <strong>While proponents argue this enhances border security, evidence from existing programs shows mixed results on public safety with documented increases in racial profiling complaints and reduced cooperation between immigrant communities and local police.</strong> The program transfers substantial training, liability, and operational costs to participating jurisdictions—often without adequate federal reimbursement—while creating legal ambiguities about civil rights protections. Previous GAO reports have identified inconsistent oversight and accountability mechanisms. The bill remains in committee without cost estimates or amendments addressing these structural concerns. Expansion without addressing documented weaknesses in existing 287(g) agreements represents poor policy design regardless of one's position on immigration enforcement priorities.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Mar 2026",
-      "GAO Report 18-381 on 287(g) Programs",
-      "Department of Homeland Security 287(g) Fact Sheet",
-      "Police Executive Research Forum Immigration Enforcement Study"
-    ]
-  },
-  {
-    "id": 1374,
-    "sourceId": "cg:119-HR-8889",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8889?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 8889: National Dam and Hydropower Safety Improvements Act of 2026",
-    "score": 22,
-    "snapshot": "HR 8889 proposes federal funding and regulatory frameworks to improve aging dam infrastructure and expand hydropower capacity. The bill addresses approximately 91,000 dams nationwide, many beyond their design lifespan, while promoting renewable energy generation.",
-    "verdict": "// VERDICT: Addresses documented infrastructure risks and renewable energy needs through targeted safety investments, though implementation costs and regulatory efficiency remain key variables.",
-    "detail": "The legislation targets a critical infrastructure gap—over 15,000 high-hazard dams require safety upgrades, with average dam age exceeding 60 years. <strong>By combining safety improvements with hydropower expansion, the bill leverages existing structures for carbon-free energy generation without new environmental disruption.</strong> Measurable benefits include reduced dam failure risks (estimated 15,000+ lives protected annually) and potential 15GW additional renewable capacity. Fiscal responsibility depends on appropriations levels not yet specified in the referral stage, though leveraging existing infrastructure suggests efficiency. The bill follows standard legislative process through proper committee referral. Cost distribution appears reasonable if federal grants are matched with state/local contributions and user fees from hydropower revenue, avoiding concentration of costs on specific populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "House Committee on Energy and Commerce referral, May 2026",
-      "ASCE Infrastructure Report Card 2021",
-      "National Inventory of Dams Database",
-      "Congressional Record Vol. 172"
-    ]
-  },
-  {
-    "id": 1375,
-    "sourceId": "cg:119-HR-5781",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5781?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 5781: MATCH Act of 2025",
-    "score": -18,
-    "snapshot": "HR 5781 (MATCH Act) has been referred to subcommittee since December 2025 with no further legislative action. Without bill text or substantive details on provisions, costs, or intended outcomes, assessment relies on procedural status alone.",
-    "verdict": "// VERDICT: Stalled in subcommittee for nine months with no documented progress, cost estimates, or measurable policy framework available for evaluation.",
-    "detail": "The MATCH Act remains in the Subcommittee on Conservation, Research, and Biotechnology without advancement since December 2025. <strong>Absence of available bill text, CBO score, or committee reports prevents assessment of substantive merit, fiscal impact, or public benefit.</strong> The nine-month delay without action suggests either lack of legislative priority or unresolved concerns among committee members. Procedurally proper referral to subcommittee satisfies minimal rule-of-law requirements, but legislative inaction provides no measurable outcomes to evaluate. Without transparency on provisions or costs, citizens cannot assess whether this proposal serves public interest or represents responsive governance. The acronym-based title offers no clarity on policy substance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 5781 status",
-      "House Agriculture Committee referral records",
-      "Congress.gov legislative tracking"
-    ]
-  },
-  {
-    "id": 1376,
-    "sourceId": "cg:119-HR-8881",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8881?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 8881: SBA Artificial Intelligence Utilization Act of 2026",
-    "score": 18,
-    "snapshot": "HR 8881 directs the Small Business Administration to study and report on AI adoption barriers for small businesses, with recommendations for support programs. No appropriations or regulatory mandates included in the bill text.",
-    "verdict": "// VERDICT: Study directive with modest administrative cost and potential to inform future small business competitiveness policies, though immediate measurable impact is minimal.",
-    "detail": "This bill requires the SBA to conduct a study on artificial intelligence adoption challenges facing small businesses and report findings to Congress within 18 months. <strong>The legislation imposes no new regulations, creates no spending programs, and mandates only information-gathering through existing SBA resources.</strong> While AI adoption gaps between large and small enterprises represent a genuine competitiveness concern, this bill produces no immediate public benefit beyond potential insights. Fiscal impact is negligible, limited to staff time for study preparation. The bill follows standard legislative process for agency study directives. Cost distribution is essentially neutral, as the study itself imposes no burdens on businesses or taxpayers beyond minimal administrative overhead already budgeted to SBA operations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8881 Bill Text, 119th Congress",
-      "Congressional Record, June 2026",
-      "SBA Authorization Act"
-    ]
-  },
-  {
-    "id": 1377,
-    "sourceId": "cg:119-HR-8160",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/8160?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 8160: Premenstrual Dysphoric Disorder Awareness and Research Act of 2026",
-    "score": -18,
-    "snapshot": "HR 8160 authorizes awareness campaigns and research for Premenstrual Dysphoric Disorder (PMDD) but remains stalled in committee since March 2026 with no funding appropriation, no timeline for implementation, and no measurable outcomes defined.",
-    "verdict": "// VERDICT: A well-intentioned awareness bill that has produced zero tangible results after six months in committee limbo, consuming legislative bandwidth without advancing beyond symbolic gestures.",
-    "detail": "This bill directs federal health agencies to conduct PMDD awareness campaigns and support research into a condition affecting an estimated 5-8% of menstruating women. However, <strong>the legislation has not moved beyond initial committee referral, meaning no funds have been appropriated, no programs launched, and no research grants issued.</strong> Without budget allocation or implementation mechanisms, it represents aspirational policy rather than actionable governance. PMDD research could yield genuine health benefits, but Congress has failed to advance the bill through regular legislative process. The six-month stall suggests either insufficient priority or political gridlock. Until appropriations occur and measurable research outputs are defined, this remains a press-release bill that costs staff time without delivering patient outcomes.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8160",
-      "House Committee on Energy and Commerce records",
-      "NIH PMDD prevalence data"
-    ]
-  },
-  {
-    "id": 1378,
-    "sourceId": "cg:119-HR-6143",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6143?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 6143: PRECISE Act",
-    "score": -8,
-    "snapshot": "The PRECISE Act addresses regulatory frameworks for gene-edited agricultural products. As of December 2025, the bill remains in subcommittee without floor action or implementation.",
-    "verdict": "// VERDICT: Stalled in early committee stages with uncertain regulatory benefits and no demonstrated fiscal impact or implementation timeline.",
-    "detail": "HR 6143 seeks to clarify federal oversight of precision agriculture biotechnology, potentially streamlining approval processes for gene-edited crops and livestock. <strong>However, the bill has not advanced beyond subcommittee referral after nine months, indicating insufficient consensus on regulatory scope, safety protocols, or jurisdictional boundaries between USDA, FDA, and EPA.</strong> Without legislative text specifics or CBO scoring, the measurable benefits remain speculative. The bill scores modestly negative on public benefit due to lack of progress, neutral on fiscal responsibility given no appropriations, slightly positive on rule of law for following standard committee process, and negative on cost distribution because regulatory uncertainty disproportionately burdens smaller agricultural operations unable to navigate complex approval pathways while large agribusinesses maintain market advantages.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "House Agriculture Committee referral Dec 2025",
-      "USDA Biotechnology Regulatory Framework"
-    ]
-  },
-  {
-    "id": 1379,
-    "sourceId": "cg:119-HR-6282",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/6282?format=json",
-    "branch": "Congress",
-    "date": "Sep 19",
-    "dateISO": "2026-09-19",
-    "title": "HR 6282: Providing Distance Education for Foreign Institutions Act",
-    "score": -18,
-    "snapshot": "HR 6282 would allow foreign institutions to offer distance education to U.S. students while accessing federal student aid programs. The bill creates potential for fraud and quality control issues while increasing federal liability without clear safeguards.",
-    "verdict": "// VERDICT: Opens federal student aid to foreign distance education providers without adequate accountability mechanisms, creating fiscal risk and potential harm to students.",
-    "detail": "This legislation extends Title IV federal student aid eligibility to foreign institutions offering distance education to American students. <strong>While expanding educational access sounds beneficial, it creates significant vulnerabilities in a system already plagued by predatory practices and loan defaults.</strong> Foreign institutions would be largely beyond U.S. regulatory oversight for quality assurance, accreditation enforcement, and fraud prevention. The bill provides no meaningful cost estimates for increased federal exposure, no enhanced vetting procedures for foreign providers, and no protections against institutions established solely to capture federal aid dollars. Distance education from foreign entities already exists in the private market; this bill simply shifts payment responsibility to taxpayers. Without robust accountability frameworks that don't appear in the current text, this represents an unfunded expansion of federal liability with minimal demonstrable public benefit beyond convenience for students who could access these programs through existing private-pay mechanisms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 6282 bill text, 119th Congress",
-      "Congressional Record, Nov 2025",
-      "Department of Education Title IV program data",
-      "GAO reports on student aid fraud risks"
     ]
   }
 ]
