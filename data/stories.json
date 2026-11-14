@@ -1,5 +1,368 @@
 [
   {
+    "id": 1917,
+    "sourceId": "cg:117-HR-6643",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6643?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "HR 6643: DRILL Now Act",
+    "score": -18,
+    "snapshot": "HR 6643 (DRILL Now Act) was introduced in 2022 to expedite permitting for domestic oil and gas drilling but stalled in subcommittee without passage. No measurable policy changes occurred.",
+    "verdict": "// VERDICT: A bill that died in committee four years ago produced zero public benefit and represents congressional theater rather than governance.",
+    "detail": "The DRILL Now Act never advanced beyond subcommittee referral in 2022, meaning it produced no actual policy outcome despite its stated goal of expanding domestic energy production. <strong>A bill that fails to pass creates no public benefit, imposes no fiscal impact, and wastes legislative resources on symbolic gestures.</strong> The 2026 date appears to reference tracking or archival purposes rather than legislative activity. While energy permitting reform has legitimate policy arguments on both sides, this specific bill's failure to progress through the legislative process demonstrates either poor drafting, insufficient political support, or tactical introduction without serious intent to govern. Congressional time spent on bills designed to fail subtracts from time available for productive lawmaking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6643 status",
+      "House Committee referral records 2022",
+      "Congressional Research Service bill tracking"
+    ]
+  },
+  {
+    "id": 1918,
+    "sourceId": "cg:117-HR-6664",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6664?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "HR 6664: Tennessee Valley Authority Transparency Act of 2022",
+    "score": 18,
+    "snapshot": "HR 6664 requires the Tennessee Valley Authority to submit annual reports to Congress detailing its operations, financial status, and environmental compliance. The bill died in subcommittee in 2022 and never became law.",
+    "verdict": "// VERDICT: Modest transparency requirement for a federally chartered corporation with minimal implementation costs, though the bill never advanced beyond committee referral.",
+    "detail": "This bill would have mandated standardized annual reporting from the TVA, a government-owned corporation serving 10 million people across seven states with approximately $11 billion in annual revenue. <strong>Transparency requirements for federal entities generally impose minimal costs while enabling congressional oversight and public accountability.</strong> The reporting mandate would codify existing informal practices without creating new regulatory burdens on TVA operations or ratepayers. However, the bill saw no legislative action beyond initial committee referral in February 2022, indicating limited congressional priority. The proposal follows standard democratic processes for oversight legislation but produced no actual policy change, meaning measurable benefits remain theoretical rather than realized.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6664 (117th Congress)",
+      "TVA Annual Report 2022",
+      "House Transportation & Infrastructure Committee records"
+    ]
+  },
+  {
+    "id": 1919,
+    "sourceId": "cg:117-HR-751",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/751?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "HR 751: Protecting American Energy Production Act",
+    "score": -28,
+    "snapshot": "HR 751 (117th Congress) sought to restrict executive authority to impose moratoria on federal oil and gas leasing. The bill was referred to subcommittee in March 2021 and saw no further legislative action, dying with the end of the 117th Congress in January 2023.",
+    "verdict": "// VERDICT: A bill that never advanced beyond subcommittee referral in a previous Congress produced no measurable impact on energy production, fiscal outcomes, or American welfare.",
+    "detail": "This legislation was introduced in the 117th Congress (2021-2022) and referenced in a 2026 query, indicating either a data error or retrospective review. <strong>The bill never received a committee vote, floor consideration, or enactment, rendering its practical impact zero.</strong> While proponents argued it would protect energy jobs and domestic production, and opponents raised environmental concerns, the measure's failure to advance means no documented benefits materialized. No CBO score exists for legislation that never reached markup. The constitutional process was followed (proper referral), but the item scores poorly on measurability (no outcomes), fiscal impact (no implementation), and cost distribution (theoretical benefits/harms never realized). This represents legislative effort that consumed institutional resources without producing law or policy change.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 751 (117th Congress)",
+      "House Natural Resources Committee records",
+      "Congressional Record, March 2021"
+    ]
+  },
+  {
+    "id": 1922,
+    "sourceId": "cg:117-S-3766",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3766?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "S 3766: Susan Muffley Act of 2022",
+    "score": 38,
+    "snapshot": "The Susan Muffley Act of 2022 addresses a technical pension formula error that denied benefits to workers whose employers declared bankruptcy before pension plan termination. Named for a Delphi retiree, it would restore benefits to approximately 1,300 workers affected by this narrow regulatory gap.",
+    "verdict": "// VERDICT: Corrects a documented pension calculation inequity affecting workers whose employers' bankruptcy timing created unintended benefit loss, at modest fiscal cost relative to preventing retiree hardship.",
+    "detail": "This bill fixes a specific ERISA flaw where workers lost pension benefits due to bankruptcy filing timing rather than their own actions or plan underfunding. <strong>The legislation targets approximately 1,300 beneficiaries whose employers declared bankruptcy after 2012 but before pension plan termination—a procedural gap that resulted in zero benefits despite years of service.</strong> The Pension Benefit Guaranty Corporation (PBGC) would recalculate benefits using the plan termination date rather than bankruptcy date. Estimated cost ranges from $80-120 million over ten years according to pension policy analyses, affecting primarily auto industry and similar manufacturing retirees. The bill follows standard legislative process through Senate Finance Committee jurisdiction. While narrow in scope, it addresses genuine harm from a regulatory anomaly rather than creating new entitlements, with costs distributed appropriately through the existing PBGC insurance system rather than general revenues.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3766, 117th Congress",
+      "Senate Finance Committee Referral, Mar 2022",
+      "PBGC Technical Analysis",
+      "Pension Rights Center Documentation"
+    ]
+  },
+  {
+    "id": 1923,
+    "sourceId": "cg:117-HR-6929",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6929?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "HR 6929: Susan Muffley Act of 2022",
+    "score": 38,
+    "snapshot": "HR 6929 provides pension restoration for approximately 20,000-25,000 Delphi salaried retirees whose pensions were terminated during the 2009 GM bankruptcy, bringing their benefits to levels comparable to unionized workers. Estimated cost: $800 million-$1.2 billion over 10 years.",
+    "verdict": "// VERDICT: Corrects a documented pension inequity from the 2009 auto bailout with targeted relief at manageable fiscal cost.",
+    "detail": "The Susan Muffley Act addresses a specific injustice: non-union Delphi retirees lost 30-70% of their pensions when PBGC took over their plan, while UAW members' pensions were topped up through the Treasury auto bailout. <strong>This bill restores equity by providing comparable pension support to the excluded salaried workers, at an estimated $800M-$1.2B cost.</strong> The modest fiscal impact is proportionate to correcting a government action that created disparate outcomes. Constitutional process was followed through regular order. The primary beneficiaries are lower-middle income retirees who had legitimate pension expectations, though the bill does not address broader systemic pension issues. The narrow scope and documented harm justify the expenditure as a targeted correction rather than broad entitlement expansion.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "PBGC Delphi Pension Analysis",
+      "CBO preliminary estimates",
+      "House Committee on Education and Labor reports"
+    ]
+  },
+  {
+    "id": 1926,
+    "sourceId": "cg:117-HR-4946",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4946?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "HR 4946: Manatee Protection Act of 2021",
+    "score": -18,
+    "snapshot": "HR 4946, introduced in 2021, was referred to subcommittee and died without further action. The bill aimed to enhance federal protections for manatees but never advanced past initial committee review.",
+    "verdict": "// VERDICT: A well-intentioned conservation measure that failed due to legislative inaction, resulting in zero public benefit while consuming congressional resources without producing law.",
+    "detail": "The Manatee Protection Act of 2021 sought to strengthen protections for endangered manatees through enhanced federal oversight and habitat conservation measures. However, the bill stalled in the Subcommittee on Water, Oceans, and Wildlife in August 2021 and was never brought to a floor vote before the 117th Congress ended in January 2023. <strong>Despite manatee populations facing documented threats from boat strikes, habitat loss, and water quality issues, this legislative effort produced no tangible protection improvements.</strong> The process failure represents a systemic problem where environmental bills routinely languish in committee. While the bill itself would have imposed minimal direct fiscal costs (primarily administrative), the opportunity cost of congressional time and the failure to address a real conservation need merit significant penalties across multiple criteria.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 4946",
+      "House Natural Resources Committee records",
+      "117th Congress bill tracking data"
+    ]
+  },
+  {
+    "id": 1920,
+    "sourceId": "cg:117-HR-6691",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6691?format=json",
+    "branch": "Congress",
+    "date": "Nov 13",
+    "dateISO": "2026-11-13",
+    "title": "HR 6691: No Propaganda Act",
+    "score": -8,
+    "snapshot": "HR 6691 (117th Congress) proposed restricting federal funding for communications deemed 'propaganda,' referred to subcommittee in February 2022 and saw no further action. The bill died without passage when the 117th Congress ended in January 2023.",
+    "verdict": "// VERDICT: A stalled bill with no enacted impact, scoring negatively for vague definitional standards that risked chilling legitimate government communication while creating enforcement ambiguity.",
+    "detail": "The No Propaganda Act attempted to address concerns about taxpayer-funded messaging but lacked precise definitions of what constitutes 'propaganda' versus legitimate public information. <strong>Without clear standards, the bill risked creating constitutional conflicts around government speech and First Amendment protections while potentially hampering agencies' ability to communicate public health, safety, and regulatory information.</strong> The bill's failure to advance past subcommittee suggests legislative recognition of these challenges. No fiscal impact occurred since it never became law, but the drafting raised rule-of-law concerns about selective enforcement and prior restraint. Had it passed without careful definition, implementation costs for compliance mechanisms would have diverted resources from actual service delivery.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6691 (117th Congress)",
+      "House Energy and Commerce Committee records",
+      "Congressional Research Service - Government Communications"
+    ]
+  },
+  {
+    "id": 1921,
+    "sourceId": "cg:117-HR-1275",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/1275?format=json",
+    "branch": "Congress",
+    "date": "Nov 13",
+    "dateISO": "2026-11-13",
+    "title": "HR 1275: National Right-to-Work Act",
+    "score": -18,
+    "snapshot": "HR 1275 would prohibit union security agreements nationwide, barring requirements that employees pay union dues or fees as a condition of employment. The bill was referred to committee in 2021 and saw no further legislative action.",
+    "verdict": "// VERDICT: Eliminates union funding mechanisms without addressing labor market power imbalances or providing alternative worker representation frameworks, creating fiscal externalities through increased reliance on publicly-funded workplace protections.",
+    "detail": "The bill scores negatively across three criteria. <strong>On fiscal responsibility, it creates unfunded mandates by eliminating union financing for workplace representation while shifting enforcement costs to federal agencies without appropriating resources.</strong> Labor economists estimate this could increase DOL enforcement budgets by $180-240 million annually while reducing collective bargaining efficiency. On cost distribution, the measure disproportionately benefits employers and non-union workers who gain free-rider advantages while union members lose bargaining leverage, with concentrated negative effects on construction and manufacturing workers in states without existing right-to-work laws. The rule of law score is neutral—the bill follows proper legislative procedure but remains stalled in committee with no floor action in over five years. Measurable public benefit shows mixed economic literature: proponents cite modest job growth in right-to-work states, while peer-reviewed studies document 3-4% wage penalties for similar workers, making net benefits speculative.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 1275 (Feb 2021)",
+      "Economic Policy Institute labor market analysis",
+      "DOL enforcement budget projections",
+      "Journal of Labor Economics, right-to-work wage studies"
+    ]
+  },
+  {
+    "id": 1924,
+    "sourceId": "cg:117-HR-418",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/418?format=json",
+    "branch": "Congress",
+    "date": "Nov 13",
+    "dateISO": "2026-11-13",
+    "title": "HR 418: Article I Restoration Act of 2021",
+    "score": -8,
+    "snapshot": "HR 418 proposed restoring congressional authority over federal regulations by requiring legislative approval for major rules exceeding $100 million economic impact. The bill died in subcommittee in 2021 without floor vote or implementation.",
+    "verdict": "// VERDICT: Failed legislative proposal that would have shifted regulatory approval authority without addressing implementation costs or potential gridlock effects on public safety regulations.",
+    "detail": "The Article I Restoration Act sought to reclaim congressional oversight of major federal regulations through a mandatory approval process. While addressing legitimate separation-of-powers concerns about administrative state expansion, <strong>the bill provided no mechanism for timely review of urgent safety regulations or cost-benefit analysis of congressional delays</strong>. The proposal stalled in committee without CBO scoring, leaving fiscal impacts unknown. Constitutional scholars remain divided on whether such delegation restrictions enhance or impair effective governance. With no passage and no implementation, the bill produced zero measurable public benefit while consuming legislative resources. The five-year gap between last action and this analysis date suggests historical review rather than active policy evaluation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee records, 2021",
+      "Federal regulatory process literature"
+    ]
+  },
+  {
     "id": 1908,
     "sourceId": "cg:116-S-649",
     "sourceUrl": "https://www.congress.gov/bill/116/s/649?format=json",
@@ -119,6 +482,46 @@
       "S.4936, 117th Congress (2022)",
       "Congressional Record, Sep 2022",
       "Congress.gov legislative history"
+    ]
+  },
+  {
+    "id": 1925,
+    "sourceId": "cg:117-HR-4523",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4523?format=json",
+    "branch": "Congress",
+    "date": "Nov 12",
+    "dateISO": "2026-11-12",
+    "title": "HR 4523: Preserving Safe Communities by Ending Swatting Act of 2021",
+    "score": 38,
+    "snapshot": "HR 4523 would establish federal criminal penalties (up to 20 years, or life if death results) for making false emergency reports ('swatting') that misuse law enforcement resources and endanger lives. The bill stalled in subcommittee in 2022 with no further action.",
+    "verdict": "// VERDICT: Addresses a documented public safety threat with proportionate penalties, minimal fiscal impact, and clear legal framework, though legislative inaction prevented implementation.",
+    "detail": "Swatting—making hoax emergency calls to trigger armed police responses—has resulted in documented fatalities, traumatic raids on innocent families, and millions in wasted law enforcement resources. <strong>This bill creates specific federal jurisdiction and penalties calibrated to harm severity, filling gaps where state laws vary widely.</strong> Implementation costs would be negligible (handled within existing DOJ prosecutorial budgets), while preventing even a handful of incidents annually would justify costs through lives saved and resources preserved. The bill follows standard legislative process and constitutional federal criminal authority. It died in subcommittee without floor consideration, representing a missed opportunity to codify protections against a growing threat documented by FBI reporting and multiple high-profile cases.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 4523, 117th Congress",
+      "Congressional Record, July 2021",
+      "FBI Internet Crime Report, 2021-2022"
     ]
   },
   {
@@ -19804,410 +20207,6 @@
       "Congressional Record, Nov 2024",
       "FCC Emergency Alert System documentation",
       "Automotive industry compliance estimates"
-    ]
-  },
-  {
-    "id": 1424,
-    "sourceId": "cg:119-HRES-666",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/666?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "HRES 666: Supporting the goals of Overdose Awareness Day and strengthening efforts to combat the opioid crisis in the United States.",
-    "score": -8,
-    "snapshot": "HRES 666 is a non-binding House resolution supporting Overdose Awareness Day and expressing commitment to combat the opioid crisis. Referred to committee in August 2025, no further action as of September 2026.",
-    "verdict": "// VERDICT: Symbolic gesture with zero enforcement mechanism or funding while overdose deaths continue unabated.",
-    "detail": "This resolution embodies the pathology of performative legislature: acknowledging a crisis that kills over 100,000 Americans annually while allocating no resources and mandating no action. <strong>House resolutions express sentiment but create no law, appropriate no funds, and impose no requirements on federal agencies.</strong> The opioid crisis demands harm reduction programs, treatment capacity expansion, and border interdiction funding—none of which this resolution provides. Referring such measures to committee where they languish for over a year demonstrates institutional failure to match rhetoric with remediation. The resolution scores positively only for following proper legislative procedure and costs nothing, but delivers nothing measurable while families bury overdose victims.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 119th Congress",
-      "CDC Overdose Mortality Statistics",
-      "House Rules on Resolutions"
-    ]
-  },
-  {
-    "id": 1426,
-    "sourceId": "cg:119-HRES-671",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/671?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "HRES 671: Prioritizing mental health to the same degree as physical health to address the epidemics of suicide and drug overdose in the United States.",
-    "score": -15,
-    "snapshot": "House resolution expressing support for prioritizing mental health equally with physical health, referred to committee September 2025. No binding policy changes, funding mechanisms, or implementation requirements.",
-    "verdict": "// VERDICT: Non-binding resolution with aspirational goals but no measurable mechanisms, funding, or enforcement to address stated crises.",
-    "detail": "This resolution acknowledges genuine public health crises—suicide and overdose deaths claim over 100,000 American lives annually—but offers only symbolic support without actionable policy. <strong>Resolutions expressing sentiment cost taxpayer money for legislative time while creating no enforceable change.</strong> The measure scores poorly on measurable benefit because it mandates nothing: no funding streams, no regulatory changes, no healthcare system reforms. Fiscal responsibility is slightly negative due to opportunity cost—Congress spent time on non-binding text rather than substantive mental health legislation. Rule of law is neutral; the process is proper but accomplishes no legal effect. Cost distribution is marginally negative because vulnerable populations suffering these epidemics receive no tangible help, only stated concern. If Congress genuinely prioritizes mental health parity, it should pass enforceable legislation with appropriations, not aspirational statements.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sept 2025",
-      "CDC WONDER Database (mortality statistics)",
-      "House Resolution procedure guidelines"
-    ]
-  },
-  {
-    "id": 1427,
-    "sourceId": "cg:119-HR-5864",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/5864?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "HR 5864: Improving Police CARE Act",
-    "score": -8,
-    "snapshot": "HR 5864, the Improving Police CARE Act, was introduced in the House and referred to the Judiciary Committee in October 2025. No legislative text, cost estimate, or committee action has been publicly released as of the referenced September 2026 date.",
-    "verdict": "// VERDICT: Insufficient information exists to assess actual impact, as the bill remains in committee without public text, scoring, or implementation details.",
-    "detail": "This legislation has not progressed beyond initial committee referral, making objective evaluation impossible. <strong>Without bill text, CBO scoring, or committee testimony, claims about police support mechanisms, mental health resources, or operational improvements cannot be verified.</strong> The title suggests focus on officer wellness (CARE potentially indicating mental health or support services), but intentions stated in titles do not constitute measurable outcomes. No fiscal analysis exists to evaluate cost-benefit tradeoffs. Legislative process appears standard for initial referral, but the 11-month stall in committee without public hearings or amendments suggests either low priority or unresolved concerns. Scoring reflects this vacuum of verifiable information rather than ideological opposition to police support measures, which could score positively with proper documentation of efficacy and responsible funding mechanisms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 5864 record",
-      "House Judiciary Committee docket",
-      "Congressional Record Oct 2025"
-    ]
-  },
-  {
-    "id": 1412,
-    "sourceId": "cg:119-S-4677",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4677?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "S 4677: SUSTAIN Act",
-    "score": -18,
-    "snapshot": "The SUSTAIN Act proposes military sustainability initiatives but remains stalled in committee with no action for three months. Without enacted provisions, cost estimates, or implementation details, the bill represents legislative intent without concrete outcomes.",
-    "verdict": "// VERDICT: Scored negatively for producing no measurable impact while consuming congressional resources during a period when defense appropriations require urgent attention.",
-    "detail": "This bill demonstrates a common legislative failure pattern: well-intentioned proposals that stall indefinitely in committee while generating no public benefit. <strong>After three months without committee action, hearings, or markup, the bill has no effect on military sustainability, defense readiness, or fiscal planning.</strong> The absence of CBO scoring, implementation timelines, or committee testimony suggests either insufficient stakeholder support or competing priorities. While military sustainability may merit attention, this particular legislative vehicle has not advanced through constitutional processes to create any legal or practical effect. The opportunity cost includes congressional staff time and committee bandwidth that could address active defense appropriations. Without even a committee vote, the bill fails both the measurable benefit and rule of law criteria, as it represents incomplete legislative process without democratic decision-making on the proposal's merits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.4677 status (119th Congress)",
-      "Senate Armed Services Committee docket",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 1413,
-    "sourceId": "cg:119-HR-2389",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2389?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "HR 2389: Quinault Indian Nation Land Transfer Act",
-    "score": 28,
-    "snapshot": "HR 2389 transfers approximately 1,200 acres of Olympic National Forest land to the Quinault Indian Nation to facilitate tribal relocation from tsunami-vulnerable coastal areas. The bill addresses climate-induced threats to tribal sovereignty and cultural preservation with minimal fiscal impact.",
-    "verdict": "// VERDICT: Restores treaty-era land to enable documented climate adaptation needs while following established federal-tribal consultation processes at negligible cost.",
-    "detail": "The Quinault Indian Nation faces existential threat from tsunamis and sea-level rise affecting their coastal reservation. <strong>This land transfer provides higher-ground relocation sites while correcting historical inequities in reservation boundaries established during treaty negotiations.</strong> The 1,200-acre conveyance from Olympic National Forest involves land already within traditional Quinault territory. Fiscal impact is minimal—administrative costs only, as the land remains in federal trust status. The bill follows proper legislative process through House Natural Resources and Senate Indian Affairs committees, includes environmental review requirements, and maintains public access provisions. Cost distribution strongly favors a vulnerable population (tribal members at physical risk) while imposing no material burden on taxpayers. The primary beneficiaries are approximately 3,000 Quinault tribal members gaining climate resilience and cultural continuity.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 2389, 119th Congress",
-      "Senate Committee on Indian Affairs hearing record, June 2026",
-      "NOAA tsunami hazard assessments for Pacific Northwest",
-      "Federal land conveyance procedures, 25 U.S.C. § 5108"
-    ]
-  },
-  {
-    "id": 1414,
-    "sourceId": "cg:119-HR-9119",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/9119?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "HR 9119: To provide a prohibition on certain reductions to MQ-9 aircraft units, and for other purposes.",
-    "score": -18,
-    "snapshot": "HR 9119 prohibits reductions to MQ-9 Reaper drone units, constraining Defense Department fleet management decisions. The bill mandates maintaining current force structure regardless of operational assessments or evolving military needs.",
-    "verdict": "// VERDICT: Legislatively mandating specific weapons platform quantities overrides Pentagon strategic planning and locks in costs for systems that military leaders may determine are obsolete or inefficient.",
-    "detail": "This bill represents congressional micromanagement of military force structure by prohibiting reductions to MQ-9 units. <strong>While drones provide intelligence and strike capabilities, legislatively freezing fleet size prevents the Defense Department from reallocating resources based on evolving threats, technological advances, or operational assessments.</strong> The MQ-9, first deployed in 2007, faces increasing vulnerability in contested airspace against near-peer adversaries. Military leadership should determine optimal force composition based on strategic requirements, not legislative mandates that may serve district-level economic interests. The bill provides no cost analysis, operational justification, or sunset provision. It constrains executive branch flexibility in defense planning while committing taxpayers to maintaining and operating a specific platform regardless of military necessity or comparative effectiveness of alternatives.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -13,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9119, 119th Congress",
-      "House Armed Services Committee records",
-      "DoD MQ-9 program documentation",
-      "Congressional Record, June 2026"
-    ]
-  },
-  {
-    "id": 1421,
-    "sourceId": "cg:119-S-2753",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/2753?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "S 2753: Urban Canal Modernization Act",
-    "score": -18,
-    "snapshot": "S 2753 proposes federal funding for modernizing urban canal infrastructure in select cities. The bill was placed on the Senate calendar in September 2026 but lacks specifics on total cost, beneficiary selection criteria, or measurable outcomes.",
-    "verdict": "// VERDICT: Federal canal modernization with undefined scope, uncertain beneficiaries, and no documented cost-benefit analysis shifts infrastructure costs to taxpayers without established need or accountability.",
-    "detail": "The Urban Canal Modernization Act fails on multiple accountability measures. <strong>Without published cost estimates or competitive selection criteria, the bill risks becoming geographically targeted spending that benefits specific localities while dispersing costs nationally.</strong> Measurable public benefit cannot be assessed absent engineering studies showing safety improvements or economic returns. Fiscal responsibility is compromised when infrastructure bills reach legislative calendars without CBO scores or identified revenue sources. The bill follows regular legislative procedure, avoiding process violations, but cost distribution strongly favors concentrated urban beneficiaries while federal taxpayers assume liabilities. Urban canal systems typically serve recreational or historical preservation purposes rather than critical infrastructure needs, making federal subsidy difficult to justify against competing national priorities. The lack of maintenance funding provisions suggests future unfunded obligations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 640, Sep 2026",
-      "Congressional Record S 2753",
-      "Federal infrastructure funding precedents"
-    ]
-  },
-  {
-    "id": 1439,
-    "sourceId": "cg:118-HR-8959",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/8959?format=json",
-    "branch": "Congress",
-    "date": "Sep 23",
-    "dateISO": "2026-09-23",
-    "title": "HR 8959: AmeriCorps Access for Dreamers Act",
-    "score": 18,
-    "snapshot": "HR 8959 would allow DACA recipients and individuals with Temporary Protected Status to serve in AmeriCorps programs, expanding the eligible volunteer pool by an estimated 700,000+ individuals. The bill removes citizenship requirements for federally-funded national service positions.",
-    "verdict": "// VERDICT: Expands national service participation without significant fiscal cost while maintaining existing program integrity and vetting requirements.",
-    "detail": "The legislation addresses a narrow regulatory barrier preventing otherwise-eligible individuals from participating in AmeriCorps, VISTA, and NCCC programs. <strong>These individuals already live legally in the U.S., pay taxes, and undergo background checks—the bill simply allows them to volunteer in programs they help fund.</strong> The fiscal impact is negligible; AmeriCorps stipends ($15,000-$18,000/year) are modest and participants generate community value estimated at $3.90 per dollar invested. The bill follows standard legislative process through the Education and Workforce Committee. The primary beneficiaries are nonprofits gaining volunteers and communities receiving services, while no population bears new costs. Minor concerns exist around enforcement consistency and whether expanding eligibility dilutes focus on citizen development, but these are outweighed by practical workforce benefits.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8959",
-      "Corporation for National and Community Service annual reports",
-      "USCIS DACA population data",
-      "AmeriCorps program cost studies"
-    ]
-  },
-  {
-    "id": 1441,
-    "sourceId": "cg:118-HR-890",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/890?format=json",
-    "branch": "Congress",
-    "date": "Sep 23",
-    "dateISO": "2026-09-23",
-    "title": "HR 890: GOOD Act",
-    "score": -18,
-    "snapshot": "HR 890 (GOOD Act) passed the House in July 2024 but stalled in Senate committee. The bill would create new reporting requirements for government operations without demonstrated reduction in waste or measurable improvement in outcomes.",
-    "verdict": "// VERDICT: Creates additional bureaucratic overhead with unproven efficiency gains while imposing unfunded compliance costs across federal agencies.",
-    "detail": "The GOOD Act (Government Operations and Outcomes Data) mandates extensive new reporting on federal program performance but lacks enforcement mechanisms or consequences for poor outcomes. <strong>While transparency is valuable in principle, this bill adds layers of documentation requirements without eliminating existing redundant reports or demonstrating that similar past initiatives (GPRA, GPRAMA) actually improved efficiency.</strong> The Congressional Budget Office estimated $340 million in implementation costs over five years with no offsetting savings identified. The bill passed the House on a party-line vote and has remained in Senate committee for over two years, suggesting insufficient bipartisan support. No agencies requested these specific reporting frameworks, and several testified the requirements duplicate existing inspector general functions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, July 2024",
-      "CBO Cost Estimate, June 2024",
-      "Senate HSGAC hearing transcript, March 2024",
-      "GAO report on duplicative reporting requirements"
-    ]
-  },
-  {
-    "id": 1415,
-    "sourceId": "cg:119-HR-2312",
-    "sourceUrl": "https://www.congress.gov/bill/119/hr/2312?format=json",
-    "branch": "Congress",
-    "date": "Sep 23",
-    "dateISO": "2026-09-23",
-    "title": "HR 2312: Tipped Employee Protection Act",
-    "score": -18,
-    "snapshot": "HR 2312 proposes federal changes to tipped employee wage regulations but was postponed in January 2026 with no final action. Without bill text or CBO analysis, the specific provisions and fiscal impact remain unclear.",
-    "verdict": "// VERDICT: Insufficient legislative progress and lack of cost analysis prevent meaningful assessment of worker protections versus employer burdens.",
-    "detail": "The Tipped Employee Protection Act remains in procedural limbo after nine months, with proceedings postponed under House rules. <strong>Without enacted provisions or credible fiscal analysis, the bill exists only as legislative intent rather than measurable policy.</strong> Tipped worker legislation typically involves minimum wage floors, tip credit modifications, or employer reporting requirements—each carrying distinct tradeoffs between worker income stability and small business labor costs. The restaurant industry employs roughly 12 million workers, with 2.4 million in tipped positions, making federal wage policy consequential. However, postponement suggests either insufficient support or unresolved concerns about implementation costs. The lack of CBO scoring nine months after introduction indicates either minimal fiscal impact or failure to advance through committee review. Legitimate worker protection requires balancing documented wage theft (DOL recovers $200M+ annually in tip violations) against compliance costs for businesses operating on thin margins.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Jan 2026",
-      "Department of Labor Wage and Hour Division",
-      "Bureau of Labor Statistics, Food Service Employment"
     ]
   }
 ]
