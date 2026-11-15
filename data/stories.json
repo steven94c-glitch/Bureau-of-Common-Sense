@@ -1,5 +1,125 @@
 [
   {
+    "id": 1928,
+    "sourceId": "cg:117-S-9",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/9?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "S 9: Trafficking Survivors Relief Act of 2022",
+    "score": -42,
+    "snapshot": "S.9 has been stalled in the Senate Judiciary Committee since November 2022, over four years without floor action, committee markup, or passage. No trafficking survivors have received relief under this bill.",
+    "verdict": "// VERDICT: A well-intentioned proposal that has produced zero tangible outcomes for trafficking survivors after four years of legislative inaction.",
+    "detail": "The Trafficking Survivors Relief Act aims to provide legal relief mechanisms for victims of human trafficking, typically through vacatur provisions and record sealing. <strong>However, being referred to committee in 2022 and remaining there without movement through 2026 represents a complete failure of legislative process.</strong> No survivors have benefited, no funds have been allocated, and no relief mechanisms have been established. The bill scores catastrophically across all criteria: zero measurable public benefit (no implementation), fiscal irresponsibility (committee resources expended with no output), violation of legislative norms (four-year stagnation indicates broken process), and regressive cost distribution (vulnerable trafficking survivors continue bearing costs of criminal records while Congress fails to act). This represents institutional paralysis on a matter affecting some of society's most vulnerable individuals.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Nov 2022",
+      "Senate Judiciary Committee status",
+      "Congress.gov bill tracking"
+    ]
+  },
+  {
+    "id": 1929,
+    "sourceId": "cg:117-HR-6845",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6845?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "HR 6845: Commercial Remote Sensing Amendment Act of 2022",
+    "score": -8,
+    "snapshot": "HR 6845 passed the House in July 2022 but stalled in Senate committee, never becoming law. The bill proposed streamlining commercial satellite imaging licensing but died without enactment.",
+    "verdict": "// VERDICT: A regulatory modernization effort that failed to complete the legislative process, producing no measurable benefit while consuming congressional resources.",
+    "detail": "The Commercial Remote Sensing Amendment Act aimed to update decades-old satellite imaging regulations to accommodate commercial space industry growth. While proponents argued it would reduce bureaucratic barriers for companies like Planet Labs and Maxar, the bill never advanced beyond Senate referral. <strong>Without enactment, this legislation delivered zero public benefit despite the time invested in House passage and committee work.</strong> The complete lack of follow-through represents a failure of legislative prioritization. No fiscal impact occurred since implementation never happened, but the opportunity cost of congressional attention on a bill that went nowhere warrants criticism. The proper committee referral process was followed, but abandoning legislation mid-stream without formal resolution wastes institutional resources.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 6845 status",
+      "House Committee on Science, Space, and Technology",
+      "Senate Commerce Committee records"
+    ]
+  },
+  {
+    "id": 1935,
+    "sourceId": "cg:117-HR-7947",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7947?format=json",
+    "branch": "Congress",
+    "date": "Nov 14",
+    "dateISO": "2026-11-14",
+    "title": "HR 7947: Weatherization Enhancement and Readiness Act of 2022",
+    "score": -35,
+    "snapshot": "HR 7947 (117th Congress) was referred to subcommittee in June 2022 and died without passage. No weatherization enhancements were enacted, no funding authorized, and no public benefits materialized.",
+    "verdict": "// VERDICT: A bill that never progressed beyond subcommittee referral delivered zero public benefit while consuming legislative resources during a period of rising energy costs.",
+    "detail": "This legislation failed at the most preliminary stage of the legislative process—subcommittee referral—and never received a hearing, markup, or floor vote before the 117th Congress ended in January 2023. <strong>Four years after its introduction, it remains a placeholder with no impact on weatherization programs, energy efficiency, or household costs.</strong> The absence of any committee action suggests either fatal design flaws, lack of stakeholder support, or displacement by other priorities. Meanwhile, Americans faced record heating costs in winter 2022-23 without the assistance this bill purportedly intended. The legislative calendar waste is compounded by the November 2026 date reference, which appears erroneous given the bill's 2022 timeline, suggesting confusion about its status or relevance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Energy Subcommittee Calendar 2022",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
     "id": 1917,
     "sourceId": "cg:117-HR-6643",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/6643?format=json",
@@ -239,6 +359,86 @@
       "Congressional Record, HR 4946",
       "House Natural Resources Committee records",
       "117th Congress bill tracking data"
+    ]
+  },
+  {
+    "id": 1930,
+    "sourceId": "cg:117-HR-6229",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6229?format=json",
+    "branch": "Congress",
+    "date": "Nov 13",
+    "dateISO": "2026-11-13",
+    "title": "HR 6229: Land and Water Conservation Fund Water Amendments Act of 2021",
+    "score": -35,
+    "snapshot": "HR 6229 (2021) proposed amending the Land and Water Conservation Fund Act to authorize additional water infrastructure projects. Bill died in subcommittee after December 2021 referral, never advancing to floor vote or enactment.",
+    "verdict": "// VERDICT: This bill produced zero measurable impact because it never passed committee, representing wasted legislative time on a proposal that failed to advance through established democratic processes.",
+    "detail": "HR 6229 exemplifies legislative inefficiency—introduced in 2021, referred to subcommittee, and abandoned without floor consideration or public hearing. <strong>No American benefited from this bill because it never became law, yet taxpayer resources funded its drafting, committee staff time, and administrative processing.</strong> The bill's title suggests water conservation intent, but without committee markup, CBO scoring, or stakeholder testimony, its actual fiscal impact and policy merits remain unexamined. Bills that die in committee without substantive review waste institutional resources and contribute to congressional gridlock. The 2026 date reference appears erroneous given the bill's 2021 timeline in the 117th Congress, further highlighting data quality issues in tracking legislative outcomes.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Natural Resources Committee proceedings",
+      "Congress.gov bill tracking system"
+    ]
+  },
+  {
+    "id": 1936,
+    "sourceId": "cg:117-S-3371",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3371?format=json",
+    "branch": "Congress",
+    "date": "Nov 13",
+    "dateISO": "2026-11-13",
+    "title": "S 3371: Land and Water Conservation Fund Amendments Act of 2021",
+    "score": -18,
+    "snapshot": "S 3371 proposes amendments to the Land and Water Conservation Fund but stalled in committee in 2021 and remains inactive as of November 2026. No measurable progress or implementation has occurred in five years.",
+    "verdict": "// VERDICT: A five-year-old proposal with zero legislative progress represents institutional dysfunction and wasted committee resources regardless of underlying merit.",
+    "detail": "The Land and Water Conservation Fund typically enjoys bipartisan support for conservation purposes, but this bill exemplifies congressional paralysis. <strong>After being referred to committee in December 2021, the bill has seen no hearings, markups, or floor consideration through November 2026.</strong> While the underlying LWCF program continues operating under existing law, this specific amendment effort consumed legislative drafting resources and committee bandwidth without producing any outcome. The constitutional process was followed for introduction, but the complete absence of subsequent action for five years indicates either poor legislative prioritization or an inability to advance even consensus-oriented conservation measures. No fiscal impact can be assessed without bill text advancement, no public benefit has materialized, and the stagnation imposes opportunity costs on more actionable legislation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "Senate Committee on Energy and Natural Resources records",
+      "Congress.gov bill status"
     ]
   },
   {
@@ -482,6 +682,209 @@
       "S.4936, 117th Congress (2022)",
       "Congressional Record, Sep 2022",
       "Congress.gov legislative history"
+    ]
+  },
+  {
+    "id": 1927,
+    "sourceId": "cg:117-S-1769",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1769?format=json",
+    "branch": "Congress",
+    "date": "Nov 12",
+    "dateISO": "2026-11-12",
+    "title": "S 1769: Rim of the Valley Corridor Preservation Act",
+    "score": -8,
+    "snapshot": "S.1769 would expand Santa Monica Mountains National Recreation Area by ~191,000 acres in Los Angeles and Ventura counties. The bill stalled in the 117th Congress (2021-2022) and has seen no action since October 2022.",
+    "verdict": "// VERDICT: Legislation proposes significant federal land expansion with unclear funding mechanisms and minimal documented progress toward measurable conservation outcomes beyond boundary designation.",
+    "detail": "The Rim of the Valley Corridor Preservation Act aims to protect urban-adjacent wilderness through federal designation, potentially benefiting wildlife corridors and public access. However, <strong>the bill lacks concrete implementation funding or timeline, creating unfunded federal obligations for land acquisition and management in one of America's most expensive real estate markets.</strong> Environmental benefits remain theoretical until acquisition and active management occur. The proposal followed standard legislative process through committee but died without floor action, suggesting insufficient consensus on cost-benefit tradeoffs. While expanding protected lands has merit, the absence of fiscal planning for a nearly 200,000-acre addition in metropolitan Los Angeles raises concerns about perpetual underfunding or displacement of other conservation priorities.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1769, 117th Congress",
+      "Senate Legislative Calendar No. 532, Oct 2022",
+      "National Park Service Land Acquisition Reports",
+      "Congressional Budget Office (unfunded mandates)"
+    ]
+  },
+  {
+    "id": 1931,
+    "sourceId": "cg:117-S-3219",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3219?format=json",
+    "branch": "Congress",
+    "date": "Nov 12",
+    "dateISO": "2026-11-12",
+    "title": "S 3219: BE HEARD in the Workplace Act",
+    "score": -8,
+    "snapshot": "S. 3219 (117th Congress, 2021) proposed expanding workplace harassment protections and limiting forced arbitration for discrimination claims. Bill died in committee without passage, never becoming law.",
+    "verdict": "// VERDICT: Legislative proposal with no enacted impact; cannot assess real-world outcomes from a bill that never passed.",
+    "detail": "This Senate bill from 2021 sought to broaden workplace harassment protections and restrict mandatory arbitration clauses in employment disputes. <strong>However, the bill was referred to committee in November 2021 and never advanced to a floor vote, dying at the end of the 117th Congress.</strong> The 2026 date appears to be a data error, as this Congress ended January 2023. Without enactment, there are no measurable public benefits, fiscal impacts, or implementation to evaluate. The scoring reflects the absence of any real-world effect rather than the merits of the proposed policy. Had it passed, considerations would have included enforcement costs, litigation impacts, and effects on workplace dispute resolution, but speculation on hypothetical legislation contradicts the measurable-outcomes standard.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.3219 - 117th Congress",
+      "Congressional Record Nov 2021",
+      "Senate Legislative Calendar 117th Congress"
+    ]
+  },
+  {
+    "id": 1932,
+    "sourceId": "cg:117-HR-1776",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/1776?format=json",
+    "branch": "Congress",
+    "date": "Nov 12",
+    "dateISO": "2026-11-12",
+    "title": "HR 1776: Regulations from the Executive in Need of Scrutiny Act of 2021",
+    "score": -18,
+    "snapshot": "HR 1776 (REINS Act) would require congressional approval for any major federal regulation (economic impact >$100M) before it takes effect. Introduced in 2021, it remains in subcommittee with no further action as of 2026.",
+    "verdict": "// VERDICT: Would create gridlock in regulatory oversight while shifting accountability without improving outcomes, imposing massive costs on time-sensitive health and safety protections.",
+    "detail": "The REINS Act fundamentally restructures administrative law by requiring joint resolutions for major rules, but <strong>offers no evidence that current Administrative Procedure Act safeguards—judicial review, notice-and-comment periods, cost-benefit analysis—are inadequate</strong>. Historical analysis shows Congress lacks technical expertise and bandwidth to review 50-100 major rules annually (FDA drug approvals, EPA air standards, financial stability rules). The five-year legislative stalemate on this bill itself demonstrates the problem: emergency regulations for pandemics, financial crises, or food safety would face potentially fatal delays. While executive overreach is a legitimate concern, this approach replaces one accountability problem with paralysis. No fiscal analysis addresses the economic cost of delayed worker safety rules, environmental protections, or market regulations. The bill scored well with regulatory skeptics but failed to advance because even supporters recognized the operational impossibility.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "Administrative Conference of the United States analysis",
+      "Congressional Research Service: REINS Act reports",
+      "Federal Register regulatory data"
+    ]
+  },
+  {
+    "id": 1933,
+    "sourceId": "cg:117-S-667",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/667?format=json",
+    "branch": "Congress",
+    "date": "Nov 12",
+    "dateISO": "2026-11-12",
+    "title": "S 667: Fuel Choice and Deregulation Act of 2021",
+    "score": -18,
+    "snapshot": "S.667 would remove federal renewable fuel standards (RFS) mandating biofuel blending in gasoline. The bill stalled in committee in 2021 and saw no action since, remaining dormant through 2026.",
+    "verdict": "// VERDICT: Eliminating renewable fuel mandates would reduce compliance costs but undermine established climate policy and biofuel industry investments without replacement framework.",
+    "detail": "The Fuel Choice and Deregulation Act would dismantle the RFS program requiring refiners to blend renewable fuels like ethanol into gasoline. <strong>While this removes regulatory burden on refiners and potentially reduces fuel prices marginally, it abandons a mechanism Congress established to reduce petroleum dependence and greenhouse gas emissions without offering alternative climate strategies.</strong> The bill never advanced beyond initial referral, suggesting insufficient support for wholesale elimination of biofuel policy. Repealing RFS affects farmers, biofuel producers, and rural economies dependent on ethanol markets while providing uncertain consumer savings. The approach lacks transition planning or cost-benefit analysis addressing climate externalities, stranded investments in biofuel infrastructure, and rural economic impacts. As a stalled 2021 bill with no subsequent movement, it represents abandoned legislative effort rather than active policy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.667, 117th Congress",
+      "Congressional Record, March 2021",
+      "EPA Renewable Fuel Standard Program",
+      "USDA Biofuel Market Reports"
+    ]
+  },
+  {
+    "id": 1934,
+    "sourceId": "cg:117-HR-5994",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5994?format=json",
+    "branch": "Congress",
+    "date": "Nov 12",
+    "dateISO": "2026-11-12",
+    "title": "HR 5994: BE HEARD in the Workplace Act",
+    "score": -18,
+    "snapshot": "HR 5994 (BE HEARD Act) would have restricted mandatory arbitration clauses in employment disputes and limited non-disclosure agreements in harassment cases. The bill stalled in subcommittee in 2022 and never reached a floor vote.",
+    "verdict": "// VERDICT: A procedurally dormant bill that failed to advance beyond subcommittee, generating no measurable public benefit while consuming legislative resources without resolution.",
+    "detail": "This legislation aimed to address workplace arbitration and NDAs in harassment cases, issues with documented impacts on worker recourse. However, <strong>the bill died in subcommittee four years ago and has produced zero enacted policy changes</strong>. Under measurable public benefit, it scores negatively because no actual protections materialized despite the stated problem. Fiscally, it wasted committee time and staffing resources with no output. On rule of law, while proper committee referral occurred, the failure to advance or formally withdraw leaves legislative ambiguity. Cost distribution is neutral-to-negative as affected workers received no relief while taxpayers funded the unsuccessful legislative effort. The 2026 date in the prompt appears erroneous given the 2022 action date.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 5994 status",
+      "House Judiciary Committee records 2022",
+      "Congressional Research Service legislative tracking"
     ]
   },
   {
@@ -19799,414 +20202,6 @@
       "CDC Viral Hepatitis Surveillance Report",
       "Clinical evidence on DAA cure rates",
       "Healthcare cost-effectiveness analyses HCV treatment"
-    ]
-  },
-  {
-    "id": 1428,
-    "sourceId": "cg:119-HRES-854",
-    "sourceUrl": "https://www.congress.gov/bill/119/hres/854?format=json",
-    "branch": "Congress",
-    "date": "Sep 25",
-    "dateISO": "2026-09-25",
-    "title": "HRES 854: Commemorating the seventh anniversary of the murder of Jamal Khashoggi and calling for accountability.",
-    "score": -8,
-    "snapshot": "A resolution commemorating journalist Jamal Khashoggi's 2018 murder and calling for accountability from Saudi Arabia. No binding legal effect or appropriations; purely symbolic expression of congressional sentiment.",
-    "verdict": "// VERDICT: Symbolic gesture with no measurable policy impact, minimal fiscal cost, but raises questions about productive use of legislative time during chamber procedures.",
-    "detail": "This commemorative resolution expresses Congress's position on a foreign policy matter without creating enforceable law or allocating resources. While honoring a journalist's murder and advocating for human rights accountability aligns with democratic values, <strong>the resolution produces no concrete public benefit beyond political signaling</strong>. The fiscal impact is negligible—limited to administrative processing costs. From a rule-of-law perspective, the resolution follows proper House procedures but represents time spent on non-binding statements rather than substantive legislation. The cost distribution is neutral as taxpayer resources consumed are minimal. Commemorative resolutions serve a legitimate expressive function in foreign policy discourse, but lack the measurable outcomes or fiscal responsibility considerations that characterize impactful governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Oct 2025",
-      "House Resolution procedures, Congressional Research Service",
-      "Foreign Affairs Committee referral records"
-    ]
-  },
-  {
-    "id": 1429,
-    "sourceId": "cg:119-S-4709",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4709?format=json",
-    "branch": "Congress",
-    "date": "Sep 25",
-    "dateISO": "2026-09-25",
-    "title": "S 4709: UNLOCK AUKUS Act",
-    "score": 22,
-    "snapshot": "The UNLOCK AUKUS Act streamlines export controls and technology sharing among the U.S., U.K., and Australia under the AUKUS security partnership, particularly for submarine technology and advanced defense capabilities. Aims to reduce regulatory friction for trilateral defense cooperation without compromising security reviews.",
-    "verdict": "// VERDICT: Facilitates defense industrial cooperation with close allies through targeted export reform while maintaining security safeguards, addressing documented bureaucratic delays in strategic partnership.",
-    "detail": "The legislation addresses real inefficiencies in current International Traffic in Arms Regulations (ITAR) that have delayed critical technology transfers to AUKUS partners, despite these being among America's closest allies with compatible security standards. <strong>By creating a streamlined license-free zone for pre-approved defense articles between the three nations, the Act reduces administrative costs and accelerates delivery timelines for submarine construction and other joint programs.</strong> The fiscal impact is modest—primarily administrative savings offset by initial system setup costs—while enabling faster deployment of deterrent capabilities in the Indo-Pacific. Constitutional process followed through regular committee consideration. The primary beneficiaries are defense contractors and the three allied governments, with broader strategic benefits for regional stability. Minor concerns exist about potential technology leakage, though existing security frameworks and partner vetting processes remain in place.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4709, 119th Congress",
-      "Senate Legislative Calendar No. 517",
-      "AUKUS Partnership Framework (DOD, 2021)",
-      "Congressional Record, July 2026"
-    ]
-  },
-  {
-    "id": 1430,
-    "sourceId": "cg:119-S-4708",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4708?format=json",
-    "branch": "Congress",
-    "date": "Sep 25",
-    "dateISO": "2026-09-25",
-    "title": "S 4708: Arctic Security and Diplomacy Act",
-    "score": 18,
-    "snapshot": "The Arctic Security and Diplomacy Act addresses growing strategic competition in the Arctic region through enhanced diplomatic presence, infrastructure investment, and coordination mechanisms. The bill authorizes funding for Arctic programs and establishes a framework for U.S. leadership in polar governance.",
-    "verdict": "// VERDICT: Proactive response to documented Arctic geopolitical shifts with reasonable authorization levels, though implementation costs and measurable outcomes remain uncertain pending appropriations.",
-    "detail": "This legislation responds to accelerating Arctic activity from Russia and China with a structured diplomatic and security approach. <strong>The bill balances strategic necessity against fiscal prudence by authorizing rather than appropriating funds, allowing budget scrutiny through normal channels.</strong> Authorization levels appear modest relative to infrastructure needs in Alaska and diplomatic requirements. The framework follows constitutional treaty and foreign policy processes. Primary beneficiaries include Arctic state communities and national security interests, while costs distribute across general revenues. The bill's effectiveness depends heavily on execution and whether appropriations materialize. Without specific spending figures or demonstrated outcomes from pilot programs, the measurable benefit score remains cautious. Rule of law compliance is strong given proper legislative procedure through committee consideration.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 4708, 119th Congress",
-      "Senate Legislative Calendar No. 516",
-      "Congressional Record, July 2026",
-      "Senate Foreign Relations Committee Report"
-    ]
-  },
-  {
-    "id": 1431,
-    "sourceId": "cg:119-S-4723",
-    "sourceUrl": "https://www.congress.gov/bill/119/s/4723?format=json",
-    "branch": "Congress",
-    "date": "Sep 25",
-    "dateISO": "2026-09-25",
-    "title": "S 4723: Eliminate PRC Organized Crime Act",
-    "score": -18,
-    "snapshot": "S 4723 proposes broad sanctions and asset freezes targeting Chinese organized crime networks, including triads and human trafficking operations. The bill authorizes extensive Treasury and State Department enforcement actions without specified budgetary allocation or clear evidentiary standards.",
-    "verdict": "// VERDICT: While targeting organized crime is legitimate, the bill's vague definitions, lack of due process protections, and potential for diplomatic escalation outweigh measurable benefits without demonstrated superiority to existing anti-crime tools.",
-    "detail": "The Eliminate PRC Organized Crime Act aims to combat Chinese transnational criminal organizations through sanctions and visa restrictions. However, <strong>the legislation provides minimal procedural safeguards for designation, risking overreach and false positives that could harm legitimate businesses or individuals.</strong> Existing statutes (IEEPA, Magnitsky Act, RICO) already address organized crime and human trafficking; this bill's added value remains unclear. The fiscal impact is unstated—enforcement requires State Department, Treasury, and intelligence resources without appropriations. Diplomatically, blanket targeting of \"PRC-linked\" entities risks retaliatory measures affecting American interests in Asia. The bill follows regular legislative process but lacks the precision and accountability mechanisms necessary for extraordinary enforcement powers. Without concrete evidence that current tools are insufficient, this appears more performative than substantive.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4723, 119th Congress",
-      "Senate Legislative Calendar No. 518",
-      "International Emergency Economic Powers Act",
-      "Federal Register, sanctions procedures"
-    ]
-  },
-  {
-    "id": 1432,
-    "sourceId": "cl:11451385",
-    "sourceUrl": "https://www.courtlistener.com/opinion/10983722/department-of-homeland-security-v-league-of-women-voters/",
-    "branch": "Courts",
-    "date": "Sep 25",
-    "dateISO": "2026-09-25",
-    "title": "Opinion 11451385",
-    "score": -18,
-    "snapshot": "Supreme Court granted stay allowing DHS to resume modified SAVE program using SSA records for bulk voter citizenship verification despite lower court rulings that program violated Social Security Act, Privacy Act, and APA procedural requirements.",
-    "verdict": "// VERDICT: Procedural bypass and privacy concerns outweigh uncertain election integrity gains from bulk database matching with known error rates.",
-    "detail": "The Court's stay permits resumption of a program that lower courts found violated three separate statutory frameworks governing data privacy and administrative procedure. <strong>The modified SAVE program allows bulk searches of SSA records without completing required notice-and-comment rulemaking, creating documented risks of erroneous citizenship challenges against naturalized citizens whose records lag actual status.</strong> While citizenship verification serves legitimate interests, the program's expansion via executive order rather than legislative process, combined with SSA database accuracy concerns demonstrated by plaintiff Doe 4's case, suggests measurable harm to lawful voters. The stay prioritizes expedited implementation over statutory compliance and procedural safeguards that exist precisely to prevent government overreach in sensitive areas like voting rights and personal data.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Supreme Court Opinion 26A308 (Sept. 2026)",
-      "Exec. Order 14248, 90 Fed. Reg. 14006 (2025)",
-      "District Court ruling, No. 25-cv-3501 (D.D.C.)",
-      "Social Security Act; Privacy Act of 1974"
-    ]
-  },
-  {
-    "id": 1445,
-    "sourceId": "cg:118-HR-5444",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/5444?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "HR 5444: Diesel Emissions Reduction Act of 2023",
-    "score": -18,
-    "snapshot": "HR 5444 would authorize funding for diesel engine retrofits and replacements to reduce emissions. The bill stalled in subcommittee in 2023 and remains inactive as of September 2026, producing no measurable outcomes despite three years passing.",
-    "verdict": "// VERDICT: A well-intentioned environmental measure that has delivered zero public benefit due to legislative inaction, while the diesel fleet it targeted continues operating without upgrades.",
-    "detail": "This bill sought to reduce harmful particulate emissions from older diesel engines through federal grants for retrofits and replacements. <strong>After 37 months in congressional limbo with no floor vote, committee markup, or implementation, the legislation has achieved nothing while diesel emissions continue unabated.</strong> The environmental and health benefits remain purely theoretical. No taxpayer funds were spent (scoring neutrally on fiscal responsibility), but the failure to advance legislation through proper legislative channels represents a dysfunction in the rule of law criterion. The cost of inaction falls disproportionately on communities near diesel corridors—typically lower-income areas—who continue breathing polluted air while Congress fails to act.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Sep 2023",
-      "House Committee on Energy and Commerce records",
-      "EPA National Emissions Inventory data"
-    ]
-  },
-  {
-    "id": 1446,
-    "sourceId": "cg:118-S-1669",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/1669?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "S 1669: AM Radio for Every Vehicle Act of 2023",
-    "score": -18,
-    "snapshot": "S.1669 would mandate AM radio receivers in all new vehicles sold in the U.S., imposing design requirements on automakers. The bill stalled in committee in 2023 with no recent legislative movement as of September 2026.",
-    "verdict": "// VERDICT: Mandates outdated technology in vehicles at industry expense without demonstrated public safety benefit, failing cost-benefit analysis while creating unfunded private-sector compliance costs.",
-    "detail": "This bill requires manufacturers to install AM radio capability in all new vehicles, citing emergency alert access. However, <strong>modern vehicles already receive Wireless Emergency Alerts via cellular networks, NOAA weather alerts, and multiple digital channels</strong>, making AM radio redundant for public safety. The automotive industry estimates $3.8 billion in compliance costs due to electromagnetic interference shielding required for electric vehicles, costs passed to consumers. No credible analysis demonstrates AM radio provides unique emergency benefits unavailable through existing systems. The mandate favors AM broadcasters economically while imposing design constraints on manufacturers. Congressional authority exists but intervening in product design for marginal safety claims while ignoring fiscal impact represents poor governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.1669, 118th Congress",
-      "Senate Legislative Calendar No. 208",
-      "Consumer Technology Association cost analysis, 2023",
-      "FCC Wireless Emergency Alerts documentation"
-    ]
-  },
-  {
-    "id": 1447,
-    "sourceId": "cg:118-S-1332",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/1332?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "S 1332: Recognizing the Role of Direct Support Professionals Act",
-    "score": 8,
-    "snapshot": "S.1332 formally recognizes Direct Support Professionals (DSPs) who provide care for individuals with disabilities, establishing a National Recognition Week and encouraging workforce development without creating new federal spending requirements.",
-    "verdict": "// VERDICT: Symbolic recognition of critical care workforce with minimal fiscal impact, though lacks enforcement mechanisms to address documented wage and retention crises.",
-    "detail": "Direct Support Professionals serve approximately 7 million Americans with intellectual and developmental disabilities, yet face median wages below $15/hour and annual turnover rates exceeding 40%. <strong>This resolution acknowledges their role and encourages states to improve training and compensation, but creates no federal mandate or funding stream to address the workforce crisis.</strong> The bill scores positively for raising awareness of an undervalued profession critical to vulnerable populations and follows proper legislative process. However, it provides no measurable intervention on wage stagnation, benefits gaps, or staffing shortages that directly compromise care quality. The symbolic nature limits public benefit while avoiding fiscal cost. Cost distribution remains neutral as the resolution imposes no requirements on states or employers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.1332, 118th Congress",
-      "Bureau of Labor Statistics, Healthcare Support Occupations 2024",
-      "National Core Indicators workforce surveys",
-      "Congressional Record, March 2024"
-    ]
-  },
-  {
-    "id": 1448,
-    "sourceId": "cg:118-S-2195",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/2195?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "S 2195: Diesel Emissions Reduction Act of 2023",
-    "score": 22,
-    "snapshot": "Reauthorizes EPA grant programs to retrofit or replace older diesel engines in trucks, buses, and equipment, reducing particulate matter and NOx emissions. Program has historically achieved 2-3x health benefit per dollar spent.",
-    "verdict": "// VERDICT: Evidence-based pollution reduction with documented cost-effectiveness, though modest scale limits overall impact.",
-    "detail": "The Diesel Emissions Reduction Act reauthorizes proven EPA grant programs targeting high-emission diesel engines in freight, transit, and off-road equipment. <strong>Historical program data shows every dollar invested yields $2-3 in health benefits through reduced asthma, cardiovascular events, and premature deaths from particulate pollution.</strong> Environmental justice communities near ports and freight corridors see disproportionate benefits. Fiscal impact is modest—typical authorization around $100M annually against documented health savings exceeding $200M. Process follows standard legislative authorization through Senate Environment Committee. Primary limitation is scale: addresses only fraction of legacy diesel fleet. Cost-sharing requirements ensure state/local buy-in rather than pure federal expenditure. No significant unfunded mandates or constitutional concerns.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 7,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "EPA Diesel Emissions Quantifier (DEQ) database",
-      "Congressional Research Service, Clean Air Act Programs",
-      "S. 2195, 118th Congress",
-      "Senate Committee on Environment and Public Works report"
-    ]
-  },
-  {
-    "id": 1438,
-    "sourceId": "cg:118-HR-8449",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/8449?format=json",
-    "branch": "Congress",
-    "date": "Sep 24",
-    "dateISO": "2026-09-24",
-    "title": "HR 8449: AM Radio for Every Vehicle Act of 2024",
-    "score": -28,
-    "snapshot": "HR 8449 would mandate AM radio receivers in all new vehicles sold in the US, ostensibly for emergency broadcasting. The bill creates federal technology mandates for private manufacturers with no documented cost-benefit analysis or consideration of modern emergency alert alternatives.",
-    "verdict": "// VERDICT: This bill imposes technology mandates addressing a non-existent crisis while ignoring superior alternatives and imposing costs on consumers and manufacturers without measurable safety gains.",
-    "detail": "The AM Radio for Every Vehicle Act represents government overreach into automotive design without evidence of public necessity. <strong>Modern vehicles already have multiple superior emergency alert systems including Wireless Emergency Alerts (WEA), smartphone apps, satellite radio, and FM-based Emergency Alert System broadcasts.</strong> Automakers have been removing AM radios due to electromagnetic interference from electric vehicle components and consumer preference shifts. The bill provides no cost estimates for compliance, ignores that fewer than 10% of drivers regularly use AM radio, and creates unfunded mandates that will be passed to consumers. While emergency preparedness is valid, mandating 1920s technology in 2024+ vehicles when digital alternatives are more reliable, faster, and already ubiquitous fails basic cost-benefit scrutiny. The bill also raises rule-of-law concerns by federally dictating product design specifications typically left to market forces and safety regulators.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8449, 118th Congress",
-      "Congressional Record, Nov 2024",
-      "FCC Emergency Alert System documentation",
-      "Automotive industry compliance estimates"
     ]
   }
 ]
