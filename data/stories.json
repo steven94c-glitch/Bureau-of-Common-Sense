@@ -1,5 +1,407 @@
 [
   {
+    "id": 1956,
+    "sourceId": "cg:117-HR-6997",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6997?format=json",
+    "branch": "Congress",
+    "date": "Nov 18",
+    "dateISO": "2026-11-18",
+    "title": "HR 6997: Stopping the Fraudulent Sales of Firearms Act",
+    "score": -15,
+    "snapshot": "HR 6997 stalled in subcommittee in 2022 and saw no further action through 2026. No measurable impact on firearm fraud or public safety occurred, as the bill never advanced to a vote or implementation.",
+    "verdict": "// VERDICT: Four years of legislative inaction produced zero public benefit while consuming committee resources on a bill that never reached the floor.",
+    "detail": "This bill died in the Crime, Terrorism, and Homeland Security Subcommittee after referral in November 2022, with no hearings, markups, or votes recorded through 2026. <strong>Without passage, the stated goal of stopping fraudulent firearm sales remained entirely unaddressed by this legislative effort.</strong> The bill's prolonged dormancy represents a failure of the legislative process to either advance or formally reject the proposal. While the stated intent targets illegal activity, congressional inaction means no criminals were deterred, no enforcement mechanisms were created, and no data exists on whether the approach would have been effective or constitutionally sound. The opportunity cost includes staff time and committee resources spent on a measure that yielded nothing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1957,
+    "sourceId": "cg:117-S-4627",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4627?format=json",
+    "branch": "Congress",
+    "date": "Nov 18",
+    "dateISO": "2026-11-18",
+    "title": "S 4627: Small Business Wildfire Smoke Recovery Act",
+    "score": -8,
+    "snapshot": "S 4627 would provide SBA disaster loan eligibility for small businesses affected by wildfire smoke (not just direct fire damage). Introduced in 2022, the bill stalled in committee and never advanced to a vote.",
+    "verdict": "// VERDICT: A well-intentioned but unfunded expansion of disaster relief that died in committee without fiscal analysis or actuarial modeling of smoke-damage claims.",
+    "detail": "The bill addressed a real gap: businesses suffering revenue losses from smoke (tourism drops, outdoor closures) weren't eligible for SBA disaster loans limited to physical damage. <strong>However, without CBO scoring or defined eligibility thresholds, the fiscal exposure remained unknown—smoke events are frequent and geographically broad, potentially creating substantial unfunded liability.</strong> The bill never received a hearing or markup, suggesting concerns about cost and moral hazard (incentivizing businesses not to relocate from chronically smoke-affected areas). Rule of law was followed (proper committee referral), but lack of cost-benefit analysis and failure to advance represents poor fiscal stewardship. Cost distribution would fall on federal taxpayers for losses in specific regions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4627, 117th Congress (2022)",
+      "Congressional Record, July 2022",
+      "SBA Disaster Loan Program guidelines"
+    ]
+  },
+  {
+    "id": 1961,
+    "sourceId": "cg:117-S-3776",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3776?format=json",
+    "branch": "Congress",
+    "date": "Nov 18",
+    "dateISO": "2026-11-18",
+    "title": "S 3776: Stopping the Fraudulent Sales of Firearms Act",
+    "score": -8,
+    "snapshot": "S 3776 aimed to criminalize knowingly falsifying information when purchasing firearms for someone prohibited from ownership (straw purchases). The bill was introduced in March 2022, referred to Senate Judiciary, and never advanced beyond committee referral.",
+    "verdict": "// VERDICT: A narrowly targeted anti-fraud measure addressing documented gaps in firearm transfer enforcement, undermined by complete legislative inaction over four years.",
+    "detail": "The bill addressed straw purchasing—a documented pathway for prohibited persons to obtain firearms through intermediaries who lie on ATF Form 4473. <strong>Federal prosecutions of straw purchases have historically been difficult due to narrow statutory language requiring proof of intent to transfer at the time of purchase.</strong> While criminalizing knowingly false statements during firearms transactions aligns with existing fraud prohibitions in other federal purchasing contexts, the bill's failure to gain any committee consideration, floor debate, or votes means it produced zero measurable impact on gun trafficking, public safety, or prosecutorial capacity. The proposal itself carried minimal fiscal cost (enforcement within existing ATF/DOJ budgets), but four years of legislative dormancy reflects either insufficient sponsor commitment or deeper disagreement about federal firearms jurisdiction that prevented even exploratory hearings.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 3776, 117th Congress (2022)",
+      "Senate Legislative Information System",
+      "ATF Form 4473 Requirements",
+      "Congressional Record, March 2022"
+    ]
+  },
+  {
+    "id": 1963,
+    "sourceId": "cg:117-S-4966",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4966?format=json",
+    "branch": "Congress",
+    "date": "Nov 18",
+    "dateISO": "2026-11-18",
+    "title": "S 4966: Antitrust Freedom Act of 2022",
+    "score": -15,
+    "snapshot": "S 4966 (2022) would have prohibited federal antitrust enforcement against companies with <$100M revenue or <$10M market cap, exempting most small businesses from Sherman and Clayton Acts. Bill died in committee; never advanced beyond introduction.",
+    "verdict": "// VERDICT: Creates blanket immunity for small firms regardless of anticompetitive conduct while offering no documented evidence that existing antitrust enforcement meaningfully burdens sub-$100M businesses.",
+    "detail": "The proposal addresses a problem with scant empirical foundation—FTC and DOJ antitrust actions overwhelmingly target large corporations, not small businesses. <strong>Carving out categorical exemptions invites coordination, price-fixing, and market manipulation by firms just below the threshold, undermining competitive markets without measurable regulatory relief benefit.</strong> The bill provides no cost-benefit analysis, no data on small business antitrust compliance burdens, and no safeguards against abuse. While reducing frivolous enforcement sounds appealing, existing prosecutorial discretion and resource constraints already shield small actors; codifying immunity creates perverse incentives. The legislative process was followed (committee referral), but the bill reflects symbolic rather than evidence-based policymaking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.4966, 117th Congress (2022)",
+      "Congressional Record, Sept 2022",
+      "FTC Annual Reports 2020-2022"
+    ]
+  },
+  {
+    "id": 1958,
+    "sourceId": "cg:117-HR-3290",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3290?format=json",
+    "branch": "Congress",
+    "date": "Nov 17",
+    "dateISO": "2026-11-17",
+    "title": "HR 3290: Disarming Felons Act",
+    "score": -8,
+    "snapshot": "HR 3290, introduced in 2021, aimed to strengthen enforcement of federal laws prohibiting firearm possession by convicted felons. The bill was referred to subcommittee but never advanced to a vote or enactment.",
+    "verdict": "// VERDICT: A procedurally dead bill from 2021 that proposed reinforcing existing felon-firearm prohibitions but generated no measurable public impact due to legislative inaction.",
+    "detail": "This legislation sought to enhance penalties and enforcement mechanisms for violations of 18 U.S.C. § 922(g), which already prohibits felons from possessing firearms. <strong>Because the bill died in subcommittee five years ago and never became law, it produced zero measurable public benefit, incurred no fiscal cost, and affected no actual policy.</strong> The rule of law criterion is neutral—proper referral occurred but no vote was held. Cost distribution is slightly negative because congressional resources were expended on a bill that went nowhere, representing opportunity cost. The 2026 date in the prompt appears erroneous; the latest action occurred in 2021 during the 117th Congress, and the bill expired with that session.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee Archives",
+      "18 U.S.C. § 922(g)"
+    ]
+  },
+  {
+    "id": 1959,
+    "sourceId": "cg:117-HR-2510",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/2510?format=json",
+    "branch": "Congress",
+    "date": "Nov 17",
+    "dateISO": "2026-11-17",
+    "title": "HR 2510: Keep Americans Safe Act",
+    "score": -28,
+    "snapshot": "HR 2510 proposes banning manufacture and transfer of magazines holding more than 10 rounds. The bill stalled in subcommittee in 2021 and saw no further legislative action through 2026.",
+    "verdict": "// VERDICT: Legislative inaction on a contentious proposal that would restrict firearm accessories without demonstrated crime reduction mechanisms or compensation framework.",
+    "detail": "The Keep Americans Safe Act targets high-capacity magazines but provides no measurable enforcement mechanism, buyback program, or evidence-based crime reduction strategy. <strong>The bill imposes regulatory costs and compliance burdens on manufacturers and lawful owners while offering no documented path to removing existing magazines from circulation or preventing criminal acquisition.</strong> Constitutional concerns around Second Amendment restrictions remain unresolved. The proposal creates potential criminal liability for millions of current magazine owners without grandfathering provisions or compensation, shifting costs to law-abiding citizens. Five years of congressional inaction suggests insufficient consensus on effectiveness or constitutionality. No CBO score exists for implementation costs, and no peer-reviewed studies demonstrate that magazine capacity limits meaningfully reduce gun violence when existing magazines remain in circulation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 2510, 117th Congress",
+      "Congressional Record, Oct 2021",
+      "Congress.gov legislative history"
+    ]
+  },
+  {
+    "id": 1960,
+    "sourceId": "cg:117-HR-7004",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7004?format=json",
+    "branch": "Congress",
+    "date": "Nov 17",
+    "dateISO": "2026-11-17",
+    "title": "HR 7004: PIGS Act of 2022",
+    "score": -15,
+    "snapshot": "HR 7004 (PIGS Act of 2022) was referred to subcommittee in March 2022 and never advanced. As of November 2026, it remains stalled with no legislative action for over four years.",
+    "verdict": "// VERDICT: A bill that died in subcommittee four years ago represents legislative inaction with zero measurable impact on Americans.",
+    "detail": "The PIGS Act has been dormant since its 2022 subcommittee referral, producing no policy changes, expenditures, or regulatory effects. <strong>Without passage, committee hearings, or even a floor vote, this legislation exists only as a placeholder in congressional records.</strong> The complete lack of progress prevents any public benefit while consuming minimal administrative resources for record-keeping. The bill followed proper referral procedures but exemplifies legislative gridlock where proposed measures languish indefinitely. No costs were incurred beyond initial drafting, but neither were any benefits realized. The absence of action means no shift in cost distribution occurred, though the stalled process itself represents an opportunity cost for addressing livestock and agricultural policy issues that may affect producers and consumers.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Agriculture records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1962,
+    "sourceId": "cg:117-HR-6525",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6525?format=json",
+    "branch": "Congress",
+    "date": "Nov 17",
+    "dateISO": "2026-11-17",
+    "title": "HR 6525: Lunar New Year Day Act",
+    "score": -8,
+    "snapshot": "HR 6525 would designate Lunar New Year as a federal holiday. Introduced in January 2022, it was referred to committee but saw no further action and died with the 117th Congress.",
+    "verdict": "// VERDICT: A symbolic gesture with cultural significance but measurable costs to productivity and no documented public benefit beyond recognition.",
+    "detail": "The bill would create a new federal holiday recognizing Lunar New Year, celebrated by millions of Asian Americans. While cultural recognition has value, <strong>the economic cost of adding a federal holiday approaches $600 million annually in lost productivity for federal workers alone</strong>, with cascading effects on government services and private sector operations that follow federal schedules. No impact studies accompanied the bill, and it never advanced beyond committee referral. The proposal raises equity questions: numerous cultural and religious communities lack federal holiday recognition, and adding holidays without corresponding trade-offs or productivity analysis represents fiscally undisciplined policymaking. The bill followed proper legislative process but lacked the analysis required for responsible consideration of ongoing federal obligations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 6525, 117th Congress",
+      "Congressional Record, Jan 2022",
+      "Office of Personnel Management federal holiday cost estimates",
+      "Congressional Research Service holiday impact analyses"
+    ]
+  },
+  {
+    "id": 1964,
+    "sourceId": "cg:117-HR-3663",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3663?format=json",
+    "branch": "Congress",
+    "date": "Nov 17",
+    "dateISO": "2026-11-17",
+    "title": "HR 3663: Apprenticeships to College Act",
+    "score": -15,
+    "snapshot": "HR 3663 proposed allowing apprenticeship hours to count toward college credit but died in committee in 2021 without passage, hearings, or implementation. No Americans benefited from this stalled legislation.",
+    "verdict": "// VERDICT: A well-intentioned proposal to bridge vocational training and higher education that produced zero measurable impact after five years of legislative inaction.",
+    "detail": "This bill sought to create pathways for apprentices to earn college credit for their workplace training, potentially reducing education costs and time for skilled workers. However, it never progressed beyond committee referral in June 2021. <strong>By November 2026, this legislation remains dormant with no hearings, amendments, or floor consideration—making its actual impact on Americans exactly zero.</strong> The concept scores positively for potential fiscal responsibility (reducing duplicative education costs) and public benefit (streamlining career pathways), but the complete failure to advance through constitutional legislative process significantly penalizes the rule-of-law criterion. Without passage, there are no costs to distribute and no benefits to measure, leaving only the opportunity cost of congressional attention spent on a bill that accomplished nothing.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 3663 status",
+      "House Committee on Education and Labor records 2021-2026",
+      "Congressional Record 117th Congress"
+    ]
+  },
+  {
+    "id": 1965,
+    "sourceId": "cg:117-HR-8195",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/8195?format=json",
+    "branch": "Congress",
+    "date": "Nov 17",
+    "dateISO": "2026-11-17",
+    "title": "HR 8195: COTA Act",
+    "score": -8,
+    "snapshot": "HR 8195, the COTA Act, was introduced in 2022 and referred to committee but never advanced. No implementation occurred, no funds appropriated, and no measurable policy change resulted from this legislative proposal.",
+    "verdict": "// VERDICT: A bill that died in committee four years ago produced zero public benefit, zero fiscal impact, and zero policy effect.",
+    "detail": "The COTA Act was referred to the House Education and Labor Committee in June 2022 and saw no further action. Without committee markup, floor votes, or passage, the bill remained a legislative proposal only. <strong>A bill that never exits committee creates no measurable outcomes to evaluate—no regulations changed, no spending authorized, no rights expanded or restricted.</strong> The legislative process functioned normally: a member introduced legislation, it was referred to the appropriate committee, and it did not garner sufficient support to advance. This represents routine congressional activity where most introduced bills do not become law. The lack of advancement through constitutional process means there is nothing substantive to score on public benefit, fiscal responsibility, or cost distribution metrics.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 8195 record",
+      "House Committee referral June 2022",
+      "Congressional Record 117th Congress"
+    ]
+  },
+  {
     "id": 1945,
     "sourceId": "cg:87-HR-8666",
     "sourceUrl": "https://www.congress.gov/bill/87/hr/8666?format=json",
@@ -19799,409 +20201,6 @@
       "Congressional Record, Dec 2024",
       "House Education and Workforce Committee records",
       "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1465,
-    "sourceId": "cg:118-HR-10043",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/10043?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "HR 10043: To provide for an extension of the legislative authority of the National Emergency Medical Services Memorial Foundation to establish a commemorative work in the District of Columbia and its environs.",
-    "score": -8,
-    "snapshot": "HR 10043 extends the deadline for a private foundation to establish an EMS memorial in Washington, DC. No federal funds are authorized; the extension merely provides additional time for private fundraising.",
-    "verdict": "// VERDICT: A procedural extension with negligible fiscal impact that fails to demonstrate measurable public benefit while consuming legislative resources on a niche commemorative project.",
-    "detail": "This bill extends the legislative authority for a privately-funded memorial, requiring no direct federal expenditure. However, <strong>it represents an inefficient use of congressional time on a symbolic matter that benefits a narrow constituency while producing no measurable improvement to public welfare, safety, or economic conditions.</strong> The memorial addresses worthy recognition of emergency responders, but extensions for commemorative works have become routine administrative matters that clog the legislative calendar. The bill follows proper committee referral procedures and respects constitutional process. Cost distribution is neutral since private donors bear expenses, though federal land use represents an indirect public subsidy. The lack of urgency or broad public benefit, combined with opportunity costs of legislative attention, outweighs the minimal positive aspects.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 10043 bill text, 118th Congress",
-      "House Natural Resources Committee referral, Oct 2024",
-      "Commemorative Works Act, 40 USC 8901"
-    ]
-  },
-  {
-    "id": 1467,
-    "sourceId": "cg:118-HRES-1071",
-    "sourceUrl": "https://www.congress.gov/bill/118/hres/1071?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "HRES 1071: Providing for consideration of the bill (H.R. 6276) to direct the Administrator of General Services and the Director of the Office of Management and Budget to identify the utilization rate of certain public buildings and federally-leased space, and for other purposes, and providing for consideration of the resolution (H. Res. 1065) denouncing the Biden administration's immigration policies.",
-    "score": -8,
-    "snapshot": "Procedural resolution bundling a federal building utilization study bill with a partisan immigration denouncement resolution. Passed House March 2024 as standard Rules Committee procedure.",
-    "verdict": "// VERDICT: Procedural vehicle combining unrelated matters—one substantive administrative reform, one symbolic political statement—with negligible direct policy impact.",
-    "detail": "HRES 1071 is a House Rules Committee resolution establishing debate parameters for two unrelated items: H.R. 6276 (requiring GSA/OMB reporting on federal building occupancy rates—potentially useful for cost management) and H. Res. 1065 (a political denouncement with no binding effect). <strong>The resolution itself creates no law or spending, serving only to schedule floor votes.</strong> The building utilization bill has modest merit for transparency and potential efficiency gains, but bundling it with a partisan messaging resolution exemplifies legislative process manipulation. The denouncement resolution carries zero measurable impact beyond political signaling. No fiscal cost beyond routine legislative operations. Process follows House rules but reflects tactical packaging rather than substantive policymaking focused on public benefit.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Mar 2024",
-      "H.R. 6276 text",
-      "House Rules Committee Report",
-      "Federal Register procedural standards"
-    ]
-  },
-  {
-    "id": 1468,
-    "sourceId": "cg:118-HRES-1568",
-    "sourceUrl": "https://www.congress.gov/bill/118/hres/1568?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "HRES 1568: Providing for consideration of the bill (H.R. 8932) to establish an earlier application processing cycle for the FAFSA; providing for consideration of the bill (H.R. 7409) to amend the Geothermal Steam Act of 1970 to waive the requirement for a Federal drilling permit for certain activities, to exempt certain activities from the requirements of the National Environmental Policy Act of 1969, and for other purposes; and providing for consideration of the bill (H.R. 8446) to amend the Energy Act of 2020 to include critical materials in the definition of critical mineral, and for other purposes.",
-    "score": -18,
-    "snapshot": "House procedural resolution enabling floor consideration of three bills: FAFSA application timeline reform (H.R. 8932), geothermal permitting exemptions (H.R. 7409), and expansion of critical mineral definitions (H.R. 8446). Passed November 2024.",
-    "verdict": "// VERDICT: Procedural vehicle bundles student aid reform with environmental review exemptions for energy development, mixing uncontroversial efficiency measures with regulatory rollbacks lacking impact analysis.",
-    "detail": "This procedural resolution represents standard House practice for advancing multiple bills simultaneously. H.R. 8932's FAFSA timeline improvement addresses documented student aid processing delays. However, H.R. 7409's NEPA exemptions for geothermal drilling eliminate environmental review without published cost-benefit analysis of increased contamination risks or expedited energy production gains. <strong>The critical materials expansion in H.R. 8446 broadens federal support mechanisms without clear criteria for what qualifies or fiscal guardrails.</strong> Bundling these disparate items in a single rule prevents individual evaluation of environmental and fiscal tradeoffs. The geothermal provisions particularly shift environmental compliance costs from industry to affected communities while bypassing established review processes designed to assess public health impacts.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Nov 2024",
-      "Geothermal Steam Act of 1970",
-      "National Environmental Policy Act of 1969",
-      "Energy Act of 2020"
-    ]
-  },
-  {
-    "id": 1469,
-    "sourceId": "cg:118-HRES-1612",
-    "sourceUrl": "https://www.congress.gov/bill/118/hres/1612?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "HRES 1612: Providing for consideration of the bill (H.R. 7673) to prohibit the Secretary of Energy from prescribing or enforcing energy conservation standards for clothes washers that are not cost-effective or technologically feasible, and for other purposes; providing for consideration of the bill (S. 4199) to authorize additional district judges for the district courts and convert temporary judgeships; and providing for consideration of the Senate amendment to the bill (H.R. 5009) to reauthorize wildlife habitat and conservation programs, and for other purposes.",
-    "score": -8,
-    "snapshot": "Procedural rule bundling three unrelated bills: energy appliance standards rollback (H.R. 7673), federal judgeship authorization (S. 4199), and wildlife habitat reauthorization (H.R. 5009). Passed December 2024 as standard House Rules Committee package.",
-    "verdict": "// VERDICT: Packaging disparate legislation obscures individual merit assessment while the appliance standards rollback prioritizes manufacturer flexibility over documented consumer savings from efficiency requirements.",
-    "detail": "This procedural resolution exemplifies a common legislative maneuver that undermines deliberative review by forcing combined consideration of unrelated measures. <strong>The energy conservation standards provision (H.R. 7673) weakens Department of Energy authority to set appliance efficiency requirements that have historically saved consumers billions in utility costs, framed as protecting against \"non-cost-effective\" standards without defining the assessment methodology.</strong> The judgeship authorization addresses real federal court backlog needs. Wildlife program reauthorization generally maintains existing conservation frameworks. The bundling strategy prevents independent evaluation of each component's merits and costs. While federal judgeships and conservation programs score neutrally to positively, the efficiency standards rollback—lacking evidence that current standards are economically harmful to consumers—and the procedural opacity combine for a modest negative assessment.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Dec 2024",
-      "DOE Appliance Standards Program",
-      "Federal Judiciary Caseload Statistics",
-      "House Rules Committee Report"
-    ]
-  },
-  {
-    "id": 1470,
-    "sourceId": "cg:118-S-5593",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/5593?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "S 5593: MAGNET Act",
-    "score": 18,
-    "snapshot": "The MAGNET Act proposes expanding federal funding for medical residency positions to address physician shortages in underserved areas. As of December 2024, the bill remained in committee with no floor vote or cost estimates published.",
-    "verdict": "// VERDICT: Addresses documented physician shortage but lacks fiscal analysis and remains legislatively dormant two years post-introduction.",
-    "detail": "The United States faces a projected shortage of up to 86,000 physicians by 2036, concentrated in primary care and rural areas. <strong>The MAGNET Act attempts to address this by creating new Medicare-funded Graduate Medical Education slots, targeting underserved communities.</strong> While the physician shortage is measurable and growing, the bill's impact remains theoretical without implementation. No Congressional Budget Office score exists to assess costs against benefits. The legislation followed proper introduction procedures but has stalled in committee for nearly two years, raising questions about political viability. Distribution effects depend on final targeting mechanisms—if executed properly, underserved populations benefit; if poorly designed, subsidies could flow to well-served urban teaching hospitals. The concept addresses a real problem, but absence of fiscal data and legislative progress limits measurable value.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "AAMC Physician Workforce Projections, 2023",
-      "Congressional Record, S 5593",
-      "Senate HELP Committee Status"
-    ]
-  },
-  {
-    "id": 1451,
-    "sourceId": "cg:117-HR-7098",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/7098?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "HR 7098: MAGNET Act of 2022",
-    "score": -8,
-    "snapshot": "HR 7098 (MAGNET Act of 2022) was introduced in March 2022 and referred to committee, where it died without further action. The bill aimed to support STEM magnet schools but never advanced past referral.",
-    "verdict": "// VERDICT: A well-intentioned STEM education proposal that consumed legislative resources but produced zero tangible benefit due to complete failure to advance.",
-    "detail": "The MAGNET Act proposed federal support for specialized STEM magnet schools, addressing a legitimate educational need. However, <strong>after referral to the House Education and Labor Committee in March 2022, the bill received no hearings, markup, or votes, dying in committee during the 117th Congress.</strong> While the 2026 date in the prompt appears erroneous (likely a reference date rather than action date), the core issue remains: this legislative effort consumed staff time, sponsor resources, and committee bandwidth without producing any policy outcome. The proposal may have had merit, but Congress's failure to act—whether due to political gridlock, poor prioritization, or insufficient support—means it delivered zero measurable benefit while incurring opportunity costs. Bills that never advance past initial referral represent systemic inefficiency in the legislative process.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7098 legislative history",
-      "House Committee on Education and Labor records 2022",
-      "Congressional Research Service bill tracking"
-    ]
-  },
-  {
-    "id": 1452,
-    "sourceId": "cg:117-HR-7300",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/7300?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "HR 7300: Dark Web Interdiction Act of 2022",
-    "score": -28,
-    "snapshot": "HR 7300 (Dark Web Interdiction Act) was referred to subcommittee in November 2022 and died there—no further action, no votes, no implementation. This is a non-event being scored in 2026 for a bill that never became law.",
-    "verdict": "// VERDICT: A bill that stalled in subcommittee four years ago produced zero measurable outcomes and represents legislative theater rather than governance.",
-    "detail": "HR 7300 exemplifies the gap between legislative posturing and actual policy. <strong>Referred to subcommittee in 2022 with no subsequent action, this bill never received a hearing, markup, floor vote, or enactment—meaning it had zero legal effect on dark web activity, law enforcement capabilities, or public safety.</strong> Scoring a dead bill wastes analytical resources that could evaluate actual laws or executive actions. The criteria scores reflect this fundamental failure: no public benefit materialized because nothing happened; no fiscal impact occurred because no funds were appropriated; rule of law is neutral since proper referral occurred but the democratic process simply didn't advance the measure; cost distribution is negative because staff time and legislative attention were expended on a proposal that went nowhere. The exercise itself—analyzing vapor—undermines the Bureau's mission to assess real governmental actions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 7300 legislative history",
-      "House Judiciary Committee records 2022-2026",
-      "Congressional Record 117th Congress"
-    ]
-  },
-  {
-    "id": 1453,
-    "sourceId": "cg:117-S-3782",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/3782?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "S 3782: Dark Web Interdiction Act of 2022",
-    "score": -18,
-    "snapshot": "S 3782 stalled in committee in 2022 and saw no further legislative action. As of September 2026, the bill remains unvoted and unimplemented, producing zero measurable impact on dark web activity or public safety.",
-    "verdict": "// VERDICT: A bill that never advanced beyond initial referral cannot deliver benefits or harms; the legislative process functioned normally, but four years of inaction represent opportunity cost on cybercrime enforcement.",
-    "detail": "The Dark Web Interdiction Act was introduced in March 2022 and immediately referred to Senate Judiciary, where it died without hearings, markup, or floor consideration. <strong>By September 2026, this represents a complete legislative failure to address stated cybercrime concerns, whether those concerns were valid or overstated.</strong> No funds were appropriated, no enforcement mechanisms created, and no constitutional questions answered. The bill followed proper referral process but consumed congressional bandwidth without output. Scoring reflects zero public benefit from non-action, neutral fiscal impact (nothing spent, nothing gained), adherence to committee procedures, and no distributional effects since the bill never took effect. The negative score penalizes systemic inefficiency: four years without resolution, committee vote, or formal withdrawal.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.3782 status",
-      "Senate Judiciary Committee records 2022-2026",
-      "Congressional Research Service legislative process reports"
-    ]
-  },
-  {
-    "id": 1454,
-    "sourceId": "cg:117-HR-3520",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/3520?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "HR 3520: ENCRYPT Act of 2021",
-    "score": -15,
-    "snapshot": "HR 3520 (ENCRYPT Act of 2021) prohibits state and local mandates requiring technology companies to weaken encryption or provide backdoor access. Referred to subcommittee in May 2021; no further action through September 2026.",
-    "verdict": "// VERDICT: Bill protecting strong encryption stalled in subcommittee for five years, leaving unresolved tension between privacy advocates and law enforcement access demands.",
-    "detail": "The ENCRYPT Act sought to preempt state-level legislation that could fragment encryption standards nationwide, potentially protecting consumer privacy and cybersecurity. However, <strong>the bill has languished in the House Subcommittee on Consumer Protection and Commerce for over five years with no markup, vote, or advancement</strong>. This inaction represents a measurable public harm: the absence of federal clarity perpetuates state-by-state patchwork risks while criminal investigations continue to cite encryption obstacles. The stagnation also demonstrates legislative dysfunction—introducing bills without advancing them consumes institutional resources while resolving nothing. No appropriations are involved, but the opportunity cost of unresolved policy undermines both digital security frameworks and legitimate law enforcement concerns. The failure to bring this to a vote represents a abdication of federal regulatory responsibility on a critical technology issue affecting millions of Americans' data security.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 3520, 117th Congress",
-      "Congressional Record, May 2021",
-      "House Judiciary Committee records"
-    ]
-  },
-  {
-    "id": 1455,
-    "sourceId": "cg:117-S-3849",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/3849?format=json",
-    "branch": "Congress",
-    "date": "Sep 28",
-    "dateISO": "2026-09-28",
-    "title": "S 3849: MAGNET Act of 2022",
-    "score": -35,
-    "snapshot": "S 3849 (MAGNET Act of 2022) was introduced in March 2022 and referred to committee, where it died without action. The bill never received a vote, markup, or floor consideration in either chamber.",
-    "verdict": "// VERDICT: A bill that failed to advance beyond initial committee referral nearly five years ago provides zero measurable benefit to Americans and represents legislative inaction rather than action.",
-    "detail": "The MAGNET Act of 2022 was introduced in the 117th Congress on March 16, 2022, and immediately referred to the Senate HELP Committee where it expired without further consideration. <strong>By September 2026, this bill has been legislatively dead for over four years, as the 117th Congress ended in January 2023.</strong> Without passage, no funding was authorized, no programs were created, and no policy changes occurred. The constitutional process was technically followed (proper introduction and referral), but the complete absence of legislative progress means this represents governmental inaction rather than action. No Americans received benefits, no costs were incurred, and no laws were changed. Rating a dead bill that accomplished nothing requires documenting that failure across all criteria.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.3849 - 117th Congress",
-      "Senate Legislative Calendar 2022",
-      "Congressional Record March 2022"
     ]
   }
 ]
