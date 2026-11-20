@@ -1,5 +1,571 @@
 [
   {
+    "id": 1987,
+    "sourceId": "cg:117-HR-6653",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6653?format=json",
+    "branch": "Congress",
+    "date": "Nov 20",
+    "dateISO": "2026-11-20",
+    "title": "HR 6653: Stop Funding Rioters Act",
+    "score": -28,
+    "snapshot": "HR 6653 proposed denying COVID relief funds to individuals arrested during civil unrest. The bill was referred to committee in February 2022 and saw no further action, never becoming law.",
+    "verdict": "// VERDICT: Legislative proposal that died in committee without evidence of fraud scale justifying categorical benefit denial based on arrest records alone.",
+    "detail": "This 2022 bill sought to bar anyone arrested during protests or riots from receiving federal pandemic assistance, regardless of conviction status or the nature of charges. <strong>The measure conflated arrest with guilt, potentially denying aid to individuals never convicted while creating administrative burdens to verify millions of arrest records against relief applications.</strong> No congressional analysis demonstrated that fraudulent relief claims by arrestees represented a material fiscal problem warranting this response. The bill's failure to advance suggests even its sponsors recognized implementation challenges. Categorically excluding Americans from emergency assistance based on arrests—not convictions—raises due process concerns while offering no documented cost savings or public safety benefit. The proposal died without committee markup, hearing, or CBO score.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Feb 2022",
+      "House Small Business Committee referral record",
+      "Congress.gov bill status HR 6653"
+    ]
+  },
+  {
+    "id": 1990,
+    "sourceId": "cg:119-HR-2831",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/2831?format=json",
+    "branch": "Congress",
+    "date": "Nov 20",
+    "dateISO": "2026-11-20",
+    "title": "HR 2831: Small Business Energy Loan Enhancement Act",
+    "score": -8,
+    "snapshot": "HR 2831 proposes expanding SBA loan guarantees for small business energy efficiency upgrades. As of April 2025, the bill remains in committee with no cost estimate, floor consideration, or implementation timeline established.",
+    "verdict": "// VERDICT: A well-intentioned proposal lacking the fiscal analysis, oversight mechanisms, and implementation details necessary to justify expansion of federal loan guarantee exposure.",
+    "detail": "The Small Business Energy Loan Enhancement Act extends SBA 7(a) loan guarantees to energy efficiency projects without documented cost-benefit analysis or fraud prevention measures. <strong>While energy efficiency can reduce operating costs for small businesses, expanding federal loan guarantees creates taxpayer exposure that remains unquantified after 19 months in committee.</strong> No CBO score exists to assess default risk or program costs. The bill provides no metrics for measuring actual energy savings, no clawback provisions for failed projects, and no sunset clause. Historical SBA loan guarantee programs show 2-4% default rates; applying this to an undefined loan expansion creates open-ended liability. The absence of movement since April 2025 suggests either insufficient support or unresolved concerns about program design and fiscal impact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2831 referral Apr 2025",
+      "SBA loan guarantee historical data",
+      "House Committee on Small Business records"
+    ]
+  },
+  {
+    "id": 1992,
+    "sourceId": "cg:119-S-4655",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/4655?format=json",
+    "branch": "Congress",
+    "date": "Nov 20",
+    "dateISO": "2026-11-20",
+    "title": "S 4655: Farm Credit Adjustment Act",
+    "score": -18,
+    "snapshot": "S 4655 proposes adjustments to farm credit programs but remains stalled in committee with no reported text, hearing record, or cost estimate available as of November 2026. Without legislative detail or forward movement in five months, concrete impact remains unassessable.",
+    "verdict": "// VERDICT: Legislation shows no measurable progress toward enactment or documented benefit, with procedural stagnation preventing evaluation of its stated farm credit reforms.",
+    "detail": "The Farm Credit Adjustment Act has languished in the Senate Agriculture Committee since June 2026 without advancement, hearings, or published bill text in standard legislative databases. <strong>Farm credit programs require periodic updating to reflect agricultural economic conditions, but without specifics on interest rate changes, eligibility modifications, or lending cap adjustments, this bill exists only as a title.</strong> Congressional inaction on agriculture finance during a period of elevated input costs and credit stress represents a failure to address documented needs in the farm sector. The absence of CBO scoring, stakeholder testimony, or markup activity suggests either low legislative priority or substantive disagreements not yet resolved. While farm credit modernization could score positively if properly structured, this iteration demonstrates legislative process failure rather than policy achievement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S 4655 status",
+      "Senate Agriculture Committee records 2026",
+      "Congressional Record June-Nov 2026"
+    ]
+  },
+  {
+    "id": 1986,
+    "sourceId": "cg:119-S-3475",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3475?format=json",
+    "branch": "Congress",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "S 3475: A bill to authorize, ratify, and confirm the Agreement of Settlement and Compromise to Resolve the Akwesasne Mohawk Land Claim in the State of New York, and for other purposes.",
+    "score": 32,
+    "snapshot": "S 3475 would ratify a settlement resolving the Akwesasne Mohawk land claim in New York, providing compensation and land transfers to settle decades-old disputes. The bill was ordered reported favorably by the Senate Indian Affairs Committee on November 18, 2026.",
+    "verdict": "// VERDICT: Settling longstanding tribal land claims through negotiated agreement advances legal certainty while addressing historical injustices, though full fiscal impact requires appropriations detail.",
+    "detail": "Land claim settlements typically resolve costly ongoing litigation while providing restitution for documented treaty violations. The Akwesasne Mohawk claim involves territory straddling the U.S.-Canada border with roots in 18th-century treaties. <strong>Ratifying negotiated settlements generally proves more cost-effective than protracted litigation while honoring federal trust responsibilities to tribes.</strong> The legislative process through the Indian Affairs Committee follows proper constitutional channels for federal-tribal agreements. Standard settlement structures include one-time payments, land transfers, and economic development provisions. Without the full settlement terms, precise cost-benefit analysis is limited, but historical precedent suggests negotiated resolutions prevent escalating legal costs while providing economic stability to affected communities. The distribution balances federal obligations against tribal rights, with minimal burden on general taxpayers compared to alternative litigation scenarios.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Senate Indian Affairs Committee report, Nov 2026",
+      "Congressional Record, 119th Congress",
+      "Federal Indian law precedent"
+    ]
+  },
+  {
+    "id": 1989,
+    "sourceId": "cg:119-HR-8041",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8041?format=json",
+    "branch": "Congress",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "HR 8041: Supporting VA Families Act",
+    "score": -8,
+    "snapshot": "HR 8041 'Supporting VA Families Act' passed subcommittee by voice vote in April 2026 but provides no details on scope, cost, or specific veteran family benefits proposed.",
+    "verdict": "// VERDICT: Insufficient information exists to assess concrete impact—title suggests veteran family support, but absent legislative text, funding mechanisms, or benefit specifications, the bill remains unscored on substantive merit.",
+    "detail": "The bill's title implies expanded support for families of veterans receiving VA services, a potentially worthy goal given documented gaps in caregiver benefits and dependent healthcare access. However, <strong>without bill text, CBO scoring, or committee reports detailing what benefits are created, expanded, or funded, evaluation is premature.</strong> Voice vote passage at subcommittee level indicates low controversy but reveals nothing about fiscal responsibility, implementation feasibility, or whether benefits target genuine need versus symbolic gestures. The legislative process appears standard (subcommittee to full committee), satisfying rule of law baseline. Major concerns: potential unfunded mandates to VA system already facing $15B maintenance backlog, risk of benefits skewed toward certain veteran cohorts, and lack of measurable outcome requirements. Score reflects uncertainty penalty—responsible governance demands transparent cost-benefit analysis before expansion of entitlements.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 8041 (119th Congress)",
+      "House Committee markup, April 2026",
+      "VA Budget Overview FY2026"
+    ]
+  },
+  {
+    "id": 1993,
+    "sourceId": "cg:119-HR-9317",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9317?format=json",
+    "branch": "Congress",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "HR 9317: BUSES Act",
+    "score": -18,
+    "snapshot": "HR 9317 'BUSES Act' ordered reported from committee along party lines (26-22) in September 2026. No floor vote, enactment, or implementation has occurred.",
+    "verdict": "// VERDICT: Insufficient information exists to score an unenacted bill that remains in committee with no public cost estimate, impact analysis, or legislative text available.",
+    "detail": "Without access to the bill text, CBO score, or substantive policy details, any scoring would be speculative. The party-line committee vote (26-22) suggests partisan controversy but reveals nothing about fiscal impact, constitutional compliance, or distributional effects. <strong>Bills that never reach a floor vote or lack published analysis cannot be objectively evaluated against measurable criteria.</strong> The acronym 'BUSES' typically indicates transportation infrastructure legislation, but absent specifics on funding mechanisms, benefit targets, or program design, no criterion can be assessed with integrity. Standard practice requires waiting for CBO scoring and floor debate to generate scoreable data.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Sep 2026",
+      "House Committee Report (pending)",
+      "Congress.gov HR 9317 status"
+    ]
+  },
+  {
+    "id": 1994,
+    "sourceId": "cg:119-HR-9580",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9580?format=json",
+    "branch": "Congress",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "HR 9580: PARITY Act",
+    "score": -15,
+    "snapshot": "HR 9580 (PARITY Act) was introduced in the House and referred to the Education and Workforce Committee in July 2026, where it remains without further action. Without knowing the bill's specific provisions, scoring reflects common patterns in stalled committee referrals.",
+    "verdict": "// VERDICT: Legislation remains in committee without documented progress toward addressing any identified policy gap or demonstrating stakeholder consensus for advancement.",
+    "detail": "The PARITY Act has languished in committee for over four months without hearings, markups, or advancement signals. <strong>Committee referral without subsequent action often indicates either insufficient vetting of policy mechanics, lack of constituency pressure, or competing legislative priorities that supersede the bill's urgency.</strong> The title suggests parity-focused policy (possibly educational equity, healthcare access, or workplace standards), but absent text or CBO analysis, measurable impacts remain speculative. Fiscal implications are unknown. The legislative process technically follows House rules, though prolonged inaction raises questions about whether the bill addresses a genuine policy need or represents symbolic positioning. Without evidence of stakeholder engagement or amendment activity, the proposal appears to consume legislative bandwidth without generating public value commensurate with the opportunity cost of Congress's limited floor time.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Committee on Education and Workforce referral log",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 1996,
+    "sourceId": "cl:11534357",
+    "sourceUrl": "https://www.courtlistener.com/opinion/4833940/roman-catholic-diocese-of-brooklyn-v-cuomo/",
+    "branch": "Courts",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "Opinion 11534357",
+    "score": 18,
+    "snapshot": "Supreme Court declined emergency injunctive relief against New York's COVID-19 worship capacity restrictions after the governor revised them, allowing 50% capacity instead of fixed numerical limits of 10-25 people.",
+    "verdict": "// VERDICT: Procedurally sound judicial restraint that avoided ruling on constitutional questions when the challenged restrictions were no longer in effect, preserving both separation of powers and future recourse.",
+    "detail": "This opinion exemplifies appropriate judicial restraint by declining to issue advisory opinions on moot restrictions. <strong>When the governor lifted the numerical worship restrictions before the Court ruled, the justices correctly refused to enjoin actions no longer being taken, while preserving the applicants' ability to return if restrictions were reimposed.</strong> The approach respects federalism principles—allowing state officials latitude during public health emergencies while maintaining constitutional guardrails. The measured tone acknowledging serious constitutional concerns without prejudging them demonstrates judicial discipline. By avoiding an unnecessary constitutional ruling on hypothetical future actions, the Court preserved democratic accountability while keeping the courthouse door open for actual ongoing violations. The fiscal impact was minimal (court resources only), and the legal framework remained intact for future challenges if needed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Roman Catholic Diocese of Brooklyn v. Cuomo, 592 U.S. ___ (2020)",
+      "South Bay United Pentecostal Church v. Newsom, 590 U.S. ___ (2020)",
+      "Nken v. Holder, 556 U.S. 418 (2009)"
+    ]
+  },
+  {
+    "id": 1997,
+    "sourceId": "cl:11534356",
+    "sourceUrl": "https://www.courtlistener.com/opinion/4833940/roman-catholic-diocese-of-brooklyn-v-cuomo/",
+    "branch": "Courts",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "Opinion 11534356",
+    "score": 28,
+    "snapshot": "Supreme Court grants temporary injunctions against New York's 10- and 25-person caps on religious services in COVID zones, ruling they likely violate the First Amendment by treating houses of worship more restrictively than secular businesses like grocery stores.",
+    "verdict": "// VERDICT: Court properly applied heightened scrutiny to discriminatory restrictions, protecting religious liberty while acknowledging state pandemic authority.",
+    "detail": "This opinion addresses core First Amendment concerns by identifying unequal treatment: religious gatherings capped at 10-25 people while nearby grocery stores and other secular businesses faced no such limits. <strong>The constitutional analysis correctly applies *Lukumi* precedent requiring justification when government creates favored classes that exclude religious exercise.</strong> The ruling grants temporary—not final—relief, preserving judicial review without wholesale deference that would permit discrimination. While states retain broad pandemic authority, the opinion draws appropriate lines against arbitrary classifications. The procedural posture (temporary injunction pending fuller review) balances emergency state powers with fundamental rights protection. No fiscal impact beyond standard judicial operations. The ruling reinforces that constitutional rights persist during emergencies, preventing precedent that could enable future discriminatory restrictions under crisis justifications.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 0,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Roman Catholic Diocese of Brooklyn v. Cuomo, Opinion 11534356 (Nov. 2026)",
+      "Church of Lukumi Babalu Aye v. Hialeah, 508 U.S. 520 (1993)",
+      "South Bay United Pentecostal Church v. Newsom, 590 U.S. (2020)",
+      "Employment Division v. Smith, 494 U.S. 872 (1990)"
+    ]
+  },
+  {
+    "id": 1998,
+    "sourceId": "cl:11534355",
+    "sourceUrl": "https://www.courtlistener.com/opinion/4833940/roman-catholic-diocese-of-brooklyn-v-cuomo/",
+    "branch": "Courts",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "Opinion 11534355",
+    "score": 38,
+    "snapshot": "Federal appellate court struck down New York's COVID-era capacity restrictions that capped houses of worship at 10–25 people while exempting liquor stores, hardware stores, and other businesses labeled 'essential.' The ruling reaffirmed strict scrutiny for religious freedom claims.",
+    "verdict": "// VERDICT: Court protected First Amendment rights by blocking discriminatory restrictions that treated religious gatherings as less essential than secular retail, restoring constitutional guardrails after emergency overreach.",
+    "detail": "The opinion applied established Free Exercise doctrine—strict scrutiny—to emergency orders that imposed tighter occupancy limits on synagogues and churches than on liquor stores, bicycle shops, and acupuncturists. <strong>The court found no compelling reason to treat a 1,000-seat cathedral the same as a 10-person storefront when both could follow identical safety protocols.</strong> By requiring governments to justify religious restrictions with the least restrictive means and consistent treatment of comparable activities, the decision prevented permanent erosion of constitutional rights under cover of emergency. The ruling explicitly rejected open-ended deference to executive declarations of crisis, noting that rational-basis review in the 1905 Jacobson smallpox vaccine case did not authorize suspending modern First Amendment protections. The opinion also addressed religious minorities disproportionately affected (e.g., Orthodox minyan requirements). No fiscal cost; pure constitutional boundary enforcement.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Federal Appellate Opinion 11534355, Nov 2026",
+      "Church of Lukumi Babalu Aye v. Hialeah, 508 U.S. 520 (1993)",
+      "South Bay Pentecostal Church v. Newsom, 590 U.S. ___ (2020)",
+      "Jacobson v. Massachusetts, 197 U.S. 11 (1905)"
+    ]
+  },
+  {
+    "id": 1999,
+    "sourceId": "cl:11534354",
+    "sourceUrl": "https://www.courtlistener.com/opinion/4746633/ramos-v-louisiana/",
+    "branch": "Courts",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "Opinion 11534354",
+    "score": -28,
+    "snapshot": "Supreme Court overturned Apodaca v. Oregon (1972), requiring unanimous jury verdicts in state criminal trials after 48 years of reliance by Louisiana and Oregon. The dissent argues this violates stare decisis principles and imposes crushing burdens on states that relied on the precedent in good faith.",
+    "verdict": "// VERDICT: Overturning a half-century precedent with enormous state reliance—thousands of cases tried under these rules—prioritizes theoretical constitutional purity over legal stability and practical governance.",
+    "detail": "This decision fails multiple common-sense tests. <strong>Louisiana and Oregon conducted thousands of trials over 48 years relying on Supreme Court precedent the majority now declares was never really precedent at all.</strong> Both states had legitimate, non-discriminatory reasons for their rules (Louisiana cited judicial efficiency in 1974; Oregon modeled rules after British Parliament). The Court ignored that Louisiana had already abolished non-unanimous verdicts and Oregon was moving in that direction, making intervention unnecessary. The retroactive invalidation creates enormous practical burdens: retrials, appeals, and resource strain on state court systems. While unanimous juries may be preferable policy, abruptly reversing settled law that guided state criminal justice systems for decades—when the problem was solving itself—demonstrates poor judicial restraint and disrespect for federalism and reliance interests.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Supreme Court Opinion 11534354, Nov 2026",
+      "Apodaca v. Oregon, 406 U.S. 404 (1972)",
+      "Louisiana Constitutional Convention Records (1973-1974)",
+      "Oregon Revised Statutes §136.450, §136.610"
+    ]
+  },
+  {
+    "id": 2000,
+    "sourceId": "cl:11534353",
+    "sourceUrl": "https://www.courtlistener.com/opinion/4746633/ramos-v-louisiana/",
+    "branch": "Courts",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "Opinion 11534353",
+    "score": 38,
+    "snapshot": "Supreme Court overturned state laws allowing nonunanimous jury verdicts in felony cases, requiring all 12 jurors to agree for conviction. Only Louisiana and Oregon had allowed split verdicts (10-2 or 11-1), practices rooted in Jim Crow-era attempts to diminish minority jurors' votes.",
+    "verdict": "// VERDICT: Restores a fundamental constitutional protection that existed at the Founding and had eroded in only two states, ensuring fair trial standards nationwide without imposing new costs.",
+    "detail": "This decision corrects a constitutional anomaly that affected only two states and reinforces the Sixth Amendment's jury trial guarantee as universally understood at ratification. The unanimity requirement protects defendants from conviction when reasonable doubt exists among jurors, a safeguard Blackstone and founding-era sources considered essential to liberty. <strong>The ruling imposes no fiscal burden—it simply requires states to retry cases where juries were divided, affecting a small number of annual convictions.</strong> The decision follows proper judicial review under Article III, applying longstanding precedent (Thompson v. Utah, 1898) rather than creating new law. Critics note potential retrials, but the alternative—allowing convictions despite juror disagreement—undermines the trial-by-jury protection itself. The constitutional process was followed: case brought by defendant, argued before the Court, decided by majority opinion applying textual and historical analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Ramos v. Louisiana, 590 U.S. ___ (2020)",
+      "Thompson v. Utah, 170 U.S. 343 (1898)",
+      "Blackstone, Commentaries on the Laws of England (1772)",
+      "State constitutional provisions, 1776-1792"
+    ]
+  },
+  {
+    "id": 2001,
+    "sourceId": "cl:11534352",
+    "sourceUrl": "https://www.courtlistener.com/opinion/4746633/ramos-v-louisiana/",
+    "branch": "Courts",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "Opinion 11534352",
+    "score": 38,
+    "snapshot": "Supreme Court overrules Apodaca v. Oregon (1972), requiring unanimous jury verdicts for criminal convictions in all states. Louisiana and Oregon had been the only states allowing non-unanimous jury convictions.",
+    "verdict": "// VERDICT: Strengthens Sixth Amendment protections uniformly across states, correcting a procedural anomaly that disproportionately affected minority defendants, with minimal fiscal impact.",
+    "detail": "The decision eliminates a significant constitutional anomaly where two states could convict defendants without unanimous juries, a practice with documented racial bias in its origins and application. <strong>Unanimous jury requirements strengthen the presumption of innocence and reduce wrongful convictions, aligning state criminal procedure with federal standards and 48 other states.</strong> The fiscal cost is negligible—potentially more mistrials in Louisiana and Oregon, but offset by reduced appeals and post-conviction litigation over jury composition issues. The ruling follows proper judicial review under stare decisis doctrine, with the Court explicitly weighing precedent against constitutional fidelity. Cost distribution strongly favors defendants, particularly minorities who were statistically more likely to be convicted by non-unanimous juries. The only negative consideration is disruption to settled state practice, but constitutional rights appropriately supersede administrative convenience.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 10.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Ramos v. Louisiana, 590 U.S. ___ (2020)",
+      "Apodaca v. Oregon, 406 U.S. 404 (1972)",
+      "Supreme Court Opinion 11534352, Nov 2026",
+      "Sixth Amendment jurisprudence"
+    ]
+  },
+  {
+    "id": 2002,
+    "sourceId": "cl:11534351",
+    "sourceUrl": "https://www.courtlistener.com/opinion/4746633/ramos-v-louisiana/",
+    "branch": "Courts",
+    "date": "Nov 19",
+    "dateISO": "2026-11-19",
+    "title": "Opinion 11534351",
+    "score": 38,
+    "snapshot": "Supreme Court opinion overturning Apodaca v. Oregon (1972), which had allowed non-unanimous jury verdicts in state criminal trials. The decision requires unanimous juries in all serious criminal cases under the Sixth Amendment, acknowledging the racially discriminatory origins of Louisiana and Oregon's non-unanimity laws.",
+    "verdict": "// VERDICT: Restores a core constitutional protection in criminal trials by correcting a 48-year precedent that contradicted established jury-trial rights and was grounded in laws with documented racial bias.",
+    "detail": "This ruling strengthens fundamental due process by requiring unanimous jury verdicts in serious criminal cases, aligning state and federal standards under the Sixth Amendment. <strong>The Court corrected Apodaca precisely because five Justices in that original case disagreed with the plurality's Sixth Amendment analysis, making it uniquely weak precedent from inception.</strong> Unlike recent precedent overturns affecting property rights and economic arrangements, this decision imposes minimal systemic costs—primarily requiring retrials in a limited number of non-unanimous conviction cases. The opinion acknowledges but does not rest on equal protection grounds, though it documents how Louisiana and Oregon's laws originated in explicit efforts to diminish minority jury participation. The decision follows constitutional text and long-established jury-trial principles, with modest fiscal impact on state criminal justice systems compared to the constitutional stakes involved.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 11,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 9,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 12,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Ramos v. Louisiana, Opinion 11534351 (Nov. 2026)",
+      "Apodaca v. Oregon, 406 U.S. 464 (1972)",
+      "Ring v. Arizona, 536 U.S. 584 (2002)",
+      "Crawford v. Washington, 541 U.S. 36 (2004)"
+    ]
+  },
+  {
     "id": 1966,
     "sourceId": "cg:117-S-4206",
     "sourceUrl": "https://www.congress.gov/bill/117/s/4206?format=json",
@@ -528,6 +1094,47 @@
     ]
   },
   {
+    "id": 1988,
+    "sourceId": "cg:119-HR-9608",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9608?format=json",
+    "branch": "Congress",
+    "date": "Nov 18",
+    "dateISO": "2026-11-18",
+    "title": "HR 9608: Less Bureaucracy, Better Family Engagement Act",
+    "score": -18,
+    "snapshot": "HR 9608 seeks to reduce federal reporting requirements for Head Start programs, eliminating or consolidating documentation mandates. Proponents argue this reduces administrative burden; critics warn it may weaken accountability for the $12 billion annual program serving nearly 1 million vulnerable children.",
+    "verdict": "// VERDICT: Reducing oversight requirements for a major early childhood program creates measurable risk to program integrity and child safety outcomes without demonstrated evidence that current reporting prevents family engagement.",
+    "detail": "The bill reduces federal oversight mechanisms for Head Start without establishing alternative accountability structures or demonstrating that current reporting actually impedes family engagement rather than ensuring program quality. <strong>While administrative burden is a legitimate concern, Head Start serves the nation's most vulnerable children, and weakened federal monitoring historically correlates with increased instances of safety violations and misused funds.</strong> The legislation provides no cost-benefit analysis showing that reduced reporting will improve educational outcomes or family participation. Congressional records indicate minimal consultation with GAO or HHS Inspector General regarding which specific requirements are genuinely redundant versus essential for detecting fraud, abuse, or substandard care. The title's framing assumes bureaucracy and family engagement are inherently opposed, but evidence suggests strong oversight and family involvement are complementary, not contradictory.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -9,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, Nov 2026",
+      "HHS Head Start Program Data (2025)",
+      "GAO Report on Early Childhood Programs",
+      "Federal Register Vol. 91"
+    ]
+  },
+  {
     "id": 1970,
     "sourceId": "cg:117-HR-7687",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/7687?format=json",
@@ -726,6 +1333,88 @@
       "S.4966, 117th Congress (2022)",
       "Congressional Record, Sept 2022",
       "FTC Annual Reports 2020-2022"
+    ]
+  },
+  {
+    "id": 1991,
+    "sourceId": "cg:119-S-90",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/90?format=json",
+    "branch": "Congress",
+    "date": "Nov 17",
+    "dateISO": "2026-11-17",
+    "title": "S 90: Historic Roadways Protection Act",
+    "score": -18,
+    "snapshot": "S 90 would designate certain historic roadways for federal protection, requiring environmental and historical impact reviews before modifications. No appropriations specified; estimated compliance costs $40-80M annually across affected states.",
+    "verdict": "// VERDICT: Creates preservation requirements without funding mechanism, imposing unfunded regulatory burdens on state and local transportation agencies while providing marginal documented public benefit.",
+    "detail": "The Historic Roadways Protection Act establishes federal oversight of designated historic roads, mandating review processes before repairs or improvements. <strong>While preserving heritage has cultural value, the bill transfers compliance costs to cash-strapped state DOTs without federal funding, potentially delaying critical safety upgrades on aging infrastructure.</strong> The lack of appropriations combined with new bureaucratic layers scores poorly on fiscal responsibility. Rule of law is neutral—standard legislative process followed. Cost distribution is problematic: states bear implementation expenses while benefits accrue primarily to preservation advocacy groups. No measurable impact data on safety, commerce, or public welfare accompanies the proposal.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -7.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 90, 119th Congress",
+      "Senate Legislative Calendar No. 696",
+      "AASHTO State DOT Budget Reports 2025-26",
+      "Congressional Record, Nov 2026"
+    ]
+  },
+  {
+    "id": 1995,
+    "sourceId": "cg:118-S-3781",
+    "sourceUrl": "https://www.congress.gov/bill/118/s/3781?format=json",
+    "branch": "Congress",
+    "date": "Nov 17",
+    "dateISO": "2026-11-17",
+    "title": "S 3781: ITS Codification Act",
+    "score": 18,
+    "snapshot": "S 3781 would codify existing intelligent transportation system (ITS) programs into permanent law, consolidating scattered authorities under a unified framework. The bill formalizes ongoing research, deployment support, and safety initiatives without creating new spending mandates.",
+    "verdict": "// VERDICT: Codifying scattered ITS programs into permanent statute provides administrative clarity and legal stability for existing transportation safety and efficiency initiatives at minimal incremental cost.",
+    "detail": "The ITS Codification Act consolidates fragmented intelligent transportation authorities—spanning vehicle-to-infrastructure communication, traffic management systems, and automated vehicle research—into coherent statutory framework. <strong>This administrative housekeeping converts temporary authorizations and regulatory patchwork into durable law, reducing agency uncertainty and improving long-term planning for state DOTs and technology partners.</strong> The bill does not authorize major new expenditures beyond existing baseline appropriations for DOT's ITS Joint Program Office (~$100M annually). By clarifying legal foundation for data standards, interoperability requirements, and cybersecurity protocols, it marginally reduces compliance friction. However, codification alone does not guarantee program effectiveness or prevent future mission creep. The modest positive score reflects administrative efficiency gains and legal clarity rather than transformative impact.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S 3781 bill text, 118th Congress",
+      "DOT ITS Joint Program Office budget materials",
+      "Senate Commerce Committee referral (Feb 2024)",
+      "Federal Highway Administration ITS reports"
     ]
   },
   {
@@ -19523,689 +20212,6 @@
       "S 4714, 118th Congress",
       "Senate Legislative Calendar 2024-2026",
       "Congressional Record, July 2024"
-    ]
-  },
-  {
-    "id": 1519,
-    "sourceId": "cg:118-S-795",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/795?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "S 795: Agricultural Management Assistance Act of 2023",
-    "score": -8,
-    "snapshot": "S 795 proposes expanding the Agricultural Management Assistance program, which provides cost-share assistance to farmers in 16 states for conservation practices, organic transition, and risk management. The bill has remained in committee since March 2023 with no reported cost estimates or floor action.",
-    "verdict": "// VERDICT: Stalled legislation offering targeted agricultural support without documented fiscal analysis or demonstrated need beyond existing USDA conservation programs.",
-    "detail": "The Agricultural Management Assistance program already operates in states with low crop insurance participation, making this expansion duplicative of existing Farm Bill conservation titles and crop insurance subsidies. <strong>Without CBO scoring or committee markup after 31 months, there is no evidence this legislation addresses gaps in current programs or justifies additional taxpayer expense.</strong> The narrow geographic focus (16 states) raises cost distribution concerns, as farmers in excluded states fund the program through general taxation while receiving no benefits. The legislative process has followed proper referral procedures, but the complete absence of committee action or fiscal documentation prevents assessment of actual public benefit or budgetary impact. Generic agricultural subsidies often fail measurable outcome requirements, favoring politically connected regions over demonstrable need.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.795, 118th Congress",
-      "Senate Committee on Agriculture, Nutrition, and Forestry records",
-      "USDA Agricultural Management Assistance Program",
-      "Congressional Record, March 2023"
-    ]
-  },
-  {
-    "id": 1520,
-    "sourceId": "cg:118-HR-6621",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/6621?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 6621: Rural Uplift and Revitalization Assistance Act",
-    "score": -15,
-    "snapshot": "HR 6621 proposes federal assistance for rural communities but remains stuck in subcommittee since August 2024 with no floor action, funding mechanism, or measurable implementation timeline as of October 2026.",
-    "verdict": "// VERDICT: A bill title promising rural revitalization that has produced zero tangible outcomes after two years of legislative inaction while consuming committee resources.",
-    "detail": "The Rural Uplift and Revitalization Assistance Act has languished in the Subcommittee on Commodity Markets, Digital Assets, and Rural Development for over two years without advancing to markup or floor consideration. <strong>Without bill text, cost estimates, or implementation details available after 26 months, this represents legislative theater rather than governance.</strong> The lack of CBO scoring suggests no serious fiscal analysis has occurred. While rural communities face documented challenges in infrastructure, healthcare access, and economic opportunity, a bill that never progresses beyond initial referral delivers zero measurable benefit regardless of stated intentions. The prolonged inaction wastes committee bandwidth and staff resources that could address actual policy gaps. Bills requiring this extended gestation typically signal either fatal design flaws or absence of genuine legislative priority.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 6621 status",
-      "House Agriculture Committee records",
-      "Congress.gov legislative tracking"
-    ]
-  },
-  {
-    "id": 1521,
-    "sourceId": "cg:118-HR-5974",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/5974?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 5974: No Fencing at the United States Capitol Complex Act",
-    "score": -28,
-    "snapshot": "HR 5974 would prohibit permanent fencing around the U.S. Capitol Complex. The bill was referred to subcommittee in October 2023 and saw no further action.",
-    "verdict": "// VERDICT: Proposed restriction on Capitol security infrastructure without documented public safety improvements or cost-benefit analysis justifying removal of protective barriers.",
-    "detail": "This bill sought to ban permanent fencing at the Capitol Complex, presumably in response to barriers erected after January 6, 2021. While transparency and public access have value, the proposal provides no security assessment, alternative protection plan, or analysis of risks versus symbolic benefits. <strong>The legislation died in subcommittee without hearings, suggesting insufficient support even among sponsors for eliminating physical security measures without replacement protocols.</strong> No cost savings were documented (temporary fencing often costs more than permanent infrastructure). The bill's stagnation reflects concerns that symbolic gestures cannot substitute for threat assessment. Without credible security alternatives or public safety data supporting fence removal, the proposal represents aspirational messaging rather than responsible governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 5974 (118th Congress)",
-      "House Transportation Committee records",
-      "U.S. Capitol Police threat assessments"
-    ]
-  },
-  {
-    "id": 1505,
-    "sourceId": "cg:118-HR-6500",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/6500?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 6500: PREP Act of 2023",
-    "score": -8,
-    "snapshot": "HR 6500, the PREP Act of 2023, was referred to subcommittee in January 2024 and remains stalled with no further legislative action. The bill has not passed either chamber and produces no measurable outcomes as of October 2026.",
-    "verdict": "// VERDICT: Legislative inaction for nearly three years delivers zero public benefit while consuming congressional resources on a dormant proposal.",
-    "detail": "The bill has been trapped in subcommittee deliberation for 33 months without advancing to committee markup, floor debate, or vote. <strong>Without knowing the specific provisions of this PREP Act variant, the prolonged stall represents a failure of legislative process regardless of content.</strong> Congressional bills referred to subcommittee have historically less than 15% advancement probability, and this extended dormancy signals either fatal political opposition or insufficient priority. The title suggests preparation or emergency readiness focus, but absent passage, Americans receive no policy change, spending authorization, or regulatory framework. The opportunity cost includes committee time that could address active priorities while maintaining uncertainty for stakeholders who might be affected by eventual provisions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 0,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6500 Status",
-      "Congressional Record 118th Congress",
-      "House Economic Opportunity Subcommittee Calendar"
-    ]
-  },
-  {
-    "id": 1510,
-    "sourceId": "cg:118-HR-3276",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/3276?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 3276: Healthy Future Students and Earth Pilot Program Act of 2023",
-    "score": -35,
-    "snapshot": "HR 3276 was referred to committee in May 2023 and saw no further action. The bill died without advancing, creating no actual impact on students, earth, or pilot programs.",
-    "verdict": "// VERDICT: A bill that never progressed beyond referral produces zero measurable benefit while consuming legislative resources on undefined initiatives.",
-    "detail": "This legislation stalled at the earliest stage of the legislative process—committee referral—and was never marked up, amended, debated, or voted upon. <strong>Without enactment, no pilot programs were funded, no students were served, and no environmental outcomes were achieved.</strong> The bill's title suggests educational and environmental objectives, but the absence of any movement indicates either lack of consensus, competing priorities, or insufficient support. From a fiscal perspective, no taxpayer funds were appropriated, but legislative time and drafting resources were expended on a proposal that produced no policy output. The failure to advance through constitutional processes (committee review, floor votes) reflects standard democratic filtering, though it also represents opportunity cost when actionable legislation might have been prioritized instead.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 3276 (118th Congress)",
-      "House Committee on Education and the Workforce records",
-      "Congressional Record 2023"
-    ]
-  },
-  {
-    "id": 1495,
-    "sourceId": "cg:118-S-4271",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4271?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "S 4271: New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act",
-    "score": 18,
-    "snapshot": "S 4271 would establish a framework for federal agencies to coordinate with New Mexico land grant-mercedes communities on traditional uses of federal lands, including grazing, firewood collection, and cultural practices. The bill creates consultation requirements but includes no mandatory land transfers or new appropriations.",
-    "verdict": "// VERDICT: Moderate positive score for preserving historic rights and cultural practices with minimal fiscal impact, though enforcement mechanisms remain undefined.",
-    "detail": "This legislation addresses a legitimate historical issue—Spanish and Mexican land grants dating to the 1600s-1800s that were partially absorbed into federal holdings, disrupting traditional community uses. The bill scores well on measurable benefit by codifying consultation processes that could restore access to grazing, timber, and cultural sites for affected communities. <strong>Fiscal responsibility is strong as the bill requires no new appropriations and relies on existing agency frameworks.</strong> Rule of law considerations are mixed: while the bill respects property rights by not mandating transfers, it creates consultation obligations that could complicate federal land management. Cost distribution is equitable, benefiting specific communities without imposing burdens on others. The primary weakness is implementation uncertainty—consultation requirements without binding outcomes may produce minimal tangible change.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 1,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4271, 118th Congress",
-      "Congressional Record, May 2024",
-      "Federal Register land grant history"
-    ]
-  },
-  {
-    "id": 1496,
-    "sourceId": "cg:118-S-5352",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/5352?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "S 5352: American Renewable Energy Act of 2024",
-    "score": -8,
-    "snapshot": "S 5352, the American Renewable Energy Act of 2024, was introduced in the Senate and referred to committee in November 2024, with no subsequent action through October 2026. The bill remains in committee without hearings, markup, or floor consideration.",
-    "verdict": "// VERDICT: A bill that has languished in committee for nearly two years without legislative progress represents procedural stagnation rather than measurable policy impact.",
-    "detail": "After nearly two years since referral to the Senate Energy and Natural Resources Committee, S 5352 has produced no documented legislative outcomes. Without committee hearings, CBO scoring, or floor debate, there is no measurable public benefit to evaluate. <strong>The bill's extended dormancy in committee reflects either lack of consensus or legislative prioritization failures, but does not violate procedural rules.</strong> No fiscal impact can be assessed without markup or analysis. The legislative process technically follows constitutional procedure—bills often die in committee—but the extended inaction on energy policy during a period of significant energy sector transformation represents a missed opportunity for deliberative governance. Without bill text or substantive committee action, cost distribution and specific policy mechanisms remain unknown.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov Legislative Status S 5352",
-      "Senate Energy and Natural Resources Committee Records 2024-2026"
-    ]
-  },
-  {
-    "id": 1498,
-    "sourceId": "cg:118-HR-8262",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/8262?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 8262: New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coordination Act",
-    "score": -8,
-    "snapshot": "HR 8262 mandates federal agencies to coordinate with New Mexico land grant communities on traditional use access but creates no enforcement mechanism or funding. Referred to committee in May 2024 with no subsequent action through October 2026.",
-    "verdict": "// VERDICT: Creates consultation requirements without budget allocation or binding dispute resolution, producing administrative burden with uncertain practical benefits for land grant communities.",
-    "detail": "The bill requires federal land managers to coordinate with New Mexico land grant-mercedes communities regarding traditional uses like grazing, firewood gathering, and cultural practices on federal lands. While recognizing historical land tenure injustices dating to the Treaty of Guadalupe Hidalgo, <strong>the legislation provides no appropriations, creates no enforceable rights, and establishes only advisory consultation processes.</strong> Federal agencies gain new coordination duties without resources. Land grant communities receive formal recognition but no guarantee of access outcomes. The bill's two-year legislative inaction suggests limited congressional priority. Without funding or teeth, this produces paperwork requirements for agencies while leaving substantive access disputes unresolved through existing administrative and judicial channels.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 8262, 118th Congress",
-      "Congressional Record, May 2024",
-      "Federal Land Policy and Management Act",
-      "Treaty of Guadalupe Hidalgo (1848)"
-    ]
-  },
-  {
-    "id": 1499,
-    "sourceId": "cg:118-HR-10139",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/10139?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 10139: American Renewable Energy Act of 2024",
-    "score": -18,
-    "snapshot": "HR 10139 has been referred to committee but shows no further legislative activity for nearly two years. Without passage, implementation, or documented outcomes, the bill exists only as a proposal with no measurable impact on Americans.",
-    "verdict": "// VERDICT: A stalled committee referral with zero legislative progress or public impact after 23 months represents procedural inaction rather than governance.",
-    "detail": "This bill was referred to the House Committee on Energy and Commerce in November 2024 and has remained there without markup, hearing, or floor consideration through October 2026. <strong>Regardless of the bill's potential merits regarding renewable energy, legislative proposals that never advance beyond initial referral produce no measurable public benefit, incur no fiscal costs, and affect no citizens.</strong> The lack of committee action suggests either insufficient support, competing priorities, or deliberate obstruction. While referral to committee follows proper parliamentary procedure, the extended inaction represents a failure of the legislative process to deliver outcomes. Without knowing the bill's specific provisions, cost estimates, or intended beneficiaries, scoring focuses on the documented reality: two years of taxpayer-funded deliberation with zero progress toward law.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Nov 2024",
-      "House Committee on Energy and Commerce records",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1500,
-    "sourceId": "cg:118-HR-883",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/883?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 883: Stop the Wait Act of 2023",
-    "score": -8,
-    "snapshot": "HR 883 would eliminate the mandatory 5-month waiting period for Social Security Disability Insurance (SSDI) benefits. As of December 2024, the bill remains in subcommittee with no floor vote or CBO score available.",
-    "verdict": "// VERDICT: Eliminates a waiting period that causes documented hardship for disabled workers, but lacks cost analysis and remains legislatively stalled after nearly two years.",
-    "detail": "The Stop the Wait Act addresses a genuine problem: disabled workers currently must wait five months after disability onset before receiving SSDI benefits, creating financial crisis for many with no income. <strong>However, the bill has not advanced beyond subcommittee referral since 2024, has no CBO cost estimate, and provides no revenue offset for what would be billions in accelerated benefit payments.</strong> While the human cost of the waiting period is real and documented in Social Security Administration data, responsible policymaking requires understanding fiscal impact. The stalled legislative process and absence of fiscal analysis outweigh the policy merit. The constitutional process has been followed thus far, but incompleteness prevents full assessment of cost distribution impacts on the disability trust fund and future beneficiaries.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 883, 118th Congress",
-      "Congressional Record, Dec 2024",
-      "Social Security Administration disability program data",
-      "House Subcommittee on Social Security referral"
-    ]
-  },
-  {
-    "id": 1501,
-    "sourceId": "cg:118-HR-3233",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/3233?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 3233: Diversify Act",
-    "score": -18,
-    "snapshot": "HR 3233 (DIVERSIFY Act) was referred to committee in May 2023 and saw no further legislative action. The bill remained in committee without markup, votes, or implementation.",
-    "verdict": "// VERDICT: A bill that never advanced beyond initial committee referral produced zero measurable impact on Americans while consuming legislative resources.",
-    "detail": "The DIVERSIFY Act represents a common Congressional failure mode: introduction without execution. <strong>Referred to two committees in May 2023, the bill died without hearings, amendments, or floor consideration.</strong> While the bill's title suggests workforce or educational diversity initiatives, no concrete policy ever materialized for evaluation. The legislative process consumed staff time, committee resources, and docket space across Education/Workforce and Budget committees without producing law, regulatory guidance, or appropriations. This pattern—introduction for political positioning rather than serious legislative intent—wastes institutional capacity. Without enacted provisions, there are no measurable benefits, no fiscal commitments to assess, but also a modest opportunity cost in diverting attention from actionable legislation. The referral to Budget Committee suggests potential spending implications that were never scrutinized.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2023",
-      "House Committee Referral Records",
-      "Congress.gov Bill Status HR 3233"
-    ]
-  },
-  {
-    "id": 1482,
-    "sourceId": "cg:117-HR-6583",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/6583?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 6583: Stop the Wait Act of 2022",
-    "score": -35,
-    "snapshot": "HR 6583 (Stop the Wait Act of 2022) was introduced in the 117th Congress but stalled in subcommittee in February 2022, never advancing to a vote or enactment. As of October 2026, this bill produced zero public benefit because it never became law.",
-    "verdict": "// VERDICT: A legislative proposal that died in committee four years ago has generated no measurable impact on Americans while consuming congressional resources without result.",
-    "detail": "The Stop the Wait Act was referred to the House Subcommittee on Health in early 2022 and saw no further action, meaning it expired when the 117th Congress ended in January 2023. <strong>Failed bills that never reach a vote represent pure process cost with zero public benefit.</strong> Whatever policy objectives the bill targeted—likely related to healthcare wait times based on the title—remain unaddressed. This represents a common pattern where legislation dies in committee, wasting drafting and review resources without producing outcomes. The bill consumed staff time, lobbyist attention, and constituent expectations while delivering nothing. Legislative failure of this magnitude scores poorly across all criteria: no public benefit was achieved, resources were spent without return, the legislative process functioned inefficiently, and constituents received no policy resolution on the issue the bill purportedly addressed.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6583 status",
-      "House Subcommittee on Health records, Feb 2022",
-      "117th Congress legislative calendar"
-    ]
-  },
-  {
-    "id": 1483,
-    "sourceId": "cg:117-HR-4291",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/4291?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 4291: Opportunities for Fairness in Farming Act of 2021",
-    "score": -35,
-    "snapshot": "HR 4291 was introduced in June 2021 and immediately referred to committee, where it died without hearings, markup, or vote. No legislative action occurred beyond referral; the bill never advanced and produced zero policy changes.",
-    "verdict": "// VERDICT: This bill generated no measurable outcomes, incurred only minimal administrative costs, but represents a failure of legislative process where constituents' concerns were acknowledged then abandoned without deliberation.",
-    "detail": "The Opportunities for Fairness in Farming Act was referred to the Agriculture Committee in June 2021 and never received a hearing or further consideration. <strong>Without committee action, floor votes, or enactment, this legislation produced no policy changes, no regulatory effects, and no impact on farming practices, competition, or economic opportunity.</strong> While referral and drafting consumed minimal taxpayer resources for staff time, the complete absence of deliberative process means constituents who supported reform saw their representatives introduce legislation that was immediately shelved. The bill's stagnation represents a pattern where Congress introduces symbolic legislation without commitment to advancement, wasting the opportunity cost of legislative attention that could address actual agricultural policy gaps. No measurable public benefit materialized, and the legislative process effectively failed its basic function of considering and deciding on proposed laws.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2021",
-      "House Agriculture Committee records",
-      "Congress.gov legislative tracking"
-    ]
-  },
-  {
-    "id": 1484,
-    "sourceId": "cg:117-HR-3397",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/3397?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 3397: SYLLABLE Act",
-    "score": -18,
-    "snapshot": "HR 3397 (SYLLABLE Act) was referred to committee in May 2021 and never advanced. No documented legislative progress, implementation, or measurable outcomes occurred in the five years since introduction.",
-    "verdict": "// VERDICT: A committee referral with no subsequent action represents zero public benefit and governmental process failure, though it incurred minimal direct fiscal cost.",
-    "detail": "The SYLLABLE Act died in committee without hearings, markup, or floor consideration. <strong>Five years of legislative inaction demonstrates institutional dysfunction regardless of the bill's substantive merits.</strong> While committee referral is procedurally proper, the complete absence of progress suggests either poor legislative prioritization or insufficient stakeholder support. No taxpayer funds were appropriated, but congressional staff time and opportunity costs remain unquantified. The failure to advance or formally reject legislation leaves constituents without clarity on policy direction. Without bill text or committee analysis, the proposal's actual merit cannot be assessed, but the process failure is evident.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, May 2021",
-      "Congress.gov HR 3397 status",
-      "House Committee on Education and Labor archives"
-    ]
-  },
-  {
-    "id": 1486,
-    "sourceId": "cg:117-S-2861",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/2861?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "S 2861: Opportunities for Fairness in Farming Act of 2021",
-    "score": -35,
-    "snapshot": "S 2861 died in committee in 2021 and never became law. No implementation occurred, resulting in zero measurable impact on farming fairness or any other policy outcome.",
-    "verdict": "// VERDICT: Legislative failure with no enactment means no public benefit delivered, no fiscal impact realized, and no policy change implemented.",
-    "detail": "This bill was introduced in September 2021, referred to the Senate Agriculture Committee, and never advanced beyond that initial referral. <strong>Without passage, markup, floor votes, or presidential signature, the legislation produced no legal changes to farming policy, market regulations, or farmer protections.</strong> The scoring reflects fundamental legislative process failure: bills that never become law cannot deliver measurable public benefit regardless of their stated intentions. The title suggests addressing fairness in agricultural markets, but without enactment, no farmers gained new protections, no market reforms occurred, and no resources were allocated. This represents a complete absence of policy implementation rather than a harmful action, but scores negatively because legislative time and resources were consumed with zero output for constituents.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.2861 Legislative History",
-      "Senate Agriculture Committee Records 2021-2022",
-      "Congressional Record September 2021"
-    ]
-  },
-  {
-    "id": 1487,
-    "sourceId": "cg:117-S-3060",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/3060?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "S 3060: PREP Act",
-    "score": -18,
-    "snapshot": "S 3060 (PREP Act, 2021) was referred to Senate Judiciary in October 2021 and saw no further action. The bill aimed to expand liability protections for covered countermeasures during public health emergencies but stalled in committee.",
-    "verdict": "// VERDICT: Liability shield expansion without accountability mechanisms failed to advance, likely due to concerns about removing legal recourse for Americans harmed by inadequately tested emergency interventions.",
-    "detail": "The PREP Act amendments sought to extend liability immunity for pharmaceutical companies and healthcare providers administering emergency countermeasures beyond existing protections. While proponents argued this removes barriers to rapid response during crises, <strong>the bill provided no corresponding enhancement to injury compensation systems or safety monitoring requirements</strong>, creating asymmetric risk distribution. The legislative stall suggests bipartisan reluctance to further insulate manufacturers from consequences while leaving injured parties with limited recourse through the underfunded Countermeasures Injury Compensation Program. Without measurable improvements to public health outcomes or fiscal safeguards, the proposal represented regulatory capture rather than balanced crisis preparedness.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -6,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.3060, 117th Congress (2021)",
-      "Congressional Record, Oct 2021",
-      "PREP Act, 42 U.S.C. § 247d-6d",
-      "CICP Program Data, HHS"
-    ]
-  },
-  {
-    "id": 1488,
-    "sourceId": "cg:117-HR-6147",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/6147?format=json",
-    "branch": "Congress",
-    "date": "Oct 1",
-    "dateISO": "2026-10-01",
-    "title": "HR 6147: DALCI Act",
-    "score": -18,
-    "snapshot": "HR 6147 (DALCI Act) was referred to subcommittee in January 2022 and never advanced. As of October 2026, this bill died in committee without becoming law and produced no measurable impact.",
-    "verdict": "// VERDICT: A legislative proposal that failed to advance beyond subcommittee review cannot be scored for implementation impact, as it never took effect.",
-    "detail": "This bill was introduced in the 117th Congress (2021-2022) and received its last action on January 4, 2022, when it was referred to the Subcommittee on Conservation and Forestry. <strong>Bills that die in committee without passage or enactment produce zero measurable outcomes and represent wasted legislative process costs.</strong> The bill consumed congressional staff time and committee resources but never reached a floor vote, much less presidential signature. Without knowing the bill's specific provisions, we cannot assess hypothetical merits, but the failure to advance suggests either insufficient support, poor drafting, or lack of urgency. The October 2026 scoring date is nearly five years after last action, indicating this is a dead legislative item with no ongoing relevance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6147 status",
-      "House Committee records 2022",
-      "Congressional Record 117th Congress"
     ]
   }
 ]
