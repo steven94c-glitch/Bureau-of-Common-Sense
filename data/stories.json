@@ -1,5 +1,368 @@
 [
   {
+    "id": 2003,
+    "sourceId": "cg:119-HR-9611",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9611?format=json",
+    "branch": "Congress",
+    "date": "Nov 21",
+    "dateISO": "2026-11-21",
+    "title": "HR 9611: Less Bureaucracy, Better Higher Education Act",
+    "score": -18,
+    "snapshot": "HR 9611 proposes reducing federal oversight of higher education institutions, streamlining accreditation processes, and limiting Department of Education regulatory authority. The bill passed committee on a party-line vote but has not advanced to floor consideration as of November 2026.",
+    "verdict": "// VERDICT: Reduces regulatory burden on colleges while weakening accountability mechanisms that protect students from predatory practices and ensure educational quality standards.",
+    "detail": "The legislation aims to cut administrative requirements for colleges and universities, particularly around accreditation reviews and federal compliance reporting. <strong>While reducing bureaucratic overhead could lower costs and allow institutions to focus resources on education, the bill simultaneously weakens consumer protections that have historically prevented diploma mills and financially unstable institutions from accessing federal student aid.</strong> The 20-16 committee vote along party lines suggests limited bipartisan consensus on balancing deregulation with student protection. Without clear metrics for maintaining educational quality standards or safeguards against fraud, the bill risks exposing students to predatory actors while federal taxpayers continue funding loans. The lack of compensating oversight mechanisms or outcomes-based accountability measures undermines the fiscal responsibility of federal higher education spending.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9611 Committee Report, July 2026",
+      "Department of Education Accreditation Guidelines",
+      "GAO Higher Education Oversight Reports"
+    ]
+  },
+  {
+    "id": 2004,
+    "sourceId": "cg:119-HR-9606",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/9606?format=json",
+    "branch": "Congress",
+    "date": "Nov 21",
+    "dateISO": "2026-11-21",
+    "title": "HR 9606: Less Bureaucracy, Better Child Care for Student Parents Act",
+    "score": 18,
+    "snapshot": "HR 9606 would streamline federal child care grant administration for student parents by reducing bureaucratic reporting requirements and consolidating overlapping programs. The bill passed committee on a party-line vote (20-16) in July 2026.",
+    "verdict": "// VERDICT: Modest administrative reform with potential to reduce compliance costs for colleges serving student parents, though actual impact depends on implementation and funding levels.",
+    "detail": "The legislation targets a recognized inefficiency in federal child care assistance programs for college students, where institutions face duplicative reporting requirements across multiple agencies. <strong>By consolidating administrative processes, the bill could reduce institutional overhead and potentially expand services without additional appropriations.</strong> However, the party-line committee vote and lack of CBO scoring at this stage suggest uncertainty about implementation costs and actual service improvements. The \"less bureaucracy\" framing is directionally sound if the bill genuinely eliminates redundant processes rather than simply shifting them. Measurable benefit depends on whether streamlined administration translates to increased child care access or reduced costs for student parents. The bill follows standard legislative process and addresses a legitimate administrative burden without creating unfunded mandates, though specific fiscal impact remains unclear pending full analysis.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9606",
+      "House Committee markup, July 2026",
+      "Federal child care program regulations"
+    ]
+  },
+  {
+    "id": 2005,
+    "sourceId": "cg:119-HR-10476",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10476?format=json",
+    "branch": "Congress",
+    "date": "Nov 21",
+    "dateISO": "2026-11-21",
+    "title": "HR 10476: Glaucoma Vision Act of 2026",
+    "score": -8,
+    "snapshot": "HR 10476 proposes federal glaucoma screening and treatment programs but remains stalled in committee without cost estimates or implementation details. No floor vote or CBO analysis available as of November 2026.",
+    "verdict": "// VERDICT: Lacks sufficient information to demonstrate measurable benefit or fiscal responsibility; procedural status normal but absence of cost analysis and unclear scope prevent meaningful evaluation.",
+    "detail": "The Glaucoma Vision Act addresses a real public health concern—glaucoma is a leading cause of irreversible blindness—but the bill provides no documented framework for implementation, cost projections, or expected outcomes. <strong>Without CBO scoring or committee markup details, it is impossible to assess whether proposed interventions are evidence-based or fiscally sound.</strong> The referral to multiple committees (Energy and Commerce, Ways and Means, Oversight) suggests broad jurisdictional implications, likely including Medicare/Medicaid provisions and federal agency roles, but the bill has not advanced beyond initial referral in over two months. Rule of law score is neutral as the legislative process is functioning normally, but the lack of transparency on scope and funding mechanisms prevents positive scoring on benefit or fiscal responsibility criteria.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -0.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 10476 status",
+      "Committee referral record, Sep 2026",
+      "National Eye Institute glaucoma data"
+    ]
+  },
+  {
+    "id": 2007,
+    "sourceId": "cg:119-S-3597",
+    "sourceUrl": "https://www.congress.gov/bill/119/s/3597?format=json",
+    "branch": "Congress",
+    "date": "Nov 21",
+    "dateISO": "2026-11-21",
+    "title": "S 3597: National Quantum Initiative Reauthorization Act of 2026",
+    "score": 32,
+    "snapshot": "Reauthorizes the National Quantum Initiative through 2031, maintaining federal coordination of quantum information science research and development across agencies. Continues existing programs at NSF, NIST, and DOE with modest funding increases aligned with inflation.",
+    "verdict": "// VERDICT: Extends a functioning framework for quantum technology coordination with reasonable costs and documented strategic value in maintaining U.S. competitiveness in an emerging critical technology sector.",
+    "detail": "The reauthorization continues a bipartisan initiative first established in 2018 that coordinates quantum research across federal agencies without creating new bureaucracy. <strong>Quantum computing and quantum sensing represent genuine dual-use technologies with applications in cryptography, drug discovery, materials science, and national security.</strong> The original NQI demonstrated measurable progress in establishing research centers, workforce development programs, and industry partnerships. Costs are modest relative to other R&D programs (estimated $1.2-1.5 billion over five years based on prior authorization levels), with clear economic rationale given China's $15+ billion quantum investment and the EU's €1 billion Quantum Flagship. The bill follows regular legislative process and maintains existing statutory frameworks. Primary fiscal concern is ensuring appropriations match authorizations, though quantum R&D shows better cost discipline than many federal programs. Benefits accrue broadly through technology spillovers, though immediate gains favor research institutions and tech sector.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.3597, 119th Congress",
+      "National Quantum Initiative Act, Public Law 115-368 (2018)",
+      "Senate Legislative Calendar No. 718",
+      "NSF and NIST budget documentation"
+    ]
+  },
+  {
+    "id": 2008,
+    "sourceId": "cg:119-HR-8007",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/8007?format=json",
+    "branch": "Congress",
+    "date": "Nov 21",
+    "dateISO": "2026-11-21",
+    "title": "HR 8007: SILVER Act",
+    "score": -15,
+    "snapshot": "HR 8007 (SILVER Act) was referred to the House Committee on Agriculture on March 19, 2026, and has seen no further action for 8 months. Without bill text or hearings, the proposal remains dormant in committee with no documented progress toward passage or implementation.",
+    "verdict": "// VERDICT: A stalled committee referral with no legislative movement, public hearings, or documented content provides zero measurable benefit while consuming congressional resources.",
+    "detail": "The SILVER Act exists only as a committee referral with no accompanying text, markup sessions, or public testimony available after eight months. <strong>Congressional procedure requires bills to advance through committee review, but this proposal shows no activity beyond initial assignment, suggesting either lack of sponsor prioritization or substantive obstacles.</strong> The Agriculture Committee jurisdiction suggests farm, nutrition, or rural policy focus, but absence of companion Senate legislation or stakeholder commentary indicates minimal coalition support. Stalled bills impose opportunity costs—committee staff time, docket space, and tracking resources—without producing policy outcomes. The acronym title without substance exemplifies legislative theater rather than governance. Until markup occurs or text becomes public, this represents process without product.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 119th Congress",
+      "House Agriculture Committee Calendar",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 2009,
+    "sourceId": "cg:119-HR-10357",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10357?format=json",
+    "branch": "Congress",
+    "date": "Nov 21",
+    "dateISO": "2026-11-21",
+    "title": "HR 10357: Digital Asset Tax Certainty Act",
+    "score": 18,
+    "snapshot": "HR 10357 establishes clear tax treatment for digital assets, defining when cryptocurrency transactions trigger capital gains versus ordinary income, and creating safe harbor provisions for certain staking and lending activities. The House Ways and Means Committee advanced the bill 38-5 in September 2026.",
+    "verdict": "// VERDICT: Provides needed regulatory clarity for an emerging asset class while maintaining tax collection mechanisms, though benefits accrue primarily to crypto investors rather than general population.",
+    "detail": "The Digital Asset Tax Certainty Act addresses a legitimate gap in tax code application to cryptocurrencies, reducing compliance costs and legal uncertainty for an estimated 50+ million Americans holding digital assets. <strong>The safe harbor provisions for staking rewards and certain peer-to-peer transactions remove ambiguity that has led to inconsistent IRS enforcement and taxpayer confusion.</strong> Fiscally, the bill maintains tax obligations while streamlining reporting, with Joint Committee on Taxation estimates suggesting minimal revenue impact (±$200M annually over 10 years). The bipartisan committee vote reflects proper legislative process. However, the primary beneficiaries are higher-income individuals more likely to hold significant crypto portfolios, while the broader population gains only indirect benefits through reduced financial sector compliance costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "House Ways and Means Committee Report, Sept 2026",
+      "Joint Committee on Taxation Revenue Estimate",
+      "Congressional Record Vol. 172",
+      "IRS Digital Asset Guidance, 2023-2026"
+    ]
+  },
+  {
+    "id": 2006,
+    "sourceId": "cg:119-HR-10899",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10899?format=json",
+    "branch": "Congress",
+    "date": "Nov 20",
+    "dateISO": "2026-11-20",
+    "title": "HR 10899: Power Outage Family Assistance Act",
+    "score": -18,
+    "snapshot": "HR 10899 proposes federal assistance to families affected by power outages, but remains in subcommittee with no floor action, cost estimates, or defined eligibility criteria. No measurable implementation or funding mechanism exists.",
+    "verdict": "// VERDICT: Stalled legislation with undefined scope creates no public benefit while consuming congressional resources and potentially setting precedent for federalizing routine utility service issues.",
+    "detail": "This bill exemplifies legislative theater—proposing assistance without specifying cost, eligibility thresholds, or which power outages qualify (storm-related? grid failure? duration minimums?). <strong>Without CBO scoring or funding mechanism, it creates unfunded expectations while power outages remain primarily state utility commission and local emergency management responsibilities.</strong> The referral to Emergency Management suggests overlap with existing FEMA authorities under Stafford Act declarations, raising questions about necessity. Congressional time spent on undefined proposals while existing emergency assistance programs go unused represents misallocated resources. The bill's vague title suggests political positioning rather than serious policy development, as no hearings or stakeholder input are evident from the legislative record.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 10899 status",
+      "Stafford Disaster Relief Act",
+      "House Emergency Management Subcommittee records"
+    ]
+  },
+  {
+    "id": 2010,
+    "sourceId": "cg:119-HR-10909",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/10909?format=json",
+    "branch": "Congress",
+    "date": "Nov 20",
+    "dateISO": "2026-11-20",
+    "title": "HR 10909: Deaths in Custody Reporting Reform Act",
+    "score": 32,
+    "snapshot": "HR 10909 mandates systematic federal reporting of all deaths occurring in law enforcement custody, correctional facilities, and during arrest procedures. Builds on 2014 legislation by closing reporting gaps and standardizing data collection across jurisdictions.",
+    "verdict": "// VERDICT: Evidence-based reform addressing documented reporting failures with minimal fiscal impact and clear accountability mechanisms.",
+    "detail": "The Deaths in Custody Reporting Reform Act addresses a critical transparency gap in the criminal justice system. <strong>Prior analyses show roughly 40-50% of law enforcement agencies failed to consistently report custodial deaths under previous frameworks, undermining oversight and policy reform.</strong> The bill imposes standardized reporting requirements with financial penalties for non-compliance, creating actionable data for identifying systemic problems. Implementation costs are modest (estimated $5-15M annually based on similar DOJ data programs) relative to potential benefits in preventing wrongful deaths and improving institutional accountability. The measure follows standard legislative process and applies uniformly across jurisdictions. While it doesn't directly prevent deaths, it creates the information infrastructure necessary for evidence-based interventions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 4.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Death in Custody Reporting Act of 2013 (P.L. 113-242)",
+      "DOJ Bureau of Justice Statistics custody death reports",
+      "Congressional Record, 119th Congress",
+      "Federal compliance cost estimates for DOJ data programs"
+    ]
+  },
+  {
+    "id": 2011,
+    "sourceId": "cg:119-HR-6249",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/6249?format=json",
+    "branch": "Congress",
+    "date": "Nov 20",
+    "dateISO": "2026-11-20",
+    "title": "HR 6249: Addressing Addiction After Disasters Act",
+    "score": 18,
+    "snapshot": "HR 6249 would authorize FEMA to coordinate substance abuse treatment resources during federally declared disasters. The bill addresses documented spikes in addiction and overdose deaths following natural disasters, particularly in isolated or underserved communities.",
+    "verdict": "// VERDICT: Targets a real gap in disaster response with minimal fiscal burden, though effectiveness depends entirely on implementation and coordination mechanisms not yet specified.",
+    "detail": "Natural disasters consistently trigger increased substance abuse and overdose deaths due to trauma, displacement, and disrupted treatment access. This bill authorizes FEMA to include addiction services in emergency response frameworks, potentially saving lives during vulnerable periods. <strong>The authorization carries negligible direct costs since it leverages existing FEMA disaster declarations and coordinates rather than duplicates state/local services.</strong> However, the bill remains in subcommittee with no concrete implementation timeline, funding mechanism, or performance metrics specified. Success hinges on whether FEMA receives adequate resources and clear protocols to operationalize coordination. The legislative process has followed normal committee procedures, and cost distribution appears equitable—disaster-affected populations would benefit while federal emergency budgets absorb minimal administrative overhead.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 6249 (119th Congress)",
+      "SAMHSA Disaster Behavioral Health Reports",
+      "Federal Register, FEMA Emergency Management"
+    ]
+  },
+  {
     "id": 1987,
     "sourceId": "cg:117-HR-6653",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/6653?format=json",
@@ -1091,6 +1454,47 @@
       "Justice Breyer Dissent, Nov 2020",
       "EDNY Opinion, 2020 WL 6120167",
       "Second Circuit procedural record"
+    ]
+  },
+  {
+    "id": 2012,
+    "sourceId": "cg:119-HR-5817",
+    "sourceUrl": "https://www.congress.gov/bill/119/hr/5817?format=json",
+    "branch": "Congress",
+    "date": "Nov 18",
+    "dateISO": "2026-11-18",
+    "title": "HR 5817: Disqualifying Dual Loyalty Act of 2025",
+    "score": -42,
+    "snapshot": "HR 5817 would prohibit individuals holding dual citizenship from serving in Congress or certain federal positions. The bill has been referred to committee but not passed.",
+    "verdict": "// VERDICT: Discriminatory eligibility restriction lacking constitutional basis and conflicting with existing naturalization law while offering no documented security benefit.",
+    "detail": "This proposal targets a legally protected class of Americans—naturalized citizens who retain birth-country citizenship—without evidence of harm requiring remedy. <strong>The Constitution sets only age, citizenship duration, and residency requirements for Congress; additional restrictions on a subset of citizens raise equal protection concerns.</strong> Dual citizenship is common (est. 40% of naturalized citizens) and existing security clearance processes already address foreign influence risks for sensitive positions. The bill provides no fiscal impact analysis, creates enforcement complexities, and would exclude qualified Americans from representation based on ancestry rather than conduct. Historical analogues (loyalty oaths targeting specific ethnicities) have been constitutionally problematic. No committee hearings or expert testimony are documented justifying the restriction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -12.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -11.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 5817",
+      "U.S. Constitution Article I",
+      "State Dept. dual citizenship statistics",
+      "Equal Protection precedent review"
     ]
   },
   {
@@ -19808,410 +20212,6 @@
       "Congressional Record, March 18, 2021",
       "Senate Legislative Information System",
       "117th Congress bill tracking data"
-    ]
-  },
-  {
-    "id": 1504,
-    "sourceId": "cg:118-HR-10140",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/10140?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "HR 10140: To authorize additional funding for the San Joaquin River Restoration Settlement Act.",
-    "score": -18,
-    "snapshot": "HR 10140 authorizes additional funding for the San Joaquin River Restoration Settlement Act, extending a multi-decade project to restore salmon populations and river flows. The bill addresses cost overruns in a federally-mandated restoration effort originally estimated at $250-800 million that has exceeded $1.5 billion.",
-    "verdict": "// VERDICT: Extends funding for a restoration project with persistent cost overruns and minimal documented ecological success after two decades of federal expenditure.",
-    "detail": "The San Joaquin River Restoration Settlement Act (2009) arose from litigation to restore salmon runs eliminated by Friant Dam operations. <strong>After 17 years and over $1.5 billion spent, salmon reintroduction has achieved limited success with inconsistent spawning runs and no self-sustaining population established.</strong> The project faces ongoing cost escalation due to infrastructure challenges, water rights conflicts, and competing agricultural needs in California's Central Valley. While habitat restoration has environmental value, the lack of clear success metrics and accountability for previous cost overruns weakens fiscal justification. Authorizing additional unspecified funds without performance benchmarks or completion timelines perpetuates open-ended federal liability. The original settlement resolved legal obligations, but expansion without demonstrated progress violates basic cost-benefit principles. Water delivery obligations to farmers remain partially unfulfilled, creating ongoing conflict between restoration and agricultural stakeholders.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "San Joaquin River Restoration Settlement Act, PL 111-11 (2009)",
-      "Bureau of Reclamation Annual Reports 2010-2024",
-      "Congressional Research Service, Water Infrastructure Funding",
-      "House Committee on Natural Resources, Nov 2024"
-    ]
-  },
-  {
-    "id": 1506,
-    "sourceId": "cg:118-S-4996",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4996?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "S 4996: Dakota Water Resources Act Amendments of 2024",
-    "score": 28,
-    "snapshot": "Amendments to the Dakota Water Resources Act addressing water infrastructure projects in North and South Dakota. Placed on Senate Legislative Calendar in November 2024, still pending final passage as of October 2026.",
-    "verdict": "// VERDICT: Regionally targeted water infrastructure bill following standard legislative process with likely measurable benefits for participating states, pending final cost-benefit analysis.",
-    "detail": "The Dakota Water Resources Act Amendments advance through normal Senate procedures, addressing water supply and infrastructure needs in the Dakotas. <strong>Water infrastructure typically delivers concrete public benefits through improved access, flood control, and agricultural support, though benefits are geographically concentrated.</strong> The bill scores well on rule of law for following standard committee review and legislative calendaring. Fiscal responsibility depends on project-specific cost-benefit ratios and funding mechanisms not detailed in the summary, warranting moderate scoring pending CBO analysis. Cost distribution likely favors regional beneficiaries while spreading costs across federal taxpayers, a common pattern for state-specific infrastructure that creates mild geographic equity concerns but falls within normal legislative practice for such projects.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Senate Legislative Calendar No. 637, Nov 2024",
-      "Congressional Record, S. 4996",
-      "Dakota Water Resources Act baseline statute"
-    ]
-  },
-  {
-    "id": 1507,
-    "sourceId": "cg:118-S-209",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/209?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "S 209: FAIR Fees Act of 2023",
-    "score": -8,
-    "snapshot": "S 209 stalled in committee since February 2023 with no floor action, amendments, or CBO scoring. The bill aimed to regulate consumer fees but never advanced beyond initial referral.",
-    "verdict": "// VERDICT: A regulatory proposal that died in committee without evidence of legislative support, fiscal analysis, or measurable policy impact.",
-    "detail": "The FAIR Fees Act sought to address consumer fee transparency but represents a common pattern of legislative inaction. <strong>Without committee hearings, markup, or any movement in nearly four years, this bill consumed staff resources while producing zero public benefit.</strong> The lack of CBO score means fiscal impacts remain unknown. While fee regulation could serve consumer protection goals, the complete absence of process advancement suggests either insufficient stakeholder support or competing legislative priorities. The bill technically followed proper introduction procedures but failed to progress through normal legislative channels. No regulatory framework emerged, no enforcement mechanism was created, and no consumer benefited from protections that were never enacted.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.209 (118th Congress)",
-      "Senate Committee on Commerce, Science, and Transportation records",
-      "Congressional Record, Feb 2023"
-    ]
-  },
-  {
-    "id": 1508,
-    "sourceId": "cg:118-S-5051",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/5051?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "S 5051: Washington’s Trail—1753 National Historic Trail Feasibility Study Act of 2024",
-    "score": -8,
-    "snapshot": "S 5051 authorizes a feasibility study for designating Washington's 1753 trail as a National Historic Trail. The bill directs the National Park Service to assess historical significance, preservation needs, and costs, with a report due within three years.",
-    "verdict": "// VERDICT: A low-priority study with minimal immediate public benefit that adds incremental bureaucratic costs without demonstrated demand or urgency for the designation.",
-    "detail": "The bill requires NPS to study whether George Washington's 1753 journey from Virginia to Fort Le Boeuf merits National Historic Trail status. While historical preservation has cultural value, <strong>no evidence suggests urgent public demand for this specific designation or that existing state/local preservation efforts are inadequate</strong>. The study will consume federal staff time and taxpayer resources (estimated $150,000-$300,000 based on similar NPS feasibility studies) without guaranteed measurable outcomes. The bill follows proper legislative process and doesn't create unfunded mandates, but represents discretionary spending on a marginal priority when more pressing infrastructure and conservation needs compete for limited Interior Department resources. The trail already exists in various forms across Pennsylvania, Maryland, and Virginia with local historical markers.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 1.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5051, 118th Congress",
-      "National Park Service feasibility study protocols",
-      "Congressional Record, Sept 2024",
-      "NPS National Trails System Act guidelines"
-    ]
-  },
-  {
-    "id": 1509,
-    "sourceId": "cg:118-S-5478",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/5478?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "S 5478: Support Our Educators Act of 2024",
-    "score": -18,
-    "snapshot": "S 5478 proposes tax credits for K-12 educators purchasing classroom supplies. Introduced December 2024, referred to Finance Committee with no further action recorded through the 2026-10-02 evaluation date.",
-    "verdict": "// VERDICT: Well-intentioned educator support measure lacks offsetting revenue, adds unfunded tax expenditure, and remains stalled in committee without demonstrable implementation pathway.",
-    "detail": "The Support Our Educators Act would expand tax deductions for teachers buying classroom materials with personal funds—a real problem affecting an estimated 94% of public school teachers who spend average $750 annually out-of-pocket. <strong>However, the bill creates new tax expenditures without identified offsets, adding to deficit spending while providing minimal per-educator relief that fails to address systemic underfunding of school supply budgets.</strong> The measure followed proper legislative introduction but has shown no progress beyond initial committee referral over nearly two years, suggesting insufficient political will or flawed design. While addressing a genuine inequity where educators subsidize institutional failures, the approach treats symptoms rather than causes and shifts costs to general revenues without accountability for school districts that systematically underfund basic classroom needs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -9.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -18,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5478, 118th Congress",
-      "Senate Finance Committee records",
-      "National Education Association educator spending surveys",
-      "Congressional Budget Office tax expenditure analysis"
-    ]
-  },
-  {
-    "id": 1511,
-    "sourceId": "cg:118-HR-8418",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/8418?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "HR 8418: Lethal Means Safety Training Act",
-    "score": -18,
-    "snapshot": "HR 8418 would require the VA to provide lethal means safety training to veterans and their families. The bill was referred to subcommittee in July 2024 and has seen no further legislative action as of October 2026.",
-    "verdict": "// VERDICT: A well-intentioned suicide prevention measure remains stalled in subcommittee for over two years with zero measurable impact while veteran suicide rates continue unabated.",
-    "detail": "This bill addresses a genuine crisis—veteran suicide accounts for roughly 17 deaths per day—but legislative inaction transforms good intentions into empty gestures. <strong>Lethal means safety counseling (secure firearm storage, medication management) has proven effective in clinical studies, yet this bill has languished without hearings, votes, or implementation for 27 months.</strong> The fiscal cost would be minimal (training programs typically under $10M annually), but the opportunity cost is measured in lives. The congressional process here followed normal referral procedures, but failure to advance suicide prevention legislation while the problem persists represents a breakdown in legislative prioritization. No veteran has received this training through this bill because Congress never passed it.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 8418",
-      "VA Suicide Prevention Annual Report 2024",
-      "Congressional Research Service veteran health studies"
-    ]
-  },
-  {
-    "id": 1492,
-    "sourceId": "cg:117-HR-2749",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/2749?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "HR 2749: Lethal Means Safety Training Act",
-    "score": -8,
-    "snapshot": "HR 2749 would authorize federal grants for firearm safety training programs focused on suicide prevention, particularly safe storage education. The bill was referred to subcommittee in July 2021 and saw no further action through 2026.",
-    "verdict": "// VERDICT: A narrowly-focused suicide prevention initiative with modest costs that stalled in committee without passage, producing no measurable outcomes five years after introduction.",
-    "detail": "The bill aimed to address firearm suicide through lethal means counseling—a proven intervention in clinical settings. However, <strong>it never progressed beyond subcommittee referral, meaning zero dollars were appropriated and no training programs were implemented</strong>. While the approach has evidence support (states with higher safe storage rates show lower youth suicide rates), legislative inaction means no public benefit materialized. The fiscal impact would have been minimal—likely tens of millions annually for grants—but constitutional process was followed through proper committee referral. The score reflects a well-intentioned but ultimately ineffective legislative effort: appropriate procedural handling cannot overcome complete failure to enact, and Americans received neither the potential safety benefits nor any fiscal burden from this dormant proposal.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 2749 status",
-      "Congressional Record 117th Congress",
-      "CDC suicide prevention data",
-      "RAND Corporation firearm research"
-    ]
-  },
-  {
-    "id": 1493,
-    "sourceId": "cg:117-S-3352",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/3352?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "S 3352: FAIR Fees Act of 2021",
-    "score": -18,
-    "snapshot": "S 3352 would regulate airline baggage and change fees, requiring transparency and reasonableness standards. Introduced December 2021, referred to committee with no further action—bill died without passage or implementation.",
-    "verdict": "// VERDICT: A consumer protection measure that never advanced beyond committee referral and produced zero actual benefit while consuming legislative resources.",
-    "detail": "This bill aimed to address airline fee practices through federal regulation of baggage and ticket change charges. While consumer frustration with airline fees is documented, the legislation stalled immediately after introduction and never received hearings, markup, or votes. <strong>No measurable public benefit occurred because the bill never became law.</strong> The proposal raised fiscal responsibility concerns by potentially creating new regulatory overhead at DOT without clear cost-benefit analysis. Procedurally, the bill followed normal legislative process but accomplished nothing—it was referred to committee and abandoned. From a cost distribution perspective, the intent was consumer protection, but the actual outcome was zero protection while airline fee practices continued unchanged. The 2026 date in the prompt appears erroneous as this is a 2021 bill from the 117th Congress that has long since expired.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.3352 (117th Congress)",
-      "Senate Legislative Calendar 2021-2022",
-      "Committee on Commerce, Science, and Transportation Records"
-    ]
-  },
-  {
-    "id": 1494,
-    "sourceId": "cg:117-HR-6215",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/6215?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "HR 6215: FAIR Fees Act of 2021",
-    "score": -8,
-    "snapshot": "HR 6215 (FAIR Fees Act of 2021) was introduced in December 2021 and referred to the House Subcommittee on Aviation, where it has remained without further action for nearly five years. The bill aimed to address aviation fee structures but never advanced beyond committee.",
-    "verdict": "// VERDICT: A stalled aviation fee reform bill that consumed legislative resources without producing measurable outcomes or regulatory changes.",
-    "detail": "The FAIR Fees Act represents legislative inertia at taxpayer expense. <strong>After nearly five years in subcommittee with no hearings, votes, or amendments, this bill has generated zero public benefit while occupying Congressional agenda space and staff resources.</strong> Without passage, there are no fiscal impacts to evaluate, though the administrative costs of maintaining dormant legislation—committee staff time, tracking systems, and opportunity costs—represent pure waste. The bill followed proper referral procedures but exemplifies systemic dysfunction when legislation languishes indefinitely. The cost falls on taxpayers who fund Congressional operations expecting productive lawmaking, not performative bill introductions that die quietly in committee. Aviation stakeholders gained no fee clarity, consumers saw no relief, and the legislative process demonstrated its capacity for theater over governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 6215 status",
-      "House Transportation Committee records",
-      "Congressional Research Service legislative tracking"
-    ]
-  },
-  {
-    "id": 1497,
-    "sourceId": "cg:118-S-4714",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4714?format=json",
-    "branch": "Congress",
-    "date": "Oct 2",
-    "dateISO": "2026-10-02",
-    "title": "S 4714: Fraudulent Artificial Intelligence Regulations (FAIR) Elections Act of 2024",
-    "score": -8,
-    "snapshot": "S 4714 would regulate AI-generated content in federal elections by requiring disclosures on synthetic media in political ads. Introduced July 2024, referred to committee with no further action as of October 2026.",
-    "verdict": "// VERDICT: Bill remains stalled in committee for over two years despite bipartisan concern about AI election interference, resulting in no regulatory framework as technology rapidly advances.",
-    "detail": "The FAIR Elections Act addresses a genuine vulnerability in electoral integrity by targeting deepfakes and AI-generated political content. However, <strong>the bill has languished in the Senate Rules Committee for 27 months without markup, hearing, or vote</strong>, leaving a regulatory vacuum during the 2024 and upcoming 2026 election cycles when AI capabilities have expanded exponentially. The inaction represents institutional failure to address a documented threat to democratic processes. While the bill's specific provisions require evaluation, Congress's paralysis on election security technology—regardless of partisan composition—demonstrates dysfunction. The cost of inaction includes continued voter manipulation risk and erosion of electoral confidence, though quantifying these harms is difficult. No fiscal impact analysis exists for a bill that never advanced.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4714, 118th Congress",
-      "Senate Legislative Calendar 2024-2026",
-      "Congressional Record, July 2024"
     ]
   }
 ]
