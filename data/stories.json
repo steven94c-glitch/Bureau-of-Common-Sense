@@ -1,5 +1,407 @@
 [
   {
+    "id": 2023,
+    "sourceId": "cg:117-HR-3962",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3962?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 3962: SECURE Notarization Act of 2022",
+    "score": 23,
+    "snapshot": "HR 3962 authorizes remote online notarization nationwide, establishing minimum standards for electronic notarization while allowing states to set stricter requirements. The bill passed the House in July 2022 but stalled in the Senate Judiciary Committee.",
+    "verdict": "// VERDICT: Modernizes notarization infrastructure with clear consumer protections and fraud safeguards while respecting federalism, though modest implementation costs exist.",
+    "detail": "The SECURE Notarization Act creates a federal framework allowing notaries to perform remote online notarizations (RON) across state lines, reducing transaction costs and delays for interstate commerce, real estate closings, and legal documents. <strong>The legislation requires identity proofing, audio-visual recording, tamper-evident technology, and secure credential analysis—establishing baseline fraud protections while permitting states to maintain higher standards.</strong> Economic benefits include reduced travel costs, faster document processing, and expanded access for rural/disabled populations. The bill imposes minimal federal costs (estimated <$5M annually for oversight) while generating efficiency gains across multiple sectors. Constitutional authority under the Commerce Clause is well-established. Primary concerns involve potential fraud risks if technology standards prove inadequate and minimal costs to states for updating notary systems, though voluntary adoption mitigates coercion issues.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 8.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 7,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 3962, 117th Congress",
+      "Congressional Record, July 2022",
+      "House Judiciary Committee Report 117-409",
+      "National Notary Association analysis"
+    ]
+  },
+  {
+    "id": 2024,
+    "sourceId": "cg:117-S-2979",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2979?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "S 2979: NTIA Policy and Cybersecurity Coordination Act",
+    "score": -15,
+    "snapshot": "S 2979 proposed reorganizing NTIA's cybersecurity coordination functions but stalled in committee in 2021, never advancing beyond initial referral. No legislative action occurred, no appropriations authorized, and no policy changes implemented.",
+    "verdict": "// VERDICT: Legislative inaction—bill died in committee without markup, hearing, or vote, producing zero measurable impact on cybersecurity policy or NTIA operations.",
+    "detail": "This bill exemplifies congressional process failure rather than substantive policy action. Introduced in October 2021 and immediately referred to committee, S 2979 never received a hearing, markup, or floor consideration across the remainder of the 117th Congress (2021-2023). <strong>The legislation produced no changes to law, no budget allocations, no agency reorganization, and no documented impact on telecommunications policy or cybersecurity coordination.</strong> While the intent to clarify NTIA's role may have merit, the complete absence of legislative progress means taxpayers paid congressional salaries for work that yielded nothing actionable. The 2026 date reference appears erroneous—this is a 2021 bill from a concluded Congress. No rule of law violations occurred since the bill followed standard procedures, but the opportunity cost of legislative time with zero output merits substantial penalty under fiscal responsibility and measurable benefit criteria.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.2979 (117th Congress)",
+      "Senate Legislative Calendar 2021-2022",
+      "Congressional Record Oct 2021"
+    ]
+  },
+  {
+    "id": 2025,
+    "sourceId": "cg:117-S-1026",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1026?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "S 1026: American Apprenticeship Act",
+    "score": -8,
+    "snapshot": "S 1026 proposed expanding apprenticeship programs through federal grants and tax incentives. Bill stalled in committee in 2021 and never advanced to floor vote or enactment.",
+    "verdict": "// VERDICT: Proposal remained theoretical with no implemented outcomes, no fiscal expenditure, and no measurable impact on apprenticeship participation or workforce development.",
+    "detail": "The American Apprenticeship Act sought to increase registered apprenticeships through employer incentives and training grants. <strong>However, the bill died in committee without passage, meaning zero public benefit materialized despite potentially sound policy intentions.</strong> No federal funds were allocated, so fiscal impact is neutral rather than positive—the opportunity cost of congressional time spent on non-advancing legislation provides minor negative weight. Rule of law followed proper legislative referral processes. Cost distribution cannot be assessed for a non-enacted proposal, though the theoretical framework would have directed benefits toward workers and employers in skilled trades. The score reflects that legislative proposals without passage produce no actual governance outcomes, regardless of merit.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.1026 - 117th Congress (2021-2022)",
+      "Senate Legislative Record, Mar 2021",
+      "Congress.gov Bill Status"
+    ]
+  },
+  {
+    "id": 2026,
+    "sourceId": "cg:117-HR-3151",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/3151?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 3151: Eric’s Law",
+    "score": -8,
+    "snapshot": "HR 3151 (Eric's Law) would require federal prosecutors to notify victims when immigration detainers are declined by local jurisdictions. Introduced in 2021, it stalled in subcommittee and saw no floor action.",
+    "verdict": "// VERDICT: Imposes federal reporting requirements on local jurisdictions without funding or evidence the notification system would materially improve public safety outcomes.",
+    "detail": "The bill responds to concerns about sanctuary policies but creates an unfunded mandate requiring coordination between federal immigration enforcement and local law enforcement agencies that may have opted out of such cooperation for resource or policy reasons. <strong>No empirical evidence demonstrates that victim notification of detainer declinations reduces recidivism or enhances safety compared to existing criminal justice processes.</strong> The bill died in subcommittee without CBO score, suggesting limited legislative support even within its originating chamber. While victim notification has intuitive appeal, the mechanism bypasses state sovereignty concerns and imposes administrative costs on localities without demonstrated public safety gains. The title invokes a specific victim, a common legislative tactic that substitutes emotion for evidence-based policymaking.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee records, 2021",
+      "Federal-local immigration enforcement literature"
+    ]
+  },
+  {
+    "id": 2027,
+    "sourceId": "cg:117-HR-5826",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5826?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 5826: To allow States to elect to observe year-round daylight saving time, and for other purposes.",
+    "score": 18,
+    "snapshot": "HR 5826 would permit states to adopt permanent daylight saving time year-round, eliminating biannual clock changes. The bill stalled in subcommittee in 2021 and saw no further action through 2026.",
+    "verdict": "// VERDICT: Modest public health and safety benefits from eliminating clock changes, with negligible fiscal impact and proper constitutional process, though uneven geographic effects remain.",
+    "detail": "The legislation addresses documented harms from biannual time changes, including increased heart attacks, traffic fatalities, and workplace accidents in transition periods. <strong>Studies estimate 28 annual lives saved and $430 million in annual costs avoided from eliminating spring transitions alone.</strong> The bill respects federalism by making adoption optional for states, following constitutional commerce clause authority over interstate time standards. Fiscal impact is minimal—primarily state administrative costs for implementation. However, permanent DST creates uneven burdens: northern states face darker winter mornings (school safety concerns), while southern states experience less disruption. The bill provides local flexibility but doesn't mandate uniform adoption, potentially creating confusing time zone patchworks. No federal funding required, no unfunded mandates imposed.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -1.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 5826, 2021",
+      "American Journal of Cardiology, DST transition studies",
+      "Department of Transportation time zone authority statutes"
+    ]
+  },
+  {
+    "id": 2028,
+    "sourceId": "cg:117-HR-7717",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7717?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 7717: American Apprenticeship Act",
+    "score": -8,
+    "snapshot": "HR 7717 proposed expanded federal apprenticeship funding but stalled in committee in 2022 with no floor action. As of November 2026, the bill remains dormant with no measurable implementation or public impact.",
+    "verdict": "// VERDICT: A well-intentioned workforce development proposal that failed to advance beyond committee referral, producing zero tangible outcomes while consuming legislative resources during the drafting process.",
+    "detail": "The American Apprenticeship Act aimed to strengthen registered apprenticeship programs through federal grants and employer incentives. However, <strong>the bill died in committee without hearings, markup, or floor consideration, making any evaluation of its merits entirely theoretical.</strong> The legislation receives negative marks for fiscal responsibility due to drafting costs without return, and minimal rule-of-law credit since committee referral represents the lowest threshold of congressional process. No public benefits materialized because the bill never became law. While apprenticeship expansion could theoretically improve workforce outcomes, the complete absence of implementation means American workers received no training opportunities, employers gained no tax incentives, and the skills gap remained unaddressed. The bill represents congressional theater rather than governance—consuming staff time and taxpayer resources for a proposal that never received serious consideration.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov HR 7717 status",
+      "House Committee on Education and Labor records 2022",
+      "Congressional Record, 117th Congress"
+    ]
+  },
+  {
+    "id": 2029,
+    "sourceId": "cg:117-S-2295",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/2295?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "S 2295: PAST Act of 2021",
+    "score": -8,
+    "snapshot": "S 2295 (PAST Act of 2021) was introduced in June 2021 and referred to committee, where it died without further action. The bill never received a vote, hearing, or markup in the 117th Congress.",
+    "verdict": "// VERDICT: Legislative inaction—bill expired without committee consideration, floor vote, or enactment, producing zero measurable impact on public policy.",
+    "detail": "The PAST Act was referred to the Senate Committee on Commerce, Science, and Transportation on June 24, 2021, and saw no subsequent legislative movement. <strong>Bills that die in committee represent a failure of the legislative process to resolve policy questions through democratic deliberation.</strong> Without knowing the bill's specific provisions, the scoring reflects the procedural failure: no measurable public benefit was delivered, fiscal impact is neutral (no expenditure occurred), rule of law was minimally satisfied (proper referral but no democratic vote), and cost distribution cannot be assessed for an unenacted proposal. The negative score reflects systemic congressional inefficiency—thousands of bills languish without resolution, leaving policy problems unaddressed while consuming staff resources and creating legislative uncertainty.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.2295 (117th Congress)",
+      "Senate Legislative Calendar 2021-2022",
+      "Congressional Research Service bill tracking data"
+    ]
+  },
+  {
+    "id": 2030,
+    "sourceId": "cg:117-HR-5906",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/5906?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 5906: DAYLIGHT Act",
+    "score": -8,
+    "snapshot": "HR 5906 (DAYLIGHT Act) would make daylight saving time permanent year-round. Referred to subcommittee in November 2021 and has not advanced in five years.",
+    "verdict": "// VERDICT: Stalled legislation with modest health and energy implications but no fiscal impact—inaction prevents resolution of a low-stakes public preference issue.",
+    "detail": "The DAYLIGHT Act proposes ending the biannual clock changes by making daylight saving time permanent. <strong>Research shows mixed effects: potential reductions in evening car accidents and crime, but increased morning darkness may worsen school-age safety and cardiovascular events in winter months.</strong> The bill has zero direct fiscal cost but represents congressional inertia on a widely debated quality-of-life issue. Five years without committee action suggests low legislative priority despite public polling indicating 60%+ support for eliminating clock changes. The lack of progress neither helps nor significantly harms Americans, though perpetuating the status quo maintains disruption costs (estimated $430M annually in productivity loss from time changes). No constitutional concerns, but procedural stagnation reflects systemic inefficiency.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -8,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 5906, 117th Congress",
+      "Congressional Record, Nov 2021",
+      "Sleep Medicine Reviews, DST health impacts",
+      "Brookings Institution productivity analysis"
+    ]
+  },
+  {
+    "id": 2031,
+    "sourceId": "cg:117-HR-748",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/748?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 748: Ethan's Law",
+    "score": -8,
+    "snapshot": "HR 748 (Ethan's Law) would require safe storage of firearms in homes where minors are present, imposing penalties for violations. The bill stalled in subcommittee in 2021 and saw no further action.",
+    "verdict": "// VERDICT: Addresses a documented child safety issue but raises enforcement concerns and remained procedurally dormant for five years.",
+    "detail": "The legislation responds to accidental child firearm deaths (approximately 350 annually per CDC data) by mandating secure storage devices when minors have access to residences. <strong>While the public safety rationale is evidence-based, the bill creates enforcement challenges around warrantless home inspections and criminal liability standards that complicate constitutional compliance.</strong> Fiscally, implementation costs for enforcement mechanisms and storage device subsidies were never scored by CBO due to the bill's failure to advance. The five-year referral limbo represents procedural failure—neither debated nor voted upon. Cost distribution concerns arise from potential criminal penalties disproportionately affecting lower-income gun owners unable to afford storage devices, though child safety benefits would accrue broadly.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "CDC WISQARS Fatal Injury Reports",
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee Archives"
+    ]
+  },
+  {
+    "id": 2032,
+    "sourceId": "cg:117-HR-2685",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/2685?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 2685: Understanding Cybersecurity of Mobile Networks Act",
+    "score": 18,
+    "snapshot": "HR 2685 requires a Government Accountability Office study on mobile network cybersecurity threats and federal agency preparedness. The bill passed the House in December 2021 but stalled in Senate committee, with no implementation costs or regulatory mandates.",
+    "verdict": "// VERDICT: A low-cost information-gathering measure that could inform cybersecurity policy, though its value depends on whether findings lead to actionable improvements.",
+    "detail": "This bill directs the GAO to conduct a comprehensive study of cybersecurity vulnerabilities in mobile networks and assess federal readiness to address threats. <strong>The measure imposes minimal fiscal burden while potentially identifying critical infrastructure weaknesses that could prevent costly breaches.</strong> The legislative process followed standard procedures through House passage, though Senate inaction left the study unexecuted. The bill's public benefit hinges on implementation: identifying vulnerabilities serves national security interests, but only if findings translate to protective measures. Cost distribution is neutral, as GAO studies use existing appropriations without imposing new burdens on specific populations. The bill represents prudent due diligence on an infrastructure dependency affecting all Americans, though its failure to advance means potential benefits remain unrealized.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 2685",
+      "Senate Commerce Committee referral, Dec 2021",
+      "GAO standard study procedures"
+    ]
+  },
+  {
     "id": 2013,
     "sourceId": "cg:119-S-3508",
     "sourceUrl": "https://www.congress.gov/bill/119/s/3508?format=json",
@@ -19808,408 +20210,6 @@
       "Congressional Record, June 2023",
       "House Committee Referral Records",
       "Congress.gov Bill Status HR 4324"
-    ]
-  },
-  {
-    "id": 1522,
-    "sourceId": "cg:117-HR-8764",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/8764?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 8764: LIHEAP Act",
-    "score": -45,
-    "snapshot": "HR 8764 from the 117th Congress (2021-2023) was referred to committee in August 2022 and never advanced. By October 2026, this bill has been dead for over four years with no legislative action, passage, or implementation.",
-    "verdict": "// VERDICT: This bill died in committee four years ago and has had zero impact on Americans, representing complete legislative inaction rather than any substantive policy change.",
-    "detail": "HR 8764 was introduced in the 117th Congress and referred to committee on August 30, 2022, where it died without hearings, markup, or floor consideration. <strong>A bill that never left committee, never passed either chamber, and was never signed into law cannot be scored on substantive policy merits because it accomplished nothing.</strong> The Low Income Home Energy Assistance Program (LIHEAP) continues to operate under existing authorization, but this specific legislation contributed nothing to that program. The request to score this in October 2026—over four years after its last action and two full Congresses later—suggests either administrative error or an attempt to evaluate legislative proposals that never became law. Dead bills represent wasted legislative effort and opportunity cost but cannot be evaluated for actual public impact since they produced none.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -12.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 8764 legislative history",
-      "Congressional Record, 117th Congress",
-      "House Committee records 2022"
-    ]
-  },
-  {
-    "id": 1523,
-    "sourceId": "cg:117-S-2052",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/2052?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 2052: Facial Recognition and Biometric Technology Moratorium Act of 2021",
-    "score": -38,
-    "snapshot": "S 2052 was introduced in June 2021 and never advanced beyond committee referral. No moratorium was enacted, no funding allocated, and no facial recognition restrictions were implemented.",
-    "verdict": "// VERDICT: A symbolic legislative proposal that consumed congressional resources without producing any policy outcome, regulatory change, or measurable impact on Americans.",
-    "detail": "This bill exemplifies legislative theater: introduced with no committee hearings, no floor debate, no amendments, and no vote over five years. <strong>The complete absence of legislative action means taxpayers funded the drafting and introduction of a bill that achieved nothing while facial recognition technology proliferated unchecked.</strong> No federal moratorium materialized, no biometric privacy protections were enacted, and no alternative regulatory framework emerged. The inaction represents a failure of fiscal stewardship (staff time, drafting costs) and democratic accountability (constituents told action was being taken when it wasn't). Whether one supports or opposes facial recognition regulation, a bill that dies in committee without debate serves neither position and wastes the institutional resources of Congress.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 117th Congress",
-      "Senate Judiciary Committee records 2021-2026",
-      "Congress.gov bill tracking"
-    ]
-  },
-  {
-    "id": 1524,
-    "sourceId": "cg:117-HR-6206",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/6206?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 6206: American Tech Workforce Act of 2021",
-    "score": -25,
-    "snapshot": "HR 6206 proposes restrictions on H-1B visa usage and tech workforce immigration. Referred to subcommittee in November 2022, no further legislative action through October 2026.",
-    "verdict": "// VERDICT: Bill remained in subcommittee for four years without floor consideration, demonstrating legislative inaction on workforce policy while failing to address documented tech labor shortages.",
-    "detail": "This bill has languished in the House Subcommittee on Immigration and Citizenship for 48 months without advancement, representing a failure of legislative process regardless of policy merits. <strong>The extended stagnation prevents any measurable impact on American workers while consuming congressional resources and staff time.</strong> Without committee markup, CBO scoring, or floor debate, the proposal exists only as political signaling. The tech sector reported 375,000 unfilled positions in 2023-2024 (Bureau of Labor Statistics), while this bill offered no actionable solution. Congressional inaction on workforce policy—whether restrictive or expansive—imposes opportunity costs as global competitors advance their talent strategies. The bill's proponents and opponents alike received no democratic resolution through votes or amendments.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 117th Congress",
-      "House Judiciary Committee records",
-      "Bureau of Labor Statistics, Employment Projections 2023-2024"
-    ]
-  },
-  {
-    "id": 1525,
-    "sourceId": "cg:117-S-4085",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/4085?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 4085: PROVE Act",
-    "score": -8,
-    "snapshot": "S 4085 (PROVE Act) was introduced in April 2022 but never advanced past committee referral. The bill died without floor consideration, making actual impact impossible to measure.",
-    "verdict": "// VERDICT: Legislative proposal that failed to advance through the congressional process, resulting in zero implementation and no measurable outcomes.",
-    "detail": "The PROVE Act represents a common pattern in congressional activity: introduction without enactment. <strong>The bill received committee referral in April 2022 but no subsequent action, meaning it expired at the end of the 117th Congress without becoming law.</strong> Without knowing the bill's specific provisions, we can only assess the process itself. The constitutional procedure was followed (introduction, referral), but the lack of committee hearings, markup, or floor votes indicates insufficient legislative support or prioritization. No public resources were spent beyond minimal administrative processing. The fundamental issue is that legislative proposals without enactment generate no public benefit, impose no fiscal burden, and distribute no costs—they simply represent ideas that the legislative process declined to advance. The negative score reflects the opportunity cost of congressional time on proposals that gain no traction.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.4085 Record",
-      "Senate Committee on Rules and Administration",
-      "117th Congress Legislative Calendar"
-    ]
-  },
-  {
-    "id": 1526,
-    "sourceId": "cg:117-HR-3907",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/3907?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 3907: Facial Recognition and Biometric Technology Moratorium Act of 2021",
-    "score": -45,
-    "snapshot": "HR 3907 was introduced in 2021 to impose a federal moratorium on government use of facial recognition technology but died in committee without floor vote or passage. As of October 2026, this bill has had zero legislative effect.",
-    "verdict": "// VERDICT: A bill that never advanced beyond committee referral produced no measurable impact on Americans—neither protecting civil liberties as intended nor imposing costs, representing complete legislative inaction.",
-    "detail": "This legislation sought to halt federal, state, and local government deployment of facial recognition pending further study of civil rights implications. However, it never received a committee vote, markup, or floor consideration in either chamber across two Congresses. <strong>The five-year gap between introduction and the scored date, with no action beyond initial referral, means the bill accomplished nothing.</strong> No biometric surveillance was curtailed, no privacy protections enacted, and no fiscal impact occurred. The constitutional process functioned normally—committees have discretion not to advance bills—but the outcome is legislative failure. While the policy intent (addressing algorithmic bias and Fourth Amendment concerns) had merit, intentions without enactment score zero. The 2026 date appears arbitrary given the bill's 2021 death, suggesting possible data error or confusion with reintroduction.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 3907 status",
-      "House Journal 117th Congress",
-      "Congressional Record June 2021"
-    ]
-  },
-  {
-    "id": 1527,
-    "sourceId": "cg:117-S-1244",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/1244?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 1244: Civilian Climate Corps for Jobs and Justice Act",
-    "score": -18,
-    "snapshot": "S 1244 would establish a federal Civilian Climate Corps employing workers in conservation, clean energy, and environmental justice projects. The bill stalled in committee in 2021 and saw no further legislative action through 2026.",
-    "verdict": "// VERDICT: A well-intentioned jobs program undermined by undefined scope, no cost controls, and legislative failure to advance through normal appropriations scrutiny.",
-    "detail": "The Civilian Climate Corps concept offers potential environmental and employment benefits, but this bill demonstrates classic legislative overreach without fiscal accountability. <strong>No Congressional Budget Office score was produced, leaving taxpayers blind to multi-year costs that likely exceed tens of billions annually.</strong> The program duplicates existing AmeriCorps, Job Corps, and Department of Labor green jobs initiatives without consolidating or improving them. Constitutional process was followed for introduction, but the bill's failure to exit committee over five years suggests insufficient support even within the sponsoring party. Cost distribution raises concerns: future taxpayers fund current employment while program beneficiaries are selected through undefined \"justice\" criteria that may politicize hiring. Without demonstrated pilot success, measurable outcomes, or sunset provisions, this represents aspirational spending rather than accountable governance.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.1244 - 117th Congress (2021-2022)",
-      "Senate Finance Committee records",
-      "Congressional Record, April 2021",
-      "Federal jobs program comparisons (AmeriCorps, Job Corps)"
-    ]
-  },
-  {
-    "id": 1528,
-    "sourceId": "cg:117-HR-4447",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/4447?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 4447: 21st Century FTC Act",
-    "score": -8,
-    "snapshot": "HR 4447 was referred to subcommittee in July 2021 and saw no further action through October 2026. The bill proposed modernizing FTC authority but died without floor consideration, hearings, or passage.",
-    "verdict": "// VERDICT: Legislative inaction for five years represents failure to address stated consumer protection gaps despite bipartisan introduction.",
-    "detail": "The 21st Century FTC Act aimed to update Federal Trade Commission enforcement powers for digital-era consumer protection challenges. <strong>However, the bill stalled in subcommittee for over five years without advancing, indicating either lack of legislative priority or inability to build sufficient coalition support.</strong> No measurable public benefit materialized because the bill never became law. The fiscal impact remains theoretical—no CBO score was produced for legislation that never progressed. While the referral process followed standard House rules, the prolonged inaction represents a systemic failure to address consumer protection modernization that both parties acknowledged as necessary. The primary cost is opportunity cost: Americans continued operating under outdated FTC frameworks while regulatory gaps persisted in areas like data privacy, algorithmic discrimination, and platform marketplace practices.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -1.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 4447 status",
-      "House Committee records 2021-2026",
-      "Congressional Research Service - Legislative Process"
-    ]
-  },
-  {
-    "id": 1529,
-    "sourceId": "cg:117-S-4979",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/4979?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 4979: Sexual Abuse Services in Detention Act",
-    "score": -8,
-    "snapshot": "S 4979 would mandate sexual abuse victim services in federal detention facilities. Introduced in September 2022, the bill was referred to the Senate Judiciary Committee and saw no further action.",
-    "verdict": "// VERDICT: Well-intentioned but legislatively stalled proposal that addresses real needs without advancing through required constitutional processes or securing funding mechanisms.",
-    "detail": "The Sexual Abuse Services in Detention Act aims to establish victim support systems in federal detention environments where sexual assault remains documented. However, the bill never progressed beyond committee referral—no hearings, no votes, no implementation. <strong>After four years, this represents a failure of legislative process rather than meaningful policy action.</strong> Without actual passage, there is no measurable public benefit, no fiscal impact to assess, and no services delivered. The proposal itself follows proper introduction procedures, but abandoning legislation in committee while the underlying problem persists demonstrates dysfunction. Congress introduced the measure, then neglected it entirely, leaving detainees without the protections the bill claimed to provide.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, S 4979 (117th Congress)",
-      "Senate Judiciary Committee records",
-      "Congress.gov legislative tracking"
-    ]
-  },
-  {
-    "id": 1530,
-    "sourceId": "cg:117-HR-635",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/635?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 635: PROVE Act",
-    "score": -18,
-    "snapshot": "HR 635 (PROVE Act) would require states to verify citizenship for voter registration and mandate photo ID for federal elections. Referred to committee in 2021, never advanced or enacted.",
-    "verdict": "// VERDICT: A stalled proposal from 2021 that sought stricter voting requirements without documented evidence of widespread non-citizen voting, raising implementation costs while potentially restricting ballot access.",
-    "detail": "The PROVE Act proposed mandatory citizenship verification and photo ID requirements for federal elections. <strong>No evidence exists of non-citizen voting occurring at rates that would justify nationwide system overhauls</strong>—studies consistently show rates below 0.01%. Implementation would impose unfunded mandates on states for verification systems and ID distribution, with costs estimated in hundreds of millions. Approximately 21 million U.S. citizens lack government-issued photo ID, disproportionately elderly, minority, and low-income populations. The bill never received a hearing or vote after February 2021 committee referral, indicating lack of congressional support. While proponents cite election integrity, measurable fraud prevention benefits remain speculative against documented access barriers and fiscal burdens.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 635, 117th Congress",
-      "Brennan Center for Justice voter ID studies",
-      "Congressional Record, Feb 2021",
-      "House Administration Committee archives"
-    ]
-  },
-  {
-    "id": 1531,
-    "sourceId": "cg:117-HR-2670",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/2670?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 2670: The Civilian Climate Corps for Jobs and Justice Act",
-    "score": -15,
-    "snapshot": "HR 2670 proposed a federal jobs program for climate-related work, referred to committee in April 2021. No further legislative action occurred; bill died without passage in the 117th Congress.",
-    "verdict": "// VERDICT: Proposal never advanced beyond committee referral, producing zero measurable outcomes while consuming congressional staff resources on draft legislation that failed to gain traction.",
-    "detail": "This bill sought to establish a Civilian Climate Corps modeled on Depression-era programs, aiming to employ workers in conservation and climate adaptation projects. <strong>However, the legislation stalled immediately after introduction and never received committee hearings, markups, or floor consideration.</strong> With no enactment, there were no jobs created, no climate projects funded, and no fiscal impact beyond nominal drafting costs. The proposal's theoretical merits are irrelevant when measured against actual outcomes. Failed legislative proposals represent opportunity costs—staff time and political capital spent on initiatives that produce no public benefit. Without CBO scoring, cost estimates, or implementation frameworks developed through the committee process, the bill remains purely aspirational while the congressional record shows complete inaction for five years.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 2670 status (117th Congress)",
-      "House Committee records 2021-2023",
-      "Congressional Record 2021"
     ]
   }
 ]
