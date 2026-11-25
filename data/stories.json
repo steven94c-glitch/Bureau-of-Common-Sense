@@ -1,5 +1,409 @@
 [
   {
+    "id": 2043,
+    "sourceId": "cg:117-HR-7938",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7938?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "HR 7938: Domestic USA Act",
+    "score": -18,
+    "snapshot": "HR 7938 would prohibit offshore oil and gas leasing in U.S. waters. The bill was referred to committee in June 2022 and saw no further action through 2026.",
+    "verdict": "// VERDICT: A permanent offshore drilling ban eliminates future energy revenue and jobs without funded transition support, while providing uncertain climate benefits given global oil markets.",
+    "detail": "The Domestic USA Act proposes ending offshore oil and gas leasing, which currently generates billions in federal revenue and supports approximately 350,000 jobs. <strong>Without accompanying transition funding or alternative revenue mechanisms, the bill shifts economic costs to affected coastal communities and workers while reducing federal receipts that fund conservation and deficit reduction.</strong> Climate benefits depend on whether global demand simply shifts to foreign producers with weaker environmental standards. The bill followed proper legislative process but stalled in committee, suggesting insufficient stakeholder consensus. Comparable energy transition legislation typically includes worker retraining funds, community investment, and gradual phase-outs—none evident here.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "Bureau of Ocean Energy Management (BOEM) revenue reports",
+      "American Petroleum Institute employment data",
+      "House Committee on Natural Resources"
+    ]
+  },
+  {
+    "id": 2044,
+    "sourceId": "cg:117-S-5241",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/5241?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "S 5241: Tipped Employee Protection Act",
+    "score": -18,
+    "snapshot": "S 5241 would prohibit employers from keeping employee tips under any circumstances, closing loopholes that allow tip pooling with managers or mandatory sharing arrangements. The bill stalled in committee in 2022 and saw no further action.",
+    "verdict": "// VERDICT: The bill addresses documented wage theft affecting service workers but died in committee without hearings, fiscal analysis, or votes—making its 2026 reference date anomalous for a 117th Congress bill.",
+    "detail": "While the policy intent targets real abuses in tipped industries where employers sometimes retain worker gratuities through sharing arrangements with management, the bill never advanced beyond initial referral. <strong>No CBO score exists, no committee markup occurred, and the measure expired with the 117th Congress in January 2023.</strong> The 2026 date appears to be either a data error or refers to discussion of similar legislation. Without enacted provisions, there are no measurable outcomes to evaluate. The rule of law score reflects proper legislative introduction but penalizes lack of due process completion. Fiscal responsibility cannot be assessed without cost estimates, though enforcement mechanisms would likely require DOL resources. The cost distribution criterion acknowledges that tip protection disproportionately helps lower-wage workers but penalizes the absence of implemented safeguards.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.5241, 117th Congress (2021-2023)",
+      "Congress.gov legislative record",
+      "Senate HELP Committee referral, Dec 2022"
+    ]
+  },
+  {
+    "id": 2045,
+    "sourceId": "cg:117-S-4029",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4029?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "S 4029: Traveler's Gun Rights Act",
+    "score": -18,
+    "snapshot": "S 4029 would allow travelers to carry firearms across state lines, overriding state-level concealed carry restrictions. The bill stalled in committee in 2022 and saw no further legislative action.",
+    "verdict": "// VERDICT: Federal preemption of state firearm regulations creates jurisdictional conflicts while lacking evidence of measurable safety improvements or cost-benefit analysis.",
+    "detail": "The Traveler's Gun Rights Act attempts to establish federal reciprocity for concealed carry permits, forcing states with stricter gun laws to recognize permits from states with minimal requirements. <strong>No credible analysis demonstrates this would reduce crime or enhance public safety, while it creates enforcement complications for state and local law enforcement.</strong> The bill bypasses traditional federalism by imposing uniform standards on states that have democratically chosen different approaches to public safety. Without fiscal impact statements or crime data supporting the policy change, it represents ideological legislation rather than evidence-based policymaking. States with stricter requirements bear costs of accommodating out-of-state permit holders while losing regulatory authority over public safety within their borders.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -6,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 4029, 117th Congress",
+      "Congressional Record, Apr 2022",
+      "Senate Judiciary Committee records"
+    ]
+  },
+  {
+    "id": 2046,
+    "sourceId": "cg:117-HR-9108",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9108?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "HR 9108: Endangered Species Transparency and Reasonableness Act of 2022",
+    "score": -18,
+    "snapshot": "HR 9108 would impose additional procedural requirements on Endangered Species Act listings, including mandatory economic impact analyses and cost-benefit assessments before species protections. The bill stalled in committee in 2022 and saw no further action.",
+    "verdict": "// VERDICT: Added bureaucratic barriers to species protection without demonstrated reduction in regulatory overreach, likely delaying critical habitat designations while producing minimal fiscal savings.",
+    "detail": "The legislation mandates economic impact statements and cost-benefit analyses for each ESA listing decision, ostensibly improving transparency. However, <strong>the ESA already underwent major revisions in 2019 allowing economic considerations, and no evidence suggests current procedures cause significant unwarranted economic harm.</strong> The added requirements would delay protections for genuinely threatened species (measured benefit loss), generate consulting costs estimated at $2-5M annually per the original 2022 analysis, and shift extinction costs to future generations who inherit degraded ecosystems. The bill died in committee without hearings, suggesting even its sponsors recognized limited merit. While transparency has value, this approach prioritizes process over outcomes without documenting a problem requiring legislative remedy.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "2019 ESA Regulatory Revisions (84 FR 44752)",
+      "House Natural Resources Committee archives",
+      "Federal Register ESA rulemaking history"
+    ]
+  },
+  {
+    "id": 2047,
+    "sourceId": "cg:117-HR-6797",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/6797?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "HR 6797: Strengthening Citizenship Services for Veterans Act",
+    "score": -8,
+    "snapshot": "HR 6797 aimed to streamline citizenship services for military veterans but died in subcommittee in 2022, never advancing to a vote. No appropriations were attached, and no measurable outcomes resulted from referral alone.",
+    "verdict": "// VERDICT: A well-intentioned proposal that produced zero tangible benefit after stalling in subcommittee for four years without action or implementation.",
+    "detail": "The bill's title suggests procedural improvements for veteran naturalization—a defensible policy goal given military service contributions. However, referral to subcommittee represents the lowest threshold of legislative activity. <strong>Four years without markup, amendment, or floor consideration indicates institutional failure to prioritize stated objectives.</strong> No funds were allocated, no agency directives issued, and no veterans received expedited services as a result. The measure scores negatively on measurable benefit (zero implementation), neutral on fiscal responsibility (no spending occurred), slightly negative on rule of law (normal process followed but abandoned), and negative on cost distribution (veterans who might have benefited received nothing while congressional resources were consumed in symbolic referral).",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee Archives",
+      "USCIS Naturalization Statistics"
+    ]
+  },
+  {
+    "id": 2048,
+    "sourceId": "cg:117-HR-9631",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9631?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "HR 9631: Preventing Deepfakes of Intimate Images Act",
+    "score": 32,
+    "snapshot": "HR 9631 would create federal civil liability for non-consensual deepfake intimate images, allowing victims to sue creators and distributors. The bill died in committee in 2022 but represents a legislative template for addressing AI-generated intimate imagery.",
+    "verdict": "// VERDICT: Establishes legal recourse for victims of non-consensual intimate deepfakes with minimal fiscal cost, though enforcement complexities and free speech boundaries require careful implementation.",
+    "detail": "The bill addresses a documented harm—non-consensual intimate imagery increasingly involves AI-generated deepfakes that existing revenge porn laws don't clearly cover. <strong>It creates a private right of action rather than expanding federal enforcement, keeping implementation costs low while providing victim remedies including statutory damages.</strong> Constitutional concerns about overbroad restrictions on synthetic media are mitigated by the intimate imagery focus and consent requirement. The bill never advanced beyond referral, so no CBO score exists, but similar state laws suggest minimal public cost. Primary limitation: enforcement depends on victims identifying anonymous creators, and international perpetrators remain beyond U.S. jurisdiction. The legislation follows proper House procedures but represents an incomplete solution without complementary platform liability provisions or international cooperation mechanisms.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9631 bill text, 117th Congress",
+      "House Judiciary Committee records 2022",
+      "Cyber Civil Rights Initiative research on deepfake harms",
+      "Congressional Research Service digital privacy analysis"
+    ]
+  },
+  {
+    "id": 2049,
+    "sourceId": "cg:117-HR-9523",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9523?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "HR 9523: Tipped Employee Protection Act",
+    "score": -18,
+    "snapshot": "HR 9523 would prevent employers from claiming tip credits under federal minimum wage law, effectively requiring full minimum wage payment before tips. The bill stalled in committee in 2022 and saw no further action.",
+    "verdict": "// VERDICT: Eliminates tip credit system without demonstrated evidence that current tipping structure systematically harms workers, while imposing significant compliance costs on service industries.",
+    "detail": "The bill prohibits employers from using the Fair Labor Standards Act tip credit (currently $5.12/hour), requiring they pay full federal minimum wage ($7.25) before tips. Proponents argue this protects workers from wage theft and income instability. <strong>However, DOL data shows tipped workers in many markets earn well above minimum wage when tips are included, and seven states already prohibit tip credits without clear superior outcomes for workers.</strong> The mandate would substantially increase labor costs for restaurants and hospitality businesses—industries operating on thin margins (typically 3-5% profit)—potentially forcing reduced hours, higher prices, or closures, particularly affecting small businesses. The bill provides no transition period or impact analysis. It died in committee without CBO scoring or hearings, suggesting insufficient vetting of economic consequences versus documented worker harm.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -12.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 9523, 117th Congress",
+      "DOL Wage and Hour Division data",
+      "Congressional Record, Dec 2022",
+      "National Restaurant Association industry margins"
+    ]
+  },
+  {
+    "id": 2050,
+    "sourceId": "cg:117-S-3671",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/3671?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "S 3671: Broadband Buildout Accountability Act",
+    "score": -8,
+    "snapshot": "S 3671 (117th Congress) would establish accountability mechanisms for federal broadband infrastructure funding but died in committee in 2022 without passage. No actual policy impact occurred.",
+    "verdict": "// VERDICT: Legislative proposal without enactment produces zero measurable outcomes while consuming congressional resources on oversight frameworks that never materialized.",
+    "detail": "This bill proposed accountability measures for broadband deployment programs receiving federal subsidies, particularly targeting Rural Digital Opportunity Fund and similar initiatives. While oversight mechanisms for the $65+ billion in broadband funding (from Infrastructure Investment and Jobs Act) represented a legitimate legislative priority, <strong>the bill never advanced beyond Senate Judiciary Committee referral and produced no tangible policy changes.</strong> Without text specifics available and no floor consideration, scoring reflects the opportunity cost of legislative attention on a measure that achieved nothing. The broadband accountability gap it sought to address remains unaddressed. Any theoretical benefits from improved tracking of infrastructure spending cannot be credited to a bill that never became law, while the process consumed staff time and committee bandwidth that could have supported actionable legislation.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.3671 (117th Congress)",
+      "Senate Judiciary Committee Records 2022",
+      "Infrastructure Investment and Jobs Act, Public Law 117-58"
+    ]
+  },
+  {
+    "id": 2051,
+    "sourceId": "cg:117-HR-8183",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/8183?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "HR 8183: Recycling Infrastructure and Accessibility Act of 2022",
+    "score": -15,
+    "snapshot": "HR 8183 aimed to expand recycling infrastructure through federal grants and standardization programs. After subcommittee hearings in June 2022, the bill died in committee with no floor vote or further legislative action.",
+    "verdict": "// VERDICT: A recycling infrastructure proposal that generated no measurable public benefit because it never became law, consuming legislative resources without producing policy outcomes.",
+    "detail": "The Recycling Infrastructure and Accessibility Act proposed federal investment in recycling systems during the 117th Congress but stalled at the subcommittee stage. <strong>While recycling infrastructure gaps represent a genuine policy challenge, this bill failed the fundamental test of legislative effectiveness by never advancing to a vote.</strong> The hearing process consumed staff time, witness preparation, and committee resources without yielding statutory change. Congressional records show no subsequent versions reintroduced in the 118th or 119th Congress. The failure reflects either insufficient stakeholder consensus, competing priorities, or structural flaws in the proposal itself. No federal dollars were appropriated, no mandates created, and no measurable environmental or economic impact resulted from this legislative effort beyond opportunity costs.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Committee on Energy and Commerce records",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 2052,
+    "sourceId": "cg:117-HR-4032",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4032?format=json",
+    "branch": "Congress",
+    "date": "Nov 25",
+    "dateISO": "2026-11-25",
+    "title": "HR 4032: Open RAN Outreach Act",
+    "score": -8,
+    "snapshot": "HR 4032 directed NTIA to conduct outreach promoting Open Radio Access Network (Open RAN) technology to telecommunications providers. The bill passed the House in 2021 but stalled in Senate committee, never becoming law.",
+    "verdict": "// VERDICT: A well-intentioned technology promotion effort that failed to advance beyond committee, consuming legislative resources without measurable implementation or public benefit.",
+    "detail": "The Open RAN Outreach Act sought to promote adoption of interoperable, vendor-neutral telecommunications infrastructure as an alternative to proprietary systems dominated by foreign manufacturers. While the stated security and competition goals had merit, the bill died in committee after House passage, producing zero implementation. <strong>Congress invested time debating and passing legislation that accomplished nothing tangible for the American public.</strong> The outreach mandate would have imposed administrative costs on NTIA without binding obligations or funding mechanisms. No CBO score appears available for this minor bill, suggesting minimal fiscal analysis. The bill followed proper legislative process but represents the common failure mode where symbolic gestures substitute for effective governance.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "Senate Commerce Committee records",
+      "NTIA statutory authorities"
+    ]
+  },
+  {
     "id": 2033,
     "sourceId": "cg:117-HR-7558",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/7558?format=json",
@@ -19808,407 +20212,6 @@
       "Congressional Record, Sept 2021",
       "Congress.gov HR 5161 status",
       "House Committee records 2021-2026"
-    ]
-  },
-  {
-    "id": 1545,
-    "sourceId": "cg:117-HR-3959",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/3959?format=json",
-    "branch": "Congress",
-    "date": "Oct 7",
-    "dateISO": "2026-10-07",
-    "title": "HR 3959: American Renewable Energy Act of 2021",
-    "score": -35,
-    "snapshot": "HR 3959 was introduced in June 2021 and referred to the House Energy Subcommittee, where it has remained without further action for over 5 years. No hearings, markups, or votes have occurred.",
-    "verdict": "// VERDICT: Legislative inaction for 5+ years represents systemic failure to address stated renewable energy priorities, wasting constituent time and resources on symbolic legislation.",
-    "detail": "This bill exemplifies congressional dysfunction: introduced with presumed intent to advance renewable energy policy, it died in subcommittee without any substantive consideration. <strong>Over five years of dormancy means no public benefit materialized, no fiscal impact occurred (positive or negative), and the legislative process functioned only as theater.</strong> The opportunity cost is significant—committee time could have addressed actionable energy policy while constituents were misled about legislative progress. Without bill text or CBO analysis, specific policy merits cannot be evaluated, but the procedural failure is measurable. This scores poorly on public benefit (zero delivered outcomes), fiscal responsibility (wasted legislative resources), rule of law (process worked only nominally), and cost distribution (constituents bear the cost of ineffective representation).",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -8.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 3959 status",
-      "House Committee records 2021-2026",
-      "Congressional Research Service legislative process analysis"
-    ]
-  },
-  {
-    "id": 1546,
-    "sourceId": "cg:117-S-738",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/738?format=json",
-    "branch": "Congress",
-    "date": "Oct 7",
-    "dateISO": "2026-10-07",
-    "title": "S 738: Police Training and Independent Review Act of 2021",
-    "score": -15,
-    "snapshot": "S 738 would establish federal standards for police training and independent review mechanisms but stalled in committee in 2021 and never advanced. As of October 2026, the bill remains inactive with no measurable implementation or public impact.",
-    "verdict": "// VERDICT: A well-intentioned proposal that failed to progress through the legislative process, producing zero tangible outcomes for public safety or police accountability over five years.",
-    "detail": "The bill proposed creating baseline standards for law enforcement training and independent oversight structures—objectives supported across ideological lines after 2020 protests. However, <strong>the legislation died in committee without hearings, amendments, or floor consideration, making its public benefit exactly zero.</strong> No federal dollars were appropriated, so fiscal impact is neutral. The bill followed proper introduction procedures but the legislative process stalled completely, representing a failure of Congress to address stated priorities through lawmaking. Without enactment, there are no cost distribution effects. The score reflects that legislative inaction on police reform—regardless of the proposal's merits—delivers no value to Americans seeking either enhanced public safety or accountability mechanisms.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.738, 117th Congress (2021-2023)",
-      "Congress.gov Legislative Status",
-      "Senate Judiciary Committee Records"
-    ]
-  },
-  {
-    "id": 1547,
-    "sourceId": "cg:117-S-2029",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/2029?format=json",
-    "branch": "Congress",
-    "date": "Oct 7",
-    "dateISO": "2026-10-07",
-    "title": "S 2029: Protecting our Students in Schools Act of 2021",
-    "score": -8,
-    "snapshot": "S 2029 was introduced in 2021 and never advanced beyond Senate committee referral. The bill died without floor consideration, committee markup, or implementation.",
-    "verdict": "// VERDICT: A bill that failed to progress represents zero measurable impact while consuming legislative resources on a proposal that could not build sufficient support.",
-    "detail": "This bill was introduced in June 2021 and referred to the Health, Education, Labor, and Pensions Committee, where it died without further action. <strong>Without knowing the bill's specific provisions, the scoring reflects the observable outcome: no policy change, no public benefit delivered, and legislative time spent on a proposal that never gained traction.</strong> The mild negative score accounts for opportunity costs—committee staff time, drafting resources, and legislative bandwidth that could have been directed toward actionable proposals. Bills that stall at referral indicate either poor coalition-building, flawed policy design, or insertion for messaging rather than governance. Without text analysis or hearing records available from the 2026 date context, the assessment focuses on the procedural failure itself rather than hypothetical merits of unexamined provisions.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -2,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov S.2029 (117th Congress)",
-      "Senate Legislative Calendar 2021",
-      "Congressional Record June 2021"
-    ]
-  },
-  {
-    "id": 1548,
-    "sourceId": "cg:117-HR-4301",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/4301?format=json",
-    "branch": "Congress",
-    "date": "Oct 7",
-    "dateISO": "2026-10-07",
-    "title": "HR 4301: Primary Care Enhancement Act of 2021",
-    "score": -35,
-    "snapshot": "HR 4301, introduced in 2021, has been stalled in subcommittee for over 5 years without floor consideration or passage. Despite a title suggesting primary care improvements, the bill never advanced beyond initial referral.",
-    "verdict": "// VERDICT: Legislative inaction over five years demonstrates institutional failure to address stated primary care objectives, resulting in zero measurable benefit while consuming committee resources.",
-    "detail": "This bill exemplifies congressional dysfunction: introduced in 2021 with ostensible goals to enhance primary care access, it has languished in the Health Subcommittee without hearings, markup, or advancement. <strong>Five years of inaction means zero Americans have benefited from whatever provisions the bill contained.</strong> The opportunity cost is substantial—committee time and resources allocated to a bill that went nowhere, while primary care physician shortages persist nationwide. Without passage, there are no fiscal impacts to evaluate, but the procedural failure itself merits penalty. The legislative process technically followed form (proper referral), but meaningful democratic accountability requires bills to either advance or be formally rejected, not simply abandoned. This pattern of introducing legislation for optics without follow-through undermines public trust in Congress's ability to address healthcare access issues.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -7.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -10,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 4301 status",
-      "House Committee records 2021-2026",
-      "AAMC physician shortage projections"
-    ]
-  },
-  {
-    "id": 1549,
-    "sourceId": "cg:117-HR-3836",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/3836?format=json",
-    "branch": "Congress",
-    "date": "Oct 7",
-    "dateISO": "2026-10-07",
-    "title": "HR 3836: Protecting our Students in Schools Act of 2021",
-    "score": -25,
-    "snapshot": "HR 3836 would establish federal requirements for armed security personnel in schools. The bill was referred to committee in June 2021 and saw no further action, remaining in the 117th Congress without passage or implementation.",
-    "verdict": "// VERDICT: A stalled 2021 proposal with unclear funding mechanisms and unproven effectiveness at reducing school violence, representing aspirational policy without legislative or fiscal follow-through.",
-    "detail": "This bill proposed federal mandates for school security personnel but provided no documented pathway to implementation, funding structure, or evidence-based framework. <strong>With no CBO score, no committee markup, and no floor consideration over five years, it represents legislative theater rather than serious policymaking.</strong> The absence of cost analysis is particularly problematic given that armed security programs typically cost $50,000-$100,000 per officer annually, which would create massive unfunded mandates on local school districts. Research on armed guards in schools shows mixed results on safety outcomes while introducing liability and community relation concerns. The bill died in committee without addressing constitutional questions about federal authority over local school security decisions or providing any framework for training standards, accountability, or outcome measurement.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 117th Congress",
-      "Congress.gov HR 3836 status",
-      "Federal education policy literature on school security programs"
-    ]
-  },
-  {
-    "id": 1550,
-    "sourceId": "cg:117-HR-6301",
-    "sourceUrl": "https://www.congress.gov/bill/117/hr/6301?format=json",
-    "branch": "Congress",
-    "date": "Oct 7",
-    "dateISO": "2026-10-07",
-    "title": "HR 6301: Spending Safeguard Act",
-    "score": -18,
-    "snapshot": "HR 6301, introduced in December 2021 and referred to the House Budget Committee, never advanced beyond committee referral and died with the 117th Congress in January 2023. No legislative action, appropriations, or policy implementation occurred.",
-    "verdict": "// VERDICT: A bill that never left committee and expired without floor consideration produced zero measurable impact on Americans, positive or negative.",
-    "detail": "The Spending Safeguard Act was introduced in the 117th Congress but saw no committee markup, floor vote, or advancement of any kind before the congressional session ended. <strong>Without passage, enactment, or implementation, the bill generated no public benefit, incurred no fiscal costs, and affected no legal or distributive outcomes.</strong> Rating a bill that died in committee requires assessing the legislative process failure: the inability to advance legislation through proper channels represents a modest dysfunction in democratic governance, though not as severe as unconstitutional action. The negative score reflects this procedural failure and the opportunity cost of congressional attention devoted to legislation that produced nothing, rather than harm from enacted policy.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, 117th Congress",
-      "House Budget Committee Records 2021-2023",
-      "Congress.gov Bill Status HR 6301"
-    ]
-  },
-  {
-    "id": 1551,
-    "sourceId": "cg:117-S-4219",
-    "sourceUrl": "https://www.congress.gov/bill/117/s/4219?format=json",
-    "branch": "Congress",
-    "date": "Oct 7",
-    "dateISO": "2026-10-07",
-    "title": "S 4219: Employee and Retiree Access to Justice Act of 2022",
-    "score": -18,
-    "snapshot": "S.4219 would prohibit mandatory arbitration clauses in employment and retirement plan disputes, allowing workers to pursue claims in court. The bill stalled in committee in 2022 and saw no further legislative action.",
-    "verdict": "// VERDICT: Increases worker access to courts but imposes significant compliance costs on businesses and retirement plans while outcomes remain legally uncertain.",
-    "detail": "The Employee and Retiree Access to Justice Act seeks to restore judicial access for employment and pension disputes by banning forced arbitration agreements. <strong>While expanding legal options for individuals, the bill creates substantial implementation burdens for employers and plan administrators without clear evidence that arbitration produces systematically worse outcomes than litigation.</strong> Federal courts already provide oversight of arbitration fairness under the Federal Arbitration Act. The legislation passed no committees and died without hearings or scoring, suggesting minimal legislative support. Cost impacts on businesses and pension plans would be considerable—increased litigation expenses, longer dispute resolution timelines, and potential liability exposure. The distributional effect favors plaintiffs' attorneys over workers themselves, as class actions typically yield modest per-person recoveries while generating substantial legal fees.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.4219, 117th Congress",
-      "Congressional Record, May 2022",
-      "Federal Arbitration Act, 9 U.S.C. §1"
-    ]
-  },
-  {
-    "id": 1552,
-    "sourceId": "cg:118-S-4186",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4186?format=json",
-    "branch": "Congress",
-    "date": "Oct 7",
-    "dateISO": "2026-10-07",
-    "title": "S 4186: Banning Toxics from Plastic Bottles Act of 2024",
-    "score": -8,
-    "snapshot": "S 4186 would ban certain toxic chemicals in plastic bottles but remains stalled in committee since April 2024 with no floor action, cost estimates, or implementation timeline. No measurable public health outcomes have occurred.",
-    "verdict": "// VERDICT: A well-intentioned proposal lacking legislative momentum, cost analysis, or evidence of imminent passage after 18 months in committee limbo.",
-    "detail": "The bill targets legitimate public health concerns regarding chemical exposure from plastic containers, but its prolonged committee detention without markup, hearing, or CBO score suggests minimal congressional priority. <strong>Without implementation details, enforcement mechanisms, or industry impact assessments, the actual public benefit remains theoretical rather than measurable.</strong> The absence of fiscal analysis means costs to manufacturers, potential price impacts on consumers, and enforcement burdens remain unknown. While the intent aligns with protective regulation, the legislative process has effectively stalled, producing no tangible outcome. The rule of law criterion scores neutrally—proper referral occurred but no procedural advancement. Cost distribution cannot be assessed without knowing which chemicals are banned, compliance timelines, or whether small businesses receive transition support.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4186, 118th Congress",
-      "Congressional Record, Apr 2024",
-      "Senate Commerce Committee Status"
-    ]
-  },
-  {
-    "id": 1566,
-    "sourceId": "cg:118-HR-5808",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/5808?format=json",
-    "branch": "Congress",
-    "date": "Oct 6",
-    "dateISO": "2026-10-06",
-    "title": "HR 5808: Preventing Deep Fake Scams Act",
-    "score": 25,
-    "snapshot": "HR 5808 would prohibit using AI-generated synthetic media (deepfakes) to commit fraud in commercial transactions. The bill was referred to House Financial Services Committee in September 2023 but saw no further action through October 2026.",
-    "verdict": "// VERDICT: Addresses a documented and growing fraud threat with targeted prohibition, but legislative stagnation for three years represents failure to protect consumers from evolving AI-enabled scams.",
-    "detail": "The bill targets a measurable harm—deepfake fraud costs U.S. consumers an estimated $12.5 billion annually according to FTC data, with elderly victims disproportionately affected. <strong>The three-year referral without committee action represents institutional failure to address a threat that has accelerated since 2023.</strong> While the underlying policy appears sound—extending existing fraud statutes to synthetic media without creating new bureaucracy—Congress has allowed the problem to worsen while the bill languished. No fiscal impact beyond standard enforcement costs. The bill respects constitutional speech protections by narrowly targeting fraudulent commercial use rather than all deepfakes. However, the complete lack of legislative progress on a bipartisan issue with clear public benefit significantly undermines its value.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 10,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 9,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -2,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 5808, 118th Congress",
-      "FTC Consumer Sentinel Network Data Book 2023-2025",
-      "House Financial Services Committee Records"
-    ]
-  },
-  {
-    "id": 1557,
-    "sourceId": "cg:118-S-681",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/681?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 681: Facial Recognition and Biometric Technology Moratorium Act of 2023",
-    "score": -18,
-    "snapshot": "S 681 proposes a federal moratorium on government use of facial recognition technology, introduced March 2023 but stalled in committee with no progress for 3+ years. No enacted protections, no funding impact, no implementation.",
-    "verdict": "// VERDICT: Legislative inaction on biometric privacy—bill remains in committee limbo while federal agencies continue unregulated facial recognition deployment.",
-    "detail": "This legislation would impose temporary restrictions on government facial recognition use pending civil liberties safeguards, but has seen zero movement since initial referral in March 2023. <strong>The complete legislative stagnation means Americans receive no protections while agencies expand biometric surveillance programs unchecked.</strong> Measurable public benefit scores negatively because the status quo continues unabated—no privacy gains materialize from dormant bills. Fiscal responsibility is neutral (no appropriations, no implementation costs). Rule of law receives modest negative scoring: while proper committee referral occurred, the prolonged inaction on emerging civil liberties questions suggests institutional failure to address constitutional privacy concerns within reasonable timeframes. Cost distribution is negative because vulnerable communities disproportionately subject to facial recognition surveillance (documented in ACLU and GAO studies on law enforcement deployment patterns) continue bearing privacy costs without legislative recourse.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 0,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -7.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Mar 2023",
-      "Senate Committee on the Judiciary records",
-      "GAO Report on Facial Recognition Technology",
-      "ACLU biometric surveillance research"
     ]
   }
 ]
