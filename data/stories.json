@@ -1,5 +1,411 @@
 [
   {
+    "id": 2033,
+    "sourceId": "cg:117-HR-7558",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7558?format=json",
+    "branch": "Congress",
+    "date": "Nov 24",
+    "dateISO": "2026-11-24",
+    "title": "HR 7558: Breastfeeding Mothers Jury Duty Exclusion Act of 2022",
+    "score": 23,
+    "snapshot": "HR 7558 would allow breastfeeding mothers to defer or be excused from federal jury duty. The bill stalled in subcommittee in 2022 and saw no further action.",
+    "verdict": "// VERDICT: A low-cost accommodation that reduces burden on nursing mothers while preserving jury pool integrity through temporary deferrals rather than permanent exemptions.",
+    "detail": "This legislation addresses a genuine hardship—breastfeeding mothers facing jury duty obligations that can interfere with infant feeding schedules and health. <strong>The measure scores well on public benefit by protecting maternal and infant health outcomes without permanently removing citizens from jury pools.</strong> Fiscally, the impact is negligible; administrative costs for processing deferrals are minimal compared to existing jury management systems. The bill follows standard legislative process through committee referral. Cost distribution is equitable—it removes a specific burden from nursing mothers without creating new taxpayer obligations or shifting costs to others. The primary weakness is that it never advanced beyond subcommittee, representing incomplete legislative action rather than implemented policy. Similar accommodations exist in many state jury systems, suggesting practical viability.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 8,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee referral records",
+      "State jury duty accommodation surveys"
+    ]
+  },
+  {
+    "id": 2035,
+    "sourceId": "cg:117-HR-7920",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7920?format=json",
+    "branch": "Congress",
+    "date": "Nov 24",
+    "dateISO": "2026-11-24",
+    "title": "HR 7920: Stealthing Act of 2022",
+    "score": -8,
+    "snapshot": "HR 7920 proposed federal civil remedies for victims of non-consensual condom removal during sexual activity. The bill stalled in subcommittee in 2022 and saw no floor action, appropriations, or implementation by November 2026.",
+    "verdict": "// VERDICT: A symbolic proposal addressing a legitimate harm that produced no measurable outcomes after four years of legislative inaction.",
+    "detail": "The Stealthing Act attempted to create federal civil liability for removing or damaging condoms without consent during intercourse. While the underlying issue represents a recognized form of sexual assault in several state jurisdictions, <strong>the bill died in subcommittee without hearings, votes, or any tangible impact on public safety or legal protections</strong>. No federal enforcement mechanism was created, no victims received remedies, and existing state laws remained the operative framework. The legislative effort consumed staff resources and committee time without advancing to markup or debate. Several states (CA, NY) already criminalized or created civil remedies for stealthing by 2022, rendering federal duplication questionable. Constitutional concerns about federalizing conduct typically regulated by states may have contributed to inaction.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee records, 2022",
+      "State legislative tracking (CA AB 453, 2021)",
+      "Federal Register (no entries for HR 7920)"
+    ]
+  },
+  {
+    "id": 2036,
+    "sourceId": "cg:117-S-4149",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/4149?format=json",
+    "branch": "Congress",
+    "date": "Nov 24",
+    "dateISO": "2026-11-24",
+    "title": "S 4149: Preventing Pretrial Gun Purchases Act",
+    "score": -18,
+    "snapshot": "S 4149 would prohibit firearm purchases by individuals under felony indictment. Introduced May 2022, referred to Judiciary Committee with no further action; bill died in the 117th Congress without passage or implementation.",
+    "verdict": "// VERDICT: Proposal remained purely theoretical with zero enacted impact, while raising significant constitutional concerns about due process restrictions on fundamental rights prior to conviction.",
+    "detail": "This bill proposed expanding firearm purchase prohibitions to include individuals under felony indictment, not just those convicted. <strong>The legislation never advanced beyond committee referral and produced no measurable public safety outcomes</strong>, scoring zero for concrete benefit. Constitutional scholars widely recognize pretrial rights restrictions as legally problematic under both Second and Fifth Amendment precedents, as indictment represents accusation without proven guilt. The proposal generated no fiscal analysis since it remained dormant. While proponents argued crime prevention benefits, the absence of data on indictees' firearm purchase rates or related incidents makes impact claims speculative. The bill's core premise—restricting constitutional rights based on accusation rather than conviction—fundamentally conflicts with due process principles regardless of stated safety intentions.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -11,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -3.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S.4149, 117th Congress",
+      "Congressional Record, May 2022",
+      "Fifth Amendment Due Process Clause",
+      "District of Columbia v. Heller, 554 U.S. 570"
+    ]
+  },
+  {
+    "id": 2042,
+    "sourceId": "cg:117-HR-7826",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/7826?format=json",
+    "branch": "Congress",
+    "date": "Nov 24",
+    "dateISO": "2026-11-24",
+    "title": "HR 7826: Pathways to Policing Act",
+    "score": -18,
+    "snapshot": "HR 7826 stalled in subcommittee in 2022 and never advanced. As of November 2026, no legislative action, funding allocation, or policy implementation has occurred.",
+    "verdict": "// VERDICT: A bill that died in committee four years ago produced zero measurable outcomes while consuming congressional resources during drafting and referral.",
+    "detail": "The Pathways to Policing Act was referred to subcommittee in November 2022 and saw no further action through two subsequent congressional sessions. <strong>Without passage, funding, or implementation, the bill generated no public benefit despite the legislative effort expended in its creation.</strong> The absence of floor votes or hearings suggests either insufficient support or prioritization failures. While the intent may have addressed law enforcement recruitment challenges, congressional time spent on bills that never advance represents opportunity cost—resources that could have addressed active policy needs. The referral-to-oblivion pattern reflects systemic inefficiency in the legislative process, where numerous bills consume staff time and member attention without producing law or accountability for their abandonment.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -4,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, 117th Congress",
+      "House Judiciary Committee records, 2022",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 2034,
+    "sourceId": "cg:117-S-1721",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1721?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "S 1721: Eric’s Law",
+    "score": -8,
+    "snapshot": "S 1721 'Eric's Law' was introduced in May 2021 and referred to Senate Judiciary, where it has remained without further action for over 5 years. No floor vote, committee markup, or passage has occurred.",
+    "verdict": "// VERDICT: A bill that stalled in committee for five years represents legislative inaction rather than measurable policy impact, consuming congressional resources without delivering outcomes.",
+    "detail": "Eric's Law has been dormant in the Senate Judiciary Committee since May 2021, with no recorded hearings, markups, or votes through November 2026. <strong>The extended legislative limbo means taxpayer resources supported staffing, research, and administrative overhead for a bill that produced zero enacted policy.</strong> Without knowing the bill's substantive provisions, we cannot assess intended benefits, but the procedural failure is clear: five years of inaction suggests either insufficient support, flawed drafting, or competing priorities that prevented advancement. This pattern—introduction without follow-through—contributes to public cynicism about congressional effectiveness. The bill followed proper introduction procedures but failed the basic legislative function of progressing toward resolution, whether passage or formal rejection.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -2,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -4,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1721 (117th Congress)",
+      "Senate Legislative Calendar 2021-2026",
+      "Congressional Record Vol. 167"
+    ]
+  },
+  {
+    "id": 2037,
+    "sourceId": "cg:117-S-1625",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1625?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "S 1625: Securing and Enabling Commerce Using Remote and Electronic Notarization Act of 2021",
+    "score": 32,
+    "snapshot": "S 1625 would establish federal standards for remote online notarization (RON), allowing notaries to verify identities and witness signatures via secure audio-video technology. The bill remained in Senate Judiciary Committee and did not advance to passage.",
+    "verdict": "// VERDICT: Federal RON standards would reduce transaction costs and enable interstate commerce while maintaining identity verification safeguards, though the bill stalled without enactment.",
+    "detail": "Remote online notarization technology enables legally binding document execution without physical presence, reducing costs and delays for real estate closings, estate planning, and business transactions. <strong>By establishing uniform federal standards, S 1625 would eliminate the current patchwork of state laws that creates compliance burdens for interstate transactions.</strong> The bill includes identity proofing requirements (credential analysis and knowledge-based authentication) and tamper-evident technology standards that maintain security comparable to in-person notarization. Economic benefits include reduced travel costs, faster transaction completion, and expanded access for rural or mobility-limited individuals. The legislation follows constitutional commerce clause authority and builds on state RON frameworks already operating in 40+ states by 2021. No federal spending required; implementation costs borne by private notary platforms. The bill's failure to advance represents a missed opportunity for efficiency gains, though states continue adopting RON independently.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 9.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 10,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 7.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "S. 1625, 117th Congress (2021)",
+      "Senate Judiciary Committee referral, May 2021",
+      "National Notary Association RON studies",
+      "State RON adoption data, 2021"
+    ]
+  },
+  {
+    "id": 2038,
+    "sourceId": "cg:117-HR-4046",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/4046?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 4046: NTIA Policy and Cybersecurity Coordination Act",
+    "score": 18,
+    "snapshot": "HR 4046 reorganizes NTIA's cybersecurity coordination role and establishes clearer lines of authority for internet policy development. The bill passed House committee in 2022 but stalled before floor vote.",
+    "verdict": "// VERDICT: Modest administrative improvement with minimal fiscal impact, clarifying overlapping federal cybersecurity responsibilities without resolving fundamental coordination challenges.",
+    "detail": "The NTIA Policy and Cybersecurity Coordination Act addresses bureaucratic overlap in federal internet governance by consolidating reporting requirements and establishing clearer coordination protocols between NTIA, CISA, and other agencies. <strong>The legislation creates modest efficiency gains by reducing duplicative cybersecurity assessments across Commerce Department units.</strong> However, it largely rearranges existing responsibilities rather than introducing new capabilities or resources. The bill's scope is limited to internal federal coordination, with minimal direct impact on public cybersecurity posture. No significant appropriations are required beyond existing NTIA budgets. The measured approach follows proper legislative process through House Energy and Commerce Committee review, though the two-year delay between committee action and calendar placement suggests low legislative priority. Cost distribution is neutral, as this is primarily an organizational restructuring within existing federal operations.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 6,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 5.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": 2,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 4046, 117th Congress",
+      "House Calendar No. 487 (Dec 2022)",
+      "NTIA Organizational Act",
+      "House Energy and Commerce Committee Report"
+    ]
+  },
+  {
+    "id": 2039,
+    "sourceId": "cg:117-S-1108",
+    "sourceUrl": "https://www.congress.gov/bill/117/s/1108?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "S 1108: Keep Americans Safe Act",
+    "score": -18,
+    "snapshot": "S.1108 would ban manufacture and sale of magazines holding more than 10 rounds of ammunition. The bill stalled in committee in 2021 and saw no floor action through end of 117th Congress.",
+    "verdict": "// VERDICT: Proposal failed to advance beyond committee, producing no measurable impact on gun violence, crime rates, or public safety while generating Constitutional debate.",
+    "detail": "The Keep Americans Safe Act sought to restrict high-capacity magazines nationwide, with proponents citing mass shooting reduction and opponents raising Second Amendment concerns. <strong>The bill never received committee markup, floor votes, or CBO scoring, rendering any public safety benefit theoretical rather than realized.</strong> Without passage, there was zero fiscal impact and no enforcement mechanism. The legislative process was followed appropriately (committee referral), but lack of movement suggests insufficient consensus on efficacy and constitutionality. Magazine capacity restrictions remain empirically contested in peer-reviewed literature, with studies showing mixed results on crime reduction. The proposal generated political debate but no concrete policy change, law enforcement guidance, or documentable outcome for American safety.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -6.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": 0,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -6.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congress.gov S.1108 (117th Congress)",
+      "Senate Judiciary Committee Records 2021",
+      "Congressional Research Service: Magazine Capacity Legislation"
+    ]
+  },
+  {
+    "id": 2040,
+    "sourceId": "cg:117-HR-9207",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/9207?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 9207: Keep Americans Safe Act",
+    "score": -18,
+    "snapshot": "HR 9207 would ban the import, sale, manufacture, transfer, or possession of magazines holding more than 10 rounds of ammunition. The bill was referred to committee in October 2022 and saw no further action.",
+    "verdict": "// VERDICT: A magazine capacity restriction that produced no documented implementation or measurable outcomes, with uncertain constitutional standing and enforcement mechanisms left unaddressed.",
+    "detail": "The Keep Americans Safe Act proposed limiting ammunition magazine capacity to 10 rounds, with grandfathering provisions for existing owners. <strong>The bill died in committee without hearings, markups, or cost estimates, generating zero legislative or policy impact.</strong> Proponents cite reduced casualties in mass shootings where reloading creates intervention opportunities; opponents argue constitutional concerns under District of Columbia v. Heller and minimal effect given 100+ million existing high-capacity magazines in circulation. Without CBO scoring, enforcement cost estimates, or compliance projections, the fiscal and practical implications remain speculative. Similar state-level bans show mixed results on violent crime reduction. The bill followed standard legislative process but advanced no further than initial referral.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": -3.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -5,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": 1,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -10.5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "Congressional Record, HR 9207 (Oct 2022)",
+      "District of Columbia v. Heller, 554 U.S. 570",
+      "RAND Corporation firearms policy research",
+      "Congress.gov legislative tracking"
+    ]
+  },
+  {
+    "id": 2041,
+    "sourceId": "cg:117-HR-214",
+    "sourceUrl": "https://www.congress.gov/bill/117/hr/214?format=json",
+    "branch": "Congress",
+    "date": "Nov 23",
+    "dateISO": "2026-11-23",
+    "title": "HR 214: Daylight Act",
+    "score": -8,
+    "snapshot": "HR 214 would make Daylight Saving Time permanent year-round, eliminating the biannual clock changes. The bill stalled in subcommittee in 2021 and saw no further legislative action.",
+    "verdict": "// VERDICT: Minimal measurable public benefit with modest implementation costs and questionable adherence to standard legislative process for a measure affecting all Americans.",
+    "detail": "While permanent DST addresses public annoyance with clock changes and some studies suggest reduced traffic accidents during evening daylight hours, <strong>the evidence for significant health or economic benefits remains mixed and contested within the scientific community.</strong> The American Academy of Sleep Medicine opposes permanent DST, favoring permanent standard time instead, citing circadian rhythm disruption. Fiscal impact is minimal but non-zero (updating federal systems, coordinating with states). The bill's referral to subcommittee without hearings or expert testimony represents incomplete vetting of a nationwide policy change. Cost distribution is relatively neutral, though health impacts may disproportionately affect shift workers and children attending school in winter darkness.",
+    "criteria": [
+      {
+        "label": "Measurable public benefit",
+        "score": 2.5,
+        "max": 12.5
+      },
+      {
+        "label": "Fiscal responsibility",
+        "score": -1,
+        "max": 12.5
+      },
+      {
+        "label": "Rule of law",
+        "score": -4.5,
+        "max": 12.5
+      },
+      {
+        "label": "Cost distribution",
+        "score": -5,
+        "max": 12.5
+      }
+    ],
+    "sources": [
+      "HR 214, 117th Congress",
+      "Congressional Record, Feb 2021",
+      "American Academy of Sleep Medicine position statement",
+      "Federal Register coordination requirements"
+    ]
+  },
+  {
     "id": 2023,
     "sourceId": "cg:117-HR-3962",
     "sourceUrl": "https://www.congress.gov/bill/117/hr/3962?format=json",
@@ -19803,413 +20209,6 @@
       "Senate Committee on the Judiciary records",
       "GAO Report on Facial Recognition Technology",
       "ACLU biometric surveillance research"
-    ]
-  },
-  {
-    "id": 1533,
-    "sourceId": "cg:118-HR-8623",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/8623?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 8623: PROVE Act",
-    "score": -8,
-    "snapshot": "HR 8623 (PROVE Act) would require documentary proof of citizenship for voter registration in federal elections. The bill was referred to committee in June 2024 and saw no further action.",
-    "verdict": "// VERDICT: Creates new voter registration barriers with uncertain election security benefit while imposing compliance costs on states and potentially disenfranchising eligible citizens who lack required documents.",
-    "detail": "The PROVE Act mandates documentary proof of citizenship (passport, birth certificate, naturalization papers) for federal voter registration, addressing concerns about non-citizen voting despite limited evidence of such fraud occurring at scale. <strong>The policy scores negatively on measurable benefit because documented cases of non-citizen voting are exceedingly rare, while implementation would create barriers for citizens who lack easy access to citizenship documents—disproportionately affecting elderly, rural, Native American, and low-income populations.</strong> Fiscal responsibility suffers from unfunded state compliance costs for verification systems. Rule of law considerations are mixed: while states have authority over election administration, federal mandates without funding mechanisms create intergovernmental tensions. Cost distribution is regressive, placing documentary burdens on populations least able to navigate bureaucracy while the security benefit remains speculative rather than evidence-based.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2024",
-      "Brennan Center analysis of voter registration barriers",
-      "GAO report on election administration costs",
-      "Federal Register election law guidelines"
-    ]
-  },
-  {
-    "id": 1534,
-    "sourceId": "cg:118-S-4181",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4181?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 4181: Federal Emergency Mobilization Accountability (FEMA) Workforce Planning Act",
-    "score": -18,
-    "snapshot": "S 4181 requires FEMA to submit annual workforce planning reports to Congress covering staffing needs, gaps, and recruitment strategies. The bill was held at the Senate desk in December 2024 with no further action as of October 2026.",
-    "verdict": "// VERDICT: Administrative reporting requirement with minimal fiscal impact but no demonstrated improvement in FEMA emergency response capacity after two years without implementation.",
-    "detail": "This legislation mandates standardized workforce planning reports from FEMA, theoretically improving congressional oversight of disaster response capabilities. However, the bill has languished without passage for nearly two years, suggesting either low priority or lack of perceived value. <strong>Even if enacted, reporting requirements alone rarely translate to measurable improvements in emergency response without accompanying funding mechanisms or enforcement provisions.</strong> The bill follows proper legislative process but adds bureaucratic burden without evidence it addresses actual FEMA operational deficiencies. Similar reporting mandates across federal agencies frequently result in compliance documents that gather dust rather than driving meaningful reform. The lack of cost estimates or implementation deadlines further weakens accountability.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -16.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 4181, 118th Congress",
-      "Senate Legislative Calendar 2024-2026",
-      "GAO: Federal Reporting Requirements Analysis",
-      "Congressional Record, Dec 2024"
-    ]
-  },
-  {
-    "id": 1535,
-    "sourceId": "cg:118-HR-9835",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/9835?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 9835: Sexual Abuse Services in Detention Act",
-    "score": 18,
-    "snapshot": "HR 9835 would require sexual abuse services for individuals in immigration detention facilities. As of September 2024, the bill was referred to committee with no further action, cost estimates, or implementation timeline established.",
-    "verdict": "// VERDICT: Addresses documented gap in detention facility services but lacks fiscal analysis or evidence of implementation feasibility.",
-    "detail": "Immigration detention facilities have documented deficiencies in medical and mental health services, including sexual abuse response protocols. <strong>The bill attempts to mandate services that align with constitutional requirements for humane detention conditions, but without accompanying appropriations or enforcement mechanisms, its practical impact remains uncertain.</strong> The proposal addresses a legitimate public health and human rights concern—sexual abuse in detention settings is well-documented by DHS OIG and advocacy organizations. However, the legislation provides no cost estimate, staffing requirements, or timeline for compliance. Without fiscal scoring or implementation details, the mandate risks becoming unfunded or unenforceable. The bill follows standard legislative process but its impact depends entirely on appropriations and regulatory follow-through that do not yet exist.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 2.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, HR 9835 (Sept 2024)",
-      "DHS Office of Inspector General detention reports",
-      "House Judiciary Committee referral"
-    ]
-  },
-  {
-    "id": 1536,
-    "sourceId": "cg:118-S-4461",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/4461?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 4461: PROVE Act",
-    "score": -18,
-    "snapshot": "S.4461 (PROVE Act) would require voters to provide proof of U.S. citizenship when registering to vote in federal elections. The bill was referred to committee in June 2024 and saw no further action through October 2026.",
-    "verdict": "// VERDICT: Creates new documentary barriers to voter registration without evidence of widespread non-citizen voting, risking disenfranchisement of eligible citizens who lack immediate access to citizenship documents.",
-    "detail": "The PROVE Act addresses a problem with minimal documented scope—studies consistently show non-citizen voting occurs at negligible rates (under 0.0001% of votes cast). <strong>Meanwhile, approximately 7-9% of eligible U.S. citizens lack ready access to citizenship documentation like birth certificates or passports, disproportionately affecting elderly, poor, and minority voters.</strong> The bill shifts costs to states for verification systems and to individual citizens who must obtain documents (birth certificates cost $15-50, processing takes weeks). While supporters frame this as election integrity, it follows constitutional process but solves a statistically insignificant problem while creating measurable barriers. The cost-benefit calculus is negative: minimal fraud prevention against documented disenfranchisement risk, with compliance costs borne by states and vulnerable populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 1,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -8.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S.4461, 118th Congress (2024)",
-      "Brennan Center for Justice, voter ID research",
-      "GAO Report GAO-14-634 on voter identification",
-      "Congressional Record, June 2024"
-    ]
-  },
-  {
-    "id": 1537,
-    "sourceId": "cg:118-S-1322",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/1322?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 1322: Unlocking Native Lands and Opportunities for Commerce and Key Economic Developments Act of 2023",
-    "score": 18,
-    "snapshot": "S 1322 streamlines federal approval processes for Native American tribes seeking to develop trust lands for commercial purposes, reducing bureaucratic delays while maintaining environmental and cultural protections. The bill aims to increase tribal economic self-determination by expediting lease approvals and land-into-trust applications.",
-    "verdict": "// VERDICT: Modest improvement in tribal sovereignty and economic opportunity through reduced administrative barriers, though implementation success depends on adequate agency staffing and tribal capacity.",
-    "detail": "The UNLOCK Act addresses longstanding complaints about slow federal approval processes that hamper economic development on tribal lands. <strong>By setting statutory deadlines for Interior Department decisions and creating streamlined pathways for certain commercial leases, the bill reduces government friction while preserving environmental review requirements.</strong> Fiscal impact is minimal—primarily administrative costs offset by reduced agency processing time. The approach respects tribal sovereignty by giving tribes more control over their trust lands. However, effectiveness hinges on whether BIA receives resources to meet new deadlines and whether tribes have capacity to utilize expedited processes. The bill passed Senate unanimously, suggesting broad acceptance of its balanced approach. No significant cost shifting occurs, though benefits accrue primarily to tribes with development-ready projects rather than addressing underlying infrastructure deficits on reservation lands.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S 1322, 118th Congress",
-      "Congressional Record, Senate passage 2024",
-      "Bureau of Indian Affairs trust land procedures",
-      "GAO tribal economic development reports"
-    ]
-  },
-  {
-    "id": 1538,
-    "sourceId": "cg:118-HR-1404",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/1404?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 1404: Facial Recognition and Biometric Technology Moratorium Act of 2023",
-    "score": -35,
-    "snapshot": "HR 1404 proposed a moratorium on government use of facial recognition and biometric technology. The bill was referred to committee in March 2023 and has seen no further action for over three years, effectively dying in committee without debate or vote.",
-    "verdict": "// VERDICT: A bill addressing legitimate privacy concerns was buried in committee without consideration, denying Americans substantive debate on government surveillance technology that affects civil liberties.",
-    "detail": "This legislative inaction scores poorly across multiple dimensions. <strong>The bill received no hearings, markups, or votes despite addressing government surveillance technologies that affect millions of Americans.</strong> While the merits of a blanket moratorium are debatable, the complete failure to advance any consideration represents a breakdown in legislative process. Privacy advocates and civil liberties organizations have raised documented concerns about facial recognition accuracy, disproportionate impact on minorities, and Fourth Amendment implications. Meanwhile, law enforcement agencies expanded biometric programs without congressional oversight. The referral to multiple committees created jurisdictional complexity, but 3+ years without action suggests deliberate burial rather than careful deliberation. Congress abdicated its duty to balance security needs against constitutional protections, leaving policy to executive agencies and courts by default.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -8,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -12,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -9,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, Mar 2023",
-      "House Committee on the Judiciary records",
-      "Congress.gov bill tracking",
-      "ACLU biometric surveillance reports 2023-2026"
-    ]
-  },
-  {
-    "id": 1539,
-    "sourceId": "cg:118-S-5543",
-    "sourceUrl": "https://www.congress.gov/bill/118/s/5543?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "S 5543: Fair Credit for American Hostages Act",
-    "score": 18,
-    "snapshot": "S 5543 provides credit reporting protections for Americans held hostage or wrongfully detained abroad, preventing negative marks during captivity and requiring bureaus to remove erroneous entries. The bill passed the Senate unanimously in December 2024 and awaits House action.",
-    "verdict": "// VERDICT: Addresses a clear injustice affecting hostages with negligible fiscal cost and strong legal foundation, though benefits apply to a small population.",
-    "detail": "This legislation corrects an obvious gap where Americans held against their will face financial ruin through no fault of their own. <strong>The bill requires credit bureaus to exclude adverse information accrued during verified periods of hostage detention or wrongful imprisonment, and mandates removal of such marks upon State Department certification.</strong> The financial burden on credit reporting agencies is minimal—compliance costs for perhaps dozens of cases annually. The measure follows established precedent from the Servicemembers Civil Relief Act and aligns with existing State Department hostage/detainee verification processes. Constitutional process was followed with Senate passage. The narrow beneficiary pool (typically 30-60 cases annually per State Department data) limits measurable public benefit, though impact on affected families is substantial. No cost shifting to taxpayers or vulnerable populations.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 4.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 4,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 3,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "S. 5543, 118th Congress",
-      "Congressional Record, Dec 2024",
-      "State Department hostage affairs data",
-      "Servicemembers Civil Relief Act precedent"
-    ]
-  },
-  {
-    "id": 1540,
-    "sourceId": "cg:118-HR-9539",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/9539?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 9539: To require the Administrator of the Federal Emergency Management Agency to reimburse public employee retirement systems for accidental disability retirements and accidental deaths resulting from the September 11, 2001 attacks on the World Trade Center.",
-    "score": 18,
-    "snapshot": "HR 9539 requires FEMA to reimburse public employee retirement systems for disability retirements and death benefits resulting from 9/11 World Trade Center attacks. Bill referred to subcommittee in September 2024, no cost estimate available as of October 2026.",
-    "verdict": "// VERDICT: Addresses legitimate 9/11-related obligations but lacks fiscal analysis after two years in committee without advancement or cost scoring.",
-    "detail": "The bill targets a specific, measurable harm—disability and death costs borne by local retirement systems from documented 9/11 responder health impacts. <strong>However, after 25 years since the attacks and two years since subcommittee referral, the absence of CBO scoring or legislative movement raises questions about scope, cost controls, and why existing 9/11 compensation mechanisms (Victim Compensation Fund, health monitoring programs) are insufficient.</strong> The principle of federal responsibility for federally-declared disaster response costs is sound, but without defined eligibility windows, cost caps, or coordination with existing 9/11 programs, fiscal impact remains unknown. The bill follows normal legislative process but shows no progress toward enactment. If costs are modest and well-defined, this could score higher; if open-ended, it risks duplicating existing federal 9/11 support programs.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": 6.5,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -1,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 8,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": 4.5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "HR 9539, 118th Congress",
-      "Congressional Record, 2024",
-      "September 11th Victim Compensation Fund (existing program)",
-      "FEMA Disaster Relief authorities"
-    ]
-  },
-  {
-    "id": 1541,
-    "sourceId": "cg:118-HR-3170",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/3170?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 3170: HELPER Act of 2023",
-    "score": -18,
-    "snapshot": "HR 3170 (HELPER Act of 2023) was referred to House Financial Services in May 2023 and died in committee without floor consideration, markup, or passage. No measurable public benefit occurred as the bill never became law.",
-    "verdict": "// VERDICT: A bill that never advanced beyond committee referral produced zero public benefit while consuming legislative resources during consideration.",
-    "detail": "The HELPER Act was introduced in the 118th Congress and referred to committee in May 2023, where it remained without further action through the end of that Congress. <strong>Bills that die in committee represent legislative effort expended without any tangible outcome for constituents.</strong> Without knowing the bill's specific provisions, scoring is limited to the objective reality: no law was enacted, no policy changed, and no measurable impact occurred. The legislative process functioned normally (committee referral per House rules), but the opportunity cost of drafting, introducing, and initially reviewing legislation that ultimately went nowhere represents a minor inefficiency. The lack of floor debate or markup suggests insufficient support or prioritization, which is a normal democratic filtering mechanism but still represents unproductive use of limited legislative bandwidth.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": 2,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -11,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congress.gov HR 3170 record",
-      "House Financial Services Committee calendar 2023",
-      "Congressional Record 118th Congress"
-    ]
-  },
-  {
-    "id": 1542,
-    "sourceId": "cg:118-HR-4324",
-    "sourceUrl": "https://www.congress.gov/bill/118/hr/4324?format=json",
-    "branch": "Congress",
-    "date": "Oct 5",
-    "dateISO": "2026-10-05",
-    "title": "HR 4324: 21st Century FTC Act",
-    "score": -18,
-    "snapshot": "HR 4324 (21st Century FTC Act) was referred to subcommittee in June 2023 and remains stalled with no further legislative action as of October 2026. No enacted provisions, no measurable impact.",
-    "verdict": "// VERDICT: A bill abandoned in subcommittee for over three years produces zero public benefit while consuming congressional resources that could address active policy needs.",
-    "detail": "This legislation has languished in the House Subcommittee on Innovation, Data, and Commerce for 40 months without advancement, hearings, or votes. <strong>Stalled bills represent opportunity costs—staff time, committee resources, and legislative bandwidth diverted from actionable priorities.</strong> Without bill text or substantive movement, there are no measurable outcomes for consumers, no fiscal impacts to evaluate, and no democratic process beyond initial referral. The extended inaction suggests either fundamental flaws in the proposal or lack of genuine legislative commitment. Congressional efficiency requires either advancing viable legislation or formally retiring dead proposals to allow focus on bills with realistic prospects of addressing FTC modernization or consumer protection gaps.",
-    "criteria": [
-      {
-        "label": "Measurable public benefit",
-        "score": -6,
-        "max": 12.5
-      },
-      {
-        "label": "Fiscal responsibility",
-        "score": -4,
-        "max": 12.5
-      },
-      {
-        "label": "Rule of law",
-        "score": -3,
-        "max": 12.5
-      },
-      {
-        "label": "Cost distribution",
-        "score": -5,
-        "max": 12.5
-      }
-    ],
-    "sources": [
-      "Congressional Record, June 2023",
-      "House Committee Referral Records",
-      "Congress.gov Bill Status HR 4324"
     ]
   }
 ]
